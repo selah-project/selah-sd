@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "ezra 2:66",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "سندن گهوڙا سَت سَو ٽيهه ۽ ڇھ هُيا؛ سندن خچر ٻه سَو چاليھ ۽ پنج.",
+  "tokens": [
+    {
+      "surface": "סוסיהם",
+      "gloss": "سندن گهوڙا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سَت"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "۽ ڇھ"
+    },
+    {
+      "surface": "פרדיהם",
+      "gloss": "سندن خچر"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سَو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليھ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "۽ پنج"
+    }
+  ],
+  "timestamp": "2026-08-30T14:02:40.604050583Z",
+  "model": "glm-5.3"
+}

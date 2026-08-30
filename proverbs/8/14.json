@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "مون وٽ ⟨آهي⟩ صلاح ۽ سُٺي سجاڳي؛ مان ⟨آهيان⟩ سمجهه، مون وٽ ⟨آهي⟩ طاقت.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "۽ سُٺي سجاڳي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجهه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "طاقت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:01.973546887Z",
+  "model": "glm-5.3"
+}

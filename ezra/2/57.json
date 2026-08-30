@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "ezra 2:57",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "شپھتياھ جا پٽ، حتيل جا پٽ، پوڪيرث-صبائيم جا پٽ، آمي جا پٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شپھتياھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "حتيل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "پوڪيرث"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "صبائيم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "آمي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:51.758093106Z",
+  "model": "glm-5.3"
+}

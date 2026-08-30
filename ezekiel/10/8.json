@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ڪروبن ۾ ماڻهوءَ جي هٿ جي صورت ڏسڻ ۾ آئي سندن پرن هيٺان.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏسڻ ۾ آئي"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "ڪروبن ۾"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "صورت"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ جي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺان"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "سندن پرن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:28:59.515510618Z",
+  "model": "glm-5.3"
+}

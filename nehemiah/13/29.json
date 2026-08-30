@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 13:29",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ياد رک کين، منهنجا ايلوهيم، ڪاهن جي بي عزتيءَ ۽ ڪاهن جي عھد ۽ ليويين جي عھد تي.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "ياد رک"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "منهنجا ايلوهيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "גאלי",
+      "gloss": "بي عزتيءَ"
+    },
+    {
+      "surface": "הכהנה",
+      "gloss": "ڪاهن جي"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "۽ عھد"
+    },
+    {
+      "surface": "הכהנה",
+      "gloss": "ڪاهن جي"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "۽ ليويين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:30.516375158Z",
+  "model": "glm-5.3"
+}

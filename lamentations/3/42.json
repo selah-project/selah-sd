@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "اسان سرڪشي ڪئي ۽ اسان باغي ڪيو؛ تون نه بخشيو.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "اسان"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "سرڪشي ڪئي"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "۽ باغي ڪيو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "بخشيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:52.787971542Z",
+  "model": "glm-5.3"
+}

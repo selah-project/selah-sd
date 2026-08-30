@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 30:3",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "جڏهن ڪو مڙس ياهوه کي نذر ڪري، يا قسم کائي پاڻ تي پابندي ٻڌي، ته پنهنجو لفظ نه ڀڃي؛ پنهنجي وات مان جيڪو نڪري، سڀ ڪري.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مڙس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "ידר",
+      "gloss": "نذر ڪري"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "قسم کائي"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "לאסר",
+      "gloss": "ٻڌڻ لاءِ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "پابندي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "پاڻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "ڀڃي"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "پنهنجو لفظ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "جيڪو نڪري"
+    },
+    {
+      "surface": "مפיו",
+      "gloss": "پنهنجي وات مان"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:03.426690231Z",
+  "model": "glm-5.3"
+}

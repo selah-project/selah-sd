@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "مان تنهنجي گهر مان ڪو ٻڪر نه کڻندس، نه تنهنجن قسمن مان بڪرا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "کڻندس"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "تنهنجي گهر مان"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ڪو ٻڪر"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "تنهنجن قسمن مان"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "بڪرا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:43.132059670Z",
+  "model": "glm-5.3"
+}

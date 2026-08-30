@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ چيائين: منھنجي جلال مونکي ڏيکار، منھنجي ٻاڌين.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "مونکي ڏيکار"
+    },
+    {
+      "surface": "נא",
+      "gloss": "منھنجي ٻاڌين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تنهنجي جلال"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "تنهنجي جلال"
+    }
+  ],
+  "timestamp": "2026-08-30T10:09:20.109419673Z",
+  "model": "glm-5.3"
+}

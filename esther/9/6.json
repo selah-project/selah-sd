@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ شوشن قلعي ۾ يهودين پنج سؤ ماڻهن کي ماري ۽ تباهه ڪيو.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "۽ شوشن ۾"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "قلعي"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ماريو"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "يهودين"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "۽ تباهه ڪيو"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:55:13.892496358Z",
+  "model": "glm-5.3"
+}

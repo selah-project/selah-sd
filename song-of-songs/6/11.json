@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 6:11",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "مان اخروٽ جي باغ ۾ لٿس، وادي جي ٻوٽن کي ڏسان، ڏسان ته انگورِي ٽڙيئي، انار ڦٽيئن.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "גנת",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "אגוז",
+      "gloss": "اخروٽ جي"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "مان لٿس"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ڏسان"
+    },
+    {
+      "surface": "באבי",
+      "gloss": "جي ٻوٽن (ڪَڪِرين) ۾"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "وادي جي"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ڏيان ته"
+    },
+    {
+      "surface": "הפרחه",
+      "gloss": "ٽڙيئي"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "انگورِي"
+    },
+    {
+      "surface": "הנצו",
+      "gloss": "ڦٽيئن"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "انار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:14.451814517Z",
+  "model": "glm-5.3"
+}

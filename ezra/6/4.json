@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "وڏن گول پٿرن جون ٽَيَّون ۽ ڪَٺَ جي ھڪ نئين تَرَ؛ ۽ خرچ بادشاهه جي گهر مان ڏنو وڃي.",
+  "tokens": [
+    {
+      "surface": "נדبכין",
+      "gloss": "ٽَيَّون"
+    },
+    {
+      "surface": "די",
+      "gloss": "جن جون"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پٿرن"
+    },
+    {
+      "surface": "گלל",
+      "gloss": "وڏن گول"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "۽ ھڪ تَر"
+    },
+    {
+      "surface": "די",
+      "gloss": "جن جي"
+    },
+    {
+      "surface": "אע",
+      "gloss": "ڪَٺَ جي"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "نئين"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "۽ خرچ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاهه جي"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "ڏنو وڃي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:02.354519010Z",
+  "model": "glm-5.3"
+}

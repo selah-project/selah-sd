@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "انهيءَ تي مون جاڳيو ۽ ڏٺم، ۽ مون جي ننڊ مون کي مٺي لڳي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "انهيءَ تي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "انهيءَ"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "مون جاڳيو"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "۽ ڏٺم"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "۽ مون جي ننڊ"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "مٺي لڳي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:16:40.801718535Z",
+  "model": "glm-5.3"
+}

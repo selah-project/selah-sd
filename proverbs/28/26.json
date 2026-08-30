@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "پنهنجي دل تي ڀاڙندڙ موڙهه آهي، پر جيڪو حکمت ۾ هلي ٿو، سو بچي ويندو.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "ڀاڙندڙ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "پنهنجي دل تي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "موڙهه"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "پر هلندڙ"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "حکمت ۾"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچي ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:07.702419827Z",
+  "model": "glm-5.3"
+}

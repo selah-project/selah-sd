@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ڇوته تون سندس مٿي تي انٻر گڏيندو، ۽ ياهوه تو کي بدلو ڀريندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "انٻر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "گڏيندو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سندس مٿي"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "۽ ياهوه"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بدلو ڀريندو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:30.245791701Z",
+  "model": "glm-5.3"
+}

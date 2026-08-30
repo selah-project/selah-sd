@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "numbers 7:59",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ سلامتي جي قرباني لاءِ: ٻه ڍور، پنج رڃ، پنج تڪا، پنج ھڪ سالن جا منڊا؛ ھي غملي ايل جو، پده صور جي پٽ جو، قربان ھو.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "۽ قرباني لاءِ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "سلامتي جي"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍور"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "رڃ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "تڪا"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "منڊا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربان"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "غملي ايل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "پده"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:43.457081562Z",
+  "model": "glm-5.3"
+}

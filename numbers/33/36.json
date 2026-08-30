@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 33:36",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ عَصيون گَبَر کان چڙهي ويا، ۽ منزل ڪيائون صين جي بيابان ۾ ⟨اھو⟩ قادش آهي.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "۽ چڙهي ويا"
+    },
+    {
+      "surface": "מעציון",
+      "gloss": "عَصيون کان"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "گَبَر"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "۽ منزل ڪيائون"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "צן",
+      "gloss": "سين"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اھو⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادش"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:50.506215088Z",
+  "model": "glm-5.3"
+}

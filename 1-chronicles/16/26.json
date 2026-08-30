@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ڇوته قومن جا سڀ معبود اوپرا ⟨آھن⟩؛ پر ياهوه ⟨את⟩ آسمانن کي خلقيو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "معبود"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومن جا"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "اوپرا (بت)"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "پر ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آسمانن"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "خلقيو"
+    }
+  ],
+  "timestamp": "2026-08-30T15:10:52.108542173Z",
+  "model": "glm-5.3"
+}

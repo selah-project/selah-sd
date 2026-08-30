@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 8:11",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ لاوي سڀني ماڻھن کي چُپ ڪري، چوڻ لاءِ: “خاموش ٿيو، ڇوته اڄ جو ڏينهن پاڪ آھي، ۽ دلگير نه ٿيو.”",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "۽ لاوي"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "چُپ ڪري"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني کي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    },
+    {
+      "surface": "הסו",
+      "gloss": "خاموش ٿيو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اڄ جو ڏينهن"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תעצבו",
+      "gloss": "دلگير ٿيو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:19.833424712Z",
+  "model": "glm-5.3"
+}

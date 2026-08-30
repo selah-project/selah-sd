@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "جو ڪنھن ماڻھوءَ کي ماري ۽ مري وڃي، تنھن کي موت سان ماريو وڃي.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "ماري"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ڪنھن ماڻھوءَ کي"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "۽ مري وڃي"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت سان"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ماريو وڃي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:41.666405009Z",
+  "model": "glm-5.3"
+}

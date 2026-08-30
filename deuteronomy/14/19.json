@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ريڙهندڙ سڀ کَکَڙِيو ۽ اُڏامندڙ، اُهو توهان لاءِ ناپاڪ آهي، کاڌو نه وڃن.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ريڙهندڙ کَکَڙِيو"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "اُڏامندڙ پکي"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کاڌو وڃن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:39.400101855Z",
+  "model": "glm-5.3"
+}

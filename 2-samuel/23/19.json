@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 23:19",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "تنهن ٽن مان سڀ کان معزز هو، ۽ ان جو انهن جو سردار ٿيو؛ پر پهرين ٽن تائين نه پهتو.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "تنهن ٽن"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "سڀ کان معزز"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن جو"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "پر تائين"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "پهرين ٽن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "پهتو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:26:09.090259831Z",
+  "model": "glm-5.3"
+}

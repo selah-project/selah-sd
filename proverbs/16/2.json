@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ماڻهوءَ جون سڀ رستا پنهنجي ننهن ۾ پاک ⟨آهن⟩، پر روحن کي توليندڙ ياهوه ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "رستا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ جون"
+    },
+    {
+      "surface": "זך",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "پنهنجي ننهن ۾"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "پر توليندڙ"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "روحن کي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:22.706472314Z",
+  "model": "glm-5.3"
+}

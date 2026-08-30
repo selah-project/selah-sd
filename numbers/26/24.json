@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "يشوب جو خاندان يشوبي، شمرون جو خاندان شمروني.",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "يشوب"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "يشوبي"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "شمرون"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "شمروني"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:51.878649246Z",
+  "model": "glm-5.3"
+}

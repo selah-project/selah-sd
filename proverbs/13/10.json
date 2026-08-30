@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "رڳو گھمنڊ کان جھيڙو پيدا ٿئي ٿو، پر صلاح ڪندڙن سان ⟨את⟩ حڪمت آھي.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "گھمنڊ کان"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "پيدا ٿئي ٿو"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "جھيڙو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حڪمت"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "صلاح ڪندڙن سان"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:46.149054349Z",
+  "model": "glm-5.3"
+}

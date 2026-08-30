@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 66,
+  "translation": "جن کي مون جون چپون کوليو ۽ منهنجي وات جو لفظ منهنجي تنگيءَ ۾ چيو.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جن کي"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "کوليو"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "مون جون چپون"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "۽ ... لفظ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منهنجي وات جو"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "تنگيءَ ۾"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منهنجي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:30.632852013Z",
+  "model": "glm-5.3"
+}

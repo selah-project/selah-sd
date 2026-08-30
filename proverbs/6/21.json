@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "کين پنھنجي دل تي هميشه ٻَڌ، کين پنھنجي گليءَ جي چوڌاري ٻَڌر.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "کين ٻَڌ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "پنھنجي دل"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "کين ٻَڌر"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي چوڌاري"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "پنھنجي گليءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:30.249696176Z",
+  "model": "glm-5.3"
+}

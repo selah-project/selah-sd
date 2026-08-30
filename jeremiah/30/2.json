@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "اھڙي فرمائي ڪئي ياهوه، اسرائيل جو ايلوهيم: لک ⟨את⟩ سڀ لفظ جنھن جو مان توکي چيو آھي، ھڪ ڪتاب ۾.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اھڙي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرمائي ڪئي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "جو ايلوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "لک"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنھن جو"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "مان چيو آھي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ھڪ ڪتاب"
+    }
+  ],
+  "timestamp": "2026-08-30T12:17:06.241881686Z",
+  "model": "glm-5.3"
+}

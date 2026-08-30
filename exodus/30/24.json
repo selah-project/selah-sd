@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ ڪشيہ پنج سئو، مقدس شيقل جي وزن سان؛ ۽ زيتون جو تيل ھڪ ھين؛",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "۽ ڪشيہ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سئو"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "شيقل جي وزن سان"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "۽ تيل"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زيتون جو"
+    },
+    {
+      "surface": "הין",
+      "gloss": "ھڪ ھين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:06:57.180214945Z",
+  "model": "glm-5.3"
+}

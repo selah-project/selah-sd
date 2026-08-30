@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 26:27",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "اهي زَبُولُني جا خاندان آهن، سندن ڳڻپ موجب: سِٺ هزار ۽ پنج سئو.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانن"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "زَبُولُني"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "سندن ڳڻپ موجب"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سِٺ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سئو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:38.027349866Z",
+  "model": "glm-5.3"
+}

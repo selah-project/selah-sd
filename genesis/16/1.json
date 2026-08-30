@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ ساراي، ابرام جي زال، کيس ڪو نه پيدا ڪيو، ۽ کيس هڪ ٻانهي هئي، متسريم جي، ۽ سندس نالو هگر هو.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "۽ ساراي"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "۽ کيس"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "ٻانهي"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "متسريم جي"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "۽ سندس نالو"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هگر"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:27.387371311Z",
+  "model": "glm-5.3"
+}

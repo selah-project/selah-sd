@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ يزرعيل، ۽ يقدعم، ۽ زانوah؛",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "۽ يزرعيل"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "۽ يقدعم"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "۽ زانوah"
+    }
+  ],
+  "timestamp": "2026-08-30T14:42:49.252583151Z",
+  "model": "glm-5.3"
+}

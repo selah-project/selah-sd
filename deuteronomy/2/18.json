@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "تون اڄ ⟨את⟩ موآب جي سرحد کي، ⟨את⟩ عار کي، پار ڪري رهيو آهين،",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "پار ڪري رهيو آهين"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موآب جي سرحد"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عار"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:07.629615763Z",
+  "model": "glm-5.3"
+}

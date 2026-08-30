@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇوته حكمت تنھنجي دل ۾ ايندي، ۽ علم تنھنجي نَفَش کي نهٺو ڪندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ايندي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمت"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "تنھنجي دل ۾"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "۽ علم"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "تنھنجي نَفَش کي"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "نهٺو ڪندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:23.201927976Z",
+  "model": "glm-5.3"
+}

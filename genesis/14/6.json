@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ⟨את⟩ حوريءَ کي سندن جبل شعير ۾، ايل پاران تائين، جيڪو بيابان تي آھي۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حوريءَ"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "حوريءَ"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "سندن جبل"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "شعير"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "پاران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بيابان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:29.441346636Z",
+  "model": "glm-5.3"
+}

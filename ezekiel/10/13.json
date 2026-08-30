@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 10:13",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "اوپڻن ڏانھن—تنھن کي منھنجي ٻڌ ۾ ھڪڙو سڏيو: ”ڳلڳل!“",
+  "tokens": [
+    {
+      "surface": "לאופנים",
+      "gloss": "اوپڻن ڏانھن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "تنھن کي"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "سڏيو ٿو"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ڳلڳل"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "منھنجي ٻڌ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:29:20.971337666Z",
+  "model": "glm-5.3"
+}

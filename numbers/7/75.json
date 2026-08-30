@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ ڏاند، ڍڳي جو پُٽ، ھڪ رام، ھڪ مينهن، ھڪ سال جو پُٽ، سوڙھ جي قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "پر",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳي"
+    },
+    {
+      "surface": "איל",
+      "gloss": "رام"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "مينهن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ھڪ سال جو"
+    },
+    {
+      "surface": "لעלה",
+      "gloss": "سوڙھ جي قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:24.504524518Z",
+  "model": "glm-5.3"
+}

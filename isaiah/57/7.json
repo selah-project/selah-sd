@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 57:7",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 57,
+  "translation": "اڏائي ۽ مٿانهين جابري تي تو پنهنجو بسترو رکيو؛ اُتي ئي تو قرباني ڪرڻ لاءِ چڙهيو.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جابري"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "اڏائي"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "۽ مٿانهين"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "تو رکيو"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "پنهنجو بسترو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "تو چڙهيو"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "قرباني ڪرڻ لاءِ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قرباني"
+    }
+  ],
+  "timestamp": "2026-08-30T12:03:53.572695841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "جڏهن تون پنهنجي پاڙيسري کي ڪا به قرض ڏيڻ وايون، ته سندس گهر ۾ داخل نه ٿجيءَ سندس گرو رکڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "قرض ڏيڻ وايون"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "پنهنجي پاڙيسري کي"
+    },
+    {
+      "surface": "משאت",
+      "gloss": "قرض"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ڪو به"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "داخل ٿجيءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "سندس گهر"
+    },
+    {
+      "surface": "لעבט",
+      "gloss": "گرو رکڻ لاءِ"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "سندس گرو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:58.090659094Z",
+  "model": "glm-5.3"
+}

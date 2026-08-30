@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "سڀ پاسا ٿي ويا، گڏجي گندا ٿيا؛ ڪوبه نيڪي ڪندڙ ناھي، ھڪ به ناھي.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "סר",
+      "gloss": "پاسا ٿي ويا"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏجي"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "گندا ٿيا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناھي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪندڙ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نيڪي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناھي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:28.422339538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "هڪ هٿ جهلي،ڏھن (شيڪل) سون جي، خوشبوءَ سان ڀريل.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "هٿ جهلي"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏھن"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ڀريل"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبوءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:03.981770411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "سجائو مٿاٽ ۽ ڍال، ۽ جنگ ڏانهن اڳتي وڌو.",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "سجائو"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "مٿاٽ"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "۽ ڍال"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "۽ اڳتي وڌو"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ ڏانهن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:22:24.773462069Z",
+  "model": "glm-5.3"
+}

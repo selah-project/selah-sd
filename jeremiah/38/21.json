@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ جيڪڏھن تون ٻاھر نڪرڻ کان انڪار ڪندين، ته هي ⟨هو⟩ لفظ آهي جيڪو ياهوه مڻ ڏنو مون کي،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "انڪار ڪندين"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "ٻاھر نڪرڻ کان"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "مڻ ڏنو مون کي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:21:04.386051797Z",
+  "model": "glm-5.3"
+}

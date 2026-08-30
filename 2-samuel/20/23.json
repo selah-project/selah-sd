@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 20:23",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ يوآب اسرائيل جي سڄي فوج تي ھو، ۽ بنايا، يهويدا جو پٽ، ڪريتن تي ۽ پليتن تي ھو.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "۽ يوآب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "۽ بنايا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "يهويدا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הכרי",
+      "gloss": "ڪريتن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "הפלתי",
+      "gloss": "پليتن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:23:48.767798695Z",
+  "model": "glm-5.3"
+}

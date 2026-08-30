@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "ڏسو، توهان سڀ يسرائيل جا پُٽ آهيو؛ هتي پاڻ لاءِ فيصلو ڪريو ۽ صلاح.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "توهان سڀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ڪريو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فيصلو"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "۽ صلاح"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "هتي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:04:52.422081844Z",
+  "model": "glm-5.3"
+}

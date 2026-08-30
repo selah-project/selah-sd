@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 108,
+  "translation": "گيت، مزمور، داوود جو.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:47.239034187Z",
+  "model": "glm-5.3"
+}

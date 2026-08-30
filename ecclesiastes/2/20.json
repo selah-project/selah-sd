@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "پوءِ آءٌ مڙيوس ۽ پنهنجي دل کي مايوس ڪرڻ لاءِ سج هيٺ سڀئي محنت تي، جا آءٌ محنت ڪئي هئي.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "پوءِ آءٌ مڙيوس"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "مايوس ڪرڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجي دل"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "پنهنجي دل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "جا آءٌ محنت ڪئي هئي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:36.860155534Z",
+  "model": "glm-5.3"
+}

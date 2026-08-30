@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 135,
+  "translation": "اِسرائيل جو گهر، ياهوه کي برڪت ڏيو؛ اهارون جو گهر، ياهوه کي برڪت ڏيو.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "جو گهر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائيل"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "برڪت ڏيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "جو گهر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "برڪت ڏيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:02.472923350Z",
+  "model": "glm-5.3"
+}

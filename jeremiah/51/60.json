@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "jeremiah 51:60",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 51,
+  "translation": "۽ جيرمياھو ⟨את⟩ سڀئي اوور جيڪا بابل تي ايندي، ھڪ ئي ڪتاب ۾ لکي، ⟨את⟩ سڀ ئي اھي لفظ جيڪي بابل بابت لکيا ويا آھن.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "۽ لکي"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "جيرمياھو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀئي اوور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "اوور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ايندي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ڪتاب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ ئي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀئي لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "הכתבים",
+      "gloss": "لکيا ويا آھن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-08-30T12:26:18.504840655Z",
+  "model": "glm-5.3"
+}

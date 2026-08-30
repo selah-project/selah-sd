@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ هر هڪ کي چار منهن ⟨هئا⟩، ۽ هر هڪ کي چار پر ⟨هئا⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "هر هڪ کي"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "هر هڪ کي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:26:00.508565163Z",
+  "model": "glm-5.3"
+}

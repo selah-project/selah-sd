@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 33:18",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ حصروت کان روانا ٿيا، ۽ رثمه ۾ خيمو کوڙيائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "مחצרת",
+      "gloss": "حصروت کان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيمو کوڙيائون"
+    },
+    {
+      "surface": "ברתמה",
+      "gloss": "رثمه ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:58.571121399Z",
+  "model": "glm-5.3"
+}

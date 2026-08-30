@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ڇت جي ڪنڊ تي ويهڻ چڱو آهي، جھيڙو ڪندڙ عورت ۽ سانڀري گهر جي ڀيٽ ۾.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ويهڻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "ڪنڊ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ڇت"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "جھيڙو ڪندڙ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ گهر"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "سانڀري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:04.953270529Z",
+  "model": "glm-5.3"
+}

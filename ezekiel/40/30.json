@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ چوڌار اپسيدون: سراسر پنجويھ ھٿ ڊگھيون ۽ پنج ھٿ ويڪريون.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "۽ اپسيدون"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌار"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌار"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊگھيون"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ھٿ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "۽ ويڪريون"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ھٿ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:01.643178213Z",
+  "model": "glm-5.3"
+}

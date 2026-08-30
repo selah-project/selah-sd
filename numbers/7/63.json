@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ ڏاند، ڍڳن جو پل، ھڪ رمل، ھڪ مينهون، پھرئين سال جو پل، سڙڪندڙ قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "پר",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پل"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳن جو"
+    },
+    {
+      "surface": "איל",
+      "gloss": "رمل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "مينهون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پل"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "پھرئين سال جو"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سڙڪندڙ قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:27.781102298Z",
+  "model": "glm-5.3"
+}

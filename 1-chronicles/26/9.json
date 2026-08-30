@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ مشلمياه کي پٽ ۽ ڀائر ٿيا، سگهارن پٽن جا مالڪ، اٺارھ.",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "۽ مشلمياه کي"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "۽ ڀائر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جا"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "سگهارن"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ارھ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:43.334186988Z",
+  "model": "glm-5.3"
+}

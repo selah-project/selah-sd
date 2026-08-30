@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 23:29",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ بِلاعَم چيو بالَق ڏي: مون لاءِ هتي ست قربانگاهون جوڙِ، ۽ مون لاءِ هتي ست ڏاند ۽ ست رَمَن کي تيار ڪر.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلاعَم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالَق"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوڙِ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "هتي"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "قربانگاهون"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "۽ تيار ڪر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "هتي"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "رَمَن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:53.667322996Z",
+  "model": "glm-5.3"
+}

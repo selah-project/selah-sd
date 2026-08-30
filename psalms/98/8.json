@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 98,
+  "translation": "دريا هٿ تاڙين، گڏيل جبل ڏيڍ ڳائين.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "دريا"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "تاڙين"
+    },
+    {
+      "surface": "כף",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "گڏيل"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ڏيڍ ڳائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:21.764954616Z",
+  "model": "glm-5.3"
+}

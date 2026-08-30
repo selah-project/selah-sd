@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 41:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ مان پنھنجي خواب ۾ ڏٺو، ۽ ڏسو، سَتَ ڪَنَ ۽ ڊانگن تي چڙھيا، ڀريل ۽ سٺا.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "۽ مان ڏٺو"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "پنھنجي خواب ۾"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سَتَ"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "ڪَنَ (اَن جا)"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "چڙھيا"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ڊانگن تي"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ڀريل"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "۽ سٺا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:49.593579330Z",
+  "model": "glm-5.3"
+}

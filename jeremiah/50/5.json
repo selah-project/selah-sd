@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 50:5",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "سيون جي رستي جي پڇڻ ڪن ٿا، هنڙي سندن منهن آهن: اچو ۽ چري وڃو ياهوه ڏانهن، هميشه جي عھد ۾، جيڪو نه وسارجي.",
+  "tokens": [
+    {
+      "surface": "ציון",
+      "gloss": "سيون"
+    },
+    {
+      "surface": "ישאלו",
+      "gloss": "پڇن ٿا"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هنڙي"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "سندن منهن"
+    },
+    {
+      "surface": "באו",
+      "gloss": "اچو"
+    },
+    {
+      "surface": "ונלוו",
+      "gloss": "۽ چري وڃو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عھد"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "وسارجي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:24:24.807324270Z",
+  "model": "glm-5.3"
+}

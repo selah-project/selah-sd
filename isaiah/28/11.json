@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ڇو ته ٽوڪيل ٿڌن سان ۽ ٻيءَ ٻوليءَ ۾ هو هن قوم سان ڳالهائيندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "ٽوڪيل"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ٿڌن سان"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "۽ ٻيءَ ٻوليءَ ۾"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ٻيءَ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ڳالهائيندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "هن قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:54:07.125013801Z",
+  "model": "glm-5.3"
+}

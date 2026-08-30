@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ پنهنجا ڪپڙا لاهي، ٻيا ڪپڙا پهرِي، ۽ ⟨את⟩ رک کي ڇانوڻي کان ٻاهر، پاڪ جاءِ ڏانهن کڻي ويندو.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "۽ لاهي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجا ڪپڙا"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "پنهنجا ڪپڙا"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "۽ پهرِي"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ڪپڙا"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻيا"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "۽ کڻي ويندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رک"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "رک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ڇانوڻي کان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:03.659308881Z",
+  "model": "glm-5.3"
+}

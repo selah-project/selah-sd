@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇوته موت ۾ تنهنجو يادگار ناهي، شيول ۾ ڪير تنهنجي تعريف ڪندو؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "במות",
+      "gloss": "موت ۾"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "تنهنجو يادگار"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "شيول ۾"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "تعريف ڪندو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:03.989030248Z",
+  "model": "glm-5.3"
+}

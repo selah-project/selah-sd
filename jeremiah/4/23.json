@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "مون ⟨את⟩ زمين ڏٺي ۽ ڏسو ٿو ته توھو ۽ بوھو آھي؛ ۽ آسمانن ڏانھن، ۽ انھن جو نور ناھي.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "مون ڏٺي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو ٿو ته"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "توھو"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "۽ بوھو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ڏانھن"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ناھي"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "انھن جو نور"
+    }
+  ],
+  "timestamp": "2026-08-30T12:07:48.050518411Z",
+  "model": "glm-5.3"
+}

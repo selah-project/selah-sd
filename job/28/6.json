@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 28:6",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ان جون پٿريون نيلم جي جاءِ آھن، ۽ ان ۾ سون جي مٽي آھي.",
+  "tokens": [
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "نيلم"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "ان جون پٿريون"
+    },
+    {
+      "surface": "ועפרת",
+      "gloss": "۽ مٽي"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:59.516904321Z",
+  "model": "glm-5.3"
+}

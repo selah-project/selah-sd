@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "انھن مان ياهوه جي گھر جي ڪم تي سربراھي لاءِ ويھ ۽ چار هزار،۽ منتظم ۽ قاضي ڇھ هزار.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "انھن مان"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "سربراھي لاءِ"
+    },
+    {
+      "surface": "عל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "۽ منتظم"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "۽ قاضي"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:30.819178991Z",
+  "model": "glm-5.3"
+}

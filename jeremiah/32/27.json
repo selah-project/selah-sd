@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "ڏسو، آئون ياهوه آھيان، ساري گوشت جو ايلوهيم — ڇا مون کان ڪوبه لفظ اوپرو ٿي سگھي ٿو؟",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آئون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "مون کان"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "اوپرو ٿي سگھي ٿو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:18:03.474214360Z",
+  "model": "glm-5.3"
+}

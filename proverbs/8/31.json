@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ان جي زمين جي آباد حصي ۾ کيڏندي، ۽ مون کا ماڻهن جي پُٽن سان ⟨את⟩ شغف.",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "کيڏندي"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "آباد دنيا ۾"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ان جي زمين جي"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "۽ شغف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماڻهن جي پُٽن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهن جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:20.708099641Z",
+  "model": "glm-5.3"
+}

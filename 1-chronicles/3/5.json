@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ اھي يروشلم ۾ کيس پيدا ٿيا: شمعا ۽ شوبب ۽ نتن ۽ شلومو — چار — بثِ-شوع، عمييل جي ڌيءَ مان.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "پيدا ٿيا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "يروشلم ۾"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شمعا"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "۽ شوبب"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "۽ نتن"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "۽ شلومو"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "بثِ-شوع مان"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "بثِ-شوع"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "عمييل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:52.255652670Z",
+  "model": "glm-5.3"
+}

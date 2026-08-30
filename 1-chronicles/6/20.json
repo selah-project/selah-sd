@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "صوپھ جو پُٽ، اِلقانہ جو پُٽ، ماحٿ جو پُٽ، عمساي جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "صوپھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اِلقانہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "ماحٿ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "عمساي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:00.452131718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "بصليت جا پٽ، محيدا جا پٽ، حرشا جا پٽ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "بصليت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "محيدا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "حرشا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:52.024436376Z",
+  "model": "glm-5.3"
+}

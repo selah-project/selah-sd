@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "هڪ سال جو پُٽ شاول هو پنهنجي بادشاهيءَ ۾، ۽ ٻه سال هن اسرائيل تي راج ڪيو.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "هڪ سال جو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "پنهنجي بادشاهيءَ ۾"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج ڪيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T11:09:38.842878831Z",
+  "model": "glm-5.3"
+}

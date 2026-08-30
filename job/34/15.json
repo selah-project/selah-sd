@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "سارو جسم گڏجي ساهه ڇڻيندو، ۽ ماڻهو مٽيءَ ۾ موٽندو.",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "ساهه ڇڻيندو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "جسم"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "گڏجي"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "۽ ماڻهو"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٽيءَ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "موٽندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:43:06.427035321Z",
+  "model": "glm-5.3"
+}

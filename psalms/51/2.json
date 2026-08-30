@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 51,
+  "translation": "جڏھن نبي ناتان وٽس آيو، جڏھن ھن بث شبع وٽ وڃي ڪيو.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "جڏھن آيو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "وٽس"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "בא",
+      "gloss": "وڃي ڪيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بث"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبع"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:55.529383453Z",
+  "model": "glm-5.3"
+}

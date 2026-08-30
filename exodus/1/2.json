@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "رئوبين، شمعون، لاوی ۽ يهودا.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبين"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "۽ يهودا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:46.365598595Z",
+  "model": "glm-5.3"
+}

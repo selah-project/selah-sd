@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ هن ٺاهيو قربانگاهه ڪانهه جو — ويھ ڳنٺ ⟨the⟩ ان جي ڊگھائي، ۽ ويھ ڳنٺ ⟨the⟩ ان جي ويڪر، ۽ ڏھ ڳنٺ ⟨the⟩ ان جي اوچائي.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ هن ٺاهيو"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانگاهه"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ڪانهه جو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ڳنٺ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ان جي ڊگھائي"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ڳنٺ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ان جي ويڪر"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "۽ ڏھ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ڳنٺ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ان جي اوچائي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:21:39.295750425Z",
+  "model": "glm-5.3"
+}

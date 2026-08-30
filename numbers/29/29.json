@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 29:29",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ ڇهين ڏينهن تي اٺ ڏاند، ٻه رمن، چوڏهن پاليندر، هڪ سال جا پٽ، بگهه کان سواءِ ٿلها.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "۽ ڇهين ڏينهن تي"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ڇهين"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "رمن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "پاليندر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "هڪ سال جا"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوڏهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏهن"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بگهه کان سواءِ ٿلها"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:28.195056876Z",
+  "model": "glm-5.3"
+}

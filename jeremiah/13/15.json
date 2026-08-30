@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ٻڌو ۽ ڪن لاءِ؛ وڏائي نه ڪريو، ڇوته ياهوه ڳالھ ڪئي آهي.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "۽ ڪن لاءِ (ڌيان ڏيو)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "وڏائي ڪريو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ ڪئي آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:11:51.125917599Z",
+  "model": "glm-5.3"
+}

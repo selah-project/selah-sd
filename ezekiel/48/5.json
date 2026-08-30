@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ مناشيه جي سرحد سان، اوڀر پاسي کان اولهه پاسي تائين، اِفرايم لاءِ ⟨هڪ⟩ حصو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ … سان"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مناشيه"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "پاسي کان"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "اوڀر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "اولهه"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرايم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ (حصو)"
+    }
+  ],
+  "timestamp": "2026-08-30T12:43:24.752488705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ ياهوه جي فرشتے آسمانن مان ابراهام کي ٻيڻ ڪري سڏيو.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ٻيڻ ڪري"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:08.789053608Z",
+  "model": "glm-5.3"
+}

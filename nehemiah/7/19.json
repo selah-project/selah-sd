@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "بگوي جي پٽن جو ٻه هزار سٺ (سَت)۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بگوي"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ٻه هزار"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٺ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "۽ ست"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:43.432236919Z",
+  "model": "glm-5.3"
+}

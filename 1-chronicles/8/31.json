@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ گدور، ۽ اهيو، ۽ زکر.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "۽ گدور"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "۽ اهيو"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "۽ زکر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:35.832628660Z",
+  "model": "glm-5.3"
+}

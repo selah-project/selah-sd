@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ لِياھ وري ٻار ٿي، ۽ يَعقُب لاءِ ڇهون پُٽ ڄڻيائين.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "۽ ٻار ٿي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِياھ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "۽ ڄڻيائين"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ڇهون"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "يَعقُب لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:48:08.777730349Z",
+  "model": "glm-5.3"
+}

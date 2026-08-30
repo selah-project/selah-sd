@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ تون انهن کي چوندين: ائين چوي ٿو ياهوه: ڇا ماڻهو ڊٺا ۽ نه اٿن؟ ڇا هو موٽي ٿو ۽ نه موٽندو؟",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ تون چوندين"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "ڇا ڊٺا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "اٿن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "موٽي ٿو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "موٽندو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:55:01.870457759Z",
+  "model": "glm-5.3"
+}

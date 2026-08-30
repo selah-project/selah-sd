@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ تون خوشيءَ سان پاڻي ڪڍندئين نجات جي چشمن مان.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "۽ تون ڪڍندئين"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "خوشيءَ سان"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "چشمن مان"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "نجات جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:33.386549617Z",
+  "model": "glm-5.3"
+}

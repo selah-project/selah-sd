@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "تہ ياهوه شلومو تي ٻيھري ڏٺو، جيئن اُھو گبون ۾ اُن تي ڏٺو ھو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ٻيھري"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ڏٺو ويو ھو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اُن تي"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "گبون ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:31:36.618785181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ خوشي ابشالوم کي چيو: نه سٺي ⟨آهي⟩ صلاح جا اهيتوپل صلاح ڏني هن ڀيري.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ خوشي چيو"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "خوشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ابشالوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "سٺي"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "صلاح ڏني"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "اهيتوپل"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "هن ڀيري"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:22:01.528934892Z",
+  "model": "glm-5.3"
+}

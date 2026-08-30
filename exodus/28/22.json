@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ تُو چوشن تي خالص سون جي ڳنڍيل زنجيرن جون ڳتيل ڪم واريون جوڙيون ٺاهيندو.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "۽ تُو ٺاهيندو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "چوشن"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "ڳنڍيل زنجيرن"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "ڳتيل"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "جوڙيون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جي"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-08-30T14:38:17.264517325Z",
+  "model": "glm-5.3"
+}

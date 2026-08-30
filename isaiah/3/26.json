@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 3:26",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ان جي دروازن سوگ ۽ ماتم ڪندو، ۽ ⟨هو⟩ اڻجڻِ زمين تي ويهي رهي.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "۽ سوگ مان"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "۽ ماتم ڪندو"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "ان جي دروازن"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "۽ اڻجڻِ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمين تي"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ويهي رهي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:16.077017459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "نيڪ ماڻهو غريب ماڻهن جو حق (انصاف) سڃاڻي ٿو؛ بدڪار سمجهه (علم) نه رکي ٿو.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "سڃاڻي ٿو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ ماڻهو"
+    },
+    {
+      "surface": "דין",
+      "gloss": "حق (انصاف)"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "غريب ماڻهن جو"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدڪار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سمجهه رکي ٿو"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:58.882789473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 3:18",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ان کان پوءِ سندن ڀائرن مضبوط ڪيو، بَوّي پٽ حندد جو، اڌ ضلعي قعيله جو سردار.",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "ان کان پوءِ"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "مضبوط ڪيا"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "سندن ڀائرن"
+    },
+    {
+      "surface": "בוי",
+      "gloss": "بَوّي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "حندد"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ادھ"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "ضلعي"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "قعيله"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:15.459791985Z",
+  "model": "glm-5.3"
+}

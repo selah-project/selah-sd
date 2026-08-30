@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ عاده ⟨את⟩ يابال کي ڄڻيو؛ هو خيمن ۾ رهندڙن ۽ مال جو ابو هو.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عاده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يابال"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "يابال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ابو"
+    },
+    {
+      "surface": "يשב",
+      "gloss": "رهندڙن"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمن ۾"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "۽ مال"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:43.020110646Z",
+  "model": "glm-5.3"
+}

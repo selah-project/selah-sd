@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "پوءِ ياهوه اسرائيل ۾ وبا موڪلي، ۽ اسرائيل مان ستر هزار ماڻهو ڪري پيا.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "پوءِ موڪلي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وبا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائيل ۾"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "۽ ڪري پيا"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "اسرائيل مان"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:33.273469461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "⟨את⟩ سڀ هي ڏٺم آهي، ۽ مون پنهنجو دل ڏني ⟨את⟩ سڀ ڪم تي جيڪي سج هيٺ ڪيا ويا آهن؛ هڪ اهڙو وقت به جنهن ۾ ماڻهو ماڻهو تي حڪم هلائي ٿو پنهنجي نقصان لاءِ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ هي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ڏٺم آهي"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "۽ ڏنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجو دل"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "پنهنجو دل"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀ تي"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ڪيا ويا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن ۾"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "حڪم هلائي ٿو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ماڻهو تي"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "نقصان لاءِ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پنهنجي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:55.770776184Z",
+  "model": "glm-5.3"
+}

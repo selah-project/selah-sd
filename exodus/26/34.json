@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ تون ⟨את⟩ ڪفوريت شاهدي جي صندوق تي رکيندين، مقدسن جي مقدس ۾.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "۽ تون رکيندين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪفوريت"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ڪفوريت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "شاهدي جي"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "مقدس ۾"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "مقدسن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:06:30.228208867Z",
+  "model": "glm-5.3"
+}

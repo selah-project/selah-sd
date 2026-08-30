@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "مان پاڻ zonhڻ ٿو askي غلط ثابت ٿيان؛ هي ڇو؟ بي فائدي ٿو پيا پريشان.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "مان"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "guilt ثابت ٿيان"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بي فائدي"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "پريشان ٿيان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:36:29.811304670Z",
+  "model": "glm-5.3"
+}

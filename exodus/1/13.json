@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "پوءِ متسرايم ⟨את⟩ يسرائيل جي پٽن کي بي رحميءَ سان ڪم ڪرايو.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ڪم ڪرايو"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرائيل جي پٽن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "بي رحميءَ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:29.712640187Z",
+  "model": "glm-5.3"
+}

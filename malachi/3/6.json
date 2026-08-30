@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڇاڪاڻ ته آئون ياهوه ⟨آھيان⟩، مون نه مٽايو، تنھنڪري اوھين يعقوب جا پٽ ختم نه ٿيا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آئون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "مون مٽايو"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "۽ اوھين"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب جا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "ختم ٿيا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:19.413422830Z",
+  "model": "glm-5.3"
+}

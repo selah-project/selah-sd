@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 140,
+  "translation": "مون ڄاڻيو آهي ته ياهوه دٻيل جو انصاف ڪندو، غريبن جو فيصلو ڪندو.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "مون ڄاڻيو آهي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "דין",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "עני",
+      "gloss": "دٻيل"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فيصلو"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "غريبن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:12.880635484Z",
+  "model": "glm-5.3"
+}

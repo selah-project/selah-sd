@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "اجڻ تائين ڪيتري مون کي جھنڊو ڏسڻو آھي، شوفار جي آواز ٻڌڻو آھي؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "اجڻ تائين"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ڪيتري"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ڏسڻو آھي"
+    },
+    {
+      "surface": "נס",
+      "gloss": "جھنڊو"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "ٻڌڻو آھي"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    }
+  ],
+  "timestamp": "2026-08-30T12:07:48.050069852Z",
+  "model": "glm-5.3"
+}

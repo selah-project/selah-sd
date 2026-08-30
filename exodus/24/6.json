@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ موشي ⟨את⟩ رت جو اڌ ورتي، ۽ ان کي طاسن ۾ رکيائين؛ ۽ رت جو اڌ قرباني گاهه تي اڇلائيائين.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ورتي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "adh"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "rt"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "rkhyaen"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "طاسن ۾"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "۽ اڌ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "rt"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "اڇلائيائين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قرباني گاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:04:57.128263451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "پوءِ يهوشوع اوچتو انهن وٽ پهچي ويو؛ سڄي رات هو گلگل کان مٿي چڙهي ويو.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "پهچي ويو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "انهن وٽ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اوچتو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "مٿي چڙهي ويو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "گلگل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:51:34.435058194Z",
+  "model": "glm-5.3"
+}

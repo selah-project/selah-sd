@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ بريعة جا پٽ: حبر ۽ ملكيئيل؛ ھو برزوث جو پيءُ ھو.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بريعة جا"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "حبر"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "۽ ملكيئيل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ھو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "برزوث"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:43.750384663Z",
+  "model": "glm-5.3"
+}

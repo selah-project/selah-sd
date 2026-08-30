@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پوءِ ياهوه جو لفظ يونه ڏانهن ٻي ڀيرو آيو، ايئن چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "پوءِ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "يونه"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ٻي ڀيرو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:50:23.076115746Z",
+  "model": "glm-5.3"
+}

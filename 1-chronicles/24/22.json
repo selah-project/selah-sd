@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "يِصهاري جي لاءِ: شَلوموت؛ شَلوموت جي پٽن مان يَحَت هُيو.",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "يِصهاري جي لاءِ"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "شَلوموت"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن مان"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "شَلوموت"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "يَحَت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:01.577784995Z",
+  "model": "glm-5.3"
+}

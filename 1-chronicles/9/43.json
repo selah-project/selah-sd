@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ موتسا ⟨את‬ بينعا کي پيدا ڪيو؛ ۽ رفايا سندس پٽ، ايلعاسا سندس پٽ، آتسل سندس پٽ۔",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "۽ موتسا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بينعا"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "بينعا"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "۽ رفايا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ايلعاسا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "آتسل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:17.684807259Z",
+  "model": "glm-5.3"
+}

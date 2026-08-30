@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "مٿس چيائين: “مون ⟨את⟩ سان گهر اچ ۽ ماني کاءُ.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اچ\/هل"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ مون سان"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "۽ کاءُ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    }
+  ],
+  "timestamp": "2026-08-30T11:32:40.826586372Z",
+  "model": "glm-5.3"
+}

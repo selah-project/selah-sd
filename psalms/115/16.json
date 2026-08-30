@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 115,
+  "translation": "آسمان ياهوه جا آهن، آسمان به؛ پر زمين کي ماڻهن جي پٽن کي ڏنو اٿس.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان به"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جا"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "پر زمين"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏنو اٿس"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "… جي پٽن کي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:41.414376728Z",
+  "model": "glm-5.3"
+}

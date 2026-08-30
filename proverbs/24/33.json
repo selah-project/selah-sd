@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ٿورو ننڊ، ٿورو اُجهامو، ٿورو ٻانهين جو ملڻ، لتي سمهڻ لاءِ —",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ٿورو"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ننڊ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ٿورو"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "اُجهامو"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ٿورو"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ملڻ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ٻانهين"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "لتي سمهڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:57.672244446Z",
+  "model": "glm-5.3"
+}

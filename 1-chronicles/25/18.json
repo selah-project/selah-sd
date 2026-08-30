@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 25:18",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "يارهون عزرائل، سندس پٽ ۽ سندس ڀائر، ٻارهن؛",
+  "tokens": [
+    {
+      "surface": "עשתי",
+      "gloss": "يارهون (يوڻ)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(۽ ڏهه)"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "عزرائل"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "۽ سندس ڀائر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻارهن (ٻه)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(۽ ڏهه)"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:10.765394772Z",
+  "model": "glm-5.3"
+}

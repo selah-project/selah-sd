@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ⟨את⟩ بنيادَ ٺاھيائين، ۽ ⟨את⟩ حوضَ ٺاھيائين بنيادن تي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "بنيادَ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "بنيادَ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاھيائين"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حوضَ"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "حوضَ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاھيائين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "بنيادن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:58.482938085Z",
+  "model": "glm-5.3"
+}

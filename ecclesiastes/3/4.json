@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "روئڻ جو وقت ۽ کِلڻ جو وقت؛ ماتم جو وقت ۽ نچڻ جو وقت:",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "روئڻ جو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "۽ وقت"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "کِلڻ جو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "ماتم جو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "۽ وقت"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "نچڻ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:23.868057582Z",
+  "model": "glm-5.3"
+}

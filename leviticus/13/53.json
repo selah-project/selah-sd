@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ جيڪڏهن ڪوهين ڏسي، ۽ هاڻي ڏسو، داغ ڪپڙي ۾ نه پکڙجيو آهي، نه ڪٺڻ ۾، نه پٽ ۾، ۽ نه ڪنهن چمڙي جي شيءِ ۾؛",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ڏسي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوهين"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ هاڻي ڏسو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پکڙجيو آهي"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ڪپڙي ۾"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "ڪٺڻ ۾"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "پٽ ۾"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ڪنهن به ۾"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "شيءِ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چمڙي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:19.149878199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "مبارڪ آھي اھو ماڻھو جيڪو ياهوه تي ڀاڙي ٿو، ۽ ياهوه ئي سندس ڀروسو آھي.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارڪ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "اھو ماڻھو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "ڀاڙي ٿو"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه تي"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "۽ آھي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "سندس ڀروسو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:12:32.833731667Z",
+  "model": "glm-5.3"
+}

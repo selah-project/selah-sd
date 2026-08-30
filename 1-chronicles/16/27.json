@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "هود ۽ هدار سندس اڳيان ⟨آهن⟩؛ عز ۽ خوشي سندس مقام ۾ ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "هود"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "۽ هدار"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "سندس اڳيان"
+    },
+    {
+      "surface": "עז",
+      "gloss": "عز"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "۽ خوشي"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "سندس مقام ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T15:11:36.437601143Z",
+  "model": "glm-5.3"
+}

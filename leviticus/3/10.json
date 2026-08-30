@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ⟨את⟩ ٻئي گردا ۽ ⟨את⟩ اُها چرٻي جيڪا انهن تي آهي، جيڪا کينن تي آهي، ۽ ⟨את⟩ جگر مٿان واري لوندي — گردن سان گڏ اُها ڌار ڪندو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ٻئي گردا"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "گردا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چرٻي"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چرٻي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "انهن تي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "کينن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لوندي"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "لوندي"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "جگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "سان"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ڌار ڪندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:57.039026019Z",
+  "model": "glm-5.3"
+}

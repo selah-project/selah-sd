@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 21:13",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "پوءِ ياهوه جو لفظ مون ڏانهن آيو، چوڻ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "پوءِ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون ڏانهن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:33:17.066131286Z",
+  "model": "glm-5.3"
+}

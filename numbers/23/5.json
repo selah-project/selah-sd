@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ ياهوه بلالم جي وات ۾ لفظ رکيو ۽ چيائين ته بلاڪ ڏانهن واپس موٽو ۽ اھئين ٻول.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "۽ رکيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "جي وات ۾"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلالم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "واپس موٽو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بلاڪ"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "۽ اھئين"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ٻول"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:45.959852517Z",
+  "model": "glm-5.3"
+}

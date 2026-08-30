@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ زerah جا پٽ: زمري ۽ ايتان ۽ هيمان ۽ ڪلڪول ۽ دَرا — سڀ پنج.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پٽ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زerah"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "زمري"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "۽ ايتان"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "۽ هيمان"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "۽ ڪلڪول"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "۽ دَرا"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:34.766173412Z",
+  "model": "glm-5.3"
+}

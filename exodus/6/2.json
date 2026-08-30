@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ايلوهيم موشيءَ سان ڳالهايو ۽ مٿس فرمايائين: مان ⟨آهيان⟩ ياهوه.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالهايو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيءَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فرمايائين"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:58:28.362671541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "nehemiah 7:71",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ جيڪو باقي ماڻهن ڏنو: سون جا درخم ٻه ربو، ۽ چانديءَ جا من ٻه هزار، ۽ ڪاهنن جون قميصون سٺ ۽ ست.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "۽ جيڪو"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "باقي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "דרכמונים",
+      "gloss": "درخم"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ربو"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "۽ چاندي"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "من"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ٻه هزار"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "۽ قميصون"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ڪاهنن جون"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٺ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "۽ ست"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:08.759150140Z",
+  "model": "glm-5.3"
+}

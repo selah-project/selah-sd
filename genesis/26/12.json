@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 26:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ يضحاق ان زمين ۾ پوکي، ۽ ان سال ۾ کيس سؤ ماپ مِلي، ۽ ياهوه کيس برڪت ڏني.",
+  "tokens": [
+    {
+      "surface": "ויזרע",
+      "gloss": "پوکي"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يضحاق"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "۽ مليس"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سال ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ماپ"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "۽ کيس برڪت ڏنيس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:06.856644081Z",
+  "model": "glm-5.3"
+}

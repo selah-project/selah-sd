@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "تون، ياهوه، هميشه تخت تي بيٺو آهين؛ تنهنجو تشت نسل کان نسل تائين آهي.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "تخت تي بيٺو آهين"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تنهنجو تخت"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل کان"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "نسل تائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:46.141833194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "پوءِ يعقوب بئرشبع مان نکتو ۽ حاران ڏانھن روانو ٿيو.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نکتو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "روانو ٿيو"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "حاران ڏانھن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:40.648422170Z",
+  "model": "glm-5.3"
+}

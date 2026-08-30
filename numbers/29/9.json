@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 29:9",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ انهن جي مڻج: چڱو اٽو تيل ۾ ملائي، ٽي ڏهاءِ بل لاءِ، ٽي ڏهاءِ هڪڙي دنبي لاءِ،",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "۽ انهن جي مڻج"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "چڱو اٽو"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "ملائي"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تيل ۾"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ڏهاءِ"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "بل لاءِ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ڏهاءِ"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "دنبي لاءِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪڙي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:54.821902032Z",
+  "model": "glm-5.3"
+}

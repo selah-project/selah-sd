@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 10:7",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "پوءِ يهوشعا گلگل کان مڃي ويو — هو پاڻ ۽ جنگ جو سڄو لشڪر سندس ساٿ ۾، ۽ سڀ بهادر جوان.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "مڃي ويو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشعا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "گلگل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو پاڻ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڄو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ جو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ساٿ ۾"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "بهادر"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "جوان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:01.795446731Z",
+  "model": "glm-5.3"
+}

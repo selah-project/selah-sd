@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ڌوڪي جا ترازو ياهوه لاءِ ڪريوَ آهن، ۽ پورو پٿر سندس پسند آهي.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "ترازو"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ڌوڪي جا"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ڪريوَ آهن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "۽ پٿر"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "پورو"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "سندس پسند آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:21.521539199Z",
+  "model": "glm-5.3"
+}

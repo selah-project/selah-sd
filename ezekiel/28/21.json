@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ماڻهوءَ جا پُٽ، پنهنجو منهن صيدون ڏانهن ڪر ۽ ان جي خلاف نبوٽ ڪر.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ جو"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ڪر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "پنهنجو منهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صيدون"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "۽ نبوٽ ڪر"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان جي خلاف"
+    }
+  ],
+  "timestamp": "2026-08-30T12:37:18.088312207Z",
+  "model": "glm-5.3"
+}

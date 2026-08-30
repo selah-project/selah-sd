@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ٻچا گِبّار جا، نوي ۽ پنج.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ٻچا"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "گِبّار"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نوي"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "۽ پنج"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:42.792357267Z",
+  "model": "glm-5.3"
+}

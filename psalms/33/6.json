@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ياهوه جي لفظ سان آسمان ٺھيا، ۽ سندس وات جي وس سان سندن سڀ لشڪر.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "لفظ سان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ٺھيا"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "۽ وس سان"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "سندس وات جي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "سندن لشڪر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:07.878095122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ اوريا جي زال ٻڌو ته سندس مڙس اوريا مري ويو آهي، ۽ پنهنجي مڙس تي سوگ ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "۽ ٻڌو"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اوريا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مري ويو آهي"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اوريا"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "سندس مڙس"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "۽ سوگ ڪيائين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "پنهنجي مڙس"
+    }
+  ],
+  "timestamp": "2026-08-30T11:20:20.024031078Z",
+  "model": "glm-5.3"
+}

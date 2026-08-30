@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 116,
+  "translation": "پنهنجا نذر ياهوه کي پورا ڪندس، هاڻي سندس سڀني ماڻهن جي اڳيان.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "پنهنجا نذر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "پورا ڪندس"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ماڻهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:36.445517456Z",
+  "model": "glm-5.3"
+}

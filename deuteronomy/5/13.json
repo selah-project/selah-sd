@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ڇھه ڏينھن تي تون پنھنجو سڄو ڪم ڪر ۽ پورو ڪرين،",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ڇھه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تون ڪم ڪرڻو"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "۽ پورو ڪرين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "پنھنجو ڪم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:38:19.310677574Z",
+  "model": "glm-5.3"
+}

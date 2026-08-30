@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "مون پاڻ لاءِ پاڻيءَ جا ڍٻ ٺاهيا، ته انهن سان ٻوڙن جو جهنگ سائين، جي وڻ ڦٽائي ٿو.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ٺاهيا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ڍٻَ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ جا"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ته سائين"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "انهن سان"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جهنگ"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "ڦٽائي ٿو"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "وڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:34.989647033Z",
+  "model": "glm-5.3"
+}

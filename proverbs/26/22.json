@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "چغلخور جا لفظ مٺاين ٿڳن جهڙا ⟨آهن⟩، ۽ اهي پيٽ جي اندرين ڪوٺين ۾ لهي وڃن ٿا.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "چغلخور جا"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "مٺاين ٿڳن جهڙا"
+    },
+    {
+      "surface": "והם",
+      "gloss": "۽ اهي"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "لهي وڃن ٿا"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ڪوٺين ۾"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "پيٽ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:12.155627762Z",
+  "model": "glm-5.3"
+}

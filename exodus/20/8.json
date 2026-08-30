@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "ياد رک ⟨את⟩ سبت جي ڏينهن کي، ان کي پاڪ ڪرڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ياد رک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڏينهن"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "سبت جي"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ان کي پاڪ ڪرڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:29.028413213Z",
+  "model": "glm-5.3"
+}

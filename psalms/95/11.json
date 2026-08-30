@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 95,
+  "translation": "تنهنڪري مان پنهنجي غصي ۾ قسم کنيو ته اهي مون جي آرام ۾ هرگز نه اچن.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "مان قسم کنيو"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "پنهنجي غصي ۾"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "اهي اچن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "مون جي آرام"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:04.434317865Z",
+  "model": "glm-5.3"
+}

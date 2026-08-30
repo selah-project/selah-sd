@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 29:8",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "نوجوان مون کي ڏسي لڪي ويا، ۽ پڙاڻا اُٿي بيٺا،",
+  "tokens": [
+    {
+      "surface": "ראוני",
+      "gloss": "مون کي ڏسي"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "ונחבאו",
+      "gloss": "۽ لڪي ويا"
+    },
+    {
+      "surface": "וישישים",
+      "gloss": "۽ پڙاڻا"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "اُٿي"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "بيٺا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:41:05.885323693Z",
+  "model": "glm-5.3"
+}

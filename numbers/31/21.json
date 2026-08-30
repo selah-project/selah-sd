@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 31:21",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ڪاهن ايلعازر جنگ ۾ آيل لشڪر جي ماڻهن کي چيو: اھو ئي تورات جو قانون آھي جيڪو ياهوه ⟨את⟩ موشي کي حڪم ڏنو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ايلعازر"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشڪر جي"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "آيل"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ ۾"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اھو ئي"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "قانون"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:45.328542551Z",
+  "model": "glm-5.3"
+}

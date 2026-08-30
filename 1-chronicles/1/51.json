@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ هَداد مري ويو؛ ۽ ادوم جا سردار ٿيا: سردار تِمنَع، سردار عَلوا، سردار يَتيت.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري ويو"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هَداد"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ٿيا"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "جا سردار"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تِمنَع"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عَلوا"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "يَتيت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:27.740033007Z",
+  "model": "glm-5.3"
+}

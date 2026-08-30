@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 5:8",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ ڪروبين صندوق جي جاءِ تي پر پکيڙي ٿي ۽ ڪروبين صندوق کي ۽ ان جيون لاٺيون مٿان ڍڪي ڇڏيون.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ٿيا"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ڪروبين"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "پکيڙيندا"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "پر"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق جي"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "۽ ڍڪيائون"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ڪروبين"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق کي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ مٿان"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ان جيون لاٺيون"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "مٿان کان"
+    }
+  ],
+  "timestamp": "2026-08-30T15:12:00.096867358Z",
+  "model": "glm-5.3"
+}

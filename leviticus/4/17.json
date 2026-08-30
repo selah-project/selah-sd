@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ڪاھن پنھنجي آنگر رت ۾ ٻُڏائي، ياهوه جي اڳيان پَردَي جي ⟨את⟩ منھن تي ست ڀيرا اُڇلندو.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ٻُڏائيندو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاھن"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "پنھنجي آنگر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "۽ اُڇلندو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ڀيرا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منھن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منھن"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "پَردي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:46.165999677Z",
+  "model": "glm-5.3"
+}

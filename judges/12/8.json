@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ان کان پوءِ اِبصن، بيت لحم جو، ⟨את⟩ اسرائيل کي راڄ ڪيو.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "راج ڪيو"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ان کان پوءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "اِبصن"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:01:56.528145495Z",
+  "model": "glm-5.3"
+}

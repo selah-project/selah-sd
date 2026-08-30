@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 9:23",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ⟨هي⟩ ۽ سندن پُٽ ياهوه جي گهر جي دروازن تي، خيمي واري گهر تي، پهرن موجب هُيا.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "۽ ⟨هي⟩"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "۽ سندن پُٽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازن"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "جي گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خيمي واري"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "پهرن موجب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:13.945392746Z",
+  "model": "glm-5.3"
+}

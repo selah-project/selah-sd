@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ آدمي جُڪي ويو، ۽ ماڻھو هيڻو ٿيو، ۽ مٿاکن جون اکيون جُڪنديون.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "۽ جُڪي ويو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمي"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "۽ هيڻو ٿيو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "۽ … جون اکيون"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "مٿاکن"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "جُڪنديون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:49:20.833194162Z",
+  "model": "glm-5.3"
+}

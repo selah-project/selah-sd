@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 2:6",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ هاڻي ياهوه توهان سان ⟨את⟩ خيسيد ۽ سچ ڪري، ۽ پڻ آءٌ توهان سان هي ڀلو ڪندس، جيڪو توهان هي ڪم ڪيو.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "יעש",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "توهان سان"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "۽ سچ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ڪندس"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "توهان"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "هي ڀلو"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "توهان ڪيو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "هي ڪم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:17:17.688119048Z",
+  "model": "glm-5.3"
+}

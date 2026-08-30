@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "مقتي لاءِ، يدئٿون لاءِ، داويد جو مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقتي لاءِ"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "يدئٿون لاءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داويد جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:56.948808918Z",
+  "model": "glm-5.3"
+}

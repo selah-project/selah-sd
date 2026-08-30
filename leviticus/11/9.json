@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "⟨את⟩ هي کائو، پاڻين ۾ جيڪي آهن تن منجهان: جنهن ڪنهن کي پاڻيءَ ۾، سمنڊن ۾ ۽ وهڪرن ۾، پَرَ ۽ چڙڪو آهي، ⟨את⟩ تنهن کي کائو.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "تن منجهان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻيءَ ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "پَرَ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "۽ چڙڪو"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻيءَ ۾"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "سمنڊن ۾"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "۽ وهڪرن ۾"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ تنهن کي"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:29.979585915Z",
+  "model": "glm-5.3"
+}

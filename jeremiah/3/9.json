@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ زناڪاريءَ جي ڇڊائيءَ سبب ⟨את⟩ زمين نجائي وئي، ۽ ⟨את⟩ پٿر سان ۽ ⟨את⟩ وڻ سان زنا ڪيائين.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "ڇڊائيءَ سبب"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "سندس زناڪاريءَ جي"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "نجائي وئي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "زنا ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پٿر"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "وڻ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "وڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:06:57.441492712Z",
+  "model": "glm-5.3"
+}

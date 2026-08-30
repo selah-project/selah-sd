@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ شاول داوود کان ڊائجي ويو، ڇوته ياهوه سندس ساڻ هو ۽ شاول کان موڙيو ويو ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڊائجي ويو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "کان"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ساڻ"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "۽ کان"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "סר",
+      "gloss": "موڙيو ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:11:36.505754582Z",
+  "model": "glm-5.3"
+}

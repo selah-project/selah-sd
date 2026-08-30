@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ بيت-وئيل ۽ حورمه ۽ صقلگ ۾.",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "۽ بيت-وئيل ۾"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "۽ حورمه ۾"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "۽ صقلگ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:20.792088842Z",
+  "model": "glm-5.3"
+}

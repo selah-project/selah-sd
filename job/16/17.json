@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 16:17",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "منھنجن هٿن ۾ ڪوبه ظلم ناهي، ۽ منھنجي دعا پاڪ آھي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "منھنجن هٿن ۾"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "۽ منھنجي دعا"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "پاڪ آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:38:15.481449466Z",
+  "model": "glm-5.3"
+}

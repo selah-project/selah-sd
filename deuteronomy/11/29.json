@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 11:29",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ٿيندو، جڏھن ياهوه تنهنجو ايلوهيم توکي ⟨את⟩ ان زمين ۾ آندو جنهن ۾ تون وڃين، ان کي ورتن لاءِ، تون ⟨את⟩ بركت رکين جبل گريزيم تي ۽ ⟨את⟩ لعنت جبل عيبل تي.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "יביאך",
+      "gloss": "آندو توکي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تنهنجو ايلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن ۾"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "בא",
+      "gloss": "وڃين"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ان کي ورتن لاءِ"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "۽ تون رکين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برکت"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "گريزيم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "لعنت"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "عيبل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:10.314213645Z",
+  "model": "glm-5.3"
+}

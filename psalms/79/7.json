@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 79,
+  "translation": "ڇوته انهن ⟨את⟩ يعقوب کي کاڌو ۽ ⟨את⟩ سندس رهائش ويران ڪري ڏني.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کاڌو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يعقوب"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سندس رهائش"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "سندس رهائش"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "ويران ڪري ڏني"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:21.901259730Z",
+  "model": "glm-5.3"
+}

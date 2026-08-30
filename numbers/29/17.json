@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 29:17",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ ٻئين ڏينھن تي ٻارهن ڳئن جا پل، ٻه ايل-رڪا، چوڏهن هڪ سال جا رمان، بنا ڪنهن خامي جا.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "۽ … ڏينھن تي"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻئين"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ڳئن جا پل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پل"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڳئن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻارهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ڏهن"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ايل-رڪا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "رمان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "هڪ سال جا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوڏهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ڏهن"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بنا ڪنهن خامي جا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:13.555678587Z",
+  "model": "glm-5.3"
+}

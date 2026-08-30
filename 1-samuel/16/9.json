@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "پوءِ يِشي شَمّه کي اڳتي لهڙيو، ۽ چيائين: هن ۾ به ياهوه ⟨نہ⟩ چونڊيو آهي.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "پوءِ لهڙيو"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يِشي"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شَمّه کي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "هن ۾"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨نہ⟩"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چونڊيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:10:32.128004120Z",
+  "model": "glm-5.3"
+}

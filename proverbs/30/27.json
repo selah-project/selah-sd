@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ٽِٽر کي ڪوبه بادشاهه ناھي، پوءِ به ⟨اُهو⟩ سڀ ڪجهِ گروھن ۾ ٻاهر نڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ڪوبه … ناھي"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ٽِٽر کي"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ٻاهر نڪري ٿو"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "گروھن ۾"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "سڀ ڪجهِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:41.631570900Z",
+  "model": "glm-5.3"
+}

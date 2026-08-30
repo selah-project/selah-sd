@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ لاوين مان شمعيا، پٽ حشوب جو، پٽ عزريقام جو، پٽ حشبيا جو، پٽ بوني جو.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ … مان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوين"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شمعيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "حشوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "عزريقام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حشبيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "بوني"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:59.354310846Z",
+  "model": "glm-5.3"
+}

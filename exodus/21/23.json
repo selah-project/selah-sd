@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ جيڪڏهن نقصان ٿئي، ته تون ڏيندين ساھ بدلي ساھ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "نقصان"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿئي"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ته تون ڏيندين"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ساھ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلي"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ساھ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:58.621190726Z",
+  "model": "glm-5.3"
+}

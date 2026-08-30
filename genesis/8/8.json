@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ موڪليو ⟨את⟩ ڪبوتر کي پنھنجي پاران، ته ڏسي ٿيères پاڻي_ADMAH وجهہ کان گھٽيا آھن يا نه.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "۽ موڪليو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪبوتر کي"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ڪبوتر کي"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "پنھنجي پاران ⟨את⟩"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ته ڏسي"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "گھٽيا آھن يا نه"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "کان"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهہ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:09.909931157Z",
+  "model": "glm-5.3"
+}

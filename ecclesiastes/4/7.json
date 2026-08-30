@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ مون موٽي ⟨پوءِ⟩ ڏٺو سج جي ھيٺان بيڪاري.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "۽ مون موٽي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "۽ ڏٺو"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بيڪاري"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺان"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:55.394568884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "کين نه ڊڄو، ڇوته ياهوه تنهجو ايلوهيم ئي اھو آھي جيڪو توہ لاءِ وڙھي ٿو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "کين ڊڄو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تنهجو ايلوهيم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئي اھو"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "وڙھي ٿو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توہ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:28.972824957Z",
+  "model": "glm-5.3"
+}

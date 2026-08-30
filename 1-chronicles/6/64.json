@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ⟨את⟩ ڪديموت ۽ ⟨את⟩ ان جا مگرشا، ۽ ⟨את⟩ ميپعت ۽ ⟨את⟩ ان جا مگرشا.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ڪديموت"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "ڪديموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ان جا مگرشا"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ان جا مگرشا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ميپعت"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "ميپعت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ان جا مگرشا"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ان جا مگرشا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:36.732803856Z",
+  "model": "glm-5.3"
+}

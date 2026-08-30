@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ هن مون کي ⟨את⟩ صحن جي دروازي ڏانهن آندو، ۽ مون ڏٺو، ۽ ڏسو، ديوار ۾ هڪ سوراخ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "۽ هن آندو"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مون کي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن جي"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "۽ مون ڏٺو"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "חר",
+      "gloss": "سوراخ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ديوار ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:27:51.939365690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "جيڪڏھن ڪو ماڻھو زال وٺي ۽ ان وٽ آيو ۽ ان کي سٽي ٿو،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "وٺي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "۽ آيو"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ان وٽ"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "۽ ان کي سٽي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:56.220139336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "ايلوهيم قومن تي راڄ ڪري ٿو، ايلوهيم پنھنجي پاڪ تخت تي ويٺو ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "راج ڪري ٿو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ويٺو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "پنھنجي پاڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:23.953472156Z",
+  "model": "glm-5.3"
+}

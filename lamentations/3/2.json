@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مون کي ⟨את⟩ ھن ھڪليو ۽ اونداھي ۾ ھلائيائين ۽ نه ⟨ـ⟩ روشني.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "مون کي"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ھڪليو"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ھلائيائين"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اونداھي ۾"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشني"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:21.625770159Z",
+  "model": "glm-5.3"
+}

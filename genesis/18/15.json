@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ساره ڳالھ کي ٺڳي ڇڏيائين، چوندي مون نه کليو؛ ڇو ته کيس ڊپ هو. تنھن چيو، نه؛ پر تو کليو.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "۽ ٺڳي ڇڏيائين"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساره"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "مون کليو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "کيس ڊپ هو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تنھن چيو"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "تو کليو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:16.966664363Z",
+  "model": "glm-5.3"
+}

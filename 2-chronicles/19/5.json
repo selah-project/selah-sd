@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ ملڪ ۾ قاضي مقرر ڪيائين، يهوداھ جي سڀني محصور شهرن ۾، هر هڪ شهر لاءِ، شهر بہ شهر.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "مقرر ڪيائين"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "قاضي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملڪ ۾"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهرن"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداھ جي"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "محصور"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "هر هڪ شهر لاءِ"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "شهر بہ شهر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:26:29.835273025Z",
+  "model": "glm-5.3"
+}

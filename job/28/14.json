@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ٿالهي چوي ٿي: “اها مون ۾ نه آهي؛” ۽ سمنڊ چوي ٿو: “اها مون سان نه آهي.”",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ٿالهي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون ۾"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "וים",
+      "gloss": "۽ سمنڊ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ڪانهي"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "مون سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:35.233674105Z",
+  "model": "glm-5.3"
+}

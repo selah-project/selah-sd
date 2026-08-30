@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "پهرئين ڏينهن ۾ پاڪ ڪٺ آهي؛ ڪا به خدمت جي ڪم نه ڪريو.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پهرئين"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "پاڪ ڪٺ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪا به"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ڪريو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:22.549418305Z",
+  "model": "glm-5.3"
+}

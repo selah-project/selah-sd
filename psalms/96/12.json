@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 96,
+  "translation": "اُٻرار ڪري ميدان ۽ ان ۾ جي سڀ؛ تڏهن ڳائيندا جنگل جا سڀ وڻ.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "اُٻرار ڪري"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ميدان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ جي سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "אז",
+      "gloss": "تڏهن"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ڳائيندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:03.799429389Z",
+  "model": "glm-5.3"
+}

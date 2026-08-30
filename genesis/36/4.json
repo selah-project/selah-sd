@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ عدھہ عيسو کي ⟨את⟩ ايليفز ڄڻيو، ۽ بسمت ⟨את‬⟩ رعوئيل ڄڻيو.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "۽ ڄڻيو"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عدھہ"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "عيسو کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ايليفز"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ايليفز"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "۽ بسمت"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رعوئيل"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوئيل"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:18.750000846Z",
+  "model": "glm-5.3"
+}

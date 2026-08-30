@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ايلوهيم جو صندوق کڻي ويا ويو ۽ عيلي جا ٻه پُٽ مري پيا، حپني ۽ پينحس.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم جو"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "کڻي ويا ويو"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عيلي جا"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مري پيا"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "حپني"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "پينحس"
+    }
+  ],
+  "timestamp": "2026-08-30T11:06:54.222768544Z",
+  "model": "glm-5.3"
+}

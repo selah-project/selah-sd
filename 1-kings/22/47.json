@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 22:47",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ قديش جو باقي حصو، جيڪو آسا سندس پيءُ جي ڏينھن ۾ بچيل ھو، هن ⟨ان کي⟩ ملڪ مان مٽايو.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "۽ باقي"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "قديش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "بچيل ھو"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ڏينھن ۾"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "אביو",
+      "gloss": "سندس پيءُ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "مٽايو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:37:31.915993859Z",
+  "model": "glm-5.3"
+}

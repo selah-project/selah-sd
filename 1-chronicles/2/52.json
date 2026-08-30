@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ شوبل جا — قريت يعارم جي پيءُ جا — پٽ ٿيا: هاروعه، ۽ منوحوت جو اڌ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ٿيا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "شوبل جا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جو پيءُ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قريت"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "يعارم"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "هاروعه"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ادھ"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "منوحوت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:51.468251692Z",
+  "model": "glm-5.3"
+}

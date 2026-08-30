@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "رڳو تون مَٽَهِ لويِ جي ڳڻپ نه ڪر، ۽ ⟨את⟩ سندن سِر کي بني يسرائيل جي وچ ۾ نه کڻ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَٽَهِ لويِ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "مَٽَهو (قبيلو)"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لويِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ڳڻپ ڪر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سندن سِر"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "سندن سِر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "کُڻين"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني (پٽ)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:13.795483756Z",
+  "model": "glm-5.3"
+}

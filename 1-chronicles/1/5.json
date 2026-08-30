@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "يفت جا پُٽ ھئا: گومر ۽ مگوگ ۽ مداي ۽ يوان ۽ توبل ۽ ميشيخ ۽ تيراس.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "يفت"
+    },
+    {
+      "surface": "گومר גֹמֶר",
+      "gloss": "گومر"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "۽ مگوگ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "۽ مداي"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "۽ يوان"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "۽ توبل"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "۽ ميشيخ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "۽ تيراس"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:33.589984027Z",
+  "model": "glm-5.3"
+}

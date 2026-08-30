@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "شَم جا پٽ: عِيلام ۽ اشُور ۽ اَرپَخشَد ۽ لُود ۽ اَرام.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شَم جا"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِيلام"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "۽ اشُور"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "۽ اَرپَخشَد"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "۽ لُود"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "۽ اَرام"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:21.133963375Z",
+  "model": "glm-5.3"
+}

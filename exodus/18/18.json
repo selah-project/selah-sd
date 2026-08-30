@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 18:18",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "بيشڪ تون ٽٽي پوندين — پاڻ تون به ۽ هي ماڻهو به جيڪي تنهنجي ساٿ آهن — ڇو ته هي ڪم تنهن کان ڏاڍو جوڳ آهي؛ تو اڪيلي اهو نه ڪري سگهندين.",
+  "tokens": [
+    {
+      "surface": "נבל",
+      "gloss": "ٽٽي"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "پوندين"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تنهنجي ساٿ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "جوڳ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تنهن کان"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "سگهندين"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "اهو ڪري"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "اڪيلي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:57.941868833Z",
+  "model": "glm-5.3"
+}

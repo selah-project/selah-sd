@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "جڏهن بدڪار اچي ٿو، ته بي عزتي به اچي ٿي، ۽ ذلت سان گڏ نندو آهي.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "جڏهن اچي ٿو"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدڪار"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ٿي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بي عزتي"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ذلت"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "نندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:42.117976475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "غريبن جي کيت ۾ کاڌو گهڻو آهي، پر ناانصافيءَ سان اُهو اجائي ٿي وڃي ٿو.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "گهڻو"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کاڌو"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "کيت"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "غريبن"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "پر اُهو"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "اجائي ٿي وڃي ٿو"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ناانصافيءَ سان"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:46.672596842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ٻڍي چادر لھائڻ ۽ سردي جي ڏينهن ۾ سرڪي تي سوڏ وجھڻ جهڙو آھي — اھو جي دل_ڀارجل ماڻھو کي گيت ٿو ڳائي.",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "لھائڻ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ٻڍي چادر"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "سردي جي"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "سرڪي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "سوڏ"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "ڳائي ٿو"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "על",
+      "gloss": "کي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل_ڀارجل ماڻھو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "(ڀارجل)"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:37.947980426Z",
+  "model": "glm-5.3"
+}

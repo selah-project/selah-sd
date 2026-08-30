@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "مٺاڻ وارا لفظ ماکيءَ جو ڇتڻ آھن، ساھ لاءِ مِٺا ۽ ھڏن لاءِ شفا.",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "ڇتڻ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ماکيءَ جو"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "مٺاڻ وارا"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "مِٺا"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ساھ لاءِ"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "۽ شفا"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "ھڏن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:04.106341441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ هو مون کي چوي ٿو: تون ڪير آهين؟ ۽ مان کيس چوان ٿو: مان هڪ عمالقي آهيان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چوي ٿو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چوان ٿو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "هڪ عمالقي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:16:46.107566020Z",
+  "model": "glm-5.3"
+}

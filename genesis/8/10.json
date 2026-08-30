@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ هن ٻيا ست ڏينهن انتظار وڌايو، ۽ قبتي ⟨את⟩ کي ٻيڙيءَ مان وري موڪليائين.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "۽ انتظار ڪيو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻيا"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "۽ وڌايو"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "موڪليائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قبتي"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "قبتي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ٻيڙيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:35.876654635Z",
+  "model": "glm-5.3"
+}

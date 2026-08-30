@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ٺٺولي ڪندڙ کي پنھنجي ٽوڻيندڙ پسند ناھي؛ هو دانشمندن وٽ نه وڃي ٿو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "پسند ڪري ٿو"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ٺٺولي ڪندڙ"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ٽوڻيندڙ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پنھنجي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانشمندن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "وڃي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:00.447536785Z",
+  "model": "glm-5.3"
+}

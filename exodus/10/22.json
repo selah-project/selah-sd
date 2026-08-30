@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ موشي ⟨את⟩ پنھنجو هٿ آسمانن ڏانهن ڊليو ۽ سڄي متسرايم جي زمين ۾ ٽن ڏينهن تائين گهاٽي اونداهي ٿي.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ڊليو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجو هٿ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "پنھنجو هٿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اونداهي"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "گهاٽي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:36:40.906930702Z",
+  "model": "glm-5.3"
+}

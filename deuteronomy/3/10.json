@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ميدان جون سڀ شهر، ۽ سڀ گِلعد، ۽ سڀ باشان، سالخah تائين ۽ ادرعي تائين — باشان ۾ عوج جي بادشاهي جا شهر.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ميدان جون"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گِلعد"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "سالخah"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "۽ ادرعي"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "بادشاهي جا"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "عوج"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "باشان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:50.735484834Z",
+  "model": "glm-5.3"
+}

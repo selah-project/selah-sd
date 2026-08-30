@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڪوھنِي: يدعيا جا پُٽ — يشوع جي گھرَ مان — نَوَ سَو ٽاٿاِھ (973).",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪوھنِي (پادري)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "يدعيا"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "جي گھرَ مان"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "يشوع"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَوَ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "اُتر"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "۽ ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:38.397750479Z",
+  "model": "glm-5.3"
+}

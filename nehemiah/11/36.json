@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ لاوين مان ڪي حصا يهودah ۾ هئا جي بنيامين سان مليل هئا.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ … مان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوين"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "حصا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودah"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "بنيامين سان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:35.407389908Z",
+  "model": "glm-5.3"
+}

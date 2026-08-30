@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "اهارون ۽ ⟨את⟩ سندس پٽ ايلعازر کي وٺ ۽ کين هور جبل تي چاڙه.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "وٺ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اهارون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ايلعازر"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ايلعازر"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "چاڙه"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ کين",
+      "marks": "هور جبل"
+    },
+    {
+      "surface": "הר",
+      "gloss": "هور"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:29:56.424030873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "ھتان وڃ ۽ پاڻ لاءِ اوڀر ڏي موڙج ۽ نئن ڪريت ۾ لڪج وڃ، جيڪا يردن جي اڳيان آهي.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ھتان"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "۽ موڙج"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "اوڀر ڏي"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "۽ لڪج وڃ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "نئن ۾"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "ڪريت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "يردن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:35:02.668593443Z",
+  "model": "glm-5.3"
+}

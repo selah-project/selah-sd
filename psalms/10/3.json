@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ڇوته رشي پنھنجي نفس جي تڙ تي فخر ٿو ڪري، ۽ لالچي ياهوه کي ڌڪارڻ کان پوءِ به برڪت ٿو وٺي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "فخر ٿو ڪري"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "تڙ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "پنھنجي نفس"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "لالچي"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برڪت ٿو وٺي"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "ڌڪارڻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:10.295465186Z",
+  "model": "glm-5.3"
+}

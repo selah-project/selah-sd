@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 4:20",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ شِمون جا پُٽ: امنون ۽ رِنَّاھ، بِن-حَنان ۽ تِلون؛ ۽ يِشعِي جا پُٽ: زوحيت ۽ بِن-زوحيت.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پُٽ"
+    },
+    {
+      "surface": "שימון",
+      "gloss": "شِمون"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "امنون"
+    },
+    {
+      "surface": "ורנה",
+      "gloss": "۽ رِنَّاھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن (پُٽ)"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حَنان"
+    },
+    {
+      "surface": "ותולון",
+      "gloss": "۽ تِلون"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ پُٽ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "يِشعِي"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "زوحيت"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "۽ بِن (پُٽ)"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "زوحيت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:38.390859385Z",
+  "model": "glm-5.3"
+}

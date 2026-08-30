@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "مورک جو رستو سندس اکين ۾ سڌو ٿو ڏسي، پر جيڪو صلاح ٿو ٻڌي، سو هوشيار آهي.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "رستو"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "مورک جو"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سڌو"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "سندس اکين ۾"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ٻٽي صلاح ٿو ٻڌي"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "هوشيار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:11.680649553Z",
+  "model": "glm-5.3"
+}

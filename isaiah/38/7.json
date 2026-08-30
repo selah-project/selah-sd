@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ هي تنهنجي لاءِ ياهوه کان ⟨את⟩ نشاني ⟨آهي⟩، ته ياهوه ⟨את⟩ هي ڪم ڪندو، جيڪو ⟨هن⟩ چيو آهي.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "۽ هي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي لاءِ"
+    },
+    {
+      "surface": "האות",
+      "gloss": "نشاني"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "کان ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي ڪم"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڪم\/لفظ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:57:50.192425804Z",
+  "model": "glm-5.3"
+}

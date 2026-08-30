@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "پڻ ڏنڊ ڏيڻ نيڪ ماڻهوءَ کي — نيٺار ناهي؛ سورهين کي مارڻ سڌرائيءَ جي ڪري.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "ڏنڊ ڏيڻ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "نيڪ ماڻهوءَ کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نيٺار"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "مارڻ"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "سورهين کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي ڪري"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سڌرائيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:41.389267216Z",
+  "model": "glm-5.3"
+}

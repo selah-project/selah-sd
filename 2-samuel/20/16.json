@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 20:16",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ هڪ ڏاهِي زال شهر مان پُٽاري: ٻُڌو، ٻُڌو! چئو ته يوآب کي: ويجهو اَچ هِتي ڏانهن، ته مَون تو سان ڳالھايان.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "۽ پُٽاري"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ڏاهِي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻُڌو"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻُڌو"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "چئو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ويجهو اَچ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هِتي"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ته ڳالھايان"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تو سان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:24:35.423311634Z",
+  "model": "glm-5.3"
+}

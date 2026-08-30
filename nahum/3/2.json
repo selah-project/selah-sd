@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڇڙي جو آواز ۽ ڦيٽي جي ڇڪ جو آواز، ۽ ڊوڙندڙ گھوڙو ۽ نچندي رٿ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "ڦيٽي جي ڇڪ جو"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "۽ آواز"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "ڇڙي"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "ڦيٽي"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "۽ گھوڙو"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "ڊوڙندڙ"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "۽ رٿ"
+    },
+    {
+      "surface": "مרקדה",
+      "gloss": "نچندي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:52:50.395173279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ زال نانگ ڏانهن وڃي چيو: ”باغ جي وڻن جي ميوڙيءَ مان اسين کائون ٿا“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "نانگ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ميوڙيءَ مان"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻن جي"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "باغ جي"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "کائون ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:03.627930131Z",
+  "model": "glm-5.3"
+}

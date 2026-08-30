@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 30:1",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "واهه باغي پُٽن تي، ياهوه جو فرمو، جيڪي صلاح ڪن ٿا ۽ مون کان نه، ۽ ڍڪڻَ ولهائين ۽ مون جي روح کان نه، ته پاپ تي پاپ وڌائين.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "واهه"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُٽن"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "باغي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪن ٿا"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "מני",
+      "gloss": "مون کان"
+    },
+    {
+      "surface": "ולנסך",
+      "gloss": "ولهائين"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ڍڪڻَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "مون جي روح"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ספות",
+      "gloss": "وڌائين"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "پاپ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "پاپ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:56:21.055569308Z",
+  "model": "glm-5.3"
+}

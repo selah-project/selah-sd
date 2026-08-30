@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڪهڙو فائدو ⟨هو⟩ ڪم ڪندڙ کي، ان ۾ جنهن ۾ هو محنت ٿو ڪري؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ڪهڙو"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "فائدو"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ڪم ڪندڙ کي"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ان ۾ جنهن ۾"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت ٿو ڪري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:13.047187464Z",
+  "model": "glm-5.3"
+}

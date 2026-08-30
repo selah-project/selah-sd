@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ نوح مها ٻوڏ کان پوءِ ٽي سؤ ۽ پنجاهه ورهيه جيئيو.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "۽ جيئيو"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "مها ٻوڏ کان"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورهيه"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "۽ پنجاهه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورهيه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:12.742709471Z",
+  "model": "glm-5.3"
+}

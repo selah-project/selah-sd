@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ تون، ياهوه، پري نه ٿجي؛ مون جي طاقت، مون جي مدد لاءِ جلِ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "پري ٿجي"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "مون جي طاقت"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "مون جي مدد لاءِ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "جلِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:29.414150393Z",
+  "model": "glm-5.3"
+}

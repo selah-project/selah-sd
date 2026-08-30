@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "اسان جي وراثت اوپرن لاءِ پلٽجي وئي، اسان جا گهر پرچين لاءِ.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "اسان جي وراثت"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "پلٽجي وئي"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "اوپرن لاءِ"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "اسان جا گهر"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "پرچين لءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:52.932141206Z",
+  "model": "glm-5.3"
+}

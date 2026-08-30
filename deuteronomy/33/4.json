@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "موشي اسان کي شريعت حڪم ڏني، يعقوب جي جماعت جي وراثت.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "شريعت"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏني"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "وراثت"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:50.696287013Z",
+  "model": "glm-5.3"
+}

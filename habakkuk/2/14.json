@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇوته ⟨the⟩ زمين ڀرجي ويندي ڄاڻڻ لاءِ ⟨את⟩ ياهوه جي جلال کي، جيئن پاڻي سمنڊ تي ڍڪي ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ڀرجي ويندي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ڄاڻڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جي جلال"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "جيئن پاڻي"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "ڍڪي ٿو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمنڊ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:53:30.570704847Z",
+  "model": "glm-5.3"
+}

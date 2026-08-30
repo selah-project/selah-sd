@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 1:15",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ مون وڏي ڪاوڙ سان انهن آسودا قومن تي ڪاوڙ ڪئي آهي؛ ڇوته مون ٿوري ڪاوڙ ڪئي هئي، پر انهن برائيءَ لاءِ مدد ڪئي.",
+  "tokens": [
+    {
+      "surface": "וקצף",
+      "gloss": "۽ ڪاوڙ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مون"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ڪاوڙ ڪئي آهي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومن"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "آسودا"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "جن"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مون"
+    },
+    {
+      "surface": "קצפתי",
+      "gloss": "ڪاوڙ ڪئي هئي"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ٿوري"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "پر انهن"
+    },
+    {
+      "surface": "עזרو",
+      "gloss": "مدد ڪئي"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "برائيءَ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:50.667764168Z",
+  "model": "glm-5.3"
+}

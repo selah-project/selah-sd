@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 3:3",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ سندس ٻيو ڪلآب، ابيگيل کان، نabal ڪرملي جي زال؛ ۽ ٽيون ابشالوم، معاڪا جو پٽ، تلمي جي ڌيءُ، گشور جي بادشاهه جي.",
+  "tokens": [
+    {
+      "surface": "ומשנהו",
+      "gloss": "۽ سندس ٻيو"
+    },
+    {
+      "surface": "כלאב",
+      "gloss": "ڪلآب"
+    },
+    {
+      "surface": "לאביגל",
+      "gloss": "ابيگيل کان"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نabal"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ڪرملي"
+    },
+    {
+      "surface": "והשלשי",
+      "gloss": "۽ ٽيون"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ابشالوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معاڪا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءُ"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "تلمي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "گشور"
+    }
+  ],
+  "timestamp": "2026-08-30T11:17:18.397325744Z",
+  "model": "glm-5.3"
+}

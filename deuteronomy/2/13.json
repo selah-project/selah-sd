@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "هاڻي اُٿو ۽ پنهنجي لاءِ ⟨את⟩ نهر زرد پار ڪيو؛ ۽ اسان ⟨את⟩ نهر زرد پار ڪيو.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "اُٿو"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "پار ڪيو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پنهنجي لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نهر زرد"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زرد"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "۽ اسان پار ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نهر زرد"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زرد"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:14.073075806Z",
+  "model": "glm-5.3"
+}

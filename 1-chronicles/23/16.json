@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "گرشم جا پٽ: شبوائيل سردار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گرشم"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "شبوائيل"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:05.773462970Z",
+  "model": "glm-5.3"
+}

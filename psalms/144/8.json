@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 144,
+  "translation": "جن جو وات ڪوڙ ڳالهائي ٿو ۽ سندن ساڄو هٿ ڪوڙ جو ساڄو هٿ آهي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ڳالهائي ٿو وات ڪوڙ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالهائي ٿو"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ڪوڙ"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "سندن ساڄو هٿ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ساڄو هٿ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T15:04:39.623231459Z",
+  "model": "glm-5.3"
+}

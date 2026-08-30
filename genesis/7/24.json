@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ پاڻي زمين تي غالب رھيا پنجاھ ۽ سَو ڏينھن.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "غالب رھيا"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاھ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "۽ سَو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينھن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:18.351727385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 17:8",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "تپوح جي زمين منشي جي ⟨هئي⟩، پر تپوح منشي جي سرحد تي اپهريم جي پٽن جو ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "למנשה",
+      "gloss": "منشي جي"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "هئي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تپوح جي"
+    },
+    {
+      "surface": "ותפוח",
+      "gloss": "پر تپوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—— تي"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشي جي"
+    },
+    {
+      "surface": "لבני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپهريم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:13.905843782Z",
+  "model": "glm-5.3"
+}

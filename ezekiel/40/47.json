@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ ان چورس Andres مَنڌو ⟨את⟩ صحن کي: ڊيگهه سَو اَماه ۽ ويڪر سَو اَماه، چورس؛ ۽ قربانگاهه بيت جي اڳيان آھي.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "۽ مَنڌو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صحن"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊيگهه"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَماه"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "۽ ويڪر"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَماه"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "چورس"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "۽ قربانگاهه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "بيت"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:47.363301037Z",
+  "model": "glm-5.3"
+}

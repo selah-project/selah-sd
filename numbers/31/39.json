@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 31:39",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ گڌھَ ٽيهه هزار ۽ پنج سَو هئا، ۽ انهن جو مڪس ياهوه لاءِ اڪٺيو ۽ سٺ.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "۽ گڌھَ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "۽ انهن جو مڪس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اڪٺيو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "۽ سٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:43.715226266Z",
+  "model": "glm-5.3"
+}

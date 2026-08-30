@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "هڪ لچ ماڻهو، هڪ بڇڙائي جو ماڻهو، ٿو هلي منهن جي ڪُپت سان.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "لچ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "און",
+      "gloss": "بڇڙائي"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ٿو هلي"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "ڪُپت"
+    },
+    {
+      "surface": "פה",
+      "gloss": "منهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:37.710648393Z",
+  "model": "glm-5.3"
+}

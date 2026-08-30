@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "مان مون جون سڀ هڏيون ڳڻي سگهان ٿو؛ اهي مون کي ٽارين ٿا، مون ڏي ڏسن ٿا.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "ڳڻي سگهان ٿو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "مون جون هڏيون"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "ٽارين ٿا"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ڏسن ٿا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون ڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:29.413809679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "جيڪو به مڪان توهان جي پيرن جي تلي اُتي لتاڙيو، اُھو توهان کي ڏنم آھي، جيئن مون موشي سان ڳالھيو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مڪان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "لتاڙيو"
+    },
+    {
+      "surface": "כף",
+      "gloss": "تلي"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "توهان جي پيرن جي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان کي"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ڏنم اُھو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "مون ڳالھيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:50:10.905572824Z",
+  "model": "glm-5.3"
+}

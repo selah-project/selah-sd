@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 22:1",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "تڏهن يهوشعا روبينين کي ۽ گاديين کي ۽ منشه قبيلي جي اڌ کي سڏيو.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تڏهن"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشعا"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "روبينين کي"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "۽ گاديين کي"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "۽ اڌ کي"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبيلي جي"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:56:00.707140909Z",
+  "model": "glm-5.3"
+}

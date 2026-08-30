@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 20:24",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ادورم بيگار تي ھو، ۽ يهوشافات، احيلود جو پٽ، يادداشت ڪندڙ ھو.",
+  "tokens": [
+    {
+      "surface": "ואדרם",
+      "gloss": "۽ ادورم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המס",
+      "gloss": "بيگار"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "۽ يهوشفات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "احيلود"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "يادداشت ڪندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:23:48.768040505Z",
+  "model": "glm-5.3"
+}

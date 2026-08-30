@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 136,
+  "translation": "جو سڀ ماس کي روٽي ڏئي ٿو، ڇوته سدائين سدائين لاءِ سندس خيسيد آهي.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ڏئي ٿو"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٽي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "سدائين سدائين لاءِ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "سندس خيسيد"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:07.636770343Z",
+  "model": "glm-5.3"
+}

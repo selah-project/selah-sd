@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ حماٿ به ⟨ان⟩ جي حدبنديءَ ۾ آهي؛ صور ۽ صيدون، ڇوته ⟨هو⟩ سَوَ ويزارو آهي.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماٿ"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "حدبندي ڪئي وئي آهي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨ان⟩ ۾"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صور"
+    },
+    {
+      "surface": "וציצון",
+      "gloss": "۽ صيدون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "سَوَ ويزارو"
+    },
+    {
+      "surface": "מאد",
+      "gloss": "ويزارو آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:53.935918143Z",
+  "model": "glm-5.3"
+}

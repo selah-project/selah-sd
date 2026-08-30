@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 23:19",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "حبرون جا پٽ: يرياهو ⟨هو⟩ پهريون، امرياهو ٻيو، يحيزيل ٽيون ۽ يقمعام چوٿون.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "يرياهو"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "پهريون"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "امرياهو"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "يحيزيل"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ٽيون"
+    },
+    {
+      "surface": "ויקמעם",
+      "gloss": "يقمعام"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوٿون"
+    }
+  ],
+  "timestamp": "2026-08-30T15:10:49.434905250Z",
+  "model": "glm-5.3"
+}

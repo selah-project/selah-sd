@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "亚当 جي پُٽ، پيش ڪر هڪ خوشAbort نه — پيش ڪر هڪ خوشفهم پهاڪو ۽ ڀيٽ ڀائيڻ هڪ مثال بيتِ اسرائيل ڏانهن.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "پيش ڪر"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "پهاڪو"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "۽ ڀيٽ ڀائيءُ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "هڪ مثال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:57:45.312311819Z",
+  "model": "glm-5.3"
+}

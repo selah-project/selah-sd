@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 86,
+  "translation": "۽ تون، اي ادوناي، رحم ڪندڙ ۽ مهربان ايل آهين، ڪاوڙ ۾ سست، ۽ وڏو خيسيد ۽ سچ ۾.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اي ادوناي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "رحم ڪندڙ"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "۽ مهربان"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "سست"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ڪاوڙ ۾"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "۽ وڏو"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "۽ سچ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:59.182388146Z",
+  "model": "glm-5.3"
+}

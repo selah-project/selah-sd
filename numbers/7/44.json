@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ سون جي هٿي، ڏھ شيڪل (وزن)، خوشبوءَ سان ڀريل.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "هٿي"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏھ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جي"
+    },
+    {
+      "surface": "مלאה",
+      "gloss": "ڀريل"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبوءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:37.904237466Z",
+  "model": "glm-5.3"
+}

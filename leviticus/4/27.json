@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 4:27",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ جيڪڏھن زمين جي ماڻھن مان ھڪ نفس اڻ ڄاڻ ۾ خطا ڪري، ياهوه جي حڪمن مان ڪنھن اھڙي ڳالھ ۾ جا نه ڪجي، ۽ ڏوھي ٿئي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "خطا ڪري"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "اڻ ڄاڻ ۾"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي ماڻھن"
+    },
+    {
+      "surface": "בעשתה",
+      "gloss": "ڪرڻ ۾"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ڪنھن ھڪ"
+    },
+    {
+      "surface": "ממצות",
+      "gloss": "حڪمن مان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "ڪجي"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "۽ ڏوھي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:09.992584005Z",
+  "model": "glm-5.3"
+}

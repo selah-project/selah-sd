@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "موٽائڻ وارن جي اڳواڻ لاءِ، داويد جو مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "اڳواڻ لاءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داويد جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:24.146543238Z",
+  "model": "glm-5.3"
+}

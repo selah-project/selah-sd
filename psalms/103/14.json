@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 103,
+  "translation": "ڇوته ⟨هو⟩ ڄاڻي ٿو ⟨اسان جي> جوڙجڪ کي؛ ياد رکي ٿو ته اسين مٽي آهيون.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻي ٿو"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "اسان جي جوڙجڪ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ياد رکي ٿو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٽي"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسين آهيون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:19.709267550Z",
+  "model": "glm-5.3"
+}

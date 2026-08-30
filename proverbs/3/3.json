@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "خيسيد ۽ سچائيءَ توکي نه ڇڏي؛ انهن کي پنهنجي ڳلي ۾ ٻڌ، انهن کي پنهنجي دل جي تختي تي لک.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "۽ سچائيءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "توکي ڇڏي"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "انهن کي ٻڌ"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "پنهنجي ڳلي"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "انهن کي لک"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تختي"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "پنهنجي دل جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:05.241804170Z",
+  "model": "glm-5.3"
+}

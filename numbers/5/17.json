@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 5:17",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ ڪاهن پاڪ پاڻي مٽيءَ جي ٿانءَ ۾ وٺندو، ۽ خيمي جي فرش تان جيڪا مٽي هوندي، ان مان ڪاهن وٺي پاڻيءَ ۾ وجهندو.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "وٺندو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "۾ ٿانءَ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٽيءَ جي"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "۽ ان مان"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "مٽي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندي"
+    },
+    {
+      "surface": "בקרקע",
+      "gloss": "فرش تي"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "خيمي جي"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "وٺي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "۽ وجهندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:04.927914725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "پھرين رٿ ۾ ڳاڙھا گھوڙا ھئا، ۽ ٻي رٿ ۾ ڪارا گھوڙا،",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "رٿ ۾"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "پھرين"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڙا"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "ڳاڙھا"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "۽ رٿ ۾"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ٻي"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڙا"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "ڪارا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:00.070089704Z",
+  "model": "glm-5.3"
+}

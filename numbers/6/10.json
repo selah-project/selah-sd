@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ اٺين ڏينهن هو ڪاھنڙي وٽ، ملاقات جي خيمي جي دروازي وٽ، ٻه ٻڙيا يا ڪَرِل جا ٻه ٻچا آندو.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "۽ ڏينهن ۾"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اٺين"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آندو"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "ٻڙيا"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ٻچا"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ڪَرِل جا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاھنڙي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمي"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات جو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:57.562754370Z",
+  "model": "glm-5.3"
+}

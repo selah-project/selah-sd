@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ پنھنجو رٿ جُتو، ۽ ⟨את⟩ پنھنجي قوم پاڻ سان کڻي ويو.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "جُتو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجو رٿ"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "پنھنجو رٿ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجي قوم"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "پنھنجي قوم"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "کڻي ويو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "پاڻ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:03.216854244Z",
+  "model": "glm-5.3"
+}

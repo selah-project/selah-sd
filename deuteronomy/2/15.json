@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ پڻ ياهوه جو هٿ انهن تي هو، انهن کي ڪٽڻ مان خيمگاهه تباهه ڪرڻ لاءِ، جيستائين ⟨هي⟩ سڀ ختم ٿي ويا.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انهن تي"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "تباهه ڪرڻ لاءِ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ڪٽڻ مان"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "خيمگاهه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جيستائين"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ختم ٿي ويا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:14.073566203Z",
+  "model": "glm-5.3"
+}

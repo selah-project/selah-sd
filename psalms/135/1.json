@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 135,
+  "translation": "ساراھيو ياه کي، ساراھيو ⟨את⟩ ياهوه جو نالو، ساراھيو ياهوه جا ٻانهن،",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ساراھيو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ساراھيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جو نالو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ساراھيو"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ٻانهن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:53.464419842Z",
+  "model": "glm-5.3"
+}

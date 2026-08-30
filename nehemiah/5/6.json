@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ جڏهن مون ⟨את⟩ سندن رڙ۽ ⟨את⟩ هي ڳالهيون ٻڌيون، تڏهن مون کي ان تي تمام گهڻو ڪوپجي.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "۽ ڪوپيو\/غصو آيو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام گهڻو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "مون ٻڌيون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندن رڙ"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "سندن رڙ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "هي ڳالهيون"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالهيون"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:17.488944300Z",
+  "model": "glm-5.3"
+}

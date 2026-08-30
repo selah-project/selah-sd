@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "يوحانان اٺين، ايلزاباد نائين.",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "يوحانان"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اٺين"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "ايلزاباد"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "نائين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:39.886709254Z",
+  "model": "glm-5.3"
+}

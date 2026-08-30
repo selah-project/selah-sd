@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 51:37",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 51,
+  "translation": "۽ بابل ڍرن ۾ بدلجي ويندو، گدڙن جي رهائشگاهه، هيرت ۽ سٽو، بغير ڪنهن رهندڙ جي.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "۽ بدلجي ويندو"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "ڍرن ۾"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "رهائشگاهه"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "گدڙن جي"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هيرت"
+    },
+    {
+      "surface": "ושרקה",
+      "gloss": "۽ سٽو"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "بغير"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "رهندڙ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:25:21.938224157Z",
+  "model": "glm-5.3"
+}

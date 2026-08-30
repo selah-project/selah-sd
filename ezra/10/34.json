@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "باني جي پٽن مان: معدائي، عمرام، ۽ اُوائل.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "جي پٽن مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "باني"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "معدائي"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عمرام"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "۽ اُوائل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:39.841515624Z",
+  "model": "glm-5.3"
+}

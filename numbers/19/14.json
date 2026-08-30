@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 19:14",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "هيءُ ⟨هو⟩ حڪم آهي: جڏهن ماڻهو خيمي ۾ مري، ته خيمي ۾ ايندڙ سڀ ۽ جيڪو به خيمي ۾ هجي، اهو ست ڏينهن نجس ٿيندو.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مري"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خيمي ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ايندڙ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خيمي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ جيڪو به"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خيمي ۾"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس ٿيندو"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:19.106249030Z",
+  "model": "glm-5.3"
+}

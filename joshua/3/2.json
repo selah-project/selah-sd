@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ٿيو، ٽن ڏينهن جي پڇاڙيءَ تي، ته افسرن مقام جي وچ ۾ لنگهي وڃي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "پڇاڙيءَ تي"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن جي"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "لنگهي ويا"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "افسرن"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "مقام جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:49:17.188211918Z",
+  "model": "glm-5.3"
+}

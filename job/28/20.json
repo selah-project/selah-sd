@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "پوءِ حڪمت ڪٿان اچي ٿي، ۽ سمجھ جي جاءِ ڪٿي آھي؟",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "۽ حڪمت"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ڪٿان"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "اچي ٿي"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "۽ ڪٿي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:50.443521022Z",
+  "model": "glm-5.3"
+}

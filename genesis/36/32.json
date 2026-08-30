@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ بلاع، پٽ بعور جو، ادوم ۾ راڄ ڪري ٿو؛ ۽ سندس شهر جو نالو دينهباھ آھي.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "راج ڪري ٿو"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ادوم ۾"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بلاع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "بعور"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "سندس شهر جو"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "دينهباھ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:40.191238946Z",
+  "model": "glm-5.3"
+}

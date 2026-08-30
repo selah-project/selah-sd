@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ يعقوب پنهنجي پيءُ ۽ پنهنجي ماءُ جو چيو مڃيو، ۽ پدن-آرام ڏانهن ويو.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "چيو مڃيو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "جي"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پنهنجي پيءُ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "پنهنجي ماءُ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ويو"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "پدن"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "آرام"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:48.362359951Z",
+  "model": "glm-5.3"
+}

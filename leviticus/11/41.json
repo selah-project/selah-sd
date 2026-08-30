@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ سڀ ڪُريل شيءِ جيڪا زمين تي ڪُريلي رڃي، اُها گندگي آهي، کائڻ ۾ نہ اچي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ڪُريل شيءِ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ڪُريلي رڃي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "گندگي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائڻ ۾ اچي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:53.295968987Z",
+  "model": "glm-5.3"
+}

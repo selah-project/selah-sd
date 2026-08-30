@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 104,
+  "translation": "انھن تي آسمان جا پکي رھن ٿا، ٽارين جي وچ مان اَلاپ ڪن ٿا.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "انھن تي"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "پکي"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان جا"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "رھن ٿا"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "جي وچ مان"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "ٽارين"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ڪن ٿا"
+    },
+    {
+      "surface": "קול",
+      "gloss": "اَلاپ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:01.134158017Z",
+  "model": "glm-5.3"
+}

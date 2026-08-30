@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 21:18",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ سڀ ان کان پوءِ ياهوه کيس سندس پيٽ ۾ اھڙي بيماري سان پيڙي ڇڏيو جنهنجو ڪوبه علاج ڪونهي.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "۽ … کان پوءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ان"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "پيڙي ڇڏيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "במעיו",
+      "gloss": "سندس پيٽ ۾"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "بيماري سان"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "جنهنجو ڪونهي"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "علاج"
+    }
+  ],
+  "timestamp": "2026-08-30T14:27:10.579460525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "اھو عيّت تي آيو، مگرون ۾ لنگھيو، مِکماس ۾ پنھنجو سازوسامان رکايائين.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עית",
+      "gloss": "عيّت"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگھيو"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "مگرون ۾"
+    },
+    {
+      "surface": "لמכמש",
+      "gloss": "مِکماس ۾"
+    },
+    {
+      "surface": "יפקיד",
+      "gloss": "رکايائين"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "پنھنجو سازوسامان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:17.689607397Z",
+  "model": "glm-5.3"
+}

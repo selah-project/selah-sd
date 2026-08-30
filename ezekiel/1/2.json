@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "مهيني جي پنجين ڏينهن — اها ⟨هئي⟩ بادشاهه يوياخين جي جلاوطنيءَ جي پنجين سال.",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "پنجين"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "پنجين"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "جلاوطنيءَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "يوياخين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:57:31.888466795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 2:17",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "چپ ڪر، سڀ گوشت، ياهوه جي اڳيان؛ ڇوته ⟨هو⟩ پنهنجي مقدس رهائش کان اُٿيو آهي.",
+  "tokens": [
+    {
+      "surface": "הס",
+      "gloss": "چپ ڪر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נעור",
+      "gloss": "اُٿيو آهي"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "رهائش کان"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "پنهنجي مقدس"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:23.423858561Z",
+  "model": "glm-5.3"
+}

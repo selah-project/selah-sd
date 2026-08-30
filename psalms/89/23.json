@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "دشمن مٿس سود نه لڳائيندو، ۽ ظلم جو پٽ کيس ستائيندو نه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "سود لڳائيندو"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "۽ ... جو پٽ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעنנו",
+      "gloss": "کيس ستائيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:31.813714760Z",
+  "model": "glm-5.3"
+}

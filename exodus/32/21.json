@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ چيو موشي اهارون کي: هي ماڻهو تنهنجا ڇا ڪيو، جو تنهن مٿن اهڙو وڏو گناهه آندو؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "هي ماڻهو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "آندو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿن"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "گناهه"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "وڏو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:08:48.335492820Z",
+  "model": "glm-5.3"
+}

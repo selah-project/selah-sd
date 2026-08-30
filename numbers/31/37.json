@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ڍورن مان ياهوه لاءِ مڪس ⟨هو⟩ ڇهه سَو پنج ۽ ستر رهيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "رهيو"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "مڪس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ڍورن"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "۽ ستر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:43.714910627Z",
+  "model": "glm-5.3"
+}

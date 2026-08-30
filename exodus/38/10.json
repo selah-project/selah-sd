@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "انهن جا ٿنڀ ٽيھ، ۽ انهن جا دڙڪا ٽيھ ٽامي جا؛ ٿنبن جون ڪُنڍيون ۽ انهن جون ڪڙيون چاندي جون۔",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "انهن جا ٿنڀ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ٽيھ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "۽ انهن جا دڙڪا"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ٽيھ"
+    },
+    {
+      "surface": "نחשת",
+      "gloss": "ٽامي"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": ""
+    },
+    {
+      "surface": "נחשת",
+      "gloss": ""
+    },
+    {
+      "surface": "העמדים",
+      "gloss": ""
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": ""
+    },
+    {
+      "surface": "כסף",
+      "gloss": ""
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": ""
+    },
+    {
+      "surface": "נחשת",
+      "gloss": ""
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:01.786048708Z",
+  "model": "glm-5.3"
+}

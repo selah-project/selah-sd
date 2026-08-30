@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پراپي کائي ويا سندس طاقت ۽ ⟨هو⟩ نہ ڄاڻيو؛ پڻ بڍاپو مٿس اُڇلائي ڇڏيو ۽ ⟨هو⟩ نہ ڄاڻيو.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "کائي ويا"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "پراپي"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "سندس طاقت"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ ⟨هو⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻيو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "بڍاپو"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "اُڇلائي ڇڏيو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ ⟨هو⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻيو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:45:22.788522448Z",
+  "model": "glm-5.3"
+}

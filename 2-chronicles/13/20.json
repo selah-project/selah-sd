@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ يربعام ابيّه جي ڏينهن ۾ وري سگھ نه سگھاري سگھيو، ۽ ياهوه کيس ماريو، ۽ هو مري ويو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "سگھاري سگھيو"
+    },
+    {
+      "surface": "כח",
+      "gloss": "سگھ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "يربعام"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "جي ڏينهن ۾"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "ابيّه"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "۽ کيس ماريو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:46.869480177Z",
+  "model": "glm-5.3"
+}

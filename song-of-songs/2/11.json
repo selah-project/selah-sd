@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇو ته ڏسو، سيءُ لنگهي ويو، مينهوهه ٽپي ويو، پاڻمرادو وڃي ويو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "سيءُ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگهي ويو"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "مينهوهه"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "ٽپي ويو"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "وڃي ويو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پاڻمرادو"
+    }
+  ],
+  "timestamp": "2026-08-30T15:06:40.473532518Z",
+  "model": "glm-5.3"
+}

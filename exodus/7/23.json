@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ فرعون منهن موڙي پنهنجي گهر ۾ ويو، ۽ هن پنهنجو دل هن تي به نه رکيو.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "منهن موڙي"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "۽ ويو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "پنهنجي گهر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שת",
+      "gloss": "رکيو"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "پنهنجو دل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "هن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:58:10.060584044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ پاڪ ڪيل شيون: ڍڳا ڇھ سئو، ۽ رڍون ٽي ھزار.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "۽ پاڪ ڪيل شيون"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سئو"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "۽ رڍون"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:29:36.120002553Z",
+  "model": "glm-5.3"
+}

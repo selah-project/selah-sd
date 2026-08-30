@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "زال، زنا ڪندڙ، پنهنجي مڙس جي جاءِ تي اوپرا وٺي ٿي ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "زنا ڪندڙ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "جاءِ تي"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "پنهنجي مڙس"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "وٺي ٿي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوپرا"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "اوپرا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:31:13.115577963Z",
+  "model": "glm-5.3"
+}

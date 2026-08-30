@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ڪاهنن راضي ٿيا ته ماڻهن کان ⟨את⟩ چاندي وٺڻ ڇڏي ڏين ۽ گهر جي ڦاٽ ⟨את⟩ نه مڙسن.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "۽ راضي ٿيا"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهنن"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ته نه"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "وٺڻ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ماڻهن کان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "مڙسن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گهر جي ڦاٽ"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ڦاٽ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر"
+    }
+  ],
+  "timestamp": "2026-08-30T11:42:47.946681317Z",
+  "model": "glm-5.3"
+}

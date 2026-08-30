@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ اُن زمين جو سون چڱو آهي؛ اُتي بدليَم ۽ شوهَم جو پٿر آهي.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "۽ سون"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جو"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "بدليَم"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "۽ پٿر"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "شوهَم جو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:11.412555176Z",
+  "model": "glm-5.3"
+}

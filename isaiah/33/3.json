@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "هٽڌَ جي آواز مان قومون ڀڳيون؛ تنهنجي اُچَ کان قومون ڇڏي ويون.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "جي آواز مان"
+    },
+    {
+      "surface": "המון",
+      "gloss": "هٽڌَ"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ڀڳيون"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "تنهنجي اُچَ کان"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "ڇڏي ويون"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:56:33.231338772Z",
+  "model": "glm-5.3"
+}

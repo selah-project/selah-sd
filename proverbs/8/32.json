@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 8:32",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ هاڻي، پٽن، مون کي ٻڌو، ڇوته خوش نصيب آهن اهي جيڪي مون جون واڳون رکن ٿا.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "۽ خوش نصيب"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "مون جون واڳون"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "رکن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:20.708236401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "سندس اکيون کيون جيانون آھن، پاڻيءَ جي وهڪرن تي، کير ۾ ڌوپيل، پوريءَ گھٽيءَ تي بيٺل.",
+  "tokens": [
+    {
+      "surface": "עיניו",
+      "gloss": "سندس اکيون"
+    },
+    {
+      "surface": "כיונים",
+      "gloss": "کيون جيانون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "وهڪرن"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ جي"
+    },
+    {
+      "surface": "רחצות",
+      "gloss": "ڌوپيل"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "کير ۾"
+    },
+    {
+      "surface": "ישبות",
+      "gloss": "بيٺل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "پوريءَ گھٽيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:48.487682299Z",
+  "model": "glm-5.3"
+}

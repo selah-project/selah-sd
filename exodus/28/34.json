@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 28:34",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "هڪ سون جو گھنٽڙو ۽ هڪ انار، هڪ سون جو گھنٽڙو ۽ هڪ انار، قميص جي ڪنڊ تي چوڌاري.",
+  "tokens": [
+    {
+      "surface": "פעמן",
+      "gloss": "گھنٽڙو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جو"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "۽ انار"
+    },
+    {
+      "surface": "פעמן",
+      "gloss": "گھنٽڙو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جو"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "۽ انار"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "ڪنڊ"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "قميص جي"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:06:50.330620267Z",
+  "model": "glm-5.3"
+}

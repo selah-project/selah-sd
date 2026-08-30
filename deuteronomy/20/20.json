@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "رڳو اهي وڻ، جن کي تون ڄاڻين ته اهي کائڻ جا وڻ ناهن، ⟨את⟩ انهن کي تون تباهه ڪر ۽ ڪپ؛ ۽ تون ان شهر تي، جيڪو تو سان وڙهي رهيو آهي، گهيرو ٺاهه، جيستائين تون ان کي جھڪائيون.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تون ڄاڻين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناهن"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "کائڻ جا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "انهن کي"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "تباهه ڪر"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "۽ ڪپ"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "۽ تون ٺاه"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "گهيرو"
+    },
+    {
+      "surface": "על",
+      "gloss": "ت"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وڙهي رهيو"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تو سان"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جيستائين"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "ان کي جھڪائين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:18.064692557Z",
+  "model": "glm-5.3"
+}

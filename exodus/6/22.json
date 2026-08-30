@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ عزي اييل جا پٽ ھئا: ميشاييل، ايلتصفان ۽ ستري.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عزي اييل"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "ميشاييل"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "۽ ايلتصفان"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "۽ ستري"
+    }
+  ],
+  "timestamp": "2026-08-30T09:57:50.085388096Z",
+  "model": "glm-5.3"
+}

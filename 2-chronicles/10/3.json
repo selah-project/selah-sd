@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 10:3",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ مڻي موڪليائون ۽ کيس سڏيائون؛ تڏهن يربعم ۽ سڄي اسرائيل اچي رحبعم سان ڳالهايون، چون ٿا:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "مڻي موڪليائون"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "سڏيائون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "يربعم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڄي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ڳالهايون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چون ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:24.091535296Z",
+  "model": "glm-5.3"
+}

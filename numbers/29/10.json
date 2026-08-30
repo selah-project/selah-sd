@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "هڪ ڏهاءِ، هڪ ڏهاءِ هر هڪ پيلي لاءِ، ستين پيلن لاءِ۔",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "ڏهاءِ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ڏهاءِ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "پيلي لاءِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪڙي"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "پيلن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:54.822167241Z",
+  "model": "glm-5.3"
+}

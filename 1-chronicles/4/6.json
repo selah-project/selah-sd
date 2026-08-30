@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ نعاره ⟨את⟩ اهُزام ۽ ⟨את⟩ حيفر ۽ ⟨את⟩ تيمني ۽ ⟨את⟩ اهاشتاري کي هن کي ڄڻيو؛ اِهي نعاره جا پُٽ هئا.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "۽ ڄڻيُس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن کي"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "نعاره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اهُزام"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "اهُزام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حيفر"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "حيفر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تيمني"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "تيمني"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اهاشتاري"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "اهاشتاري"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِهي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "نعاره جا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:02.107152973Z",
+  "model": "glm-5.3"
+}

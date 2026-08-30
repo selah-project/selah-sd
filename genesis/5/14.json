@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ قينان جي سڀ ڏينهنَ ٿياڏھ سال ۽ نَؤ سؤ سال، ۽ هو مُويو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهنَ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قينان"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏھ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "۽ نَؤ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "۽ مُويو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:10.064347947Z",
+  "model": "glm-5.3"
+}

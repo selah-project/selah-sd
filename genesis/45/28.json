@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 45:28",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "۽ اسرائيل چيو: „بس آھي؛ اڃا مٿس يوسف پٽ جيئرو آھي؛ مان وڃي مرڻ کان اڳ ان کي ڏسانديس.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بس آھي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اڃا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جيئرو آھي"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "مان وڃي"
+    },
+    {
+      "surface": "ואראנו",
+      "gloss": "ان کي ڏسانديس"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "کان اڳ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "مرڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:52.847750808Z",
+  "model": "glm-5.3"
+}

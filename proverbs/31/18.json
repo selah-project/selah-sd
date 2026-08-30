@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "هن چکي ڏٺو ⟨ته⟩ سندس واپار سٺو ⟨آهي⟩؛ رات ۾ سندس بتي ٻجھندي ناهي.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "چکي ڏٺو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ته⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "سٺو"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "سندس واپار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "ٻجھندي"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "رات ۾"
+    },
+    {
+      "surface": "نרה",
+      "gloss": "سندس بتي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:40.840555374Z",
+  "model": "glm-5.3"
+}

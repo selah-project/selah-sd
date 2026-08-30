@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ لشڪر جا بهادر هي هئا: عساھيل، يوآب جو ڀاءُ؛ ايلحنان، دودو جو پٽ، بيت لحم جو.",
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "۽ بهادر"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "لشڪر جا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "عساھيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "عساھيل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "جو ڀاءُ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "ايلحنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "دودو"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "بيت لحم"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "بيت لحم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:56.579515036Z",
+  "model": "glm-5.3"
+}

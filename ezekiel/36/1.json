@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 36:1",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ تون، ماڻهوءَ جو پٽ، اسرائيل جي جبلن ڏانھن نبيائي ڪر ۽ چؤ: اسرائيل جا جبل، ياهوه جو لفظ ٻڌو.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ جو"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبيائي ڪر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "جبلن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ چؤ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "جا جبل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:40:22.563007033Z",
+  "model": "glm-5.3"
+}

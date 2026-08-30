@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ڪوھين ياهوه جي گهر ۾ داخل ٿي نه سگهيا، ڇوته ياهوه جو جلال ياهوه جي گهر کي ⟨את⟩... ڀري ڇڏيو هو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "سگهيا"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪوھين"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "داخل ٿيڻ ۾"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀري ڇڏيو هو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جو گهر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:21:59.175463361Z",
+  "model": "glm-5.3"
+}

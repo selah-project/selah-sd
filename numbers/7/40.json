@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ ٻڪرين جو نر، گنھه جي قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "نر ٻڪري"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻڪرين جو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گنھه جي قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:01.472078942Z",
+  "model": "glm-5.3"
+}

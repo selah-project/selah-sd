@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ بادشاهه داوود ⟨את⟩ هي سڀيون ڳالهيون ٻڌيون، ۽ کيس تمام گهڻو رنج ٿيو.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "۽ بادشاهه"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌيون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي سڀيون ڳالهيون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀيون"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالهيون"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "رنج ٿيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام گهڻو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:20:26.692018149Z",
+  "model": "glm-5.3"
+}

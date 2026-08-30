@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "ياهوه کي جلال ڏين ۽ ٻيٽن ۾ سندس ساراهه ٻَڌائين.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "ڏين (رکن)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "۽ سندس ساراهه"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "ٻيٽن ۾"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ٻَڌائين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:53:56.481365152Z",
+  "model": "glm-5.3"
+}

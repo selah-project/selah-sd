@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ڏينهن ٿيو ته اُهو اُتي آيو، ۽ مَچيءَ ڏانھن موڙيو ۽ اُتي سُتيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "موڙيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "مَچيءَ"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "سُتيو"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:50:32.754310535Z",
+  "model": "glm-5.3"
+}

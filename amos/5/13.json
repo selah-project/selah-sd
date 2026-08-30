@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "تنهنڪري سمجهيدار ⟨ماڻهو⟩ ان وقت ماٺ ڪندو، ڇو ته اها بري وقت ⟨آهي⟩۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "سمجهيدار"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ان وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ماٺ ڪندو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بري"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:49:59.429239001Z",
+  "model": "glm-5.3"
+}

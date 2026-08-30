@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "رڳو گوشن جي زمين ۾، جتي اسرائيل جا پٽ ⟨هئا⟩، اتي ڪڙو نه هو.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "گوشن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ڪڙو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:59:36.707167169Z",
+  "model": "glm-5.3"
+}

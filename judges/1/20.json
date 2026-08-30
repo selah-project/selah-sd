@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ڪالب کي ⟨את⟩ حبرون ڏنائون، جيئن موشي چيو هو؛ ۽ اتان ⟨את⟩ عنق جي ٽن پٽن کي ڪڍي ڇڏيائين.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ڏنائون"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ڪالب کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حبرون"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو هو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "ڪڍي ڇڏيائين"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اتان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٽن پٽن"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "عنق جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:57:21.309872130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ شاول ⟨את⟩ سڄي قوم کي جنگ لاءِ سڏيو ته قيعيلاھ ۾ لتھي داوود ۽ سندس ماڻھن جو گھيرو ڪري.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "۽ سڏيو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڄي قوم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ لاءِ"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ته لتھي"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "قيعيلاھ"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "گھيرو ڪري"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "سندس ماڻھن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:13:23.003313825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 140,
+  "translation": "کڙڪيل انگارا مٿن ڪِرن، باهه ۾ وجهي سنڊس، کڏن ۾، نه اُٿن.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "ڪِرن"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "مٿن"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "انگارا"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "وجهي سنڊس"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "کڏن ۾"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "اُٿن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:18.993562096Z",
+  "model": "glm-5.3"
+}

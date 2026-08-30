@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "پياپیڙي هليندڙ راز ظاهر ڪري ٿو، پر نهمان روح مَتي ڍڪي ٿو.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "هليندڙ"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "پياپیڙي"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ظاهر ڪري ٿو"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "راز"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "پر نهمان"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ڍڪي ٿو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "مَتو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:13.445027513Z",
+  "model": "glm-5.3"
+}

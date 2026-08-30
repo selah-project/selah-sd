@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ کين ⟨את⟩ حبرون ڏنو، يهودا جي زمين ۾، ۽ ⟨את⟩ سندس چوڌائي جا ميدان.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "۽ ڏنو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حبرون"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "جي زمين ۾"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سندس ميدان"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "سندس ميدان"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "سندس چوڌائي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:13.460445509Z",
+  "model": "glm-5.3"
+}

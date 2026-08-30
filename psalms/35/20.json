@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "ڇوته هو شالوم نه ٿا ڳالهاين، ۽ زمين جي آرام وارن تي فريب جا لفظ گهڙين ٿا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ٿا ڳالهاين"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ ... تي"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "آرام وارن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "فريب جا"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "گهڙين ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:50.891664448Z",
+  "model": "glm-5.3"
+}

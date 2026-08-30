@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "تون غضب سان کين پٽيندين ۽ ياهوه جي آسمانن هيٺان کين تباهه ڪندين.",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "تون پٽيندين"
+    },
+    {
+      "surface": "באף",
+      "gloss": "غضب سان"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "۽ کين تباهه ڪندين"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "هيٺان"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:44.904770882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "سُست ماڻھو چوي ٿو: ”ٻاهر بَگهه آھي، وچ رستن ۾ مون کي ماريو ويندو.“",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سُست"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "بَگهه"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وچ"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "رستن"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "ماريو ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:43.977776305Z",
+  "model": "glm-5.3"
+}

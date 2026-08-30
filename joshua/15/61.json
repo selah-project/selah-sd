@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "بيابان ۾: بيت هارابه، مدين ۽ سکاڪه.",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "הערבه",
+      "gloss": "هارابه"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مدين"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "۽ سکاڪه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:36.397208707Z",
+  "model": "glm-5.3"
+}

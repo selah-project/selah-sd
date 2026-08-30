@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "چيو يعقوب لابان کي: ڏي مونکي ⟨את⟩ پنهنجي زال، جو پوري ٿي ويا منهنجا ڏينهن، ۽ مان ويس وٽس.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زال"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "زال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "پوري ٿي ويا"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "وي ويس"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "وٽس"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:16.708541403Z",
+  "model": "glm-5.3"
+}

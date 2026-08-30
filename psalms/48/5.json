@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "ڇاڪاڻ ته ڏسو، بادشاهه گڏ ٿي собра ٿيا، ⟨هو⟩ گڏجي لنگهي ويا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "گڏ ٿي进行检查ٻرا ٿيا"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "لنگهي ويا"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏجي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:06.803465893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 13:24",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ آءٌ تنهن کي ڇڏي ڇڏيندس، جهڙو ٻر ٿيندڙ تڙ، بيابان جي واءَ سان.",
+  "tokens": [
+    {
+      "surface": "ואפיצם",
+      "gloss": "۽ آءٌ ڇڏي ڇڏيندس"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "جهڙو تڙ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ٽيندڙ"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "واءَ سان"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بيابان جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:11:12.648273388Z",
+  "model": "glm-5.3"
+}

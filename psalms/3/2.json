@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ياهوه، ڪيترا وڌيا آھن ميرا تنگ ڪندڙ! ڪيترا مون تي اُٿن ٿا!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڪيترا"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "وڌيا آھن"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ميرا تنگ ڪندڙ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ڪيترا"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "اُٿن ٿا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:26.875587886Z",
+  "model": "glm-5.3"
+}

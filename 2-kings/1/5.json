@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "پوءِ قاصد هن وٽ موٽي آيا، ۽ هن انهن کي چيو: هي ڇا آهي — توهان موٽي آيا؟",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "موٽي آيا"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "قاصد"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هن وٽ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "توهان موٽي آيا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:38:29.894282177Z",
+  "model": "glm-5.3"
+}

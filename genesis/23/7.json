@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "پوءِ ابراهام اُٿي بيٺو ۽ ملڪ جي ماڻھن کي، حت جي پٽن کي، سجدو ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "پوءِ اُٿي بيٺو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "۽ سجدو ڪيائين"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ماڻھن کي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملڪ جي"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن کي"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حت جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:47.580253833Z",
+  "model": "glm-5.3"
+}

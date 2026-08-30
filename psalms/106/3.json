@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 106,
+  "translation": "خوش آھن اُھي جيڪي انصاف جي پاسيڀاري ڪن، جيڪي ھر وقت نيڪي ڪن.",
+  "tokens": [
+    {
+      "surface": "אשرי",
+      "gloss": "خوش آھن"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "جيڪي پاسيڀاري ڪن"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف جي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪن"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "نيڪي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ھر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:42.342797814Z",
+  "model": "glm-5.3"
+}

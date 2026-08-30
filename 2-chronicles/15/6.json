@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ قوم قوم سان ڪُٺجي ويو ۽ شهر شهر سان، ڇوته ايلوهيم کين هر ڏک ۾ هلايو.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "۽ ڪُٺجي ويا"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "قوم سان"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "۽ شهر"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شهر سان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "کين هلايو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "צרه",
+      "gloss": "ڏک ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:10.401802251Z",
+  "model": "glm-5.3"
+}

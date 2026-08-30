@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 9:21",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "چؤ ןڪي: ياهوه جو وچن آهي، ۽ ماڻهن جون لاشون کِر ٿي کَڙِي ۾ ڪِرن، ۽ لابارِيءَ پٺيان جيئن ٻَج جو handful، ۽ ڪوبه کڻندڙ ناهي.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ڪي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "جو وچن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "۽ ڪِري"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "لاشون"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهن جون"
+    },
+    {
+      "surface": "כדמן",
+      "gloss": "کِر ٿي"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڪِرن"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کَڙِي"
+    },
+    {
+      "surface": "וכעמיר",
+      "gloss": "۽ ٻَج جهڙو"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "پٺيان"
+    },
+    {
+      "surface": "הקצר",
+      "gloss": "لابارِيءَ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ناهي"
+    },
+    {
+      "surface": "מאסף",
+      "gloss": "ڪوبه کڻندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:10:37.406246807Z",
+  "model": "glm-5.3"
+}

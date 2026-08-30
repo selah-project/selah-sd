@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "اهو لفظ جو يشعياہ پٽ اموص جو ڏٺو، يهودا ۽ يروشلم بابت.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "يشعياہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "اموص"
+    },
+    {
+      "surface": "על",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "۽ يروشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:08.598055460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "گھڻو ماکي کائڻ سٺو ناھي، ۽ پنھنجي وڏائيءَ جي ڇنڊ ڇاڻ ڪرڻ وڏائي ناھي.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "کائڻ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ماکي"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "گھڻو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناھي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "سٺو"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "۽ ڇنڊ ڇاڻ ڪرڻ"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "پنھنجي وڏائيءَ جي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "وڏائي ناھي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:49.264386478Z",
+  "model": "glm-5.3"
+}

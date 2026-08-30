@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "پنهنجو وات حڪمت سان کولي ٿي، ۽ خيسيد جي تعليم سندس زبان تي آهي،",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "پنهنجو وات"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "کولي ٿي"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "حڪمت سان"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "۽ تعليم"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "سندس زبان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:24.761697383Z",
+  "model": "glm-5.3"
+}

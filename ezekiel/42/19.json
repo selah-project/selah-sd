@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "ڀٽي، اولھ (سمنڊ جي هوا) جي طرف ماپيائين پنج سَو قَنَہ، ماپ واري قَنَہ سان.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "ڀٽي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "هوا"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ جي"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ماپيائين"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قَنَہ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "قَنَہ سان"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ماپ واري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:59:07.390335859Z",
+  "model": "glm-5.3"
+}

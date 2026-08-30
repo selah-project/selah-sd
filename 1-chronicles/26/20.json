@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 26:20",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ لاويَن مان اَهِيَه ايلوهيم جي گھر جي خزائن تي ۽ مقدس شين جي خزائن تي ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "۽ لاويَن مان"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "اَهِيَه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "خزائن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم جي"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "۽ خزائن"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "مقدس شين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:16.755399Z",
+  "model": "glm-5.3"
+}

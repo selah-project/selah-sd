@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "جيڪو عش ۽ كسيل ۽ ڪيمهہ ۽ تيمان جي خانن کي ٺاهي ٿو.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ٽاهي ٿو"
+    },
+    {
+      "surface": "עש",
+      "gloss": "عش"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کسيل"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "۽ ڪيمهہ"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "۽ خانن"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "تيمان جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:12.182323855Z",
+  "model": "glm-5.3"
+}

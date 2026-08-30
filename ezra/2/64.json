@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "سڄو ڀيري گڏيل چار ربو، ٻه هزار، ٽي سئو ۽ سٺ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ڀيري"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "گڏيل"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ربو"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ٻه هزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سئو"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:03:05.613322771Z",
+  "model": "glm-5.3"
+}

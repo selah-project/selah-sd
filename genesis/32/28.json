@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ ⟨هو⟩ چيس، تنهنجو نالو ڇا آهي؟ ۽ ⟨هو⟩ چيو، ياعقوب.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيس"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "چيس"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تنهنجو نالو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ياعقوب"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:30.491985884Z",
+  "model": "glm-5.3"
+}

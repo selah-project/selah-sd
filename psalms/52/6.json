@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 52,
+  "translation": "تون نگلڻ وارا سڀ لفظ پيار ڪرين ٿو، ٻوليءَ جي فريب واري!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "پيار ڪرين ٿو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "نگلڻ وارا"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ٻوليءَ جي"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فريب واري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:25.569503675Z",
+  "model": "glm-5.3"
+}

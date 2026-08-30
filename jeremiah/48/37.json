@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 48:37",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "ڇاڪاڻ ته سڀئي مٿا گنجا ٿيندا ۽ سڀئي ڏاڙهيون مَنيون وينديون؛ سڀني هٿن تي ڦٽَ، ۽ چيلهن تي ٽاڪ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿا"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "گنجا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀئي"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ڏاڙهيون"
+    },
+    {
+      "surface": "גרעה",
+      "gloss": "مَنيون وينديون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "هٿن"
+    },
+    {
+      "surface": "גדדת",
+      "gloss": "ڦٽَ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "چيلهن"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ٽاڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:45.562639556Z",
+  "model": "glm-5.3"
+}

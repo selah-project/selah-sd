@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 36:2",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "ٽيهن ۽ ٽائيھن سالن جو پٽ هو يوآحاز پنهنجي راڄ شروع ڪرڻ ۾، ۽ ٽي مهينا راڄ ڪيائين يروشلم ۾.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ٽائيھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "يوآحاز"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "پنهنجي راڄ ۾"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مهينا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راڄ ڪيائين"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:32:03.748456404Z",
+  "model": "glm-5.3"
+}

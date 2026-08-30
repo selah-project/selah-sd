@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 2:13",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ لبنان جي سڀ اوچين ۽ اُوپرين ڪيڊرن تي، ۽ بشان جي سڀ ڀُٽن تي،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ … تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ڪيڊرن"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لبنان جي"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "اوچين"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "۽ اُوپرين"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ … تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "ڀُٽن"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "بشان جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:46:47.168875863Z",
+  "model": "glm-5.3"
+}

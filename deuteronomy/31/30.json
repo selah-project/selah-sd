@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ موشي سڀني اسرائيل جي ڪٺي جي ڪنن ۾ ⟨את⟩ هيءَ گيت جا لفظ ٻڌايا، جيستائين پورا ٿيا.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ٻڌايو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "جي ڪنن ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ڪٺي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گيت جا لفظ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هيءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جيستائين"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "پورا ٿيا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:08.456017279Z",
+  "model": "glm-5.3"
+}

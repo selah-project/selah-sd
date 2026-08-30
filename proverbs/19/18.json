@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "پنھنجي پٽ کي تڦ ڏي، ڇوته اڃا اميد آهي، پر کيس مارڻ جو ارادو متان ڪرين.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "تڦ ڏي"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "پنھنجي پٽ کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "اميد"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "پر متان"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "کيس مارڻ جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "متان"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ارادو ڪرين"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "پنھنجي نَفَس [کي]"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:34.047898942Z",
+  "model": "glm-5.3"
+}

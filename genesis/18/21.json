@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 18:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "آءٌ هاڻي لهندس ۽ ڏسندس ته مون وٽ آيل فرياد موجب ڪيائون ڪل؛ ۽ جي نه، ته آءٌ ڄاڻندس.",
+  "tokens": [
+    {
+      "surface": "ארדה",
+      "gloss": "لهندس"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "۽ ڏسندس"
+    },
+    {
+      "surface": "הכצעקתה",
+      "gloss": "فرياد موجب"
+    },
+    {
+      "surface": "הבאה",
+      "gloss": "آيل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪيائون"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ڪل"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "۽ جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "ته آءٌ ڄاڻندس"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:53.795517170Z",
+  "model": "glm-5.3"
+}

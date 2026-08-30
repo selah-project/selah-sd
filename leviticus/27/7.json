@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 27:7",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ جيڪڏھن سٺن سالن جي پُٽ کان ۽ مٿي آھي، جيڪڏھن نر آھي، ته تنھنجو اندازو پندرهن شڪل ٿئي، ۽ مادي لاءِ ڏھ شڪل.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "پُٽ کان"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٺن"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "۽ مٿي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ته ٿئي"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تنھنجو اندازو"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پندرهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شڪل"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "۽ مادي لاءِ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏھ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شڪل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:37.735283614Z",
+  "model": "glm-5.3"
+}

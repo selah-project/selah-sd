@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "عزّا جا پُٽ، پسح جا پُٽ، بيسائي جا پُٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عزّا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "بيسائي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:02:43.284335373Z",
+  "model": "glm-5.3"
+}

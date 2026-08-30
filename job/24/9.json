@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 24:9",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "سيني کان يتيم کي ڇڪي وٺن ٿا، ۽ غريب تان ڦرڻو کڻن ٿا.",
+  "tokens": [
+    {
+      "surface": "יגזלו",
+      "gloss": "ڇڪي وٺن ٿا"
+    },
+    {
+      "surface": "משד",
+      "gloss": "سيني کان"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "يتيم کي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ … تان"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "ڦرڻو کڻن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:38.956217200Z",
+  "model": "glm-5.3"
+}

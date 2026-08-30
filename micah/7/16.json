@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "micah 7:16",
+  "book": "micah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "قومون ڏسن ۽ سندن سڄي طاقت تي شرمندا ٿين؛ پنھنجو ھٿ وات تي رکن، سندن ڪن ٻوڙا ٿي وڃن.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ڏسن"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "۽ شرمندا ٿين"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "سندن طاقت"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "رکن"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ھٿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פה",
+      "gloss": "وات"
+    },
+    {
+      "surface": "אזניהם",
+      "gloss": "سندن ڪن"
+    },
+    {
+      "surface": "תחרשנה",
+      "gloss": "ٻوڙا ٿي وڃن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:52:29.149832128Z",
+  "model": "glm-5.3"
+}

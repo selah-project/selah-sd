@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "۽ فرعون يعقوب کي چيو، ”تنهنجي زندگيءَ جي سالن جا ڏينهن ڪيترا آهن؟“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ڪيترا"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سالن جا"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "تنهنجي زندگيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:04.623982301Z",
+  "model": "glm-5.3"
+}

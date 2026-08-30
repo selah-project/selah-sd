@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "اٺين ڏينھن تي اوھان لاءِ ھڪ اٺ (ٺهڪاءُ) ھوندي؛ ڪا به خدمت جو ڪم اوھين نه ڪريو.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينھن تي"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اٺين"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "ٺهڪاءُ\/جاڳڻ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ھوندي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اوھان لاءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪا به"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ڪريو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:37.298755309Z",
+  "model": "glm-5.3"
+}

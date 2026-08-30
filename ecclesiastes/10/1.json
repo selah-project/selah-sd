@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 10:1",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "مريلا مک ڀنگار ٺاهيندڙ جي خوشبودار تيل ۾ بدبو ڀري ڇڏن ٿا؛ تانڪي بيوقوفي ⟨آهي⟩ دانش کان ۽ عزت کان قيمتي.",
+  "tokens": [
+    {
+      "surface": "זבובי",
+      "gloss": "مکون"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مريلا"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "بدبو ڀري ٿو"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "ڇڏي ٿو"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تيل"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "ڀنگار ٺاهيندڙ جي"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "قيمتي"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "دانش کان"
+    },
+    {
+      "surface": "מכבוד",
+      "gloss": "عزت کان"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "بيوقوفي"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تانڪي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:31.491467970Z",
+  "model": "glm-5.3"
+}

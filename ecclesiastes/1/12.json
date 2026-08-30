@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "آئين قوهيلت، اسرائيل تي بيت المقدس ۾ بادشاهه ٿي رهيو.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "آئين"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قوهيلت"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ٿي رهيو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "بيت المقدس ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:47.273904672Z",
+  "model": "glm-5.3"
+}

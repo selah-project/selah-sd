@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ابيعزر العناثوتي، مبنّي الھوشاتي،",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "ابيعزر"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "العناثوتي"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "مبنّي"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "الھوشاتي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:39.877401964Z",
+  "model": "glm-5.3"
+}

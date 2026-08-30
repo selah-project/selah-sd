@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "ڍال ۽ اوزار-ڍال پڪڙ ۽ منھنجي مدد لاءِ اُٿي بيھ.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "پڪڙ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڍال"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "اوزار-ڍال"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "اُٿي بيھ"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "منھنجي مدد لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:48.594980358Z",
+  "model": "glm-5.3"
+}

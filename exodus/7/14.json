@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ياهوه موشي کي چيو، پڄاڙي جي دل ڀاري آھي، اھو قوم کي موڪلڻ کان انڪار ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ڀاري"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پڄاڙي جي"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "انڪار ڪري ٿو"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "موڪلڻ کان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم کي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:58:50.846489922Z",
+  "model": "glm-5.3"
+}

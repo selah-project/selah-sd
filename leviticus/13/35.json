@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ جي خارش پنھنجي پاڪ ٿيڻ کان پوءِ چم ۾ پکڙجي،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جي"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پکڙجي"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "پکڙجي"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "خارش"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چم ۾"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "پنھنجي پاڪ ٿيڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:29.351943674Z",
+  "model": "glm-5.3"
+}

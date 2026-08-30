@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 18:3",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ اهي تنهنجي نگهداشت ڪن ۽ سڄي خيمي جي نگهداشت؛ پر پاڪ سامان ڏانهن ۽ قربانگاهه ڏانهن نه وڃن، ته نه مريون — اهي به ۽ توهان به.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "۽ نگهداشت ڪن"
+    },
+    {
+      "surface": "משמרתך",
+      "gloss": "تنهنجي"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "۽ نگهداشت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خيمي جي"
+    },
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ڏانهن"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاهه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "وڃن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ته نه"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "مريون"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:29:27.178245338Z",
+  "model": "glm-5.3"
+}

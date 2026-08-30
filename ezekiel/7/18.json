@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 7:18",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ اهي ٻَنَن سان ٻڌڻ، ۽ ڏرپ ⟨את⟩ انهن کي ڍڪي وٺي؛ ۽ سڀن منهنن تي شرم، ۽ سندن سڀن مٿن تي ڪوپ.",
+  "tokens": [
+    {
+      "surface": "וחגרו",
+      "gloss": "۽ ٻَڌڻ"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ٻَنَن سان"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "۽ ڍڪي وٺي"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "انهن کي"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ڏرپ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀن"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منهنن"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "شرم"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "۽ سڀن تي"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "سندن مٿن"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ڪوپ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:27:29.918968998Z",
+  "model": "glm-5.3"
+}

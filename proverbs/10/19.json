@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "گھڻن لفظن ۾ گناهه جُٽي نه ٿو، پر جيڪو پنھنجيون چوڻيون روڪي ٿو، سو عاقل آھي.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "گھڻن ۾"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "لفظن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "جُٽي ٿو"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "گناهه"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "پر جيڪو روڪي ٿو"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "پنھنجيون چوڻيون"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "عاقل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:40.403864733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ انهن ٻنهي کان بهتر آهي ⟨את⟩ جيڪو اڃا نه ٿيو، جنهن نه ڏٺو ⟨את⟩ بُرن ڪم کي، جيڪو سج هيٺ ڪيو ويو آهي.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "۽ بهتر آهي"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "انهن ٻنهي کان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جيڪو اڃا نه ٿيو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "اڃا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بُرن ڪم کي"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بُرن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ڪيو ويو آهي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:53.555975668Z",
+  "model": "glm-5.3"
+}

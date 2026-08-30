@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ڏس، تون دانيل کان به وڌيڪ دانا آھين، ڪا لڪيل ڳالھ تنهنجي کان لڪائي ناھي سگهي.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "دانيل کان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪا به"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "لڪيل ڳالھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "تنهنجي کان لڪائي سگهي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:37:10.016401572Z",
+  "model": "glm-5.3"
+}

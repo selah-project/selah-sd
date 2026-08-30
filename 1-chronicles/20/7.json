@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ جڏھن هن اسرائيل جي توھين ڪئي، تڏھن يونتن پٽ شمعا جي، ڀائي داوود جي، ⟨את⟩ کيس ماريو.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "توھين ڪئي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسرائيل کي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ماريو"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يونتن"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شمعا"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ڀائي"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:54.990703734Z",
+  "model": "glm-5.3"
+}

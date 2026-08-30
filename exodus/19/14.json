@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ موشي جبل کان ماڻهن وٽ لاٿو، ۽ ⟨את⟩ ماڻهن کي پاڪ ڪيائين، ۽ ماڻهن پنھنجا ڪپڙا ڌوئيا.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "لاٿو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "پاڪ ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماڻهن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "ڌوئيا"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "پنھنجا ڪپڙا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:52.953580821Z",
+  "model": "glm-5.3"
+}

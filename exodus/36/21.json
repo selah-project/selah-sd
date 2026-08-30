@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "ڏهه هٿ ڊگھائي ڪَرَسَهِ جي، ۽ هڪ هٿ ۽ اڌ هٿ ويڪرائي هڪ ڪَرَسَهِ جي.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊگھائي"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ڪَرَسَهِ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "۽ هڪ هٿ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "۽ اڌ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ويڪرائي"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ڪَرَسَهِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:22.377025637Z",
+  "model": "glm-5.3"
+}

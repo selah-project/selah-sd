@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ وري مون سج هيٺ ڏٺو: انصاف جي جاءِ ۾ اُتي بيديعي، ۽ نيڪي جي جاءِ ۾ اُتي بيديعي.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "۽ وري"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مون ڏٺو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "انصاف جي"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بيديعي"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "۽ جاءِ"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "نيڪي جي"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بيديعي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:23.857031497Z",
+  "model": "glm-5.3"
+}

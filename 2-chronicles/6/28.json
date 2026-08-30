@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 6:28",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "قحط جيڪو زمين ۾ هجي، وبا جيڪا هجي، ساڙو ۽ اُڏام، ٽِڊي ۽ جينگا جيڪا هجن، جيڪو دشمن هن کي زمين ۾ سندس دروازن تي گهيرو ڪري، هر مرض ۽ هر بيماري:",
+  "tokens": [
+    {
+      "surface": "רעב",
+      "gloss": "قحط"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وبا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "שדפון",
+      "gloss": "ساڙو"
+    },
+    {
+      "surface": "וירקון",
+      "gloss": "۽ اُڏام"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ٽِڊي"
+    },
+    {
+      "surface": "וחסיל",
+      "gloss": "۽ جينگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "گهيرو ڪري"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن کي"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "سندس دشمن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "سندس دروازن تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "مرض"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ هر"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "بيماري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:09.254267871Z",
+  "model": "glm-5.3"
+}

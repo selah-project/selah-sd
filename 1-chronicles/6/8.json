@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ايلقَنه سندس پُٽ، ۽ اَبِياسَف سندس پُٽ، ۽ اَسِير سندس پُٽ.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ايلقَنه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "۽ اَبِياسَف"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "۽ اَسِير"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:31.653707801Z",
+  "model": "glm-5.3"
+}

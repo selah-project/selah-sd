@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 8:27",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ سون جا ويھ جام، هڪ هزار daric جي مَني؛ ۽ چمڪندڙ ٽامي جا ٻه ٿانوَ، چنچلپ ۽ سون جهڙا قيمتي.",
+  "tokens": [
+    {
+      "surface": "וכפרי",
+      "gloss": "۽ جام"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جا"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "לאדרכנים",
+      "gloss": "daric جي مَني"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هڪ هزار"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "۽ ٿانوَ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ٽامي"
+    },
+    {
+      "surface": "מצהב",
+      "gloss": "چمڪندڙ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چنچلپ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "חמודת",
+      "gloss": "قيمتي"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "سون جهڙا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:45.369559431Z",
+  "model": "glm-5.3"
+}

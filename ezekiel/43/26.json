@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "ست ڏينهن تائين ⟨את⟩ مذبح جي ڪفاري ڪن ۽ ⟨את⟩ ان کي پاڪ ڪن، ۽ پنهنجون هٿ ڀريون.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "ڪفاري ڪن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "۽ پاڪ ڪن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ان کي",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "۽ ڀريون"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "پنهنجيون هٿ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:42:06.561329320Z",
+  "model": "glm-5.3"
+}

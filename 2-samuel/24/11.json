@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 24:11",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ داويد صبح جو اُٿيو، ۽ ياهوه جو لفظ گد نبيءَ، داويد جي ناظر ڏانھن ٿيو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٿيو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح جو"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "۽ لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گد"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبيءَ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ناظر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد جي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:26:09.137590775Z",
+  "model": "glm-5.3"
+}

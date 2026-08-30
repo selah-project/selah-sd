@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 3:32",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "نشانيون ۽ عجيب ڪم جيڪي عليٰ ايل مون سان ڪيا، مون کي چڱا لڳا ته اهي ظاهر ڪريان.",
+  "tokens": [
+    {
+      "surface": "אתיא",
+      "gloss": "نشانيون"
+    },
+    {
+      "surface": "ותמהיא",
+      "gloss": "۽ عجيب ڪم"
+    },
+    {
+      "surface": "די",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ڪيا"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "عليٰ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "چڱا لڳا"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "להחויה",
+      "gloss": "ظاهر ڪرڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:57:52.304184399Z",
+  "model": "glm-5.3"
+}

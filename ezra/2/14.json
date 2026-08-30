@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "بگواي جا پُٽَ، ٻه ھزار چَپنڄاھ ۽ ڇھ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽَ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بگواي"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ٻه ھزار"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "چَپنڄاھ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "۽ ڇھ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:03.221448400Z",
+  "model": "glm-5.3"
+}

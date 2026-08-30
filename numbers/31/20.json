@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 31:20",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ هر ڪپڙو ۽ چم جو هر سامان ۽ ٻڪرين جي وارن جو هر ڪم ۽ ڪاٺ جو هر سامان پاڪ ڪريو.”",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ هر"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ڪپڙو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ هر"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻڪرين جي وارن جو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ڪاٺ"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "پاڪ ڪريو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:20.845574609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ حصر گدہ ۽ حشmon ۽ بيت فلت،",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "۽ حصر"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "گدہ"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "۽ حشmon"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ بيت"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "فلت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:40.742550884Z",
+  "model": "glm-5.3"
+}

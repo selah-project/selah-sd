@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 7:22",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ياهوه تنهنجو ايلوهيم اُھي قوم ⟨את⟩ تنهنجي سامھون ٿورو ٿورو ڪڍندو؛ تون کين جلدي ختم ڪري نه سگھندين، متان ميدان جي جانور تنهنجي срещو وڌي پون.",
+  "tokens": [
+    {
+      "surface": "ונשל",
+      "gloss": "۽ ڪڍندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تنهنجو ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُھي قوم"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "اُھي قوم"
+    },
+    {
+      "surface": "האל",
+      "gloss": "اُھي"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "تنهنجي سامھون"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ٿورو"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ٿورو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "سگھندين"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "کين ختم ڪري"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "جلدي"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "وڌي پون"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تنهنجي StringUtils回升łychو"
+    },
+    {
+      "surface": "חית",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ميدان جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:38:59.109242053Z",
+  "model": "glm-5.3"
+}

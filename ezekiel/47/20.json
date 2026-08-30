@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "۽ اولهِ پَلوُ وڏو سمنڊ، سرحد کان حمات ۾ اچڻ جي سامهُون تائين؛ هيءَ اولهَندي پَلو آهي۔",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "۽ پَلوُ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمنڊُ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "سرحد کان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "سامهُون"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "اچڻ جي"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمات"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هيءَ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پَلوُ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "اولهَندي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:43:03.281716399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ يصهار جا پٽ ھئا: قورح، نفگ ۽ ذڪري.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "يصهار"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "۽ نفگ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "۽ ذڪري"
+    }
+  ],
+  "timestamp": "2026-08-30T09:57:50.085180860Z",
+  "model": "glm-5.3"
+}

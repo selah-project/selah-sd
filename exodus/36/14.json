@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 36:14",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ هن ٻڪرين جي وارن جا پردا مسڪن تي اوٽ لاءِ ٺاهيا؛ يارنهن پردا هن ⟨את⟩ ٺاهيا.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ٺاهيائين"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پردا"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻڪرين جي وارن"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "اوٽ لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسڪن"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "يارنهن"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پردا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاهيا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "پردا (۾)"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:39.383815919Z",
+  "model": "glm-5.3"
+}

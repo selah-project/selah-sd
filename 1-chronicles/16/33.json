@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "تڏھن جنگل جا وڻ ياهوه جي اڳيان نچندا ڳائين، ڇوته ⟨هو⟩ اچي ٿو ⟨את⟩ زمين کي فيصلو ڪرڻ.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تڏھن"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "نچندا ڳائين"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "היער",
+      "gloss": "جنگل جا"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "فيصلو ڪرڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:21.333958596Z",
+  "model": "glm-5.3"
+}

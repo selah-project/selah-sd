@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 22:23",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "جيڪڏهن ڪا ڇوڪريءَ ڪنواري ڪنهن ماڻهوءَ سان مڱايل هجي، ۽ ڪو ماڻهو کيس شهر ۾ لڌو ۽ ساڻس سمهيو،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ڇوڪريءَ"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "ڪنواري"
+    },
+    {
+      "surface": "מארשה",
+      "gloss": "مڱايل"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ڪنهن ماڻهوءَ سان"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "۽ لڌو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شهر ۾"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "۽ سمهيو"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ساڻس"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:48.449663371Z",
+  "model": "glm-5.3"
+}

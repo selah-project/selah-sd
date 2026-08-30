@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ سندس پيلَڳَش، جو نالو رؤومة ھو، اُن به ⟨את⟩ تبح کي ۽ ⟨את⟩ جحام کي ۽ ⟨את⟩ تحش کي ۽ ⟨את⟩ معڪہ کي ڄڻيو.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "۽ سندس پيلَڳَش"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "جو نالو"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "رؤومة"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تبح"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "تبح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "جحام"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "جحام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "تحش"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "تحش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "معڪہ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معڪہ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:22.094654711Z",
+  "model": "glm-5.3"
+}

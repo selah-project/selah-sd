@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "سربراھي لاءِ، داويد جو زمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "سربراھي لاءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داويد جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:57.010766641Z",
+  "model": "glm-5.3"
+}

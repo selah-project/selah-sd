@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ان جا ڳڻپ ٿيل، گاد قبيلي لاءِ، پنج ۽ چاليھ ھزار ۽ ڇھ سؤ ۽ پنجاھ.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ان جا ڳڻپ ٿيل"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي لاءِ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "۽ چاليھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ ڇھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "۽ پنجاھ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:19.492216557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ قريتيم تي، بيت-گمول تي ۽ بيت-معون تي.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "قريتيم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "گمول"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "معون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:32.538636668Z",
+  "model": "glm-5.3"
+}

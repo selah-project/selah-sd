@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "من پٽ، منهنجي تورات کي نه وسارج، ۽ منهنجيون حڪمن کي تنهنجو دل جانچي.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "من پٽ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "منهنجي تورات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "وسارج"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "۽ منهنجيون حڪمن"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "جانچي"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تنهنجو دل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:05.241429999Z",
+  "model": "glm-5.3"
+}

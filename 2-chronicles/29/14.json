@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 29:14",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ هيمان جي پٽن مان يحيائيل ۽ شمعي، ۽ يڏوتون جي پٽن مان شمعيا ۽ عُزيائيل.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ … مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "هيمان"
+    },
+    {
+      "surface": "יחואל",
+      "gloss": "يحيائيل"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "۽ شمعي"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "۽ … مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "يڏوتون"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شمعيا"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "۽ عُزيائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T15:12:33.570867204Z",
+  "model": "glm-5.3"
+}

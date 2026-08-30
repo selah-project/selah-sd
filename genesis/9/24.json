@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ نوح پنهنجي نشي مان جاڳيو، ۽ ڄاڻيائين ⟨את⟩ جيڪا سندس ننڍي پٽ سندس لاءِ ڪئي.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "۽ جاڳيو"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "پنهنجي شراب مان"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "۽ ڄاڻيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جيڪا سندس ننڍي پٽ ڪئي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪئي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس لاءِ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ننڍي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:32.315299483Z",
+  "model": "glm-5.3"
+}

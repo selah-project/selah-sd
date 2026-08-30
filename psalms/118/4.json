@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 118,
+  "translation": "چون ⟨نه⟩ ياهوه کان ڊيلڙا، ته سندس خيسيد هميشه لاءِ آهي.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "چون"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨نه⟩"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ڊيلڙا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشه لاءِ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "سندس خيسيد"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:47.559091152Z",
+  "model": "glm-5.3"
+}

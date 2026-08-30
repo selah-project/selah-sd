@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 59,
+  "translation": "اُهي کاڌي لاءِ ڀٽڪن؛ جيڪڏهن نه رجهن ته ساري رات گذارين.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "اُهي"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "ڀٽڪن"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "کاڌي لاءِ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "رجهن"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ته رات گذارين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:06.954040475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 30:11",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "پر آشير، منشيه ۽ زبولون مان ڪجهه ماڻهن پاڻ کي جهڪايو ۽ يروشلم آيا.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "آشير مان"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "۽ منشيه"
+    },
+    {
+      "surface": "ומזבלון",
+      "gloss": "۽ زبولون"
+    },
+    {
+      "surface": "נכנעו",
+      "gloss": "پاڻ کي جهڪايو"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "۽ آيا"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "يروشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:29:57.285872703Z",
+  "model": "glm-5.3"
+}

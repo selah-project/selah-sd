@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "حormah جو بادشاھ، ھڪ؛ عراد جو بادشاھ، ھڪ؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "حormah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "عراد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:10.901802951Z",
+  "model": "glm-5.3"
+}

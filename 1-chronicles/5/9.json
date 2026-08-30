@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ اوڀر ڏانهن ⟨اھي⟩ اوڀر جي داخلي تائين، بيابان ۾، نهر فرات کان رھيا، ڇوته سندن مال گيلعاد جي زمين ۾ وڌي ويو.",
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "۽ اوڀر ڏانهن"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "رھيا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "داخلي"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "למן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "فرات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "سندن مال"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "وڌي ويو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "جي زمين ۾"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گيلعاد"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:13.540630955Z",
+  "model": "glm-5.3"
+}

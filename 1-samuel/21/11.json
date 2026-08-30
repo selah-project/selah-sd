@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "داوود اُٿي ان ڏينهن شاول جي منهن کان ڀڄي ويو ۽ گت جي بادشاهه اکيش وٽ آيو.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٿي"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ڀڄي ويو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينهن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان ڏينهن"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "جي منهن کان"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "اڪيش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گت جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:13:54.658959860Z",
+  "model": "glm-5.3"
+}

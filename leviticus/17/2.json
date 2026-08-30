@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 17:2",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "اهارون سان، ۽ سندس پٽن سان، ۽ اسرائيل جي سڀني پٽن سان ڳالھاءُ، ۽ کين چؤ: هي ⟨اهو⟩ لفظ آھي جنهنجو ياهوه حڪم ڪيو، چوندو:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھاءُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہارون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ چوندو آهين"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهنجو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:33.910702984Z",
+  "model": "glm-5.3"
+}

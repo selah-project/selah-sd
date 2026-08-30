@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ڏهيون حصو، ڏهيون حصو ⟨the⟩ هڪڙي وريل لاءِ، ستن وريلن لاءِ.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "ڏهيون حصو"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ڏهيون حصو"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "هڪڙي وريل لاءِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪڙي"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ستن لاءِ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "وريلن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:58.701688797Z",
+  "model": "glm-5.3"
+}

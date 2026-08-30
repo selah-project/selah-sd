@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "بيابان زمين ۾ ويهڻ، جھيڙو ڪندڙ ۽ غصي واري زال سان گڏ رهڻ کان چڱو آهي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو آهي"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ويهڻ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بيابان"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "زال سان گڏ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "جھيڙو ڪندڙ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "۽ غصي واري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:45.167156658Z",
+  "model": "glm-5.3"
+}

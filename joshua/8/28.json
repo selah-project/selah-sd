@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 8:28",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ يھوشوع عي کي ساڙيو ⟨את⟩ ۽ ان کي ھميشہ جو ٿُلهو ٻَڌو، ۽يرانستان، اھو ڏينهن تائين.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "۽ ساڙيو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يھوشوع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عي کي"
+    },
+    {
+      "surface": "העי",
+      "gloss": "عي"
+    },
+    {
+      "surface": "וישימה",
+      "gloss": "۽ ٻَڌو"
+    },
+    {
+      "surface": "תל",
+      "gloss": "ٿُلهو"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ھميشہ جو"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ويرانستان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اھو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:50:40.922296696Z",
+  "model": "glm-5.3"
+}

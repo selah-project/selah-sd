@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ڇوته ائين چوي ٿو ياهوه: ڏڪار جي آواز اسان ٻڌي آهي، وڏو ڊپ ۽ ڪوبه شلوم ناهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "ڏڪار"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "اسان ٻڌي آهي"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "وڏو ڊپ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ناهي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلوم"
+    }
+  ],
+  "timestamp": "2026-08-30T12:17:36.249723297Z",
+  "model": "glm-5.3"
+}

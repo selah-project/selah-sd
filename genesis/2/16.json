@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ياهوه ايلوهيم ماڻھوءَ کي حڪم ڪيو، چوڻ لاءِ: “باغ جي ھر  وڻ جو ميو تون کائيندڙ کائيندو.”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "۽ حڪم ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ھر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کائيندڙ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کائيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:15.654587688Z",
+  "model": "glm-5.3"
+}

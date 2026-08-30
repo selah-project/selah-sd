@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "daniel 2:34",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "تو تائين ڏٺو جو هڪ پٿر ڪُٺو ويو، بنا هٿن جي، ۽ موورتِيءَ کي لڳو سندس لوھ ۽ مٽيءَ جي پيرن تي، ۽ کين رڙھو ڪري ڇڏيائين.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "התגזרת",
+      "gloss": "ڪُٺو ويو"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בידין",
+      "gloss": "هٿن سان"
+    },
+    {
+      "surface": "ומחת",
+      "gloss": "۽ لڳو"
+    },
+    {
+      "surface": "לצלמא",
+      "gloss": "موورتِيءَ کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "پيرن"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "لوھ"
+    },
+    {
+      "surface": "וחספא",
+      "gloss": "۽ مٽي"
+    },
+    {
+      "surface": "והדקת",
+      "gloss": "۽ رڙھو ڪيائين"
+    },
+    {
+      "surface": "המון",
+      "gloss": "کين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:57:27.776999642Z",
+  "model": "glm-5.3"
+}

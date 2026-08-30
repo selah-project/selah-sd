@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 25:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ ⟨את⟩ کيس دفنائيو يصحاق ۽ اسماعيل سندس پُٽن مَڪپيلہ جي غار ۾، عپرون پُٽ صوحر حِثي جي ٻَنيءَ ۾، جيڪا مَمرى جي اَمام ۾ آهي.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "دفنائيو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "کيس"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يصحاق"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "۽ اسماعيل"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پُٽن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "غار"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "مَڪپيلہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ٻَني"
+    },
+    {
+      "surface": "עפרן",
+      "gloss": "عپرون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "صوحر"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِثي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اَمام"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "مَمرى"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:26.336850638Z",
+  "model": "glm-5.3"
+}

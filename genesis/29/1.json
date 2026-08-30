@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "پوءِ يعقوب پنهنجون پير کڻيون ۽ اوڀر جي پٽن جي زمين ڏانهن هليو ويو.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "کڻيون"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "پنهنجون پير"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "هليو ويو"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمين ڏانهن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "اوڀر"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:33.512225396Z",
+  "model": "glm-5.3"
+}

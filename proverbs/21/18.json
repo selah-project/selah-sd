@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "بدڪار نيڪ ماڻهوءَ جو فديو آهي، ۽ غدار سڌرن جي جاءِ تي بيهندو آهي.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "فديو"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "نيڪ ماڻهوءَ جو"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدڪار"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "۽ جاءِ تي"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سڌرن جي"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "غدار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:45.167028419Z",
+  "model": "glm-5.3"
+}

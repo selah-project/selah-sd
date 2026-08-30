@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 11:13",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "مون وٽ مٿان ڪٿان گوشت آندو وڃي ته سڀني هن قوم کي ڏيان، ڇوته اھي مون تي روئين چون ٿا ته اسان کي گوشت ڏي ته اسان کائون.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "ڪٿان"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ته ڏيان"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني کي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "هن قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "روئين ٿا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چون ٿا"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان کي"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "ته کائون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:31.684689520Z",
+  "model": "glm-5.3"
+}

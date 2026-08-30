@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ شمعي جا پٽ — ياحت، زينا، يعوش ۽ بريعه۔ اھي شمعي جا پٽ ھئا، چار۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پٽ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعي"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ياحت"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "زينا"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "۽ يعوش"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "۽ بريعه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعي"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:05.631654128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "گنهگارن تي دلِ تنهنجي حسد نه ڪري، پر ياهوه جي خوف ۾ سڄو ڏينهن رهه.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "حسد ڪري"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دلِ تنهنجي"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "گنهگارن تي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "البته"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "خوف ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:33.307791466Z",
+  "model": "glm-5.3"
+}

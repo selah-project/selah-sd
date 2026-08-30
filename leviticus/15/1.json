@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ ياهوه موشي سان ڳالھيّو ۽ اهارون سان، چوندو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالھيّو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:13.796645212Z",
+  "model": "glm-5.3"
+}

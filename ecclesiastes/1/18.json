@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ڇوته دانائيءَ جي گهڻائي ۾ ناراضپڻ جي گهڻائي آهي، ۽ جيڪو علم وڌائي ٿو، اهو ڏک وڌائي ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "جي گهڻائي ۾"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائيءَ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گهڻائي"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ناراضپڻ جي"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "۽ وڌائي ٿو"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "وڌائي ٿو"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ڏک"
+    }
+  ],
+  "timestamp": "2026-08-30T15:07:55.184227991Z",
+  "model": "glm-5.3"
+}

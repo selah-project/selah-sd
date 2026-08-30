@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 52,
+  "translation": "تو برائي ۾ ڇو فخر ٿو ڪرين، جا بازو وارو؟ ايل جو خيسيد سڄو ڏينھن ⟨آھي⟩۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ڇو (ڇا)"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "فخر ٿو ڪرين"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "برائي ۾"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "جا بازو وارو"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينھن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:38.842855691Z",
+  "model": "glm-5.3"
+}

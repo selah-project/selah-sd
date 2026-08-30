@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "ساراھيل، مان ياهوه کي سڏيندس، ۽ منھنجن دشمنن کان بچندس.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "ساراھيل"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "مان سڏيندس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "۽ کان"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "منھنجن دشمنن"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "بچندس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:29.138491147Z",
+  "model": "glm-5.3"
+}

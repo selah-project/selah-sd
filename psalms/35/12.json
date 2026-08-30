@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "مون کي چنگي جي بدلي ۾ برائي ڀريسن — مون جي ساھ لاءِ يتمائي.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "ڀريسن مون کي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلي ۾"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چنگي جي"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "يتمائي"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "مون جي ساھ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:32.081607105Z",
+  "model": "glm-5.3"
+}

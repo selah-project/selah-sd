@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 12:4",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ تون، دانيل، لفظن کي بند ڪر ۽ ڪتاب کي مَهرو، آخري وقت تائين؛ گهڻا هتي اُتي ڀڳندا ۽ ڄاڻ وڌندي۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانيل"
+    },
+    {
+      "surface": "סתם",
+      "gloss": "بند ڪر"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظن کي"
+    },
+    {
+      "surface": "וחתם",
+      "gloss": "۽ مَهرو"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ڪتاب کي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "آخري"
+    },
+    {
+      "surface": "ישטטו",
+      "gloss": "ڀڳندا"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گهڻا"
+    },
+    {
+      "surface": "ותרבה",
+      "gloss": "۽ وڌندي"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "ڄاڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:02:08.564099612Z",
+  "model": "glm-5.3"
+}

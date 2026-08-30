@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پري آهي اُهو جيڪو ٿيو، ۽ اونهو، اونهو — ڪير ان کي لهي سگهي؟",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "پري"
+    },
+    {
+      "surface": "מה",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "۽ اونهو"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "اونهو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "لهي سگهس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:34.125416879Z",
+  "model": "glm-5.3"
+}

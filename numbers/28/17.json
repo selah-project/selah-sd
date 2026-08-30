@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ هن مهيني جي پندرهنين ڏينهن تي <چئجي> چاڙهو آهي؛ ست ڏينهن مانيون کائجن.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "۽ پندرهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "پندرهن"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "חג",
+      "gloss": "چاڙهو"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "مانيون"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائجن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:26.588705897Z",
+  "model": "glm-5.3"
+}

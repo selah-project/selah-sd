@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ چرٻيون چھتين تي رکيائون، ۽ هن چرٻيون قربانگاهه تي ساڙيون.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "رکيائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چرٻيون"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "چرٻيون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "چھتين"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ساڙيائين"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "چرٻيون"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربانگاهه تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:27.657509920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ايسٽر چيو ته جواب موٽايو مورديخي ڏي.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ايسٽر"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "موٽائڻ لاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مورديخي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:54:05.926328382Z",
+  "model": "glm-5.3"
+}

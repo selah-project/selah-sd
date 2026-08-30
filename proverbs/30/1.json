@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "اَڳُور بن يَقَه جا لفظ — بار: مَرُد چوي ٿو اِٿيئيل کي، اِٿيئيل کي ۽ اُوخال کي:",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "جا لفظ"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "اَڳُور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "يَقَه"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "مَرُد"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "اِٿيئيل کي"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "اِٿيئيل کي"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "۽ اُوخال کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:22.584542777Z",
+  "model": "glm-5.3"
+}

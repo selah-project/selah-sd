@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 19:9",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ اُهو اُتي ⟨the⟩ غار ۾ آيو ۽ اُتي رات ڪيائين؛ ۽ ڏسو، ياهوه جو لفظ ساڻس ڏانهن آيو ۽ مٿس چيائين: تنهنجو هتي ڇا ڪم آهي، ايليا؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "غار"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "رات ڪيائين"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ساڻس"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجو"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هتي"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ايليا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:36:03.508304821Z",
+  "model": "glm-5.3"
+}

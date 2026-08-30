@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "دانائن جا لفظ ماٺيءَ ۾ ٻڌجن ٿا، کان وڌيڪ بيوقوفن ۾ حاڪم جي رڙ.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "جا لفظ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانائن"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "ماٺيءَ ۾"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "ٻڌجن ٿا"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "رڙ کان"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "حاڪم جي"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "بيوقوفن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:49.705934556Z",
+  "model": "glm-5.3"
+}

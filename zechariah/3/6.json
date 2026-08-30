@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ياهوه جو فرشتو يهوشوع کي چتاءُ ڏنو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "۽ چتاءُ ڏنو"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "يهوشوع کي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:55.373998798Z",
+  "model": "glm-5.3"
+}

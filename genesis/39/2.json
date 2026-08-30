@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ ياهوه ⟨את⟩ يوسف سان هوند، ۽ هو ڪامياب ماڻهو هوند، ۽ هو پنهنجي مالڪ متصري جي گهر ۾ هوند.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ هوند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ سان",
+      "marks": "يوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "ڪامياب"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "אדוניו",
+      "gloss": "پنهنجي مالڪ"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "متصري"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:41.460382966Z",
+  "model": "glm-5.3"
+}

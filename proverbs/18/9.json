@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "جو پنھنجي ڪم ۾ سست آھي، اھو تباهي ڪندڙ جو ڀاءُ آھي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "سست"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "پنھنجي ڪم ۾"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ڀاءُ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو ⟨آھي⟩"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "جو مالک"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "تباهي ڪندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:36.001121400Z",
+  "model": "glm-5.3"
+}

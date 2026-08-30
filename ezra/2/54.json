@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "نتسيح جا پٽ، حتيفا جا پٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "نتسيح"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "حتيفا"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:39.511208127Z",
+  "model": "glm-5.3"
+}

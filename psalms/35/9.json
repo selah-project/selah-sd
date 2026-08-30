@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ مون جي ساھ ياهوه ۾ ڇمڪندي، سندس نجات ۾ خوش ٿيندي.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "۽ مون جي ساھ"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "ڇمڪندي"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه ۾"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "خوش ٿيندي"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "سندس نجات ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:32.081108677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ يقطان ⟨את⟩ المودد ۽ ⟨את⟩ شلف ۽ ⟨את⟩ حصرموت ۽ ⟨את⟩ يرخ کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "۽ يقطن"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المودد"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "المودد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "شلف"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "شلف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حصرموت"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "حصرموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "يرخ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "يرخ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:52.295101162Z",
+  "model": "glm-5.3"
+}

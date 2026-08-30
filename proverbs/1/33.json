@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 1:33",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "پر جيڪو مون ٻڌڻ ڪري ٿو سو بيتڪ ٿي رهندو ۽ برائيءَ جي خوف کان آسودو رهندو.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "پر جيڪو ٻڌڻ ڪري ٿو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "رهندو"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "بيتڪ ٿي"
+    },
+    {
+      "surface": "ושאנן",
+      "gloss": "آسودو رهندو"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "خوف کان"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:10.959294448Z",
+  "model": "glm-5.3"
+}

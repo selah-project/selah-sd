@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "ياهوه سندس سڀ هڏيون تاڻي ٿو؛ انهن مان هڪ به نه ٽٽي.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "تاڻي ٿو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "سندس هڏيون"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "انهن مان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ٽٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:02:16.582578745Z",
+  "model": "glm-5.3"
+}

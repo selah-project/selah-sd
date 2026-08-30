@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "چڱي ڏينهن ۾ چڱائيءَ ۾ رهه، ۽ خراب ڏينهن ۾ ڏس؛ ايلوهيم ⟨את⟩ هيءُ به هن جي سامهون ٺاهيو آهي، تنهنڪري جو ماڻهوءَ کان پوءِ ڪجهه به نه ملي.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چڱي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "رهه"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "چڱائيءَ ۾"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "۽ ڏينهن ۾"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراب"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پوءِ به"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هيءُ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "هن جي سامهون"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاهيو آهي"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ان مقصد سان جو"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ملي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهوءَ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ڪجهه به"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:21.372933603Z",
+  "model": "glm-5.3"
+}

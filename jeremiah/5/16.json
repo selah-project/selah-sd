@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ان جي تير-دانون کليل قبر آهي؛ سڀئي سورما آهن.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "ان جي تير-دانون"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "جهڙي قبر"
+    },
+    {
+      "surface": "پתוח",
+      "gloss": "کليل"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "سورما"
+    }
+  ],
+  "timestamp": "2026-08-30T12:08:20.177528263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "سردار ڪنز، سردار تيمان، سردار مبتسر.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "ڪنز"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تيمان"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "مبتسر"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:22.189328503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 7:22",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ اِفرايم سندن پيءُ ڏينهن گهڻا ماتم ڪيو، ۽ سندس ڀائر کيس تسلي ڏيڻ لاءِ آيا.",
+  "tokens": [
+    {
+      "surface": "ויתאבל",
+      "gloss": "ماتم ڪيو"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرايم"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "سندن پيءُ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گهڻا"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "سندس ڀائر"
+    },
+    {
+      "surface": "לנחמו",
+      "gloss": "کيس تسلي ڏيڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:35.579698665Z",
+  "model": "glm-5.3"
+}

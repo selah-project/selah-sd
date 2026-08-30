@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "جيڪو برائي ڪرڻ جي خيال ۾ رهي، ان کي مڪران جو مالڪ سڏيندا.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "خيال ۾ رهي"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "برائي ڪرڻ جي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "جو مالڪ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "مڪران"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "سڏيندا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:09.005084660Z",
+  "model": "glm-5.3"
+}

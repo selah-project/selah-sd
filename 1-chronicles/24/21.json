@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "رِحَبياه جي لاءِ: رِحَبياه جي پٽن مان ⟨سرواڻ⟩ يشِيَاه هُيو.",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "رِحَبياه جي لاءِ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن مان"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "رِحَبياه"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨سرواڻ⟩"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "يشِيَاه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:01.577580133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ جيڪو توهان چئو: ستين سال ۾ ڇا کائون؟ ڏسو، اسان نہ پوکيون ۽ نہ ⟨את⟩ پنھنجي پوک ٻڌي گڏ ڪريون.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "۽ جيڪو"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "توهان چئو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "کائون"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سال ۾"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "پوکيون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نہ"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "گڏ ڪريون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجي پوک"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "پنھنجي پوک"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:55.899036756Z",
+  "model": "glm-5.3"
+}

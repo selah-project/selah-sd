@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "ھي ڪير آھي جو نہ ڄاڻ بنا لفظن سان صلاح کي اونداهو ڪري ٿو؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "اونداهو ڪري ٿو"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "لفظن سان"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بنا"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:02.159264232Z",
+  "model": "glm-5.3"
+}

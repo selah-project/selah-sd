@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "ياهوه ۾ سڀني اسرائيل جي نسل ⟨کي⟩ نيڪ ڪيو ويندو، ۽ فخر ڪندو.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه ۾"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "نيڪ ڪيا ويندا"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "۽ فخر ڪندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T12:00:16.786413062Z",
+  "model": "glm-5.3"
+}

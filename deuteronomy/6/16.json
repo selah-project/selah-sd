@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ياهوه ⟨את⟩ توهان جي ايلوهيم کي ازمائيو نه، جيئن توهان مَسّہ ۾ ازمايو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "ازمائيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "توهان جي ايلوهيم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "ازمايو"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "مَسّہ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:41:39.996512532Z",
+  "model": "glm-5.3"
+}

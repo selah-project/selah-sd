@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 6:14",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ داويد ياهوه جي اڳيان سڄي طاقت سان نچيو، ۽ داويد ھڪ سُتي جي ايفود ٻَڌل ھو.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "۽ داويد"
+    },
+    {
+      "surface": "מכרכר",
+      "gloss": "نچيو (گھمڻ)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت سان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "۽ داويد"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "ٻَڌل"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ايفود"
+    },
+    {
+      "surface": "בד",
+      "gloss": "سُتي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:19:08.395953616Z",
+  "model": "glm-5.3"
+}

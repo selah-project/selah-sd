@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ بنيامين جي سرحد سان، اوڀر واري پاسن کان اولهه واري پاسن تائين، شمئون هڪ (حصو).",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين جي"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "پاسن کان"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "اوڀر واري"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسن"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "اولهه واري"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمئون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:08.301586931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezra 2:56",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "يَعلا جا پٽ، درقون جا پٽ، گدل جا پٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "يَعلا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "درقون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گدل"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:13.154399826Z",
+  "model": "glm-5.3"
+}

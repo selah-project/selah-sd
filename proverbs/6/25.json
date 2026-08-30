@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "تنهنجي دل ۾ سندس حسن جي تمنا نه ڪر، ۽ نه سندس پلڪن تو کي پڪڙين.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "تمنا ڪر"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "سندس حسن"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "تنهنجي دل ۾"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "تو کي پڪڙين"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "سندس پلڪن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:10.154874639Z",
+  "model": "glm-5.3"
+}

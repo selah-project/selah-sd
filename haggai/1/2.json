@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "اهڙيءَ طرح ياهوه فوجن جو چيو ٿو، چوڻ ته: هي ماڻهو چيا آهن ته وقت نه آهي، ياهوه جي گهر جي ٺاهڻ جو وقت نه آهي.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اهڙيءَ طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "فوجن جو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "چيا آهن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "ٻڏائڻ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:15.509181604Z",
+  "model": "glm-5.3"
+}

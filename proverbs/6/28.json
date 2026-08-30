@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ٻيھر ڪو ماڻهو ڳاري کوئن تي هلندو، ۽ سندس پير نه ٻڙندا؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ٻيھر ... ڇا"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "هلندو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "ڳاري کوئن"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "۽ سندس پير"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכוינه",
+      "gloss": "ٻڙندا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:10.155510247Z",
+  "model": "glm-5.3"
+}

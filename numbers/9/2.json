@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ اسرائيل جا پٽ ⟨את⟩ فصح پنهنجي مقرر وقت تي ڪن:",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "۽ ڪن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فصح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "فصح"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "پنهنجي مقرر وقت تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:27.678708125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ڇوڪي اھو باغي قوم ⟨آھي⟩، جھوٽي پٽ، اھڙا پٽ جي ياهوه جي تورات ٻڌڻ نٿا چاهين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "باغي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "جھوٽي"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "اھڙا پٽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "نٿا چاهين"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ٻڌڻ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:55:37.348794875Z",
+  "model": "glm-5.3"
+}

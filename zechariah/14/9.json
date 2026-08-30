@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ياهوه سڄي زمين تي بادشاهه ٿيندو؛ ان ڏينهن ۾ ياهوه هڪ هوندو ۽ سندس نالو هڪ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاهه طور"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "۾ ڏينهن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "۽ سندس نالو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:58:20.952652473Z",
+  "model": "glm-5.3"
+}

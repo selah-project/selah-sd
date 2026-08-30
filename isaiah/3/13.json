@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 3:13",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ياهوه منهن وٺڻ لاءِ کڻي بيٺو، ۽ قومن جو فيصلو ڪرڻ لاءِ بيٺو ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "נצב",
+      "gloss": "کڻي بيٺو"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "منهن وٺڻ لاءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "۽ بيٺو"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "فيصلو ڪرڻ لاءِ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:33.618220657Z",
+  "model": "glm-5.3"
+}

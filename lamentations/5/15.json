@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "اسان جي دل جو خوشي بند ٿي ويو، اسان جو ناچ ماتم ۾ مٽجي ويو.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "بند ٿي ويو"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "خوشي"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "اسان جي دل جو"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "مٽجي ويو"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "ماتم ۾"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "اسان جو ناچ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:47.128024575Z",
+  "model": "glm-5.3"
+}

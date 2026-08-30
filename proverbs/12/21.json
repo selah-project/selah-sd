@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "نيڪ ماڻهوءَ تي ڪوبه ظلم نه اچي، پر بدڪار برائي سان ڀرجي ويا آهن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "نيڪ ماڻهوءَ تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "און",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "پر بدڪار"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ڀرجي ويا آهن"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائي سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:01.274431293Z",
+  "model": "glm-5.3"
+}

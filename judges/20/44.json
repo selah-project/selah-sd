@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "judges 20:44",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ بنيامين مان اٺارهن هزار ماڻهو ڪري پيا — ⟨את⟩ سڀ اهي بهادر ماڻهو هئا.",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "۽ ڪري پيا"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "بنيامين مان"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏهن"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ اهي بهادر ماڻهو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بهادري"
+    }
+  ],
+  "timestamp": "2026-08-30T11:05:20.125001247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "جو مينهن زمين جي مُنهن تي ڏئي ٿو ۽ پاڻي ٻاهرين ماٿانين تي موڪلي ٿو.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "جو ڏئي ٿو"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "مينهن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُنهن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "۽ موڪلي ٿو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُنهن"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ٻاهرين ماٿانين"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:29.472269941Z",
+  "model": "glm-5.3"
+}

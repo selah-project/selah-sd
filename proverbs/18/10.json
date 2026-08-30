@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "ياهوه جو نالو زور جو مينار آھي؛ اُن ۾ نيڪ ڊوڙي ٿو ۽ اُسرٺو وڃي ٿو.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "مينار"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُن ۾"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ڊوڙي ٿو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "۽ اُسرٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:36.001382418Z",
+  "model": "glm-5.3"
+}

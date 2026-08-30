@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 9:14",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "ڪر ڏين <00> ياهوه، ڇا ڪر ڏينr؟ ڪر ڏين مٿن گربهن جو رحم ۽ سُڪل جهڃون.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ڪر ڏين"
+    },
+    {
+      "surface": "لהם",
+      "gloss": "مٿن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ڪر ڏين"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ڪر ڏين"
+    },
+    {
+      "surface": "להם",
+      "gloss": "مٿن"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رحم"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "گربهو"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "۽ جهڃون"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "سُڪل"
+    }
+  ],
+  "timestamp": "2026-08-30T12:45:28.714159476Z",
+  "model": "glm-5.3"
+}

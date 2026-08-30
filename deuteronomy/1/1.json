@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "اهي ئي آهن اُهي لفظ جيڪي موشي سڀني اسرائيليءَ کي چيا، ياردن جي پار، ۾ بيابان، ۾ عربه ۾، سُوف جي سامهون، پارن ۽ توپل ۽ لابن ۽ حصيرت ۽ ضي زهب جي وچ ۾.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيليءَ"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "جي پار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ياردن"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "۾ بيابان"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "۾ عربه"
+    },
+    {
+      "surface": "מול",
+      "gloss": "جي سامهون"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سُوف"
+    },
+    {
+      "surface": "בין",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "پارن"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ جي وچ ۾"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "توپل"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "۽ لابن"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "۽ حصيرت"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "۽ ضي"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زهب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:48.250425139Z",
+  "model": "glm-5.3"
+}

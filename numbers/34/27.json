@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ آشَر جي پُٽن جي قبيلي لاءِ ناسي (سردار) اَحِيهُود شَلومي جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "قبيلي لاءِ ۽"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشَر"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ناسي (سردار)"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "اَحِيهُود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "شَلومي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:49.014051905Z",
+  "model": "glm-5.3"
+}

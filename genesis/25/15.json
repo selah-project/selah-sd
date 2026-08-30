@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "حدد ۽ تيما، يتور، نفش ۽ قدمه.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "حدد"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "۽ تيما"
+    },
+    {
+      "surface": "يטור",
+      "gloss": "يتور"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "نفش"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "۽ قدمه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:01.939330180Z",
+  "model": "glm-5.3"
+}

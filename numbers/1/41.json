@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 1:41",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ان جي ڳڻپ لڳي قبيلي آشر جي هڪ ۽ چاليھ هزار ۽ پنج سؤ.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ان جي ڳڻپ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "۽ چاليھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:41.822449482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "مون لاءِ ڊپ جو سبب نه بڻج؛ تون ⟨آهين⟩ منهنجو پناھ گاھ برائيءَ جي ڏينهن ۾.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بڻج"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "ڊپ جو سبب"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "منهنجو پناھ گاھ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:12:48.767304003Z",
+  "model": "glm-5.3"
+}

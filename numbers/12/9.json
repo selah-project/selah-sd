@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ياهوه جو ڪاوڙُ انهن تي ٻَريو، ۽ ⟨هو⟩ هليو ويو.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ٻريو"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ڪاوڙُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انهن تي"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "هليو ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:49.040766981Z",
+  "model": "glm-5.3"
+}

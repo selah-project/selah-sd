@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "اِبنِ آدم! ان کي چؤ: تون ⟨⟨اھو⟩⟩ زمين آھين جا صاف نه ٿي آھي، غضب جي ڏينهن ۾ مينهن نه وسيو آھي.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم جو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "تون"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "صاف ٿيل"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "مينهن وسيو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "۾ ڏينهن"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "غضب جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:34:05.930567918Z",
+  "model": "glm-5.3"
+}

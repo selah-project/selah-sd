@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ⟨את⟩ سمو تُرڻ کانسي مڃيندو ۽ قربانگاهه تي خوشبوءِ ٿي ڏاريندو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سمو تُرڻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سمو"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "تُرڻ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "مڃيندو"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ان مان"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "۽ خوشبوءِ ٿي ڏاريندو"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربانگاهه تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:46.166639196Z",
+  "model": "glm-5.3"
+}

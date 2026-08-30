@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "گھمنڊ جو پير مون کي نه اچي، ۽ ظالمن جو ھٿ مون کي نه لڏائي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "مون کي اچي"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پير"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "گھمنڊ جو"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "۽ ھٿ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ظالمن جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תנדנي",
+      "gloss": "مون کي لڏائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:26.623844551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "چوتهين جي بدران پٽ کي سڱ ھڻي يا نياڻيءَ کي سڱ ھڻي، تنھن مٿس انھيءَ ئي فيصلي موجب ڪيو ويندو.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "سڱ ھڻي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "نياڻيءَ کي"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "سڱ ھڻي"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "فيصلي موجب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "انھيءَ ئي"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪيو ويندو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "مٿس"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:05.309445635Z",
+  "model": "glm-5.3"
+}

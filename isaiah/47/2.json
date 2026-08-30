@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 47:2",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "پيهڻيون وٺه ۽ اٽو پيهه؛ پنهنجو گهونگht کول، پنهنجو پلّو کڻ، پنهنجي سِر کول، دريا پار ڪر.",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "وٺه"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "پيهڻيون"
+    },
+    {
+      "surface": "וטחני",
+      "gloss": "۽ پيهه"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "اٽو"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "کول"
+    },
+    {
+      "surface": "צמתך",
+      "gloss": "پنهنجو گهونگht"
+    },
+    {
+      "surface": "חשפي",
+      "gloss": "کڻ"
+    },
+    {
+      "surface": "שבל",
+      "gloss": "پلّو"
+    },
+    {
+      "surface": "گلי",
+      "gloss": "کول"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "سِر"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "پار ڪر"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دريا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:54:01.714127290Z",
+  "model": "glm-5.3"
+}

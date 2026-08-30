@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ ٻيو قطار: نوفخ، نيلم (سفير) ۽ يھلم —",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "۽ قطار"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "نوفخ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "نيلم (سفير)"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "۽ يھلم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:06:28.995421022Z",
+  "model": "glm-5.3"
+}

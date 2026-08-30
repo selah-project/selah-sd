@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 10:33",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "حشوم جي پٽن مان: متني، متته، زبد، اليفلٽ، يرمي، منشه، شمعي.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "جي پٽن مان"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "حشوم"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "متني"
+    },
+    {
+      "surface": "מתתה",
+      "gloss": "متته"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زبد"
+    },
+    {
+      "surface": "אליפלט",
+      "gloss": "اليفلٽ"
+    },
+    {
+      "surface": "ירמי",
+      "gloss": "يرمي"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:39.841287503Z",
+  "model": "glm-5.3"
+}

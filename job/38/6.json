@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "ان جا بنياد ڪنھن تي ڳڙڪايل آھن، يا ڪنهن ان جي ڪنڊ جي پٿر رکيو؟",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڪنھن تي"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "ان جا بنياد"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "ڳڙڪايل آھن"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪنهن"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "رکيو"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "ان جي ڪنڊ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:31.836874223Z",
+  "model": "glm-5.3"
+}

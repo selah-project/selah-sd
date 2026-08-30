@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ شيَعا لکڻھار ھو، ۽ صادق ۽ ابياثر ڪاھن ⟨ھئا⟩.",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "۽ شيَعا"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "لکڻھار"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "۽ صادق"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "۽ ابياثر"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ڪاھن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:23:30.775494528Z",
+  "model": "glm-5.3"
+}

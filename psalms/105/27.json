@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "هنن ۾ هن پنهنجن نشانين جا ڪم رکيا، ۽ عجائب حام جي زمين ۾.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "رکيا"
+    },
+    {
+      "surface": "בם",
+      "gloss": "هنن ۾"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "جا ڪم"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "پنهنجن نشانين"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "۽ عجائب"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "جي زمين ۾"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:37.179277510Z",
+  "model": "glm-5.3"
+}

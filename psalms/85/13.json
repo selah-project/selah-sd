@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 85,
+  "translation": "بيشڪ ياهوه سڳورو ڏيندو، ۽ اسان جي زمين پنهنجو پيداوار ڏيندي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڏيندو"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "سڳورو"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "۽ اسان جي زمين"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ڏيندي"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "پنهنجو پيداوار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:33.317386578Z",
+  "model": "glm-5.3"
+}

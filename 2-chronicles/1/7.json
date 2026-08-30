@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ان رات ايلوهيم شلومو تي ظاھر ٿيو، ۽ ان کي چيائين: “پُچُ ماٺ ڪجي، جيڪو مون کي توکي ڏيڻو آھي.”",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "ان رات"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ظاھر ٿيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو تي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پُچُ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "مان ڏيان"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:17.717555471Z",
+  "model": "glm-5.3"
+}

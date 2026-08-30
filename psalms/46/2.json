@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "ايلوهيم اسان لاءِ پناھ ۽ طاقت ⟨آھي⟩، تنگيون ۾ مدد تمام solder ٿي ملي.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان لاءِ"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناھ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "۽ طاقت"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "تنگيون ۾"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ملي ٿي"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تم solder"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:11.233221994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ اخآب عوبدياهو کي سڏيو، جيڪو گهر جو مختار هو، ۽ عوبدياهو ياهوه کان تمام گھڻو ڊٻل هو.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اخآب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "عوبدياهو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر جو"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "۽ عوبدياهو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڊٻل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام گھڻو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:35:11.008730100Z",
+  "model": "glm-5.3"
+}

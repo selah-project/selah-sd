@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ عورت وٽ، سندس نجاست جي عليحدگيءَ ۾، نه وڃج، سندس ننگ کي ظاهر ڪرڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "۽ ... وٽ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "عليحدگيءَ ۾"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "سندس نجاست جي"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "وڃج"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ظاهر ڪرڻ لاءِ"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "سندس ننگ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:09.270477993Z",
+  "model": "glm-5.3"
+}

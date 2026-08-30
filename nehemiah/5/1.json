@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ قوم ۽ سندن زالن جي اوچي رڙ لڳي، سندن ڀائرن يهودين خلاف۔",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "رڙ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "۽ سندن زالن جي"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "اوچي (وڏي)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "خلاف"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "سندن ڀائرن"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "يهودين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:06:39.035152115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ائيَن چوي ٿو ياهوه لشڪرن جو: توهان پنھنجن دلين کي پنھنجن رستن تي رکو.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ائيَن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "لشڪرن جو"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "رکو"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "توهان جون دلين کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "توهان جي رستن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:05.687076836Z",
+  "model": "glm-5.3"
+}

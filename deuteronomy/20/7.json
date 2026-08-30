@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ڇا ڪو ماڻهو آھي جنھن ھڪ زال سان سفارث ڪئي ۽ ان کي نه ورتو؟ ھليو ۽ پنھنجي گھر موٽي وڃي، متان جنگ ۾ مري ۽ ٻيو ماڻهو ان کي وٺي.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "۽ ڇا ڪو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ماڻهو آھي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنھن"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "سفارث ڪئي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "ورتو"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ھليو"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "۽ موٽي وڃي"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "پنھنجي گھر"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مري"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "جنگ ۾"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ٻيو ماڻهو"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "وٺي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:22.928831597Z",
+  "model": "glm-5.3"
+}

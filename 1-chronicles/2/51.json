@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "سلما، بيت لحم جو پيءُ؛ حريف، بيت گدر جو پيءُ.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "سلما"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جو پيءُ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "حريف"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جو پيءُ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "گدر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:51.468126736Z",
+  "model": "glm-5.3"
+}

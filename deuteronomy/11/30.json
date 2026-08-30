@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 11:30",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ڇا اھي يردن جي ٻي پار، سج لھڻ واري رستي جي پٺيان، ڪنعاني جي زمين ۾ ناھن، جيڪو عربہ ۾ رهندڙ آھي، گلگل جي سامهون، موره جي بَڙَن جي ڀر ۾؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ڇا ناھن"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "پار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "يردن"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پٺيان"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستي"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "لھڻ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ڪنعاني"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "رهندڙ"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "عربہ ۾"
+    },
+    {
+      "surface": "מול",
+      "gloss": "سامهون"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "گلگل"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ڀر ۾"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "بَڙَن"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "موره"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:10.314723040Z",
+  "model": "glm-5.3"
+}

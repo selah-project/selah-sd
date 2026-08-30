@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "براءِ ماڻهن سان حسد نه ڪر، ۽ نه خواهش ڪر ته سندن ساٿ ۾ ⟨אתם⟩ هجي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "حسد ڪر"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "ماڻهن سان"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "براءِ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "خواهش ڪر"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "سندن ساٿ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:35.773850896Z",
+  "model": "glm-5.3"
+}

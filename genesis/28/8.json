@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ عيسوءَ ڏٺو ته کنعان جون ڌيون سندس پيءُ يتسحاق جي نظرن ۾ بُريون آهن.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسوءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "بُريون"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيون"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "نظرن ۾"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يتسحاق"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "سندس پيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:48.362628304Z",
+  "model": "glm-5.3"
+}

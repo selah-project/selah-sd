@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "منھنجا پٽ، منھنجا لفظ سانڍ ۽ منھنجا حڪم پاڻ وٽ ⟨את⟩ لِڪاي رک.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "منھنجا پٽ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "سانڍ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "منھنجا لفظ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "۽ منھنجا حڪم"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "لِڪاي رک"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ پاڻ وٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:56.607520034Z",
+  "model": "glm-5.3"
+}

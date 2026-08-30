@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ڦٽن اُٿو ۽ ٻڍي جي منهن جي تعظيم ڪريو ۽ پنهنجي ايلوهيم کان ڊجو؛ آئين ياهوه.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ڦٽن اُٿو"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ڦٽ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "اُٿو"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "۽ تعظيم ڪريو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ٻڍي"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "۽ ڊجو"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "پنهنجي ايلوهيم کان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آئين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:09.665952661Z",
+  "model": "glm-5.3"
+}

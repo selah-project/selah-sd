@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "من نه موڪليو ⟨את⟩ نبين کي، پر ⟨هي⟩ ڊوڙيا؛ من نه ٻڌايو هنن سان، پر ⟨هي⟩ نبوا ڪيائون.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "من موڪليو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نبين کي"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "نبين کي"
+    },
+    {
+      "surface": "והם",
+      "gloss": "پر ⟨هي⟩"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ڊوڙيا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "من ٻڌايو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "هنن سان"
+    },
+    {
+      "surface": "והם",
+      "gloss": "پر ⟨هي⟩"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "نبوا ڪيائون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:14:45.382989309Z",
+  "model": "glm-5.3"
+}

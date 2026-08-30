@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ ڪا جنگ نه ٿي، آسا جي بادشاهت جي پنجٽيهين سال تائين.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "۽ جنگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "بادشاهت جي"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:19.567144667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "ياد رک، آئون ڪھڙو ننڍڙو جيون جو آھيان؛ ڪھڙي بيفائديءَ لاءِ تون سڀ آدم جي پٽن کي خلقيو؟",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ياد رک"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آئون"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڪھڙو"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ننڍڙو جيون"
+    },
+    {
+      "surface": "על",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڪھڙي"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "بيفائديءَ"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "خلقيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-30T15:03:22.824858535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ آءٌ سڀ بُرائيءَ جي ۾، جماعت ۽ assembled مجلس جي وچ ۾، لڳ بڳ هوندو ويس.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "لڳ بڳ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "هوندو ويس"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ ... جي ۾"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بُرائيءَ جي"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "קהل",
+      "gloss": "جماعت جي"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "۽ مجلس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:39.265760130Z",
+  "model": "glm-5.3"
+}

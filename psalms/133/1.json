@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 133,
+  "translation": "عروجن جو گيت، داوود جو. ڏس، ڪيڏو نه سٺو ۽ ڪيڏو نه سهڻو — ڀائرن جو گڏ رهڻ، بلڪي ئي گڏ!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "عروجن جو"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڪيڏو نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "سٺو"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "۽ ڪيڏو نه"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "سهڻو"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "رهڻ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ڀائرن جو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بلڪي ئي"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "گڏ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:23.346233777Z",
+  "model": "glm-5.3"
+}

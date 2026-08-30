@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 57,
+  "translation": "اوچو ٿيءُ، ايلوهيم، آسمانن کان مٿي؛ سڄي زمين تي تنهنجي شان.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "اوچو ٿيءُ"
+    },
+    {
+      "surface": "על",
+      "gloss": "کان مٿي"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "تنهنجي شان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:10.663343796Z",
+  "model": "glm-5.3"
+}

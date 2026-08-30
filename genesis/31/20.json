@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ يعقوب ⟨את⟩ ارامي لابان جو دل چوريائي، ڇو ته هن کي ٻُڌائيائين ئي  نه ته هو ڀڄي رهيو آهي.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "چوريائي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "ارامي"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ٻُڌائيائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ڀڄي رهيو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:48:36.147143149Z",
+  "model": "glm-5.3"
+}

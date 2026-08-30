@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 115,
+  "translation": "۽ اسان جو ايلوهيم آسمانن ۾ ⟨آهي⟩؛ سڀ جيڪو ڀانئي ٿو، سو ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "۽ اسان جو ايلوهيم"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانن ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ڀانئي ٿو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪري ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:22.291062944Z",
+  "model": "glm-5.3"
+}

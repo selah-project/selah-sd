@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 2:16",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ترشيش جي سڀ ٻيڙين تي، ۽ سڀ سُکڻ جي شيءِ — سڀ سهڻين شين تي،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ … تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ٻيڙين"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ترشيش جي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ … تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "שכיות",
+      "gloss": "سهڻين شين"
+    },
+    {
+      "surface": "החמדה",
+      "gloss": "سُکڻ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:46:47.169412917Z",
+  "model": "glm-5.3"
+}

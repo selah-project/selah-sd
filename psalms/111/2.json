@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 111,
+  "translation": "وڏا آهن ياهوه جا ڪم، سندس مرضين ڪندڙن لاءِ ڳوليا وڃن ٿا۔",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "وڏا"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جا"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "ڳوليا وڃن ٿا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني لاءِ"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "کين مرضي ڪندڙن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:00.575411069Z",
+  "model": "glm-5.3"
+}

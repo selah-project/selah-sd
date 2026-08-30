@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ڀڳو وڃ، منهنجا محبوب، ۽ ⟨پاڻ کي⟩ گيسوءِ يا هرن جي ٻچي جهڙو ڄاڻ، خوشبودار جبلن تي.",
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "ڀڳو وڃ"
+    },
+    {
+      "surface": "דודي",
+      "gloss": "منهنجا محبوب"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "۽ جهڙو ڄاڻ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ کي"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "گيسوءِ"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "هرن جي ٻچي"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "هرن جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "جبلن"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "خوشبودار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:47:08.006428596Z",
+  "model": "glm-5.3"
+}

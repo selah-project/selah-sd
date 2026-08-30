@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پندرهن اَمھ مَٿي پاڻي طاقتور ٿيا، ۽ جبل ڍڪجي ويا.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "پندرهن"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمھ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "مَٿي"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "طاقتور ٿيا"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "۽ ڍڪجي ويا"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "جبل"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:13.644079449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ يونهه تي وڏي برائي وائي، ۽ هن کي ڏاڍو ڪوپو لڳو.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "برائي وائي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "يونهه"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "۽ ڪوپو لڳو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:50:46.293677254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "اونڌين ماڻهن جي سَرِ، رستن تي، رستن جي وچ ۾ ⟨هي⟩ بيٺي آهي.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "سَرِ"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "اونڌين ماڻهن جي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "رستن جي"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "بيٺي آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:11.375235844Z",
+  "model": "glm-5.3"
+}

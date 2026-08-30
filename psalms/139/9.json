@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 139,
+  "translation": "جيڪڏھن مان پراھڻ جا پر کڻان ۽ سمنڊ جي آخرين ڪنڊ ۾ رھان،",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "کڻان"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "جا پر"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "پراھڻ"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "رھان"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "جي آخرين ڪنڊ ۾"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمنڊ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:31.757609483Z",
+  "model": "glm-5.3"
+}

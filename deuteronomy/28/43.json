@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "مانهُو جيڪو تنهنجي وچ ۾ آهي، تنهنجي مٿان چڙهندو ويندو ماٿران ماٿران، ۽ تون لهندو ويندين هيٺان هيٺان.",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "مانهُو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تنهنجي وچ ۾"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڙهندو"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تنهنجي مٿان"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ماٿران"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ماٿران"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "لهندو"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "هيٺان"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "هيٺان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:47.658336780Z",
+  "model": "glm-5.3"
+}

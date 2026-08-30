@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ماڻهوءَ لاءِ چڱو آهي ته هو پنهنجي ننڍپڻ ۾ جوءَ کڻي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "ماڻهوءَ لاءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "کڻي"
+    },
+    {
+      "surface": "על",
+      "gloss": "جوءَ"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "پنهنجي ننڍپڻ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:21.219451377Z",
+  "model": "glm-5.3"
+}

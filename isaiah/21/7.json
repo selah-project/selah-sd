@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 21:7",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ⟨پاسبي⟩ رٿ ۽ جوڙي سوارن جي، گڏهن جي رٿ ۽ اُٺن جي رٿ ڏسي، ۽ ڪن ڌارجي — تمام گهڻو ڌيان، ڌيان!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ڏسي"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رٿ"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "جوڙي"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "سوارن جي"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رٿ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "گڏهن جي"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رٿ"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "اُٺن جي"
+    },
+    {
+      "surface": "והקשיב",
+      "gloss": "ڪن ڌارجي"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "ڌيان"
+    },
+    {
+      "surface": "רב",
+      "gloss": "تمام گهڻو"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "ڌيان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:52:08.951727703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ رت جو گوئيل کيس پناهه واري شهر جي سرحد کان ٻاهر لهي، ۽ رت جي گوئيل ⟨את⟩ قاتل کي ماري، ته کيس رت جو ڏوهه ناهي.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "لهي وڃي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "کيس (قاتل)"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "گوئيل"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت جو"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "سرحد کان"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "پناهه"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "ماري"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "گوئيل"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت جي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاتل"
+    },
+    {
+      "surface": "הרוצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت (جو ڏوهه)"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:52.872045777Z",
+  "model": "glm-5.3"
+}

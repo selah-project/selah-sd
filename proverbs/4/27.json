@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "اُڄاڻي نه ڏي، ساڄي ۽ کاٻي؛ پنھنجو پير برائي کان موڙ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תט",
+      "gloss": "اُڄاڻي نه ڏي"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ساڄي"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "۽ کاٻي"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "موڙ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پنھنجو پير"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "برائي کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:46.317502160Z",
+  "model": "glm-5.3"
+}

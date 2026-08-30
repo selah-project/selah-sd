@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 6:13",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇاڪاڻ ته ننڍن کان وڏن تائين سڀ ناجائز نفعو کٺو ڪن ٿا، ۽ نبيءَ کان کاهن تائين سڀ ڪوڙ پيو ڪن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "מקטנם",
+      "gloss": "ننڍن کان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "גדולם",
+      "gloss": "وڏن"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "ناجائز نفعو کٺو ڪن ٿا"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ناجائز نفعو"
+    },
+    {
+      "surface": "ומנביא",
+      "gloss": "۽ نبيءَ کان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "پيو ڪن"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:55:22.172563515Z",
+  "model": "glm-5.3"
+}

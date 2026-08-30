@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 20:23",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ڳالھ جيڪا اسان ٻنهي ڪئي — مان ۽ تون — ڏس، ياهوه ⟨آهي⟩ مون ۽ تنهنجي وچ ۾، هميشه تائين.",
+  "tokens": [
+    {
+      "surface": "והדבר",
+      "gloss": "۽ ڳالھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "اسان ڪئي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "مون"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "۽ تنهنجي وچ ۾"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:11:39.000984785Z",
+  "model": "glm-5.3"
+}

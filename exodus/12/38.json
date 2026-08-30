@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ھڪ وڏو گڏيل ميڙ به ⟨את⟩ انهن سان گڏ چڙھيو، ۽ رڍون ۽ ڳئون — مال تمام گھڻو.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ ... به"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "گڏيل ميڙ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڙھيو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ انهن سان گڏ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "۽ رڍون"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "۽ ڳئون"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "گھڻو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:08.443610847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "ڪاھل پنھنجو ھٿ ٿالهي ۾ لڪائي ڇڏيندو آھي؛ ان کي واپس وات ڏانھن کڻڻ ٿڪائي ٿو۔",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "لڪائي ڇڏيندو آھي"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ڪاھل"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "پنھنجو ھٿ"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "ٿالهي ۾"
+    },
+    {
+      "surface": "נלאه",
+      "gloss": "ٿڪائي ٿو"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "واپس کڻڻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "وات"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:57.884675372Z",
+  "model": "glm-5.3"
+}

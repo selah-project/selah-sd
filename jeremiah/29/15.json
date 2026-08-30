@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "ڇوته توهان چيو آهي: 'ياهوه اسان لاءِ بابل ۾ نبي اٿم پيدا ڪيا آهن.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "توهان چيو آهي"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "پيدا ڪيا آهن"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان لاءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "بابل ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:17:20.616640963Z",
+  "model": "glm-5.3"
+}

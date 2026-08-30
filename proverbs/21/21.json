@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "جو انصاف ۽ خيسيد جو پٺيان ڏوھي، سو زندگي، انصاف ۽ عزت ڳولي ٿو.",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "پٺيان ڏوھي ٿو"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "۽ خيسيد"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ڳولي ٿو"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگي"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "۽ عزت"
+    }
+  ],
+  "timestamp": "2026-08-30T15:04:41.059255624Z",
+  "model": "glm-5.3"
+}

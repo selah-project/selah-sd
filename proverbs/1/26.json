@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "پڻ آءٌ توهان جي تباهي ۾ کِلندس، ٽوڪ ڪندس جڏهن توهان جو ڊپ ايندو.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "توهان جي تباهي ۾"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "کِلندس"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "ٽوڪ ڪندس"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "جڏهن اچي"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "توهان جو ڊپ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:25.193970139Z",
+  "model": "glm-5.3"
+}

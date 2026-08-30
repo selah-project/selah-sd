@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ زال چيس: ⟨את⟩ ڪنهن کي چوان مٿي تو لاءِ؟ ۽ هن چيو: ⟨את⟩ شموئيل، مون لاءِ چاڙهه.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "۽ زال چيس"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪنهن"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪنهن"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "چوان مٿي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ هن چيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شموئيل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "چاڙهه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:14:54.108209860Z",
+  "model": "glm-5.3"
+}

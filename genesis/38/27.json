@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ پوئِي ته جڏھن سندس ڏکن جو وقت آيو، ته ڏسو، سندس پيٽ ۾ ٻارَ هُئا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ پوئِي ته"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "جڏھن... جو وقت"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "سندس ڏکن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ته ڏسو"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "ٻارَ"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "سندس پيٽ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:51:42.284463240Z",
+  "model": "glm-5.3"
+}

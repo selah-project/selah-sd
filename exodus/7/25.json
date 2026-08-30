@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ست ڏينھن پُرا ٿيا، ياهوه جي ⟨את⟩ ندي کي مارڻ کان پوءِ.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "پُرا ٿيا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "مارڻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ندي"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ندي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:59:19.741321204Z",
+  "model": "glm-5.3"
+}

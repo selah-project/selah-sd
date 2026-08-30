@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ڇاڪاڻ ته البته پڇاڙي ⟨آهي⟩، ۽ تنهنجي اُميد نه وڍي ويندي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "אם",
+      "gloss": "البته"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "پڇاڙي"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "۽ تنهنجي اُميد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכרت",
+      "gloss": "وڍي ويندي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:33.308084823Z",
+  "model": "glm-5.3"
+}

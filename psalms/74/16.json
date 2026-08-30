@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 74,
+  "translation": "ڏينهن تنھنجو ⟨آھي⟩، رات به تنھنجي ⟨آھي⟩؛ توءَ روشنيءَ جي روشني ۽ سج تيار ڪيا.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تنھنجو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "אף",
+      "gloss": "به"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنھنجي"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توءَ"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "تيار ڪيا"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "روشنيءَ جي روشني"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "۽ سج"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:54.884817980Z",
+  "model": "glm-5.3"
+}

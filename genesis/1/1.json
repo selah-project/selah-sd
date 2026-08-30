@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "منڍ ۾ ايلوهيم ⟨את⟩ آسمانن ۽ ⟨את⟩ زمين کي خلقيو.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "منڍ ۾"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "خلقيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آسمانن"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:37:38.073700491Z",
+  "model": "glm-5.3"
+}

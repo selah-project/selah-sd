@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "پنجون ملڪيہ لاءِ، ڇھون مياڀين لاءِ۔",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "ملڪيہ لاءِ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجون"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "مياڀين لاءِ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ڇھون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:56.680268004Z",
+  "model": "glm-5.3"
+}

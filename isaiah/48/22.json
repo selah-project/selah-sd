@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "شريرن لاءِ سلامتي ناهي، ياهوه چوي ٿو.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "شريرن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:00:25.529265027Z",
+  "model": "glm-5.3"
+}

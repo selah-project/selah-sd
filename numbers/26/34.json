@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 26:34",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "اھي منشي جون خاندان آھن، ۽ انهن جي ڳڻپ ٻه ۽ پنجاھ ھزار ۽ ست سؤ آھي.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشي"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "۽ انهن جي ڳڻپ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "۽ پنجاھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:28.944902482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ٻئي عيلام جا پٽ ھڪ ھزار ٻه سؤ پنجاهه ۽ چار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھڪ ھزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سؤ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاهه"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:41.447231993Z",
+  "model": "glm-5.3"
+}

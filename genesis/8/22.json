@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "اِها زمين جي سڀ ڏينهن تائين: پوکڻ ۽ لابارو، سردي ۽ گرمي، اونہڙو ۽ سيارو، ڏينهن ۽ رات — بند نه ٿيندا.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "پوکڻ"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "۽ لابارو"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "۽ سردي"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "۽ گرمي"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "۽ اونہڙو"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "۽ سيارو"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "۽ ڏينهن"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "۽ رات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "بند ٿيندا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:49.692604146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 17:18",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "ڇوته اُن سنگ کي بي عزت ڪيائين عهد توڙڻ لاءِ، ۽ ڏسو، هٿ ڏنائين، ۽ سڀ اُهي ڪيائين — بچڻ نه ٿو سگهي.",
+  "tokens": [
+    {
+      "surface": "ובזה",
+      "gloss": "۽ بي عزت ڪيائين"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "سَنگ (قسم)"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "توڙڻ لاءِ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عهد"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "پنهنجو هٿ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيائين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچندو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:31:46.742091946Z",
+  "model": "glm-5.3"
+}

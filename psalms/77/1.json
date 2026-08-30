@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 77,
+  "translation": "مقدّم لاءِ، يدودون تي، آساف لاءِ، ۽ زبور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقدّم لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "يدودون"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "آساف لاءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:02.890304143Z",
+  "model": "glm-5.3"
+}

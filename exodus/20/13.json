@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "تو قتل نه ڪرينءَ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "قتل ڪرينءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:34.060002668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 48:28",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ گاد جي سرحد سان، ڏکڻ جي طرف ڏکڻ ڏي، ۽ سرحد ٿيندي تمر کان قديش جي مريلبت جي پاڻيءَ تائين، وادي وٺي وڃي ٿي وڏي سمنڊ تي.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ … سان"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ڏکڻ"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ڏکڻ ڏي"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندي"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מתמר",
+      "gloss": "تمر کان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "پاڻيءَ"
+    },
+    {
+      "surface": "מריבת",
+      "gloss": "مريلبت"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قديش"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "وادي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:16.433486747Z",
+  "model": "glm-5.3"
+}

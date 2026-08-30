@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "نون سندس پٽ، يھوشوع سندس پٽ.",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يھوشوع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:26.077870810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 118,
+  "translation": "مان نه مرندس، پر جيئندس، ۽ ياه جون ڪرتوت بيان ڪندس.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "مرندس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "جيئندس"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "۽ بيان ڪندس"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "جون ڪرتوت"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:53.439977795Z",
+  "model": "glm-5.3"
+}

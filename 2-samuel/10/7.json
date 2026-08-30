@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ داوود ٻُڌو ۽ موڪليائين ⟨את⟩ يوآب ۽ ⟨את⟩ سڀ سورھيا لشڪر.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ٻُڌو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "موڪليائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ سورھيا لشڪر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "سورھيا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:19:21.914825725Z",
+  "model": "glm-5.3"
+}

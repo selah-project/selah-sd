@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ياهوه جي سامهون نہ ڪا حكمت آھي، نہ سمجهه، نہ ڪو صلاح.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ناهي"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجهه"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ناهي"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "جي سامهون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:46.101739814Z",
+  "model": "glm-5.3"
+}

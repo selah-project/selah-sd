@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 77,
+  "translation": "ڦيٽن ۾ ⟨هئي⟩ تنهنجي گجگج؛ بجليءَ ⟨سان⟩ دنيا روشن ٿي؛ ڌرتي ڏڪي ۽ لوڏي.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "گجگج"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "تنهنجي"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ڦيٽن ۾"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "روشن ٿي"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "بجليءَ ⟨سان⟩"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنيا"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "ڏڪي"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "۽ لوڏي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ڌرتي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:56.034722961Z",
+  "model": "glm-5.3"
+}

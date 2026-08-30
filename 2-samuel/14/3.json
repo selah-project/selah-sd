@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ تون بادشاهه وٽ وڃين ۽ مٿس اهڙيءَ طرح ڳالهين； يوآب مُنهنجي وات ۾ اهي لفظ وڌا هئا.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "وڃين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ڳالهين"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "اهڙيءَ طرح"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "وڌا هئا"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لفظن"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظن"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "مُنهنجي وات ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:21:08.778826979Z",
+  "model": "glm-5.3"
+}

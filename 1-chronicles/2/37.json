@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ زابد ⟨את⟩ اِفلال کي پيد ڪيو، ۽ اِفلال ⟨את⟩ عوبيد کي پيد ڪيو.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "۽ زابد"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِفلال"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "اِفلال"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "۽ اِفلال"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوبيد"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عوبيد"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:45.865950842Z",
+  "model": "glm-5.3"
+}

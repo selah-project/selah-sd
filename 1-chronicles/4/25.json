@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "شلوم سندس پٽ، مبشم سندس پٽ، مشمع سندس پٽ.",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "شلوم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "مبشم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "مشمع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:09.025146541Z",
+  "model": "glm-5.3"
+}

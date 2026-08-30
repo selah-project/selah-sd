@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "ياهوه جو آواز طاقت سان ⟨آهي⟩؛ ياهوه جو آواز شان سان ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "طاقت سان"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "شان سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:28.766419979Z",
+  "model": "glm-5.3"
+}

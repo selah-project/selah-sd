@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ جبل ۾: شمير، ۽ يتير، ۽ سوکو.",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "۽ جبل ۾"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "شمير"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "۽ يتير"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "۽ سوکو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:40.063669765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "پراڻي حد کي نه هٽاءِ، ۽ يتيم جي سرزمين ۾ داخل نه ٿاءِ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "هٽاءِ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حد"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "پراڻي"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "۾ سرزمين"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "يتيم جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "داخل ٿاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:04.014604141Z",
+  "model": "glm-5.3"
+}

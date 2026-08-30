@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ رئوبين جي سرحد سان، اوڀر پاسي کان اولهه پاسي تائين، يهوداہ لاءِ ⟨هڪ⟩ حصو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ … سان"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبين"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "پاسي کان"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "اوڀر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "اولهه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ (حصو)"
+    }
+  ],
+  "timestamp": "2026-08-30T12:43:24.752793098Z",
+  "model": "glm-5.3"
+}

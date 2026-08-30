@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "ڪن ٻڌندڙ ۽ اک ڏسندڙ — ياهوه ٻئي به ٺاهيا آهن.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "ڪن"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ٻڌندڙ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "۽ اک"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏسندڙ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاهيا آهن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ٻئي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:02.017667063Z",
+  "model": "glm-5.3"
+}

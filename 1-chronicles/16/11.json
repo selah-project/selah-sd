@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ياهوه کي ۽ سندس طاقت کي ڳوليو، سندس منھن کي هميشہ ڳوليو۔",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "ڳوليو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "۽ سندس طاقت"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ڳوليو"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "سندس منھن"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هميشہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:19.967428509Z",
+  "model": "glm-5.3"
+}

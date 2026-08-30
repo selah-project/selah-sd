@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 83,
+  "translation": "جيئن باهه ٻيلو ساڙي ٿي، ۽ جيئن شعلو جبلن کي ڀڙڪائي ٿي.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "جيئن باهه"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ساڙي ٿي"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ٻيلو"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "۽ جيئن شعلو"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "ڀڙڪائي ٿي"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "جبلن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:00.903327429Z",
+  "model": "glm-5.3"
+}

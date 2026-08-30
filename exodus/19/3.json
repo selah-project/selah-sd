@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 19:3",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ موشي ايلوهيم وٽ چڙھيو، ۽ ياهوه کيس جبل کان سڏيو، چوندي: اھئين چؤ يعقوب جي گھر کي، ۽ اسرائيل جي پٽن کي ٻڌاءِ.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "۽ موشي"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڙھيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندي"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اھئين"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر کي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "۽ ٻڌاءِ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن کي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:53.718242879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ڪا به جانور جا کُر پٽي ٿي ۽ پٽيل کُر ٻن حصن ۾ ڦاڙي ٿي ۽ وڙ چٻاڙي ٿي — اُها جانور ⟨את⟩ اُها توهان کائيندا.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ ڪا به"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "پٽي ٿي"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "کُر"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "۽ ڦاڙي ٿي"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ڦاٽ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "کُرن"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ماڻيندڙ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "وڙ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "جانورن ۾"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اُها (جانور)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "توهان کائيندا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:00.333314987Z",
+  "model": "glm-5.3"
+}

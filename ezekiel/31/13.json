@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 31:13",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "سندس ڪِرڻ تي آسمانن جا سڀ پکي رهندا، ۽ سندس ٽارين تي پرڻ جا سڀ جانور ٿيندا.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מפלתו",
+      "gloss": "سندس ڪِرڻ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "رهندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "پکي"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن جا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "פארתיו",
+      "gloss": "سندس ٽارين"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ٿيندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "پرڻ جا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:38:39.337254079Z",
+  "model": "glm-5.3"
+}

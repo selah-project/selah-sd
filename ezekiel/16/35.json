@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "تنهنڪري اي زناڪارِ عورت، ياهوه جو لفظ ٻُڌ!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "اي زناڪارِ عورت"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ٻُڌ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:31:41.250067485Z",
+  "model": "glm-5.3"
+}

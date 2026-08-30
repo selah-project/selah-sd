@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "انگُٺين ۽ نَڪُن جي ڳهن،",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "انگُٺيون"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "۽ ڳهه"
+    },
+    {
+      "surface": "האף",
+      "gloss": "نَڪُن جا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:23.094405790Z",
+  "model": "glm-5.3"
+}

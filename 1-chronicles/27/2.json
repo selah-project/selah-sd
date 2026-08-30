@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 27:2",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "پھرين مھلڪ تي، پھرئين مھيني لاءِ يشبعام زبديئيل جو پٽ ھو، ۽ سندس مھلڪ ۾ چوئي ھزار.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המחלקת",
+      "gloss": "مھلڪ"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "پھرين"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مھيني لاءِ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پھرئين"
+    },
+    {
+      "surface": "ישבעם",
+      "gloss": "يشبعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "זבדיאל",
+      "gloss": "زبديئيل"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ … تي"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "سندس مھلڪ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:27.718444657Z",
+  "model": "glm-5.3"
+}

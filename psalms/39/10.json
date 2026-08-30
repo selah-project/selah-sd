@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "مان نمان ٿي ويس، پنهنجو وات نه کوليم؛ ڇو ته توهي ⟨هو⟩ اهو ڪيو.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "نمان ٿي ويس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "کوليم"
+    },
+    {
+      "surface": "פי",
+      "gloss": "پنهنجو وات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توهي"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ڪيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:48.779035287Z",
+  "model": "glm-5.3"
+}

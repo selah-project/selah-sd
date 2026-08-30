@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 81,
+  "translation": "ڪاش! منهنجو قوم مون ٻُڌندو هجي، ڪاش! اسرائيل منهنجن رستن ۾ هلي.",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ڪاش!"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منهنجو قوم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻُڌندو هجي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "منهنجن رستن ۾"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "هلي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:00.121940422Z",
+  "model": "glm-5.3"
+}

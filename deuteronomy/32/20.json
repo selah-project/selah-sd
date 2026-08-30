@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 32:20",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ چيائين: آءٌ پنهنجو منهن هنن کان لڪائيندس؛ ڏسان ته سندن پڇاڙي ڇا ٿيندي؛ ڇو ته اهي هڪ مڙيل نسل آهن، اهڙا پٽ جن ۾ ڪا ايمانداري ناهي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אסתירה",
+      "gloss": "لڪائيندس"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "هنن کان"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ڏسان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "אחריתם",
+      "gloss": "سندن پڇاڙي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "תהפכת",
+      "gloss": "مڙيل"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ايمانداري"
+    },
+    {
+      "surface": "בם",
+      "gloss": "جن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:04.541120381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 80,
+  "translation": "ايلوهيم صبائوت، موڙ، اسان کي پاڻ کي، آسمانن کان ڏس ۽ ۽ ڏس، ۽ هن ٿور تي غور ڪر —",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "موڙ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اسان کي پاڻ کي"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "آسمانن کان"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏس"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "۽ غور ڪر"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ٿور"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:07.550791435Z",
+  "model": "glm-5.3"
+}

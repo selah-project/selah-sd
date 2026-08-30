@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 5:27",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "نہ ٿڪل، نہ لڙکو منجهس؛ نہ ننڊ اکين ۾ اچيس، نہ اُگھڙيو پٽو سندسليکن جو، نہ ٽٽي ٻڌڻي سندس جُتين جي.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ٽڪل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "لڙکو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "منجهس"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ننڊ اکين ۾ اچيس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "پيو سمهي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نہ"
+    },
+    {
+      "surface": "נפתח",
+      "gloss": "اُگھڙيو"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "پٽو"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "سندس ليکن جو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نہ"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "ٽٽي"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "ٻڌڻي"
+    },
+    {
+      "surface": "نעליו",
+      "gloss": "سندس جُتين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:49:07.098471629Z",
+  "model": "glm-5.3"
+}

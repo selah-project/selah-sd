@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 4:17",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "اردن جي ميدان ۾ بادشاهه انهن کي ڍوري ۾ اُتو، سڪوٽ ۽ صريده جي وچ ۾.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "ميدان ۾"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "اردن جي"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "اُتو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "בעבי",
+      "gloss": "ڍوري ۾"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "مٽيءَ جي"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "سڪوٽ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ … جي وچ ۾"
+    },
+    {
+      "surface": "צרדתה",
+      "gloss": "صريده"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:54.812096602Z",
+  "model": "glm-5.3"
+}

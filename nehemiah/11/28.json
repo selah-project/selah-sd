@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ صقلگ ۾، ۽ مخونھ ۽ ان جي ڳوٺن ۾.",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "۽ صقلگ ۾"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "۽ مخونھ ۾"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "۽ ان جي ڳوٺن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:00.585809378Z",
+  "model": "glm-5.3"
+}

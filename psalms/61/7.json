@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 61,
+  "translation": "بادشاهه جي ڏينهن تي ڏينهن وڌندين؛ سندس سالَ نسل تي نسل جيڏانا هوندا.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه جي"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "وڌندين"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "سندس سالَ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "جيڏانا"
+    },
+    {
+      "surface": "דר",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "تي نسل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:41.625874026Z",
+  "model": "glm-5.3"
+}

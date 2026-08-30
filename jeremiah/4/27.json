@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ڇوته ائين چوي ٿو ياهوه: سڄي زمين ويران ٿي ويندي، پر مون پوري پڄاڻي ڪانه ڪندي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ويران"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿي ويندي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "پوري پڄاڻي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ڪانه"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "مون ڪندي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:08:08.920016291Z",
+  "model": "glm-5.3"
+}

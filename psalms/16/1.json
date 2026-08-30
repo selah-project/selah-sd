@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "دائود جو مكتام. مون کي بچاءِ، اي ايل، ڇوڪہ مون تو ۾ پناھ ورتي آھي.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "مكتام"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "دائود جو"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "مون کي بچاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اي ايل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪہ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "مون پناھ ورتي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تو ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:00.749250170Z",
+  "model": "glm-5.3"
+}

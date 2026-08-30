@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "ڪٿي آھن حماٿ جو بادشاھ ۽ ارفاد جو بادشاھ ۽ سفرويم شهر جو بادشاھ، ھينا ۽ عوّا؟",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "ڪٿي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماٿ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "۽ بادشاھ"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "ارفاد"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "۽ بادشاھ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "سفرويم"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "ھينا"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "۽ عوّا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:58:08.229818875Z",
+  "model": "glm-5.3"
+}

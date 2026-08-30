@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مون جي دشمنن بي سبب مون کي پکيءَ جيان شڪار ڪيو.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "شڪار"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "مون کي شڪاريو"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "پکيءَ جيان"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "مون جي دشمنن"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بي سبب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:56.844366074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "جڏهن توهان جي وچ ۾ اُٿي هڪ نبي اُٿي، يا خواب ڏسندڙ، ۽ توهان کي هڪ نشاني يا معجزه ڏي،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اُٿي"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "توهان جي وچ ۾"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "خواب ڏسندڙ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "۽ ڏي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "توهان کي"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نشاني"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "معجزه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:41:20.685523291Z",
+  "model": "glm-5.3"
+}

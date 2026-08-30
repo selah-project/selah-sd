@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "جيڪو سندن دلين کي گڏيل جوڙي ٿو، جيڪو سندن سڀني ڪمن کي سمجهي ٿو.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "جوڙي ٿو"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "گڏيل"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "سندن دلين کي"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "سمجهي ٿو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ڪمن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:37.793423578Z",
+  "model": "glm-5.3"
+}

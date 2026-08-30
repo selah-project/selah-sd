@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 3:11",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ڪروبن جي پرن جي ڊيگهه ٽيهه اَمون ⟨هئي⟩؛ هڪ پر جو پنج اَمون، جيڪو گهر جي ڀت کي لڳي ٿو، ۽ ٻيو پر پنج اَمون، جيڪو ٻئي ڪروب جي پر کي لڳي ٿو.",
+  "tokens": [
+    {
+      "surface": "וכנפי",
+      "gloss": "۽ پرن جي"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ڪروبن"
+    },
+    {
+      "surface": "ארכם",
+      "gloss": "ڊيگهه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمون"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "לאמות",
+      "gloss": "اَمون"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מגעת",
+      "gloss": "لڳي ٿو"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "ڀت کي"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر جي"
+    },
+    {
+      "surface": "והכנף",
+      "gloss": "۽ پر"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمون"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "لڳي ٿو"
+    },
+    {
+      "surface": "לכנף",
+      "gloss": "پر کي"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ڪروب جي"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "ٻئي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:55.540834894Z",
+  "model": "glm-5.3"
+}

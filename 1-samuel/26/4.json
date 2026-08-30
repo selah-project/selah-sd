@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ داويد جاسوس موڪليا ۽ ڄاڻي ورتائين ته شاول يقين سان آيو آھي.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "۽ موڪليائين"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "مרגלים",
+      "gloss": "جاسوس"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "۽ ڄاڻي ورتائين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو آھي"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "يقين سان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:15:56.273139256Z",
+  "model": "glm-5.3"
+}

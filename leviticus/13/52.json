@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 13:52",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ڪپڙي کي ⟨את⟩ ساڙيندو، يا تاني کي ⟨את⟩ يا وڻي کي ⟨את⟩، اُن ۾ ٺهيل ڪنهن به چمڙي جي شيءِ کي ⟨את⟩ جنهن ۾ داغ هجي، اُ wool ۾ يا ڦٽن ۾، ڇوته اها صرع جي ڪڙي آهي — باهه ۾ ساڙي ويندي.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "۽ ساڙيندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪپڙي کي"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "ڪپڙي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تاني کي"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "تاني"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وڻي کي"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "وڻي"
+    },
+    {
+      "surface": "בצמר",
+      "gloss": "اون ۾"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בפשתים",
+      "gloss": "ڦٽن ۾"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪنهن به چمڙي جي شيءِ کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪنهن به"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "شيءِ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "چمڙي جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن ۾"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "صرع جي"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "ڪڙي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ساڙي ويندي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:56.154014156Z",
+  "model": "glm-5.3"
+}

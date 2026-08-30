@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "برائيءَ جي وقت ۾ ⟨هو⟨ شرمندہ نه ٿيندا، ۽ قحط جي ڏينھن ۾ سيرا ٿيندا۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "شرمندہ ٿيندا"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "جي وقت ۾"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائيءَ"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "۽ جي ڏينھن ۾"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "قحط"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "سيرا ٿيندا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:19.867278071Z",
+  "model": "glm-5.3"
+}

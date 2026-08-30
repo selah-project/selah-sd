@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ياهوه جون ⟨את⟩ حڪمن ۽ ⟨את⟩ سندس فرضن کي نگهڙڻ لاءِ، جيڪي آئون اڄ توکي حڪم ڏيان ٿو، تنهنجي ڀلائي لاءِ.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "نگهڙڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حڪمن"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حڪمن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سندس فرضن"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "سندس فرضن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آئون"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "توکي حڪم ڏيان ٿو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڄ"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ڀلائي لاءِ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:41:49.852151113Z",
+  "model": "glm-5.3"
+}

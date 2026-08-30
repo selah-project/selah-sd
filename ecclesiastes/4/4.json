@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ مون ڏٺو ⟨את⟩ سڀ محنت ۽ ⟨את⟩ هر ڪم جي مَهارت، جا ماڻهوءَ جي پنهنجي پاڙيسريءَ کان حسد آهي؛ پڻ هي هوس آهي ۽ هوا جو ڇڪ.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "۽ مون ڏٺو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ محنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "هر ڪم جي مَهارت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "כשרون",
+      "gloss": "مَهارت"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ڪم جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هو\/هي"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "حسد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ جي"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "پنهنجي پاڙيسريءَ کان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هوس"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "۽ ڇڪ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "هوا جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:53.556141695Z",
+  "model": "glm-5.3"
+}

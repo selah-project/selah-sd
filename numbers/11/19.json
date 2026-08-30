@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "توهان ھڪ ڏينهن نه کائندؤ، ۽ نه ٻه ڏينهن، ۽ نه پنج ڏينهن، ۽ نه ڏھ ڏينهن، ۽ نه ويھ ڏينهن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "توهان کائندؤ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "ٻه ڏينهن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏھ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:54.659302465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "شگايون داوود جو، جيڪو ⟨هو⟩ ياهوه لاءِ ڳايو، بن يمني جي پٽ ڪوش جي ڳالهين بابت.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "شگايون"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ڳايو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالهين"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ڪوش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "بن يمني"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:48.565616930Z",
+  "model": "glm-5.3"
+}

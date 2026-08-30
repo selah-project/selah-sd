@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 7:8",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ شلومو ⟨את⟩ ان وقت جو تهوار ست ڏينهن ملهايو، ۽ سڀ اسرائيل سندس ساڻ — هڪ تمام وڏو ميڙ — حمٿ جي داخلگيءَ کان متسرايم جي نئي تائين.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ملهايو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تهوار"
+    },
+    {
+      "surface": "החג",
+      "gloss": "تهوار"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ان وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "هن"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ساڻ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ميڙ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "מלבוא",
+      "gloss": "داخلگيءَ کان"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمٿ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نئي"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:50.717403931Z",
+  "model": "glm-5.3"
+}

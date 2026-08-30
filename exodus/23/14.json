@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "سال ۾ ٽي ڀيرا تون مون لاءِ عيد ملهائين.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ڀيرا"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "عيد ملهائين"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سال ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:04:50.085136613Z",
+  "model": "glm-5.3"
+}

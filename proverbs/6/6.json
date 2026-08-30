@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "وڃ سَنهَڙيءَ وٽ، اَي سُسهڙو! ڏس سندس رستا ۽ سياڻو ٿيءُ۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "سَنهَڙيءَ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سُسهڙو"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "سندس رستا"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "۽ سياڻو ٿيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:28.212048792Z",
+  "model": "glm-5.3"
+}

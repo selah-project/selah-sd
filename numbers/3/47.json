@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 3:47",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ تون وٺندڙ وٺندوين پنج پنج شيڪل ماڻھوءَ جي Kopf بدلي ۾ — پويل مقدس جي شيڪل موجب وٺندوين؛ ويھ گيرا ⟨is⟩ شيڪل.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "۽ تون وٺندوين"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شيڪل"
+    },
+    {
+      "surface": "לגלגלת",
+      "gloss": "ماڻھوءَ جي Kopf بدلي ۾"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "شيڪل موجب"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "وٺندوين"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گيرا"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "شيڪل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:03.518508222Z",
+  "model": "glm-5.3"
+}

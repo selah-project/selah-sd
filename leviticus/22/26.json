@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 22:26",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ ياهوه موشي سان ڳالهائي چيو.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ … ڳالهائي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان\/کان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چيو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:13.509763127Z",
+  "model": "glm-5.3"
+}

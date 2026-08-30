@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 33:31",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ کين موسرٿ کان روانا ٿيا، ۽ بيني-يعقان ۾ منزل ڪيائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "ממסרות",
+      "gloss": "موسرٿ کان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "منزل ڪيائون"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "بيني- ۾"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "يعقان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:37.317188166Z",
+  "model": "glm-5.3"
+}

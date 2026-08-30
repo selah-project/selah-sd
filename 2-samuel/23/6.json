@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ بليعال وارا ڪنڊن جهڙا آهن، سڀئي ڦٽل، ڇوته هٿ سان نه کنيا وڃن.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "۽ بليعال وارا"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "ڪنڊن جهڙا"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "ڦٽل"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ سان"
+    },
+    {
+      "surface": "יקחو",
+      "gloss": "کنيا وڃن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:26:05.984871359Z",
+  "model": "glm-5.3"
+}

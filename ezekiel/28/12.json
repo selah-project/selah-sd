@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 28:12",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": " whats آدم جي پُٽ، صور جي بادشاھ تي ماتمو کڻ، ۽ کيس چؤ: اھڙي طرح ادوناي ياهوه چوي ٿو: تون مُھر آھين ماپ ۾ پورو، حڪمت سان ڀريل ۽ خوبصورتي ۾ پورو.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שא",
+      "gloss": "کڻ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ماتمو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "مלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ چؤ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اھڙي طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "مُھر"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "ماپ"
+    },
+    {
+      "surface": "مלא",
+      "gloss": "ڀريل"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "۽ پورو"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "خوبصورتي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:36:03.650853864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇوتهه سندس گهر موت ڏانهن ڏڍي ٿو ۽ سندس رستا رفائيم ڏانهن،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهه"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "ڏڍي ٿو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "سندس گهر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ڏانهن"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائيم"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "سندس رستا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:34.737541918Z",
+  "model": "glm-5.3"
+}

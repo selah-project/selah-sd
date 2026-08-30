@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 1:23",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ اها ڳالهه منهنجي نظر ۾ چڱي لڳي، ۽ مان توهان مان ٻارهن ماڻهن کي وٺڻ لڳس، هر قبيلي لاءِ هڪ ماڻهو.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "۽ چڱي لڳي"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "منهنجي نظر ۾"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "انهي ڳالهه"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "۽ مان وٺڻ لڳس"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "توهان مان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ماڻهن کي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "قبيلي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:10.335957198Z",
+  "model": "glm-5.3"
+}

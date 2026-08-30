@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 63,
+  "translation": "منهنجي نفسيءَ توڻي چنبڙيل آهي؛ تنهنجي ساڄي هٿ مون کي سهي ٿو.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "چنبڙيل آهي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منهنجي نفسيءَ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "توڻي"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "سهي ٿو"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تنهنجي ساڄي هٿ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:08.765491196Z",
+  "model": "glm-5.3"
+}

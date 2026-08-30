@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ سڀ منحنه جيڪا تندور ۾ پچي، ۽ سڀ جيڪا ڀاڻيءَ ۾ ٺھي ۽ تڙيءَ تي، اھا ان ڪاھن جي ٿيندي جو ⟨את⟩ ان کي پيش ڪري؛ اھا ان جي ئي ٿيندي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "منحنه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "پچي"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "تندور ۾"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ٺھي"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "ڀاڻيءَ ۾"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "تڙيءَ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ڪاھن جي"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "جو پيش ڪري"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان جي"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿيندي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:46.855413880Z",
+  "model": "glm-5.3"
+}

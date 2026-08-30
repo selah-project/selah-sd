@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ هي ڳالھ ڏوهه بڻجي وئي، ۽ ماڻھو هڪڙي اڳيان وڃڻ لڳا، دان تائين.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ڏوهه بڻجي"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "۽ ويا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪڙي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:33:27.288844718Z",
+  "model": "glm-5.3"
+}

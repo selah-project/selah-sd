@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 13:45",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ جنهن صرعي ۾ نگو آهي، سندس ڪپڙا پاڙيل هجن، ۽ سندس مٿو ڍلا هجن، ۽ پنهنجي چپ تي ڍڪي، ۽ پُڪارين: اڻپاڪ، اڻپاڪ.",
+  "tokens": [
+    {
+      "surface": "והצרוע",
+      "gloss": "۽ صرعي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "منجهس"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نگو"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "سندس ڪپڙا"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "هجن"
+    },
+    {
+      "surface": "פרמים",
+      "gloss": "پاڙيل"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "۽ سندس مٿو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "פרוע",
+      "gloss": "ڍلا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ مٿي"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "چپ"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "ڍڪي"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "۽ اڻپاڪ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "اڻپاڪ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "پُڪارين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:28.487463438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "۽ ياهوه تنھنجو ايلوهيم اسان کي ٻڌائي ⟨את⟩ رستو جنهن ۾ اسان هلون، ۽ ⟨את⟩ ڪم جيڪو اسان ڪريون.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "۽ ٻڌائي"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان کي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تنھنجو ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رستو"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "رستو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "اسان هلون"
+    },
+    {
+      "surface": "בה",
+      "gloss": "۾"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ڪم"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "اسان ڪريون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:21:19.238462851Z",
+  "model": "glm-5.3"
+}

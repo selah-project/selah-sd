@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ ان ئي رات ٿيو، ۽ ايلوهيم جو لفظ ناتن ڏانھن آيو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ان رات"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان ئي"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:04.707304224Z",
+  "model": "glm-5.3"
+}

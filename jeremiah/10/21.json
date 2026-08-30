@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ڇو ته چوپاڙا جهل ٿي ويا ۽ ⟨את⟩ ياهوه کي نه ڳوليائون؛ تنھنڪري نه سڌريا، ۽ سندن سڀ ڍور پکڙجي ويا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "جهل ٿي ويا"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "چوپاڙا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ڳوليائون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنھن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تنھنڪري"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "سڌريا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "سندن ڍور"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "پکڙجي ويا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:09:42.927612051Z",
+  "model": "glm-5.3"
+}

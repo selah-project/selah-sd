@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ايلوهيم ⟨את⟩ نوح ۽ ⟨את⟩ سندس پٽن کي برڪت ڏني، ۽ کين چيائين ته ڦر ڪريو ۽ وڌو ۽ ⟨את⟩ زمين کي ڀريو.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "برڪت ڏني"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نوح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سندس پٽن"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ڦر ڪريو"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "۽ وڌو"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "۽ ڀريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:44.808990842Z",
+  "model": "glm-5.3"
+}

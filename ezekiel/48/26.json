@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 48:26",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ يساڪر جي سرحد سان، اوڀرئين پاسي کان اولهين پاسي تائين، زبولون ⟨هڪ حصو⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ … سان"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "يساڪر"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "پاسي کان"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "اوڀرئين"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "اولهين"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:16.433117885Z",
+  "model": "glm-5.3"
+}

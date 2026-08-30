@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ڇوته ئي چيو ۽ ⟨هو⟩ ٿي ويو؛ هو ئي حڪم ڪيو ۽ بيٺو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو ئي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿي ويو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو ئي"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "۽ بيٺو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:10.733512513Z",
+  "model": "glm-5.3"
+}

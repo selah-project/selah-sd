@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 10:9",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "تنهنڪري لِويءَ جو پنهنجن ڀائرن سان حصو ۽ ورثو نه هو؛ ياهوه ئي سندس ورثو ⟨آهي⟩، جيئن ياهوه تنهنجي ايلوهيم هن سان چيو.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تنهن (ڪارڻ)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "لِويءَ جو"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "حصو"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "۽ ورثو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "پنهنجن ڀائرن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئي"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "سندس ورثو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تنهنجي ايلوهيم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:28.635789927Z",
+  "model": "glm-5.3"
+}

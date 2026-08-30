@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ٻين ايلوهيم پٺيان نه هلو، جيڪي اُنهن قومن جا ايلوهيم آھن، جيڪي توڻَ جي چوڌاري آھن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "هلو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پٺيان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم (ٻين)"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻين"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "جن جا ايلوهيم"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومن جا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "توڻَ جي چوڌاري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:22.503859118Z",
+  "model": "glm-5.3"
+}

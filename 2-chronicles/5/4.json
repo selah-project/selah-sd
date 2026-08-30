@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ آيا سڀ اسرائيل جا پوڙها؛ ۽ لاوي ماڻھن کڻيو ⟨את⟩ صندوق.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "۽ آيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پوڙها"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جا"
+    },
+    {
+      "surface": "וישאو",
+      "gloss": "۽ کڻيو"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوي ماڻھن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    }
+  ],
+  "timestamp": "2026-08-30T14:21:54.826318293Z",
+  "model": "glm-5.3"
+}

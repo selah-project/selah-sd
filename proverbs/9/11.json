@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "ڇو ته مون پٽي تنهنجا ڏينهن گھڻا ٿيندا، ۽ تنهنجي زندگيءَ جا ورھ توکي وڌا ويندا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون پٽي"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "گھڻا ٿيندا"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "تنهنجا ڏينهن"
+    },
+    {
+      "surface": "ויוסיפو",
+      "gloss": "۽ وڌا ويندا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ورھ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگيءَ جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:34.920983521Z",
+  "model": "glm-5.3"
+}

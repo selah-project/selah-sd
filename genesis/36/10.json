@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "هي نالا آهن عيسو جي پٽن جا: اليفاز، پٽ عادا جو، زال عيسو جي؛ رعوائيل، پٽ بسمت جو، زال عيسو جي.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نالا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اليفاز"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادا"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوائيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بسمت"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:27.465358326Z",
+  "model": "glm-5.3"
+}

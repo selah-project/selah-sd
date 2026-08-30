@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ياهوه هڪ مقرر وقت مقرر ڪيو، چوڻ ته «سڀاڻي ياهوه هي ڳالھ ⟨ال⟩ زمين ۾ ڪندو.»",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "۽ مقرر ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقرر وقت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "سڀاڻي"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "هي ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:59:56.317384794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "بگهڙ ۽ڙي ٿو شڪ جي اڻ هجڻ کان، ۽ بگهڙيءَ جا ٻچا ڇڊا ٿي وڃن ٿا.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "بگهڙ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "۽ڙي ٿو"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "اڻ هجڻ کان"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "شڪ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ ٻچا"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "بگهڙيءَ جا"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "ڇڊا ٿي وڃن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:49.208869669Z",
+  "model": "glm-5.3"
+}

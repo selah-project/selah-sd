@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "قبيلي زبولون جو: گدائيل، پٽ سودي جو۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي"
+    },
+    {
+      "surface": "זבולון",
+      "gloss": "زبولون"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "گدائيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "سودي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:30.605977222Z",
+  "model": "glm-5.3"
+}

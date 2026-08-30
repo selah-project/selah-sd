@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ آشر مان، لشڪر ۾ نڪرندڙ، جنگ جي صفبندي ڪرڻ وارا، چاليھ ھزار.",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "آشر مان"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "نڪرندڙ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "صفبندي ڪرڻ وارا"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:34.652077217Z",
+  "model": "glm-5.3"
+}

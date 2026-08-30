@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 20:1",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ يسرائيل جي پُٽَن سڄي ٽوليءَ صِن جي بيابان ۾ پهرئين مهيني ۾ آيا، ۽ قوم قادش ۾ رهي؛ ۽ اُتي مريم مري ۽ اُتي ئي دفن ٿي.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽَن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ٽوليءَ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بيابان"
+    },
+    {
+      "surface": "צן",
+      "gloss": "صِن"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مهيني ۾"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پهرئين"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "رهي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "قادش ۾"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "مري"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "مريم"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "دفن ٿي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي ئي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:25.411059561Z",
+  "model": "glm-5.3"
+}

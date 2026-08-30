@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "چڱو آھي جو تون نذر نه ڪرين، ان کان جو نذر ڪرين ۽ پورو نه ڪرين.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "نذر ڪرين"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ان کان جو نذر ڪرين"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "پورو ڪرين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:52.771783294Z",
+  "model": "glm-5.3"
+}

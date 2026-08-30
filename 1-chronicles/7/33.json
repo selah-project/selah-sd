@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ يافليت جا پٽ هئا پاسخ ۽ بمهال ۽ عشوت؛ اھي يافليت جا پٽ ھئا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پٽ"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "يافليت"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "پاسخ"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "۽ بمهال"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "۽ عشوت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "يافليت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:11.855155655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ سدوم جي بادشاھ ابرام سان چيو: مون کي ⟨את⟩ نفسَ ڏي، ۽ مال تو لاءِ وٺ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نفسَ"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "۽ مال"
+    },
+    {
+      "surface": "קח",
+      "gloss": "وٺ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:05.223422532Z",
+  "model": "glm-5.3"
+}

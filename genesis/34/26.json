@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ ⟨את⟩ حامور ۽ ⟨את⟩ سندس پٽ شڪم کي تلوار جي ڌار سان ماريائون، ۽ ⟨את⟩ دينا کي شڪم جي گھر مان کڻي نڪتا.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حامور"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حامور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شڪم"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شڪم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ماريائون"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "جي ڌار سان"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "۽ کڻي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دينا"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دينا کي"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر مان"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شڪم جي"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "نڪتا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:13.058642439Z",
+  "model": "glm-5.3"
+}

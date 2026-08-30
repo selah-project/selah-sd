@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ يڪنياہ جا پُٽ — اَسير؛ شالتيل سندس پُٽ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پُٽ"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "يڪنياہ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "اَسير"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "شالتيل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:08.188617263Z",
+  "model": "glm-5.3"
+}

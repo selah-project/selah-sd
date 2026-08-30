@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "ڪاھل چوي ٿو: “رستي ۾ بگھاڙ آھي، ۽ چوڪن ۾ شينهن ⟨آھي⟩۔”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ڪاھل"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "بگھاڙ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي ۾"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "شينهن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "چوڪن ۾"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "چوڪن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:57.884350583Z",
+  "model": "glm-5.3"
+}

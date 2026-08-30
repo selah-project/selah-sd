@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ياد ڪر، اي ياهوه، اسان لاءِ ڇا ٿيو؛ غور سان ڏس ۽ ڏس ⟨את⟩ اسان جي بي عزتي.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ياد ڪر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان لاءِ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "غور سان ڏس"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسان جي بي عزتي"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "اسان جي بي عزتي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:52.931929709Z",
+  "model": "glm-5.3"
+}

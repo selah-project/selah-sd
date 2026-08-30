@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پنھنجي سارن رستن ۾ ⟨اُن کي⟩ سڃاڻ، ۽ ⟨هو⟩ تنهنجا رستا سڌا ڪندو۔",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "سارن"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "رستن ۾"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "اُن کي سڃاڻ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "سڌا ڪندو"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "تنهنجا رستا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:53.455404756Z",
+  "model": "glm-5.3"
+}

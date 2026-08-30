@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ يهوشافط اسرائيل جي بادشاهه کي چيو: منهنجي وس، اڄ ياهوه جو ⟨את⟩ لفظ ڳول.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافط"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ڳول"
+    },
+    {
+      "surface": "נא",
+      "gloss": "منهنجي وس"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "اَڄ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لفظ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T15:12:12.476205248Z",
+  "model": "glm-5.3"
+}

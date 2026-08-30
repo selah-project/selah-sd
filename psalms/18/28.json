@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "ڇوته تون غريب قوم کي بچائيندو آهين، ۽ مٿانهين اکين کي جهڪائيندو آهين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "بچائيندو آهين"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "۽ اکين"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "مٿانهين"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "جهڪائيندو آهين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:21.686274999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 25:5",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ڏسو، چنڊ تائين به چمڪي ٿو نه، ۽ تارا سندس نظر ۾ پاڪ نه آهن.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "چنڊ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יאהיל",
+      "gloss": "چمڪي ٿو"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "۽ تارا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "پاڪ آهن"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "سندس نظر ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:07.605499893Z",
+  "model": "glm-5.3"
+}

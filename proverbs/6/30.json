@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ماڻهو چور کي حقارت سان نه ڏسن جڏهن هو بک ۾ پنهنجي جان ڀرڻ لاءِ چوري ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "حقارت سان ڏسن"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "چور کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "چوري ڪري ٿو"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "ڀرڻ لاءِ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "پنهنجي جان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "بکائي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:03.883823684Z",
+  "model": "glm-5.3"
+}

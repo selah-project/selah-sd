@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "پوءِ يصحق اتيان روانو ٿيو، ۽ گرار جي واديءَ ۾ منزل ڪيائين ۽ اتي ئي رهيو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "روانو ٿيو"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اتيان"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يصحق"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "منزل ڪيائين"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "واديءَ ۾"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "گرار"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "رهيو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:15.760663139Z",
+  "model": "glm-5.3"
+}

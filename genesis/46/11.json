@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "۽ ليوي جا پُٽ: گرشون، قهات ۽ مراري.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پُٽ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ليوي"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گرشون"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "۽ مراري"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:43.960830571Z",
+  "model": "glm-5.3"
+}

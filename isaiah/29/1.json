@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 29:1",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "هو واءِ اريل، اريل، اها ڪوٽ جنهن ۾ داوود چوڪي ڪئي! سال تي سال وجهو، جشن جهرڪيون ڦرنديون رهندا.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "هو واءِ"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "اريل"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "اريل"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ڪوٽ"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "چوڪي ڪئي"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "وجهو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חגים",
+      "gloss": "جشن"
+    },
+    {
+      "surface": "ינקפו",
+      "gloss": "ڦرنديون رهندا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:55:46.007963133Z",
+  "model": "glm-5.3"
+}

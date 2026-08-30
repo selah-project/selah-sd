@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ٿيندو هڪ ڏينهن — اهو ياهوه کي ⟨معلوم⟩ هوندو؛ نه ڏينهن ۽ نه رات؛ ۽ شام جي وقت ۾ اُجالو ٿيندو۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "معلوم هوندو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "وقت ۾"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام جي"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "אור",
+      "gloss": "اُجالو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:58:10.179550614Z",
+  "model": "glm-5.3"
+}

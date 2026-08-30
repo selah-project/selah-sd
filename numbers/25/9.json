@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ مگپي ۾ مري ويل ٿي چار ۽ ويھ هزار.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مري ويل"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "مگپي ۾"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:15.150394394Z",
+  "model": "glm-5.3"
+}

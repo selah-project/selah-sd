@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 116,
+  "translation": "ڇوته پنهنجو ڪن مڻايائين مڻ، ۽ منھنجن ڏينھن ۾ مان سڏيندس.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "مڻايائين"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "پنهنجو ڪن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مڻ"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "۽ منھنجن ڏينھن ۾"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "مان سڏيندس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:20:00.559207954Z",
+  "model": "glm-5.3"
+}

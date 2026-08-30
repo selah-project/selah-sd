@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ٻُڻِن، پيءُ جي تعليم کي ٻُڌو ۽ سمجهه حاصل ڪرڻ لاءِ ڌيان ڏيؤ.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ٻُڌو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ٻُڻِن"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تعليم کي"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پيءُ جي"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "۽ ڌيان ڏيؤ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "حاصل ڪرڻ لاءِ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:11.837373262Z",
+  "model": "glm-5.3"
+}

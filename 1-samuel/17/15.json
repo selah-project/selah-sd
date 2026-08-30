@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ داوود شاول وٽان هليو ۽ موٽيندو هو، پنهنجي پيءُ جي ⟪את⟫ رڍن کي چارڻ بيت لحم ۾.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "۽ داوود"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "هليو"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "۽ موٽيندو هو"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "وٽان"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "چارڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رڍن کي"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "رڍن"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پنهنجي پيءُ جي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:11:15.619688463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "شيول ۽ ابادون ياهوه جي اڳيان آھن؛ ماڻهن جي پٽن جون دلون ته بيشڪ.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "۽ ابادون"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אף",
+      "gloss": "به"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "دلون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جون"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:00.447402190Z",
+  "model": "glm-5.3"
+}

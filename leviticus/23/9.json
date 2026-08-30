@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ ياهوه موشيءَ سان ڳالھائي فرمايو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالھائي فرمايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:53.460668236Z",
+  "model": "glm-5.3"
+}

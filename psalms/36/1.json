@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "راھبر لاءِ، ياهوه جي خادم لاءِ، داوود جي (پار).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "راھبر لاءِ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "خادم لاءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جي (پار)"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:41.795523237Z",
+  "model": "glm-5.3"
+}

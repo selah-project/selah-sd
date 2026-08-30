@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "پڙڀاتو لفظ ناباب لاءِ جچڻ ۾ نٿو اچي؛ کان به وڌيڪ، جو کليءَ لاءِ ڪوڙ جو چٽ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "جچڻ ۾ اچي"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ناباب لاءِ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "چٽ\/لب"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "پڙڀاتو"
+    },
+    {
+      "surface": "אף",
+      "gloss": "کان به وڌيڪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לנדי׬",
+      "gloss": "کليءَ لاءِ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ڪوڙ جو چٽ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:24.113663557Z",
+  "model": "glm-5.3"
+}

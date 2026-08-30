@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ڪوبه خدمت جو ڪم نه ڪريو، ۽ توهان ياهوه لاءِ باهه جي قرباني پيش ڪريو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "خدمت جو ڪم"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ڪريو"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "۽ توهان پيش ڪريو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "باهه جي قرباني"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:11.848244463Z",
+  "model": "glm-5.3"
+}

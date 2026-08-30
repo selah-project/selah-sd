@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ پلگ ٽيهه ورهيه جيئري رهيو، ۽ ⟨את⟩ رعو کي پيدا ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "۽ جيئري رهيو"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پلگ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورهيه"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "۽ پيدا ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رعو کي"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رعو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:21.897518185Z",
+  "model": "glm-5.3"
+}

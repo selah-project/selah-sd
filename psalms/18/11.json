@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ⟨اُن⟩ ڪروب تي سوار ٿي اُڏاميو، ۽ هوا جي پرن تي تَرُندو رهيو.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "۽ سوار ٿيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "ڪروب"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "۽ اُڏاميو"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "۽ تَرُندو رهيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "پرن"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "هوا جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:00.748769202Z",
+  "model": "glm-5.3"
+}

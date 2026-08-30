@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ موشي چيو: هيءُ اُهو لفظ آهي جو ياهوه حڪم ڪيو آهي ته توهان ڪريو، ۽ توهان کي ياهوه جو جلال ظاهر ٿيندو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "توهان ڪريو"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ظاهر ٿيندو"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "توهان کي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:42.422859893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 48:23",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ باقي قبيلن جو، اوڀر واري پاسن کان اولهه واري پاسن تائين، بنيامين هڪ (حصو).",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "۽ باقي"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "قبيلن جو"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "پاسن کان"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "اوڀر واري"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسن"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "اولهه واري"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:08.301465327Z",
+  "model": "glm-5.3"
+}

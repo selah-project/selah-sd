@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ سروج ⟨את⟩ نحور کي پيدا ڪرڻ کان پوءِ ٻه سَو سال جييو، ۽ پٽن ۽ ڌيين کي پيدا ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جييو"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سروج"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کان پوءِ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "پيدا ڪرڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نحور"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "نحور"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سَو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "پيدا ڪيائين"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "۽ ڌيين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:48.294073115Z",
+  "model": "glm-5.3"
+}

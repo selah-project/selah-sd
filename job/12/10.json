@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "جنهن جي هٿ ۾ سڀ جيوت جو نپس ۽ سڀ انسائي گوشت جي روح آھي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "جي هٿ ۾"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نپس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جيوت"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "۽ روح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "انسائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:36:31.737035625Z",
+  "model": "glm-5.3"
+}

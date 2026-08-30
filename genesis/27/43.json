@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 27:43",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ هاڻي پٽ منهنجو، منهنجي آواز ٻڌ ۽ اُٿي پنهنجي لاءِ ڀڃي وڃ لبان وٽ، منهنجي ڀائي وٽ، حرن ۾.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ منهنجو"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌ"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "منهنجي آواز"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "۽ اُٿي"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ڀڃي وڃ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پنهنجي لاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لبان"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "منهنجي ڀائي"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "حرن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:32.539617494Z",
+  "model": "glm-5.3"
+}

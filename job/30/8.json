@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "جهلا جا پٽ، بلڪ نالي کان سواءِ پٽ، زمين مان ڪُٽي ڪڍيا ويا آهن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "جهلا جا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بلڪ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "کان سواءِ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالي"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "ڪُٽي ڪڍيا ويا آهن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:41:15.729518367Z",
+  "model": "glm-5.3"
+}

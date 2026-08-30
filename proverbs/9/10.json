@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "حڪمت جي شروعات ياهوه جو ڌڪ-ادب آهي، ۽ قدوسن جي ڄاڻ سمجهه آهي.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "شروعات"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ڌڪ-ادب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "۽ ڄاڻ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "قدوسن جي"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:34.920850113Z",
+  "model": "glm-5.3"
+}

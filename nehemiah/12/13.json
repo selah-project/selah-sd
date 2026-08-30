@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "عزرا جو مشلم؛ امريا جو يهوحنان.",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "عزرا جو"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مشلم"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "امريا جو"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "يهوحنان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:12.625997646Z",
+  "model": "glm-5.3"
+}

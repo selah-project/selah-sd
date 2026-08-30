@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "مُنسِر لاءِ، قورح جي پٽن لاءِ، هڪ مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُنسِر لاءِ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن لاءِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "هڪ مزمور"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:23.151201478Z",
+  "model": "glm-5.3"
+}

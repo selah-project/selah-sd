@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "متسرايم ھڪ خوبصورت ڍڳي آھي؛ اُتران ھڪ ڪوٽ (ڦٽڻ وارو) اچي ٿو، اچي ٿو.",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "ڍڳي"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "خوبصورت"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ان جي وات"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "ڪوٽ (بربادي)"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "اُتران"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:22:17.369998118Z",
+  "model": "glm-5.3"
+}

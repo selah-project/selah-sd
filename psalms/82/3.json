@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 82,
+  "translation": "ڪمزور ۽ يتيم جو فيصلو ڪيو؛ مسڪين ۽ غريب کي راستباز ٺاهيو.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "فيصلو ڪيو"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ڪمزور"
+    },
+    {
+      "surface": "ותום",
+      "gloss": "۽ يتيم"
+    },
+    {
+      "surface": "עני",
+      "gloss": "مسڪين"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "۽ غريب"
+    },
+    {
+      "surface": "הצדיקو",
+      "gloss": "راستباز ٺاهيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:50.299986310Z",
+  "model": "glm-5.3"
+}

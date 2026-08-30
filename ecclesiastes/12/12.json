@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ انهن کان وڌيڪ، پُٽ منهنجو، خبردار رهه: ڪيترن ڪتابن ٺاهڻ جي ڪا پڇاڙي ناهي، ۽ گهڻو پڙهڻ جسماني ٿڪ آهي.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "۽ وڌيڪ"
+    },
+    {
+      "surface": "مהמה",
+      "gloss": "انهن کان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ منهنجو"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "خبردار رهه"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ٺاهڻ"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ڪتابن"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ڪيترن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "پڇاڙي"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "۽ گهڻو پڙهڻ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گهڻو"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ٿڪ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "جسماني"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:48.500832763Z",
+  "model": "glm-5.3"
+}

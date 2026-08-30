@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ڇا مون تو لاءِ لکو نه آهي، ٽي ڀيرا، صلاحن ۽ ڄاڻ ۾؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ڇا... نه"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "مون لکو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ٽي ڀيرا"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "صلاحن ۾"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "۽ ڄاڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:50.266931355Z",
+  "model": "glm-5.3"
+}

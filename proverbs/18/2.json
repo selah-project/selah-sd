@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "ڪوڙو سمجهه ۾ خوش نه ٿئي ٿو، پر رڳو ان ۾ ته سندس دل کُلي پوي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "خوش ٿئي ٿو"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ڪوڙو"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "سمجهه ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "کُلي پوين ۾"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "سندس دل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:42.117799762Z",
+  "model": "glm-5.3"
+}

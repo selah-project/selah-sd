@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "پر بيشڪ قيني بربادي لاءِ آهي — ڪيتري تائين؟ اسور تو کي قيدي ڪندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "بربادي لاءِ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قيني"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڪيتري"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اسور"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "تو کي قيدي ڪندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:25.052676275Z",
+  "model": "glm-5.3"
+}

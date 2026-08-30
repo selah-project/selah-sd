@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ ساره جي زندگيءَ جا سال ٿيا سؤ سال ۽ ويھ سال ۽ ستن سالن جا — ساره جي زندگيءَ جا سال.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگيءَ جا"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساره"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالن جا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگيءَ جا"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساره"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:47.166771096Z",
+  "model": "glm-5.3"
+}

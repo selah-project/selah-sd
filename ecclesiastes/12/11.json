@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "حڪيمن جا لفظ ڊنڊن (اُڪيسن) جيان آهن، ۽ جماعتن جي مالڪن جي کوڙيل ٺوڪن جيان — ڏنل ھڪ رڍبان (رچاري) کان.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "جا لفظ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "حڪيمن"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "ڊنڊن جيان"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "۽ ٺوڪن جيان"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "کوڙيل"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "مالڪن"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "جماعتن"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ڏنل"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "رڍبان"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:48.500684826Z",
+  "model": "glm-5.3"
+}

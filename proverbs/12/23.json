@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "هوشيار ماڻهو ڄاڻ لڪائي ٿو، پر مورڙن جي دل مورٺائي پڪاري ٿي.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "هوشيار"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "لڪائي ٿو"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاڻ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "پر دل"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "مورڙن جي"
+    },
+    {
+      "surface": "יקرא",
+      "gloss": "پڪاري ٿي"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "مورٺائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:01.274813426Z",
+  "model": "glm-5.3"
+}

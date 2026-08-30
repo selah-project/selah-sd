@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 3:10",
+  "book": "zephaniah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڪوش جي دريائن پار کان مون جا پوڄاري، مون جي ڀڙايل ٻاري جي ڌي، مون جي نذرپيشي کڻي ايندا.",
+  "tokens": [],
+  "timestamp": "2026-08-30T12:53:58.050779557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پوءِ موشي ⟨את⟩ گاڏيون ۽ ⟨את⟩ ڍڳيون ورتيون، ۽ انھن کي لاوين کي ڏنو.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "پوءِ ورتيون"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گاڏيون"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "گاڏيون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ڍڳيون"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ڍڳيون"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏنو"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "انھن کي ⟨את⟩",
+      "marks": "لاوي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:30.036151015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "۽ ايوب مري ويو، ٻُڏڙو ۽ ڏينهن سان ڀرجي.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مري ويو"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ايوب"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ٻُڏڙو"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ڀرجي"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:16.982930879Z",
+  "model": "glm-5.3"
+}

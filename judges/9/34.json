@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 9:34",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "پوءِ ابيميلخ ۽ سندس ساڻ سڀ ماڻھو رات جي وقت اُٿيا، ۽ چار ڌڙن ۾ شڪم تي گھات واريائون.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٿيو"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ابيميلخ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ساڻ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات جي وقت"
+    },
+    {
+      "surface": "ויארבו",
+      "gloss": "۽ گھات واريائون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شڪم"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ڌڙا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:00:43.804778275Z",
+  "model": "glm-5.3"
+}

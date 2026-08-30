@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ وڃي ٻيا ايلوهيم پوڄي، انھن کي سجدو ڪري — سج لاءِ يا چنڊ لاءِ يا آسمانن جي سڄي لشڪر لاءِ — جن جو مون حڪم نه ڏنو،",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "۽ وڃي"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "پوڄي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻيا"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "۽ سجدو ڪري"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انھن کي"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "۽ سج لاءِ"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "چنڊ لاءِ"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڄي لاءِ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن جي"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "جن جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "مون حڪم ڏنو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:33.559873103Z",
+  "model": "glm-5.3"
+}

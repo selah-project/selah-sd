@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "haggai 2:16",
+  "book": "haggai",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "جڏھن ڪو ويھن جي ڍير وٽ اچي ٿو ته ڏھ ٿيندي؛ ۽ جڏھن ڪو ٻَ۽ وٽ پنجاھ پُراھه ڀرڻ لاءِ اچي ٿو ته ويھه ٿيندي.",
+  "tokens": [
+    {
+      "surface": "מהיותם",
+      "gloss": "جڏھن ھئا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "جي ڍير"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھه"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ته ٿيندي"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏھ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "ٻَ۽"
+    },
+    {
+      "surface": "לחשף",
+      "gloss": "ڀرڻ لاءِ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاھ"
+    },
+    {
+      "surface": "פורה",
+      "gloss": "پُراھه"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ته ٿيندي"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:20.161279104Z",
+  "model": "glm-5.3"
+}

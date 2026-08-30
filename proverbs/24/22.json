@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڇو ته اوچتو سندن تباهي اُڀرندي، ۽ ٻنهي جي برباديءَ کي ڪير ڄاڻي؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اوچتو"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اُڀرندي"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "سندن تباهي"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "۽ بربادي"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ٻنهي جي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ڄاڻي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:21.263321751Z",
+  "model": "glm-5.3"
+}

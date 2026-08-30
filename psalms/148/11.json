@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 148,
+  "translation": "زمين جا بادشاھ ۽ سڀ قومون، سردار ۽ زمين جا سڀ قاضي؛",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "لאמים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "قاضي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:21.416975178Z",
+  "model": "glm-5.3"
+}

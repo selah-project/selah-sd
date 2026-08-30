@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ڇوته ماڻهو ڪڙي لاءِ ڄائو آهي ۽ ٻرن جا پُٽ اُڏامڻ لاءِ مٿي چڙهن ٿا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "ڪڙي لاءِ"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ڄائو"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پُٽ"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "ٻر"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "مٿي چڙهن ٿا"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "اُڏامڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:34.526911217Z",
+  "model": "glm-5.3"
+}

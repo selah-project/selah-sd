@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "برائيءَ کان ھٽي وڃ ۽ ڀلائي ڪر، سلامتي تلاش ۽ ان جي پٺيان لڳ.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "ھٽي وڃ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "برائيءَ کان"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "۽ ڪر"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلائي"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "تلاش"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ان جي پٺيان لڳ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:20.666244086Z",
+  "model": "glm-5.3"
+}

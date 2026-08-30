@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 1:6",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ سندس ساٿڻ به کيس تڪليف ڏيڻ لاءِ ڏک ڏيند هئي، ڇو ته ياهوه سندس رحم بند ڪيو هو.",
+  "tokens": [
+    {
+      "surface": "וכעסתה",
+      "gloss": "تڪليف ڏيند هئي"
+    },
+    {
+      "surface": "צרתה",
+      "gloss": "سندس ساٿڻ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ڏک"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "הרעמה",
+      "gloss": "کيس ڏکائڻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "بند ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "پاسان"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "رحم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:05:54.984482965Z",
+  "model": "glm-5.3"
+}

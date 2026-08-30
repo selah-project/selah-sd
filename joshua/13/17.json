@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 13:17",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "حشبون ۽ سندس سڀ شهر جيڪي ميدان ۾ آهن: ديبون ۽ باموت-بعل ۽ بيت-بعل-معون،",
+  "tokens": [
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "سندس شهر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "ميدان ۾"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "ديبون"
+    },
+    {
+      "surface": "ובמות",
+      "gloss": "۽ باموت"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ بيت"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "معون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:22.579102945Z",
+  "model": "glm-5.3"
+}

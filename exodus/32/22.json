@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ چيو اهارون: ادوناي جو غصو ڀڙڪي نه؛ تون ⟨את⟩ ماڻهن کي سڃاڻين ٿو، جو هو بڇڙائيءَ ۾ آهن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "ڀڙڪي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "سڃاڻين ٿو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماڻهن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "بڇڙائيءَ ۾"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:08:48.335755515Z",
+  "model": "glm-5.3"
+}

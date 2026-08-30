@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "داويد جو مز مور، ياد ڪرائڻ لاءِ۔",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داويد جو"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ياد ڪرائڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:42.264901314Z",
+  "model": "glm-5.3"
+}

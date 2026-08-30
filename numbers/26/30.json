@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "اهي گلعد جا پٽ آهن: عيعزر مان عيعزري خاندان، حلق مان حلقي خاندان.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعد"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "عيعزر"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "عيعزري"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "حلق مان"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "حلقي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:23.709960716Z",
+  "model": "glm-5.3"
+}

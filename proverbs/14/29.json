@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 14:29",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "آهستي غصو ڪندڙ وڏي سمجھ جو مالڪ ⟨آھي⟩، پر گھٽ روح وارو بيوقفتي کي اُوچو ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "آهستي"
+    },
+    {
+      "surface": "אפيים",
+      "gloss": "غصو"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "וקצר",
+      "gloss": "پر گھٽ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "اُوچو ڪري ٿو"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "بيوقفتي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:01.743151736Z",
+  "model": "glm-5.3"
+}

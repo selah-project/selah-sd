@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ هن ⟨את⟩ مزيدار کاڌو ۽ ⟨את⟩ ماني، جا هن تيار ڪئي هئي، پنهنجي پٽ يعقوب جي هٿ ۾ ڏني.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ڏني"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مزيدار کاڌو"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "مزيدار کاڌو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ماني"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "تيار ڪئي هئي"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ ۾"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "پنهنجي پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:34:24.217139572Z",
+  "model": "glm-5.3"
+}

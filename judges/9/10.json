@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ وڻن انجير کي چيو: تون وڃ، اسان تي راج ڪر.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "چيا"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "وڻن"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "انجير کي"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "את",
+      "gloss": "تون"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "راج ڪر"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اسان تي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:00:01.837454055Z",
+  "model": "glm-5.3"
+}

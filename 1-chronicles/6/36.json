@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "بُڪي سندس پٽ، عُزي سندس پٽ، زرحياه سندس پٽ.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "بُڪي"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزي"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زرحياه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:06.632039732Z",
+  "model": "glm-5.3"
+}

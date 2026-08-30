@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "jeremiah 48:46",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "ھائي موآب تي! كموش جو قوم فنا ٿي ويو؛ ڇوته تنهنجا پٽ قيدي ڪيا ويا ۽ تنهنجون ڌيون قيد ۾.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "ھائي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي لاءِ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "فنا ٿي ويو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "כמוש",
+      "gloss": "كموش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "قيدي ڪيا ويا"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "تنهنجا پٽ"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "قيدي"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "۽ تنهنجون ڌيون"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "قيد ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:41.737258091Z",
+  "model": "glm-5.3"
+}

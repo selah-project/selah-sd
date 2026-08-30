@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ جڏهن بادشاهه تورات جا لفظ ٻُڌا، تڏهن پنهنجا ڪپڙا پاڙي ڇڏيائين.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "جڏهن ٻُڌائين"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لفظ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات جا"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "تڏهن پاڙي ڇڏيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجا ڪپڙا"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "پنهنجا ڪپڙا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:31:54.245633106Z",
+  "model": "glm-5.3"
+}

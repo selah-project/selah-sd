@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ته راجا چيو: جيڪو به توڏانهن ڳالهه ڪري، مون وٽ آڻڻ ڪر، ۽ هو وڌيڪ توکي هٿ نه لائيندو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "راجا"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ڳالهه ڪندڙ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "توڏانهن"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "آڻڻ ڪر"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اڃا"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "هٿ لائڻ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "توکي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:20:48.347058334Z",
+  "model": "glm-5.3"
+}

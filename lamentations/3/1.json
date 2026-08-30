@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "آءٌ اھو ماڻھو آھيان جنهن سندس غضب جي لاٺ ۾ مصيبت ڏٺي.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "اھو ماڻھو"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏٺي"
+    },
+    {
+      "surface": "עני",
+      "gloss": "مصيبت"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "لاٺ ۾"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "سندس غضب جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:21.625557683Z",
+  "model": "glm-5.3"
+}

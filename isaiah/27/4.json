@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 27:4",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "غصو مون ۾ ناهي؛ ڪير مون کي جنگ ۾ ڪنڊ ۽ ٻوڙ ڏيندو؟ مان ان تي ٿڀيندس، ان کي سڌي ساڙي ڇڏيندس.",
+  "tokens": [
+    {
+      "surface": "חמה",
+      "gloss": "غصو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون ۾"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "مون کي ڏيندو"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ڪنڊ"
+    },
+    {
+      "surface": "שית",
+      "gloss": "ٻوڙ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "جنگ ۾"
+    },
+    {
+      "surface": "אפשעה",
+      "gloss": "ٿڀيندس"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "אציתנה",
+      "gloss": "ساڙيندس"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "سڌي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:54:15.522762014Z",
+  "model": "glm-5.3"
+}

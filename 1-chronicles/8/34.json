@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ يهوناتان جو پٽ مرِيب بعل هو؛ ۽ مرِيب بعل ⟨את⟩ ميخا کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتان جو"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "مرِيب"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "۽ مرِيب"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميخا"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ميخا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:56.322493818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ هن اسان کي هن جاءِ ۾ آندو، ۽ اسان کي ⟨את⟩ هيءَ زمين ڏني، زمين جيڪا کير ۽ مکڻ سان وهندڙ آهي.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "۽ هن اسان کي آندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "هن جاءِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏنو"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هيءَ زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هيءَ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "زבת",
+      "gloss": "وهندڙ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "کير"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "۽ مکڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:24.354070988Z",
+  "model": "glm-5.3"
+}

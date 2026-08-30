@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 44:20",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "۽ يرمياهو چيو سڀ قوم کي، مڙسن بابت ۽ زالن بابت ۽ سڀ ان قوم بابت جيڪي جواب ڏيندا هئس ⟨את⟩ ان ڳالھ، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "مڙسن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ بابت"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "زالن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ بابت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הענים",
+      "gloss": "جيڪي جواب ڏيندا هئس"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ان ڳالھ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:20.860774654Z",
+  "model": "glm-5.3"
+}

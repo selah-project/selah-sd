@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "پر جيئن زنده آهيان، ياهوه جو ڪمال ⟨את⟩ سڄي زمين کي ڀريندو.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زنده"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آهيان"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "۽ ڀريندو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ڪمال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڄي زمين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:47.256726910Z",
+  "model": "glm-5.3"
+}

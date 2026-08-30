@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "قدش جو بادشاهه هڪ، ڪرميل جي يقنعام جو بادشاهه هڪ —",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "جي بادشاهه"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "جي بادشاهه"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "يقنعام"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "ڪرميل ۾"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:10.382618695Z",
+  "model": "glm-5.3"
+}

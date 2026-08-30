@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ڪوش جا پُٽ: سيبا ۽ حَوِيله ۽ سبطا ۽ رعما ۽ سبطيخا؛ ۽ رعما جا پُٽ: شيبا ۽ ددان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پُٽ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ڪوش"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "سيبا"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "۽ حَوِيله"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "۽ سبطا"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "۽ رعما"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "۽ سبطيخا"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پُٽ"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "رعما"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شيبا"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "۽ ددان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:33.750401050Z",
+  "model": "glm-5.3"
+}

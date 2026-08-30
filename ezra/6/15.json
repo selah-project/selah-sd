@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 6:15",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ اهو گھر اڌر مهيني جي ٽئين ڏينهن تي پورو ٿيو، اهو داريوش بادشاهه جي بادشاهت جي ڇهين سال ۾ هو.",
+  "tokens": [
+    {
+      "surface": "ושיציא",
+      "gloss": "۽ پورو ٿيو"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "תלתה",
+      "gloss": "ٽئين"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "مهيني جي"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ادر"
+    },
+    {
+      "surface": "די",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ڇهين"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "بادشاهت جي"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "داريوش"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:03:48.249190900Z",
+  "model": "glm-5.3"
+}

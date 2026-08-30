@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ مگڦا ۾ مُئل چوڏهن ھزار ۽ ست سَو ٿيا، قارح جي ڪارڻ تي مُئلن کان سواءِ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ٿيا"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مُئل"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "مگڦا ۾"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ڏهن"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "کان سواءِ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مُئلن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي\/ڪارڻ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "معاملي"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قارح"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:08.966132574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "پوءِ هُو مون کي دروازي ڏانهن وٺي ويو — دروازي جو رخ ⟨اوڀر⟩ جي رستي ڏانهن آهي.",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "هُو مون کي وٺي ويو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "رخ رکيل آهي"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستي"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "اوڀر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:39.633041719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 5:7",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ ڪاهنن ياهوه جي عھد جي صندوق ⟨את⟩ کي سندس جاءِ تي، گھر جي اندروني مقام ۾، قدس القدس ۾، ڪروبين جي پرن جي ھيٺ آندي.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "آندي"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهنن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عھد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "مקומו",
+      "gloss": "سندس جاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "اندروني مقام"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "القدس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "جي پرن"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ڪروبين"
+    }
+  ],
+  "timestamp": "2026-08-30T15:12:00.096610111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ قومن جي ڀائيواري توکي گھيري وٺي؛ ۽ ان جي مٿان مٿي موٽ.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "۽ ڀائيواري"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "قومن جي"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "توکي گھيري وٺي"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "۽ ان جي مٿان"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "موٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:01:33.920872328Z",
+  "model": "glm-5.3"
+}

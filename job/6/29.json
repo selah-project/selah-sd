@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 6:29",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "موڙجھو، اِها عرض، ظلم ⟨نه⟩ ٿئي؛ ۽ وري موڙجو — منھنجو انصاف ان ۾ ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "שבו",
+      "gloss": "موڙجھو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اِها عرض"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ٿئي"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "ושבי",
+      "gloss": "۽ موڙجو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "منھنجو انصاف"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:44.060407305Z",
+  "model": "glm-5.3"
+}

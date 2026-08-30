@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڄمڻ جو وقت ۽ مرڻ جو وقت؛ پوکڻ جو وقت ۽ پوکيل کي پاڙڻ جو وقت:",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ڄمڻ جو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "۽ وقت"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مرڻ جو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "پوکڻ جو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "۽ وقت"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "پاڙڻ جو"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "پوکيل کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:23.867702060Z",
+  "model": "glm-5.3"
+}

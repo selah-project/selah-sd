@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 38:13",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "ته زمين جي پرن کي جهلي، ۽ شرير ان مان لوڏجي وڃن؟",
+  "tokens": [
+    {
+      "surface": "לאחז",
+      "gloss": "ته…جهلي"
+    },
+    {
+      "surface": "בכנפות",
+      "gloss": "پرن کي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "וינערו",
+      "gloss": "لوڏجي وڃن"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شرير"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ان مان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:56.629379030Z",
+  "model": "glm-5.3"
+}

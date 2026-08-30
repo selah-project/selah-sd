@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 49:21",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "زمين انهن جي ڪِرڻ جي آواز کان ڪپي وئي؛ پُڪار ٿي، سندس آواز سمنڊ سُف تائين ٻُڌو ويو.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "آواز کان"
+    },
+    {
+      "surface": "נפלם",
+      "gloss": "انهن جي ڪِرڻ"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "ڪپي وئي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "پُڪار ٿي"
+    },
+    {
+      "surface": "בים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سُف"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ٻُڌو ويو"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "سندس آواز"
+    }
+  ],
+  "timestamp": "2026-08-30T12:24:36.767132592Z",
+  "model": "glm-5.3"
+}

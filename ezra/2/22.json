@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "نتوفه جا ماڻهو، پنجاهه ۽ ڇهه.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "جا ماڻهو"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "نتوفه"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاهه"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "۽ ڇهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:11.523318109Z",
+  "model": "glm-5.3"
+}

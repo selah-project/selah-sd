@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "لِبانہ جا پُٽ، حَگابہ جا پُٽ، عَقّوب جا پُٽ،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لِبانہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "حَگابہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "عَقّوب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:02:32.942201249Z",
+  "model": "glm-5.3"
+}

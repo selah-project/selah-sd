@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "پوءِ جڏهن بعشا ٻڌو، ته رمه ٺاهڻ کان بيٺو، ۽ پنهنجي ڪم کي بند ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "پوءِ ٿيو"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "جڏهن ٻڌو"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشا"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "ته بيٺو"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ٺاهڻ کان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رمه"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "رمه"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "۽ بند ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجي ڪم"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "پنهنجي ڪم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:34.935996892Z",
+  "model": "glm-5.3"
+}

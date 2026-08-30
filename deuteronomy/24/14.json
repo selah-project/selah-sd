@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ظلم نه ڪر مزدور کي، غريب ۽ NEEDY-کي، تنهنجن ڀائرن مان يا تنهنجي پرڏيهي مان، جيڪو تنهنجي زمين ۾، تنهنجن دروازن اندر آهي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "ظلم ڪر"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "مزدور کي"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "ואביون",
+      "gloss": "۽ NEEDY"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "تنهنجن ڀائرن مان"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "מגרך",
+      "gloss": "تنهنجي پرڏيهي مان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "تنهنجي زمين ۾"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "تنهنجن دروازن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:39.975234859Z",
+  "model": "glm-5.3"
+}

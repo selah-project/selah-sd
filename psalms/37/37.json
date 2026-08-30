@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "نظر رک تrios واري ماڻهوءَ تي ۽ ڏس سڌي کي، ڇوته شيلم واري ماڻهوءَ جو پاند <آهي>.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "نظر رک"
+    },
+    {
+      "surface": "תם",
+      "gloss": "تروس"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏس"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سڌي کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "پاند"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ماڻهوءَ جو"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شيلم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:23.612074741Z",
+  "model": "glm-5.3"
+}

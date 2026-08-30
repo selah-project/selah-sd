@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "سارا لفظ ٿڪائيندا آھن؛ ڪوبه ماڻھو بياني نٿو ڪري سگھي؛ اک ڏسڻ سان سيراب نه ٿيندي، ۽ ڪن ٻڌڻ سان ڀرجي نه ٿيندو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ٿڪائيندا آھن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "نٿو سگھي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ڪوبه ماڻھو"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "بياني ڪري"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "سيراب ٿيندي"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اک"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ڏسڻ سان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ڀرجي ٿيندي"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ڪن"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ٻڌڻ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:28.137336084Z",
+  "model": "glm-5.3"
+}

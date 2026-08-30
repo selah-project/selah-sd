@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "هن غريب پڪاريو، ۽ ياهوه ٻُڌو، ۽ کيس سندس سڀ مصيبتن مان بچايائين.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "پڪاريو"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "۽ ياهوه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻُڌو"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "۽ سڀني مان"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "سندس مصيبتون"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "بچايو کيس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:08.649316688Z",
+  "model": "glm-5.3"
+}

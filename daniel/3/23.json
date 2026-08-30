@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "daniel 3:23",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ اُهي ٽي ماڻَهو — شدرخ، ميشخ ۽ عبد نگو — ٻَڌل ڪري سڙندڙ باهه جي بھار جي وچ ۾ ڪري پيا.",
+  "tokens": [
+    {
+      "surface": "וגבריא",
+      "gloss": "۽ اُهي ماڻَهو"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "اُهي"
+    },
+    {
+      "surface": "תלתהון",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "شدرخ"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "ميشخ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "۽"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "عبد نگو"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڪري پيا"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "بھار"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "باهه"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "سڙندڙ"
+    },
+    {
+      "surface": "מכפתין",
+      "gloss": "ٻَڌل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:58:11.532638546Z",
+  "model": "glm-5.3"
+}

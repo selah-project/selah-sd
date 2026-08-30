@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 29:13",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ ايليصپان جي پٽن مان شمري ۽ يِعوائيل، ۽ آساف جي پٽن مان ذڪريا ۽ متنيا.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ … مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "ايليصپان"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شمري"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "۽ يِعوائيل"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "۽ … مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "ذڪريا"
+    },
+    {
+      "surface": "ומתניהו",
+      "gloss": "۽ متنيا"
+    }
+  ],
+  "timestamp": "2026-08-30T15:12:33.570644811Z",
+  "model": "glm-5.3"
+}

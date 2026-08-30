@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "اِهي بني اسرائيل جا ڳڻپ ۾ آيل هئا: سِت سؤ هزار ۽ هڪ هزار، سَت سؤ ۽ ٽي.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اِهي"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ڳڻپ ۾ آيل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني (پُٽَ)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "۽ هڪ هزار"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سَت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:24.897098585Z",
+  "model": "glm-5.3"
+}

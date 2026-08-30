@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "سج اونداهي ۾ مٽجي ويندو ۽ چنڊ رت ۾، ياهوه جي اُڏن ۽ ڀيانڪ ڏينهن جي اچڻ کان اڳ.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "مٽجي ويندو"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "اونداهي ۾"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "۽ چنڊ"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "رت ۾"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳ"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "اچڻ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "اُڏن"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "۽ ڀيانڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:47:22.635651123Z",
+  "model": "glm-5.3"
+}

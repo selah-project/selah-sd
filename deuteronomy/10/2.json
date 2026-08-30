@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ مان لوحن تي لکندس ⟨את⟩ اُهي لفظ جيڪي پهرين لوحن تي هئا — جيڪي تو ٽوڙيا هئا — ۽ تو اهي صندوق ۾ رکندين.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "۽ مان لکندس"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "لوحن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُهي لفظ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "لوحن"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "پهرين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "تو ٽوڙيا"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "۽ رکندين"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "صندوق ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:36.848202933Z",
+  "model": "glm-5.3"
+}

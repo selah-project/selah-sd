@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "دريائن جا دروازا کوليا ويا ۽ محل پگھرجي ويو.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "دروازا"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "دريائن جا"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "کوليا ويا"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "۽ محل"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "پگھرجي ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:52:50.137128755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "تڏهن شلومو عتسيون-گيبر ڏانهن ويو ۽ ايلوت ڏانهن، سمنڊ جي ڪناري تي، ادوم جي زمين ۾۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تڏهن"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ويو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "عتسيون ڏانهن"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "-گيبر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ... ڏانهن"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ايلوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ڪناري"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ جي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:27.425465529Z",
+  "model": "glm-5.3"
+}

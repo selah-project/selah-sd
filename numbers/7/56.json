@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "هڪ سون جو چمچو، ڏهه شڪل، خوشبودار لوڻ سان ڀريل.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "چمچو"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ڀريل"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبودار لوڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:41.360266434Z",
+  "model": "glm-5.3"
+}

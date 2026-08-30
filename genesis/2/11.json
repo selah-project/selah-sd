@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "پهرئين جو نالو پيشون آهي؛ ⟨هو⟩ اُهو آهي جيڪو ⟨את⟩ س lands حويله جي سڄي زمين کي گهيرائي ٿو، جتي سون آهي.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "پهرئين جو"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "پيشون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "گهيرائي ٿو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڄي زمين کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "حويله"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سون"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:11.412161937Z",
+  "model": "glm-5.3"
+}

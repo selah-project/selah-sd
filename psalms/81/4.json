@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 81,
+  "translation": "ڦوڪو شنگھ ۾ مهيني ۾، پوري چنڊ تي، اسان جي ڏينهنِ عيد جي.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "ڦوڪو ماريو"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مهيني ۾"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شنگھ"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "پورا ٿيل چنڊ تي"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "اسان جي عيد"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:02.759469340Z",
+  "model": "glm-5.3"
+}

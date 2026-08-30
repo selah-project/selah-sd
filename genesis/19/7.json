@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ چيائين: نه ڪريو، پڻس، منهنجا ڀائر، اھي برائي نه ڪريو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "پڻس"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "منهنجا ڀائر"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "برائي ڪريو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:28.614436318Z",
+  "model": "glm-5.3"
+}

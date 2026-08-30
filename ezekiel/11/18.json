@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ اتي اچي، ۽ ⟨את⟩ سندس سڀ نفرت Things ۽ ⟨את⟩ سندس سڀ توبائون ان مان هٽائي ڇڏيندا.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "۽ اچي"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "۽ هٽائيندا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس سڀ نفرت Things"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "سندس نفرت Things"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سندس سڀ توبائون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "سندس توبائون"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ان مان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:29:52.474758422Z",
+  "model": "glm-5.3"
+}

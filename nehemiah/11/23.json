@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ڇوته ملت جو حڪم انهن تي ھو، ۽ گلوڪارن لاءِ امانت، ڏينھن جو ڪم پنھنجي ڏينھن ۾.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ملت"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "انهن تي"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "۽ امانت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "گلوڪارن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينھن جو"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "پنھنجي ڏينھن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:58.716236519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "اھي رپا کي گٿ ۾ پيدا ٿيا، ۽ اھي داوود جي هٿ ۾ ۽ سندس ٻانهن جي هٿ ۾ ڪِريا.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "پيدا ٿيا"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "رپا کي"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "گٿ ۾"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ڪِريا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ ۾"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "۽ هٿ ۾"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ٻانهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:54.990840145Z",
+  "model": "glm-5.3"
+}

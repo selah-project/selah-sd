@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 19:15",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "هڪ شاهد ڪنهن ماڻهوءَ خلاف نه اُٿندو، ڪنهن به ڏوهه لاءِ ۽ ڪنهن به گناهه لاءِ، جيڪو به ڏوهن هو ڪري؛ ٻن شاهدن جي وات سان يا ٽن شاهدن جي وات سان ڪم قائم ٿيندو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اُٿندو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ڪنهن ماڻهوءَ خلاف"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ڪنهن به … لاءِ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ڏوهه"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "۽ ڪنهن به … لاءِ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناهه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "جيڪو به … ۾"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ڏوهن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "هو ڪري"
+    },
+    {
+      "surface": "על",
+      "gloss": "سان"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شاهدن جي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "על",
+      "gloss": "سان"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽن"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شاهدن جي"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "قائم ٿيندو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڪم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:25.706313794Z",
+  "model": "glm-5.3"
+}

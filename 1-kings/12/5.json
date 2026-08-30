@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ انهن کي چيائين: ٽي ڏينھن وڃو، پوءِ مڻجي وري مون وٽ اچو؛ ۽ ماڻھو ويا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "وشو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيھر"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "مڻجي وري اچو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "۽ ويا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:32:50.083324075Z",
+  "model": "glm-5.3"
+}

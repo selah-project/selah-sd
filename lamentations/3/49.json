@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مون جي اک وهندي رهي ٿي ۽ بند نه ٿيندي، ڪنهن به وقفي کان سواءِ.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "مون جي اک"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "وهي ٿي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "بند ٿئي"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "کان سواءِ"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "ڪنهن به وقفي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:56.843933021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ زمين ايلوهيم جي اَکِ اَڳي خراب ٿي چڪي ھئي، ۽ زمين ظلم سان ڀرجي وئي.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "خراب ٿي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اَکِ اَڳي"
+    },
+    {
+      "surface": "האלהим",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ڀرجي وئي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلم"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:59.204084282Z",
+  "model": "glm-5.3"
+}

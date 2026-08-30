@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ موشي ⟨את⟩ مسح جو تيل کنيو، ۽ هن ⟨את⟩ مسڪن ۽ ⟨את⟩ سڀ ڪجهه جيڪو ان ۾ هو، مسح ڪيو؛ ۽ ⟨את⟩ انهن کي پاڪ ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "کنيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسح جو تيل"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تيل"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "مسح جو"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "مسح ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسڪن"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسڪن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سڀ ڪجهه جيڪو ان ۾ هو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ ڪجهه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "پاڪ ڪيائين"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ انهن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:37:51.601303269Z",
+  "model": "glm-5.3"
+}

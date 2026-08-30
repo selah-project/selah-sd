@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "مغرورن مون لاءِ دڙھا کوڙيا آھن، جي توريتِ تو جي مطابق نه آھن.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "کوڙيا آھن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "مغرورن"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "دڙھا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "توريتِ تو جي مطابق"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:39.503393591Z",
+  "model": "glm-5.3"
+}

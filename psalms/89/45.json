@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "تو سندس چمڪ بجھائي ڇڏي، ۽ سندس تخت زمين تي اُڇليو.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "بجھائي ڇڏي"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "سندس چمڪ"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "۽ سندس تخت"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمين تي"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "اُڇليو"
+    }
+  ],
+  "timestamp": "2026-08-30T15:03:11.422509713Z",
+  "model": "glm-5.3"
+}

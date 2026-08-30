@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 13:12",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ سڀ يهودا اناج ۽ انگوري شراب ۽ تيل جو ڏهون حصو خزائن ۾ آندو.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "آندو"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ڏهون حصو"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "اناج جو"
+    },
+    {
+      "surface": "והתירוש",
+      "gloss": "۽ انگوري شراب"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "۽ تيل"
+    },
+    {
+      "surface": "לאוצרות",
+      "gloss": "خزائن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:04.518366787Z",
+  "model": "glm-5.3"
+}

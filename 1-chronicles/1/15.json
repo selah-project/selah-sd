@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ⟨את⟩ حِويءَ کي ۽ ⟨את⟩ عرقيءَ کي ۽ ⟨את⟩ سينيءَ کي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حِوي"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "حِوي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "عرقي"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "عرقي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سيني"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "سيني"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:37.422146421Z",
+  "model": "glm-5.3"
+}

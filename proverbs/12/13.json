@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "لٻن جي انڌيري ۾ بُرائي وارو ڦند آهي، ۽ راستباز تڪليف مان نڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "انڌيري ۾"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لٻن جي"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ڦند"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بُرائي وارو"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "۽ نڪري ٿو"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "تڪليف مان"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:11.680309887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 1:22",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ جيوت جي سرن تي ڪَٺِيءَ جي اڀيان جهڙو ڊپناڪ فضا جي اُپچار ھئي، مٿن جي سرن تي مٿان ڪشيل.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "۽ اُپچار"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سرن"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "جيوت جي"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "فضا"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "جھڙو اڀيان"
+    },
+    {
+      "surface": "הקרח",
+      "gloss": "ڪَٺِيءَ جي"
+    },
+    {
+      "surface": "הנורא",
+      "gloss": "ڊپناڪ"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ڪشيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "مٿن جي سرن"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "مٿان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:26:03.222949930Z",
+  "model": "glm-5.3"
+}

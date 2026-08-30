@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "۽ هنن ⟨את⟩ پنهنجو اناج پنهنجن خچرن تي کڙو ڪيو ۽ اتيان روانا ٿيا.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "کڙو ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجو اناج"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "پنهنجو اناج"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "پنهنجن خچرن"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اتيان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:24.286464092Z",
+  "model": "glm-5.3"
+}

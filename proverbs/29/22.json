@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "ڪاوڙ وارو ماڻهو تڪرار کي ڀڙڪائي ٿو، ۽ غصي جو مالڪ گهڻن بغاوتن جو.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ڪاوڙ وارو"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "ڀڙڪائي ٿو"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "تڪرار کي"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "۽ مالڪ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غصي جو"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گهڻن"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "بغاوتن جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:37.545565973Z",
+  "model": "glm-5.3"
+}

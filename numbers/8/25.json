@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ پنجاهه سالن جي پٽ کان هو خدمت جي لشڪر کان موٽندو، ۽ وڌيڪ خدمت نه ڪندو.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "۽ پٽ کان"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاهه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "موٽندو"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "لشڪر کان"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "خدمت جي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "خدمت ڪندو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وڌيڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:27.773827908Z",
+  "model": "glm-5.3"
+}

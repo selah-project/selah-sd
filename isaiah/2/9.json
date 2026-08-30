@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ماڻھو جھڪي ويو ۽ ماڻھو پست ٿي ويو؛ ۽ تون کين معاف نه ڪرين.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "۽ جھڪي ويو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "۽ پست ٿي ويو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "معاف ڪرين"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    }
+  ],
+  "timestamp": "2026-08-30T11:46:54.953635855Z",
+  "model": "glm-5.3"
+}

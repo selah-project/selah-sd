@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 9:10",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ حيرام جي ٻانھن ۽ شليموه جي ٻانھن، جن اوفير مان سون آندو، اھي.currentTime القدوم جي وڻن جون ڪاٺيون ۽ قيمتي پٿر آندا.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "جي ٻانھن"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حيرام"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "۽ جي ٻانھن"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شليموه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "آندو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "מאופיר",
+      "gloss": "اوفير مان"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "آندا"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ڪاٺيون"
+    },
+    {
+      "surface": "אלגומים",
+      "gloss": "القدوم جي وڻن جون"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "۽ پٿر"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "قيمتي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:41.331773354Z",
+  "model": "glm-5.3"
+}

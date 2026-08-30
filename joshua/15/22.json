@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ ڪينه ۽ ديمونه ۽ عدعده۔",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "۽ ڪينه"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "۽ ديمونه"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "۽ عدعده"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:32.013158886Z",
+  "model": "glm-5.3"
+}

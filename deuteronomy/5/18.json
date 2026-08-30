@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ تو زنا نه ڪرينءَ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "زنا ڪرينءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:17.118334081Z",
+  "model": "glm-5.3"
+}

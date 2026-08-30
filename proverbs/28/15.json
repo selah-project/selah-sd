@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ڀڻڪندڙ شينهن ۽ ڊوڙندڙ رڇ — اهو آهي ظالم حاڪم غريب قوم تي.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "شينهن"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "ڀڻڪندڙ"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "۽ رڇ"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "ڊوڙندڙ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "حاڪم"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غريب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:32.746792901Z",
+  "model": "glm-5.3"
+}

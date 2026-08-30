@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ڪورس جي اڳواڻ لاءِ، شمينيت تي، داويد جو مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ڪورس جي اڳواڻ لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "شمينيت"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داويد جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:00:32.291306859Z",
+  "model": "glm-5.3"
+}

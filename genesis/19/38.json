@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 19:38",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ ننڍي ڌيءَ به پٽ ڄڻيو، ۽ سندس نالو بن-عمي رکيائين؛ اھو ئي عمون جي پٽن جو پيءُ ⟨آھي⟩ اڄ ڏينھن تائين.",
+  "tokens": [
+    {
+      "surface": "והצעירה",
+      "gloss": "۽ ننڍي ڌيءَ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھا"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "پٽ ڄڻيو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "۽ رکيائين"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "عمي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو ئي"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جو پيءُ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جي پٽن"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اج ڏينھن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:04.680483097Z",
+  "model": "glm-5.3"
+}

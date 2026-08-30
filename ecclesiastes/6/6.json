@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ جيڪڏھن ھو ٻه ھزار ورھيه جيئي — ٻه دفعا ھزار — ۽ ڀلائي نه ڏٺائين ته ڇا سڀ ڪجھ ھڪ ئي جاءِ ڏانھن نه ٿو وڃي؟",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "جيئي"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ورھيه"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ٻه دفعا"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "۽ ڀلائي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏٺائين"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ڇا... نه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ ئي"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سڀ ڪجھ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ٿو وڃي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:49.518441388Z",
+  "model": "glm-5.3"
+}

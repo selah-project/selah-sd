@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ھي واي ان تي جيڪو رت ۾ شهر اڏي ٿو، ۽ ظلم سان ڀريل شهر کي ٻيھر پَکيڙي ٿو!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "واي"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "اڏي ٿو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "رت ۾"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "۽ ٻيھر پَکيڙي ٿو"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شهر کي"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "ظلم سان ڀريل"
+    }
+  ],
+  "timestamp": "2026-08-30T12:52:48.754087341Z",
+  "model": "glm-5.3"
+}

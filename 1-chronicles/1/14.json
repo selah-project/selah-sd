@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ⟨את⟩ يبوسيءَ کي ۽ ⟨את⟩ اموريءَ کي ۽ ⟨את⟩ گرگشيءَ کي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "يبوسي"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "يبوسي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "اموري"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموري"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "گرگشي"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "گرگشي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:37.422020347Z",
+  "model": "glm-5.3"
+}

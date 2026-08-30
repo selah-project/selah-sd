@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "خيسيد ۽ سچ سان گھناهه ڍڪجي ٿو، ۽ ياهوه جي ڊپ سان ⟨ماڻھو⟩ برائي کان ھٽي ٿو.",
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "خيسيد سان"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "۽ سچ"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ڍڪجي ٿو"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گھناهه"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "۽ ڊپ سان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "סור",
+      "gloss": "ھٽي ٿو"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "برائي کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:02.966737223Z",
+  "model": "glm-5.3"
+}

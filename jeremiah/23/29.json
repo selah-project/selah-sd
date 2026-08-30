@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 23:29",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ڇا مون جو لفظ ائين نه آهي — باهه جهڙو، ياهوه جو فرمودو، ۽ ھٿوڙي جهڙو جيڪو پٿر کي ڀڃي ٿو؟",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ڇا نه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "مون جو لفظ"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "باهه جهڙو"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمودو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וכפטיש",
+      "gloss": "۽ ھٿوڙي جهڙو"
+    },
+    {
+      "surface": "יפצץ",
+      "gloss": "ڀڃي ٿو"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "پٿر"
+    }
+  ],
+  "timestamp": "2026-08-30T12:14:43.531664773Z",
+  "model": "glm-5.3"
+}

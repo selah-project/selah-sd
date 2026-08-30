@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "بادشاهن لاءِ ظلم ڪرڻ گھرائو آهي، ڇوتهِ صداقت سان ئي تخت قائم ٿيندو آهي.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "گھرائو"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاهن لاءِ"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ڪرڻ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهِ"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "صداقت سان"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "قائم ٿيندو آهي"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    }
+  ],
+  "timestamp": "2026-08-30T15:04:30.790329670Z",
+  "model": "glm-5.3"
+}

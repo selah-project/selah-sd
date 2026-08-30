@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "ياهوه جو آواز باهه جون ٻليون ڪَٽي ٿو.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "جو آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "ڪَٽي ٿو"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ٻليون"
+    },
+    {
+      "surface": "אש",
+      "gloss": "باهه جون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:21.491677177Z",
+  "model": "glm-5.3"
+}

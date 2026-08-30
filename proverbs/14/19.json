@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 14:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "برا ماڻهو چڱن اڳي جهڪن ٿا، ۽ ظالم نيڪ جي دروازن تي.",
+  "tokens": [
+    {
+      "surface": "שחו",
+      "gloss": "جهڪن ٿا"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "برا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳي"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چڱن"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "۽ ظالم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دروازن"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:42.008458072Z",
+  "model": "glm-5.3"
+}

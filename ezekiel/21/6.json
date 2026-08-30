@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 21:6",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ياهوه جو پيغام مَ وٽ آيو، چوڻَ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "پيغام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مَ وٽ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻَ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:32:54.125063484Z",
+  "model": "glm-5.3"
+}

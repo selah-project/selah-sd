@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ⟨هي⟩ گناھ قرباني جي شريعت آهي؛ اها قدس الاقدس آهي.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "۽ ⟨هي⟩"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "شريعت"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "گناھ قرباني جي"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "اقدس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اها آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:23.795804320Z",
+  "model": "glm-5.3"
+}

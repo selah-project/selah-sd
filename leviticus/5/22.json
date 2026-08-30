@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 5:22",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "يا وڃايل شي پائي ۽ ان ۾ جھوٽ ڪري، ۽ ڪوڙ تي قسم کائي — انھن مان ھڪ تي، ان سڀ مان جيڪو ماڻھو ڪري ٿو ان ۾ گنھ ڪندي،",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "پائي"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "وڃايل شي"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "۽ جھوٽ ڪري"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "ונשבע",
+      "gloss": "۽ قسم کائي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ان سڀ مان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪري ٿو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "گنھ ڪندي"
+    },
+    {
+      "surface": "בהנה",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:52.197624967Z",
+  "model": "glm-5.3"
+}

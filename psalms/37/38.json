@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 37:38",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ گناهگار گڏ تباهه ٿيا؛ بدڪارن جو پاند وڍيو ويو.",
+  "tokens": [
+    {
+      "surface": "ופשעים",
+      "gloss": "۽ گناهگار"
+    },
+    {
+      "surface": "נשמדו",
+      "gloss": "تباهه ٿيا"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "پاند"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدڪارن جو"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "وڍيو ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:23.612271360Z",
+  "model": "glm-5.3"
+}

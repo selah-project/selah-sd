@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پنهنجن پيرن هيٺ ڪچلڻ لاءِ زمين جي سڀني قيدين کي.",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "ڪچلڻ لاءِ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "پنهنجن پيرن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "قيدين کي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:07:59.390383293Z",
+  "model": "glm-5.3"
+}

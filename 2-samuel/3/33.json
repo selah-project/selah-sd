@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 3:33",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ بادشاھ اٻنر تي مرثيہ چيو ۽ چيائين: ڇا نابل جي موت وانگر اٻنر مري ٿو؟",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "مرثيہ چيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اٻنر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "הכמות",
+      "gloss": "ڇا جي موت وانگر"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابل"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مري ٿو"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اٻنر"
+    }
+  ],
+  "timestamp": "2026-08-30T11:17:32.935545232Z",
+  "model": "glm-5.3"
+}

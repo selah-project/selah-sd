@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ موشي ائين ڪيو جيئن ياهوه ⟨את⟩ سندس حڪم ڪيو هو؛ ۽ جماعت ملاقات جي خيمي جي دروازي وٽ گڏ ٿي.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ سندس",
+      "marks": "موشي (کي)"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "۽ گڏ ٿي"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمي"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:59.219879420Z",
+  "model": "glm-5.3"
+}

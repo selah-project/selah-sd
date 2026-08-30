@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ جڏهن توهان کائو ٿا ۽ جڏهن توهان پيو ٿا — ڇا توهان ئي ⟨are⟩ نه جيڪي کائو ٿا ۽ توهان ئي جيڪي پيو ٿا؟",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "۽ جڏهن"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائو ٿا"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "۽ جڏهن"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "پيو ٿا"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ڇا نه"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان ئي"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "جيڪي کائو ٿا"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "۽ توهان ئي"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "جيڪي پيو ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:19.678550472Z",
+  "model": "glm-5.3"
+}

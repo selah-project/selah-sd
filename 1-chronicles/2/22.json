@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ سگوب ⟨את⟩ يائير کي ڄڻيو، ۽ هن لاءِ گلعاد جي زمين ۾ ٽي ۽ ويهه شهر ٿيا.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "۽ سگوب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يائير"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "يائير"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن لاءِ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گلعاد جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:40.638567994Z",
+  "model": "glm-5.3"
+}

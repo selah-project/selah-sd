@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ اهارون ٽيءَ ۽ ويهه ۽ سؤ سالن جو هو، جڏهن هور جبل تي مري ويو.",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…جو هو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويهه"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "۽ سؤ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "مڻڻ مهل"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل تي"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "هور"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:09.012402373Z",
+  "model": "glm-5.3"
+}

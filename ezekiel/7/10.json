@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڏسو، ڏينهن — ڏسو، اچي رهيو آهي؛ صبح نڪري چڪو آهي، ڏنڊ ڦٽو آهي، گهمنڊ ڦليو آهي.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "באה",
+      "gloss": "اچي رهيو آهي"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "نڪري چڪو آهي"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "ڦٽو آهي"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ڏنڊ"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "ڦليو آهي"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "گهمنڊ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:26:57.491425221Z",
+  "model": "glm-5.3"
+}

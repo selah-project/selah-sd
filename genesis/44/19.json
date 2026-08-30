@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "ادوناي پنهنجن ٻانهن کان ⟨את⟩ پڇيو، چوندو: ڇا توہان جو پيءُ آهي يا ڀاءُ؟",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پڇيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجن ٻانهن کي"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "پنهنجن ٻانهن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ڇا آهي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توہان جو"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ڀاءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:52.872486954Z",
+  "model": "glm-5.3"
+}

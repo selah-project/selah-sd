@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 109,
+  "translation": "سندس پٽ يتيم ٿين ۽ سندس زال ڪمڻاري ٿئي.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ٿين"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "يتيم"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "۽ سندس زال"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ڪمڻاري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:48.119812623Z",
+  "model": "glm-5.3"
+}

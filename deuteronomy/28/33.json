@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 28:33",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "تنهنجي زمين جو مئو ۽ تنهنجي سڀ محنت هڪ اهڙو قوم کائيندو جنهن کي تو نه سڃاتو، ۽ تون رڳو ستايو ۽ ڪريل رهندؤن سڀ ڏينهن.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "مئو"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "تنهنجي زمين جو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "יגיעך",
+      "gloss": "تنهنجي محنت"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائيندو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "سڃاتو"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "۽ تون رهندؤن"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "עשוק",
+      "gloss": "ستايو"
+    },
+    {
+      "surface": "ורצוץ",
+      "gloss": "۽ ڪريل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:07.194414151Z",
+  "model": "glm-5.3"
+}

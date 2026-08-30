@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 6:29",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ايتي ئي ⟨هو⟩، جيڪو پنهنجي ڀائيوار جي زال وٽ وڃي ٿو، بي-قصور نه رهندو — جيڪو به کيس هلي ٿو.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ايتي ئي"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "وڃي ٿو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "پنهنجي ڀائيوار جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بي-قصور رهندو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جيڪو به"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "هلي ٿو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "کيس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:03.883558824Z",
+  "model": "glm-5.3"
+}

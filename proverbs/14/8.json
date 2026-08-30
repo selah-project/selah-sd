@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "چالاڪ جي حكمت ⟨اھو آھي ته⟩ پنھنجو رستو سمجھي، ۽ جهلن جي بيوقوفي ٺڳي آھي.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "حكمت"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "چالاڪ"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "سمجھي"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "پنھنجو رستو"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "۽ بيوقوفي"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "جهلن جي"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ٺڳي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:36.321504245Z",
+  "model": "glm-5.3"
+}

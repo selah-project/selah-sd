@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ اَپّايم جا پٽ يشعي ھئا؛ ۽ يشعي جا پٽ شيشان؛ ۽ شيشان جا پٽ اَحلائي.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "اَپّايم جا"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "يشعي"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "يشعي جا"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شيشان"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شيشان جا"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "اَحلائي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:18.957391992Z",
+  "model": "glm-5.3"
+}

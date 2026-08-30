@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 69,
+  "translation": "گناهه کي سندن گناهن تي وجهه، ۽ اھي تنهنجيءَ راستبازيءَ ۾ نه اچن.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناهه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "سندن گناهن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "اچن"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "تنهنجيءَ راستبازيءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T15:02:49.192871603Z",
+  "model": "glm-5.3"
+}

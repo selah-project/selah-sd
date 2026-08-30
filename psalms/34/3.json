@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "ياهوه ۾ مون جو ننڍي خود فخر ڪندي؛ ننڍا ٻُڌندا ۽ خوش ٿيندا.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه ۾"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "فخر ڪندي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "مون جو ننڍي خود"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ٻُڌندا"
+    },
+    {
+      "surface": "ענוيم",
+      "gloss": "ننڍا"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "۽ خوش ٿيندا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:33.196367223Z",
+  "model": "glm-5.3"
+}

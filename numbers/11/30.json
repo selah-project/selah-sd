@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ موشي واپس موٽيو منزل ڏانهن، هو ۽ يسرائيل جا پهريا.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "۽ واپس موٽيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "منزل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "۽ پهريا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:42.690144935Z",
+  "model": "glm-5.3"
+}

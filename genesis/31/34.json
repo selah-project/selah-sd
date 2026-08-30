@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 31:34",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ راحيل تراپيم وٺي ⟨את⟩ کڻي اُٺ جي زين ۾ رکيائين ۽ مٿن ويٺي؛ ۽ لابان سڄي ⟨את⟩ خيمة ٽٺو پر نه ڳوليائين.",
+  "tokens": [
+    {
+      "surface": "ורחל",
+      "gloss": "۽ راحيل"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "وٺي کڻي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تراپيم"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "تراپيم"
+    },
+    {
+      "surface": "ותשמם",
+      "gloss": "۽ رکيائين"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "زين ۾"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "اُٺ جي"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "۽ ويٺي"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "مٿن"
+    },
+    {
+      "surface": "וימשש",
+      "gloss": "۽ ٽٺو"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڄي خيمة"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ڳوليائين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:33.755387015Z",
+  "model": "glm-5.3"
+}

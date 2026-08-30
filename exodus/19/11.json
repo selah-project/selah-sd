@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 19:11",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ اهي ٽئين ڏينهن لاءِ تيار رهن، ڇوته ٽئين ڏينهن ياهوه سڀني ماڻهن جي اکين اڳي جبل سينا تي لهندو.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "۽ رهن"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "تيار"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ڏينهن لاءِ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ٽئين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ٽئين"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "لهندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "اکين اڳي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سينا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:27.009157385Z",
+  "model": "glm-5.3"
+}

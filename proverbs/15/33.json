@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ياهوه جي fearَ ۾ ⟨هو⟩ حڪمت جي تعليم آهي، ۽ عزت کان اڳ ⟨هو⟩ عاجزي ٿيندي آهي.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "خوف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تعليم"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "۽ اڳ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "عاجزي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:40.060563759Z",
+  "model": "glm-5.3"
+}

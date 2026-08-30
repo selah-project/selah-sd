@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "۽ دان جا پُٽ ⟨هئا⟩ حُشيم.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پُٽ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "حُشيم"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:40.004309140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "اھي عيسوءَ جا پٽ آھن، ۽ اھي انھن جا سردار؛ اھو ئي ⟨هو⟩ ادوم آھي.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "انھن جا سردار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو ئي"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:54.299775844Z",
+  "model": "glm-5.3"
+}

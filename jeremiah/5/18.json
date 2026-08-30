@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "پر انهن ئي ڏينهن ۾ ٻڌايو ٿو ياهوه، مان تنهنجو پورو برباد نه ڪندو.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "پر به"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "انهن"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ٻڌايو ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "مان ڪندو"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "توهان کي"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "پورو برباد"
+    }
+  ],
+  "timestamp": "2026-08-30T12:08:58.675810547Z",
+  "model": "glm-5.3"
+}

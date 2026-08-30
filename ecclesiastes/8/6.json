@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ڇوته هر مراد لاءِ وقت ۽ فيصلو آهي، ڇوته ماڻهوءَ جي برائي سندس مٿان وڏي آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "هر… لاءِ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "مراد"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "۽ فيصلو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهوءَ جي"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "سندس مٿان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:53.286431679Z",
+  "model": "glm-5.3"
+}

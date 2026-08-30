@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 39:24",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ انهن چولي جي ڇيڙن تي انار ٺاهيا — نيلي ۽ ارغواني ۽ ڳاڙهي سنئڙي، مريسل.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ٺاهيا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "ڇيڙن"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "چولي جي"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "انار"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "نيلي"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "۽ ارغواني"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "۽ ڳاڙهي سنئڙي"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ڳاڙهي"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "مريسل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:24.675411066Z",
+  "model": "glm-5.3"
+}

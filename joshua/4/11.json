@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 4:11",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ جيئن ئي سڀ ماڻهو لنگهڻ پورا ڪيا، تيئن ياهوه جي صندوق لنگهي ۽ ڪاهن ماڻهن جي اڳيان.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن ئي"
+    },
+    {
+      "surface": "תם",
+      "gloss": "پورا ڪيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "لنگهڻ"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "لنگهي"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "۽ ڪاهن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:49:50.024433074Z",
+  "model": "glm-5.3"
+}

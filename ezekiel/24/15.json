@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 24:15",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ ياهوه جو لفظ مون ڏانهن آيو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون ڏانهن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:35:04.238013321Z",
+  "model": "glm-5.3"
+}

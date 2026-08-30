@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 3:7",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "آفت ۾ ڏسان ٿو ڪوشان جا خيما؛ مدين جي زمين جون پردَون ڪنپن ٿيون.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "آفت ۾"
+    },
+    {
+      "surface": "און",
+      "gloss": "بدقسمتي"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ڏسان ٿو"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "جا خيما"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "ڪوشان"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "ڪنپن ٿيون"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "پردَون"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مدين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:41.533178159Z",
+  "model": "glm-5.3"
+}

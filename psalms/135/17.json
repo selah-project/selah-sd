@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 135,
+  "translation": "ڪنن ⟨لهم⟩ انهن جا آهن پر اهي ٻڌي نه ٿا؛ بلڪه انهن جي وات ۾ ڪا ساھ نه آھي.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ڪنن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن جا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "ٿا ٻڌن"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلڪه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه آھي"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ڪا"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ساھ"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "انهن جي وات ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:02.472550507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 26:22",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "يحييليءَ جا پٽ — زيتام ۽ سندس ڀاءُ يوائيل — ياهوه جي گھر جي خذانن تي مقرر هئا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "يحييليءَ"
+    },
+    {
+      "surface": "זתם",
+      "gloss": "زيتام"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "۽ يوائيل"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "سندس ڀاءُ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "خذانن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:09.920877683Z",
+  "model": "glm-5.3"
+}

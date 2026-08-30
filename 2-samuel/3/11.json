@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ هو پوءِ ابنر کي ڪوبه لفظ جواب ڏئي نه سگهيو، ڇوته کانئس ڊنل هو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "سگهيو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پوءِ\/ٻيهر"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "جواب ڏيڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنر"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ابنر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "کانئس ڊنل"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "کيس"
+    }
+  ],
+  "timestamp": "2026-08-30T11:17:16.483929613Z",
+  "model": "glm-5.3"
+}

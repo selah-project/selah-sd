@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "هن چيو ۽ ٽڊل اچي ويا، ۽ ننڍيون ٽڊل — ۽ ڪوبه انگ ڪونه.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "۽ آيا"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ٽڊل"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "۽ ننڍيون ٽڊل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "انگ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:20.786366972Z",
+  "model": "glm-5.3"
+}

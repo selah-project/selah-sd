@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 12:31",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ افريم جي پٽن مان ويھ ھزار ۽ اٺ سؤ، بھادر جوان، نالي وارا ماڻھو، پنھنجن پيءُن جي گھرن ۾.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افريم"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "۽ اٺ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "بھادر"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نالي وارا"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھرن ۾"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "پنھنجن پيءُن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:08.102512628Z",
+  "model": "glm-5.3"
+}

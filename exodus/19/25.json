@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "پوءِ موشي ماڻهن وٽ لهي آيو ۽ کين چيائين.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "لهي آيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "کين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:41.922209906Z",
+  "model": "glm-5.3"
+}

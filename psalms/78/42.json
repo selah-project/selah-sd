@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 78,
+  "translation": "هنن سندس هٿ ⟨את⟩ ياد نه ڪيو، ۽ اُنهيءَ ڏينهن جڏھن ٽَنگ جي سَوڙ کان ڇڏايائين.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ياد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس هٿ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "سندس هٿ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "פד׮",
+      "gloss": "ڇڏايائين"
+    },
+    {
+      "surface": "מני",
+      "gloss": "کان"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ٽَنگ جي سَوڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:26.946455765Z",
+  "model": "glm-5.3"
+}

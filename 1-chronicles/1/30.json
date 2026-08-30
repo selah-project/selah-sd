@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "مِشماع ۽ دومة، مسا، حدد ۽ تيما.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "مِشماع"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "۽ دومة"
+    },
+    {
+      "surface": "משא",
+      "gloss": "مسا"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "حدد"
+    },
+    {
+      "surface": "وתימא",
+      "gloss": "۽ تيما"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:26.879380670Z",
+  "model": "glm-5.3"
+}

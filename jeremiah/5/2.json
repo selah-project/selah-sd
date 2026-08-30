@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ جيتوڻيڪ اهي چون ٿا «ياهوه جيئرو آهي»، پر اهي پڪ سان ڪوڙ تي قسم کائين ٿا.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيتوڻيڪ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جيئرو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "اهي چون ٿا"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "پڪ سان"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ڪوڙ تي"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "قسم کائين ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:09:03.758730881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "سلاي جي ڪلاي؛ عاموق جي عيبر؛",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "سلاي جي"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "ڪلاي"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "عاموق جي"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عيبر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:29.959863091Z",
+  "model": "glm-5.3"
+}

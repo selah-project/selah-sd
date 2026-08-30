@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "يہوداہ لاءِ نحشون، عمي ناداب جو پٽ.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "يہوداہ لاءِ"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "نحشون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عمي ناداب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:31.705608620Z",
+  "model": "glm-5.3"
+}

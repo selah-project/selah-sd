@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 17:17",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ بنيامين مان سورمين جو سورمو اِلياداع، ۽ سندس ساڻ قوس ۽ ڍال هٿيار ڪندڙ ٻه سَؤ هزار هئا.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ … مان"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "سورمو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "سورمين جو"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "اِلياداع"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "۽ سندس ساڻ"
+    },
+    {
+      "surface": "נשקי",
+      "gloss": "هٿيار ڪندڙ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "قوس"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "۽ ڍال"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سَؤ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:18.134517375Z",
+  "model": "glm-5.3"
+}

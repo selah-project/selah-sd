@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "⟨את⟩ هيءُ توهان کائڻا، جيڪي به پاڻي ۾ آهن، تن مان؛ جنهن کي کنڀڙيا ۽ چُنڊيون آهن، سو توهان کائو.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هيءُ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "توهان کائڻا"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "جيڪي به"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻي ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کي"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "کنڀڙيا"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "۽ چُنڊيون"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "توهان کائو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:39.394231273Z",
+  "model": "glm-5.3"
+}

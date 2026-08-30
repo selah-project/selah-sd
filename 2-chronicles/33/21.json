@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 33:21",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ٻاويھن سالن جو پٽ امان ⟨هو⟩ پنهنجي بادشاهيءَ ۾، ۽ ٻه سال هن يروشلم ۾ بادشاهي ڪئي.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "امان"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "پنهنجي بادشاهيءَ ۾"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهي ڪئي"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:29:34.671578533Z",
+  "model": "glm-5.3"
+}

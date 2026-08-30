@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ پنھنجي گلي ۾ چاقو رک، جيڪڏھن تون نفس جو مالڪ آھين۔",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "۽ رک"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "چاقو"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "پنھنجي گلي ۾"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالڪ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:34.437055742Z",
+  "model": "glm-5.3"
+}

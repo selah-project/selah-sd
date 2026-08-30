@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "ٻُڌو هي، سڀ قومون؛ ڪَن ڌريو، ⟨دنيا⟩ جا سڀ رهواسي.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ٻُڌو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "האזינو",
+      "gloss": "ڪَن ڌريو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رهواسي"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "⟨دنيا⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:23.151420239Z",
+  "model": "glm-5.3"
+}

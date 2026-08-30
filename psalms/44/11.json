@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "تو اسان کي دشمن کان پٺتي موڙيو، ۽ اسان کي ساڙيندڙن پاڻ لاءِ لُٽيو.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "پٺتي موڙيو"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پٺتي"
+    },
+    {
+      "surface": "מני",
+      "gloss": "کان"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "۽ اسان کي ساڙيندڙن"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "لُٽيو"
+    },
+    {
+      "surface": "למו",
+      "gloss": "پاڻ لءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:01:57.687864875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ سڀ اسرائيل ٻُڌندو ۽ ڊڄندو، ۽ تنهنجي وچ ۾ اهڙي بري ڪم جهڙو ٻيهر ڪندو ئي نه.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ٻُڌندو"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "۽ ڊڄندو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "ٻيهر ڪندو"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪم ڪرڻ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "جهڙو"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بري"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اهڙي"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تنهنجي وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:58.063372550Z",
+  "model": "glm-5.3"
+}

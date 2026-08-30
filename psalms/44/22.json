@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "ڇا ايلوهيم هن کي اندر تائين چڪاس نه ڪندو؟ ڇاڪاڻ ته هو دل جا راز جانائي ٿو.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ڇا … نه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "چڪاس نه ڪندو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هن کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جانائي ٿو"
+    },
+    {
+      "surface": "תעلמות",
+      "gloss": "راز"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:31.726958022Z",
+  "model": "glm-5.3"
+}

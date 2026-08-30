@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 14:30",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ڇو نه، جيڪڏھن ماڻھن اڄ پنھنجن دشمنن جي لٽ مان جيڪو مليو سو کائي ويا ھا، ته ڇا ھاڻي فلستين ۾ مار وڏي نه ٿئي ھا؟",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ڇو نه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کائي"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ويا ھا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اڄ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "משלל",
+      "gloss": "لٽ مان"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "پنھنجن دشمنن جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "مليو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ھاڻي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "وڏي ٿئي ھا"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "مار"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "فلستين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:10:28.090411941Z",
+  "model": "glm-5.3"
+}

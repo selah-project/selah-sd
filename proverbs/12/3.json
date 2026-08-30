@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ماڻهو ظلم سان قائم نه رهندو، پر نيڪن جي پاڙ هرگز نه هلي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "قائم رهندو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "ظلم سان"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "پر پاڙ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نيڪن جي"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هرگز نه"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "هلي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:22.951955555Z",
+  "model": "glm-5.3"
+}

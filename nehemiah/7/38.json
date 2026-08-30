@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "سنعهه جي پٽن جون ٽي ھزار ۽ نو سَو ۽ ٽيھ (سنڌي: 3,930)۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽن جون"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "سنعهه"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽيھ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:54.732158067Z",
+  "model": "glm-5.3"
+}

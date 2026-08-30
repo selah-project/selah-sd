@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ موشي ⟨את⟩ رت ورتي، ۽ ماڻهن تي اڇلائيائين، ۽ چيائين: ڏسو، اهو عهد جو رت آهي، جيڪو ياهوه اوڏانهن تنهنجي سڀني انهن ڳالهين بابت ڪيو آهي.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ورتي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رت"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "rt"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "اڇلائيائين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "דם",
+      "gloss": "rt"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عهد جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ڪيو (ڪَٽيو)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "اوهان سان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالهين"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "انهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:04:57.128864066Z",
+  "model": "glm-5.3"
+}

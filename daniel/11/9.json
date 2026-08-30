@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ هو ڏکڻ جي بادشاهه جي بادشاهت ۾ اچي ٿو، ۽ پنهنجي زمين ڏانهن موٽي ٿو.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "۽ اچي ٿو"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "بادشاهت ۾"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه جي"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ڏکڻ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "۽ موٽي ٿو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "پنهنجي زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:30.828591605Z",
+  "model": "glm-5.3"
+}

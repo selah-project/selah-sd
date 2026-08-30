@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ٻيا پٿر وٺن ۽ انهن پٿرن جي جاءِ ۾ آڻين؛ ۽ ٻيو گچ وٺي ۽ ⟨את⟩ گهر کي پلستر ڪري.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "۽ وٺن"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ٻيا"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "۽ آڻين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "جاءِ ۾"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "انهن پٿرن (جي)"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "۽ گچ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "وٺي"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "۽ پلستر ڪري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گهر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:16.283527833Z",
+  "model": "glm-5.3"
+}

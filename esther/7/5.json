@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ته بادشاهه اَخشوېروش چيو ۽ راڻي اِستر کي چيائين ته هو ڪير آهي ۽ اهو ڪٿي آهي جنهس جي دل ڀرجي ويئي آهي ته اهڙو ڪري؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "اَخشوېروش"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "اِستر کي"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "راڻي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "۽ ڪٿي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهس"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ڀرجي ويئي"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دل"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ته ڪري"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اهڙو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:56:03.518647371Z",
+  "model": "glm-5.3"
+}

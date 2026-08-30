@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 122,
+  "translation": "تنهنجينwalls اندر سلامتي هجي، تنهنجين قلعن اندر آرام هجي.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "تنهنجينwalls اندر"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "تنهنجين قلعن اندر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:24.501143701Z",
+  "model": "glm-5.3"
+}

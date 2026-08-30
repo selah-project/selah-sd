@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "پوءِ ابشالوم اخيتوفل کي چيو: پاڻ ۾ صلاح ڪريو ته اسان ڇا ڪريون.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ابشالوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "اخيتوفل"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ڪريو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پاڻ ۾"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ڪريون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:22:21.067068809Z",
+  "model": "glm-5.3"
+}

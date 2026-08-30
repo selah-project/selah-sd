@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 114,
+  "translation": "جنهن چٽان کي پاڻيءَ جي ڍنڍ ۾ بدلائيو، فلنٽ پٿر کي پاڻيءَ جي چشمي ۾!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "جنهن بدلائيو"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "چٽان"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "ڍنڍ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ جي"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "فلنٽ پٿر"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "چشمي ۾"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:07.729151852Z",
+  "model": "glm-5.3"
+}

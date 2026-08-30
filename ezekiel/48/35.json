@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "چوڌاري ارڙھن ھزار؛ ۽ ان ڏينھن کان شھر جو نالو ياهوه-شما رھندو.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ارڙھن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ارڙھن"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شھر جو"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ان ڏينھن کان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتي آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:10.987998138Z",
+  "model": "glm-5.3"
+}

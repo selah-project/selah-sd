@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 14:31",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "پوءِ يوآب اُٿي ابشالوم وٽ گهر ۾ آيو ۽ مٿس چيائين: تنهنجن ٻانهن ⟨את⟩ کڀڙ، جا مون جي آهي، باهه ۾ ڇو ساڙي؟",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "پوءِ اُٿي"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ابشالوم"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "הציתו",
+      "gloss": "ساڙي"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تنهنجن ٻانهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کڀڙ"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "کڀڙ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون جي"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:21:52.462049538Z",
+  "model": "glm-5.3"
+}

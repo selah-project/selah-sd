@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ بالق اهو ئي ڪيو جهڙو بلعم چيو هو؛ ۽ بالق ۽ بلعم قربانگاهه تي ڏاند ۽ رڪٻي چاڙهيا.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالق"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جهڙو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو هو"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعم"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "چاڙهيا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالق"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "۽ بلعم"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "۽ رڪٻي"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "قربانگاهه تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:40.505836418Z",
+  "model": "glm-5.3"
+}

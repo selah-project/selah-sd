@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "پوءِ سوکڙي هن جي اڳتي لنگهي وئي، ۽ هو پاڻ ان رات ڇانوَ ۾ رات رهيو.",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "پوءِ لنگهي وئي"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "سوکڙي"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي اڳتي"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "هن جي"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو پاڻ"
+    },
+    {
+      "surface": "לן",
+      "gloss": "رات رهيو"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ان رات"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "انهيءَ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ڇانوَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:27.365116195Z",
+  "model": "glm-5.3"
+}

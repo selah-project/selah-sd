@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 9:34",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "اھي لاوين جي پيڙهين جا مکيا ھئا، پنھنجين نسلن ۾ مکيا؛ اھي يروشلم ۾ رھندا هئا۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مکيا"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "پيڙهين جا"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "لاوين جا"
+    },
+    {
+      "surface": "לתלدותם",
+      "gloss": "پنھنجين نسلن ۾"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "مکيا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "رھندا هئا"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:31.909863355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "سال ۾ ٽي ڀيرا تنهنجا سڀ نَر ادوناي ياهوه جي اڳيان ظاهر ٿيندا.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ڀيرا"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سال ۾"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ظاهر ٿيندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "تنهنجا نَر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:04:16.526352259Z",
+  "model": "glm-5.3"
+}

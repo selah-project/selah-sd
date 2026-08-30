@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 23:29",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "حيلب پٽ بانعھ جي، نطوفاتي؛ اِتّي پٽ رِبائي جي، بنيامين جي پٽن جي گِبعَت مان،",
+  "tokens": [
+    {
+      "surface": "חלב",
+      "gloss": "حيلب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "بانعھ"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "نطوفاتي"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "اِتّي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "رِبائي"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "گِبعَت مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:44.843257684Z",
+  "model": "glm-5.3"
+}

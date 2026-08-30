@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ متسرايم جنم ڏنو ⟨את⟩ لوديم ۽ ⟨את⟩ عناميم ۽ ⟨את⟩ لهابيم ۽ ⟨את⟩ نفتوحيم کي.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "۽ متسرايم"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جنم ڏنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨⟨את⟩⟩",
+      "marks": "لوديم"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "لوديم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨⟨את⟩⟩",
+      "marks": "عناميم"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "عناميم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨⟨את⟩⟩",
+      "marks": "لهابيم"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "لهابيم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨⟨את⟩⟩",
+      "marks": "نفتوحيم"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "نفتوحيم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:33.750775570Z",
+  "model": "glm-5.3"
+}

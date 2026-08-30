@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ياهصه ۽ قديموت ۽ ميفعت،",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "۽ ياهصه"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "۽ قديموت"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "۽ ميفاعت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:22.579299002Z",
+  "model": "glm-5.3"
+}

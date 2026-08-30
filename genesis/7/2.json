@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پاڪ جانورن مان هر هڪ جا تو پاڻ وٺڻ ستن ستن، نر ۽ مادي، ۽ اُنهن جانورن مان جيڪي پاڪ ناهن، ٻه ٻه، نر ۽ مادي.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "مان هر هک جا"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "جانورن"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تو وٺڻ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ستن"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ستن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "۽ مادي"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "جانورن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ناهن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه ٻه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "۽ مادي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:27.060694359Z",
+  "model": "glm-5.3"
+}

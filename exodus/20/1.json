@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ايلوهيم ⟨את⟩ سڀ اھي لفظ ڳالھائيڻ لاءِ چيو.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالھائيڻ لاءِ چيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ اھي لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:14.336991768Z",
+  "model": "glm-5.3"
+}

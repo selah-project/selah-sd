@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "هن آواز نه ٻُڌو، نه ادب وٺي ياهوه تي نه ڀاڙيائين، پنھنجي ايلوهيم وٽ نه ويجهي ٿي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ٻُڌو"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "وٺي"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ادب"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه تي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "ڀاڙيائين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "پنھنجي ايلوهيم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "ويجهي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:46.913241844Z",
+  "model": "glm-5.3"
+}

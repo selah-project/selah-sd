@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ ايفود ٺاهيائون — سون، نيلو، ۽ ارغواني، ۽ ڳاڙهي سڻڀ، ۽ اُڻيل سَوَهہ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ٺاهيائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ايفود"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ايفود"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "نيلو"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "۽ ارغواني"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "۽ ڪِرمَ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ڳاڙهي سڻڀ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ سَوَهہ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "اُڻيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:58.429263495Z",
+  "model": "glm-5.3"
+}

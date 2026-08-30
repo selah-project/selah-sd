@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "لوهو لوهي سان تکو ٿئي ٿو، ۽ ⟨هڪ⟩ ماڻهو پنھنجي سنگتي جي منھن کي تکو ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "لوهو"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "لوهي سان"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "تکو ٿئي ٿو"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ماڻهو"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "تکو ڪري ٿو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منھن کي"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "پنھنجي سنگتي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:17.126318876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ يبوس جا رهوڻن داوود کي چيو: ”تون هتان نه ايندءِ.“ پر داوود ⟨את⟩ صهيون جي قلعي کي فتح ڪيو؛ اها ئي داوود جي شهر آهي.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رهوڻن"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "يبوس"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "داوود کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ايندءِ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هتان"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "فتح ڪيو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صهيون جي قلعي"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "قلعي"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:58.817216287Z",
+  "model": "glm-5.3"
+}

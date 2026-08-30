@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 50:10",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "۽ ڪلدانين لاءِ لُٽ ٿيندي؛ سندس سڀ لُٽندڙ سيراب ٿيندڙ — ياهوه جو فرماءُ.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "۽ ٿيندي"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ڪلدانين لاءِ"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "لُٽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "שלליה",
+      "gloss": "سندس لُٽندڙ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "سيراب ٿيندڙ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرماءُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:24:09.740278709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ايلوهيم روشني کي سڏيو ڏينهن، ۽ اونداهي کي سڏيائين رات؛ ۽ شام ٿي ۽ صبح ٿي — ڏينهن هڪ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ سڏيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "روشني کي"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "۽ اونداهي کي"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سڏيائين"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:46.864732076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "جيڪو ياهوه جو لفظ يرمياهو ڏانهن سڪارين جي ڳالهين بابت آيو.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "על",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالهين"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "سڪارين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:12:06.536260746Z",
+  "model": "glm-5.3"
+}

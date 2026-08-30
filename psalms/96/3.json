@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 96,
+  "translation": "قومن ۾ سندس جلال بيان ڪيو، سڀني قومن ۾ سندس عجيب ڪم.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "بيان ڪيو"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومن ۾"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀني ۾"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومن"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "عجيب ڪم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:17.434595967Z",
+  "model": "glm-5.3"
+}

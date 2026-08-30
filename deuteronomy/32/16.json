@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "بيگانن سان کيس غيرت ۾ آندائون؛ مكروه شين سان کيس غصو ڏياريائون.",
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "غيرت ۾ آندائون"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "بيگانن"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "مكروه شين"
+    },
+    {
+      "surface": "ייכעיסהו",
+      "gloss": "غصو ڏياريائون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:04.692366787Z",
+  "model": "glm-5.3"
+}

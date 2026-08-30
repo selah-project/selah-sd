@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ اسان ان وقت ⟨את⟩ زمينَ ٻن اموري بادشاهن جي هٿَ مان ورتي، جيڪي ياردن جي اُوَرَ پاسي هئا — نهرِ اَرنُون کان جبلِ حرمون تائين.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "۽ اسان ورتي"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ان وقت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمينَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمينَ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "هٿَ مان"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاهن"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموري"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "اُوَرَ پاسي"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ياردن جي"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "نهرِ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "اَرنُون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبلِ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "حرمون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:54.767439257Z",
+  "model": "glm-5.3"
+}

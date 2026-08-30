@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ شمر جا پٽ اھي، روهگه، يحبه ۽ ارام.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پٽ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "شمر"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "۽ روهگه"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "يحبه"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "۽ ارام"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:11.855467941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ڪيئن پيا سورما، ۽ جنگ جا ھٿيار لٿا!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "پيا"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "سورما"
+    },
+    {
+      "surface": "ויאבדو",
+      "gloss": "۽ لٿا"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "جا ھٿيار"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:16:48.860650195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "نيڪ جو ڪم جيوت لاءِ آھي، ۽ بدڪار جي ڪمائي گناهہ لاءِ آھي.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ جو"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "جيوت لاءِ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ڪمائي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدڪار جي"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناهہ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:29.447648518Z",
+  "model": "glm-5.3"
+}

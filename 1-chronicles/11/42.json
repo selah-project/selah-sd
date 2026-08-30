@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 11:42",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "عدينا پٽ شيزا جو، رائوبيني، رائوبينين جو مُکيہ، ۽ سندس ساڻ ٽيھہ،",
+  "tokens": [
+    {
+      "surface": "עדינא",
+      "gloss": "عدينا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שיזא",
+      "gloss": "شيزا"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "رائوبيني"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مُکيہ"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "رائوبينين جو"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "سندس ساڻ"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "ٽيھہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:55.106922062Z",
+  "model": "glm-5.3"
+}

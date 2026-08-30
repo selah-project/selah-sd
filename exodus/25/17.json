@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ تو ٺاهيندين خالص سون جو هڪ ڍڪ، ٻه هٿ ۽ اڌ ⟨سي⟩ ان جي ڊيگهه، ۽ هڪ هٿ ۽ اڌ ان جي ويڪر.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "۽ تو ٺاهيندين"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "ڍڪ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ٻه هٿ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "۽ اڌ"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "ان جي ڊيگهه"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "۽ هڪ هٿ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "۽ اڌ"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ان جي ويڪر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:06:16.051753115Z",
+  "model": "glm-5.3"
+}

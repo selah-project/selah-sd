@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "پوءِ مھللائيل جا سڀ ڏينھن پنج ۽ نوي سال ۽ اٺ سؤ سال ٿيا، ۽ هو مري ويو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مھللائيل"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "۽ نوي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "۽ اٺ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:54.783380720Z",
+  "model": "glm-5.3"
+}

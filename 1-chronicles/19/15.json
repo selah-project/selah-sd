@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 19:15",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ عمون جي پٽن ڏٺو ته ارام ڀڳو آهي، ۽ اهي به ابشائي — سندس ڀاءُ — جي سامهونان ڀڳا ۽ شهر ۾ داخل ٿيا؛ ۽ يوآب يروشلم ۾ آيو.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽن"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ڀڳو آهي"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارام"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "۽ ڀڳا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "جي سامهونان"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "ابشائي"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "سندس ڀاءُ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "۽ داخل ٿيا"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "شهر ۾"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "۽ آيو"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:20.807934183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ⟨هو⟩ چيو: ”تو ڪيو ڇا ڪيو آهي؟ تنهنجي ڀاءُ جي رت جو آواز مَان ڏي زمين مان ٿو چيخي.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "تو ڪيو"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "رت جو"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تنهنجي ڀاءُ جي"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ٿو چيخي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مان ڏي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:24.793051913Z",
+  "model": "glm-5.3"
+}

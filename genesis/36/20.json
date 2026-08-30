@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "اھي سعير حوريءَ جا پٽ آھن، زمين جا رھواسي: لوطان ۽ شوبل ۽ صبعون ۽ عناه.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعير"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "حوري"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رھواسي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جا"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطان"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "۽ شوبل"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "۽ صبعون"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "۽ عناه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:54.300388263Z",
+  "model": "glm-5.3"
+}

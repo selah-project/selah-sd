@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 57,
+  "translation": "۽ توهان ويجهو اچو هتي، جادوگرڻي جا پٽ، زاني جو ٻج ۽ ڪل عورت جو.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "۽ توهان"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ويجهو اچو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هتي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "جادوگرڻي"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ٻج"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "زاني"
+    },
+    {
+      "surface": "وתזנה",
+      "gloss": "۽ ڪل ڪري ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:03:51.492511984Z",
+  "model": "glm-5.3"
+}

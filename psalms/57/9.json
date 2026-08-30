@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 57,
+  "translation": "جاڳ، مھرجي شان، جاڳ، نبل ۽ ڪنور؛ مان سوير جاڳندس، سج اُڀرڻ کان اڳ.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "جاڳ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "مھرجي شان"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "جاڳ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "نبل"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "۽ ڪنور"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "مان جاڳندس"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سج اُڀرڻ کان اڳ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:10.662842015Z",
+  "model": "glm-5.3"
+}

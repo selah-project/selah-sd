@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "۽ ياهوه جو جلال گهر ۾ آيو — اُن دروازي جي رستي، جنهن جو رخ ⟨اوڀر⟩ جي رستي ڏانهن آهي.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "۽ جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستي"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازي جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن جو"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "رخ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستي ڏانهن"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "اوڀر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:39.633632134Z",
+  "model": "glm-5.3"
+}

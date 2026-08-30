@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 51,
+  "translation": "سمندر بابل تي چڙھي آيو، سندس لهرن جي وڏي ٿلهي سان ڍڪيو ويو آھي.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "چڙھي آيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ٿلهي سان"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "سندس لهرن جي"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "ڍڪيو ويو آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:25:12.580330458Z",
+  "model": "glm-5.3"
+}

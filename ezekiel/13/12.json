@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ڏسو، ديوار ڪري چڪي آهي؛ ڇا اوهان کي نه چيو ويندو: ڪٿي آهي اهو گارو جيڪو اوهين لڳايو؟",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ڪري چڪي آهي"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ديوار"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ڇا... نه"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "چيو ويندو"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "اوهان کي"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ڪٿي"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "گارو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "لڳايو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:57:59.447357961Z",
+  "model": "glm-5.3"
+}

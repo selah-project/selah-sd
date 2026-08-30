@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "پوءِ شمشون عزّه ڏانهن ويو، ۽ اُتي هڪ زناڪار عورت ڏٺائين، ۽ ويس وٽس.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "پوءِ ويو"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شمشون"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "عزّه ڏانهن"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏٺائين"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "هڪ عورت"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زناڪار"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "۽ ويو"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "وٽس"
+    }
+  ],
+  "timestamp": "2026-08-30T11:04:12.555593793Z",
+  "model": "glm-5.3"
+}

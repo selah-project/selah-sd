@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "سمجهدار جو منهن ⟨את⟩ حڪمت سامهون آهي، پر مردار جون اکيون زمين جي پڇاڙيءَ ۾ آهن.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منهن (حڪمت سامهون)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "سمجهدار"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "۽ اکيون"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "مردار"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "پڇاڙيءَ ۾"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:17.184658781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ياهوه مون سان چيو ته آءٌ ⟨את⟩ هن قوم کي ڏٺو آھي، ۽ ڏسو، ھي ⟨is⟩ ڪٺو-سنڀري قوم آھي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "آءٌ ڏٺو آھي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هن قوم کي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ڪٺو"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "سنڀر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ھي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:32.526682256Z",
+  "model": "glm-5.3"
+}

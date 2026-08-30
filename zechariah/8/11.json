@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ هاڻي مون لاءِ نه جيئن پھرئين ڏينھن ۾ آھيان باقي رهيل هن قوم لاءِ، جو چوي ٿو ياهوه صبائوت.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "جيئن ڏينھن"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "پھرئين"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آھيان مان"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "باقي رهيل لاءِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    }
+  ],
+  "timestamp": "2026-08-30T15:00:45.383999593Z",
+  "model": "glm-5.3"
+}

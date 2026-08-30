@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "سرواڻ لاءِ، قورح جي پٽن جي، علاموت تي، هڪ گيت.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "سرواڻ لاءِ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "علاموت"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:11.232875413Z",
+  "model": "glm-5.3"
+}

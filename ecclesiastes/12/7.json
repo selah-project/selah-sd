@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ مِٽي اصل زمين تي موٽي، جيئن ⟨هئي⟩، ۽ روح ايلوهيم ڏانهن موٽي، جنهن ⟨ان کي⟩ ڏنو هو.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "موٽي"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "مِٽي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "جيئن هئي"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "۽ روح"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "موٽي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ڏنو هو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:47.971014212Z",
+  "model": "glm-5.3"
+}

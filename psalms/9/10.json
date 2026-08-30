@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ياهوه دٻيلن لاءِ پناھ-ٽڪر ٿيندو، تنگيءَ جي وقتن ۾ پناھ-ٽڪر.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "پناھ-ٽڪر"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "دٻيلن لاءِ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "پناھ-ٽڪر"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "وقتن ۾"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "تنگيءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:00:32.535692510Z",
+  "model": "glm-5.3"
+}

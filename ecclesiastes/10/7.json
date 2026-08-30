@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "مون غلامن کي گهوڙن تي ڏٺو، ۽ سردارن کي غلامن وانگر زمين تي هلندي.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "مون ڏٺو"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلامن کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گهوڙن"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "۽ سردارن کي"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "هلندي"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "غلامن وانگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:10.612382883Z",
+  "model": "glm-5.3"
+}

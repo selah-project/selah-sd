@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ جيڪڏھن اها ڳالھ سچي آهي ته ڇوڪريءَ لاءِ ڪنوارپڻ جون نشانيون معلوم نه ٿيون،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "معلوم ٿيون"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "ڪنوارپڻ جون نشانيون"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ڇوڪريءَ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:56.198857473Z",
+  "model": "glm-5.3"
+}

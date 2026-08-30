@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 104,
+  "translation": "اُگائي ٿو گاھ مال لاءِ ۽ ٻوٽي ماڻھوءَ جي خدمت لاءِ، ته مان earth مان لنگهير ٿو لڀ ڪري.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "اُگائي ٿو"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گاھ"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "مال لاءِ"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "۽ ٻوٽي"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "خدمت لاءِ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻھوءَ جي"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ته ڪڍي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لنگهير"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:38.916837708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 68,
+  "translation": "موذي لاءِ، داوود جو، مزمور، گيت.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موذي لاءِ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جي لاءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:06.322633514Z",
+  "model": "glm-5.3"
+}

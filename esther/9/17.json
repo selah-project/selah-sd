@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 9:17",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "مهيني اَدار جي تيرهين تاريخ ⟨تِ⟩ چوڏهين ڏينهن آرام ورتائون، ۽ ⟨את⟩ ان کي ڪيائون دعوت ۽ خوشيءَ جو ڏينهن.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تيره"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني جي"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "اَدار"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "۽ آرام"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "چوڏهين"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "۽ ڪيائون"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "دعوت"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "۽ خوشي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:56:03.056486057Z",
+  "model": "glm-5.3"
+}

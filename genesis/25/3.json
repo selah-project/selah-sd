@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ يقشان ⟨את⟩ شبا ۽ ⟨את⟩ ددان کي پيدا ڪيو؛ ۽ ددان جا پُٽ اشوريم ۽ لتوشيم ۽ لعمميم ٿيا.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "۽ يقشان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شبا"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شبا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ددان"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ددان"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ پُٽ"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ددان جا"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "اشوريم"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "لتوشيم"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "لعمميم"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:31.426734625Z",
+  "model": "glm-5.3"
+}

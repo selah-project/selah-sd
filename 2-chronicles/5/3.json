@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ گڏ ٿيا بادشاھ وٽ سڀ اسرائيل جا ماڻھو، ساڳ ۾ — اُھو ئي ستين مهينو ھو.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "۽ گڏ ٿيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جا"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ساڳ ۾"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُھو ئي"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "مهينو"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ستين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:21:54.826211427Z",
+  "model": "glm-5.3"
+}

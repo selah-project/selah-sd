@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ان جي ڳڻپ ٿيلن مان، مناشہ جي قبيلي لاءِ، ٻہ ۽ ٽيھ ھزار ۽ ٻہ سؤ ھيا.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ان جي ڳڻپ ٿيلن مان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي لاءِ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مناشہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻہ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽيھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "۽ ٻہ سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:04.818319503Z",
+  "model": "glm-5.3"
+}

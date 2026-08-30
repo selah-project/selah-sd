@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 9:44",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ آتسل جا ڇھ پٽ ھئا، ۽ ھيءَ ھنن جا نالا آھن: عزرقام بوکرو ۽ يشمائيل ۽ شعريا ۽ عوبيده ۽ حنان؛ ھي آتسل جا پٽ ھئا۔",
+  "tokens": [
+    {
+      "surface": "ולאצל",
+      "gloss": "۽ آتسل کي"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "۽ ھي"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "نالا"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "عزرقام"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "بوکرو"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "۽ يشمائيل"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "۽ شعريا"
+    },
+    {
+      "surface": "ועבדיה",
+      "gloss": "۽ عوبيده"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "۽ حنان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "آتسل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:17.684998779Z",
+  "model": "glm-5.3"
+}

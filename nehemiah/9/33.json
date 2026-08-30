@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 9:33",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ تون صالح آهين سڀ ڪجهه تي جيڪو اسان تي آيو، ڇوته تو سچ ڪيو ۽ اسان ظلم ڪيو.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سمورو"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "جو آيو"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اسان تي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "تو ڪيو"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "۽ اسان"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "ظلم ڪيو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:22.095590912Z",
+  "model": "glm-5.3"
+}

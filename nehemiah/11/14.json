@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 11:14",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ سندن ڀائر بهادر سورما، هڪ سَو ويھ اٺ؛ ۽ سندن مٿان نگران زبدائيل، پٽ وڏن جو.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "۽ سندن ڀائر"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "بهادر"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "سورما"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "هڪ سَو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "ופקיד",
+      "gloss": "۽ نگران"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "سندن مٿان"
+    },
+    {
+      "surface": "זבדיאל",
+      "gloss": "زبدائيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "הגדולים",
+      "gloss": "وڏن جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:59.354179184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 44:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "ته تو پنهنجن ٻانهن کي چيو: کيس مون وٽ لاٿ، ۽ مان پنهنجي اک کيس تي رکان.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ته تو چيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "پنهنجن ٻانهن"
+    },
+    {
+      "surface": "הורדהו",
+      "gloss": "کيس لاٿ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "ואשימה",
+      "gloss": "۽ مان رکان"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "پنهنجي اک"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "کيس تي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:09.950006089Z",
+  "model": "glm-5.3"
+}

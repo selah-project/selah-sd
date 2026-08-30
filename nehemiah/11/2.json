@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ قوم انهن سڀني ماڻهن کي برڪت ڏني جيڪي يروشلم ۾ رھڻ لاءِ پاڻ مرادو ٿيا.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "برڪت ڏني"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ماڻهن کي"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "پاڻ مرادو ٿيا"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "رھڻ لاءِ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:05.889176224Z",
+  "model": "glm-5.3"
+}

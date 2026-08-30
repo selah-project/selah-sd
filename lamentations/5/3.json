@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "يتيم ٿي وياسين، پيءُ ⟨ناهي⟩؛ اسان جون ماءُون widows وانگر آهن.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "يتيم"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ٿي وياسين"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "اسان جون ماءُون"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "widows وانگر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:52.932249540Z",
+  "model": "glm-5.3"
+}

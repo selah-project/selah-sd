@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ گڏهن جا ھڪ ۽ سٺ ھزار،",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "گڏهن جا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "۽ سٺ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:41:03.873228493Z",
+  "model": "glm-5.3"
+}

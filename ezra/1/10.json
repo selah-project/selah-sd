@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "سون جا پيالا ٽيهه، چاندي جا ٻئين درجي جا پيالا چار سؤ ۽ ڏهه، ٻيا ٿڻ هڪ هزار۔",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "پيالا"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جا"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "پيالا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي جا"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "ٻئين درجي جا"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "۽ ڏهه"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "ٿڻ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻيا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هڪ هزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:19.865506964Z",
+  "model": "glm-5.3"
+}

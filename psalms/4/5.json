@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ڪرپو ۽ گناه نه ڪريو؛ پنھنجي دل ۾ چئو، پنھنجي کٽ تي، ۽ ماٺ ڪريو. سلاہ",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "ڪرپو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "گناه ڪريو"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "چئو"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "پنھنجي دل ۾"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "پنھنجي کٽ"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "۽ ماٺ ڪريو"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:30.196238705Z",
+  "model": "glm-5.3"
+}

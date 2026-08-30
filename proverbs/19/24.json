@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "سست پنهنجو هٿ طشتي ۾ لڪائي ٿو؛ اهو پنهنجي وات تائين به موٽائي نه ٿو.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "لڪائي ٿو"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سست"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "پنهنجو هٿ"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "طشتي ۾"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "فיהו",
+      "gloss": "پنهنجي وات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "موٽائي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:04.945729495Z",
+  "model": "glm-5.3"
+}

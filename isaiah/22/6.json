@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ عيلام تير-دامن کڻي ٿو، ماڻهن جي رٿن ۾ سوارن سميت، ۽ ڪير ڍال کلي ٿو.",
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "۽ عيلام"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "کڻي ٿو"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "تير-دامن"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "رٿن ۾"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهن جي"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "سوارن"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "۽ ڪير"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "کلي ٿو"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڍال"
+    }
+  ],
+  "timestamp": "2026-08-30T11:52:26.640442674Z",
+  "model": "glm-5.3"
+}

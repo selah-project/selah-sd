@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "يريحو جا پُٽ، ٽي سَو پنجتاليھه (345).",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "يريحو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليھه"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "۽ پنج"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:38.397430439Z",
+  "model": "glm-5.3"
+}

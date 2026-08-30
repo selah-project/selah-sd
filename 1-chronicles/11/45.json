@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "يديعائيل شمري جو پٽ ۽ يوها سندس ڀاءُ تيزي،",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "يديعائيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شمري"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "يوها"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "سندس ڀاءُ"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "تيزي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:14.165137679Z",
+  "model": "glm-5.3"
+}

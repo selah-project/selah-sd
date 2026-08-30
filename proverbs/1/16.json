@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ڇوته انهن جا پير برائي ڏانهن ڊوڙن ٿا ۽ اهي رت وهائڻ لاءِ جلدي ڪن ٿا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "انهن جا پير"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "برائي ڏانهن"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ڊوڙن ٿا"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "جلدي ڪن ٿا"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "وهائڻ لاءِ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:10.468011782Z",
+  "model": "glm-5.3"
+}

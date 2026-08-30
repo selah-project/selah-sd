@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ڇوته مصيبت مَٽيءَ مان نه نڪرتي آهي ۽ پنهن جي دل تان ڪڙيو نه اُڀرندو آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نڪرتي"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "مَٽيءَ مان"
+    },
+    {
+      "surface": "און",
+      "gloss": "مصيبت"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "۽ پنهن جي دل تان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "اُڀرندو"
+    },
+    {
+      "surface": "עמل",
+      "gloss": "ڪڙيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:34.526774317Z",
+  "model": "glm-5.3"
+}

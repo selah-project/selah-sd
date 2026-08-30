@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ داني مان، جنگ صف بَند ڪندڙ ويھ ۽ اَٺ هزار ۽ ڇَھ سَؤ.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "داني"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "صف بَند ڪندڙ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "۽ اَٺ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ ڇَھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:14.237368555Z",
+  "model": "glm-5.3"
+}

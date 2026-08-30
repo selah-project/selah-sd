@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "سڀاڻي جي ڏينهن جي فخر نه ڪر، ڇو ته تون نٿا ڄاڻين ته ڏينهن ڇا ڄڻي ٿو.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "فخر ڪر"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن جي"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "سڀاڻي جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نٿا"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ڄاڻين"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄڻي ٿو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:20.079405338Z",
+  "model": "glm-5.3"
+}

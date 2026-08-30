@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 2:18",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ھاڻي توکي متسرايم جي رستي ڇا جو، شيحور جو پاڻي پيڻ لاءِ؟ ۽ توکي آشور جي رستي ڇا جو، درياھ جو پاڻي پيڻ لاءِ؟",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ ھاڻي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا جو"
+    },
+    {
+      "surface": "لך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "جي رستي"
+    },
+    {
+      "surface": "مצרים",
+      "gloss": "متسرايم"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "پيڻ لاءِ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "جو پاڻي"
+    },
+    {
+      "surface": "שחור",
+      "gloss": "شيحور"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "۽ ڇا جو"
+    },
+    {
+      "surface": "لך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "لדרך",
+      "gloss": "جي رستي"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "پيڻ لاءِ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "جو پاڻي"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "درياھ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:07:17.288946264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 122,
+  "translation": "ياهوه اسان جي ايلوهيم جي گهر جي لاءِ، مان تنهنجو ڀلو ڳوليندس.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "جي لاءِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "اسان جي ايلوهيم"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "مان ڳوليندس"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:57.697381391Z",
+  "model": "glm-5.3"
+}

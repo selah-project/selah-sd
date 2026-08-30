@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ يهودا ⟨عير⟩ پنھنجي پھريون پٽ لاءِ زال وٺي؛ ۽ سندس نالو تمر هو.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "۽ وٺي"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "לער",
+      "gloss": "عير لاءِ"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "پنھنجي پھريون پٽ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "۽ سندس نالو"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تمر"
+    }
+  ],
+  "timestamp": "2026-08-30T09:51:42.653530726Z",
+  "model": "glm-5.3"
+}

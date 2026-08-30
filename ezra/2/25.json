@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "قريت-عاريم، ڪفيره ۽ بيروٿ جي پٽن جو <...> سَت سَو ۽ چاليھ ۽ ٽي.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قريت"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "عاريم"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "ڪفيره"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "۽ بيروٿ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سَت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "۽ چاليھ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "۽ ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:30.151452435Z",
+  "model": "glm-5.3"
+}

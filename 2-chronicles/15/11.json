@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 15:11",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ ان ڏينهن هنن ياهوه کي ان غنيمت مان قرباني ڪئي جاڪا هنن آندا هئا — سؤ ست ڍڳا ۽ ست هزار رڍون.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "۽ هنن قرباني ڪئي"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينهن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(ٿٻر) اهو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "ان غنيمت"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "جاڪا هنن آندا هئا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "۽ رڍون"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:24.138689582Z",
+  "model": "glm-5.3"
+}

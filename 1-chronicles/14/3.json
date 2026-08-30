@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ داوود يروشلم ۾ ٻيون زالون ورتيون، ۽ داوود کي ٻيا پُٽ ۽ ڌيئون ڄاڻيون.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ورتيون"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيون"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زالون"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ڄاڻيون"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود کي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "۽ ڌيئون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:40.817510212Z",
+  "model": "glm-5.3"
+}

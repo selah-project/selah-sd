@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ نوح جا پٽ، جيڪي ٻيڙيءَ مان نڪتا، سي شيم ۽ حام ۽ يافث ⟨هئا⟩؛ ۽ حام ئي ڪنعان جو پيءُ ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ٿيا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح جا"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "جيڪي نڪتا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ٻيڙيءَ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شيم"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "۽ حام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "۽ يافث"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "۽ حام"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئي"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جو پيءُ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:11.123798851Z",
+  "model": "glm-5.3"
+}

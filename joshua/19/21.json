@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ رمت، ۽ عين گنيم، ۽ عين حدّه، ۽ بيت پصيص.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "۽ رمت"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "۽ عين"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "گنيم"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "۽ عين"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "حدّه"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ بيت"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "پصيص"
+    }
+  ],
+  "timestamp": "2026-08-30T14:44:05.865923179Z",
+  "model": "glm-5.3"
+}

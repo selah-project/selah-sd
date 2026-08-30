@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "مقابل ڪندڙ لاءِ، داويد جو مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقابل ڪندڙ لاءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داويد جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:36.606389302Z",
+  "model": "glm-5.3"
+}

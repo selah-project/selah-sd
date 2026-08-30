@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 32:49",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "چڙھ هن جبل عباريم ڏي، هن نبو جبل تي، جيڪو موآب جي زمين ۾ آھي، جيڪو يريحو جي سامهون آھي؛ ۽ ڏس ⟨את⟩ ڪنعان جي زمين کي، جا مان يسرائيل جي پٽن کي ورثي طور ڏيان ٿو.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "چڙھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "عباريم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "נבو",
+      "gloss": "نبو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "مואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "سامهون"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منھن"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "يريحو"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪنعان جي زمين"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏيان ٿو"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن کي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "ورثي طور"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:13.570383321Z",
+  "model": "glm-5.3"
+}

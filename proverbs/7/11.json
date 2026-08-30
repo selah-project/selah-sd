@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "اها گونگائتي ۽ سَرڪش آهي؛ سندس پير سندس گهر ۾ رهي نه ٿا،",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "گونگائتي"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "۽ سَرڪش"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "سندس گهر ۾"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "رهي ٿا"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "سندس پير"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:35.375778661Z",
+  "model": "glm-5.3"
+}

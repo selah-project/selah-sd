@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "سستي کُنڊيءَ ۾ وجھي ٿي، ۽ ڍڳي نَفس بکlinie ٿي.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "سستي"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "وجھي ٿي"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "کُنڊيءَ ۾"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "۽ نَفس"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ڍڳي"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "بکlinie ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:28.918592924Z",
+  "model": "glm-5.3"
+}

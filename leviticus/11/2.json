@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "اسرائيل جي پٽن سان ڳالھيو، چوڻ: اھا جيوي جيڪا توهان کائي سگھو ٿا، سڀ جانورن مان جيڪي زمين تي آھن.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "ڳالھيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اھا"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "جيوي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائي سگھو ٿا"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڀ مان"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "جانورن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:57.288243623Z",
+  "model": "glm-5.3"
+}

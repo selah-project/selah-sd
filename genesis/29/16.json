@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ لابان جون ٻه ڌيئون هيون: وڏيءَ جو نالو لِياه هو ۽ ننڍيءَ جو نالو راحيل هو.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "۽ لابان"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيئون"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "وڏيءَ جو"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِياه"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "ننڍيءَ جو"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:34:15.446663437Z",
+  "model": "glm-5.3"
+}

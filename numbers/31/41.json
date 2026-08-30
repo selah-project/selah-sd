@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 31:41",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ موشي ياهوه جي ترموت جو مڪس اِليعازر ڪوھين کي ڏنو، جيئن ياهوه موشي کي حڪم ڪيو ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مڪس"
+    },
+    {
+      "surface": "מכס",
+      "gloss": "مڪس"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "ترموت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "לאלעזר",
+      "gloss": "اِليعازر"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھين کي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:42.308418161Z",
+  "model": "glm-5.3"
+}

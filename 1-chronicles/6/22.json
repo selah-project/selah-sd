@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "تاحت جو پٽ، اسير جو پٽ، ابياسف جو پٽ، قورح جو پٽ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تاحت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "اسير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "ابياسف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:54.757350341Z",
+  "model": "glm-5.3"
+}

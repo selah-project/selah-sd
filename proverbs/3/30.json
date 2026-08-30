@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڪنهن ماڻهوءَ سان بلا سبب جهيڙو نه ڪر، جيڪڏهن هن توکي ڪا برائي نه ڪئي آهي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "جهيڙو نه ڪر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بلا سبب"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "توکي ... ڪئي آهي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:15.616532570Z",
+  "model": "glm-5.3"
+}

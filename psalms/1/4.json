@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "نه ائين شرير آھن، پر اھي ⟨آھن⟩ جهڙو تباھو، جيڪو واءُ اڏائي وڃي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "شرير آھن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "۔"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "جهڙو تباھو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "اڏائي وڃي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "واءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:01:33.234768694Z",
+  "model": "glm-5.3"
+}

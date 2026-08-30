@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ هو پاڪ ڪرڻ لاءِ ⟨את⟩ گهر ٻه پکي، ۽ ديودار جو ڪاٺ، ۽ ڪرمي جو ڳاڙهو رنگ، ۽ زوفا وٺندو.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "۽ هو وٺندو"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "پاڪ ڪرڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گهر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "پکي"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "۽ ڪاٺ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ديودار"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "۽ ڳاڙهو رنگ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ڪرمي جو"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "۽ زوفا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:15.447213017Z",
+  "model": "glm-5.3"
+}

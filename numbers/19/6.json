@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 19:6",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ ڪاھن ديدواڻ جو ڪاٺ ۽ اذوب ۽ شنهي تولع (ڳاڙهو اُن) وٺي، گاءِ جي ساڙ جي وچ ۾ اُڇليندو.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "۽ وٺندو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاھن"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ڪاٺ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ديدواڻ جو"
+    },
+    {
+      "surface": "ואזוב",
+      "gloss": "۽ اذوب"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "۽ ڳاڙهو"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "شنهي تولع (اُن)"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "۽ اُڇليندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "שרפת",
+      "gloss": "ساڙ"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "گاءِ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:29:51.620838368Z",
+  "model": "glm-5.3"
+}

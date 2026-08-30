@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ رعو ⟨את⟩ سروج کي پيدا ڪرڻ کان پوءِ سَت ۽ ٻه سَو سال جييو، ۽ پٽن ۽ ڌيين کي پيدا ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جييو"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رعو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کان پوءِ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "پيدا ڪرڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سروج"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سروج"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سَت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "۽ ٻه سَو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "پيدا ڪيائين"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "۽ ڌيين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:48.293220213Z",
+  "model": "glm-5.3"
+}

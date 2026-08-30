@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڇھين ڏينھن گاد جي پٽن جو سردار اِلياساف بن دِعوائيل (پيش ڪيو).",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ڇھين"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "جي پٽن جو"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلياساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دِعوائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:37.903937052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ گيرا، ۽ شيفوفان، ۽ حورام۔",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "۽ گيرا"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "۽ شيفوفان"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "۽ حورام"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:22.237327969Z",
+  "model": "glm-5.3"
+}

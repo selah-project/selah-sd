@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "سُڪي لوڙھ ۽ ان سان آسودگي، ٺِيڪ آھي اُن گھر کان جيڪو تڪرار جي قربانين سان ڀريل آھي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ٺِيڪ آھي"
+    },
+    {
+      "surface": "פת",
+      "gloss": "لوڙھ"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "سُڪي"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "۽ آسودگي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان سان"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر کان"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀريل"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانين سان"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "تڪرار جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:41.148301057Z",
+  "model": "glm-5.3"
+}

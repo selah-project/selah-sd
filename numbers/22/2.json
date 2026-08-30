@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ بلق، صپور جي پٽ، ڏٺو ⟨את⟩ سڀ جيڪو اسرائيل اموريءَ کي ڪيو هو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏٺو"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بلق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "صپور جي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو هو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "اموريءَ کي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:41:12.927251429Z",
+  "model": "glm-5.3"
+}

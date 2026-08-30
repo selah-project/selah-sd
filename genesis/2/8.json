@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "پوءِ ياهوه ايلوهيم عدن ۾، اوڀر پاسي، هڪ باغ پوکيو، ۽ اتي ⟨את⟩ آدم کي رکيائين جنهن کي گهڏيائين.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "پوءِ پوکيائين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "גן",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "عدن ۾"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "اوڀر پاسي"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "۽ رکيائين"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آدم"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن کي"
+    },
+    {
+      "surface": "יצر",
+      "gloss": "گهڏيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:39.507217099Z",
+  "model": "glm-5.3"
+}

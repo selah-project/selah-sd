@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 31:51",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ لابان جاڪب کي چيو: هيڻو هي ڍير، ۽ هيڻو هي مڻي، جا مون مون ۽ تنهنجي وچ ۾ کوڙي آهي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "جاڪب کي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هيڻو"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "هي ڍير"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ هيڻو"
+    },
+    {
+      "surface": "המצבה",
+      "gloss": "هي مڻي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "יריתי",
+      "gloss": "مون کوڙي آهي"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "مون ۽"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "تنهنجي وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:40.726785132Z",
+  "model": "glm-5.3"
+}

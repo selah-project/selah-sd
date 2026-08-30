@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ توهان مون لاءِ قوم ٿيندؤ، ۽ مان توهان لاءِ ايلوهيم ٿيندس.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "۽ توهان ٿيندؤ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ٿيندس"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T12:16:27.910051315Z",
+  "model": "glm-5.3"
+}

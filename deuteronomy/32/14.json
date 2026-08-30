@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 32:14",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "ڳئن جي مکڻ ۽ ڍورن جو کير، رڙهن جي چرٻيءَ سان، ۽ باشان جي پٽن رڙهن ۽ ٻڪرين سان، ڪڻڪ جي بُڪين جي چرٻيءَ سان؛ ۽ انگور جي رت — خمر — تون پيتي.",
+  "tokens": [
+    {
+      "surface": "חמאת",
+      "gloss": "مکڻ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڳئن"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "۽ کير"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ڍورن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چرٻيءَ"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "رڙهن"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "۽ رڙهن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "۽ ٻڪرين"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چرٻيءَ"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "بُڪين"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ڪڻڪ"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "۽ رت"
+    },
+    {
+      "surface": "ענב",
+      "gloss": "انگور"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "تون پيتي"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "خمر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:04.692079087Z",
+  "model": "glm-5.3"
+}

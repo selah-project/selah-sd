@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "ڪهڙو مڙس آهي ايوب جهڙو، جيڪو ٽوڪ کي وانگر پاڻي جي پيئندو آهي؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪهڙو"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "مڙس"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "ايوب جهڙو"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "پيئندو آهي"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ٽوڪ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "وانگر پاڻي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:43:00.525038080Z",
+  "model": "glm-5.3"
+}

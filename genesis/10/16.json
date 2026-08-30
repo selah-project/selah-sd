@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ⟨את‬ يبوسي کي ۽ ⟨את‬ اموري کي ۽ ⟨את‬ جرگشي کي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "يبوسي"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "يبوسي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "اموري"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموري"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "جرگشي"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "جرگشي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:19.458517284Z",
+  "model": "glm-5.3"
+}

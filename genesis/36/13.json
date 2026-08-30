@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 36:13",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ اھي ⟨هئا⟩ رعوائيل جا پُٽ: ناحات ۽ زراح، شمّہ ۽ مِزّہ؛ اھي بسمت، عيسوءَ جي زال، جا پُٽ ھئا.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوائيل"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ناحات"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "۽ زراح"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شمّہ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "۽ مِزّہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بسمت"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:55.539223970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "سبڪي الحوشاتي، عيلائي الاحوحِي۔",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "سبڪي"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "الحوشاتي"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "عيلائي"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "الاحوحِي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:21.939783374Z",
+  "model": "glm-5.3"
+}

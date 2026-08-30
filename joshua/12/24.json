@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "تيرصه جو بادشاهه هڪ؛ سڀ بادشاهه ايڪتاليس ٿيا.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "جي بادشاهه"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "تيرصه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "שלשيم",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "۽ هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:10.382859807Z",
+  "model": "glm-5.3"
+}

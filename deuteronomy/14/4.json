@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "هي ⟨اهو⟩ ڍور آهي جنهن کي توهان کائي سگهو ٿا: ڏاند، رڍ جو ۽ ٻڪري جو پال.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ڍور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن کي"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "توهان کائي سگهو ٿا"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "שה",
+      "gloss": "پال"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "رڍن جو"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "۽ پال"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻڪرين جو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:39.072548841Z",
+  "model": "glm-5.3"
+}

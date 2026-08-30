@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 146,
+  "translation": "ساراھيو ياه کي؛ ساراھ، منهنجي ساھ، ⟨את⟩ ياهوه کي.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ساراھيو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ساراھ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منهنجي ساھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:32.903101366Z",
+  "model": "glm-5.3"
+}

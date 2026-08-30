@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ هاڻي، سچ ته آءُ گويل آهيان، پر هڪ گويل مَنهنجَ کان وڌيڪ ويجهو به آهي۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بےشڪ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "گويل"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءُ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "پر به"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "گويل"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ويجهو"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "منهنجَ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:47:53.281294338Z",
+  "model": "glm-5.3"
+}

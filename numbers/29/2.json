@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 29:2",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ توهان ياهوه لاءِ خوشبوءِ جي هڪ سوڙ جوڙيندا: ڍڳن جو هڪ پٽ، هڪ رٻ، هڪ سال جا ست لٻ، بڇاڻا.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "۽ توهان جوڙيندا"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "سوڙ"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "خوشبوءِ لاءِ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "سک ڏيندڙ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳن جو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "رٻ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "لٻ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال جا"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بڇاڻا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:10.987454726Z",
+  "model": "glm-5.3"
+}

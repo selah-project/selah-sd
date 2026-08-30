@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 2:10",
+  "book": "nahum",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "لُٽو چانديءَ کي، لُٽو سون کي؛ ۽ تيار ڪيل جي ڪوبه پڇاڙي ناهي — سڀني پسنديده ٿانوَن جي شان.",
+  "tokens": [
+    {
+      "surface": "בזו",
+      "gloss": "لُٽو"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "لُٽو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ناهي"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "پڇاڙي"
+    },
+    {
+      "surface": "לתכונה",
+      "gloss": "تيار ڪيل جي"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ٿانوَن"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "پسنديده"
+    }
+  ],
+  "timestamp": "2026-08-30T12:52:57.406638466Z",
+  "model": "glm-5.3"
+}

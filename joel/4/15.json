@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "سج ۽ چنڊ اونداھجا ٿي ويا، ۽ تارن پنھنجي چمڪ ڪڍي ڇڏي.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "۽ چنڊ"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "اونداھجا ٿي ويا"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "۽ تارن"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "ڪڍي ڇڏي"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "پنھنجي چمڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:47:30.770354775Z",
+  "model": "glm-5.3"
+}

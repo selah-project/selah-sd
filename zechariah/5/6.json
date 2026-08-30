@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ م چويس: ھي ڇا آھي؟ ۽ ھن چيو: ھي ⟨את⟩ ايفه آھي جي نڪري رھي آھي. ۽ ھن چيو: ھي سندن اک آھي ساري زمين ۾.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "۽ م چويس"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ ھن چيو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ايفه"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "نڪرندڙ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ ھن چيو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "سندن اک"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:23.435765844Z",
+  "model": "glm-5.3"
+}

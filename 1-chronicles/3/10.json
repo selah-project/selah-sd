@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ شلومو جو پٽ رحبعام ھو؛ ابيا سندس پٽ، آسا سندس پٽ، يهوشفاط سندس پٽ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعام"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابيا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "בנو",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشفاط"
+    },
+    {
+      "surface": "بنו",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:52.589717914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 46:15",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "ڇو اُڪڙي ويا توھان جا سگھارا؟ ⟨اھي⟩ بيهي نه سگھيا، ڇوته ياهوه ئي کين ڌڪي ڇڏيو.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "נסחף",
+      "gloss": "اُڪڙي ويا"
+    },
+    {
+      "surface": "אביריך",
+      "gloss": "توھان جا سگھارا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "بيهي سگھيا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "ڌڪي ڇڏيو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:21:47.222202278Z",
+  "model": "glm-5.3"
+}

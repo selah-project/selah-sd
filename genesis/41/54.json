@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "genesis 41:54",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ قحط جا ست سال اچڻ لڳا، جيئن يوسف چيو هو؛ ۽ سڀ ملڪن ۾ قحط پيو، پر متسرايم جي سڀ زمين ۾ کاڌو ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "ותחלינה",
+      "gloss": "اچڻ لڳا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سال"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قحط جا"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "اچڻ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ پيو"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "قحط"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ملڪن ۾"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "پر سڀ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم جي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "کاڌو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:42.244560248Z",
+  "model": "glm-5.3"
+}

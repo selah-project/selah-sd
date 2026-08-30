@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 22:24",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ مٿي مٽيءَ ۾ سون رک، ۽ نئن جي پٿرن جي وچ ۾ اوپير جو سون.",
+  "tokens": [
+    {
+      "surface": "ושית",
+      "gloss": "۽ رک"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٽيءَ ۾"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "سون"
+    },
+    {
+      "surface": "ובצור",
+      "gloss": "۽ پٿرن جي وچ ۾"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "نئن جي"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "اوپير جو سون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:39:32.653348372Z",
+  "model": "glm-5.3"
+}

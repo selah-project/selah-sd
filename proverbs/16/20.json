@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 16:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "لفظ تي سمجھ رکندڙ ڀلو ماڻيندو، ۽ جيڪو ياهوه تي توڪل ڪري ٿو، تنهن جو سُک آهي.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "سمجھ رکندڙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ماڻيندو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلو"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "۽ توڪل ڪري ٿو"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه تي"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "تنهن جو سُک"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:23.358214831Z",
+  "model": "glm-5.3"
+}

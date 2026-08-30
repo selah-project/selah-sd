@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "تنهنجي پيءُ جي زال جو ننگ ظاهر نه ڪر؛ اهو ⟨آهي⟩ تنهنجي پيءُ جو ننگ.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ننگ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تنهنجي پيءُ جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ظاهر ڪر"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ننگ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تنهنجي پيءُ جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:41.041604448Z",
+  "model": "glm-5.3"
+}

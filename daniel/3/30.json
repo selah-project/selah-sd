@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "تنهن کان پوءِ بادشاهه شدرخ، ميشخ ۽ عبد نگو کي بابل جي صوبي ۾ ترقي ڏني.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "تنهن کان پوءِ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "ترقي ڏني"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "شدرخ کي"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "ميشخ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "۽"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "عبد نگو"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "صوبي ۾"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:57:52.303903823Z",
+  "model": "glm-5.3"
+}

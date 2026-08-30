@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 10:21",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "چار چار منهن ھڪ ھڪ کي، ۽ چار پرن ھڪ ھڪ کي؛ ۽ انسان جي ھٿن جي صورت سندن پرن ھيٺ.",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ھڪ کي"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "پرن"
+    },
+    {
+      "surface": "לאחد",
+      "gloss": "ھڪ کي"
+    },
+    {
+      "surface": "ודמות",
+      "gloss": "۽ صورت"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ھٿن جي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺ"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "سندن پرن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:28:34.852937314Z",
+  "model": "glm-5.3"
+}

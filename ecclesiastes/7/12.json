@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڇوته حڪمت جي **۽** ڇانوَ ۾ ۽ چانديءَ جي ڇانوَ ۾ آھي، پر علم جو؛ ڇوته حڪمت پنھنجن مالکن کي جيوا رکي ٿي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ڇانوَ ۾"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "حڪمت جي"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ڇانوَ ۾"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چانديءَ جي"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "۽ برتري"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم جو"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "جيوا رکي ٿي"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "پنھنجن مالکن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:04.781973601Z",
+  "model": "glm-5.3"
+}

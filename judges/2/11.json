@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ اسريل جي پٽن ياهوه جي نظر ۾ ⟨את⟩ برائي ڪئي ۽ ⟨את⟩ بعليمن جي خدمت ڪيائون.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ڪئي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسريل جي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برائي"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "نظر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "خدمت ڪيائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بعليمن"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "بعليمن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:56:49.603500261Z",
+  "model": "glm-5.3"
+}

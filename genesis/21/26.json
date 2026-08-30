@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ته ابيمليخ چيو: مون نه ڄاڻو ته ڪنهن ⟨את⟩ هي ڳالهه ڪئي؛ ۽ تون به مونکي نه ٻڌايو، ۽ آءٌ به نه ٻُڌو، سواءِ اڄ جي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ابيمليخ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "مون ڄاڻو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪنهن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪئي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي ڳالهه"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالهه"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ٻڌايو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مونکي"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ٻُڌو"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "سواءِ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اڄ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:15.566408695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "هڪ ايل قدوسن جي سود ۾ تمام هيبتناڪ، ۽ پنهنجي چوڌاري سڀني تي dread۾دار آهي",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "هيبتناڪ"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "جي سود ۾"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "قدوسن"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "۽ خوفناڪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "پنهنجي چوڌاري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:00.790453424Z",
+  "model": "glm-5.3"
+}

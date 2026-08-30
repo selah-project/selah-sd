@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ ياهوه ⟨את⟩ قوم کي آفت ۾ وڌو، ڇوته انهن ⟨את⟩ وائون ٺاهيو جيڪو اهارون ٺاهيو هو.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "آفت ۾ وڌو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "انهن ٺاهيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وائون"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "وائون"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاهيو هو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:08:23.110159906Z",
+  "model": "glm-5.3"
+}

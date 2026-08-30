@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 23:33",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ جڏھن هي ماڻهو، يا نبي، يا ڪاھن توکي پڇي چوندو ته ياهوه جو بار ڇا؟ ته تون تنھن کي چوين: «ڇا بار!|\n|\n هڪ|\n نيقول|\n آھي|\n|\n ياهوه جو|\n|\n.»",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "۽ جڏھن"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "پڇي توکي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ڪاھن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ته تون چوين"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "تنھن کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڇا بار"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "ונטשתי",
+      "gloss": "۽ مان ڇڏي ڏيندس"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ توکي",
+      "marks": "توهان"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نيقول"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:14:47.681476943Z",
+  "model": "glm-5.3"
+}

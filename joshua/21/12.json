@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ⟨את⟩ شهر جي ٻني ۽ ⟨את⟩ ان جا ڳوٺ ڏنائون ڪالب پٽ يفنه کي، سندس ملڪيت طور.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "شهر جي ٻني"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ٻني"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر جي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ان جا ڳوٺ"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "ان جا ڳوٺ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ڏنائون"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ڪالب کي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يفنه"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "سندس ملڪيت طور"
+    }
+  ],
+  "timestamp": "2026-08-30T10:55:22.872167387Z",
+  "model": "glm-5.3"
+}

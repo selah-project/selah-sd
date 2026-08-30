@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 108,
+  "translation": "اُسَر، ايلوهيم، آسمانن کان مَٿي، ۽ سڀيءَ زمين تي تنهنجو شان ⟨هُجي⟩.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "اُسَر"
+    },
+    {
+      "surface": "על",
+      "gloss": "مَٿي"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ مَٿي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "تنهنجو شان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:59.028596633Z",
+  "model": "glm-5.3"
+}

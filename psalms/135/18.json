@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 135,
+  "translation": "انهن جهڙا ⟨هوڻо⟩ انهن جا ٺاھيندڙ ٿيندا؛ سڀ جيڪي انهن تي توڪل ڪن ٿا.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "انهن جهڙا"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ٿيندا"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "انهن جا ٺاھيندڙ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "توڪل ڪن ٿا"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انهن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:02.472776182Z",
+  "model": "glm-5.3"
+}

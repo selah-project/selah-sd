@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ جنھن ڏينھن ۾ جيئرو گوشت ۾ ۾ ڏسڻ ۾ اچي، ناپاڪ ٿيندو.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "۽ جنھن ڏينھن ۾"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ڏسڻ ۾ اچي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "۾ ۾"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جيئرو"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاڪ ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:05.716386844Z",
+  "model": "glm-5.3"
+}

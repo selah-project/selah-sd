@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 145,
+  "translation": "منھن منهنجو ياهوه جي تعريف ٻوليندو، ۽ سارو جسم سندس پاڪ نالو م-barak ڪندو هميشہ ۽ هميشہ لاءِ.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "تعريف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ٻوليندو"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منهنجو منھن"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "۽ برڪت ڀريندو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "جسم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشہ لاءِ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ هميشہ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:04:18.952570021Z",
+  "model": "glm-5.3"
+}

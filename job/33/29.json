@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ڏسو، اِیل ۽ اِھي سڀ ڪم ڪري ٿو، ٻه يا ٽي ڀيرا ماڻھوءَ سان.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِھي"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ڪري ٿو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِیل"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ڀيرا"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ماڻھوءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:42:35.275670620Z",
+  "model": "glm-5.3"
+}

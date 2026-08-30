@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 16:18",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "اي زمين، منھنجو رت نه ڍڪج، ۽ منھنجي واڪ لاءِ ڪوبه جاءِ نه رھي.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "اي زمين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכסי",
+      "gloss": "ڍڪج"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "منھنجو رت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "رھي"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "לזעקתי",
+      "gloss": "منھنجي واڪ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:38:15.481630579Z",
+  "model": "glm-5.3"
+}

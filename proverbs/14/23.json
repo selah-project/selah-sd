@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "هر محنت ۾ فائدو آهي، پر هونٽن جي ڳالهه رڳو کوٽائي ڏي وڃي ٿي.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "هر...۾"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "فائدو"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "پر ڳالهه"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "هونٽن جي"
+    },
+    {
+      "surface": "אך",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "کوٽائي ڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:57.444613851Z",
+  "model": "glm-5.3"
+}

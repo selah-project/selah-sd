@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ اولهه واري سرحد: ۽ توہ لاءِ وڏو سمنڊ ئي سرحد ٿيندو؛ هي توہ جي اولهه واري سرحد ٿيندو.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "۽ سرحد"
+    },
+    {
+      "surface": "ים",
+      "gloss": "اولهه واري (سمنڊ)"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توہ لاءِ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "۽ سرحد"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توہ جي"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "ים",
+      "gloss": "اولهه واري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:13.582965822Z",
+  "model": "glm-5.3"
+}

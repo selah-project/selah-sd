@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "⟨את⟩ ڪير — تنهن کي تون لفظَ ٻُڌايا؟ ۽ ڪير جو ساھ تنهن مان نڪتو؟",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪير"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ٻُڌايا"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "لفظَ"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "۽ ساھ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير جو"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "نڪتو"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تنهن مان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:24.692454736Z",
+  "model": "glm-5.3"
+}

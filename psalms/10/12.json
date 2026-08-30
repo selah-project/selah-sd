@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "قيام ڪر، ياهوه! ايل، پنھنجو ھٿ کڻ؛ غريبن کي نه وسار.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "قيام ڪر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "کڻ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "پنھنجو ھٿ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "وسار"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "غريبن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:00:34.478379812Z",
+  "model": "glm-5.3"
+}

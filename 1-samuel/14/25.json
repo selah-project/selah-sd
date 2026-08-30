@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ سڄي زمين جا ماڻهو ٻيلي ۾ آيا، ۽ ٻيلي ۾ مينهن جي شھد ٿي ميدان جي مُنھن تي۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جا ماڻهو"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ٻيلي ۾"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "شھد"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُنھن"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ميدان جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:11:15.610393035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "نفرت جهيڙا جڳائي ٿي، پر محبت سڀ زيتن کي ڍڪي وڃي ٿي.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "نفرت"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "جڳائي ٿي"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "جهيڙا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "پر ... تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "زيتن"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ڍڪي وڃي ٿي"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "محبت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:19.803183313Z",
+  "model": "glm-5.3"
+}

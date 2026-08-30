@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڪيترا ميري نفش کي چون ٿا: ”ايلوهيم ۾ ان لاءِ ڪا نجات ناھي.“ سِلاه.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ڪيترا"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "چون ٿا"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ميري نفش کي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ڪا … ناھي"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "نجات"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان لاءِ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ايلوهيم ۾"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:26.875713262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڀڃياڪ ڀڃياڪ جي بدل ۾، اک اک جي بدل ۾، ڏند ڏند جي بدل ۾؛ جيئن ⟨هن⟩ ماڻهوءَ ۾ نقص پيدا ڪيو، تيئن اُن ۾ ڏنو وڃي.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ڀڃياڪ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "جي بدل ۾"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ڀڃياڪ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اک"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "جي بدل ۾"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اک"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ڏند"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "جي بدل ۾"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ڏند"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "מום",
+      "gloss": "نقص"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ماڻهوءَ ۾"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ڏنو وڃي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:19.078461083Z",
+  "model": "glm-5.3"
+}

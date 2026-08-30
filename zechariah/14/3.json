@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 14:3",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ياهوه نڪرندو ۽ انهن قومن سان وڙهندو، جيئن هو لڙائيءَ جي ڏينهن ۾ وڙهندو هو.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "۽ نڪرندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "۽ وڙهندو"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومن سان"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "انهن"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "جيئن ڏينهن ۾"
+    },
+    {
+      "surface": "הלחמו",
+      "gloss": "وڙهندو هو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "لڙائيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:58:11.857218509Z",
+  "model": "glm-5.3"
+}

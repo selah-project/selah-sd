@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 4:10",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "رحم وارين عورتن جون ھٿون پنھنجا ٻار رڌيا؛ اھي کين کاڌو ٿيا، پنھنجي قوم جي ڌيءَ جي برباديءَ ۾.",
+  "tokens": [
+    {
+      "surface": "ידי",
+      "gloss": "ھٿون"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "عورتن جون"
+    },
+    {
+      "surface": "רחמניות",
+      "gloss": "رحم وارين"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "رڌيا"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "پنھنجا ٻار"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ھئا"
+    },
+    {
+      "surface": "לברות",
+      "gloss": "کاڌو"
+    },
+    {
+      "surface": "למו",
+      "gloss": "کين"
+    },
+    {
+      "surface": "בשבר",
+      "gloss": "برباديءَ ۾"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ جي"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "پنھنجي قوم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:35.838969641Z",
+  "model": "glm-5.3"
+}

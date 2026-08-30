@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ مون تنهجي نڪ ۾ نٿ پائڻ ڏنو، ۽ تنهجي ڪنن ۾ ڪن-مڙيايون، ۽ تنهجي مٿي تي شاندار تاج.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "۽ مون ڏنو"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "نٿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "تنهنجو نڪ"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "۽ ڪن-مڙيايون"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "تنهنجا ڪن"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "۽ تاج"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "شاندار"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "تنهجي مٿي تي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:57:52.230358729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "چئو نه 'سازش' ان سڀ کي جيڪو هي قوم چوي 'سازش'؛ ۽ ⟨את⟩ ان جي خوف کي نه ڊڄو ۽ نه ڊپو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "چئو"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "سازش"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ان سڀ کي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "چوي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "سازش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ان جي خوف کي"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "ان جي خوف"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ڊڄو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "ڊپو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:57.707950348Z",
+  "model": "glm-5.3"
+}

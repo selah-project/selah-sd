@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ ٿيندو ته ڇهين ڏينهن تي ⟨اهي⟩ تيار ڪندو ⟨את⟩ جيڪي آڻين، ۽ ٿيندو ٻيڻو مٿي ان جيڪي روز روز چُڪين.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو ته"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ڇهين"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "تيار ڪندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جيڪي آڻين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "آڻين"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ٻيڻو"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ان جيڪي"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "چُڪين"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:02.483574157Z",
+  "model": "glm-5.3"
+}

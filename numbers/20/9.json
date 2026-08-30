@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "پوءِ موشي ياهوه جي اڳيان کان ⟨את⟩ مڻيو کڻيو، جيئن کيس حڪم ڏنو ويو هو.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "پوءِ کڻيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مڻيو"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "مڻيو (عصا)"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "جي اڳيان کان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "حڪم ڏنو ويو هو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:10.151815397Z",
+  "model": "glm-5.3"
+}

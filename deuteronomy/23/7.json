@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "سندن سلامتي ۽ سندن ڀلائي نه طلب ڪر، تنهجن سڀن ڏينهن ۾، هميشه لاءِ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "طلب ڪر"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "سندن سلامتي"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "۽ سندن ڀلائي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "تنهجن ڏينهن"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:21.682827493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "شمعون جي پٽن مان، لشڪر لاءِ بھادر پُڻ وارا، ست ھزار ۽ ھڪ سئو.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "مانن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "بھادر"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "پُڻ وارا"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "لشڪر لاءِ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "۽ ھڪ سئو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:24.768746726Z",
+  "model": "glm-5.3"
+}

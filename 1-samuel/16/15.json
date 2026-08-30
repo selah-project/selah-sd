@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ شاول جي ٻانهن چيس: ڏس هاڻي، ايلوهيم جي هڪ بڇڙي روح توکي ڊِپائي ٿي.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "چيس"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ٻانهن"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول جي"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم جي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بڇڙي"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "توکي ڊِپائي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:10:35.110872431Z",
+  "model": "glm-5.3"
+}

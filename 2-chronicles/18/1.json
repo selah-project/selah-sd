@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 18:1",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ يهوشافات وٽ مالا ۽ عزت گهڻائي ۾ هئي، ۽ هن اخاب سان سڱ جو ناتو ڳنڍيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "يهوشافات وٽ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "مالا"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "۽ عزت"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "گهڻائي ۾"
+    },
+    {
+      "surface": "ויתחתן",
+      "gloss": "سڱ ڳنڍيائين"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "اخاب سان"
+    }
+  ],
+  "timestamp": "2026-08-30T15:12:22.729065781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ اهارون ۽ سندس پٽن ⟨את⟩ سڀ ⟨the⟩ ڳالهيون ڪيون، جيڪي ياهوه موشي جي هٿ ذريعي حڪم ڏنيون.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "۽ سندس پٽن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ ڳالهيون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالهيون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنيون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ ذريعي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:24.743039918Z",
+  "model": "glm-5.3"
+}

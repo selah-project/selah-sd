@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "شمعون ۽ لوي ⟨آھن⟩ ڀائر؛ ظلم جا ھٿيار ⟨آھن⟩ ھنن جون تلوارون.",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "۽ لوي"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ڀائر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ھٿيار"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "ھنن جون تلوارون"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:59.076666464Z",
+  "model": "glm-5.3"
+}

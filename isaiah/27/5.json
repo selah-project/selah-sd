@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 27:5",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "يا هو مونجهي طاقت کي مَٿڙو ڪري، مون سان صلح ڪندو؛ صلح هو مون سان ڪندو.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "مَٿڙو ڪري"
+    },
+    {
+      "surface": "במעוזי",
+      "gloss": "مونجهي طاقت کي"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪندو"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "صلح"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "صلح"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "هو ڪندو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون سان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:53:51.726580111Z",
+  "model": "glm-5.3"
+}

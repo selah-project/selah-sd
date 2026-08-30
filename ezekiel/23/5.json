@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 23:5",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ اهولهه مون هيٺ زنا ڪئي ۽ پنهنجن محبوبن تي عاشق ٿي — آشور ڏانهن، پاڙيسرين تي.",
+  "tokens": [
+    {
+      "surface": "ותזן",
+      "gloss": "زنا ڪئي"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "اهولهه"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "مون هيٺ"
+    },
+    {
+      "surface": "ותעגב",
+      "gloss": "۽ عاشق ٿي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "پنهنجن محبوبن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "پاڙيسري"
+    }
+  ],
+  "timestamp": "2026-08-30T12:35:13.770419354Z",
+  "model": "glm-5.3"
+}

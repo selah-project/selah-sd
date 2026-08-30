@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ جو گوشت ڪنهن نجس شيءَ سان لڳي، اهو کائجي نه؛ باهه ۾ ساڙيو ويندو. ۽ گوشت — سڀڪو پاڪ ⟨ماڻهو⟩ اهو گوشت کائي سگهي ٿو.",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "۽ گوشت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "لڳي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ڪنهن به"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائجي"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ساڙيو ويندو"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "۽ گوشت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀڪو"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائيندو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:23.826626702Z",
+  "model": "glm-5.3"
+}

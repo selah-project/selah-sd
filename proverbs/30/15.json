@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ڄوئيءَ جون ٻه ڌيئون آھن: „ڏي، ڏي!“ ٽي شيءِ آھن جيڪي سيراب نه ٿينديون، ۽ چار جيڪي نه چونديون: ”بس“.",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "ڄوئيءَ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيئون"
+    },
+    {
+      "surface": "הב",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "הב",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "آھن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "سيراب ٿينديون"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "چونديون"
+    },
+    {
+      "surface": "הון",
+      "gloss": "بس (ڪافي)"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:13.718552995Z",
+  "model": "glm-5.3"
+}

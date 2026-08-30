@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "اسان جي گھر جا ڪَڙا اُنار آھن، ۽ اسان جا تختا ⟨את⟩ بر_wcypress آھن.",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "ڪَڙا"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "اسان جي گھر جا"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "اُنار"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "اسان جا تختا"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "بروٽ (سرو وڻ)"
+    }
+  ],
+  "timestamp": "2026-08-30T15:07:20.753879700Z",
+  "model": "glm-5.3"
+}

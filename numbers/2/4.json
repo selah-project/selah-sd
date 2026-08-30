@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ سندس لشڪر ۽ سندن ڳڻپ ٿي چار ۽ ستر ھزار ۽ ڇھ سؤ.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "۽ سندس لشڪر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "۽ سندن ڳڻپ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "۽ ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ ڇھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:37.467524733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 22:19",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ ھاڻي تہ اوهان به مھرباني ڪري هن رات ھت رھو، ۽ مان ڄاڻان ته ياهوه مون سان وڌيڪ ڇا speak ڪندو۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ ھاڻي تہ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "رھو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مھرباني ڪري"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ھت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "اوهان"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "هن رات"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "۽ مان ڄاڻان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ته ڇا"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "speak ڪندو"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "مون سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:49.233175061Z",
+  "model": "glm-5.3"
+}

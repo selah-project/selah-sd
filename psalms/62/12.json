@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 62,
+  "translation": "ھڪ ڀيرو ڳالھ ڪئي ايلوهيمءَ — ٻه ڀيرا هيءُ مون ٻُڌو — ته زور ايلوهيم جو ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ ڀيرو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ ڪئي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيمءَ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه ڀيرا"
+    },
+    {
+      "surface": "זו",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "مون ٻُڌو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ايلوهيم جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:35.234426432Z",
+  "model": "glm-5.3"
+}

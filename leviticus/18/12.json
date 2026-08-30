@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "تنهنجي پيءُ جي ڀيڻ جي ننگ ۽ عيبت نه کولجين؛ اها تنهنجي پيءُ جي گوشت آهي.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ننگ ۽ عيبت"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ڀيڻ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تنهنجي پيءُ جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کولجين"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تنهنجي پيءُ جي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اها ئي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:29.824940596Z",
+  "model": "glm-5.3"
+}

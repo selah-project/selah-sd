@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "ياهوه جون اکيون صداقت وارن ڏانھن آھن، ۽ سندس ڪن سندن رڙ تائين.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "اکيون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صداقت وارن"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "۽ سندس ڪن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "سندن رڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:20.666363385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 14:36",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ڪوھن حڪم ڪري ته گھر خالي ڪيو وڃي، اڃا ڪوھن ان کي ڏسڻ لاءِ اندر اچي، ۽ گھر جي سمھڻ شيءِ نجس نه ٿئي؛ پوءِ ان کان پوءِ ڪوھن گھر کي ڏسڻ لاءِ اندر اچي،",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "۽ حڪم ڪري"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھن"
+    },
+    {
+      "surface": "ופנו",
+      "gloss": "خالي ڪيو وڃي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "اڃا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھن"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ڏسڻ لءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نغاس"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نغاس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس ٿئي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سمورو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر ۾"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "۽ ان کان پوءِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھن"
+    },
+    {
+      "surface": "لראות",
+      "gloss": "ڏسڻ لءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:46.811490946Z",
+  "model": "glm-5.3"
+}

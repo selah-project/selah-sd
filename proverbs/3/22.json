@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ اھي تنھنجي نفش لاءِ زندگي ٿيندا ۽ تنھنجي گلن لاءِ چاھ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ اھي ٿيندا"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگي"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "تنھنجي نفش لاءِ"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "۽ چاھ"
+    },
+    {
+      "surface": "لגרגרתיך",
+      "gloss": "تنھنجي گلن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:33.276937405Z",
+  "model": "glm-5.3"
+}

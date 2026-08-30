@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "شينهن ڪڙڪايو آهي — ڪير نه ڊڄي؟ ادوناي ياهوه ڳالھ ڪئي آهي — ڪير نبوت نه ڪري؟",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "شينهن"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "ڪڙڪايو-آهي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ڊڄي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ-ڪئي-آهي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "نبوت-ڪري"
+    }
+  ],
+  "timestamp": "2026-08-30T12:47:54.494747555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ شلوم ⟨את⟩ يقميا کي پيدا ڪيو، ۽ يقميا ⟨את⟩ ايليشماع کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "۽ شلوم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يقميا"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "يقميا"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "۽ يقميا"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ايليشماع"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "ايليشماع"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:37.507208399Z",
+  "model": "glm-5.3"
+}

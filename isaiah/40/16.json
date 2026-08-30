@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ لبنان ساڙڻ لاءِ ڪافي ناھي، ۽ سندس جانور سڙيل قرباني لاءِ ڪافي ناھن.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "۽ لبنان"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناھي"
+    },
+    {
+      "surface": "די",
+      "gloss": "ڪافي"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ساڙڻ لاءِ"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "۽ سندس جانور"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناھن"
+    },
+    {
+      "surface": "די",
+      "gloss": "ڪافي"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "سڙيل قرباني"
+    }
+  ],
+  "timestamp": "2026-08-30T11:59:19.099248379Z",
+  "model": "glm-5.3"
+}

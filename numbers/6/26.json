@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ياهوه پنھنجو منھن تو ڏي کڻي ۽ تو کي سلامتي ڏئي.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "کڻي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "پنھنجو منھن"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تو ڏي"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "۽ ڏئي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو کي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:46.279083355Z",
+  "model": "glm-5.3"
+}

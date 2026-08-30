@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "حڪيم جو تعليم زندگيءَ جو چشمو آهي، ⟨ته ماڻهو⟩ موت جي ٻيهن کان هلي وڃي.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "تعليم"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حڪيم جو"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "چشمو"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگيءَ جو"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "هلي وڃي"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "ٻيهن کان"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:17.103069226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ عمر ⟨هو⟩ عيفه جو ڏهون حصو آهي.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "۽ عمر"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "ڏهون حصو"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "عيفه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩ آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:19.120328826Z",
+  "model": "glm-5.3"
+}

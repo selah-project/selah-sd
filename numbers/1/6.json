@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "شمعون لاءِ شلومي ايل، تسوري شداي جو پٽ.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "شمعون لاءِ"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شلومي ايل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "تسوري شداي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:31.705465712Z",
+  "model": "glm-5.3"
+}

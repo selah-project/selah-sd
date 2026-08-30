@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ ياهوه ⟨את⟩ يوسف سان هو، ۽ مٿس خيسيد نچايائين، ۽ قيدخاني جي سردار جي نظرن ۾ کيس مهرباني ڏنائين.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ هو ٿيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "۽ نچايائين"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏنائين"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "مهرباني"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي نظرن ۾"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "جي"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "قيدخاني"
+    }
+  ],
+  "timestamp": "2026-08-30T09:51:48.413120074Z",
+  "model": "glm-5.3"
+}

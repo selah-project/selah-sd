@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 28:29",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "اھا <…> به ياهوه صبائوت وٽان نڪتي آھي؛ هن صلاح کي عجيب ڪيو، هن توشيه کي وڏو ڪيو.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اھا"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "وٽان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "نڪتي آھي"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "عجيب ڪيو"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "وڏو ڪيو"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "توشيه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:54:47.228507932Z",
+  "model": "glm-5.3"
+}

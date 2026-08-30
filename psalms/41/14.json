@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "برڪت وارو آھي ياهوه، ايلوهيم اسرائيل جو، eternity کان ۽ eternity تائين؛ آمين ۽ آمين.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "برڪت وارو آھي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جو"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "هميشہ کان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ ... تائين"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "هميشہ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمين"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "۽ آمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:13.608442192Z",
+  "model": "glm-5.3"
+}

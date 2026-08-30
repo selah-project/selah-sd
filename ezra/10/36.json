@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ونيه، مريموت، اليشيب.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "ونيه"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "مريموت"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "اليشيب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:39.841750310Z",
+  "model": "glm-5.3"
+}

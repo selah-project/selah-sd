@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "بن-حِسيد اَرُبّوت ۾؛ سُوڪو ۽ سڄي حِفير جي زمين سندس هئي.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بن-حِسيد"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حِسيد"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "اَرُبّوت ۾"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس هئي"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "سُوڪو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڄي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "حِفير"
+    }
+  ],
+  "timestamp": "2026-08-30T14:48:38.012700035Z",
+  "model": "glm-5.3"
+}

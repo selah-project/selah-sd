@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ سعير جا پٽ: لوطان ۽ شوبل ۽ صبعون ۽ عنه ۽ ديشون ۽ عيصر ۽ ديشان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پٽ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعير"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطان"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "۽ شوبل"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "۽ صبعون"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "۽ عنه"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "۽ ديشون"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "۽ عيصر"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "۽ ديشان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:30.445400784Z",
+  "model": "glm-5.3"
+}

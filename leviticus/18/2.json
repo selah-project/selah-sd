@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "اسرائيل جي پٽن سان ڳالھاءِ ۽ کين چؤ: مان آھيان ياهوه، توهان جو ايلوهيم.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ چؤ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "توهان جو ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:55.421816726Z",
+  "model": "glm-5.3"
+}

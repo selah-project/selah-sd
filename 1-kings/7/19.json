@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ڪوٽارتن جو، جيڪي ٿنٻن جي سرِ تي منڊوڻ ۾ آهن، ڪم ڪنول جهڙو هو — چار اِيم۔",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "۽ ڪوٽارتن جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرِ"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ٿنٻن جي"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "ڪنول جهڙو"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "منڊوڻ ۾"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اِيم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:29:45.539066083Z",
+  "model": "glm-5.3"
+}

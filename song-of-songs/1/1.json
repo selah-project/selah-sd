@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "گيتن جو گيت، جيڪو شلمو جو آھي.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "گيتن جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلمو جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:52.795878803Z",
+  "model": "glm-5.3"
+}

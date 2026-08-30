@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ مسح ٿيل ڪوهن پار جي رت مان کڻي، ان ⟨את⟩ کي ملاقات جي خيمي ۾ آند.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "کڻي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوهن"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "مسح ٿيل"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "رت مان"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "پار جي"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "آند"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ان (رت) کي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمي"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:46.412008647Z",
+  "model": "glm-5.3"
+}

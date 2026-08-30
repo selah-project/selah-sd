@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "گڏجي قِٻي ويا، گڏجي جُڪي ويا؛ بار کي بچائي نه سگهيا، پر ⟨هي⟩ خود قيدي ٿي ويا.",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "قِٻي ويا"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "جُڪي ويا"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏجي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "سگهيا"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "بچائي"
+    },
+    {
+      "surface": "משא",
+      "gloss": "بار کي"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "۽ سندن نفس"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "قيدي ۾"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:00:37.780760517Z",
+  "model": "glm-5.3"
+}

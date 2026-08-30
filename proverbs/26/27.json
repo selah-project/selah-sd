@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "جو کڻي کوٽي ٿو، تنھن ۾ ئي ڪري پوندو؛ ۽ جو پٿر ڏاري ٿو، اهو سندس ڏانھن موٽندو.",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "کوٽي ٿو"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "کُھ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تنھن ۾"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڪري پوندو"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "۽ پٿر ڏاري ٿو"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "سندس ڏانھن"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "موٽندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:04.326642237Z",
+  "model": "glm-5.3"
+}

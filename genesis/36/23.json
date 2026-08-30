@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ اھي شوال جا پُٽ ھيا: علوان ۽ مانحت ۽ عيبال، شي فو ۽ اونام۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شوال جا"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "علوان"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "۽ مانحت"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "۽ عيبال"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "شي فو"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "۽ اونام"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:30.678265218Z",
+  "model": "glm-5.3"
+}

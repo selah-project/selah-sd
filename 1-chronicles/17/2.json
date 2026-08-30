@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "ته ناتن داويد کي چيو، جيڪو تنھنجي دل ۾ آھي سو ڪر، ڇوته ايلوهيم تنھنجي ساڻ آھي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جيڪو سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "تنھنجي دل ۾"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تنھنجي ساڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:04.707186532Z",
+  "model": "glm-5.3"
+}

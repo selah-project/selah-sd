@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 2:21",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ان کان پوءِ حصرون مکير جي ڌيءُ — گلعاد جي پيءُ — وٽ آيو، ۽ ⟨هو⟩ هن کي زالي حيثيت ۾ ورتو، ۽ ⟨هو⟩ سٺ سالن جو پٽ هو، ۽ هن ⟨את⟩ سگوب کي ڄڻيو.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ان کان پوءِ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حصرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءُ"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "مکير"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "زالي حيثيت ۾ ورتو"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٺ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "۽ ڄڻيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سگوب"
+    },
+    {
+      "surface": "שגוב",
+      "gloss": "سگوب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:40.638332190Z",
+  "model": "glm-5.3"
+}

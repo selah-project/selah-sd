@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "عزگد جي پٽن جو ٻه هزار ٽي سَو ٽيهه (ٻارهن)۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "عزگد"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ٻه هزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:43.431840537Z",
+  "model": "glm-5.3"
+}

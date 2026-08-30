@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 15:5",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "قهات جي پٽن مان اورييل ⟨سر⟩ ۽ سندس ڀائر سَو ۽ ويهه.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "پٽن مان"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "اورييل"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨سر⟩"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "۽ سندس ڀائر"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:13.447767147Z",
+  "model": "glm-5.3"
+}

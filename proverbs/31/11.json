@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "کانئس مڪمل ڀروسي ۾ آھي سندس مڙس جو دل، ۽ لوٽ مال جي اڻھوند نه ٿيندو اٿس.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "مڪمل ڀروسي ۾"
+    },
+    {
+      "surface": "בה",
+      "gloss": "کانئس"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "سندس مڙس"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "۽ لوٽ مال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "اڻھوند ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:28.516102034Z",
+  "model": "glm-5.3"
+}

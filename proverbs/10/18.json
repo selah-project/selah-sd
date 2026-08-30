@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "جيڪو ڪوڙين چوڻين ۾ نفرت لڪائي ٿو، ۽ جيڪو بهتان ٿا ڦھلائي، ⟨اھو⟩ نادان آھي.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "لڪائيندڙ"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "نفرت"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "چوڻين"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙين"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "۽ ڦھلائيندڙ"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "بهتان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اھو⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:40.403715261Z",
+  "model": "glm-5.3"
+}

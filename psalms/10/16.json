@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ياهوه بادشاھ آھي هميشہ ۽ هميشہ؛ قومون سندس زمين مان ناس ٿي ويون.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشہ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ هميشہ"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ناس ٿي ويون"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "سندس زمين مان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:00:54.644929795Z",
+  "model": "glm-5.3"
+}

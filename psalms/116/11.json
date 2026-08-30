@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 116,
+  "translation": "آئون مون پنهنجي بيقراريءَ ۾ چيو ته سڀ ماڻهو ڪوڙا آهن.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "آئون"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "پنهنجي بيقراريءَ ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ڪوڙا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:34.780030480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "منهنجو دوست مون لاءِ ڪوپر (هنا جي گلن) جو ڇڳو آھي، عين گدي جي ٻڙين ۾.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "ڇڳو"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "ڪوپر (هنا جي گلن) جو"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "منهنجو دوست"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "ٻڙين ۾"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "گدي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:38.280053137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "پنهنجن اکين کي ننڊ نه ڏي، ۽ پنهنجن پلکين کي اُجهامو نه.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ننڊ"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "پنهنجن اکين کي"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "۽ اُجهامو"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "پنهنجن پلکين کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:30.158789645Z",
+  "model": "glm-5.3"
+}

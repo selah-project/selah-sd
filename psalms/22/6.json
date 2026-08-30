@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "توتي ئي پٽارجا ۽ بچي ويا؛ تنهن ۾ توڪل ڪيو ۽ شرمندا نه ٿيا.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "توتي ئي"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "پٽارجا"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "۽ بچي ويا"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تنهن ۾"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "توڪل ڪيو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "شرمندا ٿيا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:48.164929549Z",
+  "model": "glm-5.3"
+}

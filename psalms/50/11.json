@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "مان جبلن جي سڀ پکي سڃاڻان ٿو، ۽ ٻيلي جو جانور مون سان آهي.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "سڃاڻان ٿو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "پکي"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "جبلن جي"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "۽ جانور"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ٻيلي جو"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "مون سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:43.132481337Z",
+  "model": "glm-5.3"
+}

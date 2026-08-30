@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ياهوه مڇيءَ سان فرمايو، ۽ اها ⟨את⟩ يوناهه کي اُڇي پٽي ڏانهن اُگھڙي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ فرمايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "مڇيءَ سان"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "۽ اُگھڙي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوناهه کي"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "يوناهه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "پٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:50:16.321283213Z",
+  "model": "glm-5.3"
+}

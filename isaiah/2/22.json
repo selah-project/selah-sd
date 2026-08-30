@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ماڻھوءَ کان ⟨اهو⟩ ڇڏي ڏيو، جنھن جي نَڪَ ۾ ساھ آھي، ڇوته ھو ڪھڙي ڳڻپ ۾ آھي؟",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "ڇڏي ڏيو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻھوءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنھن"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ساھ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "نَڪَ ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ڪھڙي ڳڻپ ۾"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "ڳڻيو وڃي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ھو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:51:56.118628709Z",
+  "model": "glm-5.3"
+}

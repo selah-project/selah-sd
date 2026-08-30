@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "اُھو اتر کي توھيءَ تي پکيڙي ٿو، زمين کي ڪجھه بنا لٽڪائي ٿو.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "پکيڙي ٿو"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اتر"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "توھيءَ"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "لٽڪائي ٿو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "על",
+      "gloss": "کي"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بنا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڪجھه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:35.190927586Z",
+  "model": "glm-5.3"
+}

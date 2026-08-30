@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 28:12",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "جن کي هو چيو: “هي ⟨آهي⟩ آرام، ٿڪيل کي آرام ڏيو، ۽ هي ⟨آهي⟩ سُکَ” — پر اُهي ٻڌڻ لاءِ تيار نه ٿيا.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جن کي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "کي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "آرام ڏيو"
+    },
+    {
+      "surface": "לעיף",
+      "gloss": "ٿڪيل کي"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "۽ هي"
+    },
+    {
+      "surface": "המרגעה",
+      "gloss": "سُکَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "تيار ٿيا"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ٻڌڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:54:07.125203226Z",
+  "model": "glm-5.3"
+}

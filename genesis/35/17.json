@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 35:17",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ ٿيو، جڏھن کيس پٽ ڄمائيندي سخت پيڙا ٿي، تڏھن دائيءَ چيس: نه ڊڄ، ڇوته هيءُ به تو لاءِ پٽ ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "בהקשתה",
+      "gloss": "جڏھن کيس سخت پيڙا ٿي"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "پٽ ڄمائيندي"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "تڏھن چيس"
+    },
+    {
+      "surface": "לה",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "دائيءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ڊڄ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:39.580504480Z",
+  "model": "glm-5.3"
+}

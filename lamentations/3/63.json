@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "سندن وهڻ ۽ سندن اُٿڻ — ڏسه، مان سندن گيت آهيان.",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "سندن وهڻ"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "۽ سندن اُٿڻ"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "ڏسه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "سندن گيت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:09.638740976Z",
+  "model": "glm-5.3"
+}

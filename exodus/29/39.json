@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "⟨את⟩ پهرئين مينهن کي صبح جو ڪندين، ۽ ⟨את⟩ ٻئي مينهن کي شام جو وچ ۾ ڪندين.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پهرئين مينهن کي"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "مينهن"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "پهريون"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ڪندين"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح جو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ٻئي مينهن کي"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "مينهن"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ڪندين"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "شام جو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:07:07.561259909Z",
+  "model": "glm-5.3"
+}

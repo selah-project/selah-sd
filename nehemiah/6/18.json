@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 6:18",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇاڪته يهودا ۾ گهڻا سندس قسمت سان ٻڌل هئا، ڇاڪته هو شکنيا پٽ ارح جو ڄنائي هو، ۽ سندس پٽ يهوحنان مشلام پٽ برخيا جي ڌيءَ ⟨את⟩ کي ورتي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪته"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گهڻا"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "يهودا ۾"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ٻڌل ماڻهو"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "قسمت سان"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪته"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ڄنائي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לשכניה",
+      "gloss": "شکنيا جو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ارح"
+    },
+    {
+      "surface": "ויהוחנן",
+      "gloss": "۽ يهوحنان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ورتي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڌيءَ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مشلام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "برخيا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:06:13.065124172Z",
+  "model": "glm-5.3"
+}

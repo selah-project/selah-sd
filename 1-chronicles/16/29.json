@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 16:29",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ياهوه کي سندس نالي جو جلال ڏيو؛ مڻيا کڻي اڳيان اچو؛ پاڪ جي شان ۾ ياهوه کي سجدو ڪريو.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ڏيو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالي جو"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "کڻي"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "مڻيا"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "۽ اچو"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "سجدو ڪريو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "جي شان ۾"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:21.284215444Z",
+  "model": "glm-5.3"
+}

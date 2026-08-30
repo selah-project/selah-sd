@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "سندس نپش چڱائي ۾ رهندي، ۽ سندس نسل زمين جو وارث ٿيندو.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "سندس نپش"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "چڱائي ۾"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "رهندي"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "۽ سندس نسل"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "وارث ٿيندو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:08.514460388Z",
+  "model": "glm-5.3"
+}

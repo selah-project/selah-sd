@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 17:32",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ داوود شاول کي چيو: ڪنھن ماڻھوءَ جو دل مٿس نه ٿيڻ گھرجي؛ تنهنجو ٻڏو ويندڙ ۽ هن فلستيءَ سان وڙهندو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ٿيڻ گھرجي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھوءَ جو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تنهنجو ٻڏو"
+    },
+    {
+      "surface": "יילך",
+      "gloss": "ويندڙ"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "۽ وڙهندو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "فلستيءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:11:48.838787647Z",
+  "model": "glm-5.3"
+}

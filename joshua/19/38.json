@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 19:38",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ يرون، ۽ مگدل-ايل، حرم، ۽ بيت-عنات، ۽ بيت-شميس — نؤ ورليهه شهرن سميت ۽ سندن ڳوٺ.",
+  "tokens": [
+    {
+      "surface": "ולון",
+      "gloss": "۽ يرون"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "۽ مگدل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حرم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ بيت"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "عنات"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ بيت"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شميس"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نؤ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ورليهه"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "۽ سندن ڳوٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:34.504732045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پر قهات جي پٽن کي ڪجهه به نه ڏنائين، ڇو ته مقدس جي خدمت مٿن ⟨هئي⟩؛ ڪلهن تي ⟨هو⟩ کڻندا ⟨هئا⟩.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "پر قهات جي پٽن کي"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏنائين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس جي"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "مٿن"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "ڪلهن تي"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "کڻندا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:09.161765755Z",
+  "model": "glm-5.3"
+}

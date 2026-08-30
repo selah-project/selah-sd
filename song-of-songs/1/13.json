@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "منهنجو دوست مون لاءِ مر جو ڳنڍڙو آھي، ⟨هو⟩ منهنجن ٻن چڇن جي وچ ۾ رات ٿيندو آھي.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ڳنڍڙو"
+    },
+    {
+      "surface": "המר",
+      "gloss": "مر جو"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "منهنجو دوست"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ٻن چڇن"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "رات ٿيندو آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:38.279760756Z",
+  "model": "glm-5.3"
+}

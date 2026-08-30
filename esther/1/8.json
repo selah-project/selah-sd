@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ پيئڻ دات موجب هو، ج coercion نہ هو؛ ڇوته بادشاهه پنھنجي گھر جي سڀني وڏن تي اھو مقرر ڪيو هو ته اھي هر ھڪ ماڻھوءَ جي مرضي موجب ڪن.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "۽ پيئڻ"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "دات موجب"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "زوري coercion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "مقرر ڪيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڏن"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "پنھنجي گھر جي"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ته ڪن"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "مرضي موجب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ھر ھڪ ماڻھوءَ جي"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ھر ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:54:02.081781446Z",
+  "model": "glm-5.3"
+}

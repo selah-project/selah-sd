@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ڪوبه بادشاهه وڏي لشڪر سان بچي نٿو سگهي؛ سورهه وڏي طاقت سان ڇڏايو نٿو وڃي.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ڪوبه... نٿو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "بچي سگهي"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "وڏي... سان"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "سورهه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "ڇڏايو وڃي"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "وڏي... سان"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:37.793577521Z",
+  "model": "glm-5.3"
+}

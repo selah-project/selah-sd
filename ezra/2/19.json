@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ٻچا حاشوم جا، ٻه سَو ۽ ويهه ۽ ٽي.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ٻچا"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "حاشوم"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سَو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "۽ ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:42.792224417Z",
+  "model": "glm-5.3"
+}

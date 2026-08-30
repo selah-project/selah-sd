@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 28:12",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ ياهوه جو لفظ يرميا ڏانھن آيو، حنانيا نبي جي ⟨את⟩ جوءِ کي يرميا نبي جي ڳچيءَ مان ٽوڙڻ کان پوءِ، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "يرميا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "שבור",
+      "gloss": "ٽوڙڻ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حنانيا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جوءِ"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "جوءِ کي"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "مان"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "ڳچيءَ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "يرميا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي جي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:16:10.829930420Z",
+  "model": "glm-5.3"
+}

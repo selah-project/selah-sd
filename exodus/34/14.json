@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "ڇوڪي تون ٻئي ايل کي سجدو نه ڪرين؛ ڇوڪي ياهوه نٽو آهي سندس نالو، نٽو ايل آهي هُو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "سجدو ڪرين"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ايل کي"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "نٽو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "نٽو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هُو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:08:47.300619348Z",
+  "model": "glm-5.3"
+}

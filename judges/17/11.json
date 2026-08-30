@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ لوي راضي ٿيو ⟨את⟩ ⟨the⟩ مڙس سان رھڻ لاءِ؛ ۽ نوجوان ان لاءِ ان جي پٽن مان ھڪجهڙو ٿي ويو.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "راضي ٿيو"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لوي"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "رھڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مڙس"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مڙس"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان لاءِ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ھڪجهڙو"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "ان جي پٽن مان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:03:36.332157771Z",
+  "model": "glm-5.3"
+}

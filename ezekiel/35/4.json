@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "تنهنجا شهر ٿي ويران ڪندس، ۽ تون ٿيندين ويران، ۽ تون ڄاڻندو ته آئون ياهوه آهيان.",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "تنهنجا شهر"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ويران"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ڪندس"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ويران"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿيندين"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "۽ تون ڄاڻندو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آئون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:39:17.326365743Z",
+  "model": "glm-5.3"
+}

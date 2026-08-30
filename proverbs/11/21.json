@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "هٿ کان هٿ، بريءَ کي معاف نه ڪيو ويندو، پر نيڪن جو اولاد بچي ويندو.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "کان هٿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "معاف ڪيو ويندو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بريءَ کي"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "پر اولاد"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نيڪن جو"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "بچي ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:49.552906673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "۽ يعقوب فرعوه کي ⟨آڏو⟩ برڪت ڏني، ۽ فرعوه جي اڳيان ⟨تان⟩ نڪتو.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "۽ برڪت ڏني"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرعوه"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعوه"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "۽ نڪتو"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "جي اڳيان ⟨تان⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعوه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:04.055509748Z",
+  "model": "glm-5.3"
+}

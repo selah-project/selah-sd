@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 109,
+  "translation": "سندس لاءِ خيسيد ڪڍڻ وارو ڪو ⟨نه⟩ هجي، ۽ سندس يتيمن تي مهربان ڪو ⟨نه⟩ هجي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس لاءِ"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ڪڍڻ وارو"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "مهربان"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "سندس يتيمن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:48.120317058Z",
+  "model": "glm-5.3"
+}

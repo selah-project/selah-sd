@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 27:2",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ ياهوه جي اکين ۾ سڌو ڪيائين، جيئن عزياهو سندس پيءُ ڪيو ھو؛ رڳو ياهوه جي مندر ۾ نه ويو؛ ۽ ماڻھو اڃا خرابي ڪري رھيا ھئا.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيائين"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "سڌو"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکين ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "جيئن سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "عزياهو"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "سندس پيءُ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ويو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "مندر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "۽ اڃا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "خرابي ڪري رھيا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:27:40.282752748Z",
+  "model": "glm-5.3"
+}

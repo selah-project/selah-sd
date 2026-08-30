@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "مان ڏٺو ⟨את⟩ سڀ ڪمن کي جيڪي ڪيا ويا سج هيٺ، ۽ ڏسو، سڀ ⟨هو⟩ هٻل آهي ۽ رُوح جي ڏکwik.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "مان ڏٺو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ ڪمن کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "ڪمن کي"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "جن ڪيا ويا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هٻل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "۽ ڏکwik"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوح"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:16.085791044Z",
+  "model": "glm-5.3"
+}

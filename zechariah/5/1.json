@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "پوءِ مون واپس موڙيو، ۽ پنهنجيون اکيون کڻي ڏٺم، ۽ ڏسو ته هڪ اُڏامندڙ لکيل لڪڙ.",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "پوءِ مون واپس موڙيو"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ڪڍيون"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "اکيون"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ڏٺم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو ته"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "لکيل لڪڙ"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "اُڏامندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:00:56.065400411Z",
+  "model": "glm-5.3"
+}

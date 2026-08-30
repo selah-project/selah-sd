@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "حيران ٿيو آسمان، هن تي، ۽ ڏري پيو، بلڪل ويران ٿي وڃو، ياهوه جو فرمون آهي.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "حيران ٿيو"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "על",
+      "gloss": "هن تي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "۽ ڏري پيو"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ويران ٿيو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بلڪل"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:06:33.691028627Z",
+  "model": "glm-5.3"
+}

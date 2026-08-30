@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 19:28",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "بي-فائدي شاهد انصاف تي مذاق ڪندو آهي، ۽ شريرن جي وات برائي ڳڙڪائيندو آهي.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بي-فائدي"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "مذاق ڪندو آهي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "۽ وات"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شريرن جي"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "ڳڙڪائيندو آهي"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:34.546614941Z",
+  "model": "glm-5.3"
+}

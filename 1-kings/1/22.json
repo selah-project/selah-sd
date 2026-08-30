@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 1:22",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ڏسو، اُھو اڃا بادشاهه سان ڳالھائي رهي هئي ته ناتن نبي اچي ويو.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "עודנה",
+      "gloss": "اڃا"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "ڳالھائي رهي هئي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "۽ ناتن"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:26:42.067712902Z",
+  "model": "glm-5.3"
+}

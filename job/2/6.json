@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ياهوه چيو هشطن کي: هيءُ پڻ تنهنجي هٿ ۾ آهي؛ رڳو ⟨את⟩ سندس نَفَش کي بچاءُ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "هشطن"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "هيءُ پڻ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "تنهنجي هٿ ۾"
+    },
+    {
+      "surface": "אך",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس نَفَش"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "سندس نَفَش"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "بچاءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:34:18.972625606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ ھاڻي موٽ ۽ سلامتيءَ سان وڃ، ۽ پلشتين جي سردارن جي نظر ۾ ڪا برائي نه ڪر.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ ھاڻي"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "موٽ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "۽ وڃ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "سلامتيءَ سان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ڪر"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ڪا برائي"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي نظر ۾"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:16:23.004861825Z",
+  "model": "glm-5.3"
+}

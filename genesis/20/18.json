@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 20:18",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "ڇوته ياهوه ابيمليخ جي گهر جي سڀني گربهن کي بند ڪيو هو، سارہ ابراهام جي زال جي ڳالھ جي ڪري.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "بند"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "ڪيو هو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "جي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "گربهن"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "جي گهر"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ابيمليخ"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي ڪري"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارہ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "جي زال"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:03.596913977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "تون انهن سان ۽ سندن ايلوهيم سان عهد نه ڪندين.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכרت",
+      "gloss": "ڪندين"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن سان"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "۽ سندن ايلوهيم سان"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عهد"
+    }
+  ],
+  "timestamp": "2026-08-30T10:04:44.170650785Z",
+  "model": "glm-5.3"
+}

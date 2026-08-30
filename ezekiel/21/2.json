@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 21:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "آدم جي پٽ، پنهنجو منهن ڏکڻ ڏانهن ڪر، ۽ ڏکڻ ڏانهن ٽپاءُ ڪر، ۽ سڌ جي جنگل ڏانهن نگب ۾ نبوت ڪر:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ڪر"
+    },
+    {
+      "surface": "پنهنجو منهن",
+      "gloss": "پنهنجو منهن"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ڏکڻ"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "۽ ٽپاءُ ڪر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "ڏکڻ"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "۽ نبوت ڪر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "سڌ جي"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "نگب"
+    }
+  ],
+  "timestamp": "2026-08-30T12:33:37.881823031Z",
+  "model": "glm-5.3"
+}

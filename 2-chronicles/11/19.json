@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ان کي پٽن کي جنم ڏنائين — يعوش ⟨את⟩ ۽ شمرياه ⟨את⟩ ۽ زهام ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "جنم ڏنائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يعوش"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "يعوش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شمرياه"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "شمرياه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "زهام"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "زهام"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:27.582027853Z",
+  "model": "glm-5.3"
+}

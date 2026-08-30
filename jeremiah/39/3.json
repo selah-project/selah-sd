@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 39:3",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ بابل جي بادشاھ جا سارا امير آيا ۽ وچئين دروازي ۾ ويٺا — نرگل شريفصڙ، سمحگر نبو، شرفڪيم رب سرس، نرگل شريفصڙ رب مگ، ۽ بابل جي بادشاھ جي باقي سارن اميرن سميت.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "۽ آيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "امير"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ جي"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل جي"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "۽ ويٺا"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازي ۾"
+    },
+    {
+      "surface": "התוך",
+      "gloss": "وچ واري"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "نرگل"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ش"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ريفصڙ"
+    },
+    {
+      "surface": "סמגר",
+      "gloss": "سمحگر"
+    },
+    {
+      "surface": "نבו",
+      "gloss": "نبو"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ش"
+    },
+    {
+      "surface": "סכים",
+      "gloss": "رفڪيم"
+    },
+    {
+      "surface": "רב",
+      "gloss": "رب"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "سرس"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "نرگل"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ش"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ريفصڙ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "رب"
+    },
+    {
+      "surface": "מג",
+      "gloss": "مگ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سارا"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "باقي"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "امير"
+    },
+    {
+      "surface": "مלך",
+      "gloss": "بادشاھ جي"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:20:48.499608938Z",
+  "model": "glm-5.3"
+}

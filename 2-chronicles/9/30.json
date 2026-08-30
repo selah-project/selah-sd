@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ شليموه يروشلم ۾ سڄي اسرائيل تي چاليهه ورهيه بادشاهي ڪئي.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "۽ بادشاهي ڪئي"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شليموه"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليهه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورهيه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:27.249428609Z",
+  "model": "glm-5.3"
+}

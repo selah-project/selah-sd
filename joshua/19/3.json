@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ حصر شوعال ۽ بالاہ ۽ عصم،",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "۽ حصر"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوعال"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "۽ بالاہ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "۽ عصم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:27.301188300Z",
+  "model": "glm-5.3"
+}

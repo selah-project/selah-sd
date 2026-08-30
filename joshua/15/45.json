@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 15:45",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "عقرون، سندس ڌيون ۽ سندس ڳوٺ.",
+  "tokens": [
+    {
+      "surface": "עקרון",
+      "gloss": "عقرون"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "۽ سندس ڌيون"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "۽ سندس ڳوٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:40.063114279Z",
+  "model": "glm-5.3"
+}

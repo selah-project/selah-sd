@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڳجهه سان ⟨پاڻ کي⟩ ڍڪي ڇڏيوءِ، جيئن دعا لنگهي ئي نه سگهي.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "ڍڪي ڇڏيوءُ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ڳجهه سان"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "لنگهي"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:52.788195053Z",
+  "model": "glm-5.3"
+}

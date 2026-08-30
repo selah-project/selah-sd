@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ قھاتي خاندانن جي پيءُ جي گھر جو سردار اليصپان، عزيعيل جو پٽ ھو.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "۽ سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پيءُ جي"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "خاندانن جي"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "قھاتي"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "اليصپان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عزيعيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:19.332677237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ پڄاڙي جو دل مضبوط ٿي ۽ ھن انھن جي نه ٻڌي، جيئن ياهوه چيو ھو.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "مضبوط ٿي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پڄاڙي جو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌي"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انھن جي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو ھو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:58:50.846219474Z",
+  "model": "glm-5.3"
+}

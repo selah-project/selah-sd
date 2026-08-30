@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 23:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "اور اليعزر جا پٽ هئا: رحبيا سردار، ۽ اليعزر جا ٻيا پٽ ڪينا هئس، ۽ رحبيا جي پٽن وڏي وڌائي ڪئي.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "اليعزر"
+    },
+    {
+      "surface": "רחביה",
+      "gloss": "رحبيا"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هئس"
+    },
+    {
+      "surface": "לאליעזר",
+      "gloss": "اليعزر جا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻيا"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "רחביה",
+      "gloss": "رحبيا جي"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "وڌيا"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ڏاڍو"
+    }
+  ],
+  "timestamp": "2026-08-30T15:11:12.762591067Z",
+  "model": "glm-5.3"
+}

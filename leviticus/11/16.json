@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ⟨את⟩ يَعنا جي ڌيءَ ۽ ⟨את⟩ تخمس ۽ ⟨את⟩ شحف ۽ ⟨את⟩ نٽ کي پنھنجي جنس موجب.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "يَعنا جي ڌيءَ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "يَعنا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "تخمس"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "تخمس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "شحف"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "شحف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "نٽ"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "نٽ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "پنھنجي جنس موجب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:17.333533333Z",
+  "model": "glm-5.3"
+}

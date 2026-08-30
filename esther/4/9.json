@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ هٿَڪ آيو ۽ ايستر کي ⟨את⟩ مُرديخي جا لفظ ٻُڌايا.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "התך",
+      "gloss": "هٿَڪ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ٻُڌايا"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ايستر کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُرديخي جا لفظ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مُرديخي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:48.914834524Z",
+  "model": "glm-5.3"
+}

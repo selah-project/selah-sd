@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ ٻيهر ادومي آيا ۽ يهوداہ ۾ ڦٽڪار ڪيائون ۽ قيد Glenn ڪيائون — “۽ قيدي ڪري ويا، هڪ قيدي کي هلا ڪيائون.”",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "۽ ٻيهر"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "ادومي"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ڦٽڪار ڪيائون"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "يهوداہ ۾"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ڪري ويا"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "قيدي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:27:44.637422838Z",
+  "model": "glm-5.3"
+}

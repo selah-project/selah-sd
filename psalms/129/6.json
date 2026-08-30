@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 129,
+  "translation": "اھي ڇتين جي گاھ وانگر ٿين، جيڪا سُڪي کان اڳ ۾، ڪُڍجي وڃي ٿي.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ٿين"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "گاھ وانگر"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "ڇتين"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "کان اڳ ۾"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ڪُڍجي وڃي ٿي"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "سُڪي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:15.424350351Z",
+  "model": "glm-5.3"
+}

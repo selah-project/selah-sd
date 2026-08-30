@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "سادہ لوحَن کي چالاڪي ڏيڻ لاءِ، نوجوان کي ڄاڻ ۽ تدبير ڏيڻ لاءِ —",
+  "tokens": [
+    {
+      "surface": "لתת",
+      "gloss": "ڏيڻ لاءِ"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "سادہ لوحَن"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "چالاڪي"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاڻ"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "۽ تدبير"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:07.718838354Z",
+  "model": "glm-5.3"
+}

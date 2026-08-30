@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 41:37",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ ڳالهه پڙاچيءَ جي اکين ۾، ۽ سندس سڀني ٻانهن جي اکين ۾ چڱي لڳي.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "۽ چڱي لڳي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالهه"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکين ۾"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پڙاچيءَ جي"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "۽ اکين ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "سندس ٻانهن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:09.255274375Z",
+  "model": "glm-5.3"
+}

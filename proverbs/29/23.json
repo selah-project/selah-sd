@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "ماڻهوءَ جي وڏائي ⟨اُن کي⟩ جھڪائي ٿي، ۽ روح ۾ جھڪيل کي عزت سھي ٿي.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "وڏائي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ جي"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "⟨اُن کي⟩ جھڪائي ٿي"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "۽ جھڪيل"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح ۾"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "سھي ٿي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:37.545733815Z",
+  "model": "glm-5.3"
+}

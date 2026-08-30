@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 27:32",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ يونatan داوود جو چاچو مشير ھو، ھڪ سمجھدار ماڻھو ۽ ڪاتب — اھو ئي؛ ۽ يحيائيل بن حكموني بادشاھ جي پٽن سان ھو.",
+  "tokens": [
+    {
+      "surface": "ויהונתן",
+      "gloss": "۽ يونatan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "چاچو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود جو"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "مشير"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "سمجھدار"
+    },
+    {
+      "surface": "וסופר",
+      "gloss": "۽ ڪاتب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو ئي"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "۽ يحيائيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חכמוני",
+      "gloss": "حكموني"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:27.546491114Z",
+  "model": "glm-5.3"
+}

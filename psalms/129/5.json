@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 129,
+  "translation": "شرمندا ٿين ۽ پٺتي ڦرن، صهيون جا سڀ دشمن.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "شرمندا ٿين"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "۽ پٺتي ڦرن"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پٺتي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:15.424141788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 41:10",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ ڪوٺين جي وچ ۾ ويڪر ويهه هٿ هئي، گهر جي چوڌاري، چوڌاري، چوڌاري.",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "۽ ... جي وچ ۾"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "ڪوٺين جي"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ويڪر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گهر جي"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    }
+  ],
+  "timestamp": "2026-08-30T12:40:53.053261571Z",
+  "model": "glm-5.3"
+}

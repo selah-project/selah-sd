@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "پوءِ ته انسان ڪيڙو آهي، ۽ آدم جو پٽ ڪوڙهو ڪيڙو!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "پوءِ ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ڪيڙو"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "ڪوڙهو ڪيڙو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:07.605806312Z",
+  "model": "glm-5.3"
+}

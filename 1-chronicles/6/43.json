@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ⟨את⟩ حيلين ۽ ⟨את⟩ ان جا چراگاهه، ⟨את⟩ دبير ۽ ⟨את⟩ ان جا چراگاهه.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حيلين"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "حيلين"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چراگاهه"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ان جا چراگاهه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دبير"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دبير"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چراگاهه"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ان جا چراگاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:08.688660016Z",
+  "model": "glm-5.3"
+}

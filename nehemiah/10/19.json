@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 10:19",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "هودياه، حاشوم، بيتسائي،",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "هودياه"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "حاشوم"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "بيتسائي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:49.855792893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "اِهڙو ئي ڪندين سڀني انهن شهرن سان، جيڪي توکان تمام پري آهن، پر جيڪي انهن ءِ هن قومن جي شهرن مان نه آهن.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "اِهڙو ئي"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ڪندين"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني سان"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شهرن"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "پري"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "توکان"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "شهرن مان"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومن جي"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "انهن"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هتي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:05.641314213Z",
+  "model": "glm-5.3"
+}

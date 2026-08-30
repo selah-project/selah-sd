@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "پوءِ ياهوه ايوب جو ⟨את⟩ گرداب مان جواب ڏنو ۽ چيائين:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "پوءِ جواب ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ايوب"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ايوب"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "گرداب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:02.159035412Z",
+  "model": "glm-5.3"
+}

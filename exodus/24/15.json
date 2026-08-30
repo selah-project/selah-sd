@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "پوءِ موشي جبل تي چڙهيو، ۽ بادل ⟨את⟩ جبل کي ڍڪي ورتو.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چڙهيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ڍڪي ورتو"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جبل"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:04:20.331640381Z",
+  "model": "glm-5.3"
+}

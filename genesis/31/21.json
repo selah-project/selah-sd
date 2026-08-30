@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "پوءِ هو ۽ سڄو جيڪو سندس هئو، ڀڳو؛ ۽ اُٿي ⟨את⟩ نهر ۾.Atomicلٺو، ۽ پنهنجو منهن جبل ڳلعاد ڏانهن ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "ڀڳو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڄو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "اُٿي"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "لٺو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نهر"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجو منهن"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "پنهنجو منهن"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ڳلعاد"
+    }
+  ],
+  "timestamp": "2026-08-30T14:35:15.067476315Z",
+  "model": "glm-5.3"
+}

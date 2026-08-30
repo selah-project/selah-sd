@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "منافق ماڻھوءَ جي راج کان، قوم جي ڦاسن کان.",
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "راج کان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھوءَ"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "منافق"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "ڦاسن کان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:43:23.179525536Z",
+  "model": "glm-5.3"
+}

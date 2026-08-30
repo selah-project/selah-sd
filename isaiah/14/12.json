@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 14:12",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ڪيئن آسمانن مان ڪريو، هيليل، صبح جو پُٽ! زمين تي ڪپي وئيئي، قومن کي زوال ڏيندڙ!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "נפלת",
+      "gloss": "ڪريو"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "آسمانن مان"
+    },
+    {
+      "surface": "הילל",
+      "gloss": "هيلل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "صبح جو"
+    },
+    {
+      "surface": "נגדעת",
+      "gloss": "ڪپي وئيئي"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمين تي"
+    },
+    {
+      "surface": "חולש",
+      "gloss": "زوال ڏيندڙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تين"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:30.002622461Z",
+  "model": "glm-5.3"
+}

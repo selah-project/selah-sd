@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "البته ٺٺولي ڪندڙن سان ئي هو ٺٺوليون ٿو، ۽ عاجزن کي فضل ڏئي ٿو.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "البته"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "ٺٺولي ڪندڙن سان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "ٺٺوليون ٿو"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "۽ عاجزن کي"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڏئي ٿو"
+    },
+    {
+      "surface": "חן",
+      "gloss": "فضل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:56.433327263Z",
+  "model": "glm-5.3"
+}

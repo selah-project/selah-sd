@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 2:20",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "دانيال جواب ڏنو ۽ چيائين ته ايلھ جو نالو مھاڙ کان مھاڙ تائين برڪت وارو ھجي، ڇوته حكمت ۽ طاقت ساڻس ئي آھي.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "جواب ڏنو"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانيال"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "ته ھجي"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "די",
+      "gloss": "جي"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ايلھ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "برڪت وارو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "مھاڙ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "مھاڙ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "חכמתא",
+      "gloss": "حكمت"
+    },
+    {
+      "surface": "וגבורתא",
+      "gloss": "۽ طاقت"
+    },
+    {
+      "surface": "די",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ساڻس"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:55:55.678083310Z",
+  "model": "glm-5.3"
+}

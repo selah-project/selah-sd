@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 35:16",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ ايوب بيھ ٿي پنھنجو وات کولي ٿو، بڻ علم جي لفظن جو ڍير لڳي ٿو.",
+  "tokens": [
+    {
+      "surface": "ואיוב",
+      "gloss": "۽ ايوب"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بيھ"
+    },
+    {
+      "surface": "יפצה",
+      "gloss": "کولي ٿو"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "پنھنجو وات"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "بڻ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم جي"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "لفظن"
+    },
+    {
+      "surface": "יכבר",
+      "gloss": "ڍير لڳي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:43:06.850685709Z",
+  "model": "glm-5.3"
+}

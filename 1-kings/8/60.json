@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ته زمين جا سڀ قوم ڄاڻن ته ياهوه ئي ⟨هو⟩ ايلوهيم آهي، ٻي ڪا نه.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ته"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاڻن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩ ئي"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ڪو نه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:30:44.319445553Z",
+  "model": "glm-5.3"
+}

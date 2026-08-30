@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 76,
+  "translation": "چمڪندڙ آھين تون، شڪار جي جبلن کان وڌيڪ سگھوار۔",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "چمڪندڙ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "سگھوار"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "جبلن"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "شڪار جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:48.578144703Z",
+  "model": "glm-5.3"
+}

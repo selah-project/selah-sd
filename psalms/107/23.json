@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "اهي جيڪي ٻيڙين ۾ سمنڊ ڏانهن لهن ٿا، گھڻن پاڻين ۾ ڪم ڪندڙ،",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "لهندڙ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ ڏانهن"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "ٻيڙين ۾"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ڪندڙ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻين ۾"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گھڻن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:47.045714162Z",
+  "model": "glm-5.3"
+}

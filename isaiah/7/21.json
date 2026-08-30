@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ان ڏينهن ۾ ٿيندو ته هڪ ماڻهو هڪ ڳئون ۽ ٻه ٻڪريون پاليندو.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينهن ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "پاليندو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هڪ ماڻهو"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "هڪ ڳئون"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳن جي"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ٻڪريون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:33.590081088Z",
+  "model": "glm-5.3"
+}

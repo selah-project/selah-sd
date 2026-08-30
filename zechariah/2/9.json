@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 2:9",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇاڪ ته مان ان لاءِ، ياهوه جو فرمان، چوڌاري باهه جي ديوار بنجندس، ۽ مان ئي جلال ان جي وچ ۾ بنجندس.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "۽ مون"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "بنجندس"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ان لاءِ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "جو فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ديوار"
+    },
+    {
+      "surface": "אש",
+      "gloss": "باهه جي"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "۽ جلال لاءِ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "بنجندس"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ان جي وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:53.147483154Z",
+  "model": "glm-5.3"
+}

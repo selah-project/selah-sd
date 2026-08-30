@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "ياهوه دل ٽُٽيلن جي ويجهو آهي، ۽ ⟨את⟩ روح ڏڪيلن کي بچائي ٿو.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ويجهو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "ٽُٽيلن جي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "روح ڏڪيلن کي"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "ڏڪيلن"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "بچائي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:23.910093992Z",
+  "model": "glm-5.3"
+}

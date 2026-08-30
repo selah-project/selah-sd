@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 30:13",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ يروشلم ۾ ماڻھن جو وڏو ميڙ گڏ ٿيو، ٻئين مهيني ۾ ⟨את⟩ مٽائن جو عيد ڪرڻ لاءِ — ھڪ اڏانگي تمام وڏو ميڙ.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "گڏ ٿيو"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم ۾"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ماڻھن جو"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مٽائن جو عيد"
+    },
+    {
+      "surface": "חג",
+      "gloss": "عيد"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "مٽائن جو"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مهيني ۾"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻئين"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ميڙ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "اڏانگي"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام وڏو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:30:03.050529103Z",
+  "model": "glm-5.3"
+}

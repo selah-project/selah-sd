@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 33:19",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "قومن کي جبل ڏانھن سڏيندا؛ اتي صالح قربانيون قربان ڪندا، ڇوته سمنڊ جي ڀرپور وڻندا، ۽ ريتي ۾ لڪل خزانن جي.",
+  "tokens": [
+    {
+      "surface": "עמים",
+      "gloss": "قومن کي"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل ڏانھن"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "سڏيندا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "قربان ڪندا"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانيون"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "שפע",
+      "gloss": "ڀرپور"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمنڊ جي"
+    },
+    {
+      "surface": "יינקו",
+      "gloss": "وڻندا"
+    },
+    {
+      "surface": "ושפוני",
+      "gloss": "۽ لڪل خزانن جي"
+    },
+    {
+      "surface": "טמוני",
+      "gloss": "لڪل"
+    },
+    {
+      "surface": "חול",
+      "gloss": "ريتي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:39.204992851Z",
+  "model": "glm-5.3"
+}

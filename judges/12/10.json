@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ابصان وفات ڪئي ۽ بيت لحم ۾ دفن ٿيو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "۽ وفات ڪيائين"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ابصان"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "۽ دفن ٿيو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "۾ بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:02:00.189790711Z",
+  "model": "glm-5.3"
+}

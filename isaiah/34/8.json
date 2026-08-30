@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "ڇو ته ياهوه لاءِ انتقام جو ڏينهن آهي، صهيون جي تڪرار جي بدلي ڏڻ جو ورڙو آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "انتقام"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ورڙو"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "بدلي ڏڻ جو"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "تڪرار جي"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:57:57.067163852Z",
+  "model": "glm-5.3"
+}

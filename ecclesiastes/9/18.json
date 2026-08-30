@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "چڱائيءَ کان وڌيڪ حڪمت جنگ جي هٿيارن کان آهي، ۽ هڪ گناهگار گهڻي چڱائي برباد ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "چڱائيءَ کان وڌيڪ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "هٿيارن کان"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "جنگ جي"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "۽ گناهگار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "برباد ڪري ٿو"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چڱائي"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گهڻي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:49.706184121Z",
+  "model": "glm-5.3"
+}

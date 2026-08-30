@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "حصرون — حصروني خاندان؛ ڪرمي — ڪرمي خاندان.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "حصرون"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "حصروني"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ڪرمي"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הכרמي",
+      "gloss": "ڪرمي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:48.565697025Z",
+  "model": "glm-5.3"
+}

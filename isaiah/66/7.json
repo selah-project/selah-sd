@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 66,
+  "translation": "اُن کان اڳ جو هوءَ پيڙا سهي، هن ڄامي؛ اُن کان اڳ جو سندس درد اچي، هن پُٽ ڄامي.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "اُن کان اڳ جو"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "پيڙا سهي"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ڄامي"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "اُن کان اڳ جو"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "درد"
+    },
+    {
+      "surface": "לה",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "هن ڄامي"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "پُٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:06:04.717279740Z",
+  "model": "glm-5.3"
+}

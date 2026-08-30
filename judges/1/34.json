@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 1:34",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ اموريءَ ⟨את⟩ دان جي پٽن کي جبل ڏانهن دٻايو، ڇوته انهن کي ماٿريءَ ۾ لهڻ نه ڏنائون.",
+  "tokens": [
+    {
+      "surface": "וילחצו",
+      "gloss": "دٻايو"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموريءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دان جي پٽن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "جبل ڏانهن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "نه ڏنائون"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "لهڻ"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "ماٿريءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:56:46.023988971Z",
+  "model": "glm-5.3"
+}

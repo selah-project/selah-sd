@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڏسو، ⟨هو⟩ SIN جي پيدائش سان سورَ ماني ٿو ۽ ڏکَ پَچائي ٿو ۽ ڪوڙ ڄڻي ٿو.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "سورَ ماني ٿو"
+    },
+    {
+      "surface": "און",
+      "gloss": " SIN"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "۽ پَچائي ٿو"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ڏکَ"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "۽ ڄڻي ٿو"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:09.578565686Z",
+  "model": "glm-5.3"
+}

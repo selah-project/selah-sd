@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "جنهن ڪنهن جو پاڻيءَ ۾ پَرَ ۽ چڙڪو ناهي، اُهو توهان لاءِ گندگي ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "جنهن ڪنهن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ڪنهن جو"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "پَرَ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "۽ چڙڪو"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻيءَ ۾"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "گندگي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:29.980934871Z",
+  "model": "glm-5.3"
+}

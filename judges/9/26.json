@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 9:26",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ گعال بن عبد پنھنجن ڀائرن سان آيو ۽ شڪم ۾ لنگيا، ۽ شڪم جي مالکن مٿس اعتماد ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "געל",
+      "gloss": "گعال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبد"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "پنھنجن ڀائرن سان"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "لنگيا"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "شڪم ۾"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "اعتماد ڪيو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "مالکن"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شڪم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:00:08.546702106Z",
+  "model": "glm-5.3"
+}

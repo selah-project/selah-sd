@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "تہ توھان سندس ⟨את⟩ ھٿ وڍي ڇڏيو؛ توھانجي اک رحم نه ڪري.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "تہ وڍي ڇڏيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ھٿ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "سندس ھٿ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "رحم ڪري"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "توھانجي اک"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:02.515106158Z",
+  "model": "glm-5.3"
+}

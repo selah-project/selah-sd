@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 67,
+  "translation": "اسان کي برڪت ڏئي ايلوهيم، ۽ زمين جا سڀ ڇيڙا ⟨את⟩ مٿس ڊجن.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "اسان کي برڪت ڏئي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "۽ ڊجن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "زمين جا سڀ ڇيڙا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ڇيڙا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:32.300717106Z",
+  "model": "glm-5.3"
+}

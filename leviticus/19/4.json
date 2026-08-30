@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "مڙس ڏانھن منھن نه موڙو ۽ ڳاريل ايلوهين پاڻ لاءِ نه ٺاھيو؛ انا ياهوه توهان جو ايلوهيم.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "منھن موڙو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "مڙس ڏانھن"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "۽ ايلوهين"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ڳاريل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ٺاھيو"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "انا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "توهان جو ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:30.843970320Z",
+  "model": "glm-5.3"
+}

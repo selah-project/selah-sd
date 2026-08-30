@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ ڪوڻَ کيس صبح ۾ ماني ۽ گوشت آندا، ۽ شام ۾ ماني ۽ گوشت، ۽ نئي مان پاڻي پيئندو هو.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "۽ ڪوڻَ"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "آندا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "۽ گوشت"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح ۾"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "۽ ماني"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "۽ گوشت"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "شام ۾"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نئي"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "پيئندو هو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:33:53.303491550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ايبشالوم ڀڳو ۽ گشور ۾ ويو ۽ اُتي ٽي ورهيه رهيو.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "۽ ايبشالوم"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ڀڳو"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ويو"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "گشور"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "رهيو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ورهيه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:19:50.134957374Z",
+  "model": "glm-5.3"
+}

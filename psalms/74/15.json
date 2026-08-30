@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 74,
+  "translation": "توءَ چشمو ۽ واھ پاڙيا؛ توءَ سدا وهندڙ دريا سُڪا ڇڏيا.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "توءَ"
+    },
+    {
+      "surface": "בקעت",
+      "gloss": "پاڙيا"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "چشمو"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "۽ واھ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توءَ"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "سُڪا ڇڏيا"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دريا"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "سدا وهندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:54.884684293Z",
+  "model": "glm-5.3"
+}

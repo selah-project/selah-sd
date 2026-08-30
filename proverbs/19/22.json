@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ماڻهوءَ جي تڙپ سندس خيسيد آهي، ۽ محتاج ڪوڙي کان چڱو آهي.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "تڙپ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ جي"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "سندس خيسيد"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "۽ … چڱو آهي"
+    },
+    {
+      "surface": "רש",
+      "gloss": "محتاج"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ماڻهو کان"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ڪوڙو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:04.945455625Z",
+  "model": "glm-5.3"
+}

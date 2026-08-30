@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ھن ياهوه جي گھر جو مٿيون دروازو ⟨את⟩ ٻڌو، ۽ عفيل جي ديوار ۾ گھڻو ٻڌائين.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ھو"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ٻڌائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جي گھر جو مٿيون دروازو"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "مٿيون"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "۽ ديوار ۾"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "عفيل"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ٻڌائين"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "گھڻو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:27:40.282928972Z",
+  "model": "glm-5.3"
+}

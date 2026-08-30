@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "گيت، مزمور، قوراخ جي پٽن لاءِ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "جي پٽن لاءِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراخ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:26.187499371Z",
+  "model": "glm-5.3"
+}

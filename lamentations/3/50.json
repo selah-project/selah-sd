@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "جيستائين ياهوه جهڪي نظر ڪري ۽ آسمانن مان ڏسي.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "جيستائين"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "جهڪي نظر ڪري"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏسي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "آسمانن مان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:56.844129850Z",
+  "model": "glm-5.3"
+}

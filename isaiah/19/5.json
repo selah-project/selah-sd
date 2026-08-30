@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ پاڻي سمنڊ مان گهٽجي ويندو، ۽ درياھ سُڪي ختم ۽ اُڪجي ويندو.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "گهٽجي ويندو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "سمنڊ مان"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "۽ درياھ"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "سُڪي ختم"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "۽ اُڪجي ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:52:21.792026735Z",
+  "model": "glm-5.3"
+}

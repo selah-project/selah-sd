@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 32:16",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ وري سندس ٻانهن ياهوه ايلوهيم تي ۽ سندس ٻانهي حزقيا تي وڌيڪ ڳالهايون.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "۽ وري"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ڳالهايون"
+    },
+    {
+      "surface": "עבדיو",
+      "gloss": "سندس ٻانهن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي (خلاف)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "حزقيا"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "سندس ٻانهي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:30:11.950602719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "منهن ڪريو مانهان ۽ بچو، زمين جي سڀني ڇيڙن جا ماڻهو، ڇوڪي مان ايل آهيان ۽ ٻيو ڪوبه ناهي۔",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "منهن ڪريو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماناهان"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "۽ بچو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ڇيڙا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ناهي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:01:24.634910056Z",
+  "model": "glm-5.3"
+}

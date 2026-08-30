@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 5:7",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "توهان وڌيڪ عوام کي سرکن لاءِ تڻ نه ڏيو، جيئن اڳ ۾ هئي؛ اُهي وڃن ۽ پاڻ لاءِ تڻ ڪٺا ڪن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאספון",
+      "gloss": "وڌيڪ نه ڏيو"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ڏڻ لاءِ"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "تڻ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "عوام کي"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "سرکن لاءِ"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "سرڪون"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "جهڙا اڳ ۾"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "پرين处的 ڏينھن"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اُهي"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "وڃن"
+    },
+    {
+      "surface": "וקששו",
+      "gloss": "۽ ڪٺا ڪن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "تڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:58:49.876833835Z",
+  "model": "glm-5.3"
+}

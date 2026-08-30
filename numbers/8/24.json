@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 8:24",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "هي آهي لاوين لاءِ: پنجن ۽ ويهن سالن جي پٽ کان مٿي اچي خدمت جي لشڪري خدمت ڪري خيمةِ ميقات جي خدمت ۾.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "لاوين لاءِ"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "پٽ کان"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنجن"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويهن"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "کان مٿي"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "لشڪري خدمت لاءِ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "בעבדת",
+      "gloss": "خدمت ۾"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ميقات"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:50.516799912Z",
+  "model": "glm-5.3"
+}

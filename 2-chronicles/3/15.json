@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ⟨هن⟩ بيت جي اڳيان ٻه ٽڪرا ستونَ ٺاهيا — پنجٽِيهه اَمَہ ڊگھا — ۽ جو سندن مٿي تي جھليل هو، سو پنج اَمَہ جو هو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ⟨هن⟩ ٺاهيا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "ستونَ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه ٽڪرا"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمَہ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽِيهه"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊگھا"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "۽ جھليل مٿي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سندن مٿي"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمَہ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:48.573789488Z",
+  "model": "glm-5.3"
+}

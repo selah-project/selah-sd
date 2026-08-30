@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ مون کي اهو تمام گهڻو نه وڻيو، ۽ م ٽوبيا جي گهر جي سڀني شين ⟨את⟩ ڪمري کان ٻاهر اُڇليا.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "۽ نه وڻيو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام گهڻو"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "۽ م اُڇليا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀني شين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "شيون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر جي"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "ٽوبيا"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "ڪمري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:20.990474781Z",
+  "model": "glm-5.3"
+}

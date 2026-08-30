@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "پنهنجو وات کول، انصاف سان فيصلو ڪر، ۽ غريب ۽ محتاج جي مدد ڪر.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "کول"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "پنهنجو وات"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "فيصلو ڪر"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف سان"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "۽ مقدمو هلاءُ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "۽ محتاج"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:47.447270888Z",
+  "model": "glm-5.3"
+}

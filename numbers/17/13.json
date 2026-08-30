@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ ⟨اھو⟩ مُئل ۽ جيئرن جي وچ ۾ بيٺو، تہ مگڦا بند ٿي وئي.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "بيٺو"
+    },
+    {
+      "surface": "בין",
+      "gloss": "۾ وچ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مُئل"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ وچ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جيئرن جي"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "تہ بند ٿي وئي"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "مگڦا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:08.965762244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "jeremiah 51:49",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 51,
+  "translation": "پڻ بابل کي اسرائيل جي ماريلن جي ڪري ڪرڻو آھي؛ پڻ بابل ۾ سڄي زمين جا ماريل ڪريا آھن.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "ڪرڻو آھي"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ماريلن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "بابل ۾"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڪريا آھن"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ماريل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:25:25.185247029Z",
+  "model": "glm-5.3"
+}

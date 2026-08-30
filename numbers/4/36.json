@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 4:36",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ سندن ڳڻپ سندن خاندانن موجب ٿي: ٻه ھزار ست سؤ پنجاهه.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "سندن ڳڻپ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "سندن خاندانن موجب"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ٻه ھزار"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "۽ پنجاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:16.317866523Z",
+  "model": "glm-5.3"
+}

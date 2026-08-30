@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 149,
+  "translation": "نچ ۾ سندس نالي جي تعريف ڪن، ڊهول ۽ سنور سان سندس لاءِ وڄايون.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "تعريف ڪن"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالي جي"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "نچ ۾"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ڊهول سان"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "۽ سنور"
+    },
+    {
+      "surface": "יזمרו",
+      "gloss": "وڄايون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:29.779470849Z",
+  "model": "glm-5.3"
+}

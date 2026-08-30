@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "زال سان زنا ڪندڙ دل-کور آهي؛ پنهنجي ئي جان کي تباهه ڪري ٿو جيڪو اهو ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "زنا ڪندڙ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال سان"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کور"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "تباهه ڪري ٿو"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "پنهنجي جان کي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو ئي"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "اهو ڪري ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:03.884138763Z",
+  "model": "glm-5.3"
+}

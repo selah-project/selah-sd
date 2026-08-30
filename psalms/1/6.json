@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ڇوته ياهوه صالحن جي رستي کي سڃاڻي ٿو، پر رشعيم جو رستو تباهه ٿي ويندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "سڃاڻي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستي"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صالحن"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "۽ رستو"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رشعيم"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "تباهه ٿي ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:58:50.078085662Z",
+  "model": "glm-5.3"
+}

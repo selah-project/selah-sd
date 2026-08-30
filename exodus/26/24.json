@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 26:24",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ اھي ھيٺان ٻٽا ھجن ۽ مٿي تائين ھڪ ڪڙيءَ ۾ گڏ مڪمل ھجن؛ ٻنھي لاءِ ائين ھجي؛ ٻن ڪنڊن لاءِ اھي ھجن.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ھجن"
+    },
+    {
+      "surface": "תאמים",
+      "gloss": "ٻٽا"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "ھيٺان"
+    },
+    {
+      "surface": "ויחדו",
+      "gloss": "۽ گڏ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ھجن"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "مڪمل"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي تائين"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ان جي مٿي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ڪڙيءَ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ھجي"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "ٻنھي لاءِ"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "המקצעת",
+      "gloss": "ڪنڊن لاءِ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ھجن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:26.905661543Z",
+  "model": "glm-5.3"
+}

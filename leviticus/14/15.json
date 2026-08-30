@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ڪاهن تيل جي لوگ (ماپ) مان وٺي، پنهنجي کاٻي هٿ جي تري ۾ ڪڍيندو.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "۽ وٺندو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "لوگ (ماپ) مان"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تيل جي"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "۽ ڪڍيندو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "کף",
+      "gloss": "تري"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن جي"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "کاٻي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:04.254785239Z",
+  "model": "glm-5.3"
+}

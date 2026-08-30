@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "پر تون شيول ۾ لاٿو ويندوين، گڏي جي تهائيءَ تائين.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "لاٿو ويندوين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "تهائيءَ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "گڏي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:53.585515998Z",
+  "model": "glm-5.3"
+}

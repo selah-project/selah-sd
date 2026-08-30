@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "دولت دوستن ۾ واڌارو ڪري ٿي، ۽ غريب کان سندس دوست الڳ ٿئي ٿو.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "واڌارو ڪري ٿي"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "دوستن ۾"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گهڻا"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "۽ غريب"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "سندس دوست"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "الڳ ٿئي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:28.146282008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ يرمياھ ۽ يحزيايل ۽ يوحنان ۽ يوزابد گداراتي،",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "۽ يرمياھ"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "۽ يحزيايل"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "۽ يوحنان"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "۽ يوزابد"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "گداراتي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:43.281961563Z",
+  "model": "glm-5.3"
+}

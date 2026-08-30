@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 50:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "۽ يوسف متسرايم ۾ رهيو، هو ۽ پنھنجي پيءُ جو گھر؛ ۽ يوسف هڪ سؤ ۽ ڏھ سال جييون.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "۽ رهيو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "متسرايم ۾"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ گھر"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پنھنجي پيءُ جو"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "۽ جييون"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "هڪ سؤ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "۽ ڏھ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:45.267101936Z",
+  "model": "glm-5.3"
+}

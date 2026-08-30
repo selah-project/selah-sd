@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ ياهوه جي فرشي چيس: پنھنجي مالڪڻ ڏانھن موٽ ۽ سندس ھٿن ھيٺ عاجزي ڪر.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيس"
+    },
+    {
+      "surface": "לה",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "موٽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "پنھنجي مالڪڻ"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "عاجزي ڪر"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺ"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "سندس ھٿن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:02.723549744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ياهوه جو فرشتو مٿس ظاهر ٿيو ۽ مٿس چيائين: ياهوه تنهنجي ساڻ آهي، اي بهادر جوان.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ظاهر ٿيو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تنهنجي ساڻ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بهادر"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "جوان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:58:56.389453924Z",
+  "model": "glm-5.3"
+}

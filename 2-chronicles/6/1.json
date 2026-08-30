@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "پوءِ چيو شلومو: ياهوه چيو آھي ته ⟨ته⟩ گھاٽي اونداهيءَ ۾ رھڻ (چيائين).",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو آھي"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "ته رھڻ"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "گھاٽي اونداهيءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:21:11.613418832Z",
+  "model": "glm-5.3"
+}

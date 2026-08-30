@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 149,
+  "translation": "تَن انهن تي لکيل فيصلو ڪرڻ؛ اھو سڀني سندس خيسيدن جو ھڪ جلال آھي۔ هليلو-ياه!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انهن تي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فيصلو"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "لکيل"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀن لاءِ"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "سندس خيسيد"
+    },
+    {
+      "surface": "הללو",
+      "gloss": "هليلو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:12.263914289Z",
+  "model": "glm-5.3"
+}

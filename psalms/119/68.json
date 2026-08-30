@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "تون چڱو آھين ۽ چڱائي ڪندو آھين؛ مون کي پنھنجا فرضا سيکار.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "۽ چڱائي ڪندو"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "مون کي سيکار"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "پنھنجا فرضا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:21.384151479Z",
+  "model": "glm-5.3"
+}

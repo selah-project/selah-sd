@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 14:19",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ جيڪڏهن آئون وبا ان زمين ڏانھن موڪليان ۽ پنھنجو غصو ان تي رت ۾ وھائيان، ته ان مان ماڻهو ۽ چوپاي مال ڪاٽڻ لاءِ —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وبا"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "موڪليان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ان زمين"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "ושפכתי",
+      "gloss": "۽ وھائيان"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "پنھنجو غصو"
+    },
+    {
+      "surface": "עלירה",
+      "gloss": "ان تي",
+      "_comment": "surface typo"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "رت ۾"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ڪاٽڻ لاءِ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ان مان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "۽ چوپاي مال"
+    }
+  ],
+  "timestamp": "2026-08-30T12:30:36.404945464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "تنهنڪري ٻڌو، اي قومون، ۽ ڄاڻو، اي جماعت، ⟨את⟩ جيڪو انهن ۾ آهي.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "اي قومون"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "۽ ڄاڻو"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "اي جماعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جيڪو انهن ۾ آهي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انهن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:08:59.324798405Z",
+  "model": "glm-5.3"
+}

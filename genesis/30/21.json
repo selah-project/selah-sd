@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ پوءِ کيس ڌيءَ ڄائي ۽ سان ⟨את⟩ سندس نالو دينہ رکيائين.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "۽ پوءِ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ڄائي"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "رکيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس نالو"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "سندس نالو"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دينہ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:24.871069206Z",
+  "model": "glm-5.3"
+}

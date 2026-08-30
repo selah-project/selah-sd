@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 27:18",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "يھودا جي ايليھو، داويد جي ڀائرن مان؛ يسسکر جي عمري بن ميخائيل:",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "يھودا جي"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ايليھو"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "ڀائرن مان"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "ליששכר",
+      "gloss": "يسسکر جي"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "عمري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "ميخائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:06.028649025Z",
+  "model": "glm-5.3"
+}

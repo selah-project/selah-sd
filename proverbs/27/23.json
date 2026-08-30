@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ڄاڻَ، پوري طرح ڄاڻ پنهنجن ٻڪرن جون منون، پنهنجو دل ڌَڙن تي رک.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻَ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "پوري طرح ڄاڻ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منون"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "پنهنجن ٻڪرن"
+    },
+    {
+      "surface": "שית",
+      "gloss": "رک"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "پنهنجو دل"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "ڌَڙن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:25.559511341Z",
+  "model": "glm-5.3"
+}

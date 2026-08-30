@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ قيش شاول جو پيءُ هو، ۽ نير اَبينير جو پيءُ هو — اَبيئيل جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "۽ قيش"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "۽ نير"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَبينير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "اَبيئيل"
+    }
+  ],
+  "timestamp": "2026-08-30T11:10:32.880613243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "پوءِ قاصد ويو، ۽ اچي داوود کي ⟨את⟩ سُڀ کي ٻڌايو جو يواب کيس موڪليو هو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "پوءِ... ويو"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "قاصد"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "۽ اچي"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ٻڌايو"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سُڀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سُڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "موڪليو هو"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يواب"
+    }
+  ],
+  "timestamp": "2026-08-30T11:20:01.379821297Z",
+  "model": "glm-5.3"
+}

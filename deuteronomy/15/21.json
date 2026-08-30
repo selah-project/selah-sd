@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ جيڪڏهن ان ۾ ڪو عيب ھجي — ٻڍڙو يا اندھو، ڪوبه خراب عيب — ته ان کي پنھنجي ياهوه ايلوهيم لاءِ قربان ڪرڻ نه گھرجي.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ھجي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عيب"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ٻڍڙو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "עור",
+      "gloss": "اندھو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عيب"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "ان کي قربان ڪرڻ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "پنھنجي ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:37.459501832Z",
+  "model": "glm-5.3"
+}

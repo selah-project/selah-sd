@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ڪپڙو، جڏهن منجهس صرعات جو نگو هوندو، اَن جي ڪپڙي ۾ يا ڪنئر جي ڪپڙي ۾.",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "۽ ڪپڙو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "منجهس"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "نگو"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "صرعات جو"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ڪپڙي ۾"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "اَن"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ڪپڙي ۾"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "ڪنئر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:28.487881123Z",
+  "model": "glm-5.3"
+}

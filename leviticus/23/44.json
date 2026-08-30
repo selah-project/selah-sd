@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ موشي ياهوه جي مقرر ٿيل ڏڻن بابت ⟨את⟩ اسرائيل جي پٽن سان ڳالهايو.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالهايو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جي مقرر ٿيل ڏڻن"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "مقرر ٿيل ڏڻن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سمان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:39:00.774318852Z",
+  "model": "glm-5.3"
+}

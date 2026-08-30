@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ياهوه اسرائيل مان سر ۽ پڇ، کجيءَ جو پن ۽ سرکنڊو، ھڪ ڏينھن ۾ ڪٽي ڇڏيندو.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "۽ ڪٽي ڇڏيندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "اسرائيل مان"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "۽ پڇ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "کجيءَ جو پن"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "۽ سرکنڊو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:11.765635763Z",
+  "model": "glm-5.3"
+}

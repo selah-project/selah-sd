@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "ھي ڇا تون قديم زماني کان نه ڄاڻين ٿو، جڏھن کان انسان زمين تي رکيو ويو؟",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "تون ڄاڻين ٿو"
+    },
+    {
+      "surface": "מני",
+      "gloss": "کان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "قديم زماني"
+    },
+    {
+      "surface": "מני",
+      "gloss": "جڏھن کان"
+    },
+    {
+      "surface": "שים",
+      "gloss": "رکيو ويو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:50.648993616Z",
+  "model": "glm-5.3"
+}

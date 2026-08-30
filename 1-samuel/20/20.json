@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ آءٌ ٽي تير اُن جي پاسي اُڏائيندس، پاڻ لاءِ نشاني تي.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "۽ آءٌ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "تير"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "اُن جي پاسي"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "اُڏائيندس"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "اُڏڻ لاءِ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "ن形成一个شاني تي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:12:15.964589001Z",
+  "model": "glm-5.3"
+}

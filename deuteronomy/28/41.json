@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "پُٽَن ۽ ڌِيئَن کي تو پيدا ڪرڻو، پر اُهي توڻي نه رهندا، ڇوته اُهي قيدي ٿي وڃندا.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "پُٽَن"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "۽ ڌِيئَن"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "تو پيدا ڪرڻو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "رهندا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توڻي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "وڃندا"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "قيدي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:47.657944449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ سان ڀاري ۽ پٽ ڄائين ۽ چيائين: ايلوهيم مٿي ⟨את⟩ منهنجي بي عزتي هٽائي ڇڏي.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ڀاري"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ڄائين"
+    },
+    {
+      "surface": "بن",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "هٽائي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منهنجي بي عزتي"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "منهنجي بي عزتي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:24.872208481Z",
+  "model": "glm-5.3"
+}

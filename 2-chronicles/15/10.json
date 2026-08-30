@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ اهي يروشلم ۾ ٽئين مهيني ۾، آسا جي بادشاهيءَ جي پندرهين سال ۾ گڏ ٿيا.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "۽ اهي گڏ ٿيا"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم ۾"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مهيني ۾"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ٽئين"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "سال ۾"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-نهہ (ڏهه)"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "بادشاهيءَ جي"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:24.138528724Z",
+  "model": "glm-5.3"
+}

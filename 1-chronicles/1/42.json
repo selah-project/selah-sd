@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "عيصر جا پٽ: بلہان ۽ زعوان ۽ يعقان؛ اِهي ديشون جا پٽ: عوص ۽ اران۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "عيصر"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "بلہان"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "۽ زعوان"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "يعقان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "ديشون"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوص"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "۽ اران"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:42.141872814Z",
+  "model": "glm-5.3"
+}

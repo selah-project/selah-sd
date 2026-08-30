@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "توهان ⟨את⟩ چربي کائو ٿا ۽ ⟨את⟩ اُن پائيو ٿا، فربح ٻڪريون ذبح ڪريو ٿا، ٻڪريون نه چاريو ٿا.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چربي"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربي"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائو ٿا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اُن"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "اُن"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "پائيو ٿا"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "فربح ٻڪريون"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ذبح ڪريو ٿا"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ٻڪريون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "چاريو ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:38:53.575021845Z",
+  "model": "glm-5.3"
+}

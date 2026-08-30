@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 35:33",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ پٿر جي تراشڻ ۾ جيڙڻ لاءِ، ۽ ڪاٺ جي تراشڻ ۾ ڪرڻ لاءِ — سڀ سوچيل صنعت.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "۽ تراشڻ ۾"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "جيڙڻ لاءِ"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "۽ تراشڻ ۾"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ڪاٺ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "صنعت"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "سوچيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:00.787864066Z",
+  "model": "glm-5.3"
+}

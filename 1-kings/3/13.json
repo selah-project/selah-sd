@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 3:13",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ به اھو جيڪو تون نهُ سُيو، اھو توکي ڏنو اَٿم — دولت به، شان به — جو بادشاھن ۾ تنھنجي مثل ڪوبه ماڻھو نه ٿيو، تنھنجي سڀني ڏينھن ۾.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "سُيو"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ڏنو اَٿم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "تنھنجي مثل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "بادشاھن ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ڏينھن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:27:41.433651190Z",
+  "model": "glm-5.3"
+}

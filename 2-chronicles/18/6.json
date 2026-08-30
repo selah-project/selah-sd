@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "پوءِ يهوشافات چيو: ڇا هتي ياهوه جو ڪو ٻيو نبيو ناهي، ته جيئن اسان ⟨את⟩ کان پُڇون؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافات"
+    },
+    {
+      "surface": "האין",
+      "gloss": "ڇا ناهي"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هتي"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبيو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "ته جيئن اسان پُڇون"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:26.788028922Z",
+  "model": "glm-5.3"
+}

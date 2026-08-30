@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ اهارون جو نالو ⟨את⟩ لوي جي مَٽي تي لکيو، ڇوته سندن پيءُن جي گھرن جي سردار لاءِ ھڪ ئي مَٽُ آھي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "اهارون جو نالو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون جو"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "لکيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "مَٽي"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوي جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "مَٽُ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "سردار لاءِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "سندن پيءُن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:58.017431894Z",
+  "model": "glm-5.3"
+}

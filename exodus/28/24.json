@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ تون ⟨את⟩ ٻن سُٽين سوني زنجيرن کي ٻن انگوشتين تي رکندو، حوشن جي ڪنڊن وٽ.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "۽ تون رکندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٻن سُٽين سوني زنجيرن"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "سُٽين زنجيرن"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سوني"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "انگوشتين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ڪنڊن"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "حوشن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:37:11.123662499Z",
+  "model": "glm-5.3"
+}

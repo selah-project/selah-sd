@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ نوح پنج سؤ سالن جو پٽ هو، ۽ نوح ⟨את⟩ شيم کي، ⟨את⟩ حام کي ۽ ⟨את⟩ يفت کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "هو"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شيم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حام"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "يفت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "يفت"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:57.950336898Z",
+  "model": "glm-5.3"
+}

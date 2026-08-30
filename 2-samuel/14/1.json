@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ يوآب، صرويه جي پُٽ کي خبر پئجي وئي ته بادشاهه جو دل ابيشلوم تي آهي.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "خبر پئجي وئي"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "صرويه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ابيشلوم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:21:08.778284967Z",
+  "model": "glm-5.3"
+}

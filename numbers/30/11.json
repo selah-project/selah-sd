@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ جيڪڏھن هن پنهنجي مڙس جي گھر ۾ نذر ڪيو، يا قسم سان پنهنجي نَفس تي قيد ٻڌو،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "پنهنجي مڙس جي"
+    },
+    {
+      "surface": "نדרה",
+      "gloss": "نذر ڪيو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "قيد"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "پنهنجي نَفس"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "قسم سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:03.071612681Z",
+  "model": "glm-5.3"
+}

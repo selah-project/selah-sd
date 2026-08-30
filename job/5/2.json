@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ڇاڪاڻ ته ڪاوڙ مورک کي ماري ٿي، ۽ ٺڳجندڙ کي غيرت ماري ٿي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "مورک"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ماريندي ٿي"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "ڪاوڙ"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "۽ ٺڳجندڙ"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "ماريندي ٿي"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "غيرت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:36:14.744927828Z",
+  "model": "glm-5.3"
+}

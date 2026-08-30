@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ياد ڪريان ٿو پنھنجي مصيبت ۽ پنھنجي ڏکڙائي کي، افسنتين ۽ زهر کي.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ياد ڪريان ٿو"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "پنھنجي مصيبت"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "پنھنجي ڏکڙائي"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "افسنتين"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "زهر"
+    }
+  ],
+  "timestamp": "2026-08-30T15:06:49.790006963Z",
+  "model": "glm-5.3"
+}

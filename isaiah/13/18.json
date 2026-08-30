@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 13:18",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ سڻهن نوجوانن کي ڪيرائيندا، ۽ پيٽ جي ڦل تي رحم نه ڪندا، پٽن تي سندن اک رحم نه ڪندي.",
+  "tokens": [
+    {
+      "surface": "וקשתות",
+      "gloss": "۽ سڻهن"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "نوجوانن کي"
+    },
+    {
+      "surface": "תרטשנה",
+      "gloss": "ڪيرائيندا"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "۽ ڦل"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "پيٽ جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירחמו",
+      "gloss": "رحم ڪندا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "رحم ڪندي"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "سندن اک"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:40.980908626Z",
+  "model": "glm-5.3"
+}

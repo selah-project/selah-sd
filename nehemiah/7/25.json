@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "گبعون جا پٽ ٽيَوَڻ ਅَٺِي ۽ پنج.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گبعون"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ٽيَوَڻ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "۽ پنج"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:52.579373187Z",
+  "model": "glm-5.3"
+}

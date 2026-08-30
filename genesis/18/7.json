@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 18:7",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ابراهام ڍورن ڏانھن ڊوڙيو ۽ ڍور جو هڪ نر، نرم ۽ چڱو، وٺي نوجوان کي ڏنو ۽ اُهو جلديتي ان کي تيار ڪرڻ لاءِ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "۽ ڏانھن"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ڍورن"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "ڊوڙيو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "۽ وٺي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو نر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍور"
+    },
+    {
+      "surface": "רך",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "۽ چڱو"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏنو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "וימהר",
+      "gloss": "۽ جلديتي"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "تيار ڪرڻ لاءِ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:18.427812681Z",
+  "model": "glm-5.3"
+}

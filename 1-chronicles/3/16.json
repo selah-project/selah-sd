@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ يهوياقيم جا پٽ: يڪنيا سندس پٽ، صدقيا سندس پٽ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ ... جا پٽ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "يهوياقيم"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "يڪنيا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "صدقيا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:54.635442378Z",
+  "model": "glm-5.3"
+}

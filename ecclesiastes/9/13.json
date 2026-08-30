@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "هيءَ حكمت پڻ مون سج جي هيٺان ڏٺي، ۽ اها مون لاءِ وڏي آهي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هيءَ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مون ڏٺي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺان"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "۽ وڏي"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:33.629638943Z",
+  "model": "glm-5.3"
+}

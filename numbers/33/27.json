@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ⟨هي⟩ تحت کان روانا ٿيا، ۽ ترح ۾ منزل ڪيائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "تحت کان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "منزل ڪيائون"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "ترح ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:47.346150968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ آءٌ تنهنجي ۾ ⟨את⟩ اهو ڪندس جو مون نه ڪيو، ۽ ⟨את⟩ اهو جيئنس ٻيهر نه ڪندس، تنهنجي سڀني ناپسنديدگين سببان.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "۽ آءٌ ڪندس"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تنهنجي ۾"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اهو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "مون ڪيو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اهو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيئنس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ڪندس"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "جيئنس"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيهر"
+    },
+    {
+      "surface": "יען",
+      "gloss": "سببان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "تنهنجي ناپسنديدگين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:27:33.550105193Z",
+  "model": "glm-5.3"
+}

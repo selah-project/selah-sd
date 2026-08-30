@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 11:1",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "پوءِ صوفر نعاتي جواب ڏنو ۽ چيائين،",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "پوءِ جواب ڏنو"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "صوفر"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "نعاتي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:36.509126225Z",
+  "model": "glm-5.3"
+}

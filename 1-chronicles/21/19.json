@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ داويد چڙهي ويو گد جي لفظ موجب، جيڪو هن ياهوه جي نالي سان چيو.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "۽ چڙهي ويو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "لفظ موجب"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گد جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نالي سان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:59.950631145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ زبل، شهر جي سردارَ، گعل پٽ عابد جا لفظ ٻڌا، ۽ سندس ڪاوڙ ڀڙڪي اُٿي.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "۽ ٻڌا"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "زبل"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردارَ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر جي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گعل جا لفظ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "געל",
+      "gloss": "گعل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عابد"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "۽ ڀڙڪي اُٿي"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "سندس ڪاوڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:00:23.114648125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 3:4",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڇ ڪيس حبرون ۾ ڄايا، ۽ اُتي ھن ست سال ۽ ڇ مهينا بادشاھي ڪئي؛ ۽ يروشلم ۾ ٽيھ سال ۽ ٽي سال بادشاھي ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "ڇ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ڄايا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ڪيس"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "حبرون ۾"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "۽ بادشاھي ڪيائين"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "۽ ڇ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مهينا"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽيھ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھي ڪيائين"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:10.345667111Z",
+  "model": "glm-5.3"
+}

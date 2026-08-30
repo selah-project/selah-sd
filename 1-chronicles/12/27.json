@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "لاوي جي پٽن مان، چار ھزار ۽ ڇھ سئو.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "مانن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ ڇھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سئو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:24.768901228Z",
+  "model": "glm-5.3"
+}

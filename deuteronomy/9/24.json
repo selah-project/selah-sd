@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "نافرمان رهيا آهيو توهان ياهوه سان، ان ڏينهن کان جنهن ڏينهن مون ⟨את⟩ توهان کي سڃاڻيو.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "نافرمان رهيا آهيو"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ان ڏينهن کان"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "مون سڃاڻيو"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "توهان کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:09.357871997Z",
+  "model": "glm-5.3"
+}

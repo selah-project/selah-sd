@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-kings 17:40",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ نه ٻڌائون، پر پنھنجي پراڻي دستور موجب ئي ڪري رھيا آھن.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌائون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلڪي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "پنھنجي دستور موجب"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پراڻي"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هي"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ڪري رھيا آھن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:43:42.197203835Z",
+  "model": "glm-5.3"
+}

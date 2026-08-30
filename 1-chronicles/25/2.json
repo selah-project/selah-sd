@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 25:2",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "آساف جي پٽن لاءِ: ذڪور ۽ يوسف ۽ نٿنيا ۽ اشعرائيله، آساف جا پٽ، آساف جي هٿ هيٺ، جيڪو بادشاهه جي هٿن هيٺ نبي هو.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "جي پٽن لاءِ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ذڪور"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "۽ يوسف"
+    },
+    {
+      "surface": "ונתניה",
+      "gloss": "۽ نٿنيا"
+    },
+    {
+      "surface": "ואשראלה",
+      "gloss": "۽ اشعرائيله"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف جا"
+    },
+    {
+      "surface": "על",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف جي"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبي هو"
+    },
+    {
+      "surface": "על",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "هٿن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:54.704850356Z",
+  "model": "glm-5.3"
+}

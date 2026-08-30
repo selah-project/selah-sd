@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ ⟨הם⟩ سونهن جون ٻه اَٻَٺَ ڪڙين ۾ وجهيون، چوسٽ جي ٻن ڪنڊن تي.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "۽ ⟨הم⟩ وجهيون"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "اَٻَٺَ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونهن جون"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ڪڙين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ڪنڊن"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "چوسٽ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:28.535362047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ڪالب بن يفنيه جا پُٽ عيرو، ايله ۽ نعام ھئا؛ ۽ ايله جا پُٽ ڪناز ھئا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پُٽ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ڪالب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يفنيه"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "عيرو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ايله"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "۽ نعام"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پُٽ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ايله"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "۽ ڪناز"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:29.424507931Z",
+  "model": "glm-5.3"
+}

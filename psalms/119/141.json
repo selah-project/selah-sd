@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "ننڍو ⟨آھيان⟩ مان ۽ ذليل؛ پوءِ به تنھنجن حڪمن کي نه وساريو اٿم.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "ننڍو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مان"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "۽ ذليل"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "تنھنجن حڪمن کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "وساريو اٿم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:44.927165859Z",
+  "model": "glm-5.3"
+}

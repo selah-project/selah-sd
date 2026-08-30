@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 22:28",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ ياهوه ⟨את⟩ گڌي جو وات کوليو، ۽ گڌي بلعم کي چيو: ”مانءُ تو لاءِ ڇا ڪيو آهي جو تون مون کي هي ٽيھي ڀيرا ماريو آهي؟“",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "۽ کوليوس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گڌي جو وات"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "گڌي"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "بلعم کي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "مان ڪيو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي لاءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הכיתני",
+      "gloss": "تون مون کي ماريو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽيھي"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ڀيرا (regalim)"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:18.482344656Z",
+  "model": "glm-5.3"
+}

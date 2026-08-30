@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "سندس پاڻي گجن ٿا، اُڀرن ٿا؛ سندس ماڻ سان جبل ڪنڦن ٿا. سلاہ.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "گجن ٿا"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "اُڀرن ٿا"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "سندس پاڻي"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ڪنڦن ٿا"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "سندس ماڻ سان"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:11.233483711Z",
+  "model": "glm-5.3"
+}

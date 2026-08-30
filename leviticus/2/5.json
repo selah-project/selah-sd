@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ جيڪڏھن تريءَ تي پچايل نذرانو تنھنجي قرباني ⟨آھي⟩، ته اُهو سڌرو اٽو تيل ۾ گڏيل، بيخمير هوندو.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "نذرانو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "تريءَ"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "تنھنجي قرباني"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "سڌرو اٽو"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "گڏيل"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تيل ۾"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "بيخمير"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "هوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:49.704489320Z",
+  "model": "glm-5.3"
+}

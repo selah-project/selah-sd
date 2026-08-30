@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ موشي حڪم ڪيو ⟨את⟩ لاوين کي — ياهوه جي عهد جي صندوق جي کڻندڙن کي — ته چوان:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاوين"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوين"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "کڻندڙن"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عهد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته چوان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:49.818075909Z",
+  "model": "glm-5.3"
+}

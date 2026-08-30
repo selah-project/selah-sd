@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "حارم جي اولاد، ٽي سَو ۽ ويھه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جي اولاد"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:44.710718973Z",
+  "model": "glm-5.3"
+}

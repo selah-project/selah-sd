@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "خوش آھي اھو ماڻھو جنھنجي لاءِ ياهوه عون نه ڳڻي ٿو، ۽ جنھنجي روح ۾ ڪا ٺڳي ناھي.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ڳڻي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "جنھنجي لاءِ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "عون"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ... ناھي"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "جنھنجي روح ۾"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ٺڳي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:49.063460122Z",
+  "model": "glm-5.3"
+}

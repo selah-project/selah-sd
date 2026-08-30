@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 20:7",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ياهوه موشي سان ڳالھيون ڪيون، چوندو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالھيون ڪيون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:13.010447928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 33:1",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ياهوه جو لفظ يرمياھو ڏانهن ٻي ڀيرو آيو، ۽ هو اڃا قيد ۾ هو، مھارن جي چوپڙيءَ ۾، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياھو"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ٻي ڀيرو"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "ڃا"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "قيد ۾"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "۾ چوپڙيءَ"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "مھارن جي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:18:47.883376214Z",
+  "model": "glm-5.3"
+}

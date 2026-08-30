@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "کُلي ٽوڙ تنهيد کان لڪيل محبت چڱي آهي.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "چڱي آهي"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ٽوڙ تنهيد"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "کُلي"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "کان محبت"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "لڪيل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:37.146575250Z",
+  "model": "glm-5.3"
+}

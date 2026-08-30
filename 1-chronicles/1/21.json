@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ⟨את⟩ هادورام، ۽ ⟨את⟩ اوزال، ۽ ⟨את⟩ دِقلھه۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "هادورام"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "هادورام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوزال"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "اوزال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دِقلھه"
+    },
+    {
+      "surface": "דקלه",
+      "gloss": "دِقلھه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:23.408325871Z",
+  "model": "glm-5.3"
+}

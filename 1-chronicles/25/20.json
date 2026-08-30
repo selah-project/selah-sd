@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "تيرهن نمبر تي شوبائيل، سندس پٽ ۽ سندس ڀائر، ٻارهن؛",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "تيرهن لاءِ (ٽي)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(۽ ڏهه)"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "شوبائيل"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "۽ سندس ڀائر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻارهن (ٻه)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(۽ ڏهه)"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:10.765706640Z",
+  "model": "glm-5.3"
+}

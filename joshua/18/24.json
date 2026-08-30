@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 18:24",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ كفر هعمني ۽ عفني ۽ گبع؛ ٻارهن شهرون ۽ سندن ڳوٺ.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "۽ كفر"
+    },
+    {
+      "surface": "העמני",
+      "gloss": "هعمني"
+    },
+    {
+      "surface": "והעפני",
+      "gloss": "۽ عفني"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "۽ گبع"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهرون"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ـارهن (ڏهه)"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "۽ سندن ڳوٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:50.708119510Z",
+  "model": "glm-5.3"
+}

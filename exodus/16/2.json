@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ يسرائيل جي پٽن جي سموري زمري بيابان ۾ موشي ۽ اهارون تي پڙاfo عرائي ڪئي۔",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "پڙاfo عرائي ڪئي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سموري"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "زمري"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ … تي"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:57.566241799Z",
+  "model": "glm-5.3"
+}

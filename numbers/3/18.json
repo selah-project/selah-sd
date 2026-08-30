@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ اھي غيرشون جي پُٽن جا نالا آھن پنھنجن خاندانن موجب: لبني ۽ شمعي.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نالا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن جا"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "غيرشون"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "پنھنجن خاندانن موجب"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "شمعي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:16.600999288Z",
+  "model": "glm-5.3"
+}

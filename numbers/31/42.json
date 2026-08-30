@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ بني اسرائيل جي اڌ حصي مان، جيڪو موشي لشڪر وارن ماڻهن کان ⟨ڇڏي⟩ الڳ ڪيو،",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "۽ اڌ حصي مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "الڳ ڪيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "لشڪر وارن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:42.308761111Z",
+  "model": "glm-5.3"
+}

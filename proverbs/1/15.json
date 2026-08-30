@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "منهنجا پٽ، انهن جي واٽ ۾ ⟨את⟩ نه هليو، پنهنجو پير انهن جي رستي کان روڪيو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "منهنجا پٽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "هليو"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "واٽ ۾"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "انهن"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "روڪيو"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پنهنجو پير"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "انهن جي رستي کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:10.467863357Z",
+  "model": "glm-5.3"
+}

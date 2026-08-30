@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "تو کيس راضي نه ٿيندين ۽ نه کيس ٻُڌ ڪندين، ۽ تنهنجي اک ⟨ان⟩ تي رحم نه ڪندي، ۽ نه بخشيندو، ۽ نه کيس لڪائيندو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "راضي ٿيندين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ٻُڌ ڪندين"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "رحم ڪندي"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تنهنجي اک"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "بخشيندو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "لڪائيندو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "کيس"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:58.062447774Z",
+  "model": "glm-5.3"
+}

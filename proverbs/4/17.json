@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ڇوتهي بي انصافي جو ماني کائين ٿا ۽ ظلمن جو شراب پيئن ٿا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهي"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "کائين ٿا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بي انصافي"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "۽ شراب"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ظلمن"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "پيئن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:13.920407871Z",
+  "model": "glm-5.3"
+}

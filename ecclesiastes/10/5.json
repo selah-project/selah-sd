@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "هڪ برائي مون سج هيٺ ڏٺي آهي، جهڙوئي هڪ چوٽ جيڪا حاڪم جي اڳيانان نڪري ٿي.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "هڪ برائي آهي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مون ڏٺي آهي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "جهڙوئي هڪ چوٽ"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "نڪري ٿي"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "جي اڳيانان"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "حاڪم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:10.612030154Z",
+  "model": "glm-5.3"
+}

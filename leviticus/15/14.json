@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 15:14",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ اٺين ڏينھن تي پاڻ لاءِ ٻه تور-ڪبوتر يا ٻه ڦٽڪيون کڻي، ۽ ياهوه جي اڳيان ملاقات جي خيمي جي دروازي تي اچي، ۽ کين ڪوھن کي ڏئي.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "۽ ڏينھن تي"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اٺين"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "کڻي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "تور-ڪبوتر"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ڦٽڪيون"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ڪبوتر"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "۽ اچي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمي"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات جي"
+    },
+    {
+      "surface": "ונתנם",
+      "gloss": "۽ ڏئي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:39:31.196431567Z",
+  "model": "glm-5.3"
+}

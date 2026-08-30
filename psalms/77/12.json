@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 77,
+  "translation": "مان ياه جا ڪم ياد ڪندس؛ ڇوته مان تنهنجا پراڻا عجائب ياد ڪندس۔",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "مان ياد ڪندس"
+    },
+    {
+      "surface": "مעללי",
+      "gloss": "جا ڪم"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "مان ياد ڪندس"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "پراڻا (اڳي جا)"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "عجائب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:48.290064508Z",
+  "model": "glm-5.3"
+}

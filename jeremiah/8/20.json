@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "فصل لنگهي ويو، اونهو ختم ٿيو، ۽ اسين نه بچيا.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "لنگهي ويو"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ختم ٿيو"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "اونهو"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "۽ اسين"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "بچيا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:10:07.006638855Z",
+  "model": "glm-5.3"
+}

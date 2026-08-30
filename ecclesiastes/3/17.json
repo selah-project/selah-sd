@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مون پنهنجي دل ۾ چيو: نيڪ ۽ بدڪار ٻئيءَ تي ايلوهيم فيصلو ڪندو، ڇوته هر مراد لاءِ هڪ وقت آهي، ۽ اُتي هر ڪم تي.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "مون چيو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "پنهنجي دل ۾"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نيڪ"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "نيڪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "بدڪار"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدڪار"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "فيصلو ڪندو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "مراد"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:37.333240974Z",
+  "model": "glm-5.3"
+}

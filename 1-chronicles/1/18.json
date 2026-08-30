@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ارفڪشاد ⟨את⟩ شلح کي پيدا ڪيو، ۽ شلح ⟨את⟩ عيبر کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "۽ ارفڪشاد"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلح"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شلح"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "۽ شلح"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عيبر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عيبر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:52.294754860Z",
+  "model": "glm-5.3"
+}

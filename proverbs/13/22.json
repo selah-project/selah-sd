@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 13:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "چڱو ماڻهو پنهنجن پوٽن کي ميراث ڏئي ٿو، ۽ گناهگار جو مال نيڪ لاءِ سنڀيل آهي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو ماڻهو"
+    },
+    {
+      "surface": "ינחיל",
+      "gloss": "ميراث ڏئي ٿو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پنهنجن"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پوٽن"
+    },
+    {
+      "surface": "וצפון",
+      "gloss": "۽ سنڀيل آهي"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "نيڪ لاءِ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "مال"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "گناهگار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:46.672465879Z",
+  "model": "glm-5.3"
+}

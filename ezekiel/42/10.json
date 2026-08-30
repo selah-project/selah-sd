@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "صحن جي ڀت جي ويڪر ۾، اوڀر واري رستي تي، الڳ ڪيل جڳھ جي اڳيان ۽ عمارت جي اڳيان، لشڪون ⟨آھن⟩.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "ويڪر ۾"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ڀت"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن جي"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستو"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "اوڀر واري"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "الڳ ڪيل جڳھ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ڏانھن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "عمارت"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "لشڪون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:58:58.361414730Z",
+  "model": "glm-5.3"
+}

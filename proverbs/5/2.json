@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ته تو سگھوڙائي سان بچاءُ ڪرين، ۽ تنهنجا لب علم کي سانڍين۔",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "بچاءُ ڪرين"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "سگھوڙائي"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "۽ علم"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "تنهنجا لب"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "سانڍين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:18.695653918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 109,
+  "translation": "اهي هميشه ياهوه اڳيان رهن، ته هو زمين مان سندن يادگيري ڪڍي ڇڏي.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "رهن"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ته هو ڪڍي ڇڏي"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمين مان"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "سندن يادگيري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:16.679613019Z",
+  "model": "glm-5.3"
+}

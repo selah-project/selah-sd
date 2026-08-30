@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ جيڪڏھن اُهو بستر تي هجي، يا ان هزي تي، جنهن تي هوءَ وهي ٿي، جڏھن ڪوئي ان کي ڇهي، ته اُهو شام تائين نجس ٿيندو.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "بستر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "ان هزي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هوءَ"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "وهي ٿي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "تي"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "جڏھن ڇهي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس ٿيندو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:35.467092251Z",
+  "model": "glm-5.3"
+}

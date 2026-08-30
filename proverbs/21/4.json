@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "اکين جي اوچائي ۽ دل جي ڦهلائي — شريرن جو نِير — پاپ ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "اوچائي"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکين جي"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "۽ ڦهلائي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل جي"
+    },
+    {
+      "surface": "נר",
+      "gloss": "نِير"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شريرن جو"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "پاپ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:49.975710332Z",
+  "model": "glm-5.3"
+}

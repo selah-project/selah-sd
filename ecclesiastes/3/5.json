@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پٿر اڇلائڻ جو وقت ۽ پٿر ڪٺا ڪرڻ جو وقت؛ بکڻ جو وقت ۽ بکڻ کان پري رهڻ جو وقت.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "اڇلائڻ جو"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "۽ وقت"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "ڪٺا ڪرڻ جو"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "بکڻ جو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "۽ وقت"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "پري رهڻ جو"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "بکڻ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:00.916336297Z",
+  "model": "glm-5.3"
+}

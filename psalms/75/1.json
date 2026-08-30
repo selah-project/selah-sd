@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 75,
+  "translation": "ڳائڻ واريءَ جي اڳواڻيءَ لاءِ — «ٽٽڻ نه» — آساف جو زمزمو، هڪ گيت:",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "اڳواڻيءَ لاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ٽٽڻ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زمزمو"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "آساف جو"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:07.713037386Z",
+  "model": "glm-5.3"
+}

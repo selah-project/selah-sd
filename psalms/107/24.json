@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "اهنئي ياهوه جا ڪم ڏٺا ۽ سندس عجائبات اُھٿِي ۾.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "اهنئي"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ڏٺا"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "جا ڪم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "۽ سندس عجائبات"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "اُھٿِي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:47.045851691Z",
+  "model": "glm-5.3"
+}

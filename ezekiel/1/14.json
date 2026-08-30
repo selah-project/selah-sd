@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 1:14",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ جاندار ڊوڪڻ ۽ موڙڻ بجليءَ جي چمڪ جي منظر جهڙا هئا.",
+  "tokens": [
+    {
+      "surface": "והחיות",
+      "gloss": "۽ جاندار"
+    },
+    {
+      "surface": "רצוא",
+      "gloss": "ڊوڪڻ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "۽ موڙڻ"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "منظر جهڙا"
+    },
+    {
+      "surface": "הבזק",
+      "gloss": "بجليءَ جي چمڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:26:09.735721603Z",
+  "model": "glm-5.3"
+}

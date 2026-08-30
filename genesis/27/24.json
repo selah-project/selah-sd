@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ چيائين: تون ئي هيءُ منهنجو پٽ عيسو آهين؟ ۽ چيائين: آءٌ آهيان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "منهنجو پٽ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ آهيان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:20.895398785Z",
+  "model": "glm-5.3"
+}

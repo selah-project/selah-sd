@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ڇهين مهيني جي چوئنٽيهين ڏينهن تي، بادشاهه داريائس جي ٻئي سال ۾.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "چوئنٽيھ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني جي"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "ڇهين"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "سال ۾"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "داريائس جي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:26.665961563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 121,
+  "translation": "ياهوه توکي سڀ بڇڙائي کان بچائيندو، هو تنهنجي جيون کي رکندو.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "توکي بچائيندو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڀ کان"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بڇڙائي"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "رکندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تنهنجي جيون"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "تنهنجي جيون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:08.897246549Z",
+  "model": "glm-5.3"
+}

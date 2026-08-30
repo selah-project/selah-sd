@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "توهان جا پيءُ ڪٿي ⟨آھن⟩؟ ۽ نبي ڇا هميشه جيئندا؟",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "توهان جا پيءُ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ڪٿي"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "۽ نبي"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "جيئندا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:40.997399673Z",
+  "model": "glm-5.3"
+}

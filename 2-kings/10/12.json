@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ اُٿي، هليو ۽ شمرون ويو؛ هو رستي ۾ مالهن جي ڪَٽڻ جي گھر ۾ هو.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٿي"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "هليو"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ويو"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شمرون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "ڪَٽڻ جي"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "مالهن جي"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:40:38.568112432Z",
+  "model": "glm-5.3"
+}

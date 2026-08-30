@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 20:8",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ان ۾ رهيا، ۽ ان ۾ تنهنجي نالي لاءِ هڪ مقدس جاءِ تو لاءِ ٺاهي، چوندا:",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "۽ رهيا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "۽ ٺاهي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مقدس جاءِ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "تنهنجي نالي لاءِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:58.112176313Z",
+  "model": "glm-5.3"
+}

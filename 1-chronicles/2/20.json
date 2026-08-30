@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ حور ⟨את⟩ اوري کي پيدا ڪيو، ۽ اوري ⟨את⟩ بتصلئيل کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "۽ حور"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوري"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "اوري"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "۽ اوري"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بتصلئيل"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بتصلئيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:15.970881407Z",
+  "model": "glm-5.3"
+}

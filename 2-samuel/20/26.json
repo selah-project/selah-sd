@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ عيرا يائيري داوود جو ڪاھن ⟨ھو⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "عيرا"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "يائيري"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ھو"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ڪاھن"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:23:30.775747444Z",
+  "model": "glm-5.3"
+}

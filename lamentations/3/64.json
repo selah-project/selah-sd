@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ياهوه، تون کين بدلو ڏيندين، سندن هٿن جي ڪم موجب.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "تون بدلو ڏيندين"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "بدلو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "سندن هٿن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:09.638869704Z",
+  "model": "glm-5.3"
+}

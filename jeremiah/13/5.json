@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "پوءِ مان هليس ۽ ان کي فرات ۾ لڪايوم، جيئن ياهوه ⟨את⟩ مون کي حڪم ڏنو.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "پوءِ مان هليس"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "ان کي لڪايوم"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "فرات ۾"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ مون کي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:11:43.921529193Z",
+  "model": "glm-5.3"
+}

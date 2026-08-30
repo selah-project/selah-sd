@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "پوءِ داوود ٻُڌو، ۽ موڪليائين ⟨את⟩ يوآب کي ۽ ⟨את⟩ سارو لشڪر بهادرن جو.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "پوءِ ٻُڌو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "۽ موڪليائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارو لشڪر بهادرن جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارو"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "بهادرن جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:18.473293065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "تعليم ٻڌو ۽ حڪيم ٿيو، ۽ ان کي رد نه ڪريو.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تعليم"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "۽ حڪيم ٿيو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "رد ڪريو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:09.640727967Z",
+  "model": "glm-5.3"
+}

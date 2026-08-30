@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڏسو، شلوموه جي تخت-پالڪي! سٺ سورما ان جي چوڌاري، اسرائيل جي سورمن مان.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "ان جي تخت-پالڪي"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "شلوموه جي"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٺ"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "سورما"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ان جي"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "سورمن مان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:41.519583997Z",
+  "model": "glm-5.3"
+}

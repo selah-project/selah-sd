@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 5:11",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "سندس مٿو خالص سون آھي، سندس وال لڙندڙ کنڊيل آھن، ڪانءِ جيانون ڪارا.",
+  "tokens": [
+    {
+      "surface": "ראשו",
+      "gloss": "سندس مٿو"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "سون"
+    },
+    {
+      "surface": "פז",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "קוצותיו",
+      "gloss": "سندس وال"
+    },
+    {
+      "surface": "תלתלים",
+      "gloss": "لڙندڙ کنڊيل"
+    },
+    {
+      "surface": "שחרות",
+      "gloss": "ڪارا"
+    },
+    {
+      "surface": "כעורב",
+      "gloss": "ڪانءِ جيانون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:48.487548472Z",
+  "model": "glm-5.3"
+}

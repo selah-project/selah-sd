@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 23:37",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ هن ياهوه جي نظر ۾ برائي ڪئي، سڀ ڪجهه جيئن سندس پيؤ ڪيو هيو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ڪئي"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي نظر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سڀ ڪجهه جيئن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "سندس پيؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:46:25.636802384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "پر آءٌ ته ايل ڏانهن ڳولهيندس ۽ ايلوهيم ڏانهن پنهنجو دعوو رکان.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ڳولهيندس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ڏانهن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "رکان"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "پنهنجو دعوو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:34.527032890Z",
+  "model": "glm-5.3"
+}

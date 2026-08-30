@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "مالدار وٽ mindreڍن ۽ ڳئن جا ڌڻ ٿي ويا، تمام گھڻا.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "مالدار وٽ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ھئا"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "منڊين (ڀٻرن) جا ڌڻ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "۽ ڳئن جا"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گھڻا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    }
+  ],
+  "timestamp": "2026-08-30T11:21:10.831975125Z",
+  "model": "glm-5.3"
+}

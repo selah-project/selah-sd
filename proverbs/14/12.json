@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ھڪڙو رستو ماڻھوءَ اڳيان سڌو لڳي ٿو، پر ان جي پڇاڙي موت جا رستا آھن.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ھڪڙو … آھي"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستو"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سڌو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھوءَ"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "پر ان جي پڇاڙي"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "رستا"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:00.647308386Z",
+  "model": "glm-5.3"
+}

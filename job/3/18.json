@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "گڏ قيدي سُکيا ٿي ويا، ⟨هو⟩ نه ٻڌو ظالم جي آواز.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "گڏ"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "قيدي"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "سُکيا ٿي ويا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ظالم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:57.316252871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "سندس الڳ ٿيڻ جي سڀني ڏينهن ۾ هو ياهوه لاءِ پاڪ ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "سندس الڳ ٿيڻ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:07.033481102Z",
+  "model": "glm-5.3"
+}

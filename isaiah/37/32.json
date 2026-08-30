@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 37:32",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "ڇو ته يروشلم مان بقا نڪرندي ۽ جبل صهيون کان بچندڙ؛ ياهوه صبائوت جي غيرت ⟨هي⟩ ڪندي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "يروشلم مان"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نڪرندي"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "بقا"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "۽ بچندڙ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "جبل مان"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "غيرت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ڪندي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:57:41.749369698Z",
+  "model": "glm-5.3"
+}

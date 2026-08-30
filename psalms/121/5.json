@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 121,
+  "translation": "ياهوه تنهنجو رکوالو آهي، ياهوه تنهنجو سايو آهي تنهنجي ساڄي هٿ تي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "تنهنجو رکوالو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "تنهنجو سايو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تنهنجي ساڄي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:08.896816640Z",
+  "model": "glm-5.3"
+}

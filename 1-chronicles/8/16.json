@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ ميخائيل ۽ يشپہ ۽ يوها؛ اھي بريعة جا پٽ ھئا.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "۽ ميخائيل"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "۽ يشپہ"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "۽ يوها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بريعة"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:38.101978836Z",
+  "model": "glm-5.3"
+}

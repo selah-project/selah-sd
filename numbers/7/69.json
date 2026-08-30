@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ ڍڳو، ڍڳن جو پُٽ، ھڪ راند، ھڪ ٻڪريارو، ھڪ سال جو پُٽ، ساڙڻ جي قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ھڪ ڍڳو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳن"
+    },
+    {
+      "surface": "איל",
+      "gloss": "راند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ٻڪريارو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "سال جو"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ساڙڻ جي قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:32.123304857Z",
+  "model": "glm-5.3"
+}

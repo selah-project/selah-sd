@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ڪير ناپاڪ مان پاڪ کي ڏئي سگهي ٿو؟ نه ⟨is⟩ ڪو هڪ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڏئي سگهي ٿو"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "ناپاڪ مان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:31.178799260Z",
+  "model": "glm-5.3"
+}

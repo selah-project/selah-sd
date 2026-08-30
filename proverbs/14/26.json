@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ياهوه جي خوف ۾ طاقت جو پڪ ڀروسو آهي، ۽ سندس پٽن لاءِ پناهه ٿيندي.",
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "خوف ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "پڪ ڀروسو"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت جو"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "۽ سندس پٽن لاءِ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندي"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:54.858415449Z",
+  "model": "glm-5.3"
+}

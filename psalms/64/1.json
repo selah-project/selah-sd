@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 64,
+  "translation": "مُنڀي واريءَ لاءِ، داوود جو مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُنڀي واريءَ لاءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:47.420404601Z",
+  "model": "glm-5.3"
+}

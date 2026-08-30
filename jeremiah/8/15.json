@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "اميد ڪياسين سلامتيءَ جي ۽ ڪوبه ڀلو ناهي؛ شفا جي وقت لاءِ — ۽ ڏسو، دھشت آھي.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "اميد ڪياسين"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "سلامتيءَ جي"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ناهي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڪوبه ڀلو"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "وقت لاءِ"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "شفا جي"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "دھشت آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:10:46.556135408Z",
+  "model": "glm-5.3"
+}

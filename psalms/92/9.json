@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 92,
+  "translation": "۽ تون بلند آھين، سدائين لاءِ، ياهوه۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "سدائين لاءِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:54.884878347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 102,
+  "translation": "ياهوه، منهنجي دعا ٻُڌ ۽ منهنجي مدد جي هِل مَنهنجي وٽ اَچِي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ٻُڌ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "منهنجي دعا"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "۽ منهنجي مدد جي هِل"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تنهن وٽ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "اَچِي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:38.918522139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ سندس ڀيڻ پري بيٺي، ڏسڻ لاءِ ته سندس سان ڇا ڪيو ويندو.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "بيٺي"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "سندس ڀيڻ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "پري"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "ڏسڻ لاءِ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪيو ويندو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس سان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:57:18.039560879Z",
+  "model": "glm-5.3"
+}

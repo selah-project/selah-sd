@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ ⟨את⟩ بني اسرائيل جي پٽن جون مقدس شيون بي عزت نه ڪن، ⟨את⟩ جيڪي ياهوه لاءِ مٿي ڪن.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "بي عزت ڪن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدس شيون"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "مقدس شيون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جون"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "بني اسرائيل جي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جيڪي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "مٿي ڪن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:46.530684216Z",
+  "model": "glm-5.3"
+}

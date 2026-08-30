@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "گونگو کي لعنت نه ڏيين، ۽ اندها اڳيان روڙهو نه رکين؛ پنهنجي ايلوهيم کان ڊڄين، آهي ياهوه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "لعنت ڏيين"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "گونگو کي"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "۽ اڳيان"
+    },
+    {
+      "surface": "עור",
+      "gloss": "اندها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "رکين"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "روڙهو"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "۽ ڊڄين"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "پنهنجي ايلوهيم کان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:01.061856918Z",
+  "model": "glm-5.3"
+}

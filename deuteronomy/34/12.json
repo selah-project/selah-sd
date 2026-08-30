@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ سڀني زبردست هٿ ۽ سڀني وڏي هيبت ۾، جيڪي موشي سڀني اسرائيل جي اکين اڳيان ڪيو.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "۽ سڀني ۝"
+    },
+    {
+      "surface": "היד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "زبردست"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "۽ سڀني ۝"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "هيبت"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "اکين اڳيان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:49:11.700984528Z",
+  "model": "glm-5.3"
+}

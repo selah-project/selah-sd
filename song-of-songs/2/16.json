@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "منھنجو ٻيڙو منھنجو آھي ۽ مان سندس آھيان؛ هو ڪنولن ۾ چارو ڏسي ٿو.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "منھنجو ٻيڙو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منھنجو"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "چارو ڏسي ٿو"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "ڪنولن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:09.962203397Z",
+  "model": "glm-5.3"
+}

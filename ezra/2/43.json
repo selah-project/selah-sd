@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezra 2:43",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "نتينيم: زچا جا پٽ، حصوفا جا پٽ، طباعوت جا پٽ.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "نتينيم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "ציחא",
+      "gloss": "زچا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "חשופא",
+      "gloss": "حصوفا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "طباعوت"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:03.793316702Z",
+  "model": "glm-5.3"
+}

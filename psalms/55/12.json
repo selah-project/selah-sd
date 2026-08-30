@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 55,
+  "translation": "بربادي ان جي وچ ۾ آهي، ۽ ظلم ۽ فريب ان جي ميدان کان پري نه ٿا ٿين.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "بربادي"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ان جي وچ ۾"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "پري نه ٿا ٿين"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "ان جي ميدان کان"
+    },
+    {
+      "surface": "תך",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "۽ فريب"
+    }
+  ],
+  "timestamp": "2026-08-30T15:02:29.790414392Z",
+  "model": "glm-5.3"
+}

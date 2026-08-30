@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پنھنجي نظر ۾ ڏاهو نه ٿِيءُ؛ ⟨את⟩ ياهوه کان ⟨את⟩ ڊَر ۽ بڇڙائي کان هٽي وڃ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ٿِيءُ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ڏاهو"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "پنھنجي نظر ۾"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨את⟩ ياهوه"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "۽ هٽي وڃ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "بڇڙائي کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:53.455601376Z",
+  "model": "glm-5.3"
+}

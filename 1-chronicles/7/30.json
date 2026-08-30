@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "آشر جا پٽ: يمنه ۽ يشوه ۽ يشوي ۽ بريعة ۽ سرح، انھن جي ڀيڻ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "يمنه"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "۽ يشوه"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "۽ يشوي"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "۽ بريعة"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "۽ سرح"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "انھن جي ڀيڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:43.750261872Z",
+  "model": "glm-5.3"
+}

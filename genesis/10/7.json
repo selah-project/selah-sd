@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 10:7",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ڪوش جا پٽ: سبا ۽ حويلا ۽ سبته ۽ رعما ۽ سبتكها؛ ۽ رعما جا پٽ: شبا ۽ ددان۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پٽ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ڪوش"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "سبا"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "۽ حويلا"
+    },
+    {
+      "surface": "וסבתה",
+      "gloss": "۽ سبته"
+    },
+    {
+      "surface": "ורעמה",
+      "gloss": "۽ رعما"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "۽ سبتكها"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پٽ"
+    },
+    {
+      "surface": "רעמה",
+      "gloss": "رعما"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شبا"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "۽ ددان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:31.944020010Z",
+  "model": "glm-5.3"
+}

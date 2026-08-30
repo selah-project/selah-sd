@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 147,
+  "translation": "جانور کي سندس کاڌو ڏئي ٿو، ڪوءِ جي ٻچن کي جيڪي پڪارين ٿا.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "ڏئي ٿو"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "جانور کي"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "سندس کاڌو"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ٻچن کي"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ڪوءِ جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "پڪارين ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:44.705481054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "تنھنڪري رشعيم فيصلي ۾ ⟨نه⟩ اُٿندا، ۽ خطائين جي בעדת صالحن ۾.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تنھنڪري (انڪري)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تنھنڪري"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "اُٿندا"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رشعيم"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "فيصلي ۾"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "۽ خطائين"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "جماعت ۾"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صالحن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:58:50.077765763Z",
+  "model": "glm-5.3"
+}

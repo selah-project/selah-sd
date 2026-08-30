@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 16:1",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "پوءِ کورح پٽ يصهار جو، پٽ قهات جو، پٽ لاوي جو، وٺي ورتو — داتان ۽ ابيرام پٽ ايلياب جا، ۽ اون پٽ پيلت جو، پٽ رئوبن جي —",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وٺي ورتو"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "کورح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "يصهار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "ודתן",
+      "gloss": "۽ داتان"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "۽ ابيرام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ايلياب"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "۽ اون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "پيلت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:55.445622018Z",
+  "model": "glm-5.3"
+}

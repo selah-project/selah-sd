@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ياهوه موشي سان ۽ اهارون سان ڳالھيو، چوي ٿو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالھيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:33.998455231Z",
+  "model": "glm-5.3"
+}

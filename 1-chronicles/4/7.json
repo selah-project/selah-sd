@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ حلاع جا پُٽ هئا: صريت، يصحار ۽ اثنان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پُٽ"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "حلاع جا"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "صريت"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "يصحار"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "۽ اثنان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:02.107369638Z",
+  "model": "glm-5.3"
+}

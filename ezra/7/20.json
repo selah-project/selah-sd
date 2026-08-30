@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 7:20",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ تنهنجي ايله جي گهر جي ٻي جيڪا ضرورت تنهنجي ڏيڻ جي لڳي، بادشاهه جي خزاني گهران ڏي.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "۽ ٻي"
+    },
+    {
+      "surface": "חשחות",
+      "gloss": "ضرورت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "تنهنجي ايله جي"
+    },
+    {
+      "surface": "די",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "لڳي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي"
+    },
+    {
+      "surface": "למנתן",
+      "gloss": "ڏيڻ جي"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "خزاني"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاهه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:05:28.698760357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ⟨את⟩ چئن گاڏين ۽ ⟨את⟩ اٺن ڍڳن کي مراري جي پٽن کي ڏنو، سندن خدمت جي مطابق، اهارون پٽ ڪاھن ايتامار جي هٿ هيٺ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "چئن گاڏين"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چئن"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "گاڏين"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "اٺن ڍڳن"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "اٺن"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ڍڳن"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "جي پٽن کي"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراري"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "مطابق"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "سندن خدمت"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ هيٺ"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "ايتامار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاھن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:30.036435084Z",
+  "model": "glm-5.3"
+}

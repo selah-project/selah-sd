@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ آحز ⟨את⟩ يعرا کي پيدا ڪيو؛ ۽ يعرا ⟨את⟩ عالمت ۽ ⟨את⟩ عزموت ۽ ⟨את⟩ زمري کي پيدا ڪيو؛ ۽ زمري ⟨את⟩ موتسا کي پيدا ڪيو۔",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "۽ آحز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يعرا"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "يعرا"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "۽ يعرا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عالمت"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "عالمت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عزموت"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "عزموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "زمري"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "زمري"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "۽ زمري"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موتسا"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "موتسا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:17.684641162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ان ڪري جو زمين ٽٽي آھي، ڇوته زمين ۾ مينهن نه ٿيو؛ ھاري شرمندا ٿيا، پنھنجو مٿو ڍڪيائون.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ان ڪري جو"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "ٽٽي آھي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "مينهن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "شرمندا ٿيا"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "ھاري"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "ڍڪيائون"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "پنھنجو مٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:12:06.536833842Z",
+  "model": "glm-5.3"
+}

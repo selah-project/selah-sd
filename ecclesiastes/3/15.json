@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "جيڪو ٿي چڪو آهي اهو اڳ ئي هو، ۽ جيڪو ٿيڻو آهي اهو اڳ ئي ٿي چڪو آهي؛ ۽ ايلوهيم ⟨את⟩ پيڇيل کي ڳولي ٿو.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ٿي چڪو آهي"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "اڳ ئي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "۽ جيڪو"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ٿيڻو آهي"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "اڳ ئي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿي چڪو"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "۽ ايلوهيم"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ڳولي ٿو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پيڇيل"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "پيڇيل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:23.856847939Z",
+  "model": "glm-5.3"
+}

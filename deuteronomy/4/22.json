@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ڇوته آءٌ هن زمين ۾ مرندس، آءٌ ياردن ⟨את⟩ پار نه ڪندس، پر توهين پار ڪريو ۽ ان سٺي زمين ⟨את⟩ جي ملڪيت ڪريو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مرندس"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "هن زمين ۾"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "پار ڪندس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ياردن"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "پر توهين"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "پار ڪندا"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "۽ ملڪيت ڪريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "سٺي"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:45.698486036Z",
+  "model": "glm-5.3"
+}

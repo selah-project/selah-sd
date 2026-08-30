@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 30:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "چار آهن زمين جا ننڍا، پر اهي حيرت جهڙا سياڻا آهن؛",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آهن"
+    },
+    {
+      "surface": "קטני",
+      "gloss": "ننڍا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جا"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "پر اهي"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "سياڻا"
+    },
+    {
+      "surface": "מחכמים",
+      "gloss": "حيرت جهڙا سياڻا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:59.276474266Z",
+  "model": "glm-5.3"
+}

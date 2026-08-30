@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ يفديه ۽ پنئيل — شاشق جا پٽ.",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "۽ يفديه"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "۽ پنئيل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "شاشق"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:29.087684634Z",
+  "model": "glm-5.3"
+}

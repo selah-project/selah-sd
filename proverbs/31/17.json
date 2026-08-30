@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 31:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "هن پنهنجيlang caste كمر طاقت سان ٻڌي، ۽ پنهنجون ٻانهون مضبوط ڪيائين.",
+  "tokens": [
+    {
+      "surface": "חגרה",
+      "gloss": "ٻڌيائين"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "طاقت سان"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "پنهنجي كمر"
+    },
+    {
+      "surface": "ותאמץ",
+      "gloss": "مضبوط ڪيائين"
+    },
+    {
+      "surface": "זרעותיה",
+      "gloss": "پنهنجون ٻانهون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:40.840283948Z",
+  "model": "glm-5.3"
+}

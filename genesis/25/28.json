@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ اسحاق ⟨את⟩ عيسو کي پريت ڪيو، ڇوته شڪار سندس وات ۾ هو؛ ۽ ريبيکہ ⟨את⟩ يعقوب کي پريت ڪئي.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "پريت ڪيو"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "اسحاق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عيسو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "شڪار"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "سندس وات ۾"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "۽ ريبيکہ"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "پريت ڪئي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يعقوب"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:45.527460871Z",
+  "model": "glm-5.3"
+}

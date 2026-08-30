@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 73,
+  "translation": "آصف لاءِ مزمور۔ البتہ اسرائيل لاءِ ايلوهيم سٺو آھي، صاف دل وارن لاءِ۔",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "آصف لاءِ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "البته"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "سٺو"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "اسرائيل لاءِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "وارن لاءِ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "صاف دل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:09.763120795Z",
+  "model": "glm-5.3"
+}

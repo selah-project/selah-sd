@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ مڪيه ڀري ⟨את⟩ لوي جي هٿ کي، ۽ نوجوان ان لاءِ ڪوھن ٿي ويو، ۽ هو مڪيه جي گھر ۾ رھيو.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ڀري"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مڪيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوي جي هٿ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لوي جي"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان لاءِ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ڪوھن"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "رھيو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر ۾"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مڪيه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:03:36.332294042Z",
+  "model": "glm-5.3"
+}

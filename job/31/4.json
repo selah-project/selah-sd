@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "ڇا، ⟨هو⟩ منهنجا رستا نه ٿو ڏسي، ۽ منهنجا سڀ قدم ڳڻي ٿو؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ڇا، نه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ٿو ڏسي"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "منهنجا رستا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "منهنجا قدم"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "ڳڻي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:42:02.610021583Z",
+  "model": "glm-5.3"
+}

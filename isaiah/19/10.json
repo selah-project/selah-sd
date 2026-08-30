@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ ان جون ٺاٺون پيسيون وينديون؛ مزدوري ڪندڙ سڀ جيءُ ماري ويا.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "ان جون ٺاٺون"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "پيسل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ڪندڙ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "مزدوري"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "مارجل"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:52:07.562770065Z",
+  "model": "glm-5.3"
+}

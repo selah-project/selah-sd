@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ چوندا سڀ قومون: ’ڇو ڪري ياهوه ائن هن زمين سان ڪيو؟ ڇا آهي هن وڏي غضب جي سڙاءُ؟‘",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "۽ چوندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ائن"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "هن زمين سان"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "سڙاءُ"
+    },
+    {
+      "surface": "האף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:20.040344029Z",
+  "model": "glm-5.3"
+}

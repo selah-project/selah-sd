@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ موٽي عين مشفات يعني قادش ڏانھن آيا، ۽ ⟨את⟩ سڀ کيت جيڪو عمالقي جو ھو ماريو، ۽ پڻ ⟨את⟩ اموري کي، جيڪو حصصون تمر ۾ رھندو ھو۔",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "موٽي"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "مشفات"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "يعني"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادش"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ماريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ کيت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کيت"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "عمالقي جو"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اموري"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموري"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "رھندو ھو"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "حصصون"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تمر ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:29.441692728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 18:19",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ اھو ٿيندو: جيڪو ماڻھو مون جي ان لفظن تي جيڪي هو پنھنجي نالي سان چندو، ڪَن نه ٻَڌي، مان ان کان ان جو پڇا ڪندس.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ اھو ٿيندو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "جو ماڻھو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ڪَن ٻَڌي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تان"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "مون جي لفظن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "هو چندو"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "پنھنجي نالي سان"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مان"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "پڇا ڪندس"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ان کان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:24.577157175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ انصاف بيابان ۾ رھندو، ۽ صداقت سرسبز باغ ۾ ويٺي رھندي.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "۽ رھندو"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "۽ صداقت"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "سرسبز باغ ۾"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ويٺي رھندي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:55:14.072601685Z",
+  "model": "glm-5.3"
+}

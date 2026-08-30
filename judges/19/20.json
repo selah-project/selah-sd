@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 19:20",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "پير ماڻهوءَ چيو: تنهنجي سلامتي هجي؛ رڳو تنهنجي ساري ڪمي مون تي آهي؛ رڳو چوڪ ۾ رات ڪرڻ نه ڪج.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ماڻهوءَ"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "پير"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي لاءِ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "מחסורך",
+      "gloss": "تنهنجي ڪمي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "چوڪ ۾"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "رات ڪرين"
+    }
+  ],
+  "timestamp": "2026-08-30T11:04:17.876902833Z",
+  "model": "glm-5.3"
+}

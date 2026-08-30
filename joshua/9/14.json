@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ماڻھن کين انھن جو کاڌو وٺي مِٺو، پر ياهوه جو منھن ⟨את⟩ نه پڇيائون.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "۽ کين وٺي مِٺو"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "انھن جو کاڌو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جو منھن"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منھن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "پڇيائون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:50:57.016099408Z",
+  "model": "glm-5.3"
+}

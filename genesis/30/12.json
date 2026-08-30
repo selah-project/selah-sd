@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ زلفه، ليعه جي ٻانھي، يعقوب کي ٻيو پٽ ڄڻيو.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زلفه"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ٻانھي"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ليعه جي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "يعقوب کي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:29.534825042Z",
+  "model": "glm-5.3"
+}

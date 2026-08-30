@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ اهارون جا پٽ، ڪاهن، ⟨את⟩ ٽڪرن کي، ⟨את⟩ مٿي ۽ ⟨את⟩ چرٻي کي، ان ڪاٺ تي ترتيب سان رکن، جيڪو باهه تي آهي، جيڪو قربانگاهه تي آهي.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "۽ ترتيب سان رکن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٽڪرن"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ٽڪرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مٿي"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مٿو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "چرٻي"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "چرٻي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ڪاٺ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "האש",
+      "gloss": "باهه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:58.961772483Z",
+  "model": "glm-5.3"
+}

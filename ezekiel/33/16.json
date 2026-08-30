@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 33:16",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "سندس ساري گناھ جن هن ڪيا سو ياد نه ڪئي وينديس؛ انصاف ۽ صداقت ڪيائين — جيئر جيئندو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "گناھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ڪيا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תזכרנה",
+      "gloss": "ياد ڪئي ويندي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس لاءِ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "۽ صداقت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيائين"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "جيئر"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جيئندو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:37:43.091832333Z",
+  "model": "glm-5.3"
+}

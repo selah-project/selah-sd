@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مون پنهنجي سڄي قوم لاءِ ٽوڪ بڻجي ويس، سندن گيت سڄو ڏينهن.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "بڻجي ويس"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ٽوڪ (کِل)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڄي لاءِ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "مون جي قوم"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "سندن گيت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:07.739791742Z",
+  "model": "glm-5.3"
+}

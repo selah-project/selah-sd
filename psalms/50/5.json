@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "مون جا خيسيد مون وٽ گڏ ٿيو، جيڪي قربانيءَ تي مون سان عهد مڪندڙ آهن.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "گڏ ٿيو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "مون جا خيسيد"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "مڪندڙ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "عهد"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "تي"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:55.412812154Z",
+  "model": "glm-5.3"
+}

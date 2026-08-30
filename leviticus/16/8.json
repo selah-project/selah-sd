@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ اهارون ٻنهي ٻڪرن تي قرعا وجهندو — هڪ قرعو ياهوه لاءِ ۽ هڪ قرعو عزازيل لاءِ.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "۽ وجهندو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻنهي"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "ٻڪرن"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "قرعا"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "هڪ قرعو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "۽ هڪ قرعو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "عزازيل لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:50.242480871Z",
+  "model": "glm-5.3"
+}

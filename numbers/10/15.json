@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ يسڪر جي پٽن جي قبيلي جي لشڪر تي نتنائل بن صوعار ھو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبيلي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "يسڪر"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نتنائل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن\/پٽ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "صوعار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:50.547143683Z",
+  "model": "glm-5.3"
+}

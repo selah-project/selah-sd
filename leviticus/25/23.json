@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ زمين هميشه لاءِ نه وڪامجي، ڇوته زمين منهنجي آهي؛ ڇوته توهان مون سان پرديسي ۽ رهائش وارا آهيو.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "۽ زمين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "وڪامجي"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "هميشه لاءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منهنجي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "پرديسي"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "۽ رهائش وارا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "مون سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:27.668568222Z",
+  "model": "glm-5.3"
+}

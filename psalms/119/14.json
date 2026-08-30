@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "تنهنجين گواهين جي واٽ ۾ آءٌ خوش ٿيو آهيان، سڀ امارت جيتري.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "جي واٽ ۾"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "تنهنجين گواهين"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "آءٌ خوش ٿيو آهيان"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "جيتري"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "امارت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:20:05.496268396Z",
+  "model": "glm-5.3"
+}

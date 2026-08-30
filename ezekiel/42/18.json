@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "⟨את⟩ ڏکڻ وارو پاسو ماپيائين، پنج سَو قَنون، ماپ واري قَن سان.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڏکڻ وارو پاسو"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "پاسو"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "ڏکڻ وارو"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ماپيائين"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قَنون"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "قَن سان"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ماپ واري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:58:41.577199077Z",
+  "model": "glm-5.3"
+}

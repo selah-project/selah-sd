@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ قوم مارڻ واري ڏانهن نه موٽيو، ۽ ⟨את⟩ فوجن جي ياهوه کي نه ڳوليائين.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "۽ قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שב",
+      "gloss": "موٽيو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "مارڻ واري"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "فوجن جي ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "فوجن جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ڳوليائين"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:12.132036710Z",
+  "model": "glm-5.3"
+}

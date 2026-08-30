@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "مون کي ڏسن ٿا سي سڀ مون تي ٽوڪ ڪن ٿا؛ هونٽ اڇلاڙيندا، مٿو هلاڻ ٿا،",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ڏسن ٿا"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ٽوڪ ڪن ٿا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "יפטيرו",
+      "gloss": "اڇلاڙيندا"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "هونٽ"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "هلاڻ ٿا"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:48.165188193Z",
+  "model": "glm-5.3"
+}

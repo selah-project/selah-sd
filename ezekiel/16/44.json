@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezekiel 16:44",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ڏس، هر پهاڪو چوڻ وارو تنهنجي باري ۾ چوندو: جيئن ماءُ، تيئن ڇوڪري.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "پهاڪو چوڻ وارو"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تنهنجي باري ۾"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "چوندو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    },
+    {
+      "surface": "כאמה",
+      "gloss": "جيئن ماءُ"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "تيئن ڇوڪري"
+    }
+  ],
+  "timestamp": "2026-08-30T12:31:29.583338036Z",
+  "model": "glm-5.3"
+}

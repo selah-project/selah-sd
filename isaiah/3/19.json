@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "لڙڪندڙ لعل، ۽ ڪڙا، ۽ پردا —",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "لڙڪندڙ لعل"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "۽ ڪڙا"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "۽ پردا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:31.057773272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 7:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پوءِ پڪڙيائين ⟨کيس⟩ ۽ چميائينس؛ سخت ڪيائين پنهنجو منهن ۽ چيائين ⟨کيس⟩:",
+  "tokens": [
+    {
+      "surface": "והחזיקה",
+      "gloss": "پڪڙيائين"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨کيس⟩"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "چميائينس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨کيس⟩"
+    },
+    {
+      "surface": "העזה",
+      "gloss": "سخت ڪيائين"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "پنهنجو منهن"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨کيس⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:49.145391869Z",
+  "model": "glm-5.3"
+}

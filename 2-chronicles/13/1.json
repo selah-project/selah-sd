@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ياربوعام بادشاهه جي ارڙهين سال ۾ ابيا يهودا تي بادشاهي ڪيائين.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "۾ سال"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-ارڙهه"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاهه جي"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ياربوعام"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "۽ بادشاهي ڪيائين"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابيا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:58.387488180Z",
+  "model": "glm-5.3"
+}

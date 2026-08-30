@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ پڻ ⟨את⟩ ٻڌيءَ جي پُٽ کي قوم بڻائيندس، ڇو ته هو تنهنجو نسل آهي.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٻڌيءَ جي پُٽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ٻڌيءَ جي"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "بڻائيندس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تنهنجو نسل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:01.515490392Z",
+  "model": "glm-5.3"
+}

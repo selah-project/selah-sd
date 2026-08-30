@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ابراهام ⟨את⟩ رڍن جون ست مينيون الڳ کڻي بيٺيون.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "بيٺيون ڪيائين"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ست مينيون"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "مينيون"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "رڍن جون"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "الڳ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:15.566787755Z",
+  "model": "glm-5.3"
+}

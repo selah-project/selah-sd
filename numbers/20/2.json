@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ٽوليءَ لاءِ پاڻي ڪونه هو، ۽ موشيءَ ۽ اهارون جي خلاف گڏ ٿيا.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽…ڪونه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "ٽوليءَ لاءِ"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "گڏ ٿيا"
+    },
+    {
+      "surface": "על",
+      "gloss": "خلاف"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيءَ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽…جي خلاف"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:25.411502601Z",
+  "model": "glm-5.3"
+}

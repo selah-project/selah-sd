@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "تنهنڪري ايلوهيم ⟨את⟩ توهان جي پيءُ جي مال کي کسيو ۽ مون کي ڏنو.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "کسيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "توهان جي پيءُ جي مال"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "توهان جي پيءُ جي"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:48:42.459071556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇا تائين سج به نه ڏٺو اٿس ۽ نه ڪجهه سڃاڻيو اٿس؛ هن کي ان کان وڌيڪ آرام آھي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ڇا تائين"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "سڃاڻيو"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "هن کان"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ان کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:49.518142093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 99,
+  "translation": "اھي تنهنجو نالو ساراهين — وڏو ۽ ڀانءَ ٿيندڙ؛ قدوس ⟨هو⟩ آھي.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "اھي ساراهين"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تنهنجو نالو"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "۽ ڀانءَ ٿيندڙ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قدوس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:15.206672561Z",
+  "model": "glm-5.3"
+}

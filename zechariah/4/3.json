@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ٻه زيتون وڻ ان سان، هڪ گلہ جي ساڄي پاسي ۽ هڪ ان جي کاٻي پاسي.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "زيتون وڻ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان سان"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "جي ساڄي"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "گلہ جي"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "۽ هڪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "کاٻي پاسي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:24.744566664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ٽئين دريا جو نالو حِدَدقل آھي، اھو ⟨هو⟩ آشور جي اڀرندي پاسي وڃي ٿو؛ ۽ چوٿون دريا ⟨هو⟩ فرات آھي.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "دريا"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ٽيون"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "حددقل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "وينڊو"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "اڀرندي پاسي"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "۽ دريا"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوٿون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "فرات"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:15.652027513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ياهوه اهارون سان ڳالھايو، چوندو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالھايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:15:28.136401968Z",
+  "model": "glm-5.3"
+}

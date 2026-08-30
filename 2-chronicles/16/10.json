@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 16:10",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "پوءِ آسا ناظر تي ڪاوڙي ۽ کيس قيد جي گهر ۾ وڌو، ڇاڪ ته هن ڳالهه تي هو هن سان رڙ ۾ هو؛ ۽ آسا ان وقت ماڻهن مان ڪن کي ستايو.",
+  "tokens": [
+    {
+      "surface": "ויכעס",
+      "gloss": "ڪاوڙيو"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ناظر"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "کيس وڌو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "قيد جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪ ته"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "رڙ ۾"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "هن سان"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هن ڳالهه"
+    },
+    {
+      "surface": "וירצץ",
+      "gloss": "ستايو"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ان وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:35.553968836Z",
+  "model": "glm-5.3"
+}

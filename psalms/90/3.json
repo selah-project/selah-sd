@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 90,
+  "translation": "تو فاني ماڻھوءَ کي ڌوڙ تائين واپس ڦيرائيندو آھين، ۽ چوندين: واپس وrego، آدم جا پٽ!",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "واپس ڦيرائيندو آھين"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فاني ماڻھوءَ کي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ڌوڙ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "چوندين"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "واپس وrego"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:21.623750396Z",
+  "model": "glm-5.3"
+}

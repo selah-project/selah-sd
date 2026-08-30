@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ياهوه موشي ۽ اهارن سان ڳالھيو، چوڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ڳالھيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:58:09.033730299Z",
+  "model": "glm-5.3"
+}

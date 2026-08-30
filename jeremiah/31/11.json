@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "ڇوته ياهوه ⟨את⟩ يعقوب کي مَوتي ڇڏايو ۽ کيس مَٿس طاقتور جي ھٿان آزاد ڪيو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "مَوتي ڇڏايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يعقوب"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب کي"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "۽ کيس آزاد ڪيو"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ھٿان"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "طاقتور"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "مَٿس"
+    }
+  ],
+  "timestamp": "2026-08-30T12:16:16.603789505Z",
+  "model": "glm-5.3"
+}

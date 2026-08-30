@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 87,
+  "translation": "آءٌ رھاب ۽ بابل کي پنھنجن ڄاڻندڙن ۾ ياد ڪندس؛ ڏسو، فلسطين ۽ صور، ڪوش سان — ھي ⟨اتي⟩ ڄائو.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "آءٌ ياد ڪندس"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "رھاب"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "۽ بابل"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "پنھنجن ڄاڻندڙن ۾"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "فلسطين"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "۽ صور"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ڪوش"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄائو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:59.602833689Z",
+  "model": "glm-5.3"
+}

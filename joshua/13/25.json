@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 13:25",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ کين ھنن جي سرحد ٿي: ياعزير ۽ گلعاد جون سڀ شهر ۽ بني-عامون جي زمين جو اڌ، عروعر تائين جيڪو ربه جي سامهون آھي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ياعزير"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گلعاد جون"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "۽ اڌ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عامون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "ערוער",
+      "gloss": "عروعر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي سامهون"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منھن"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ربه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:00.374726161Z",
+  "model": "glm-5.3"
+}

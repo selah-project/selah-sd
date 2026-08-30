@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 52:2",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 52,
+  "translation": "۽ ⟨هن⟩ ياهوه جي نظر ۾ بڇڙائي ڪئي، ان سڀ کان مطابق جيڪو يهوياقيم ڪيو ھو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيائين"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بڇڙائي"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي نظر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ان سڀ کان مطابق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "يهوياقيم"
+    }
+  ],
+  "timestamp": "2026-08-30T12:26:21.248731958Z",
+  "model": "glm-5.3"
+}

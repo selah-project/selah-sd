@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "ڪهڙا خوش نصيب آھن رستي ۾ پورا، جيڪي ياهوه جي تورات ۾ ھلن ٿا.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ڪهڙا خوش نصيب"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "پورا"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستي ۾"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "جن جيڪي ھلن ٿا"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "جي تورات ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:20:16.037698457Z",
+  "model": "glm-5.3"
+}

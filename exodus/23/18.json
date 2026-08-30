@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "تون خمير سان پنهنجي قرباني جو رت قربان نه ڪرين، ۽ پنهنجي پروهه جي چرٻي صبح تائين رات نه رهي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "قربان ڪرين"
+    },
+    {
+      "surface": "על",
+      "gloss": "سان"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "خمير"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "پنهنجي قرباني جو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "رات رهي"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چرٻي"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "پنهنجي پروهه جي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    }
+  ],
+  "timestamp": "2026-08-30T10:04:16.526666152Z",
+  "model": "glm-5.3"
+}

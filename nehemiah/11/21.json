@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 11:21",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ نٿينيم عوپل ۾ رھندا ھئا، ۽ صيحا ۽ گشفا نٿينيم تي (نگران ھئا).",
+  "tokens": [
+    {
+      "surface": "והנתינים",
+      "gloss": "۽ نٿينيم"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "رھندا ھئا"
+    },
+    {
+      "surface": "בעפל",
+      "gloss": "عوپل ۾"
+    },
+    {
+      "surface": "וציחא",
+      "gloss": "۽ صيحا"
+    },
+    {
+      "surface": "וגשפא",
+      "gloss": "۽ گشفا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "نٿينيم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:58.715736344Z",
+  "model": "glm-5.3"
+}

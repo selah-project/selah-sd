@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ٻُڌ، اي يسرائيل: ياهوه اسان جو ايلوهيم — ياهوه ⟨آھي⟩ ھڪ.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ٻُڌ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اي يسرائيل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "اسان جو ايلوهيم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:38:42.714979196Z",
+  "model": "glm-5.3"
+}

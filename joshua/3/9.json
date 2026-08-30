@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ يهوشوا اسرائيل جي پٽن سان چيو: هيڏي اچو ۽ پنھنجي ايلوهيم ياهوه جا ⟨את⟩ لفظ ٻڌو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "اچو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هيڏي"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "۽ ٻڌو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لفظ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "پنھنجي ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:49:03.457180600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ڇاڪاڻ ته توهان هن وقت تائين ⟨the⟩ آرام تي ۽ ⟨the⟩ ورثي تي نه پهتا آهيو، جيڪو ياهوه توهارو ايلوهيم توکي ڏئي ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "پهتا آهيو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "هن وقت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "ورثي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "توهارو ايلوهيم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏئي ٿو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:01.610385663Z",
+  "model": "glm-5.3"
+}

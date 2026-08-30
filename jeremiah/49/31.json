@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 49:31",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "اُٿو، چڙهو ان قوم تي جي آرام ۾ آهي، بيشڪ رهندڙ، ياهوه جو فرمائڻو؛ نه دروازا آهن ان جا ۽ نه ڪو ڏنڊ، اڪيلي رهن ٿا.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "اُٿو"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "چڙهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "שליו",
+      "gloss": "آرام ۾"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "رهندڙ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "جو فرمائڻو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "دروازا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "ڏنڊ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان جا"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "اڪيلي"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "رهن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:25:00.832814506Z",
+  "model": "glm-5.3"
+}

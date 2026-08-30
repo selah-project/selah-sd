@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ايلوهيم ⟨את⟩ روشني ڏٺي ته ⟨اها⟩ سٺي آهي؛ ۽ ايلوهيم روشني ۽ اونداهي جي وچ ۾ ڇڏ ڪيو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏٺي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روشني"
+    },
+    {
+      "surface": "האור",
+      "gloss": "روشني"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "سٺي آهي"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "۽ ڇڏ ڪيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "בין",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "האור",
+      "gloss": "روشني"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ جي وچ ۾"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "اونداهي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:46.863048761Z",
+  "model": "glm-5.3"
+}

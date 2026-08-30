@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ اھي آدم وانگر عھد ڀڳو، اُتي مون سان خيانت ڪيائون.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "آدم وانگر"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "عھد ڀڳو"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عھد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "خيانت ڪيائون"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون سان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:29.678751895Z",
+  "model": "glm-5.3"
+}

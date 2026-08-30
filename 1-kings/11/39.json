@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ آءُ هن لاءِ داويد جي نسل کي ⟨את⟩ ستائيندس، پر سڀ ڏينهن نه.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "۽ آءُ ستائيندس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داويد جي نسل"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "למען",
+      "gloss": "هن لاءِ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هن (ڪم)"
+    },
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:48:23.241601604Z",
+  "model": "glm-5.3"
+}

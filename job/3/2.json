@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ايوب جواب ڏنو ۽ چيائين.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ڏنو"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ايوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:59.983255491Z",
+  "model": "glm-5.3"
+}

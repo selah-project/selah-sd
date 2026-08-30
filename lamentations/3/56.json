@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ٻُڌي تون مُنھنجي آواز؛ پنھنجو ڪن نه لِڪاءُ مُنھنجي ساھ کان، مُنھنجي رڙ کان.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "مُنھنجي آواز"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ٻُڌي تون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעלم",
+      "gloss": "لِڪاءُ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "پنھنجو ڪن"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "مُنھنجي ساھ کان"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "مُنھنجي رڙ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:29.347285259Z",
+  "model": "glm-5.3"
+}

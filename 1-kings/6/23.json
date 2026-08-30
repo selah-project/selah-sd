@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 6:23",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ دبير ۾ ٻه ڪروب ٺاهيائين، زيتون جي ڪاٺ جا، ڏهه هٿن جي هئي ان جي قد جي اٺاءٌ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ٺاهيائين"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "دبير ۾"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ڪروب"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ڪاٺ جا"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "زيتون"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "هٿن"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ان جو قد"
+    }
+  ],
+  "timestamp": "2026-08-30T11:28:41.792726791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ بادشاهه چيو، پاس ٿيءُ، هتي بيٺو ٿيءُ؛ ۽ هو پاس ٿيو ۽ بيٺو رهيو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "סב",
+      "gloss": "پاس ٿيءُ"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "بيٺو ٿيءُ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هتي"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "۽ پاس ٿيو"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "۽ بيٺو رهيو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:24:15.965757859Z",
+  "model": "glm-5.3"
+}

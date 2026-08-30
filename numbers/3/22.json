@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 3:22",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "سندن ڳڻپ، سڀ نر مڻسن جي انگ ۾، هڪ مهيني جي پٽ کان ۽ مٿي؛ سندن ڳڻپ سَواَن هڪ هزار ۽ پنج سَؤ آهي.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "سندن ڳڻپ"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "انگ ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر مَڻس"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "پٽ کان"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "هڪ مهيني جي"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "۽ مٿي"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "سندن ڳڻپ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سَواَن"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هڪ هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:54.402034232Z",
+  "model": "glm-5.3"
+}

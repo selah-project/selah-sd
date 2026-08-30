@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "نيڪ ماڻهو هميشه نه ڊڙندو، پر بڇڙا ماڻهو زمين ۾ رهندا ئي نه.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ ماڻهو"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ڊڙندو"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "پر بڇڙا ماڻهو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "رهندا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:28.625255193Z",
+  "model": "glm-5.3"
+}

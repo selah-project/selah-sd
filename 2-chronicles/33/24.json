@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 33:24",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ سندس نوڪرن مٿس سازش ڪئي ۽ کيس سندس گهر ۾ ماري وڌو.",
+  "tokens": [
+    {
+      "surface": "ויקשרو",
+      "gloss": "۽ سازش ڪئي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "سندس نوڪرن"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "۽ کيس ماري وڌو"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "سندس گهر ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:29:34.672184876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 12:35",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ڪاهنن جي پٽن مان، ترن سان: زڪريah، يوناتان جو پٽ، شمعيه جو پٽ، متنيah جو پٽ، ميکah جو پٽ، زڪور جو پٽ، آسف جو پٽ.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "۽ پٽن مان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهنن جي"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "ترن سان"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زڪريah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "يوناتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شمعيه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "متنيah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "ميکah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زڪور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آسف"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:26.465707807Z",
+  "model": "glm-5.3"
+}

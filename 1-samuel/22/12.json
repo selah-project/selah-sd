@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ شاول چيو: ٻڌ، هاڻي، پٽ اهٽوب! ۽ چيائين: هتي آهيان، منهنجا ادوناي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اهٽوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "هتي آهيان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:13:20.434638725Z",
+  "model": "glm-5.3"
+}

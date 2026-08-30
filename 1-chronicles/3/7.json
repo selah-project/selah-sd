@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ نوگهہ ۽ نيفگ ۽ يفيا.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "۽ نوگهہ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "۽ نيفگ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "۽ يفيا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:52.256008611Z",
+  "model": "glm-5.3"
+}

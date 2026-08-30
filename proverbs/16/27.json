@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "بي-قادر ماڻھو برائي کوٽي ٿو، ۽ سندس لٻن تي سڙندڙ باھ جهڙي آھي.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بي-قادر"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "کوٽي ٿو"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ ... تي"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "سندس لٻن"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "باھ جهڙي"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "سڙندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:21.338899770Z",
+  "model": "glm-5.3"
+}

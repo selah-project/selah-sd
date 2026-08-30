@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 14:18",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ حسيده، ۽ انافه پنھنجي جنس موجب، ۽ دوخيفات، ۽ عطلف.",
+  "tokens": [
+    {
+      "surface": "והחסידה",
+      "gloss": "۽ حسيده"
+    },
+    {
+      "surface": "והאנפה",
+      "gloss": "۽ انافه"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "پنھنجي جنس موجب"
+    },
+    {
+      "surface": "והדוכיפת",
+      "gloss": "۽ دوخيفات"
+    },
+    {
+      "surface": "והעטלף",
+      "gloss": "۽ عطلف"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:39.399828124Z",
+  "model": "glm-5.3"
+}

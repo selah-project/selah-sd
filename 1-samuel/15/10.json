@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 15:10",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ ياهوه جو لفظ شمويل ڏانهن آيو، چوڻ ته",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمويل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته"
+    }
+  ],
+  "timestamp": "2026-08-30T11:10:19.170500074Z",
+  "model": "glm-5.3"
+}

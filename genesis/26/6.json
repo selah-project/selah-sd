@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ يضحاق جرار ۾ رهيو.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "۽ رهيو"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يضحاق"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "جرار ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:12.360860188Z",
+  "model": "glm-5.3"
+}

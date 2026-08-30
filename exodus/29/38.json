@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 29:38",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ هيءُ آهي جو قرباني گاهه تي ڪندين: ٻه مينهن، هڪ سال جا، روز روز، مسلسل.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "۽ هيءُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ڪندين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قرباني گاهه"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "مينهن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "هڪ سال جا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "روز روز"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "مسلسل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:07:07.561040380Z",
+  "model": "glm-5.3"
+}

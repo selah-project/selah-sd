@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 28:24",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ڇوته ⟨هو⟩ زمين جي ڇيڙن ڏانهن ڀرسار نهاري ٿو، سڄي آسمان هيٺ ڏسي ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לקצות",
+      "gloss": "جي ڇيڙن ڏانهن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ڀرسار نهاري ٿو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ڏسي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:33.102898894Z",
+  "model": "glm-5.3"
+}

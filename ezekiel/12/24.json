@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ڇوڪہ اسرائيل جي گھر جي وچ ۾ وڌيڪ ڪوبه بيھودو درشٽي نه ھوندو ۽ نه نرم (چوڻ وارو) جادو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ھوندو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "درشٽي"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "بيھودو"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "۽ جادو"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T12:29:27.398852514Z",
+  "model": "glm-5.3"
+}

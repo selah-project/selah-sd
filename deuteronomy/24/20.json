@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "جڏهن تون پنهنجو زيتون لتاڙين، ته پوءِ ڇانگ نه ڪر؛ اُهو مسافر، يتيم ۽ بيوا لاءِ هجي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "لتاڙين"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "پنهنجو زيتون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "ڇانگ ڪر"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "مسافر لاءِ"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "يتيم لاءِ"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "۽ بيوا لاءِ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:53.770761535Z",
+  "model": "glm-5.3"
+}

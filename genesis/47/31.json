@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "۽ چيائين: مون کي قسم ڏهه؛ ۽ هن کي قسم ڏنائين؛ ۽ اسرائيل بستري جي سرهي تي جهڪيو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "قسم ڏهه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "قسم ڏنائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "جهڪيو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سرهي"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "بستري"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:31.542658244Z",
+  "model": "glm-5.3"
+}

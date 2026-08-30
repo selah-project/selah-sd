@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "زمين ۾ جيڪي قدوسي آھن، سي ⟨آھن⟩ شاندار؛ منھنجي ساري وڻج اُنھن ۾ آھي.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "قدوسين لاءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "המה",
+      "gloss": "سي"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "۽ شاندار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "منھنجي وڻج"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اُنھن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:00.749584737Z",
+  "model": "glm-5.3"
+}

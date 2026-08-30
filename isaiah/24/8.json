@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڊهولن جي خوشي بند ٿي وئي، هُلارن جو کوٽ بند ٿيو، وانجي جي خوشي بند ٿي وئي.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "بند ٿي وئي"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "خوشي"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "ڊهولن جي"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "بند ٿيو"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "کوٽ"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "هُلارن جو"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "بند ٿي وئي"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "خوشي"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "وانجي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:53:51.992444555Z",
+  "model": "glm-5.3"
+}

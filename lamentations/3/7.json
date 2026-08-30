@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ديوار ٺاهيائين مون گِهرائي ۽ مان نَهَ نڪرجي سگهان ٿو؛ منهنجهي زنجير ڳري ڪيائين.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "ديوار ٺاهيائين"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "مون گِهرائي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "نڪرجي سگهان ٿو"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ڳري ڪيائين"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "منهنجهي زنجير"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:55.121778383Z",
+  "model": "glm-5.3"
+}

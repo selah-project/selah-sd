@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 63,
+  "translation": "داويد جو مزمور، جڏهن هو يهوداه جي بيابان ۾ هو.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داويد جو"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "جڏهن هو هو"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:56.434307372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "پنهنجي نالي خاطر، اي ياهوه، تون ماني منهنجي گناهه، ڇوته اهو وڏو آهي.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "خاطر"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "پنهنجي نالي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اي ياهوه"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "۽ تون ماني"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "منهنجي گناهه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:54.446659129Z",
+  "model": "glm-5.3"
+}

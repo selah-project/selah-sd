@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ توهان واپس موٽي ياهوه جي اڳيان روئيو، پر ياهوه توهان جي آواز کي نه ٻڌو ۽ توهان ڏانهن ڪن نه ڏنو.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "wapas mоṭiyo"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "روئيو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "توهان جي آواز کي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "ڪن ڏنو"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "توهان ڏانهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:59.308268913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "genesis 24:62",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ اسحاق بئر-لحئي-روئيءَ جي اچڻ واري واٽ کان آيو، ۽ اهو نڳي (ڏکڻ) ملڪ ۾ رهندو هو.",
+  "tokens": [
+    {
+      "surface": "ויצחק",
+      "gloss": "۽ اسحاق"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "اچڻ واري واٽ کان"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "لحئي"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "روئيءَ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ اهو"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "رهندو هو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملڪ ۾"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "نڳي (ڏکڻ)"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:56.255848097Z",
+  "model": "glm-5.3"
+}

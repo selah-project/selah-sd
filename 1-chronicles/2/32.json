@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ شمّائي جي ڀاءِ ياداع جا پٽ يَتَر ۽ يونatan ھئا؛ ۽ يَتَر مري ويو، پٽ نہ ھوس.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ياداع جا"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ڀاءِ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمّائي جي"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "يَتَر"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "۽ يونatan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري ويو"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "يَتَر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:18.957529032Z",
+  "model": "glm-5.3"
+}

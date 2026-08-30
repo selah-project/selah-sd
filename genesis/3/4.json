@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ نانگ زال ڏانهن وڃي چيو: ”مرڻ سان اصل نه مرندؤ“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "نانگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرڻ سان"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "مرندؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:03.629385116Z",
+  "model": "glm-5.3"
+}

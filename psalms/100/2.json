@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 100,
+  "translation": "ياهوه جي ⟨את⟩ خدمت ڪريو خوشيءَ سان؛ سندس اڳيان اچو راڳ سان.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "خدمت ڪريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "خوشيءَ سان"
+    },
+    {
+      "surface": "באו",
+      "gloss": "اچو"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "سندس اڳيان"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "راڳ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:34.479313107Z",
+  "model": "glm-5.3"
+}

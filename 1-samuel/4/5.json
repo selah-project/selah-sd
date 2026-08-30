@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ٿيو، جڏھن ياهوه جي عھد جي صندوق چونھ ۾ آئي، تڏھن سڄي اسرائيل وڏي هڪل ڏني ۽ زمين گونجي ويئي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "جڏھن آئي"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عھد جي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "چونھ"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "هڪل ڏني"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "هڪل"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "گونجي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:45:21.281510562Z",
+  "model": "glm-5.3"
+}

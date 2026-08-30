@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "پھرئين ڏينهن ۾ توھان لاءِ پاڪ گڏ ٿيڻ ٿيندو؛ سگھو ڪم جي سگھي ڪا بہ ڪجو.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پھرئين"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "پاڪ گڏ ٿيڻ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "توھان لاءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سگھو\/ڪا بہ"
+    },
+    {
+      "surface": "मלאכת",
+      "gloss": "ڪم جي"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "سگھي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ڪجو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:59.615819602Z",
+  "model": "glm-5.3"
+}

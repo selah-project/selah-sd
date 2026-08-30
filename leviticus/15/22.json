@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 15:22",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ جيڪوڪو به ان ڪنھن ۾زي تي ڇهي، جنهن تي هوءَ وهي، سو پنھنجا ڪپڙا ڌوئي ۽ پاڻي ۾ اشنان ڪري، ۽ شام تائين نجس رھي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ جيڪوڪو به"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ڇهي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ان ڪنھن"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ہ지 تي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "وهي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ڌوئي"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "پنھنجا ڪپڙا"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "۽ اشنان ڪري"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻي ۾"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "۽ نجس رھي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:35.466795890Z",
+  "model": "glm-5.3"
+}

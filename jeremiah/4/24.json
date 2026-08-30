@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 4:24",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "مون جبل ڏٺا ۽ ڏسو ٿو ته ھي ڪپ راتا آھن، ۽ سڀ ٽڪريون لوڏجي ويون آھن.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "مون ڏٺا"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو ٿو ته"
+    },
+    {
+      "surface": "רעשים",
+      "gloss": "ڪپ راتا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ٽڪريون"
+    },
+    {
+      "surface": "התקלקלו",
+      "gloss": "لوڏجي ويون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:07:48.050667605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "پس مان وڏو ٿيس ۽ يروشلم ۾ مون کان اڳي ٿيندڙن سڀني کان وڌيس؛ بلڪه منهنجي حكمت مون سان قائم رهي.",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "مان وڏو ٿيس"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "وڌيس"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڀني کان"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "جو ٿيو هو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مون کان اڳي"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلڪه"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "منهنجي حكمت"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "قائم رهي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون سان"
+    }
+  ],
+  "timestamp": "2026-08-30T15:07:47.215778968Z",
+  "model": "glm-5.3"
+}

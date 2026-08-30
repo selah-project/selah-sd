@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "اسان جي پيڙهيون گناهه ڪيو ۽ هو ويا؛ اسين سندن ڏوهه لوڍيوسين.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "اسان جي پيڙهيون"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "گناهه ڪيو"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ڪونهن (ويا)"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسين"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "سندن ڏوهه"
+    },
+    {
+      "surface": "סבلנו",
+      "gloss": "لوڍيوسين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:51.080552388Z",
+  "model": "glm-5.3"
+}

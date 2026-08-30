@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ياهوه موشي کي سڏيو، ۽ ملاقات جي خيمي مان مٿس ڳالايائين، ٿو چوي:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سڏيائين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالايائين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "خيمي مان"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات جي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ٿو چوي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:23.181467998Z",
+  "model": "glm-5.3"
+}

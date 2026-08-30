@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "تنهنڪري ياهوه ⟨את⟩ انهن کي اُتان سڄي زمين جي مٿاڇري تي پکي ڇڏيو، ۽ اهي شهر ٻڌڻ بند ڪري ڇڏيائون.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "پکي ڇڏيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "انهن کي"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اُتان"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مٿاڇري"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "بند ڪري ڇڏيائون"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ٻڌڻ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:56.295132694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 3:9",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ڪيلن جو وزن پنجاهه شيڪل سون ⟨هو⟩، ۽ مٿانهين ڪمرن کي سون سان ڍڪيائين.",
+  "tokens": [
+    {
+      "surface": "ומשקל",
+      "gloss": "۽ وزن"
+    },
+    {
+      "surface": "למסמרות",
+      "gloss": "ڪيلن جو"
+    },
+    {
+      "surface": "לשקלים",
+      "gloss": "شيڪلن ۾"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاهه"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "והעליות",
+      "gloss": "۽ مٿانهين ڪمرن کي"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "ڍڪيائين"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سان سون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:55.540427335Z",
+  "model": "glm-5.3"
+}

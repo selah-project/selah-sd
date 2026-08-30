@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 51:18",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 51,
+  "translation": "اهي بے imposing اوپاڙ آهن، فريب جي تخليق، سندن پھچائڻ جي وقت ۾ اهي تباهه ٿي ويندا.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "اوپاڙ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "تخليق"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "فريب جي"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "جي وقت ۾"
+    },
+    {
+      "surface": "پקדתם",
+      "gloss": "سندن پھچائڻ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "تباهه ٿي ويندا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:25:53.138099837Z",
+  "model": "glm-5.3"
+}

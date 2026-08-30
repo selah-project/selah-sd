@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 8:19",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ڏسو، اهو ⟨ئي⟩ سندس رستي جي خوشي آهي، ۽ مٽيءَ مان ٻيا اُڀرندا.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "خوشي"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "سندس رستي جي"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "۽ مٽيءَ مان"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻيا"
+    },
+    {
+      "surface": "יצמחו",
+      "gloss": "اُڀرندا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:27.887824996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 31:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "اها اُن ۽ ڪنڀر ڳولي ٿي، ۽ پنهنجن هٿن جي سرت سان ڪم ڪري ٿي.",
+  "tokens": [
+    {
+      "surface": "דרשה",
+      "gloss": "ڳولي ٿي"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "اُن"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "۽ ڪنڀر"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "۽ ڪم ڪري ٿي"
+    },
+    {
+      "surface": "בחפץ",
+      "gloss": "سرت سان"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "پنهنجن هٿن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:32.960425056Z",
+  "model": "glm-5.3"
+}

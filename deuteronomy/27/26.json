@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ملعون آهي جيڪو هن تورات جا ⟨את⟩ لفظ قائم نه ڪري ⟨את⟩ انهن کي عمل ۾ آڻڻ لاءِ؛ ۽ سڀ قوم چوندا، آمين.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "قائم ڪري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هن تورات جا لفظ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "عمل ۾ آڻڻ لاءِ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ انهن"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چوندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:17.587399393Z",
+  "model": "glm-5.3"
+}

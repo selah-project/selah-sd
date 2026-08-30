@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 29:24",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ سڀ سردارن ۽ بهادرن، ۽ پڻ بادشاھ داويد جي سڀني پٽن، بادشاھ شلمو جي ھيٺان ھٿ ڏنو.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "והגברים",
+      "gloss": "۽ بهادرن"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد جي"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ھٿ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺان"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلمو جي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:01.034775332Z",
+  "model": "glm-5.3"
+}

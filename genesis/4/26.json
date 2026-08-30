@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ شيث کي به پُٽ ڄائيو، ۽ هن ⟨את⟩ سندس نالو اينوش رکيو؛ تڏهن ياهوه جي نالي سان سڏڻ جو منڍ ٿيو.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "۽ شيث کي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄائيو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ سڏيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس نالو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالو"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "اينوش"
+    },
+    {
+      "surface": "אז",
+      "gloss": "تڏهن"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "منڍ ٿيو"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "سڏڻ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "جي نالي سان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:20.628634132Z",
+  "model": "glm-5.3"
+}

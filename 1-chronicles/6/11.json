@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ايلقناھ؛ ايلقناھ جا پُٽ: صوفاءِ سندس پُٽ، ۽ ناحت سندس پُٽ.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ايلقناھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ايلقناھ"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "صوفاءِ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "۽ ناحت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:40.819877646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ⟨هو⟩ نه ٿو ڄاڻي ته رفائيم اُتي آهن؛ شيول جي اونواهن ۾ سندس گهرايل آهن.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ٿو ڄاڻي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائيم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "جي اونواهن ۾"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "سندس گهرايل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:25.661768881Z",
+  "model": "glm-5.3"
+}

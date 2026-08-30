@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ يونٿان جا پٽ پيلت ۽ زازا ھئا؛ اھي يرحميل جا پٽ ھئا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پٽ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "يونٿان"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "پيلت"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "۽ زازا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ھئا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "يرحميل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:02.030244362Z",
+  "model": "glm-5.3"
+}

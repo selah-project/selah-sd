@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ ابراهام ملڪ جي ماڻهن اڳيان سِرُ نِوائي جُڪيو.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "۽ جُڪيو سِرُ نِوائي"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملڪ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:13.412431135Z",
+  "model": "glm-5.3"
+}

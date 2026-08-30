@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 15:19",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "جن کي ⟨وحده⟩ زمين ڏني وئي، ۽ ڪوبه پراوڻو انهن جي وچ ۾ نه لنگهيو.",
+  "tokens": [
+    {
+      "surface": "להם",
+      "gloss": "جن کي"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "⟨وحده⟩"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ڏني وئي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگهيو"
+    },
+    {
+      "surface": "זר",
+      "gloss": "پراوڻو"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "انهن جي وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:38:14.232837364Z",
+  "model": "glm-5.3"
+}

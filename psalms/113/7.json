@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 113,
+  "translation": "ڪڻڪَ مان هلڪي کي اٿاري ٿو، گهاٽَ مان مسڪين کي مٿي ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "اٿاري ٿو"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "ڪڻڪَ (مٽي) مان"
+    },
+    {
+      "surface": "דל",
+      "gloss": "هلڪي کي"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "گهاٽَ مان"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "مٿي ڪري ٿو"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "مسکين کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:33.868788774Z",
+  "model": "glm-5.3"
+}

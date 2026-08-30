@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "جيڪو مزن سان محبت ٿو ڪري سو محتاج ٿيندو؛ جيڪو شراب ۽ تيل سان محبت ٿو ڪري سو امير نه ٿيندو.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "محتاج"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "محبت ٿو ڪري"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "مزن"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "محبت ٿو ڪري"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "۽ تيل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "امير ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:45.166803931Z",
+  "model": "glm-5.3"
+}

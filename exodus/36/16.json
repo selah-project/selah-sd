@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ هن پنج پردن کي الڳ ⟨את⟩ جوڙيو ۽ ڇھه پردن کي الڳ ⟨את⟩ جوڙيو.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "۽ جوڙيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنج پردن کي"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردن"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "الڳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ڇھه پردن کي"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھه"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردن"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "الڳ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:39.384150836Z",
+  "model": "glm-5.3"
+}

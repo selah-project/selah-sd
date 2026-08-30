@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 24:3",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ بغاوت واري گھر کي ھڪ مثال ٻُڌاءِ، ۽ کين چؤ: اھڙيءَ طرح چوي ٿو ادوناي ياهوه: ديگھ رک، ديگھ رک، ۽ ان ۾ پاڻي به ڍور.",
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "۽ مثال ٻُڌاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "بغاوت واري"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مثال"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ چؤ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اھڙيءَ طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "رک"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ديگھ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "رک"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ڍور"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "مים",
+      "gloss": "پاڻي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:35:08.707054622Z",
+  "model": "glm-5.3"
+}

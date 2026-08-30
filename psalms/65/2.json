@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 65,
+  "translation": "توکي خاموشيءَ جي ساراھ آھي، ايلوهيم، صھيون ۾؛ ۽ توکي نذر ادا ٿيندو.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "خاموشيءَ جي"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ساراھ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صھيون ۾"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "۽ توکي"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ادا ٿيندو"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:01.938602920Z",
+  "model": "glm-5.3"
+}

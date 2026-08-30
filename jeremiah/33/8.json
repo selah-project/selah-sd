@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 33:8",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ مان کين سندن ساري گنھه کان پاڪ ڪندس، جيڪي مون against ڏنائون؛ ۽ سندن سارن گنھن کي معاف ڪندس، جيڪي مون against ڏنائون ۽ جن ۾ مون against بغاوت ڪيائون.",
+  "tokens": [
+    {
+      "surface": "וטהרתים",
+      "gloss": "۽ مان کين پاڪ ڪندس"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "گنھه کان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "گنھه ڪيائون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون against"
+    },
+    {
+      "surface": "וסלחתי",
+      "gloss": "۽ معاف ڪندس"
+    },
+    {
+      "surface": "לכול",
+      "gloss": "سارن"
+    },
+    {
+      "surface": "עונותיהם",
+      "gloss": "گنھن کي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "گنھه ڪيائون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون against"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "۽ جن ۾"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "بغاوت ڪيائون"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون against"
+    }
+  ],
+  "timestamp": "2026-08-30T12:18:05.454514807Z",
+  "model": "glm-5.3"
+}

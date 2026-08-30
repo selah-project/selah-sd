@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "تنهنڪري ان چشمي کي سڏيوordinates بئر-لچائي-رئي (جيئرا ڏسندڙ جي چشمي)؛ ڏسو، اها قادش ۽ برد جي وچ ۾ آهي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تنهنڪري تي"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ان ڪري"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سڏيو ويو"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "ان چشمي کي"
+    },
+    {
+      "surface": "באר",
+      "gloss": "چشمي"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "جيئري (لچائي)"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "رئي (ڏسندڙ)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچ ۾ (قادش جي)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادش"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ وچ ۾"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "برد"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:52.456378673Z",
+  "model": "glm-5.3"
+}

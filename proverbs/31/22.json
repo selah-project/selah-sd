@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 31:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "هن پاڻ لاءِ ڍڪڻا ٺاهيا؛ سندس پوشاڪ اڇو ڪتان ۽ ارجوان آهي.",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "ڍڪڻا"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ٺاهيا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "اڇو ڪتان"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "۽ ارجوان"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "سندس پوشاڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:36.174043438Z",
+  "model": "glm-5.3"
+}

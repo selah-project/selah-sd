@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 26:5",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "عاميل ⟨هو⟩ ڇهون، يشسڪار ستون، پعلٿي اٺون، ڇوته ته ايلوهيم کي برڪت ڏني.",
+  "tokens": [
+    {
+      "surface": "עמיאל",
+      "gloss": "عاميل"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ڇهون"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "يشسڪار"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "پعلٿي"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اٺون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "برڪت ڏني"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:57.971250548Z",
+  "model": "glm-5.3"
+}

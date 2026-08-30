@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ جيڪڏهن سندس قرباني ڍورن مان هجي — رکن مان يا ٻڪرين مان — قرباني لاءِ، ته نر، بِلڪل اَجهَلو، پيش ڪري.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ڍورن"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "سندس قرباني"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "رکن"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ٻڪرين"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "قرباني لاءِ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بِلڪل اَجهَلو"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "پيش ڪري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:19.465224363Z",
+  "model": "glm-5.3"
+}

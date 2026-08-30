@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "ڪنڊ نشي واري جي هٿ ۾ چڙهي ٿو، ۽ پهاڙو موڙهن جي وات ۾ آهي.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "ڪنڊ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڙهي ٿو"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ ۾"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "نشي واري"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "۽ پهاڙو"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "وات ۾"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "موڙهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:53.406295565Z",
+  "model": "glm-5.3"
+}

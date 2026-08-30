@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "حتّوش، شبَنيا، ملوخ",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "حتّوش"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "شبَنيا"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ملوخ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:10:00.678612644Z",
+  "model": "glm-5.3"
+}

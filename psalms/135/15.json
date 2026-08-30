@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 135,
+  "translation": "قومن جون مورتيون چاندي ۽ سون ⟨آهن⟩، ماڻهن جي هٿن جو ڪم.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "مورتيون"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومن جون"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "۽ سون"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "هٿن جو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:47.199421737Z",
+  "model": "glm-5.3"
+}

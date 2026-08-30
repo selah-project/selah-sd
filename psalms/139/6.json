@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 139,
+  "translation": "عجيب ⟨آهي⟩ علم مون کان؛ اوتي ٿي ويو آهي، آءٌ ان جو قابو نه ٿو ڪري سگهان.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "عجيب"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مون کان"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "اوتي ٿي ويو آهي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "سگهان ٿو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ان جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:41.507564588Z",
+  "model": "glm-5.3"
+}

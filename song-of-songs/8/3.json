@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "سندس کاٻو هٿ مون جي مٿي ھيٺ آهي، ۽ سندس ساڄو هٿ مون کي چري ٿو.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "سندس کاٻو هٿ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مون جي مٿي"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "۽ سندس ساڄو هٿ"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "مون کي چري ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:47:25.646131183Z",
+  "model": "glm-5.3"
+}

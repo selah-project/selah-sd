@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 16:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "سندس عجيبن کي ياد ڪريو جيڪي هن ڪيا، سندس نشانيون ۽ سندس وات جا فيصلا۔",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ياد ڪريو"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "سندس عجيب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "هن ڪيا"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "سندس نشانيون"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "۽ فيصلا"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "سندس وات جا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:19.967566596Z",
+  "model": "glm-5.3"
+}

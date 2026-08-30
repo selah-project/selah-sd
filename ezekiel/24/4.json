@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 24:4",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ان جا ٽڪرا ان ۾ گڏ، ھر چڱو ٽڪرو، ران ۽ ڪُٺو، چونڊ ھڏن سان ڀر.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "گڏ"
+    },
+    {
+      "surface": "נתחיה",
+      "gloss": "ان جا ٽڪرا"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھر"
+    },
+    {
+      "surface": "نתח",
+      "gloss": "ٽڪرو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ران"
+    },
+    {
+      "surface": "וכתף",
+      "gloss": "۽ ڪُٺو"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "چونڊ"
+    },
+    {
+      "surface": "עצמים",
+      "gloss": "ھڏن"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀر"
+    }
+  ],
+  "timestamp": "2026-08-30T12:35:08.707238249Z",
+  "model": "glm-5.3"
+}

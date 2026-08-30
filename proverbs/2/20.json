@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "تہ توکي چڱن ماڻھن جي واٽ تي هلڻ گھرجي ۽ نيڪن جون اوپاون رکجي،",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "هلڻ گھرجي"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "واٽ تي"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چڱن ماڻھن جي"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "۽ اوپاون"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نيڪن جون"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "رکجي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:34.737827034Z",
+  "model": "glm-5.3"
+}

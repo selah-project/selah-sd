@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "ٽٽڙ مون کي زمين تي ختم ڪري ڇڏيو، پر مان تنهجن حڪمن کي نه ڇڏيو.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ٽٽڙ"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "مون کي ختم ڪري ڇڏيو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين تي"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "پر مان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "ڇڏيو"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "تنهجن حڪمن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:39.503794792Z",
+  "model": "glm-5.3"
+}

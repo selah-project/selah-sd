@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "گھر ٺاهيو ۽ انهن ۾ رهو، ۽ باغ لڳايو ۽ ⟨את⟩ انهن جو ميوو کائو.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "ٺاهيو"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "۽ رهو"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "۽ لڳايو"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "۽ کائو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انهن جو ميوو"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ميوو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:17:23.644757500Z",
+  "model": "glm-5.3"
+}

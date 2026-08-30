@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 26:7",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "اهي رئوبينين جا خاندان هئا ۽ انهن جي ڳڻپ ٽيٺ ۽ چاليهه هزار ۽ ست سؤ ۽ ٽيهه ٿي.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "رئوبينين"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "انهن جي ڳڻپ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽيٺ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "چاليهه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ٽيهه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:48.565827709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "چوڪور ⟨هو⟩، ٻٽوڙ ⟨ٿي> چوڪڻ ⟨את⟩ کي ٺاهيائون؛ هڪ زرت ان جي ڊيگهه ۽ هڪ زرت ان جي ويڪر، ٻٽوڙ.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "چوڪور"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ٻٽوڙ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ٺاهيائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چوڪڻ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "چوڪڻ"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "زرت"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ان جي ڊيگهه"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "۽ هڪ زرت"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ان جي ويڪر"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ٻٽوڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:35.721554711Z",
+  "model": "glm-5.3"
+}

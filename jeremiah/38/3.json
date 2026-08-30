@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 38:3",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "اھڙيءَ طرح ياهوه چوي ٿو: هيءُ شهر ضرور ڏنو ويندو بابل جي بادشاھ جي لشڪر جي ھٿ ۾، ۽ اُھو ان کي فتح ڪندو.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اھڙيءَ طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ويندو ڏنو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "هيءُ شهر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ھٿ ۾"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "۽ فتح ڪندو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:20:52.250084928Z",
+  "model": "glm-5.3"
+}

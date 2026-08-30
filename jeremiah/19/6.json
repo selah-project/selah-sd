@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 19:6",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "تنهنڪري ڏسو، ايڏيهه اچي رهيا آهن — ياهوه جو فرماءُ — ته هن جاءِ کي وري نه سڏيو ويندو توفيت ۽ گيئي بنت هينوم، پر قتل جي گيئي.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ايڏيهه"
+    },
+    {
+      "surface": "באים",
+      "gloss": "اچي رهيا آهن"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرماءُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "سڏيو ويندو"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "هن جاءِ کي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "توفيت"
+    },
+    {
+      "surface": "וגיא",
+      "gloss": "۽ گيئي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "هينوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ڳڙهي"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "قتل جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:14:02.550198973Z",
+  "model": "glm-5.3"
+}

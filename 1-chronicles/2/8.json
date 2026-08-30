@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ايتان جا پٽ: عزاريا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پٽ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ايتان"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزاريا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:34.766452451Z",
+  "model": "glm-5.3"
+}

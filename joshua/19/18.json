@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 19:18",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ سندن سرحد يزرعيل، ۽ كسلوت، ۽ شونم هئي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ هئي"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "سندن سرحد"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "يزرعيل"
+    },
+    {
+      "surface": "והכסולת",
+      "gloss": "۽ كسلوت"
+    },
+    {
+      "surface": "ושונם",
+      "gloss": "۽ شونم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:37.971089489Z",
+  "model": "glm-5.3"
+}

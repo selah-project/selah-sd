@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ موشي اھو ڪيو جيترو ياهوه کيس حڪم ڪيو ھو ⟨את⟩، تيئن ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيائين"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "جيترو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "کيس ⟨את⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:43.792445067Z",
+  "model": "glm-5.3"
+}

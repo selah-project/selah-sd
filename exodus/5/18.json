@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "هاڻي وڃو، ڪم ڪريو؛ ۽ توهان کي ڪٺ نه ڏني ويندي، پر توهان ٺڪرين جي پوري انگ ڏيندا.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "وڃو"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ڪم ڪريو"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "۽ ڪٺ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ڏني ويندي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان کي"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "پوري انگ"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ٺڪرين جي"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ڏيندا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:58:53.544341258Z",
+  "model": "glm-5.3"
+}

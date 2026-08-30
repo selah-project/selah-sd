@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 55,
+  "translation": "منهنجي دل منجهه مون ۾ ڏڪي ٿي، ۽ موت جا خوف مون تي ڪري آيا.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "منهنجي دل"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ڏڪي ٿي"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "منجهه مون ۾"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "۽ خوف"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مورت جا"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڪري آيا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:02:56.009152293Z",
+  "model": "glm-5.3"
+}

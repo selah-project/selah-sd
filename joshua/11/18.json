@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "يھوشع ڏينهن گھڻا انهن سڀني بادشاهن سان ⟨את⟩ جنگ ڪئي.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گھڻا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيائين"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يھوشع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انهن سڀني بادشاهن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "بادشاه"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:20.000405359Z",
+  "model": "glm-5.3"
+}

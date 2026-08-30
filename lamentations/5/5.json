@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "اسان جي گردن تي پيڇيو ويو؛ اسين ٿڪي پيوسين، اسان کي آرام نه ڏنو ويو.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تَي"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "اسان جي گردن"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "پيڇيو ويو"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "ٿڪي پيوسين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "ڏنو ويو (آرام)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:51.080205108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "وري داوود ⟨את⟩ سڀني چونڊيلن کي اسرائيل ۾ گڏ ڪيو، ٽيھ هزار.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "وري (افزوده ڪيو)"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀني چونڊيلن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "چونڊيلن"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائيل ۾"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    }
+  ],
+  "timestamp": "2026-08-30T11:19:32.567651242Z",
+  "model": "glm-5.3"
+}

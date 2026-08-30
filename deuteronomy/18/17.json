@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ياهوه مون کي چيو، جيڪي ⟨أَنَّهُم⟩ چيو ٿي، سو چڱو چيائون.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "چڱو چيو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "چيو ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:24.576701283Z",
+  "model": "glm-5.3"
+}

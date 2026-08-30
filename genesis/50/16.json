@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "۽ يوسف ڏانهن حڪم ڀريائون ته چو: تنهنجي پيءُ پنهنجي موت کان اڳ حڪم ڏنو ته چو.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "حڪم ڀريائون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته چو"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تنهنجي پيءُ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کان اڳ"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "سندس موت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته چو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:55.073967363Z",
+  "model": "glm-5.3"
+}

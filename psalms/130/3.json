@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 130,
+  "translation": "جيڪڏھن تون گناھن کي سنڀالين، ياه، ادوناي، ته ڪير بچي بيھي سگھندو؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "گناھن کي"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "تون سنڀالين"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "بچي بيھي سگھندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:14.431919343Z",
+  "model": "glm-5.3"
+}

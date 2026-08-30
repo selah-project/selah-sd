@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "تنهنجي سُن جي برهنهگي نه کولج؛ اها تنهنجي پٽ جي زال ⟨آهي⟩؛ سندس برهنهگي نه کولج.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برهنهگي"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "تنهنجي سُن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کولج"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "تنهنجي پٽ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کولج"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "سندس برهنهگي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:49.086653595Z",
+  "model": "glm-5.3"
+}

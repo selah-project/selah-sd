@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ياهوه موشي ڏانهن ڳالهايو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالهايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:57.981995326Z",
+  "model": "glm-5.3"
+}

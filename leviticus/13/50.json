@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ڪاهن ⟨את⟩ داغ کي ڏسي، ۽ داغ کي ⟨את⟩ ست ڏينهن لاءِ بند ڪري.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏسي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داغ کي"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "۽ بند ڪري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داغ کي"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:56.153466765Z",
+  "model": "glm-5.3"
+}

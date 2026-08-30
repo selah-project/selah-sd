@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 23:16",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "وٺ چنگ، گهم شهر، اي وسري ويل زناڪار عورت؛ مٺو وڄاءِ، گھڻا گيت ڳاءِ، ته ياد ٿينسين.",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "وٺ"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "چنگ"
+    },
+    {
+      "surface": "סבי",
+      "gloss": "گهم"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زناڪار عورت"
+    },
+    {
+      "surface": "נשכחה",
+      "gloss": "وسري ويل"
+    },
+    {
+      "surface": "היטיבי",
+      "gloss": "مٺو وڃاءِ"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "وڄاءِ"
+    },
+    {
+      "surface": "הרבי",
+      "gloss": "گھڻا"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ته"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "ياد ٿينسين"
+    }
+  ],
+  "timestamp": "2026-08-30T11:53:49.887049371Z",
+  "model": "glm-5.3"
+}

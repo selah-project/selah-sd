@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ غريب جي ٿٻر ۾ سندس شرف نه ڪندا.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "۽ غريب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "شرف نه ڪندا"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "سندس ٿٻر ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:04:25.616477335Z",
+  "model": "glm-5.3"
+}

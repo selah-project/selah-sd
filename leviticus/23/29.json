@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ڇاڪاڻ ته جيڪا به نفس انهن ڏينهن ۾ عين ان ڏينهن تي ستائجي نه ٿي، اُها پنهنجي قوم مان ڪٽي ويندي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جيڪا به"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ستائجي ٿي"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "عين"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ان ڏينهن ۾"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ڪٽي ويندي"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "پنهنجي قوم مان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:39.463247228Z",
+  "model": "glm-5.3"
+}

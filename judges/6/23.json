@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ياهوه مٺي ٻڌايس: \"تنهنجي سلامتي ٿي؛ ڊڄ نه، تون مرندي نه.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ٻڌايس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي لاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڊڄ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مرندي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:58:45.592090454Z",
+  "model": "glm-5.3"
+}

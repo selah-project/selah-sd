@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ڪپڙي جي ڪوڙهه ۽ گهر لاءِ.",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "۽ ڪوڙهه"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "ڪپڙي جي"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "۽ گهر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:30.377808648Z",
+  "model": "glm-5.3"
+}

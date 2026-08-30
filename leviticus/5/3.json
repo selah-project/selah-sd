@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 5:3",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "يا جو ماڻهوءَ جي اڻڇپڻ ۾ لڳي — سندس ڪابه اڻڇپڻ جنهن سان هو اڻڇهو ٿئي — ۽ اهو کيس لڪي وڃي، پوءِ جڏهن هو ڄاڻي ته هو مقصور آهي.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "لڳي"
+    },
+    {
+      "surface": "בטומאת",
+      "gloss": "اڻڇپڻ ۾"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ جي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ڪابه"
+    },
+    {
+      "surface": "טומאתו",
+      "gloss": "سندس اڻڇپڻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن سان"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "اڻڇهو ٿئي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "۽ لڪي وڃي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻي"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "۽ مقصور"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:58.371528407Z",
+  "model": "glm-5.3"
+}

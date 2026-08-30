@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ڇوته ⟨مان⟩ پنهنجي پيءُ جو پٽ هوس، نرم ۽ اڪيلو پنهنجي ماءُ جي اڳيان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "هوس"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "پنهنجي پيءُ جو"
+    },
+    {
+      "surface": "רך",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "۽ اڪيلو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "پنهنجي ماءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:11.837800866Z",
+  "model": "glm-5.3"
+}

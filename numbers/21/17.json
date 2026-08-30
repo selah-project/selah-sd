@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "تڏهن اسرائيل هيءَ ⟨את⟩ گيت ڳايو: ”چاڙهج ٿي، اي کوهه! ان جو جواب ڏيُو.“",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تڏهن"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "ڳايو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گيت"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هيءَ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "چاڙهج ٿي"
+    },
+    {
+      "surface": "באר",
+      "gloss": "اي کوهه"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "جو جواب ڏيو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ان جو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:03.228583102Z",
+  "model": "glm-5.3"
+}

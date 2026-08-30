@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 24:10",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڪاٿ گهڻو وڌ، باهه ٻار، گوشت پورو ڪر، ۽ مصالحو وجهه؛ ۽ هڏيون سڙي وڃن.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "گهڻو وڌ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ڪاٿ"
+    },
+    {
+      "surface": "הדלק",
+      "gloss": "ٻار"
+    },
+    {
+      "surface": "האש",
+      "gloss": "باهه"
+    },
+    {
+      "surface": "התם",
+      "gloss": "پورو ڪر"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "והרקח",
+      "gloss": "۽ وجهه"
+    },
+    {
+      "surface": "המרקחה",
+      "gloss": "مصالحو"
+    },
+    {
+      "surface": "והעצמות",
+      "gloss": "۽ هڏيون"
+    },
+    {
+      "surface": "יחרו",
+      "gloss": "سڙن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:34:22.490820802Z",
+  "model": "glm-5.3"
+}

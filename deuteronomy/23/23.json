@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ جڏهن تو نذر ڪرڻ کان رھجي وڃين، ته تنهنجي ۾ پاپ نه هوندو.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "۽ جڏهن"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "رهجي وڃين"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "نذر ڪرڻ کان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندو"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تنهنجي ۾"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "پاپ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:09.839021823Z",
+  "model": "glm-5.3"
+}

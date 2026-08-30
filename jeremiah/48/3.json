@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "هورونائم کان رڙهه جو آواز: تباھي ۽ وڏو تتراٽو!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "جو آواز"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "رڙهه"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "هورونائم کان"
+    },
+    {
+      "surface": "שד",
+      "gloss": "تباھي"
+    },
+    {
+      "surface": "ושבر",
+      "gloss": "۽ تتراٽو"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:08.964509002Z",
+  "model": "glm-5.3"
+}

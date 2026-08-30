@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ يسرائيل جي بادشاهه ۽ يهوشافط، يهوداه جي بادشاهه، چڙهي ويا راموت-گلعاد ڏانهن.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "۽ چڙهي ويا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "۽ يهوشافط"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "راموت"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:26.539211654Z",
+  "model": "glm-5.3"
+}

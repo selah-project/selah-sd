@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 96,
+  "translation": "هوڊ (شوكت) ۽ هادر سندس اڳيان؛ عز ۽ تپارت سندس مقدس جاءِ ۾.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "هوڊ (شوکت)"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "۽ هادر"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "سندس اڳيان"
+    },
+    {
+      "surface": "עז",
+      "gloss": "عز"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "۽ تپارت"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "سندس مقدس جاءِ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:59.959265263Z",
+  "model": "glm-5.3"
+}

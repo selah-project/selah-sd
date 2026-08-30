@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 34:18",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ شافن لکيوڙي بادشاهه کي ٻُڌايو، چوندڙ: هڪ ڪتاب حلقيا ڪاهن مون کي ڏنو، ۽ شافن بادشاهه جي اڳيان ان ۾ پڙهيو.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "۽ ٻُڌايو"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "شافن"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "لکيوڙي"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاهه کي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندڙ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "هڪ ڪتاب"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "حلقيا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ پڙهيو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "شافن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:31:54.245480001Z",
+  "model": "glm-5.3"
+}

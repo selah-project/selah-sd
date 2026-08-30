@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ قديش، ۽ ادرعي، ۽ عين-حصور.",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "۽ قديش"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "۽ ادرعي"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "۽ عين"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "حصور"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:34.504500226Z",
+  "model": "glm-5.3"
+}

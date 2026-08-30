@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ⟨את⟩ رسن، جي نينوهه ۽ كلاح جي وچ ۾ آھي — اھو ئي وڏو شھر آھي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "رسن"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "رسن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نينوهه"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "كلاح"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو ئي"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شھر"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "وڏو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:42.772180912Z",
+  "model": "glm-5.3"
+}

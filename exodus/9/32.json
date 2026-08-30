@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ڪڻڪ ۽ ڪوسيمت ماريا نه ويا، ڇوته اهي ساوڪچا هئا.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "۽ ڪڻڪ"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "۽ ڪوسيمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "ماريا ويا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "ساوڪچا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اهي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:59:45.666675263Z",
+  "model": "glm-5.3"
+}

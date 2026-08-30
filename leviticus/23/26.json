@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ ياهوه موشي سان ڳالchgيائين، چئڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالchgيائين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چئڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:11.848480129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "“جهلي سادگي ڇڏيو ۽ جيو، ۽ سمجھ جي رستي تي هلڻ ڪري سڌرا ٿيو.”",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "ڇڏيو"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "سادگي\/سادا ماڻھو"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "۽ جيو"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "سڌرا ٿيو\/هلو"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي تي"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:17.512125055Z",
+  "model": "glm-5.3"
+}

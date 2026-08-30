@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "يُوآح سندس پُٽ، عِدّو سندس پُٽ، زَرح سندس پُٽ، يَعتَراي سندس پُٽ.",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "يُوآح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "عِدّو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زَرح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "يَعتَراي"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:31.653488132Z",
+  "model": "glm-5.3"
+}

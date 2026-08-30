@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 48:33",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ ڏکڻ واري پاسي ⟨اھو⟩ پنج سؤ ۽ چار ھزار ماپ آھي، ۽ دروازا ٽي: شمع جو دروازو ھڪ، يشسخار جو دروازو ھڪ، زبولون جو دروازو ھڪ.",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "۽ پاسي"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ڏکڻ واري"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ماپ"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "۽ دروازا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمع"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "يشسخار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:10.987570395Z",
+  "model": "glm-5.3"
+}

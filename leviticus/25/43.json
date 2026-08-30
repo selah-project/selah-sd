@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "تون سندس تي ظلم سان حڪومت نه ڪرين، پر پنهنجي ايلوهيم کان ڊڄ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "حڪومت ڪرين"
+    },
+    {
+      "surface": "בו",
+      "gloss": "سندس تي"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "ظلم سان"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "پر ڊڄ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "پنهنجي ايلوهيم کان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:40.238379454Z",
+  "model": "glm-5.3"
+}

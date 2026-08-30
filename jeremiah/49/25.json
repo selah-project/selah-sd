@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "ڪيئن ⟨نه⟩ ڇڏي وئي ساراھ واري شهر، منهنجي خوشيءَ جو شهر!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨نه⟩"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "ڇڏي وئي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ساراھ واري"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "منهنجي خوشيءَ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:24:13.564478360Z",
+  "model": "glm-5.3"
+}

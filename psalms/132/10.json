@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 132,
+  "translation": "تنهنجي ٻانهن داويد جي ڪري تنهنجي مشيح جو مُنهن موڙڻ نه ڪر.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "جي ڪري"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تنهنجي ٻانهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "موڙڻ ڪر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "جي مُنهن"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "تنهنجي مشيح"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:15.406433961Z",
+  "model": "glm-5.3"
+}

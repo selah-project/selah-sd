@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ تون سندس پٽ بلشصر، تنهنجي دل نه جھڪائي، سڀ ڪجهه باوجود جو هي سڀ ڄاڻين ٿو.",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "بلشصر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "جھڪائي"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "تنهنجي دل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ ڪجهه"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "باوجود"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ڄاڻين ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:57:46.111508900Z",
+  "model": "glm-5.3"
+}

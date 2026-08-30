@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "ڇوته جيڪي ⟨את⟩ هتي اسان سان اڄ ياهوه اسان جي ايلوهيم جي اڳيان بيٺا آهن، ۽ جيڪي ⟨את⟩ اڄ اسان سان هتي ناهن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جيڪي بيٺا آهن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "آهن"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هتي"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "اسان سان"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "بيٺا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اج"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "اسان جي ايلوهيم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "جيڪي ناهن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ناهن"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هتي"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "اسان سان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اج"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:08.462238035Z",
+  "model": "glm-5.3"
+}

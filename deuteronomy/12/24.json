@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ان کي نه کائجين؛ زمين تي ان کي پاڻيءَ وانگر ڦٽاءُ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ان کي کائجين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ان کي ڦٽاءُ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "پاڻيءَ وانگر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:41:03.245833839Z",
+  "model": "glm-5.3"
+}

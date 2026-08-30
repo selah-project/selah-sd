@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 25:7",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ هو هن جبل تي نگل ويندو ⟨את⟩ سڀ قومن تي اوڍيل اُگھڙ جي منھن کي، ⟨את⟩ سڀ قومن تي وڇايل پردو.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "۽ نگل ويندو"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "هن جبل تي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منھن"
+    },
+    {
+      "surface": "הלוט",
+      "gloss": "اُگھڙ"
+    },
+    {
+      "surface": "הלוט",
+      "gloss": "اوڍيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومن"
+    },
+    {
+      "surface": "והמסכה",
+      "gloss": "۽ پردو"
+    },
+    {
+      "surface": "הנסוכה",
+      "gloss": "وڇايل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:54:27.170584480Z",
+  "model": "glm-5.3"
+}

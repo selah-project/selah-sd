@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڇوتهه سندن دل تباھيءَ تي غور ٿي ڪري، ۽ سندن لٺون ڏک تي ڳالهائين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهه"
+    },
+    {
+      "surface": "שד",
+      "gloss": "تباھي"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "غور ٿي ڪري"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "سندن دل"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "۽ ڏک"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "سندن لٺون"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "ڳالهائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:35.774134824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "حصرو ڪرملي، پعراي عربي،",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "حصرو"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ڪرملي"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "پعراي"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "عربي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:45.159334593Z",
+  "model": "glm-5.3"
+}

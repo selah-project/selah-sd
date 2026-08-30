@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 18:19",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "ڪن ڏي ياهوه، مون کي، ۽ ٻڌ منهنجن مناقسن جي آواز.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "ڪن ڏي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "۽ ٻڌ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "جي آواز"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "منهنجن مناقسن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:13:02.765591551Z",
+  "model": "glm-5.3"
+}

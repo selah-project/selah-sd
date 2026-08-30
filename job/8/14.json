@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 8:14",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "جنهن جو ڀروسو ڪٽيو ويندو، ۽马نهن جو آسر رَنُڙ جو گهر آھي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جنهن جو"
+    },
+    {
+      "surface": "יקוט",
+      "gloss": "ڪٽيو ويندو"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "ڀروسو"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ گهر"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "رَنُڙ جو"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "آسر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:28.568582879Z",
+  "model": "glm-5.3"
+}

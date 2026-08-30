@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 25:19",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ تو ٺاهيندو هڪ ڪروب هن ڪنڊ تان ۽ هڪ ڪروب ان ڪنڊ تان؛ ڍڪ مان ئي تو ٺاهيندا ⟨את⟩ ڪروبن کي، ان جي ٻن ڪنڊن تي.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "۽ تو ٺاهيندو"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "ڪروب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ڪنڊ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "هن تان"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "۽ ڪروب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ڪنڊ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ان تان"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ڍڪ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تو ٺاهيندا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪروبن کي"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ڪروب"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "ان جي ڪنڊن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:06:16.052565786Z",
+  "model": "glm-5.3"
+}

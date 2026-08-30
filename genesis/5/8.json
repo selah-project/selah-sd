@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "پوءِ شيت جا سڀ ڏينهن ٻارهه سال ۽ نَوَ سَو سال ٿيا، ۽ هو مُئو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شيت"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "–ڏهه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "۽ نَوَ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "۽ هو مُئو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:47.097278789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ياعقوب لابان جو منڍ ڏٺو، ۽ ڏسو، اهو مڙسئو اڳُ وانگر هوڻو نه هو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ياعقوب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منڍ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منڍ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نه هو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ساڻس"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "اڳُ وانگر"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ڪال ۽ پهاڪي اڳ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:48:28.565666140Z",
+  "model": "glm-5.3"
+}

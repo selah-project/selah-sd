@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ زانوح ۽ عين گنيم ۽ تپوح ۽ هعينام.",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "۽ زانوح"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "۽ عين"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "گنيم"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تپوح"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "۽ هعينام"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:46.815128902Z",
+  "model": "glm-5.3"
+}

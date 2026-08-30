@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "هٿوڙ ۽ تلوار ۽ تکو تير — اھو ماڻھو جي پنھنجي دوست جي خلاف جھوٽي شاھدي ڏئي ٿو.",
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "هٿوڙ"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "۽ تلوار"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "۽ تير"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "تکو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو جي"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "شاھدي ڏئي ٿو"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "پنھنجي دوست جي خلاف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاھدي"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:37.947582507Z",
+  "model": "glm-5.3"
+}

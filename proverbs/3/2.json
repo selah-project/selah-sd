@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڇوتهه ڏينهن جو ڊيگهه ۽ زندگيءَ جون سالون ۽ سلامتي توکي وڌائيندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊيگهه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن جو"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "۽ سالون"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگيءَ جون"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "۽ سلامتي"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "وڌائيندو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:05.241655396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 4:13",
+  "book": "ruth",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "پس بوعز ⟨את⟩ روت کي پرنائي ۽ هوءَ هن جي زال ٿي، ۽ هن وٽ آيو، ۽ ياهوه کيس پيٽ ڏنو، ۽ هن پٽ ڄڻيو.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "پرنائي"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوعز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روت"
+    },
+    {
+      "surface": "רות",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن جي"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לה",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "הריון",
+      "gloss": "پيٽ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:47:39.288637487Z",
+  "model": "glm-5.3"
+}

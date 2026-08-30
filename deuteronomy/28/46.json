@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ اھي تو ۾ نشاني ۽ معجزي طور رھن، ۽ تنهنجي نسل ۾ هميشہ تائين.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "۽ اھي رھن"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تو ۾"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "نشاني طور"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "۽ معجزي طور"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "۽ تنهنجي نسل ۾"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشہ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:46.010508452Z",
+  "model": "glm-5.3"
+}

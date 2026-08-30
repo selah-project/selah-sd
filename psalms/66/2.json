@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 66,
+  "translation": "سندس نالي جي شان جو ڀجن ڳايو، سندس تعريف کي شانوارو بڻايو.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ڀجن ڳايو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالي جي"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "بڻايو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شانوارو"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "سندس تعريف کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:31.104356759Z",
+  "model": "glm-5.3"
+}

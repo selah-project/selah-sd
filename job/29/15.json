@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "اکيون آءٌ هيس اندھن لاءِ، ۽ لنگڙن لاءِ پير — آءٌ.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "اکيون"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "آءٌ هيس"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "اندھن لاءِ"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "۽ پير"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "لنگڙن لاءِ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:41:08.268867606Z",
+  "model": "glm-5.3"
+}

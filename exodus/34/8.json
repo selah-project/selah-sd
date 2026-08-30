@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ موشي جلدي ڪئي، ۽ زمين ڏانهن جهڪيو، ۽ سجدو ڪيائين.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "۽ جلدي ڪئي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "۽ جهڪيو"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمين ڏانهن"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "۽ سجدو ڪيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:09:16.077513757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ان شهر جا سڀ پهرا، جيڪي مارجل ماٺيءَ جا ويجها آهن، نئي ۾ ڳچي ڀڳل ڪوِڙيءَ تي ⟨את⟩ پنهنجون هٿ ڌوئين.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پهرا"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر جا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "ويجها آهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ڏانهن"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "مارجل"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "ڌوئين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجون هٿ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "پنهنجون هٿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ڪوِڙيءَ"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "ڳچي ڀڳل"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "نئي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:49.723239364Z",
+  "model": "glm-5.3"
+}

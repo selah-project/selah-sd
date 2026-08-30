@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڇا شهر ۾ سڱ وڄايو وڃي ۽ ماڻهو ڏڪن نه؟ ڇا شهر ۾ ڪا بڇڙائي ٿيندي ۽ ياهوه ⟨ان⟩ نه ڪيو هجي؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "وڄايو-وڃي"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "سڱ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شهر-۾"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "۽-ماڻهو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "ڏڪن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿيندي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بڇڙائي"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شهر-۾"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "۽-ياهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:47:54.494442534Z",
+  "model": "glm-5.3"
+}

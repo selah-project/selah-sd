@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ جيڪڏهن چٽ موٽي اچي ۽ پٿرن ⟨את⟩ کي ڪڍڻ کان پوءِ ۽ گهر ⟨את⟩ کُرچڻ کان پوءِ ۽ پلستر ٿيڻ کان پوءِ گهر ۾ ڦٽي پوندو،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "موٽي اچي"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "چٽ"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "۽ ڦٽي پوندو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ڪڍڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پٿرن"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پٿرن"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "۽ پوءِ"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "کُرچڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گهر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "۽ پوءِ"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "پلستر ٿيڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:16.283799748Z",
+  "model": "glm-5.3"
+}

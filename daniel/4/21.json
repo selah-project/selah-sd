@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 4:21",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "هيءُ بادشاهه جي تعبير آهي، ۽ اها عليا جي فرمان آهي، جو مون جي ڌڻي بادشاهه تي پهتو آهي.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "פשרא",
+      "gloss": "تعبير"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاهه جي"
+    },
+    {
+      "surface": "וגזרת",
+      "gloss": "۽ فرمان"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "عليا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "پهتو آهي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "مون جي ڌڻي"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:58:27.152268484Z",
+  "model": "glm-5.3"
+}

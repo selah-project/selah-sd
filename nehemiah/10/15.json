@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ماڻهن جا مکيا: پروش، پخت-مواب، عيلام، زتو، باني،",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "مکيا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن جا"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "پروش"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پخت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مواب"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "زتو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "باني"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:06.235715492Z",
+  "model": "glm-5.3"
+}

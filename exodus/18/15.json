@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ موشي پنھنجي سسُ کي چيو: ”ڇوته قوم مڻ وٽ ايلوهيم کان پڇڻ لاءِ اچي ٿو.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "پنھنجي سسُ کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مڻ وٽ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "پڇڻ لاءِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:04.676977593Z",
+  "model": "glm-5.3"
+}

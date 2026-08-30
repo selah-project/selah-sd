@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "۽ توهان ⟨את⟩ هن زمين کي پاڻ لاءِ ورهايو، يِسرائيل جي قبيلن موجب۔",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "ورهايو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هن زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "قبيلن موجب"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T12:42:12.157050397Z",
+  "model": "glm-5.3"
+}

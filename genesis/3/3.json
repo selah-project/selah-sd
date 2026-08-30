@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "”پر ان وڻ جي ميوڙيءَ مان، جيڪو باغ جي وچ ۾ ⟨آھي⟩، ايلوهيم چيو آھي: ان مان نه کائو ۽ ان کي نه ڇُهو، متان مريو“",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "پر ميوڙيءَ مان"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ان وڻ جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "باغ جي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائو"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ان مان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ڇُهو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "مريو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:03.628609254Z",
+  "model": "glm-5.3"
+}

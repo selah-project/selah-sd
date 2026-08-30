@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ موشي کين چيو، جيڪڏهن توهان هي ڪم ڪيو، جيڪڏهن توهان ياهوه جي اڳيان جنگ لاءِ هٿياربند ٿيو،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "توهان ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي ڪم"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "هٿياربند ٿيو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:36.928096868Z",
+  "model": "glm-5.3"
+}

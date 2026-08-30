@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 89:41",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "تون سندس سڀني باڙن کي ڀَڙيو؛ تون سندس قلعن کي تباهي بنايو.",
+  "tokens": [
+    {
+      "surface": "פרצת",
+      "gloss": "تون ڀَڙيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "גדרתיו",
+      "gloss": "سندس باڙن کي"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "تون بنايو"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "سندس قلعن کي"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "تباهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:15.772808320Z",
+  "model": "glm-5.3"
+}

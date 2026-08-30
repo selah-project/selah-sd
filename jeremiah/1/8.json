@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "کين کان نه ڊَڄُ؛ ڇوته مان ⟨את⟩ تو سان آهيان توکي بچائڻ لاءِ — ياهوه جو فرمود.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڊَڄُ"
+    },
+    {
+      "surface": "مפניהם",
+      "gloss": "کين کان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تو سان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان آهيان"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "توکي بچائڻ لاءِ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:06:58.449325469Z",
+  "model": "glm-5.3"
+}

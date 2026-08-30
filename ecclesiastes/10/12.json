@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ڌيان واري جي وات جا لفظ مھرباني آهن، ۽ منٿ جون لٻن کيس نگل وڃن.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات جا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ڌيان واري جي"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مھرباني"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "۽ لٻن"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "منٿ جي"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "کيس نگل وڃن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:59.289318846Z",
+  "model": "glm-5.3"
+}

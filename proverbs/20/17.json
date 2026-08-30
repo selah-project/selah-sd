@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "ڦٽو ماني ماڻهيءَ کي مٺي لڳي ٿي، پر پوءِ سندس وات کنڊ سان ڀرجي ويندي.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "مٺي لڳي ٿي"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ماڻهيءَ کي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڦٽي"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "پر پوءِ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ڀرجي ويندي"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "سندس وات"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "کنڊ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:16.621811320Z",
+  "model": "glm-5.3"
+}

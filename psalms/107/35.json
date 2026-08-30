@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "هو بيابان کي پاڻيءَ جي ڍنڍ بڻائي ٿو، ۽ سُڪي زمين کي پاڻيءَ جي ڇڻن.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "بڻائي ٿو"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بيابان کي"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "ڍنڍ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ جي"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "۽ زمين کي"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "سُڪي"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "ڇڻن"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:20.529191197Z",
+  "model": "glm-5.3"
+}

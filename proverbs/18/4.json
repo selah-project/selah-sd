@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "مڙس جي وات جا لفظ اوندهه پاڻي آهن؛ حڪمت جو چشمو وهندڙ نديءَ جهڙو آهي.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "اونهڙا"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات جا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مڙس جي"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وهندڙ ندي"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "وهندڙ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "چشمو"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:42.118135796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ عيسو سيِر جي جبل ۾ رھيو؛ عيسو ئي ⟨هو⟩ اِدوم آھي.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "۽ رھيو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "۾ جبل"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سيِر"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئي ⟨هو⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اِدوم"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:43.474069649Z",
+  "model": "glm-5.3"
+}

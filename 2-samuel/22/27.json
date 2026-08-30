@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "چونڊيل سان ⟨تون⟩ چونڊيل ٿيندين، ۽ ٽيڙهار سان ٽيڙهو ٿيندين.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "چونڊيل"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "چونڊيل ٿيندين"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ٽيڙهار"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "ٽيڙهو ٿيندين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:48:53.832466186Z",
+  "model": "glm-5.3"
+}

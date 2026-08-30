@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 22:14",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "پڻ موآب جي سردارن اُٿيو، بالاق وٽ آيا ۽ چيائون: بِلعام انڪار ڪري ٿو اسان سان اچڻ کان.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "اُٿيو"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب جي"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "چيائون"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "انڪار ڪري ٿو"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "اچڻ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "اسان سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:41.359851933Z",
+  "model": "glm-5.3"
+}

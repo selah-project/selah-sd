@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ان ئي رات بيلشص، كسدين جو بادشاهه، ماريو ويو.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "ان ئي"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "رات"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "ماريو ويو"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "بيلشص"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "كسدين جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:57:04.953154488Z",
+  "model": "glm-5.3"
+}

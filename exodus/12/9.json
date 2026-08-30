@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ان مان ڪوبه خام ٽڪر نه کائو، نه پاڻيءَ ۾ رڙھيل؛ پر رڳو باهه تي پچايل — سندس مٿو، سندس ٽنگن ۽ سندس اندرين سميت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائو"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ان مان"
+    },
+    {
+      "surface": "נא",
+      "gloss": "خام"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "۽ رڙھيل"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "پچايل"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻيءَ ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "پچايل"
+    },
+    {
+      "surface": "אש",
+      "gloss": "باهه"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سندس مٿو"
+    },
+    {
+      "surface": "על",
+      "gloss": "سميت"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "سندس ٽنگن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ سميت"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "سندس اندرين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:00:44.780374677Z",
+  "model": "glm-5.3"
+}

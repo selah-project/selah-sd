@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڇوته بُرن جي ڪا پڇاڙي ناھي، شريرن جو چراگو ٻجھي ويندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿيندي"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "پڇاڙي"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "بر لاءِ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "چراگو"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شريرن جي"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ٻجھي ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:41.083235610Z",
+  "model": "glm-5.3"
+}

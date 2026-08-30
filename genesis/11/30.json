@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ سارائي بانجھ ھئي؛ اُن جو ڪوبه اولاد نہ ھو.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "۽ ھئي"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سارائي"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "بانجھ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ ھو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اُن جو"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "اولاد"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:09.418394285Z",
+  "model": "glm-5.3"
+}

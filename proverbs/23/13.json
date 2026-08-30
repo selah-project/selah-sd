@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "نوجوان کي تاديب کان نه روڪ؛ ڇو ته تون مٿس لاٺي سان هڻندو، ته به هو مرندو نه.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "روڪ"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "نوجوان کي"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تاديب کان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "مٿس هڻندو"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "لاٺي سان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:21.628614357Z",
+  "model": "glm-5.3"
+}

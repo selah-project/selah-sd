@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ سموري زمين جي قوم خوش ٿي ۽ شهر کي سڪون ٿي ۽ ⟨את⟩ عتلياهو کي تلوار سان ماريائون.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "خوش ٿي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سموري"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "۽ شهر"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "کي سڪون ٿي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عتلياهو"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "عتلياهو"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ماريائون"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تلوار سان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:29.203463504Z",
+  "model": "glm-5.3"
+}

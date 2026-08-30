@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ڇوته قومن جون ريتون هنبل آهن؛ ڇوته ⟨one⟩ جهنگ مان وڻ ڪٽيو آهي، ڪاريگر جي هٿن جو ڪم، ڪهاڙي سان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "ريتون"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومن جون"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هنبل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آهن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "جهنگ مان"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "ڪٽيو آهي"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "هٿن جو"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ڪاريگر جي"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "ڪهاڙي سان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:10:32.559808258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 25:4",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ مدين جا پُٽ عيفه ۽ عَفر ۽ حنوح ۽ اَبيدع ۽ اَلدعع — اهي سڀ قتوره جا پُٽ هُيا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پُٽ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مدين جا"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "عيفه"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "عَفر"
+    },
+    {
+      "surface": "וחנך",
+      "gloss": "حنوح"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "اَبيدع"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "اَلدعع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "قتوره جا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:31.427919999Z",
+  "model": "glm-5.3"
+}

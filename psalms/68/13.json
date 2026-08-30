@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 68,
+  "translation": "لشڪرن جا بادشاه ڀڄي ويا، ڀڄي ويا، ۽ گھر ۾ رهندڙ عورت لُٽ ورهائي ٿي.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "لشڪرن جا"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ڀڄي ويا"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ڀڄي ويا"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "۽ رهندڙ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر ۾"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "ورهائي ٿي"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "لُٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:24.820345916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "جيڪا هن ابراهام سان ⟨את⟩ ڪتي ۽ سندس قسم يزحق لاءِ،",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "כָּרַת",
+      "gloss": "ڪتي"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "ابراهام"
+    },
+    {
+      "surface": "אַבְרָהָם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "וּשְׁבוּעָתוֹ",
+      "gloss": "۽ سندس قسم"
+    },
+    {
+      "surface": "לְיִצְחָק",
+      "gloss": "يزحق لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:59.483545222Z",
+  "model": "glm-5.3"
+}

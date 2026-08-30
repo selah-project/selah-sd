@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 83,
+  "translation": "اشور به انهن سان شامل ٿيو، اهي لوط جي پٽن لاءِ ٻانهن ٿيا. سلاه.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اشور"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "شامل ٿيو"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "انهن سان"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ٻانهن"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "جي پٽن لاءِ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:52.100040362Z",
+  "model": "glm-5.3"
+}

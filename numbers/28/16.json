@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ پهرئين مهيني ۾، مهيني جي چوڏهين ڏينهن تي، ياهوه جو فسح آهي.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "۽ مهيني ۾"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پهرئين"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "چوڏهن (چار)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏهن"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني جي"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "فسح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:23.426836660Z",
+  "model": "glm-5.3"
+}

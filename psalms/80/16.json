@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 80,
+  "translation": "۽ ان ٿور جي جنهن تو جي ساڄي هٿ پوکي ۽ ان پٽ تي جنهن تو پاڻ لاءِ سگهارو ڪيو.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "۽ ان ٿور جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "پوکي"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تو جي ساڄي هٿ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ ان تي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "سگهارو ڪيو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو پاڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:07.550936367Z",
+  "model": "glm-5.3"
+}

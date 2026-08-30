@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ يانم، ۽ بيت-تپوح، ۽ افيقہ؛",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "يانم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "بيت-تپوح"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تپوح"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "افيقہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:43:20.039534617Z",
+  "model": "glm-5.3"
+}

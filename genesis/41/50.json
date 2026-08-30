@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 41:50",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ يوسف کي ٻه پُٽ ڄاوا، اڳي ته ڪال جو سال اچي؛ جن کي اوسنات، پوتي-فيرا جي ڌيءَ، اون جي ڪاهن جي، کيس ڄڻي.",
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "۽ يوسف کي"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄاوا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "اڳي ته"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ڪال جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن کي"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ڄڻي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "اوسنات"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "پوتي"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "فيرا"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "און",
+      "gloss": "اون"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:21.241672181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 77,
+  "translation": "تون پنهنجي قوم کي ڍورن وانگر هنيو، موشي ۽ اهارون جي هٿ سان.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "هنيو"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ڍورن وانگر"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "پنهنجي قوم کي"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "جي هٿ سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "۽ اهارون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:07.847005746Z",
+  "model": "glm-5.3"
+}

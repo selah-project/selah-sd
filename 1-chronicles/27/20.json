@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 27:20",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "افرائيم جي پٽن تي هوشَعَ بن عزَزْياهو؛ منَشّي جي اڌ قبيلي تي يوائيل بن پَداياهو۔",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "پٽن تي"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرائيم"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "هوشَعَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עזזיהו",
+      "gloss": "عزَزْياهو"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "اڌ تي"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "قبيلي"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منَشّي"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "يوائيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "פדיהו",
+      "gloss": "پَداياهو"
+    }
+  ],
+  "timestamp": "2026-08-30T15:11:27.612105331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ڇوته سڀ ميزون اُگهيج ۽ گندگيءَ سان ڀريون آهن، بغير ڪا پاڪ جاءِ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "ميزون"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ڀريون آهن"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "اُگهيج"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "گندگي"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بغير"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:54:26.361040050Z",
+  "model": "glm-5.3"
+}

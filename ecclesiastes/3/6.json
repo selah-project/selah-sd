@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڳولڻ جو وقت ۽ وڃائڻ جو وقت؛ سانڀڻ جو وقت ۽ اڇلائڻ جو وقت.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ڳولڻ جو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "۽ وقت"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "وڃائڻ جو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "سانڀڻ جو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "۽ وقت"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "اڇلائڻ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:00.916596618Z",
+  "model": "glm-5.3"
+}

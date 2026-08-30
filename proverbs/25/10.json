@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "متان ٻُڌندڙ تو کي شرم جهلائي ۽ تو جي بدنامي موٽي نه",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "تو کي شرم جهلائي"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻُڌندڙ"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "۽ تو جي بدنامي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "مُوٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:08.552676400Z",
+  "model": "glm-5.3"
+}

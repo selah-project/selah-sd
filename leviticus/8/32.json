@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ جيڪو گوشت ۽ مانيءَ ۾ بچندو، سو توهان باهه ۾ ساڙيو.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "۽ جيڪو بچندو"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "گوشت ۾"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "۽ مانيءَ ۾"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "توهان ساڙيو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:15:06.006037799Z",
+  "model": "glm-5.3"
+}

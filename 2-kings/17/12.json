@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ گلُلن جي پوڄا ڪيائون، جن بابت ياهوه کين چيو هو: «توهان هيءَ ⟨את⟩ ڳالھ نه ڪريو.»",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "پوڄا ڪيائون"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "گلُلن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن بابت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ڪريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڳالھ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:43:51.093212941Z",
+  "model": "glm-5.3"
+}

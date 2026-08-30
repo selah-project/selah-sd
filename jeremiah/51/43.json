@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 51:43",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 51,
+  "translation": "سندس شهر ويران ٿيا، زمين سُڪي ۽ بيابان، اھڙي زمين جنھن ۾ ڪوبه ماڻھو رھي نہ ٿو، ۽ نہ ان ۾ مانُس جو پٽ لنگھي ٿو.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "سندس شهر"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ويران"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "سُڪي"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "۽ بيابان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "رھي ٿو"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نہ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "لنگھي ٿو"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مانُس جو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:25:12.580498999Z",
+  "model": "glm-5.3"
+}

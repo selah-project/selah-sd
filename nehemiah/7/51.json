@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "گزم جا پُٽ، عزا جا پُٽ، پسح جا پُٽ،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "گزم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عزا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پسح"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:42.926212715Z",
+  "model": "glm-5.3"
+}

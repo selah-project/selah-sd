@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 4:12",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ياهوه توهان سان باهه جي وچ مان ڳالهايو — لفظن جو قول توهان ٻڌو، پر ڪا شبيهه توهان نه ڏٺي — سواءِ قول جي.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالهايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "توهان سان"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "جي وچ مان"
+    },
+    {
+      "surface": "האש",
+      "gloss": "باهه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "قول"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "لفظن جو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "ותמונה",
+      "gloss": "پر شبيهه"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "توهان نه"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ڏٺي"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "سواءِ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "قول جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:44.374910677Z",
+  "model": "glm-5.3"
+}

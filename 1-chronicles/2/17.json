@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ابيگيل ⟨את⟩ عماسا کي ڄڻيو، ۽ عماسا جو پيءُ يٿر يشماعيلي هو.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "۽ ابيگيل"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عماسا"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "عماسا"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "۽ پيءُ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "عماسا"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "يٿر"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "يشماعيلي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:15.970236997Z",
+  "model": "glm-5.3"
+}

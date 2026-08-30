@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ داوود قلعي ۾ رهيو؛ تنهنڪري ان کي داوود جي شهر سڏيو وڃي ٿو.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "رهيو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "قلعي ۾"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ان ڪري"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "سڏيو وڃي ٿو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:58.817580680Z",
+  "model": "glm-5.3"
+}

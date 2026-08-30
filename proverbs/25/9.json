@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "پنهنجو دَعويٰ پنهنجي سنگتيءَ سان پئو ۽ ٻئي جو راز نه کولجاءِ.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "پنهنجو دَعويٰ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "پئو، جھيڙو ڪر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجي سنگتيءَ کي"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "پنهنجي سنگتيءَ سان"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "۽ راز"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئي جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "کولجاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:08.552391633Z",
+  "model": "glm-5.3"
+}

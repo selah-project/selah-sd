@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ⟨את⟩ سوئر، ڇوته اهو کُر پٽي ٿو پر وڙ نه چٻاڙي — اهو توهان لاءِ نجس آهي؛ سندن گوشت مان نه کائجو ۽ سندن لاش کي نه ڇُهجو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سوئر"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "سوئر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "پٽي ٿو"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "کُر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "وڙ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "سندن گوشت مان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائجو"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "۽ سندن لاش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ڇُهجو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:00.333756910Z",
+  "model": "glm-5.3"
+}

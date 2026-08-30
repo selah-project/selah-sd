@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "سڀ قبيلا ⟨الڳ⟩ جيڪي باقي رهن ٿا، قبيلو قبيلو الڳ، ۽ سندن زالون الڳ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "قبيلا"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "جيڪي باقي رهن ٿا"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "قبيلو"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "قبيلو"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "الڳ"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "۽ سندن زالون"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "الڳ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:57:09.836351682Z",
+  "model": "glm-5.3"
+}

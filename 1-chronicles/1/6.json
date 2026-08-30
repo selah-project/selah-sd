@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ گومر جا پُٽ ھئا: اشكناز ۽ ديفت ۽ توجرمه.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پُٽ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومر"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "اشكناز"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "۽ ديفت"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "۽ توجرمه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:33.590409885Z",
+  "model": "glm-5.3"
+}

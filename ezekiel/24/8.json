@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 24:8",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "غصو اڀارڻ لاءِ، بدلو وٺڻ لاءِ، مون ⟨את⟩ ان جو رت کليل پٿر تي رکيو آهي ته ان کي ڍڪيو نه وڃي.",
+  "tokens": [
+    {
+      "surface": "להעלות",
+      "gloss": "اڀارڻ لاءِ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غصو"
+    },
+    {
+      "surface": "לנקם",
+      "gloss": "بدلو وٺڻ لاءِ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "بدلو"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "مون رکيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان جو رت"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ان جو رت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "צחיח",
+      "gloss": "کليل"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ته نه"
+    },
+    {
+      "surface": "הכסות",
+      "gloss": "ڍڪيو وڃي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:35:23.272704663Z",
+  "model": "glm-5.3"
+}

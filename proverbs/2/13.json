@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "جن سڌن رستن کي ڇڏي ڏنو آھي، ته اونداھين واٽن ۾ ھلن،",
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "جن ... ڇڏي ڏنو آھي"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "رستن"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سڌن"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ته ... ھلن"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "واٽن ۾"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اونداھين"
+    }
+  ],
+  "timestamp": "2026-08-30T15:04:48.343539033Z",
+  "model": "glm-5.3"
+}

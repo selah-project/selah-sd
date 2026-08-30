@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 42:8",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "ڇوته انهن کوٽين جي ڊيگھ، جيڪي ٻاهرين آن ڏانهن هيون، پنجاھ گز هئي؛ ۽ ڏسو، هيڪل جي اڳيان ٽيهزار هئا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊيگھ"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "انهن کوٽين جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "آن ڏانهن"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "ٻاهرين"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاھ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "گز"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "هيڪل جي"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "گز"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:24.935751996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 7:11",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ مٿان قيمتي پٿر، ماپ موجب تراشيل، ۽ ڪَڍِ.",
+  "tokens": [
+    {
+      "surface": "ומלמעלה",
+      "gloss": "۽ مٿان"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "قيمتي"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "ماپ موجب"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "تراشيل پٿر"
+    },
+    {
+      "surface": "וארז",
+      "gloss": "۽ ڪَڍِ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:28:38.743424588Z",
+  "model": "glm-5.3"
+}

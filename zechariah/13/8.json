@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 13:8",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ساري ⟨the⟩ زمين ۾ ٿيندو، ياهوه جو اعلان آهي: ٻه حصا ان ۾ ڪٽيا ويندا، مري ويندا؛ پر ٽيون حصو ان ۾ رهجي ويندو.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "جو اعلان آهي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "פי",
+      "gloss": ""
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه حصا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ڪٽيا ويندا"
+    },
+    {
+      "surface": "יגועו",
+      "gloss": "مري ويندا"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "پر ٽيون حصو"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "رهجي ويندو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:57:59.216454066Z",
+  "model": "glm-5.3"
+}

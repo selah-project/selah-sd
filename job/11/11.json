@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 11:11",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ڇوته هو بيڪس ماڻهن کي سڃاڻي ٿو، ۽ ظلم ڏسي ٿو، ۽ غور نه ٿو ڪري.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "سڃاڻي ٿو"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ماڻهن کي"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "بيڪس"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏسي ٿو"
+    },
+    {
+      "surface": "און",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יתבונן",
+      "gloss": "غور ٿو ڪري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:36:57.705265986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 106,
+  "translation": "پوءِ پنهنج بيٺو ۽ فيصلو ڪيائين، ۽ وبا بند ٿي وئي.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "پوءِ بيٺو"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پنهنج"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "فيصلو ڪيائين"
+    },
+    {
+      "surface": "ויעצר",
+      "gloss": "بند ٿي وئي"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "وبا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:02.358217706Z",
+  "model": "glm-5.3"
+}

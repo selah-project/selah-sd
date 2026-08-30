@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "اُٿ، ڇو ته ڪم تي ئي تو تي آهي، ۽ اسان تنهنجا ساڻ آهيون؛ سگهارو ٿاءُ ۽ ڪر.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "اُٿ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تو تي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "۽ اسان"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تنهنجا ساڻ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "سگهارو ٿاءُ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "۽ ڪر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:05:14.488739267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 6:19",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "تيما جا قافلا ڏسڻ ڪري ٿا؛ شيبا جا مسافر اُميد رکن ٿا.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "ڏسڻ ڪري ٿا"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "قافلا"
+    },
+    {
+      "surface": "תמא",
+      "gloss": "تيما"
+    },
+    {
+      "surface": "הליכת",
+      "gloss": "مسافر"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شيبا"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "اُميد رکن ٿا"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:39.584606939Z",
+  "model": "glm-5.3"
+}

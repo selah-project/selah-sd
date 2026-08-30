@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "joshua 15:54",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ حمتہ، ۽ ڪريت-اربع ⟨اھو⟩ حبرون آھي، ۽ صيعور — نَوَ شهر ۽ سندن ڳوٺ؛",
+  "tokens": [
+    {
+      "surface": "וחמטה",
+      "gloss": "حمتہ"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "ڪريت-اربع"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "اربع"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨اھو⟩ آھي"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "וציער",
+      "gloss": "صيعور"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَوَ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "سندن ڳوٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:43:20.039794727Z",
+  "model": "glm-5.3"
+}

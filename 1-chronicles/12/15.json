@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "اِهي گاد جي پٽن مان هئا، لشڪر جا سردار؛ ننڍو هڪ ⟨سو⟩ جي برابر ۽ وڏو هڪ هزار جي برابر.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اِهي"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "پٽن مان"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشڪر جا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "⟨سو⟩ جي برابر"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ننڍو"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "۽ وڏو"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "هڪ هزار جي برابر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:39.887175973Z",
+  "model": "glm-5.3"
+}

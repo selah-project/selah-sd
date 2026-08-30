@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "آءُ ئي، آءُ ئي ياهوه آهيان، ۽ مون کان سواءِ ڪوبه موچارو ڪونهي.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "آءُ ئي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءُ ئي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ... ڪونهي"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "مون کان سواءِ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "موچارو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:54:07.094668719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 46:6",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "چنڀندڙ ڀڄي نه سگھي ۽ بهادر بچي نه سگھي؛ اتر ۾ فرات نديءَ جي ڪناري تي اھي لنگھ ٻڏي ويا ۽ ڪِري پيا.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "ڀڄي سگھي"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "چنڀندڙ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچي سگھي"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "بهادر"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "اتر ۾"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ڪناري"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "نديءَ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "فرات"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "لنگھ ٻڏي ويا"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "۽ ڪِري پيا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:58:01.103596053Z",
+  "model": "glm-5.3"
+}

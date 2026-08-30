@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "ٺھي سندن رستو اونداهي ۽ لسوٽ، ۽ ياهوه جو فرشتو کين پٺيان ھلي.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ٺھي"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "سندن رستو"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اونداهي"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "۽ لسوٽ"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "۽ فرشتو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "کين پٺيان ھلي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:39.879022935Z",
+  "model": "glm-5.3"
+}

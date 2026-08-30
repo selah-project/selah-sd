@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 15:1",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "پوءِ ايليفز تيمانيءَ جواب ڏنو ۽ چيو:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "پوءِ جواب ڏنو"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ايليفز"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "تيمانيءَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:38:21.046791207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "شمع الھرودي، ايليقا الھرودي،",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "شمع"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "الھرودي"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "ايليقا"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "الھرودي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:39.876944885Z",
+  "model": "glm-5.3"
+}

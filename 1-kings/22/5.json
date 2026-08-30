@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ يهوشافٽ اسرائيل جي بادشاهه کي چيو: اچ ته اڄ ياهوه جو ⟨את⟩ لفظ ڳولي وٺ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافٽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ڳولي وٺ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اچ ته"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "اڄ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لفظ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:37:59.341399329Z",
+  "model": "glm-5.3"
+}

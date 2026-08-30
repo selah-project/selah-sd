@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 38:15",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ darwaze جي چوٿين ڪَنڊِ لاءِ، هن پاسي ۽ ان پاسي، وسي جي darwaze جي، پرد پندرهن اَمهه ھئا؛ انھن جا کَمبا ٽي ۽ انھن جا بنياد ٽي.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "۽ ڪَنڊِ لاءِ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "چوٿين"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "هن پاسي"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "۽ ان پاسي"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "daroaze لاءِ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "وسي جي"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "پرد"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-ٽن"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمهه"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "انھن جا کَمبا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "۽ انھن جا بنياد"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:18.877718770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "ان لاءِ ڪَٺين جا ٽڪرا ٺاهيائون، جُڙيل — ان جي ٻن ڪنڊن تي جُڙيل هئا.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "ڪَٺين جا ٽڪرا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ٺاهيائون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان لاءِ"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "جُڙيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "ان جي ڪنڊن"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "جُڙيل هئا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:58.429679574Z",
+  "model": "glm-5.3"
+}

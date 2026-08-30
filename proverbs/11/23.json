@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "نيڪن جي تمنهن رڳو ڀلائي آهي، پر بڇڙن جي اُميد ڪود آهي.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "تمنهن"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نيڪن جي"
+    },
+    {
+      "surface": "אך",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلائي"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "اُميد"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بڇڙن جي"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ڪود"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:49.553281891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "ياهوه اڪيلي هن کي رستو ڏيکاريو، ۽ سندس ساڻ ڪوبه پرڏيهي ايل ڪونه هو.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "اڪيلي"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "هن کي رستو ڏيکاريو"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ڪونه هو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ساڻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "پرڏيهي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:44.262360282Z",
+  "model": "glm-5.3"
+}

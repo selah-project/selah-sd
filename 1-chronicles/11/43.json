@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "حانان پٽ مَعَکاهہ جو، ۽ يوشافات مِتنِي،",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "حانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعَکاهہ"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "۽ يوشافات"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "مِتنِي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:55.107142918Z",
+  "model": "glm-5.3"
+}

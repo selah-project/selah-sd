@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "يگعل پٽ ناتن جو، صوبہ مان؛ بني گادي،",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "يگعل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "صوبہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "گادي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:45.159464019Z",
+  "model": "glm-5.3"
+}

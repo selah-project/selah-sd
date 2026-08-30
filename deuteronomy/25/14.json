@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "توهان جي گهر ۾ ايفاه ۽ ايفاه نه هجن، وڏي ۽ ننڍي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توهان جي"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ايفاه"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "۽ ايفاه"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "۽ ننڍي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:14.256703388Z",
+  "model": "glm-5.3"
+}

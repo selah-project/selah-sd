@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 6:16",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "جي برف سببان ڪارا ٿيل آهن، مٿن ڀف پاڻ کي لڪائي ٿي.",
+  "tokens": [
+    {
+      "surface": "הקדרים",
+      "gloss": "ڪارا ٿيل آهن"
+    },
+    {
+      "surface": "מני",
+      "gloss": "برف سببان"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "برف"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "مٿن"
+    },
+    {
+      "surface": "יתעלם",
+      "gloss": "لڪائي ٿي"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "ڀف"
+    }
+  ],
+  "timestamp": "2026-08-30T13:36:01.419194658Z",
+  "model": "glm-5.3"
+}

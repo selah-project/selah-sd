@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 15:21",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ مریم انهن کي جواب ڏنو: ياهوه لاءِ گايو، ڇوته بي حد مgrownهيل آهي؛ گهوڙي ۽ سندس سوار کي سمنڊ ۾ اُڇليو اٿس.",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "جواب ڏنو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "مریم"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "گايو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "مgrownهيل"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "مgrownهيو"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "گهوڙي"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "۽ سندس سوار"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "اُڇليو"
+    },
+    {
+      "surface": "בים",
+      "gloss": "سمنڊ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:29.392495731Z",
+  "model": "glm-5.3"
+}

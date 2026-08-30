@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇاڪاڻ ته زناڪار عورت جي بدلي مانيءَ جي ڍڳي تائين آهي، ۽ مڙس جي زال قيمتي جان جو شڪار ڪندي آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "جي بدلي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زناڪار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ڍڳي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "مانيءَ جي"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "۽ زال"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مڙس جي"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "قيمتي"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "شڪار ڪندي آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:10.155190138Z",
+  "model": "glm-5.3"
+}

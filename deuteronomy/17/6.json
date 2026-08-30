@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "ٻن شاهدن جي وات سان يا ٻن شاهدن کان ٽي شاهدن جي وات سان مارڻهار ماريو ويندو؛ هڪ شاهد جي وات سان ⟨هو⟩ نه ماريو ويندو.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات سان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شاهدن"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽن"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شاهدن"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ماريو ويندو"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مرڻهار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ماريو ويندو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات سان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:36.039802169Z",
+  "model": "glm-5.3"
+}

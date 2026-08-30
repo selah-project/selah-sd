@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ⟨את⟩ بيت صور کي ۽ ⟨את⟩ سوكو کي ۽ ⟨את⟩ عدلام کي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "بيت صور"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سوكو"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "سوكو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "عدلام"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "عدلام"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:22.782721659Z",
+  "model": "glm-5.3"
+}

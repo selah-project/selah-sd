@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ جيڪڏهن قاتل پناهه واري شهر جي ⟨את⟩ سرحد ٻاهر نڪري، جنهن ڏانهن ⟨هو⟩ ڀڄندو آهي —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نڪرڻ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نڪري"
+    },
+    {
+      "surface": "הרוצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرحد"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "مקלטו",
+      "gloss": "پناهه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "ڀڄندو"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:52.871850345Z",
+  "model": "glm-5.3"
+}

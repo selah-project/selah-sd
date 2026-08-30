@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ باقي رھيل ماڻھن ٻڌن ۽ ڊجن، ۽ وري اھڙي برائي ڏانھن وڌڻ جي ھرگز نہ ڪن تنھن جي وچ ۾.",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "۽ باقي رھيل"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ٻڌن"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "۽ ڊجن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نہ"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "وڌن"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "اھڙي"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "تنھن"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تنھن جي وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:44.443485904Z",
+  "model": "glm-5.3"
+}

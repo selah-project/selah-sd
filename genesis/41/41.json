@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ فرعون يوسف ڏي چيو: ڏس، مون توکي ⟨את⟩ سڄي ملڪ متصرين جي مٿان رکيو آهي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "مون رکيو"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "توکي"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ملڪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متصرين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:19.348598403Z",
+  "model": "glm-5.3"
+}

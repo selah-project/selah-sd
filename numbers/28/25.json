@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 28:25",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ ستين ڏينهن تي توهان لاءِ ⟨هڪ⟩ مقدس ڪانڳو ٿيندو؛ ڪا به خدمت جو ڪم نه ڪريو.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "۽ ڏينهن تي"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "مقدس ڪانڳو"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪو به"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ڪريو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:52.651564869Z",
+  "model": "glm-5.3"
+}

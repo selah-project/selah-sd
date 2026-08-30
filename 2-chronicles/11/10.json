@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ⟨את⟩ صعره ۽ ⟨את⟩ ايلون ۽ ⟨את⟩ حبرون، جيڪي يهوداه ۽ بنيامين ۾ آھن — محفوظ شهر.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "صعره"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "صعره"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ايلون"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "ايلون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حبرون"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "يهوداه ۾"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "۽ بنيامين ۾"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "محفوظ (فصيلدار)"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:29.810357968Z",
+  "model": "glm-5.3"
+}

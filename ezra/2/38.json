@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "پشحور جا پُٽ، ھڪ ھزار ٻه سؤ چاليھ ۽ ست۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "پشحور"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھڪ ھزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سؤ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليھ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "۽ ست"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:58.348664660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "بسي جا پُٽ، معونيم جا پُٽ، نفوشسيم جا پُٽ،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "بسي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "معونيم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "نفوشسيم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:42.926365820Z",
+  "model": "glm-5.3"
+}

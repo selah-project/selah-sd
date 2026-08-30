@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "لعنت ۾ ⟨هو⟩ اُهو ماڻهو جنهن پيءُ کي ⟨את⟩ خوشخبري ڏني، چوندي „توتي پٽ ڄائيو، نر“، جنهن کي تمام خوش ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنت ۾"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اُهو ماڻهو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "خوشخبري ڏني"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پيءُ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندي"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄائيو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توتي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "ڪيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:13:06.471564255Z",
+  "model": "glm-5.3"
+}

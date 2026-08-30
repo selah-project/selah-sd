@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 75,
+  "translation": "ڇوته ايلوهيم ⟨هي⟩ فيصلو ڪندڙ آهي: هن کي هيٺ ڪري ٿو ۽ هن کي مٿي کڻي ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "فيصلو ڪندڙ آهي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "هيٺ ڪري ٿو"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "۽ هن"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "مٿي کڻي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:46.941871661Z",
+  "model": "glm-5.3"
+}

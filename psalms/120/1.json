@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 120,
+  "translation": "عروج جو گيت. پنھنجي تنگي ۾ مون ياهوه ڏانهن پڪاريو، ۽ هن مون کي جواب ڏنو.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "عروج جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "تنگي ۾"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پنھنجي"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "پڪاريو"
+    },
+    {
+      "surface": "ויעננي",
+      "gloss": "۽ جواب ڏنو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:01.337508980Z",
+  "model": "glm-5.3"
+}

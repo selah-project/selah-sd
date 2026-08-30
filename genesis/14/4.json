@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ٻارهن سال ⟨את⟩ کدرلعومر جي خدمت ڪيائون، ۽ تيرهين سال بغاوت ڪيائون.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "ٻارهن"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(ٻارهن)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خدمت ڪيائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کدرلعومر"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "کدرلعومر"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "۽ تيرهين"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(تيرهين)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "بغاوت ڪيائون"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:14.411378733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ ان حمل ورتو ۽ پُٽ ڄڻيو، ۽ پاڻ سندس نالو ⟨את⟩ عِر رکيائين.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "حمل ورتو"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "نالو رکيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس نالو عِر"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالو"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عِر"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:28.161574860Z",
+  "model": "glm-5.3"
+}

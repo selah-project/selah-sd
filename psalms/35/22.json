@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "تو ڏٺو اٿئي، ياهوه — خاموش نه رهه؛ ادوناي، مون کان پري نه ٿيءُ.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "تو ڏٺو اٿئي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "خاموش نه رهه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "پري نه ٿيءُ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مون کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:14.928408944Z",
+  "model": "glm-5.3"
+}

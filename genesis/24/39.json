@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ته آءٌ مون جي موليٰ سان چيو، شايد اها عورت منهن پٺيان نه هلي.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ته چيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "مون جي موليٰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "شايد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "هلي"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "اها عورت"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "منهن پٺيان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:34.525604731Z",
+  "model": "glm-5.3"
+}

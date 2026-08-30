@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "nehemiah 7:59",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "شفتيہ جا پٽ، حتيل جا پٽ، پوخرت-صباييم جا پٽ، آمون جا پٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شفتيہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "حتيل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "پوخرت"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "صباييم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "آمون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:56.860941311Z",
+  "model": "glm-5.3"
+}

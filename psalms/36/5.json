@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "پنهنجي بستري تي اون گهڙي ٿو، اهڙي رستي تي بيٺو آهي جو چڱو نه آهي؛ برائي کي نه ٿو رد ڪري.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "اون"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "گهڙي ٿو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "پنهنجي بستري"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "بيٺو آهي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "ٿو رد ڪري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:38.253442143Z",
+  "model": "glm-5.3"
+}

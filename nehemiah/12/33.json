@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ عزرياه، عزرا ۽ مشلم.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "۽ عزرياه"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "عزرا"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "۽ مشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:26.465325883Z",
+  "model": "glm-5.3"
+}

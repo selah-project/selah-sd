@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 17:4",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "ڇاڪاڻ ته تون سندن دل کان سمجھ لڪائي آهي؛ تنهنڪري تون کين مٿي نه ڪندين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "سندن دل"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "لڪائي آهي"
+    },
+    {
+      "surface": "משכל",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "کان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרמם",
+      "gloss": "مٿي ڪندين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:38:52.767460389Z",
+  "model": "glm-5.3"
+}

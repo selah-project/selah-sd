@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "مٿس نئون گيت ڳايو، وڄايو سُٺيءَ طرح هڪل سان.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ڳايو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نئون"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "سُٺيءَ طرح"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "وڄايو"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "هڪل سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:46.850437108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 12:17",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ياهوه جو لفظ مون ڏانهن آيو، چوڻ لاءِ ته،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون ڏانهن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ ته"
+    }
+  ],
+  "timestamp": "2026-08-30T12:29:03.693650133Z",
+  "model": "glm-5.3"
+}

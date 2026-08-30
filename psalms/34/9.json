@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "چکو ۽ ڏسو ته ياهوه ڀلو آھي؛ خوش آھي اُھو ماڻھو جيڪو ⟨اوٿي⟩ پناهه وٺي ٿو.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "چکو"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خوش آھي"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "اُھو ماڻھو"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "پناهه وٺي ٿو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨اوٿي⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:18.859699201Z",
+  "model": "glm-5.3"
+}

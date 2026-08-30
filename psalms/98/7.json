@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 98,
+  "translation": "سمندر گججن، ۽ سندس ڀرجيل سمون؛ ڌرتي ۽ ان جا رهواسي.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "گججن"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "۽ سندس ڀرجيل سمون"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ڌرتي"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "۽ ان جا رهواسي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:21.764789987Z",
+  "model": "glm-5.3"
+}

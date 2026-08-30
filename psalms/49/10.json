@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "۽ اهو اڃا هميشه جيئي، کڏ نه ڏسي.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "۽ جيئي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اڃا"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ڏسي"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "کڏ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:05.982760879Z",
+  "model": "glm-5.3"
+}

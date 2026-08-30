@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 115,
+  "translation": "سندن بت چاندي ۽ سون ⟨آهن⟩، ماڻهن جي هٿن جو ڪم.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "سندن بت"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "۽ سون"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "هٿن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:22.291168064Z",
+  "model": "glm-5.3"
+}

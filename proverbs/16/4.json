@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ياهوه سڀ ڪجهه پنهنجي مقصد لاءِ ڪيو، ۽ ڏوهيءَ کي به بُرائيءَ جي ڏينهن لاءِ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ ڪجهه"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "پنهنجي مقصد لاءِ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ڏوهيءَ کي"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ڏينهن لاءِ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:22.706721737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "نادان ⟨את⟩ گنھ جو مذاق اُڏائيندا آھن، پر سڌرن ۾ رضا (ٻَڌي) آھي.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "مذاق اُڏائيندا آھن"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "گنھ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "پر … ۾"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سڌرن"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:00.646803672Z",
+  "model": "glm-5.3"
+}

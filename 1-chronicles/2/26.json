@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ يارحماعيل جي ھڪ ٻي زال هئي، ۽ سندس نالو عطارہ ھو؛ هوءَ اونام جي ماءُ ھئي۔",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "هئي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ٻي"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "يارحماعيل جي"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "۽ سندس نالو"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "عطارہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هوءَ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ماءُ"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "اونام جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:59.928093101Z",
+  "model": "glm-5.3"
+}

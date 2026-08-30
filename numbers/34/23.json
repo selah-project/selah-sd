@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 34:23",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "يوسف جي پٽن لاءِ — منشي جي پٽن جي قبيلي لاءِ سردار حَنيئيل، ايپود جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "پٽن لاءِ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي لاءِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشي"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "חניאל",
+      "gloss": "حَنيئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "ايپود"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:00.653136458Z",
+  "model": "glm-5.3"
+}

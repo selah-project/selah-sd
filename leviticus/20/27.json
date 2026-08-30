@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ مرد يا عورت، جڏهن انهن ۾ اُوب هجي يا يِدعوني، موت ماريا ويندا؛ پٿرن سان ⟨את⟩ انهن کي رنڊائيندا؛ سندن رت انهن تي آهي.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "۽ مرد"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انهن ۾"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "اُوب"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "ידענي",
+      "gloss": "يِدعوني"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ماريا ويندا"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "پٿرن سان"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "رنڊائيندا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "انهن کي"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "سندن رت"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انهن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:08.160351207Z",
+  "model": "glm-5.3"
+}

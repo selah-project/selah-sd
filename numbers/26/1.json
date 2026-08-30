@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ ياهوه موشي ۽ اهارون پٽ ايلعازر کاهن سان ڳالھيو، چوڻ موجب:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ ڳالھيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ايلعازر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ موجب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:06.659632391Z",
+  "model": "glm-5.3"
+}

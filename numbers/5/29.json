@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 5:29",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "هيءَ غيرت جي شريعت آهي، جڏهن هڪ زال پنهنجي مڙس جي هيٺ موڙجي وڃي ۽ نجس ٿئي.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هيءَ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "شريعت"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "غيرت جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "תשטה",
+      "gloss": "موڙجي وڃي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "پنهنجي مڙس جي"
+    },
+    {
+      "surface": "ונטמאה",
+      "gloss": "۽ نجس ٿئي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:05.053241468Z",
+  "model": "glm-5.3"
+}

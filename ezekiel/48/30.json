@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 48:30",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ ھيئن ⟨آھن⟩ شھر جون حدون: اتر پاسن کان پنج سؤ ۽ چار ھزار ماپ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ ھيئن"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "حدون"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شھر جون"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "پاسن کان"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اتر"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ماپ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:31.956799710Z",
+  "model": "glm-5.3"
+}

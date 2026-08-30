@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ هاڻي، ادوناي، مان ڇا جي اُميد رکان؟ منهنجي اُميد توهان ۾ ئي آهي.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا جي"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "مان اُميد رکان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "منهنجي اُميد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توهان ۾"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:02.432241905Z",
+  "model": "glm-5.3"
+}

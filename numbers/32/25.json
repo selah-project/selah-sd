@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 32:25",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ گاد جي پٽن ۽ رئوبن جي پٽن موشي کي چيو ته تنهجا ٻانهي ڪندا، جهڙيءَ طرح ادوناي حڪم ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽن"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "تنهجا ٻانهي"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ڪندا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جهڙيءَ طرح"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حڪم ڪري ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:56.131465838Z",
+  "model": "glm-5.3"
+}

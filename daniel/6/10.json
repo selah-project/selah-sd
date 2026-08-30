@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "تنهنڪري بادشاهه داريوش لکڻيءَ ۽ فرمان تي مهر لڳائي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "تنهن سڀ جي"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ڪري\/موجب"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "داريوش"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "مهر لڳائي"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "لکڻيءَ"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "۽ فرمان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:59:39.516530961Z",
+  "model": "glm-5.3"
+}

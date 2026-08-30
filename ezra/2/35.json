@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "سناح جا پُٽ، ٽي ھزار ڇھ سَو ٽيھه (3,630).",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "سناح"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ ڇھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽيھه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:38.397616861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ته فرق ڪريو نپاک ۽ پاڪ جي وچ ۾، ۽ اُن جيءَ جي وچ ۾ جيڪا کائجي ٿي، ۽ اُن جيءَ جي وچ ۾ جيڪا نه کائجي.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "فرق ڪرڻ لاءِ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "نپاک"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ وچ ۾"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ وچ ۾"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "جيءَ"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "کائڻ واري"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ وچ ۾"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "جيءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کائجي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:24.302574683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "مواب جي سينگ کينڊيو ويو آهي ۽ سندس ٻانهن ⟨آهي⟩ ٽٽل، ياهوه جو اعلان آهي.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "کينڊيو ويو آهي"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "سينگ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مواب"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "۽ سندس ٻانهن"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ٽٽي ويئي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "جو اعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:43.913504818Z",
+  "model": "glm-5.3"
+}

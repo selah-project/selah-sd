@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ بادشاهه جي گهر ۽ قوم جي گهر کي ڪلدانين باهه ۾ ساڙيو؛ ۽ يروشلم جون ديوارون ڊاهيائون.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "گهر کي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه جي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "گهر کي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم جي"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ساڙيو"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "ڪلدانين"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ديوارون"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "ديوارون"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم جون"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ڊاهيائون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:20:15.497060799Z",
+  "model": "glm-5.3"
+}

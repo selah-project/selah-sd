@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ يرُبعل، يواش جو پُٽ، ويو ۽ پنھنجي گھر ۾ رهڻ لڳو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ويو"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "يرُبعل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يواش"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "رهڻ لڳو"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "پنھنجي گھر ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:00:21.330825827Z",
+  "model": "glm-5.3"
+}

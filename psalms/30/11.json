@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ٻڌ، ياهوه، ۽ مڻ تي مھربان ڪر؛ ياهوه، منھنجو مددگار ٿيءُ.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "۽ مڻ تي مھربان ڪر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيءُ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "مددگار"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منھنجو ... لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:09.888430257Z",
+  "model": "glm-5.3"
+}

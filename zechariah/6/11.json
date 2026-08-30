@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 6:11",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ تون چاندي ۽ سون وٺين ۽ تاج ٺاهين ۽ يهوشوع، يهوصادق جي پٽ، مکيه ڪاهن جي مٿي تي رکندين.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "۽ تون وٺين"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "۽ سون"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "۽ تون ٺاهين"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "۽ تون رکندين"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "مٿي تي"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "يهوصادق"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "مکيه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:50.263669115Z",
+  "model": "glm-5.3"
+}

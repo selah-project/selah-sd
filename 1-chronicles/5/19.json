@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ هنن هاغرين سان ۽ يطور ۽ نفش ۽ نودب سان جنگ ڪئي.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "۽ هنن ڪئي"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "هاغرين"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "۽ يطور"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "۽ نفش"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "۽ نودب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:41.844117316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "جو ڪجھ ⟨ٿيو⟩ هو، اُهو ئي آهي جو ٿيندو؛ ۽ جو ڪجھ ڪيو ويو، اُهو ئي آهي جو ڪيو ويندو؛ ۽ سج هيٺ ڪوبه نئون ناهي.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "جو ڪجھ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ٿيو هو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُهو ئي"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "جو ٿيندو"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "۽ جو ڪجھ"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "ڪيو ويو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُهو ئي"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "جو ڪيو ويندو"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ناهي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نئون"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:47.273243009Z",
+  "model": "glm-5.3"
+}

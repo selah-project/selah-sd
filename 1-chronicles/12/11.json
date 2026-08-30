@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "مِشْمَنّاه چوٿون، يِرْمَياهو پنجون.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "مِشْمَنّاه"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوٿون"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "يِرْمَياهو"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "پنجون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:08.227793420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "صدقي قوم کي بلند ڪري ٿو، ۽ قومن جو خيسيد پاپ ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "صدقي"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "بلند ڪري ٿو"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم کي"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "۽ خيسيد"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "قومن جو"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "پاپ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:48.261810223Z",
+  "model": "glm-5.3"
+}

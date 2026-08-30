@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ياهوه موشيءَ کي چيو: ائين چئين بني اسرائيل کي: توهان پاڻ ڏٺو ته آسمانن مان مون توهان سان ڳالھايو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيءَ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "چئين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان پاڻ"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "مون ڳالھايو"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "توهان سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:00.779561057Z",
+  "model": "glm-5.3"
+}

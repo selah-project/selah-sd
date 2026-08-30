@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "سڌا ماڻهو ڏسن ٿا ۽ خوش ٿين ٿا، ۽ سڀ ظلم پنھنجو وات بند ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ڏسن ٿا"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سڌا ماڻهو"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "۽ خوش ٿين ٿا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "بند ڪري ٿو"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "پنھنجو وات"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:12.298244360Z",
+  "model": "glm-5.3"
+}

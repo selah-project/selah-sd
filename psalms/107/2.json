@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "چون ۽ ياهوه جا ڇڏايل، جن کي هن دشمن جي هٿ مان ڇڏايو.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "چون"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "ڇڏايل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ڇڏايو"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "هٿ مان"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:07.720332313Z",
+  "model": "glm-5.3"
+}

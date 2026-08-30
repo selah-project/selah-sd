@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ڪوبه لفظ سڀن سٺن لفظن مان، جيڪي ياهوه بيت يسرائيل سان چيا، نه ڪريو — سڀ پورا ٿيا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ڪريو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڀن مان"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "لفظن"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "سٺن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "پورا ٿيا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:33.936687221Z",
+  "model": "glm-5.3"
+}

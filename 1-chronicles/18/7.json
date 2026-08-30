@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ داويد ⟨את⟩ سَون جا ٺهَل ورتا جيڪي هدادعزر جي ٻانهن تي هئا، ۽ کين يروشلم آندائين.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ورتا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سَون جا ٺهَل"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ٺهَل"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سَون جا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ٻانهن"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "هدادعزر"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "آندائين"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:16.055857167Z",
+  "model": "glm-5.3"
+}

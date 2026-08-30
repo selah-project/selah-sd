@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ڇوته هي حڪم جيڪو آءٌ اڄ تو کي حڪم ڪريان ٿو، اهو تو کان اوپرو ⟨آهي⟩ نه، ۽ نه اهو پري ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "هي حڪم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تو کي حڪم ڪريان ٿو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اڄ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "اوپرو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تو کان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "پري"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:22.411948042Z",
+  "model": "glm-5.3"
+}

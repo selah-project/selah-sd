@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 5:9",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "پوءِ داويد مَٽِ ۾ رهيو ۽ ان کي سڏيائين داويد جي شهر، ۽ داويد چوڌاري ٺاهيو مِلّو کان ۽ اندر.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "رهيو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "במצדה",
+      "gloss": "مَٽِ ۾"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "سڏيائين"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد جي"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ٺاهيو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "مِلّو"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "۽ اندر"
+    }
+  ],
+  "timestamp": "2026-08-30T11:18:12.601302150Z",
+  "model": "glm-5.3"
+}

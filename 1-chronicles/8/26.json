@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ شمشري ۽ شحريه ۽ عثليه.",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "۽ شمشري"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "۽ شحريه"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "۽ عثليه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:29.087963114Z",
+  "model": "glm-5.3"
+}

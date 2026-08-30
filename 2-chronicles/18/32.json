@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 18:32",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ٿيو جڏهن رٿن جي سردارن ڏٺو ته اھو اسرائيل جو بادشاھ نه ھو ته هو سندس پٺيان کان واپس موڙيا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "جڏهن ڏٺو"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "رٿن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ھو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "۽ واپس موڙيا"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "سندس پٺيان کان"
+    }
+  ],
+  "timestamp": "2026-08-30T15:12:30.321477243Z",
+  "model": "glm-5.3"
+}

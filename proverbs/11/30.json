@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "نيڪ ماڻھوءَ جو ميوو زندگيءَ جو وڻ آھي، ۽ جيڪو جانين کي کڻندو آھي سو حڪيم آھي.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "ميوو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ ماڻھوءَ جو"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگيءَ جو"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "۽ کڻندو آھي"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "جانين کي"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حڪيم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:23.406414662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "بيشڪ توهان ئي ⟨آهي⟩ قوم، ۽ توهان سان گڏ حكمت مرڻ واري ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "توهان سان گڏ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مرڻ واري"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:14.057469290Z",
+  "model": "glm-5.3"
+}

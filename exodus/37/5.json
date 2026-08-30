@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ هن ⟨את⟩ ڏنڊن کي صندوق جي پاسن وارين انگهن ۾ وڌو، ته جيئن ⟨את⟩ صندوق کي کڻي سگهجي.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "۽ وڌو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڏنڊا"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ڏنڊا"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "انگهن ۾"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "پاسن"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "کڻڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:01.294248907Z",
+  "model": "glm-5.3"
+}

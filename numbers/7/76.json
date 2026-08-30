@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ٻڪرين مان ھڪ تڪ، گناھ جي قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "تڪ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻڪرين مان"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناھ جي قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:24.504641861Z",
+  "model": "glm-5.3"
+}

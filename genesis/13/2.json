@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ابرام مال، چاندي ۽ سون ۾ تمام ڀاري هو.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "۽ ابرام"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ڀاري هو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "مال ۾"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "چاندي ۾"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "۽ سون ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:12.637105586Z",
+  "model": "glm-5.3"
+}

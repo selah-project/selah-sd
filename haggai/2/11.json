@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ياهوه صبائوت اهڙو چوي ٿو: هاڻي ڪاهنن کان ⟨את⟩ تورات پڇ، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اهڙو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پڇ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪاهنن کي"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهنن کان"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:44.013769743Z",
+  "model": "glm-5.3"
+}

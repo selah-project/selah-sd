@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 39:7",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "شهر جي گهمڙ تي ٺٺولي ڪري ٿو، ڏوڪڙ هڻندڙ جي رڙ نه ٻڌي ٿو۔",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "ٺٺولي ڪري ٿو"
+    },
+    {
+      "surface": "להמון",
+      "gloss": "جي گهمڙ تي"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "رڙ"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "ڏوڪڙ هڻندڙ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ٻڌي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:25.405287981Z",
+  "model": "glm-5.3"
+}

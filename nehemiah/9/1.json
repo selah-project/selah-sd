@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 9:1",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ هن مهيني جي چوويھين ڏينهن تي اسرائيل جا پٽ روزي ۽ ويڙهين سان گڏ ٿيا، ۽ مٿن مٽي هئي.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "۽ ... ڏينهن"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني جي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "گڏ ٿيا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "روزي سان"
+    },
+    {
+      "surface": "ובשקים",
+      "gloss": "۽ ويڙهين سان"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "۽ مٽي"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "مٿن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:32.622802541Z",
+  "model": "glm-5.3"
+}

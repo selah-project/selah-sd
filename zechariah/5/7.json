@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ ڏسو، سيسي جو گول ٽڪر کڻيل هو، ۽ ھي ھڪ زال آھي جا ايفي جي وچ ۾ ويٺي آھي.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "گول ٽڪر"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "سيسي جو"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "کڻيل هو"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "۽ ھي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ويٺي آھي"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ايفي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:23.435904560Z",
+  "model": "glm-5.3"
+}

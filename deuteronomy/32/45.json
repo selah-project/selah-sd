@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ موشي ⟨את⟩ سڀ انهن لفظن، سڀ اسرائيل ڏانهن ڳالهائڻ پورو ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "پورو ڪيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ڳالهائڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ لفظن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظن"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "انهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:32.926187615Z",
+  "model": "glm-5.3"
+}

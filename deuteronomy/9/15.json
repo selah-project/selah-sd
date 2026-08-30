@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ آءٌ موڙي پاڻ جبل تان لاھيس، ۽ جبل باهه ۾ سڙي رھيو هو، ۽ عھد جا ٻه تختيون ٻنھي ھٿن تي ھيون.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "۽ موڙي پاڻ"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "لاھيس"
+    },
+    {
+      "surface": "מן",
+      "gloss": "تان"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "۽ جبل"
+    },
+    {
+      "surface": "בער",
+      "gloss": "سڙي رھيو هو"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "تختيون"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عھد جا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تَ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻنھي"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ھٿن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:32.527281405Z",
+  "model": "glm-5.3"
+}

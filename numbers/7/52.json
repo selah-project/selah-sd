@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ ٻڪرين جو ٻڪرو، گناهه جي قرباني لاءِ۔",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ٻڪرو"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻڪرين جو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناهه جي قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:59.829097853Z",
+  "model": "glm-5.3"
+}

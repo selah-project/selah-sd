@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "ڇا ڪريو ٿا مقرر ڏينهن لاءِ، ۽ ياهوه جي چڙهيءَ جي ڏينهن لاءِ؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ڪريو ٿا"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ڏينهن لاءِ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقرر (پڻ ڏينهن)"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "۽ ڏينهن لاءِ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "چڙهيءَ جي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:46:38.344860367Z",
+  "model": "glm-5.3"
+}

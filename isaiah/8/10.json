@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "صلاح ڪريو ته اُا ناس ٿي ويندي؛ لفظ چئو ۽ اُو قائم نه ٿيندو، ڇوته اسان سان اِيل آھي.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "صلاح ڪريو"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ته ناس ٿي ويندي"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "لفظ چئو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "قائم ٿيندو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "اسان سان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِيل"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:57.707638131Z",
+  "model": "glm-5.3"
+}

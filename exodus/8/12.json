@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ ياهوه موشي کي چيو، اهارون کي چؤ ته پنھنجي عصا ⟨את⟩ ڪڍ ۽ زمين جي مٿي ⟨את⟩ ماري، ته سڀ مٽسرايم جي زمين ۾ جون ٿي وڃي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ڪڍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجي عصا"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "پنھنجي عصا"
+    },
+    {
+      "surface": "והך",
+      "gloss": "۽ ماري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مٽي"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٽي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ته ٿي وڃي"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "جون"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مٽسرايم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:36:12.139880208Z",
+  "model": "glm-5.3"
+}

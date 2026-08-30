@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 26:11",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "حلقياه ٻيو، تبلياه ٽيون، ذكرياه چوٿون؛ حوسہ جا سڀ پٽ ۽ ڀائر تيرھن ٿيا.",
+  "tokens": [
+    {
+      "surface": "חלקיהו",
+      "gloss": "حلقياه"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "טבליהו",
+      "gloss": "تبلياه"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ٽيون"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "ذكرياه"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "چوٿون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "۽ ڀائر"
+    },
+    {
+      "surface": "לחסה",
+      "gloss": "حوسہ جا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تيرھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:43.334691006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 116,
+  "translation": "مان پيار ڪريان ٿو، ڇوته ياهوه ٻڌي ٿو ⟨את⟩ ميري آواز، مريا دعا.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "مان پيار ڪريان ٿو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ٻڌي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميري آواز"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ميري آواز"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "مريا دعا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:20:00.558929264Z",
+  "model": "glm-5.3"
+}

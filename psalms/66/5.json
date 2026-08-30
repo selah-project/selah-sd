@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 66,
+  "translation": "اچو ۽ ايلوهيم جون ڪرتون ڏسو؛ هو پنھنجي ڪم ۾ ماڻهن جي پٽن تي ڏيندڙ خوف آھي.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "اچو"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ڪرتون"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ڏيندڙ خوف"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ڪم ۾"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:56.846736070Z",
+  "model": "glm-5.3"
+}

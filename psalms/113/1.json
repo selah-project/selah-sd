@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 113,
+  "translation": "ساراھيو ياه کي، ساراھيو ياهوه جا ننhelyا، ساراھيو ⟨את⟩ ياهوه جي نالي کي.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ساراھيو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ساراھيو"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ننٙيا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ساراھيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جي نالي کي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:27.564418119Z",
+  "model": "glm-5.3"
+}

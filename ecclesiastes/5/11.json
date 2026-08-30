@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "مزدور جي ننڊ مٺي آهي، گهٽ کائي يا گهڻو؛ پر امير جي سير تماشي کيس ننڊ ڪرڻ نه ٿو ڏئي.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "مٺي"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ننڊ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "مزدور جي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "گهٽ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "گهٽ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "يا"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گهڻو"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائي"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "۽ سير تماشي"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "امير جو"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نه ٿو"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "ڏئي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "ننڊ ڪرڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:20.361290673Z",
+  "model": "glm-5.3"
+}

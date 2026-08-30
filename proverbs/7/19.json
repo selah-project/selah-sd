@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڇوتهہ مڙس پنھنجي گهر ۾ ناھي؛ پري جي واٽ تي ويو آھي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مڙس"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "پنھنجي گهر ۾"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ويو آھي"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "واٽ تي"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "پري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:50.028995773Z",
+  "model": "glm-5.3"
+}

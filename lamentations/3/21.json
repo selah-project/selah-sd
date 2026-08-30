@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "هيءُ مان پنهنجي دل ڏانهن موڙيندو آهيان، تنهنڪري ⟨آس⟩ رکندو آهيان.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "موڙيندو آهيان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "پنهنجي دل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنهنڪري جو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "آس رکندو آهيان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:03.436162580Z",
+  "model": "glm-5.3"
+}

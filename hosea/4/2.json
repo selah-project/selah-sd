@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "قسم کائڻ ۽ ڪوڙ، ۽ قتل، ۽ چوري، ۽ زنا — ڦٽي پيا آهن، ۽ رت رت سان مليو آهي.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "قسم کائڻ"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "۽ ڪوڙ"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "۽ قتل"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "۽ چوري"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "۽ زنا"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "ڦٽي پيا آهن"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "۽ رت"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "رت سان"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "ميليوجا آهن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:51.372596625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "دروازو پنھنجي ڪُنڊيءَ تي گھمندو آھي، ۽ ڪاھل پنھنجي بستري تي گھمدو آھي۔",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "گھمندو آھي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "پنھنجي ڪُنڊيءَ"
+    },
+    {
+      "surface": "وעצל",
+      "gloss": "۽ ڪاھل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "پنھنجي بستري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:57.884555444Z",
+  "model": "glm-5.3"
+}

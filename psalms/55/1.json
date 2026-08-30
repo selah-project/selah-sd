@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 55,
+  "translation": "راھبر لاءِ، تارن وچ ۾؛ هڪ دهلي، داوود جي طرفان.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "راھبر لاءِ"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "تارن وچ ۾"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "هڪ دهلي"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جي طرفان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:34.831540736Z",
+  "model": "glm-5.3"
+}

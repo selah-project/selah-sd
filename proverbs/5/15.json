@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "پنهنجي کوٽ مان پاڻي پيءُ، ۽ پنهنجي کوهه جي وچ مان وهندڙ داڻا.",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "پنهنجي کوٽ مان"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "۽ وهندڙ داڻا"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "جي وچ مان"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "پنهنجي کوهه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:39.265872583Z",
+  "model": "glm-5.3"
+}

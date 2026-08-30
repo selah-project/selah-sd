@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ اھي لعنت لاءِ جبل عيبال تي بيهن: رائوبن، گاد ۽ اشر، زبولون، دان ۽ نفتالي.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "بيهن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "لعنت لاءِ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "عيبال"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رائوبن"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "۽ اشر"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "زبولون"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "۽ نفتالي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:59.753717765Z",
+  "model": "glm-5.3"
+}

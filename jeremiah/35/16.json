@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 35:16",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "ڇوته يهوناداب بن رڪب جي پٽن پنهنجي پيءُ جو ⟨את⟩ حڪم پورو ڪيو، جيڪي حڪم ڏنائين؛ پر هي ماڻهو مون تي ڪن نه رکيو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הקימו",
+      "gloss": "پورو ڪيو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "יהונדב",
+      "gloss": "يهوناداب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رڪب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حڪم"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "پنهنجي پيءُ جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "צום",
+      "gloss": "حڪم ڏنائين"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "پر ماڻهن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ڪن رکيو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون تي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:18:55.401245491Z",
+  "model": "glm-5.3"
+}

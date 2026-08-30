@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ ⟨את⟩ گنھ جي قرباني جي چرٻي مذبح تي دونهون ٿي ڏيندو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "گنھ جي قرباني جي چرٻي"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چرٻي"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گنھ جي قرباني جي"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "دونهون ٿي ڏيندو"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "مذبح تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:42.502439650Z",
+  "model": "glm-5.3"
+}

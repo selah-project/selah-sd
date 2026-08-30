@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "سون آهي ۽ موتي گهڻا، ۽ قيمتي ٿانءُ — علم جون ٻوليون.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "۽ گهڻا"
+    },
+    {
+      "surface": "פנינים",
+      "gloss": "موتي"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "۽ ٿانءُ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "قيمتي"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ٻوليون"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:24.458648966Z",
+  "model": "glm-5.3"
+}

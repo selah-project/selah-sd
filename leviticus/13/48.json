@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "يا تانَي ۾ يا ويڻ ۾، ڪنئر لاءِ ۽ اَن لاءِ، يا چمڙي ۾ يا ڪنهن چمڙي جي ڪم ۾.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "تانَي ۾"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ويڻ ۾"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "ڪنئر لاءِ"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "۽ اَن لاءِ"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چمڙي ۾"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ڪنهن"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ڪم ۾"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چمڙي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:28.488066706Z",
+  "model": "glm-5.3"
+}

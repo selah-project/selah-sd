@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 3:32",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ڪنڊ جي مٿاڇري کان رڇن جي دروازي تائين سونارن ۽ واپارين مضبوط ڪيو.",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "۽ وچ ۾"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "مٿاڇري"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "ڪنڊ"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "دروازي تائين"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "رڇن"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "مضبوط ڪيو"
+    },
+    {
+      "surface": "הצרפים",
+      "gloss": "سونارن"
+    },
+    {
+      "surface": "והרכלים",
+      "gloss": "۽ واپارين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:05.572361339Z",
+  "model": "glm-5.3"
+}

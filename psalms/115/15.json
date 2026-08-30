@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 115,
+  "translation": "توهان ياهوه لاءِ مبرڪ آهيو، جيڪو آسمانن ۽ زمين جو ڪندڙ آهي.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "مبرڪ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪندڙ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "۽ زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:41.414226976Z",
+  "model": "glm-5.3"
+}

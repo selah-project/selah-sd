@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ ابراهام وڌيڪ ڪيو ۽ هڪ زال ورتي، ۽ سندس نالو قتوره هو。",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "وڌيڪ ڪيو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابرهام"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ورتي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "هڪ زال"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "۽ سندس نالو"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "قتوره"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:31.425104745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ بينيامين پيدا ڪيو ⟨את⟩ بلا کي، سندس پھريون پُتر؛ اسبيل ٻيو، ۽ اھراخ ٽيون.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "۽ بينيامين"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بلا"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "سندس پھريون پُتر"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "اسبيل"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "۽ اھراخ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ٽيون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:27.055753011Z",
+  "model": "glm-5.3"
+}

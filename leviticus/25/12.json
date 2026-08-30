@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ڇوته اھو يوبل آھي، اھو توهان لاءِ پاڪ ٿيندو؛ ٻني مان توهان کائيندؤ ⟨את⟩ سندس پيداوار.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "يوبل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ٻني"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "توهان کائيندؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس پيداوار"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "سندس پيداوار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:04.535127171Z",
+  "model": "glm-5.3"
+}

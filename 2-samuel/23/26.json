@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "حيليس الپلٽي، عيرا بن عيقيش الٽقوعي،",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "حيليس"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "الپلٽي"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "عيرا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "عيقيش"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "الٽقوعي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:39.877253679Z",
+  "model": "glm-5.3"
+}

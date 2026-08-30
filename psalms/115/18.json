@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 115,
+  "translation": "۽ اسين ياه کي برڪت ڏينداسين ھاڻي کان ۽ هميشه تائين؛ ياه جي ساراھ ڪريو.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "۽ اسين"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "برڪت ڏينداسين"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ھاڻي کان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ تائين"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ساراھ ڪريو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:36.728820615Z",
+  "model": "glm-5.3"
+}

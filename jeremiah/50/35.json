@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 50:35",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "تلوار كسدین تي آھي، ياهوه جو چوڻ آھي، ۽ بابل جي رهاڪن تي، ۽ سندس اميرن تي، ۽ سندس ڊاڪڙن تي.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "كسدین"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "جو چوڻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "جي رهاڪن"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سندس اميرن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "سندس ڊاڪڙن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:24:08.643060712Z",
+  "model": "glm-5.3"
+}

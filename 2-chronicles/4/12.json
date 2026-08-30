@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 4:12",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ٻه ٿنڀا، ۽ گنبذ، ۽ ٿنبن جي مٿي تي ٻه تاج، ۽ ٻه جالَ — انهن ٻن گنبذن کي ڍڪڻ لاءِ جيڪي تاجن جا آهن، جيڪي ٿنبن جي مٿي تي آهن.",
+  "tokens": [
+    {
+      "surface": "עמודים",
+      "gloss": "ٿنڀا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "והגלות",
+      "gloss": "۽ گنبذ"
+    },
+    {
+      "surface": "והכתרות",
+      "gloss": "۽ تاج"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي تي"
+    },
+    {
+      "surface": "رאש",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ٿنبن جي"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "והשבכות",
+      "gloss": "۽ جالَ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "ڍڪڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٻن گنبذن"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "گنبذن"
+    },
+    {
+      "surface": "הכתרות",
+      "gloss": "تاجن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي تي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ٿنبن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:51.060411018Z",
+  "model": "glm-5.3"
+}

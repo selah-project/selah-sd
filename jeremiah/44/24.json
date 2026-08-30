@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 44:24",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "پوءِ يرمياه سڀني ماڻهن کي ۽ سڀني عورتن کي چيو: ياهوه جو لفظ ٻڌو، سڀ يهودا جيڪي متصر جي ملڪ ۾ آهن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "پوءِ چيو"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "عورتن"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملڪ ۾"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متصر"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:03.039483169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "هڪ بيمار برائي ⟨آهي⟩ جا مون سج هيٺ ڏٺي: دولت جيڪا پنهنجي مالڪ لاءِ رکيل هجي، سندس نقصان لاءِ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "بيمار"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مون ڏٺي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "رکيل"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "پنهنجي مالڪ لاءِ"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "سندس نقصان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:20.361430088Z",
+  "model": "glm-5.3"
+}

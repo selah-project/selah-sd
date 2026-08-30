@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ياهوه موشي ۽ اهارون سان هور جبل تي، اادوم جي زمين جي سرحد تي، فرمايو ته:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فرمايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ... سان"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل تي"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "هور"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اادوم جي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته"
+    }
+  ],
+  "timestamp": "2026-08-30T10:29:42.288685884Z",
+  "model": "glm-5.3"
+}

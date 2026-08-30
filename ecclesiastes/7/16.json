@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "گهڻو نيڪ نه ٿِيءُ، ۽ گهڻو عاقل نه ٿِياءُ؛ ڇو ٿِين حيران سڻم؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ٿِيءُ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گهڻو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "عاقل ٿِياءُ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "گهڻو"
+    },
+    {
+      "surface": "لمה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "حيران سڻم ٿِين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:21.373257903Z",
+  "model": "glm-5.3"
+}

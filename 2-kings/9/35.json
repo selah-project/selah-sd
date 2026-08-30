@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 9:35",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ اُن کي مٽي مڻڻ ويا، پر اُن ۾ نه لڌائون، سواءِ کپاري ۽ پيرن ۽ هٿن جي آڏن.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "۽ ويا"
+    },
+    {
+      "surface": "לקברה",
+      "gloss": "اُن کي مٽي مڻڻ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "لڌائون"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُن ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سواءِ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "הגלגלת",
+      "gloss": "کپاري"
+    },
+    {
+      "surface": "והרגלים",
+      "gloss": "۽ پيرن"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "۽ آڏن"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "هٿن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:41:46.135869644Z",
+  "model": "glm-5.3"
+}

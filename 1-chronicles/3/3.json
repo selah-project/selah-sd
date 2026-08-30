@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پنجون شفتيه، ابيتال کان؛ ڇھون يثرعام، اڳلاھ کان، سندس زال.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پنجون"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شفتيه"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "ابيتال کان"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ڇھون"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "يثرعام"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "اڳلاھ کان"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "سندس زال"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:10.345490677Z",
+  "model": "glm-5.3"
+}

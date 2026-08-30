@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "تابدار ⟨את⟩ زمين جا وارث ٿيندا، ۽ ان ۾ هميشه رھندا.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "تابدار"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "وارث ٿيندا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "۽ رھندا"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:17.211296103Z",
+  "model": "glm-5.3"
+}

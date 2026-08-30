@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ هو دنيا کي انصاف سان فيصلو ڏيندو، قومن تي سڌائي سان فيصلو ڪندو.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "فيصلو ڏيندو"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنيا"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "انصاف سان"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "فيصلو ڪندو"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "قومن"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "سڌائي سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:00:32.535497847Z",
+  "model": "glm-5.3"
+}

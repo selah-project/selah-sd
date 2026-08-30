@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 94,
+  "translation": "جيڪڙے ڪَن رکيو ⟨ٿو⟩، ڇا هو نٿو ٻُڌي؟ جيڪڙے اک جوڙي ⟨ٿو⟩، ڇا هو نٿو ڏسي؟",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "جيڪڙے رکيو"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ڪَن"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ڇا نه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ٻُڌي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "جيڪڙے جوڙي"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اک"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ڇا نه"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ڏسي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:09.472158938Z",
+  "model": "glm-5.3"
+}

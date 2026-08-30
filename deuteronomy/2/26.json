@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 2:26",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ آءٌ قديموت جي بيابان کان سِيحون، حشبون جي بادشاهه ڏي پيغام موڪليا، سلام جا لفظ چئي:",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "۽ موڪليا"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "پيغام"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "بيابان کان"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "قديموت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "سِيحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چئي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:25.970105161Z",
+  "model": "glm-5.3"
+}

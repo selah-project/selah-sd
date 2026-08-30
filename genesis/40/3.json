@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ کين ⟨את⟩ قيد جي زمان ۾ ڏنائين، جھازن جي سردار جي گھر ۾ — قيدخاني ۾، اُنھيءَ جاءِ ۾ جتي يوسف بند ھو.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏنائين"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "کين"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "قيد ۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "جھازن جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "قيدخاني جي"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتي"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "بند"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:50.844796690Z",
+  "model": "glm-5.3"
+}

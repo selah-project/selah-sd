@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ابيملڪ ابراهام کي چيو: تو ڇا ڏٺو، جو تون ⟨את⟩ هي ڪم ڪيو؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ابيملڪ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "تو ڏٺو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "تو ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي ڪم"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:27.170879081Z",
+  "model": "glm-5.3"
+}

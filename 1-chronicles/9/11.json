@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 9:11",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ عزريا بن حلقيا بن مشلم بن صادوق بن مرايوت بن احيطوب، جيڪو ايلوهيم جي گهر جو سردار هو.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "۽ عزريا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حلقيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مشلم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مرايوت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "احيطوب"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:53.313121941Z",
+  "model": "glm-5.3"
+}

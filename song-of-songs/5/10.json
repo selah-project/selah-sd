@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "منهنجو دوست چمڪندڙ ⟨آھي⟩ ۽ ڳاڙھو، لک مان به نمايان.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "منهنجو دوست"
+    },
+    {
+      "surface": "צח",
+      "gloss": "چمڪندڙ"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "۽ ڳاڙھو"
+    },
+    {
+      "surface": "דגول",
+      "gloss": "نمايان"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "لک مان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:48.487430360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ انهن چيس: ”ساره، تنهنجي زال، ڪٿي آھي؟“ ته هن چيو: ”ھنو، خيمي ۾ آھي.“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "۽ انهن چيو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ڪٿي آھي"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساره"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "تنهنجي زال"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ته هن چيو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ھنو"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خيمي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:32:52.727447124Z",
+  "model": "glm-5.3"
+}

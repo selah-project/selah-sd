@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڏسو، توهان پاڻ کي ڪوڙن لفظن تي ٿا ڀاڙيو — جيڪو ڪو فائدو نه ڏئي؛",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "ٿا ڀاڙيو"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "پاڻ کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظن"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "ڪوڙن"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "جيڪو نه"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "فائدو ڏئي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:08:45.231063717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڪالب جي رکيل ماعخه ⟨את⟩ شبر کي ۽ ⟨את⟩ ترحانه کي جنم ڏنو۔",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "رکيل"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ڪالب"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ماعخه"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جنم ڏنو"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شبر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ترحانه"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "ترحانه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:04.752015835Z",
+  "model": "glm-5.3"
+}

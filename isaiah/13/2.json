@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 13:2",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "کليل جبل تي نسان کڻو، انهن لاءِ آواز مٿي ڪريو، هٿ لوڏيو، ته هو امراءِ جي دروازن ۾ اچن.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "נשפה",
+      "gloss": "کليل"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "کڻو"
+    },
+    {
+      "surface": "נס",
+      "gloss": "نسان"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "مٿي ڪريو"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن لاءِ"
+    },
+    {
+      "surface": "הניפו",
+      "gloss": "لوڏيو"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ته هو اچن"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "دروازن ۾"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "امراءِ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:51:10.118736049Z",
+  "model": "glm-5.3"
+}

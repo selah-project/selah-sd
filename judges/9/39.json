@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 9:39",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "پوءِ گعل شڪم جي سردارن جي اڳيان نڪتو ۽ ابيميلخ سان وڙهيو.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نڪتو"
+    },
+    {
+      "surface": "געל",
+      "gloss": "گعل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شڪم جي"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "۽ وڙهيو"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "ابيميلخ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:00:21.059223004Z",
+  "model": "glm-5.3"
+}

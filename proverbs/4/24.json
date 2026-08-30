@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 4:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "تنهنجي کان هٽايو وات جي وِڇوڙ، ۽ لٻن جي لَلائي کي پري ڪر تنهنجي کان.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "هٽايو"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تنهنجي کان"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "وِڇوڙ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "وات جي"
+    },
+    {
+      "surface": "ולזות",
+      "gloss": "۽ لَلائي"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لٻن جي"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "پري ڪر"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تنهنجي کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:56.563393598Z",
+  "model": "glm-5.3"
+}

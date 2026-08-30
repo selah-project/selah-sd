@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ڇا گھڻن لفظن جو جواب نه ڏبو، ۽ ڇا ٻولين جو ماڻهو نياز ٿيندو؟",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "ڇا گھڻن"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "لفظن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب ڏبو"
+    },
+    {
+      "surface": "وאם",
+      "gloss": "۽ ڇا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ٻولين جو"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "نياز ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:36.509326127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 140,
+  "translation": "مقابلي جي سنگيت جي اڳواڻ لاءِ — داوود جو مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقابلي جي سنگيت جي اڳواڻ لاءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:25.399011747Z",
+  "model": "glm-5.3"
+}

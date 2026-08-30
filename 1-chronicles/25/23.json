@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 25:23",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "سورهين لخننياهو ⟨هو⟩، سندس پٽ ۽ سندس ڀائر ٻارهن.",
+  "tokens": [
+    {
+      "surface": "לששה",
+      "gloss": "سورهين"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-10"
+    },
+    {
+      "surface": "לחנניהו",
+      "gloss": "لخننياهو"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "وאחיו",
+      "gloss": "۽ سندس ڀائر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשر",
+      "gloss": "-10"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:59.072292847Z",
+  "model": "glm-5.3"
+}

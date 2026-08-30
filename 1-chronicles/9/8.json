@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 9:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ يبنيah پٽ يرoham جو، ۽ ايلah پٽ عزي جو، پٽ ميڪري جو، ۽ مشلم پٽ شپطيه jہ جو، پٽ رعوئيل جو، پٽ يبنيه jہ جو.",
+  "tokens": [
+    {
+      "surface": "ויבניה",
+      "gloss": "۽ يبنيah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "يرoham"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "۽ ايلah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عزي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "ميڪري"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "۽ مشلم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شپطيه jہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יבניה",
+      "gloss": "يبنيه jہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:27.564113952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ اُهو ڳالھ ابراهام جي اکين ۾ تمام گهڻو ٿي بِرُو ٿي، سندس پُٽ جي ڪري.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ٿي بِرُو ٿي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اهو ڳالھ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام گهڻو"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکين ۾"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي ڪري"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "سبب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:24.494514121Z",
+  "model": "glm-5.3"
+}

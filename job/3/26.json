@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 3:26",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مان سڪون ۾ نه هوس، نه ماٺ ميڙ سان، نه آرام ۾؛ ۽ بيچيني اچي ويئي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שלותי",
+      "gloss": "مان سڪون ۾ هوس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שקטתי",
+      "gloss": "ماٺ ميڙ سان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "נחתי",
+      "gloss": "آرام ۾"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "۽ اچي ويئي"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "بيچيني"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:36.746426397Z",
+  "model": "glm-5.3"
+}

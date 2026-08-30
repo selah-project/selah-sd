@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ددان تو جي واپارياڻي هئي، سواري لاءِ ڇٽيل ڪپڙن ۾.",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "ددان"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "تو جي واپارياڻي"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "ڪپڙن ۾"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ڇٽيل"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "سواري لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:36:21.942902160Z",
+  "model": "glm-5.3"
+}

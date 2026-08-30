@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 53,
+  "translation": "سڀ ⟨هو⟩ پاسيرو ٿي ويا آهن؛ گڏجي فاسد ٿي ويا آهن؛ ڪوبه نه جيڪو نيڪي ڪري — نه، ٻيو به ڪو هڪڙو.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "סג",
+      "gloss": "پاسيرو ٿي ويا آهن"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏجي"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "فاسد ٿي ويا آهن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ڪوبه نه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نيڪي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ٻيو به"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪڙو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:24.883737561Z",
+  "model": "glm-5.3"
+}

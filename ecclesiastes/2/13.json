@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ته مون پاڻ ڏٺو ته حکمت ۾ بيوقوفيءَ کان فائدو آهي، جيئن روشنيءَ ۾ اونداهيءَ کان فائدو آهي.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ته مون ڏٺو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "پاڻ"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "فائدو"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "حکمت ۾"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "بيوقوفيءَ"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "جيئن جو فائدو"
+    },
+    {
+      "surface": "האור",
+      "gloss": "روشنيءَ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "اونداهيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:44.684865163Z",
+  "model": "glm-5.3"
+}

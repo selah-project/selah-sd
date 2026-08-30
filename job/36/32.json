@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 36:32",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "پنهنجن ٻن هٿن ۾ روشني ڍڪي ٿو، ۽ ان تي حڪم ڪري ٿو ته نشانو لڳائي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ٻن هٿن"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ڍڪي ٿو"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشني"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "۽ حڪم ڪري ٿو"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "במפגיע",
+      "gloss": "نشانو لڳائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:43:31.043580808Z",
+  "model": "glm-5.3"
+}

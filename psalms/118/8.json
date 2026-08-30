@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 118,
+  "translation": "چڱو آھي ياهوه ۾ پناھ وٺڻ، انسان تي ڀاڙڻ کان.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "پناھ وٺڻ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه ۾"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ڀاڙڻ کان"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "انسان تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:39.578999579Z",
+  "model": "glm-5.3"
+}

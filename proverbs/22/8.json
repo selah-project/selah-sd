@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "جيڪو ظلم پوکي ٿو، اهو مصيبت لڻندو؛ ۽ سندس غصي جو لاٺ ختم ٿي ويندو.",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "جيڪو پوکي ٿو"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "لڻندو"
+    },
+    {
+      "surface": "און",
+      "gloss": "مصيبت"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "۽ لاٺ"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "سندس غصي جو"
+    },
+    {
+      "surface": "יכله",
+      "gloss": "ختم ٿي ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:51.655798233Z",
+  "model": "glm-5.3"
+}

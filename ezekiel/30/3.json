@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ڇوته نيڙو آهي ڏينهن، ۽ نيڙو آهي ياهوه لاءِ ڏينهن — ڪڪرن جو ڏينهن، قومن جو وقت هوندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نيڙو آهي"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "۽ نيڙو آهي"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ڪڪرن جو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن جو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:37:12.068322463Z",
+  "model": "glm-5.3"
+}

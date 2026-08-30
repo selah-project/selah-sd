@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "چوٿين سال ۾ ياهوه جي گهر جو بنياد رکيو ويو، زِو مهيني ۾.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "سال ۾"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "چوٿين"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "بنياد رکيو ويو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "مهيني ۾"
+    },
+    {
+      "surface": "זו",
+      "gloss": "زِو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:28:28.346325841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 14:44",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ اهي هٺ ڪري جبل جي چوٽي تي چڙهڻ لاءِ وڌا، پر ياهوه جي عهد جو صندوق ۽ موشي ڪيمپ جي وچ مان نه هليا.",
+  "tokens": [
+    {
+      "surface": "ויעפלו",
+      "gloss": "۽ هٺ ڪري وڌا"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "چڙهڻ لاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "چوٽي"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل جي"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "۽ صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عهد جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "۽ موشي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "משו",
+      "gloss": "هليا"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "وچ مان"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ڪيمپ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:53.744175207Z",
+  "model": "glm-5.3"
+}

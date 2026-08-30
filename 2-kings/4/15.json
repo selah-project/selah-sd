@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ هن چيو: ان کي سڏ. ۽ هن ان کي سڏيو، ۽ اِها دروازي ۾ بيٺي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ هن چيو"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سڏ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ هن سڏيو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "۽ اِها بيٺي"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "دروازي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:39:11.156117645Z",
+  "model": "glm-5.3"
+}

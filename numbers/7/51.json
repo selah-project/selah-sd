@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ ڏاند، ڍڳي جو پٽ، ھڪ اڃ، ھڪ.rollback مينهن، ھڪ سال جو پٽ، سڙڻ جي قرباني لاءِ۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳي جو"
+    },
+    {
+      "surface": "איל",
+      "gloss": "اڃ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "مينهن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ھڪ سال جو"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سڙڻ جي قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:59.828966330Z",
+  "model": "glm-5.3"
+}

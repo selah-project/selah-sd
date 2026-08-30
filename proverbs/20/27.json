@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "ياهوه جو ديوو آهي مِڙس جو ساھ، جيڪو پيٽ جي سڀ اندرين ڪمري ڳولهي ٿو.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ديوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ساھ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مِڙس جو"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ڳولهي ٿو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ڪمري"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "پيٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:00.948084067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 38:24",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "ڪھڙي واٽ تي روشني ورھاجي ٿي، اوڀرين واءُ زمين تي ڇڏي ٿو؟",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ڪھڙي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "واٽ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "واٽ تي"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "ورھاجي ٿي"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشني"
+    },
+    {
+      "surface": "יפץ",
+      "gloss": "ڇڏي ٿو"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "اوڀرين واءُ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:16.255610823Z",
+  "model": "glm-5.3"
+}

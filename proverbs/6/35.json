@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڪوبه ڇڊائي جو مُنهن نه مَنيندو، ۽ راضي نه ٿيندو، جيتوڙي توڙي بکيس قيمت وڌائين.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "مَنيندو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "جي مُنهن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "ڇڊائي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "راضي ٿيندو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جيتوڙي"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "وڌائين"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "بکيس قيمت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:26.059796341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 8:10",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ شلوميت جي پٽن مان يوسفياہ جو پٽ، ۽ سندس ساڻ سؤ ۽ سٺ نر.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "۽ ... جي پٽن مان"
+    },
+    {
+      "surface": "שלומית",
+      "gloss": "شلوميت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "יוספיה",
+      "gloss": "يوسفياہ"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "۽ سندس ساڻ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "۽ سٺ"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "نر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:35.652134158Z",
+  "model": "glm-5.3"
+}

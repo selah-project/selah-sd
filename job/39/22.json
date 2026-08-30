@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 39:22",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "خوف تي کِلي ٿو ۽ ڊِتل نه ٿو؛ تلوار جي مُنهن کان موڙيو نه ٿو.",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "کِلي ٿو"
+    },
+    {
+      "surface": "לפחד",
+      "gloss": "خوف تي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ڊِتل ٿو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "موڙيو ٿو"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "جي مُنهن کان"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:34.190211723Z",
+  "model": "glm-5.3"
+}

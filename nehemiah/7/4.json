@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ شهر ٻن هٿن تي وسيع ۽ وڏو هو، ۽ ماڻهو ان جي اندر ٿورا هئا، ۽ اُتي ڪي گهر ٺهيل نه هئا۔",
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "۽ شهر"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "وسيع"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ٻن هٿن تي"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "۽ وڏو"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "۽ ماڻهو"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ٿورا"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ان جي اندر"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ڪي نه"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "ٺهيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:31.311772782Z",
+  "model": "glm-5.3"
+}

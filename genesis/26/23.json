@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ هو اتيان کان بيئر-شيبا ڏانهن مٿي چڙهي ويو.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "مٿي چڙهي ويو"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اتيان کان"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بيئر-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شيبا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:30.513746232Z",
+  "model": "glm-5.3"
+}

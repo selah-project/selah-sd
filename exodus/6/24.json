@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 6:24",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ قورح جا پٽ ھئا: ايسير، ايلقنہ ۽ ابي اسف؛ اھي قورحي خاندان آھن.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ايسير"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "۽ ايلقنہ"
+    },
+    {
+      "surface": "ואביאסף",
+      "gloss": "۽ ابي اسف"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "قورحي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:57:50.085724060Z",
+  "model": "glm-5.3"
+}

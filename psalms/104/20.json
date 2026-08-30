@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 104,
+  "translation": "تون اونداھي رکندين ۽ رات ٿي ويندي؛ ان ۾ جنگل جو سمو جيوَ رينگھي ٿو.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "تون رکندين"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اونداھي"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿي ويندي"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "رينگھي ٿو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سمو"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "جيوَ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:36.205409818Z",
+  "model": "glm-5.3"
+}

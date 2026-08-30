@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 25:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ سندن انگ سندن ڀائرن سميت — جيڪي ياهوه لاءِ گيت جا سکيل هئا، سڀ سمجهدار — ٻه سئو اٺاوي هئا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "سندن انگ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سميت"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "سندن ڀائرن"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "سکيل"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت جا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "سمجهدار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سئو"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "اٺاوي"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "۽ اٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:43.190688285Z",
+  "model": "glm-5.3"
+}

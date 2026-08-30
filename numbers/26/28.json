@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 26:28",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "يوسف جا پُٽَ سندن خاندانن موجب: مَنَشَّه ۽ اَفرايم.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽَ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "سندن خاندانن موجب"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشَّه"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "۽ اَفرايم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:38.027466441Z",
+  "model": "glm-5.3"
+}

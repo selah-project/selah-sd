@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڇڏي ڏيي مُنهنجو <-והו-> لِڌَ ۾، شايد اَجَهِ سُڌ آهي.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ڇڏي ڏيي"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "لِڌَ ۾"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "مُنهنجو <-והו-> لِڌَ ۾، شايد اَجَهِ سُڌ آهي."
+    },
+    {
+      "surface": "אולי",
+      "gloss": "شايد"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "اُميد"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:19.551549709Z",
+  "model": "glm-5.3"
+}

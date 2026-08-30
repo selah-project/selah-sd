@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "مون پاران سردار حڪم هلائين ٿا ۽ امير، سڀ زمين جا انصاف وارا قاضي.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "مون پاران"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ישרو",
+      "gloss": "حڪم هلائين ٿا"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "۽ امير"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "قاضي"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:01.973825088Z",
+  "model": "glm-5.3"
+}

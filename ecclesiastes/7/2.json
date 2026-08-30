@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "چڱو آهي ماتمي گهر ڏانهن وڃڻ، شراب جي گهر ڏانهن وڃڻ کان، ڇوته اهو سڀ ماڻهن جي پڇاڙي آهي، ۽ جيئرو ماڻهو اهو پنهنجي دل ۾ وجهندو.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "وڃڻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ماتمي"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "وڃڻ کان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "شراب جي"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "پڇاڙي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهن جي"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "۽ جيئرو ماڻهو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "وجهندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "پنهنجي دل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:34.105161046Z",
+  "model": "glm-5.3"
+}

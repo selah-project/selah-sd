@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "مون ⟨את⟩ پنهنجيون اکيون کڻيون ۽ ڏٺم، ۽ ڏسو، چار سينگ.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "کڻيون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجيون اکيون"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "پنهنجيون اکيون"
+    },
+    {
+      "surface": "ויאמר־וארא",
+      "gloss": ""
+    },
+    {
+      "surface": "וארא",
+      "gloss": "۽ ڏٺم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "سينگ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:48.377541915Z",
+  "model": "glm-5.3"
+}

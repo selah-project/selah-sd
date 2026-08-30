@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 82,
+  "translation": "نه ٿا ڄاڻن ۽ نه سمجهن ٿا، اوڙاهه ۾ هلي ٿا وڃن؛ زمين جا سڀ بنياد لوڏائجن ٿا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ٿا ڄاڻن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "سمجهن ٿا"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "اوڙاهه ۾"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "هلي ٿا وڃن"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "لوڏائجن ٿا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "بنياد"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:52.585177096Z",
+  "model": "glm-5.3"
+}

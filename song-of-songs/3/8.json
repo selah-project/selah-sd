@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "سڀئي تلوار جهليو، جنگ جا سکيل؛ هر ماڻهوءَ جي تلوار ان جي ران تي، راتين جي ڊپ کان.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "جهليو"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "سکيل"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر ماڻهوءَ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ران"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ڊپ کان"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "راتين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:41.519712307Z",
+  "model": "glm-5.3"
+}

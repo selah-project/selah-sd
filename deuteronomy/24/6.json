@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "پيڙھ جو هيٺانهين پٿر ۽ مٿانهين پٿر گروي نه ورتو وڃي، ڇوته اھو جان گروي ورتو وڃي ٿو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "گروي ورتو وڃي"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "پيڙھ جو پٿر"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "۽ مٿانهين پٿر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "گروي ورتو وڃي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:17.570217138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 121,
+  "translation": "ڏينهن ۾ سج توکي نه ماريندو، ۽ رات ۾ چنڊ نه.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "ماريندو"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "۽ چنڊ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:08.897105737Z",
+  "model": "glm-5.3"
+}

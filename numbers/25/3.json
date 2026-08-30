@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ اسرائيل بعل فعور سان پاڻ کي جوڙيو، ۽ ياهوه جو غصو اسرائيل تي ڀڙڪي پيو.",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "۽ جوڙيو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "بعل سان"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "فعور"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "۽ ڀڙڪيو"
+    },
+    {
+      "surface": "אף",
+      "gloss": "جي غصي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائيل تي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:45.366287745Z",
+  "model": "glm-5.3"
+}

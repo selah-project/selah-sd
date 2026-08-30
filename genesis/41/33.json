@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 41:33",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ هاڻي فروعه ڏسي هڪ سمجهو ۽ دانا ماڻهوءَ کي، ۽ کيس متسرايم جي زمين تي مقرر ڪري.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڏسي"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فروعه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "سمجهو"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "۽ دانا"
+    },
+    {
+      "surface": "וישיתהו",
+      "gloss": "۽ مقرر ڪري"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:35:29.182686772Z",
+  "model": "glm-5.3"
+}

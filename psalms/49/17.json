@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "نه ڊر جڏھن ٿيندو مالدار ڪو ماڻھو، جڏھن وڌندي شان سندس گھر جي،",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڊر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ٿيندو مالدار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "وڌندي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "سندس گھر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:09.811354336Z",
+  "model": "glm-5.3"
+}

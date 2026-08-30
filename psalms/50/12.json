@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "جي مان بکيو ٿيان، ته تنهنجي نه چوان — ڇوته دنيا ۽ سندس ڀرپوري مون جي آهي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جي"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "بکيو ٿيان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوان"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون جي"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنيا"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "۽ سندس ڀرپوري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:43.132614046Z",
+  "model": "glm-5.3"
+}

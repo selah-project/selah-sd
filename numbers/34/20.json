@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ شمعون جي پٽن جي قبيلي لاءِ شموئيل پٽ عميهود جو.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "۽ قبيلي لاءِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عميهود"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:11.465077374Z",
+  "model": "glm-5.3"
+}

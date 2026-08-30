@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 24:5",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "چوندڙ جو چونڍ ڍور وٺ، ۽ هڏين جو ڍير ان جي هيٺان رک؛ ان کي چڱائي اٻار، بلڪ ان جا هڏا ان جي وچ ۾ پَڪا.",
+  "tokens": [
+    {
+      "surface": "מבחר",
+      "gloss": "چونڊ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ڍور"
+    },
+    {
+      "surface": "לקוח",
+      "gloss": "وٺ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ بلڪ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ڍير"
+    },
+    {
+      "surface": "העצמים",
+      "gloss": "هڏين جو"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "ان جي هيٺان"
+    },
+    {
+      "surface": "רתח",
+      "gloss": "اُٻار"
+    },
+    {
+      "surface": "רתחיה",
+      "gloss": "ان جي اُٻاري"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بلڪ"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "پَڪا"
+    },
+    {
+      "surface": "עצמיה",
+      "gloss": "ان جا هڏا"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ان جي وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:35:23.272032949Z",
+  "model": "glm-5.3"
+}

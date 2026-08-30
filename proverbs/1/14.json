@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "پنهنجو گورل ⟨את⟩ اسان جي وچ ۾ اڇل، اسان سڀن لاءِ هڪ ئي تھيلو هوندو.",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "پنهنجو گورل"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "اڇل"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "اسان جي وچ ۾"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "تھيلو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ ئي"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندو"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "اسان سڀن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:10.467694258Z",
+  "model": "glm-5.3"
+}

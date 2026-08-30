@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 135,
+  "translation": "جو ياهوه جي گھر ۾، اسان جي ايلوهيم جي گھر جي صحنن ۾ بيٺا آھن.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "جو بيٺا آھن"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "صحنن ۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "اسان جي ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:53.464644680Z",
+  "model": "glm-5.3"
+}

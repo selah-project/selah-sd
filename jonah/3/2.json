@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "اُٿ، وڃ نينوه ڏانهن، ⟨هو⟩ وڏو شهر، ۽ ان ۾ ⟨את⟩ اُها پڪار پڪار، جا آءُ تنهنجي سامهڻ ٿو چوان.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "اُٿ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نينوه"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "۽ پڪار"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُها پڪار"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "اُها پڪار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءُ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٿو چوان"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تنهنجي سامهڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:50:23.076362236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ اُتي پٿرن تي ⟨את⟩ موشي جي تورات جو نقل لکيائين، جيڪو اسرائيل جي پٽن جي اڳيان لکيائين.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "۽ لکيائين"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پٿرن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نقل"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "نقل"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "لکيائين"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:18.113339544Z",
+  "model": "glm-5.3"
+}

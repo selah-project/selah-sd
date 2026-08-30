@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 50:36",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "تلوار ڪوڙن تي، ۽ اھي اڄاڻ ٿي ويندا؛ تلوار سندس سورمين تي، ۽ اھي ڏڪي ويندا.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ڪوڙن"
+    },
+    {
+      "surface": "ונאלו",
+      "gloss": "۽ اھي اڄاڻ ٿي ويندا"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "גבוריה",
+      "gloss": "سندس سورمين"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "۽ اھي ڏڪي ويندا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:24:08.643181826Z",
+  "model": "glm-5.3"
+}

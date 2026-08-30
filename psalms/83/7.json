@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 83,
+  "translation": "ادوم جا خيما ۽ يشمائيلي، موآب ۽ هگرين:",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "خيما"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم جا"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "۽ يشمائيلي"
+    },
+    {
+      "surface": "مואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "۽ هگرين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:03.296687156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 97,
+  "translation": "سندس بجليون دنيا کي روشن ڪيو؛ زمين ڏٺو ۽ ڪپي وئي.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "روشن ڪيو"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "سندس بجليون"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنيا کي"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "۽ ڪپي وئي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:29.287080204Z",
+  "model": "glm-5.3"
+}

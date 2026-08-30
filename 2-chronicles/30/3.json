@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 30:3",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ڇوتهه اُن وقت ۾ اُهو ڪري نه سگهيا، ڇوتهه ڪاهن پاڻ کي پوريءَ طرح پاڪ نه ڪيو هو، ۽ قوم يروشلم ڏانهن نه گڏ ٿي هئي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "سگهيا"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "اُهو ڪري"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "وقت ۾"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اُن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهه"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "پاڻ کي پاڪ ڪيو"
+    },
+    {
+      "surface": "למ",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "די",
+      "gloss": "پوريءَ طرح"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "۽ قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "گڏ ٿي هئي"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "يروشلم ڏانهن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:30:04.305865562Z",
+  "model": "glm-5.3"
+}

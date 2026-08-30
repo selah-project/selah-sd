@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ مَن ڪوٽن جي ٻجھ جهڙو هوندو هو، ۽ ان جو رنگ ڀَدَلَچ (رال) جي رنگ جهڙو.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "۽ مَن"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "ٻجھ جهڙو"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ڪوٽن جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هوندو هو"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "۽ ان جو رنگ"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "جهڙو رنگ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ڀَدَلَچ (رال)"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:30.057768085Z",
+  "model": "glm-5.3"
+}

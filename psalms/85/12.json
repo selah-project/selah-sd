@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 85,
+  "translation": "سچ زمين مان ڦُٽي، ۽ انصاف آسمانن کان جهاتي پائيندو.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمين مان"
+    },
+    {
+      "surface": "תצमח",
+      "gloss": "ڦُٽي"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "۽ انصاف"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "آسمانن کان"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "جهاتي پائيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:40.164775553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 13:15",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ موشي رئوبين جي پٽن جي قبيلي کي سندن خاندانن موجب ڏنو.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏنو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي کي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبين"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "سندن خاندانن موجب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:33.634807610Z",
+  "model": "glm-5.3"
+}

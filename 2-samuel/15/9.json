@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ بادشاهه ⟨את⟩ ان کي چيو، سلامتي سان وٺو وڃ؛ ته اُٿي چيو ويو حبرون ڏانهن۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "سلامتي سان"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ته اُٿي"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ويو"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "حبرون ڏانهن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:21:28.412617116Z",
+  "model": "glm-5.3"
+}

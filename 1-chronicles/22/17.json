@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 22:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ داويد اسرائيل جي سارين کي حڪم ڏنو ته پنهنجي پٽ شلومو جي مدد ڪن:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "حڪم ڏنو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سارين"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "مدد ڪن"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو جي"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پنهنجي پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:27.002736853Z",
+  "model": "glm-5.3"
+}

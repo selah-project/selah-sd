@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ اهارون کي ڄائا ⟨את⟩ ناداب ۽ ⟨את⟩ ابيهو، ⟨את]] ايلعازر ۽ ⟨את⟩ ايتامار.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "۽ ڄائا"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اهارون کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناداب"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ناداب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ابيهو"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "ابيهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ايلعازر"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ايلعازر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ايتامار"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "ايتامار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:30.824670653Z",
+  "model": "glm-5.3"
+}

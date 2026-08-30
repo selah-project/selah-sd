@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "اُهي اسان تي ڀت هئا، رات به ۽ ڏينهن به، اسان جي ساڻن رهڻ جي سڀني ڏينهن ۾، ٻني چارڻ وارا.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "ڀت"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اسان تي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "اسان جي هجڻ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ساڻن"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "چارڻ وارا"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ٻني"
+    }
+  ],
+  "timestamp": "2026-08-30T11:14:54.122207386Z",
+  "model": "glm-5.3"
+}

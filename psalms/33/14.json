@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "پنهنجي رهائش جي مقام کان هن سڀني زمين جي رهاڪن ڏانهن تڪي ڏٺو.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "مقام کان"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "پنهنجي رهائش جي"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "تڪي ڏٺو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رهاڪن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:37.793289542Z",
+  "model": "glm-5.3"
+}

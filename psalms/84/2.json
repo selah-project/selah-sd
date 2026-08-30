@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 84,
+  "translation": "ڪيڏا نه پريتڪ آهن تنهنجا رهائشستان، اي ياهوه فوجن جا!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ڪيڏا نه"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "پريتڪ"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "تنهنجا رهائشستان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "فوجن جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:38.357852384Z",
+  "model": "glm-5.3"
+}

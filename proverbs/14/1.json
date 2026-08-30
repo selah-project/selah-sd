@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "حِڪمت واري زال پنهنجو گهر ٺاهيو، ۽ مورڪ پنهنجن هٿن سان ⟨ان کي⟩ ڊاهي ٿي.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "حِڪمت واري"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زال"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ٺاهيو"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "پنهنجو گهر"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "۽ مورڪ"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "پنهنجن هتن سان"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "ڊاهي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:31.940997735Z",
+  "model": "glm-5.3"
+}

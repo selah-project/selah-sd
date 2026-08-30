@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 14:39",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ڪوھن ستين ڏينهن موٽي اچي ۽ ڏسي، ۽ ڏسو، نڳڻ گهر جي ديوارن ۾ پکڙجي ويو آھي؛",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "۽ موٽي اچي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھن"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏسي"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پکڙجي ويو"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نڳڻ"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "ديوارن ۾"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:12.817773142Z",
+  "model": "glm-5.3"
+}

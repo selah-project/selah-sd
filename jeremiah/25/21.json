@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "⟨את⟩ ایدوم ۽ ⟨את⟩ موآب ۽ ⟨את⟩ عممون جي اولاد کي.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ايدوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ايدوم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "موآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "عممون جي اولاد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جي اولاد"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عممون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:14:25.376097126Z",
+  "model": "glm-5.3"
+}

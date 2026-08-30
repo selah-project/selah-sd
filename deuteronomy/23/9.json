@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "پُٽَ جيڪي کين پيدا ٿين، ٽيون نسل، اُهو کين ياهوه جي ڀينس ۾ داخل ٿيندو.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "پُٽَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "پيدا ٿين"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ٽيون"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "داخل ٿيندو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ڀينس ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:00.479165970Z",
+  "model": "glm-5.3"
+}

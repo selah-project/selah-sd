@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 115,
+  "translation": "نه اسان کي، ياهوه، نه اسان کي، پر تنهنجي نالي لاءِ جلال ڏي، تنهنجي خيسيد تي، تنهنجي سچائي تي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان کي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر (ته)"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "تنهنجي نالي لاءِ"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تنهنجي خيسيد"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "تنهنجي سچائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:22.290514086Z",
+  "model": "glm-5.3"
+}

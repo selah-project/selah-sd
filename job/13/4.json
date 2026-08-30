@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "پر توهان جھوٽ جا پٽيا لڳائيندا آهيو، بيڪار طبيب — توهان سڀ.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "پٽيا لڳائيندا"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٽ"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "طبيب"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "بيڪار"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "توهان سڀ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:18.934367528Z",
+  "model": "glm-5.3"
+}

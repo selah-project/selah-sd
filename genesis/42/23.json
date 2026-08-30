@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "۽ انهن نه ڄاڻيو ته يوسف ٻڌي رهيو آهي، ڇوته ترجمان هنن جي وچ ۾ هو.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "۽ انهن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاڻيو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌي رهيو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "ترجمان"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "هنن جي وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:14.331965541Z",
+  "model": "glm-5.3"
+}

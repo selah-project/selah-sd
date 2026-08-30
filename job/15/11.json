@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 15:11",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ڇا ايل جون تسليون تو لاءِ ٿوريون آھن، ۽ نرم لفظ تو سان؟",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "ڇا ٿوريون"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تو لاءِ"
+    },
+    {
+      "surface": "תנחמות",
+      "gloss": "تسليون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "۽ لفظ"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تو سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:57.372089877Z",
+  "model": "glm-5.3"
+}

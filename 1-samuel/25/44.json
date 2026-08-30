@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ شاول ⟨את⟩ مِيکل پنهنجي ڌيءَ کي، جا داوود جي زال هئي، پلتي بن ليش کي ڏني، جو گليم جو هو.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "۽ شاول"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏني"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِيکل"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "مِيکل"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "پنهنجي ڌيءَ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "پلتي کي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "ليش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "گليم جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:47:51.773296366Z",
+  "model": "glm-5.3"
+}

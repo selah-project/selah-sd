@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ كاهن ⟨את⟩ چرٻي قربانيگاهه تي ساڙي، ۽ سينو اهارون ۽ سندس پٽن لاءِ ٿي رهي.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ساڙي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چرٻي"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چرٻي"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربانيگاهه تي"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ٿي رهي"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "سينو"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اهارون لاءِ"
+    },
+    {
+      "surface": "ולבניو",
+      "gloss": "۽ سندس پٽن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:20.738187350Z",
+  "model": "glm-5.3"
+}

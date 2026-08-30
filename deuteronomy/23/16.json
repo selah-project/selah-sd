@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "تون ڪنهن ٻانهي کي سندس مالڪ ڏانهن نه ڏي، جيڪو پنهنجي مالڪ کان بچي تو وٽ اچي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "تون ڏيندءُ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ٻانهي کي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سندس مالڪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "بچي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تو وٽ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کان"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "پنهنجي مالڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:30.242903011Z",
+  "model": "glm-5.3"
+}

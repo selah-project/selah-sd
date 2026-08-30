@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ڏينهن ڏينهن کي اکر وهي ٿو، ۽ رات رات کي علم ڏيکاري ٿي.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ڏينهن کي"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "وهي ٿو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اکر"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "۽ رات"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "رات کي"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "ڏيکاري ٿي"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:33.375621974Z",
+  "model": "glm-5.3"
+}

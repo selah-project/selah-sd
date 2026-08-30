@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "۽ يوسف پنهنجن ڀائرن کي ⟨את⟩ سڃاڻيو، پر انهن کيس سڃاڻيو ئي نه.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "۽ سڃاڻيو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجن ڀائرن کي"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "پنهنجن ڀائرن کي"
+    },
+    {
+      "surface": "והם",
+      "gloss": "پر انهن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "کيس سڃاڻيو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:17.103612834Z",
+  "model": "glm-5.3"
+}

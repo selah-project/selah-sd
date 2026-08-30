@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 26:2",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "ڊيگهه پڙدو جي هڪڙي جو اٺ ۽ ويھ هَٿ، ۽ ويڪر چار هَٿ ⟨the⟩ پڙدو هڪڙو؛ هڪ ماپ سڀني پردن لاءِ.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ڊيگهه"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پڙدو جي"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "هڪڙي"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "هَٿ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "۽ ويڪر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "هَٿ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پڙدو"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "هڪڙو"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ماپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀن لاءِ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:06:20.356049926Z",
+  "model": "glm-5.3"
+}

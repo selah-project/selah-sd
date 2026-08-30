@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "اھي سڀ گڏ ٿيا سنديم جي ماٿيءَ ۾ — اھو ئي آھي لوڻ جو سمنڊ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "گڏ ٿيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ماٿيءَ"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "سنديم جي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو ئي آھي"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "لوڻ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:14.411100322Z",
+  "model": "glm-5.3"
+}

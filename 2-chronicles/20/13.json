@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 20:13",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ سڀ يهودا ياهوه اڳيان بيٺا، پڻ سندن ٻار، سندن زالون ۽ سندن پٽ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "بيٺا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "سندن ٻار"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "سندن زالون"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "۽ سندن پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:26:09.700112411Z",
+  "model": "glm-5.3"
+}

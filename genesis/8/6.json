@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ چاليھن ڏينھن جي پڇاڙيءَ تي ٿيو، ته نوح کوليو ⟨את⟩ بيٺي جي دري، جاڪا هو پاڻ ٺاھي هئي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "پڇاڙيءَ تي"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليھن"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينھن جي"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ته کوليو"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيٺي جي دري"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "دري"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "بيٺي جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "پاڻ ٺاھي هئي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:09.907349889Z",
+  "model": "glm-5.3"
+}

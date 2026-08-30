@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 16:31",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "خوش ٿين آسمان ۽ زمين خريت ڪري؛ قومن ۾ چون ته ياهوه بادشاھ ٿيو.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "خوش ٿين"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "۽ خريت ڪري"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "۽ چون"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومن ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ ٿيو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:21.284644934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڇوته ⟨هو⟩ سمن تي ان کي بنياد وڌو ۽ دريائن تي ان کي قائم ڪيائين۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمن"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "ان کي بنياد وڌو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دريائن"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ان کي قائم ڪيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:26.502146939Z",
+  "model": "glm-5.3"
+}

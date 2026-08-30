@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "۽ سندس ساڻ مٿي چڙهيا گڏوگڏ رٿون، گڏوگڏ گھوڙيسوار، ۽ ⟨اھو⟩ لشڪر تمام ڀاري هو.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "مٿي چڙهيا"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ساڻ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "گڏوگڏ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رٿون"
+    },
+    {
+      "surface": "גם",
+      "gloss": "گڏوگڏ"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "گھوڙيسوار"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "لشڪر ⟨اھو⟩"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ڀاري"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:43.498494792Z",
+  "model": "glm-5.3"
+}

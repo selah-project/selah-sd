@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "پوءِ سندس مٿي جا وار ٻيهر اُڀرڻ لڳا، جيئن هو مُڻايل هو.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "لڳا"
+    },
+    {
+      "surface": "שער",
+      "gloss": "وار"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سندس مٿي جا"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "اُڀرڻ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "هو مُڻايل هو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:03:38.004145574Z",
+  "model": "glm-5.3"
+}

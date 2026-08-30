@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ڪوبه خيرم جيڪو ماڻهن ۾ مخصوص ڪيو وڃي، ان جو فديو نه ٿي سگهندو؛ موت ۾ ماريو ويندو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "خيرم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "مخصوص ڪيو وڃي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "۾"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "فديو ٿي سگهندو"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ماريو ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:32.315420256Z",
+  "model": "glm-5.3"
+}

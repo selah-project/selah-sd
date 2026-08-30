@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ عمه ۽ افيق ۽ رحوَب: ويهه ۽ ٻه شهر ۽ انهن جا ڳوٺَ.",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "۽ عمه"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "۽ افيق"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "۽ رحوَب"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "۽ انهن جا ڳوٺَ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:46.413352893Z",
+  "model": "glm-5.3"
+}

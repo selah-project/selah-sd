@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ ياهوه موشي سان ان ئي ڏينهن عين سوَڙهن ۾ ڳالايو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "عين سوَڙهن ۾"
+    },
+    {
+      "surface": "היוש",
+      "gloss": "",
+      "הזה": ""
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ان ئي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:32.926793539Z",
+  "model": "glm-5.3"
+}

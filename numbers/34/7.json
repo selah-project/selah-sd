@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 34:7",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ هي توہ جي اتر واري سرحد ٿيندو: وڏي سمنڊ کان توہ هور جبل تائين پنهنجي لڪير ڪڍو.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "۽ هي"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توہ جي"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اتر واري"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "لڪير ڪڍو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توہ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "هور"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:13.583111174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 13:24",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ان جاءِ کي نچل اِشڪول سڏيائون ⟨they called⟩، ان گچكي سبب جو اسرائيل جي پٽن اُتان ڪپيو.",
+  "tokens": [
+    {
+      "surface": "למקום",
+      "gloss": "جاءِ کي"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سڏيائون"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نچل"
+    },
+    {
+      "surface": "אשכול",
+      "gloss": "اِشڪول"
+    },
+    {
+      "surface": "על",
+      "gloss": "سبب"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "ان جي"
+    },
+    {
+      "surface": "האשכול",
+      "gloss": "گچكي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "ڪپيو"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اُتان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:08.176209961Z",
+  "model": "glm-5.3"
+}

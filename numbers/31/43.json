@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ جماعت جو اڌ حصو، مال مان، ٽي لک ۽ ٽيهه هزار ۽ ست هزار ۽ پنج سو هيو،",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "۽ هيو"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "اڌ حصو"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت جو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "مال"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "لک"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽيهه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:42.308968138Z",
+  "model": "glm-5.3"
+}

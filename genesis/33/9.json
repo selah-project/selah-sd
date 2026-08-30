@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ عيسو چيو: مون وٽ گهڻو آهي، منهنجا ڀاءُ؛ جيڪو تنهن وٽ آهي سو تنهن جو رهي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گهڻو"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "منهنجا ڀاءُ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "رهي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهن جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهن وٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:47.085236435Z",
+  "model": "glm-5.3"
+}

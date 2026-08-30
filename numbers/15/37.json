@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ ياهوه موشي ڏانهن فرمايو ته ٻڌايو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فرمايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته ٻڌايو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:57.082307084Z",
+  "model": "glm-5.3"
+}

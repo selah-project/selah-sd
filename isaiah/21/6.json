@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ڇوتهڪ مون کي ادوناي ائين فرمايو: وڃ، پاسبي کي بيهار، جيڪي ⟨هو⟩ ڏسي تنهن کي ٻڌائي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهڪ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرمايو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "بيهار"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "پاسبي کي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ڏسي"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ٻڌائي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:52:08.951573970Z",
+  "model": "glm-5.3"
+}

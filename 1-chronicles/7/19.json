@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 7:19",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ شَميدع جا پُٽ هُئا: اَحيان ۽ شَکِم ۽ لِقحي ۽ اَنيام.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ هُئا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "שמידע",
+      "gloss": "شَميدع"
+    },
+    {
+      "surface": "אחין",
+      "gloss": "اَحيان"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "۽ شَکِم"
+    },
+    {
+      "surface": "ולקחי",
+      "gloss": "۽ لِقحي"
+    },
+    {
+      "surface": "ואניעם",
+      "gloss": "۽ اَنيام"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:21.037456224Z",
+  "model": "glm-5.3"
+}

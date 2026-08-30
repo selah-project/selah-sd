@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ موشي پيش ڪيو ⟨את⟩ اهارون ۽ ⟨את⟩ سندس پٽن کي، ۽ ⟨هو⟩ ⟨את⟩ کين پاڻيءَ سان ڌُويو.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "۽ پيش ڪيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اهارون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سندس پٽن کي"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽن"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "۽ ڌُويو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ کين"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻيءَ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:15:06.234202805Z",
+  "model": "glm-5.3"
+}

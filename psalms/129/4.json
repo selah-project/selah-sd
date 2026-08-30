@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 129,
+  "translation": "ياهوه نيک آهي، ⟨جنھن⟩ ردين جا رسا وڍي ڇڏيا آهن.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيک آهي"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "وڍي ڇڏيا"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "رسا"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ردين جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:12.946959951Z",
+  "model": "glm-5.3"
+}

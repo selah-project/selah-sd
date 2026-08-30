@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 14:1",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "پوءِ اسرائيل جا ڪي پير مون وٽ آيا ۽ مون اڳيان ويهي رهيا.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "پوءِ آيا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ڪي ماڻھو"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "جا پير"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "۽ ويهي رهيا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مون اڳيان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:29:58.869235384Z",
+  "model": "glm-5.3"
+}

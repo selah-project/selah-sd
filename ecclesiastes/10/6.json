@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "بيوقوف کي مڙهين مٿاهين جائيزن تي رکيو وڃي ٿو، ۽ مالدار هيٺاهين ۾ وهن ٿا.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "رکيو وڃي ٿو"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "بيوقوف"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "مٿاهين جائيزن تي"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "مڙهين"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "۽ مالدار"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "هيٺاهين ۾"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "وهن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:10.612262257Z",
+  "model": "glm-5.3"
+}

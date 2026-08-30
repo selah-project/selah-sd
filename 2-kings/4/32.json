@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ايليشع گھر ۾ آيو، ۽ ڏسو، ننڍڙو مُئل پيو ھو پنهنجي بستري تي.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ايليشع"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "گھر ۾"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ننڍڙو"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مُئل"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "پيو ھو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "پنهنجي بستري"
+    }
+  ],
+  "timestamp": "2026-08-30T11:39:21.234531388Z",
+  "model": "glm-5.3"
+}

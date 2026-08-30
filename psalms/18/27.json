@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "صاف دل سان تون صاف ٿين ٿو، ۽ ٽيڏي سان تون ٽيڏو ٿين ٿو.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "صاف دل"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "صاف ٿين ٿو"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ٽيڏي"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "ٽيڏو ٿين ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:21.686156329Z",
+  "model": "glm-5.3"
+}

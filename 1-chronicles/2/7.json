@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 2:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ڪرمي جا پٽ: عاکَر، جنهن اسرائيل کي تنگ ڪيو، جيڪو حرم ڪيل شيءَ ۾ خيانت ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پٽ"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ڪرمي"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "عاکَر"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "تنگ ڪندڙ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "خيانت ڪيو"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "حرم ڪيل شيءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:34.766320370Z",
+  "model": "glm-5.3"
+}

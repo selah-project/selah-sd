@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 27:30",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ اُٺن تي اوبيل يشمائيلي هو؛ ۽ گڏھن تي يھدياھو مرونothي هو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "اُٺن"
+    },
+    {
+      "surface": "אוביל",
+      "gloss": "اوبيل"
+    },
+    {
+      "surface": "הישמעלי",
+      "gloss": "يشمائيلي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "گڏھن"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "يھدياھو"
+    },
+    {
+      "surface": "המרנתי",
+      "gloss": "مرونothي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:27.546192377Z",
+  "model": "glm-5.3"
+}

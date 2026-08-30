@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 27:14",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "توگرمه جي گهر مان گهوڙا ۽ سوار ۽ خچر تنهن جي وڻج ۾ ڏنائون.",
+  "tokens": [
+    {
+      "surface": "מבית",
+      "gloss": "گهر مان"
+    },
+    {
+      "surface": "תוגרמה",
+      "gloss": "توگرمه"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گهوڙا"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "۽ سوار"
+    },
+    {
+      "surface": "ופרדים",
+      "gloss": "۽ خچر"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ڏنائون"
+    },
+    {
+      "surface": "עזבוניך",
+      "gloss": "تنهن جي وڻج ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:36:41.080241454Z",
+  "model": "glm-5.3"
+}

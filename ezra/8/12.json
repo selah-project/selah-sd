@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 8:12",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ عزگد جي پٽن مان يوحنان، هقتان جو پٽ، ۽ سندس ساڻ سؤ ۽ ڏهه نر.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "۽ ... جي پٽن مان"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "عزگد"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "يوحنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "هقتان"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "۽ سندس ساڻ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "۽ ڏهه"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "نر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:35.652369613Z",
+  "model": "glm-5.3"
+}

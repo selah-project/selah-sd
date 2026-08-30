@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ڏاند جي کَل ۽ سندس سڀ گوشت، سندس مٿي ۽ سندس ٽنگن سان گڏِ، ۽ سندس اندرين ۽ سندس سگھو (پڇو).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ڏاند جي کَل"
+    },
+    {
+      "surface": "עור",
+      "gloss": "کَل"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ڏاند جي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سندس سڀ گوشت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سان"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سندس مٿي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "سندس ٽنگن"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "سندس اندرين"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "سندس سگھو (پڇو)"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:51.461216609Z",
+  "model": "glm-5.3"
+}

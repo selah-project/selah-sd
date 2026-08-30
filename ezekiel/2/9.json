@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ مون ڏٺو، ۽ ڏسو، مون ڏانهن هڪ موڪليل هٿ، ۽ ڏسو، ان ۾ ⟨هئي⟩ ڪتاب جي هڪ لپيٽ؛",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "۽ مون ڏٺو"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "موڪليل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون ڏانهن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "لپيٽ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ڪتاب جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:26:39.690256645Z",
+  "model": "glm-5.3"
+}

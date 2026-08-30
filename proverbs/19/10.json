@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ٻڍل لاءِ عيش подходي ناھي؛ پوءِ ٻڌل لاءِ جيڪو سردارن تي حڪومت ڪري، تنهن جو ٻيو ئي ٻول!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "approachi ناھي"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ٻڍل لاءِ"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "عيش"
+    },
+    {
+      "surface": "אף",
+      "gloss": "پوءِ به"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڪي"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ٻڌل لاءِ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "حڪومت ڪري"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "سردارن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:20.875631540Z",
+  "model": "glm-5.3"
+}

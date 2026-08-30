@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ هي ⟨هو⟩ ڪم جنهر لاءِ هن بادشاهه جي against هٿ کڻيو: سليمان ⟨את⟩ ملو جيڙيو، ۽ ⟨את⟩ شھر داوود سندس پيءُ جي ڦاٽ بند ڪيائين.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "۽ هي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهر لاءِ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کڻيائين"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "بادشاهه جي against"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "سليمان"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جيڙيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملو"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "ملو"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "بند ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڦاٽ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ڦاٽ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شھر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "سندس پيءُ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:33:07.380194802Z",
+  "model": "glm-5.3"
+}

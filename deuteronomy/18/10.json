@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "تنھنجي ۾ ڪو نه لڀي، جيڪو پنھنجي پٽ يا ڌيءَ کي باهه ۾ لنگھائي، جو geomancy ڪندڙ، منتر پڙھندڙ، شڪلون ڳڻيندڙ ۽ جادوگر.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "لڀي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تنھنجي ۾"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "لنگھائي"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پنھنجي پٽ کي"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "يا ڌيءَ کي"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "geomancy"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "منتر"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "شڪلون ڳڻيندڙ"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "نشانيون پڙھندڙ"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "جادوگر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:26.443957285Z",
+  "model": "glm-5.3"
+}

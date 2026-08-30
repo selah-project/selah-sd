@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "بنايه، بديه، ڪِلوحائي.",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "بنايه"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "بديه"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "ڪِلوحائي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:39.841632268Z",
+  "model": "glm-5.3"
+}

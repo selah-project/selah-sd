@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 73,
+  "translation": "جيستائين آيس ايل جي مقدس جائن ۾، تڏهن سمجهيم سندن پڇاڙي.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "جيستائين"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "آيس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "مقدس جائن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "سمجهيم"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "سندن پڇاڙي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:28.324261733Z",
+  "model": "glm-5.3"
+}

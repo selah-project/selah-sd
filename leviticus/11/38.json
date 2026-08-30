@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "پر جيڪڏھن ٻجي تي پاڻي وجھيو وڃي ۽ انھن جي لاش مان ڪجھ ان تي ڪِري پوي، ته اهو توهان لاءِ اڻپاڪ آهي.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "پر جيڪڏھن"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "وجھيو وڃي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ٻجي"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "۽ ڪِري پوي"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "انھن جي لاش مان"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "اڻپاڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:37.989478760Z",
+  "model": "glm-5.3"
+}

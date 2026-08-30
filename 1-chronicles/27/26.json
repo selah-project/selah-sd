@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ زمين جي خدمت لاءِ ميدان جي ڪم ڪندڙن تي عزري بن ڪلوب هو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ڪم ڪندڙن"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ميدان جي"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "خدمت لاءِ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "عزري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "ڪلوب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:13.505036966Z",
+  "model": "glm-5.3"
+}

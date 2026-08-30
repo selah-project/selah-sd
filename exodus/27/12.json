@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ صحن جي ويڪر اولهه پاسي پردا پنجاھ اَمَه؛ انهن جا ٿنڀا ڏهہ ۽ انهن جا پاڊ ڏهہ.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "۽ ويڪر"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن جي"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "ים",
+      "gloss": "اولهه"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "پردا"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاھ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمَه"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "انهن جا ٿنڀا"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏهہ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "۽ انهن جا پاڊ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏهہ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:24.421081678Z",
+  "model": "glm-5.3"
+}

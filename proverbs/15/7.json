@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "عالمن جون چوپڙون علم ٿيون ڦهلائن، پر جهلا جو دل ائين نه آهي.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "چوپڙون"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "عالمن جون"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "ٿيون ڦهلائن"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "پر دل"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "جهلا جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:56.469580329Z",
+  "model": "glm-5.3"
+}

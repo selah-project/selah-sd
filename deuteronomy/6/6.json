@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ اھي لفظ، جيڪي مان اڄ توکي حڪم ڏيان ٿو، تنھنجي دل تي ⟨ھجن⟩.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "۽ ھجن"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "اھي لفظ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مان"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "توکي حڪم ڏيان ٿو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اڄ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "تنھنجي دل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:23.667036725Z",
+  "model": "glm-5.3"
+}

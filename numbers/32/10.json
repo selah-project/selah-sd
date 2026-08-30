@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ ياهوه جو قھر ان ڏينھن ٻرڻ لڳو ۽ قسم کاڌائين چوندو.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "۽ ٻرڻ لڳو"
+    },
+    {
+      "surface": "אף",
+      "gloss": "قهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينھن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان (ءُ)"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "۽ قسم کاڌائين"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:58.472132865Z",
+  "model": "glm-5.3"
+}

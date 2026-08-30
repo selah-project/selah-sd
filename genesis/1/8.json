@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ايلوهيم رقيع کي سڏيڻ فرميو آسمان، ۽ شام ٿي ۽ صبح ٿي — ڏينهن ٻيو.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سڏيڻ فرميو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "رقيع کي"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻيو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:25.856272025Z",
+  "model": "glm-5.3"
+}

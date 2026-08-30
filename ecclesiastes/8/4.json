@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "جتي بادشاهه جو لفظ هوندو آهي، اتي راڄ آهي، ۽ منجهان کيس چوي ته ”تون ڇا ڪري رهيو آهين؟“",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "جتي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه جو"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "راڄ (اختيار)"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "۽ منجهان"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "چوي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ڪري رهيو آهين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:47.687733574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ٽن شين هيٺ زمين ڪپي ٿي، ۽ چئن هيٺ هوءَ کڻي ناهي سگهندي؛",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ٽن"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "ڪپي ٿي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "۽ هيٺ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چئن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "سگهندي"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "کڻي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:59.275943010Z",
+  "model": "glm-5.3"
+}

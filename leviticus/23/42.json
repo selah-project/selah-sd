@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ڪوٺين ۾ توهان رهو ستن ڏينھن؛ سڀئي ديسي جيڪي اسرائيل ۾ آھن، ڪوٺين ۾ رهن.",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "ڪوٺين ۾"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "توهان رهو"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ستن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "ديسي"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائيل ۾"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "رهن"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "ڪوٺين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:39:14.124008277Z",
+  "model": "glm-5.3"
+}

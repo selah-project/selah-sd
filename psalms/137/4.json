@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 137,
+  "translation": "ڪيئن اسان ياهوه جو گيت ⟨את⟩ ڳايون، اوپري زمين تي؟",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "ڳايون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گيت"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "اوپري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:51.952714532Z",
+  "model": "glm-5.3"
+}

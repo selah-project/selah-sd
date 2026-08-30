@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "UGC نہ — ويران ٿي وڃن پنهنجي شرم جي سِر تي، جي مون کي چوندا آهن: ”هه‌اچ، هه‌اچ!“",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ويران ٿي وڃن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "سِر"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "پنهنجي شرم جي"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "جي چوندا آهن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هه‌اچ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هه‌اچ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:00.669338690Z",
+  "model": "glm-5.3"
+}

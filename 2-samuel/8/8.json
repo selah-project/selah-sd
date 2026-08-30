@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 8:8",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ بيته ۽ بيروٿай مان — هددعزر جي شهرن مان — بادشاهه داوود تمام گهڻو ٽامو کنيو.",
+  "tokens": [
+    {
+      "surface": "ומבטח",
+      "gloss": "۽ بيته مان"
+    },
+    {
+      "surface": "ומברתי",
+      "gloss": "۽ بيروٿي مان"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهرن"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "هددعزر"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "کنيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ٽامو"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ghanو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    }
+  ],
+  "timestamp": "2026-08-30T11:18:57.180635091Z",
+  "model": "glm-5.3"
+}

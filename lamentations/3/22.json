@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ياهوه جون خيسيد ⟨آهن⟩، ڇوته اسان ختم نه ٿيا، ڇوته سندس رحمتون پوريون نه ٿيون.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "ختم ٿيا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "پوريون ٿيون"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "سندس رحمتون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:03.436379386Z",
+  "model": "glm-5.3"
+}

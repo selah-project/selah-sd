@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 47:7",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "منهنجي واپسيءَ ۾ ۽ ڏسو، نهر جي ڪناري تي وڻ تمام گهڻا، هن پاسي ۽ ان پاسي.",
+  "tokens": [
+    {
+      "surface": "בשובני",
+      "gloss": "منهنجي واپسيءَ ۾"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ڪناري"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نهر جي"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گهڻا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "هن پاسي"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "۽ ان پاسي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:58:53.192497549Z",
+  "model": "glm-5.3"
+}

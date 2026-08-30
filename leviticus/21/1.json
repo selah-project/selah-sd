@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ياهوه موشيءَ کي چيو: كاهنن کي — اهارون جي پٽن کي — چؤ ۽ کين ٻڌاءِ ته هو پنهنجي قوم ۾ ⟨ڪنهن⟩ مُئل جان لاءِ نجس نه ٿئي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "كاهنن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون جي"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ ٻڌائيندين"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "جان لاءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس ٿئي"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "پنهنجي قوم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:28.106520229Z",
+  "model": "glm-5.3"
+}

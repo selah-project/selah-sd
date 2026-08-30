@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 2:14",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڳاءُ ۽ خوش ٿيءُ، صهيون جي ڌيءَ، ڇوته ڏسو، آءُ اچان ٿو ۽ تنهنجي وچ ۾ رهندس — ياهوه جو فرمودو.",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "ڳاءُ"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "۽ خوش ٿيءُ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ڏسو، آءُ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچان ٿو"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "۽ رهندس"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "تنهنجي وچ ۾"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمودو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:09.314492002Z",
+  "model": "glm-5.3"
+}

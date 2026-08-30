@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 11:16",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ شبتائي ۽ يوزاباد، ايلوهيم جي گهر جي ٻاهري ڪم تي، لاوين جي مکين مان.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "۽ شبتائي"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "۽ يوزاباد"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "החיצנה",
+      "gloss": "ٻاهري"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "جي گهر جي"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "מראשי",
+      "gloss": "مکين مان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:59.354449842Z",
+  "model": "glm-5.3"
+}

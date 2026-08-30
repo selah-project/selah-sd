@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "اھي ئي ديشان جا پُٽ ھئا: عوص ۽ اران.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ديشان"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوص"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "۽ اران"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:51.817534342Z",
+  "model": "glm-5.3"
+}

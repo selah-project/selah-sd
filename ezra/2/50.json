@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "اسنا جا پُٽ، ماعونين جا پُٽ، نفيسيم جا پُٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "اسنا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "ماعونين"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "نفيسيم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:02:43.284584728Z",
+  "model": "glm-5.3"
+}

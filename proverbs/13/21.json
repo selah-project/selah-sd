@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "برائي گناهگارن جي پڇا ڪري ٿي، ۽ ⟨את⟩ نيڪن کي چڱائي موٽائي ٿي.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "گناهگارن"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "پڇا ڪري ٿي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "نيڪن"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نيڪن"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "موٽائي ٿي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:46.672256897Z",
+  "model": "glm-5.3"
+}

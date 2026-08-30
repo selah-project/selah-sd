@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 73,
+  "translation": "آسمانن ۾ مون لاءِ ڪير آھي؟ ⟨تو⟩ سان گڏ مون زمين تي ڪوبه پسند نه ڪيو آھي.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانن ۾"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "⟨تو⟩ سان گڏ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "پسند ڪيو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:24.963963355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ رام — يارحماعيل جي پھريون پُتر — جا پُتر ھئا: معص، ۽ يامين، ۽ عيقر۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ھئا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُتر"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پھريون پُتر"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "يارحماعيل جي"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "معص"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "۽ يامين"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "۽ عيقر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:59.928209187Z",
+  "model": "glm-5.3"
+}

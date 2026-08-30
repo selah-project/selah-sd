@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ٻئي عيلام جي اولاد، ھڪ ھزار ٻه سَو چوپنجاهه ۽ چار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جي اولاد"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھڪ ھزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سَو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاهه"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:44.710612246Z",
+  "model": "glm-5.3"
+}

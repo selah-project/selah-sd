@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "ڀلresponseObject آھين ياهوه؛ مون کي تنھنجون فرض سکا.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ڀلا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "آھين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "مون کي سکا"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تنھنجون فرض"
+    }
+  ],
+  "timestamp": "2026-08-30T13:20:24.997582230Z",
+  "model": "glm-5.3"
+}

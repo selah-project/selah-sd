@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 57:5",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 57,
+  "translation": "جيڪي ٻوڙن ۾ شوق ۾ سڙيا ٿا، هر ساوڻ وڻ هيٺ، ٻارن کي واهرن ۾ ذبح ڪندا، چيزن جي دراڙن هيٺ؟",
+  "tokens": [
+    {
+      "surface": "הנחמים",
+      "gloss": "شوق ۾ سڙيا"
+    },
+    {
+      "surface": "באלים",
+      "gloss": "ٻوڙن ۾"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ساوڻ"
+    },
+    {
+      "surface": "שחטי",
+      "gloss": "ذبح ڪندا"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ٻارن کي"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "واهرن ۾"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "סעפי",
+      "gloss": "دراڙن"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "چيزن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:03:53.572253497Z",
+  "model": "glm-5.3"
+}

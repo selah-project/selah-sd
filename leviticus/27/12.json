@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ ڪاھن ⟨את⟩ ان جي ملھيت لڳائيندو — چڱي ھجي يا مٺي — جيئن تون ڪاھن ملھيت لڳائين تيئن اھو ٿيندو.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "ملھيت لڳائيندو"
+    },
+    {
+      "surface": "הכهן",
+      "gloss": "ڪاھن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ان (جانھر)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "چڱي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱي"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "يا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "مٺي"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "جيئن تون ملھيت لڳائين"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاھن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:38:59.005244828Z",
+  "model": "glm-5.3"
+}

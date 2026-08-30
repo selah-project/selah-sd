@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 39:17",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ آءٌ توکي ڇڏائيندس ان ڏينهن، ياهوه جو وچن، ۽ تون نه ڏنو ويندين انهن ماڻهن جي هٿ ۾ جن کان تون ٿو ڊڄين.",
+  "tokens": [
+    {
+      "surface": "והצלתיך",
+      "gloss": "ڇڏائيندس"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "جو وچن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ڏنو ويندين"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ ۾"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ڊڄين"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "کان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:19:53.789842010Z",
+  "model": "glm-5.3"
+}

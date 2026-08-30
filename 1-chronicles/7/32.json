@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ حبر ⟨את⟩ يفلت کي، ۽ ⟨את⟩ شومر کي، ۽ ⟨את⟩ حوثم کي، ۽ ⟨את⟩ شوعا کي، انھن جي ڀيڻ کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "۽ حبر"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يفلت"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "يفلت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "شومر"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "شومر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حوثم"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "حوثم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "شوعا"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "شوعا"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "انھن جي ڀيڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:43.750549572Z",
+  "model": "glm-5.3"
+}

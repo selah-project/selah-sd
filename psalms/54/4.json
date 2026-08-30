@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 54,
+  "translation": "ايلوهيم، منھنجي دعا ٻُڌ، منھنجي وات جي ڳالھين تي ڪَن ڌر.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻُڌ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "منھنجي دعا"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ڪَن ڌر"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ڳالھين تي"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منھنجي وات جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:05.182447087Z",
+  "model": "glm-5.3"
+}

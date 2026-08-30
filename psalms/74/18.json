@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 74,
+  "translation": "هيءُ ياد رک: دشمن ياهوه کي گند ڪيو، ۽ نادان قوم تنهنجي نالي کي حقير ڄاتو.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ياد رک"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "گند ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "۽ قوم"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "حقير ڄاتو"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تنهنجي نالي کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:56.241430259Z",
+  "model": "glm-5.3"
+}

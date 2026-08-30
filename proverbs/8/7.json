@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ڇوته منھنجو وات سچ ڀانيندو؛ ۽ ظلم منھنجن لٻن لاءِ ڪو hates جھڙو ڪرھاڻو آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ڀانيندو"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "منھنجو وات"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "۽ ڪرھاڻو"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "منھنجن لٻن لاءِ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ظلم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:54.775621168Z",
+  "model": "glm-5.3"
+}

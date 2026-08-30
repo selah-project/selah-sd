@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڇا ٻه ماڻهو گڏ هلندا، جيستائين ⟨they⟩ ملي نه ويا هجن؟",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "ڇا هلندا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "جيستائين نه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ملي ويا هجن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:48:01.629586212Z",
+  "model": "glm-5.3"
+}

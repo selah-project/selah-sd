@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 80,
+  "translation": "ان کي جنگل جو سوئر کائي ٿو، ۽ ميدان جو جانور ان کي چاري ٿو.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "ان کي کائي ٿو"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "سوئر"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "جنگل جو"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "۽ جانور"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ميدان جو"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "ان کي چاري ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:07.550658865Z",
+  "model": "glm-5.3"
+}

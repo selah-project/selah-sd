@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ ⟨את⟩ بسمت، اسمعيل جي ڌي، نبائوت جي ڀيڻ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "بسمت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بسمت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌي"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "اسمعيل جي"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ڀيڻ"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "نبائوت جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:18.749710492Z",
+  "model": "glm-5.3"
+}

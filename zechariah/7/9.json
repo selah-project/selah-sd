@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 7:9",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڪري چيو ياهوه صبائوت چوڻ لاءِ: سچو انصاف ڪريو، ۽ خيسيد ۽ رحم ڪريو، هر ماڻهو پنهنجي ڀاءُ سان۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچو"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ڪريو"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "۽ خيسيد"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "۽ رحم"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪريو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر ماڻهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجي ڀاءُ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "پنهنجي ڀاءُ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:59.204945799Z",
+  "model": "glm-5.3"
+}

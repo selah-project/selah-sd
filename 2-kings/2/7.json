@@ -1,0 +1,18 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 2:7",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ نبيءَ جي پُٽن مان پنجاھ ماڻھن ھليا ۽ پري، آمھون سامھون بيٺا؛ ۽ ٻئي يردن جي ڪناري تي بيٺا.",
+  "tokens": [
+    {
+      "surface": "וילכו-placeholder",
+      "gloss": "",
+      "notes": "removed"
+    }
+  ],
+  "timestamp": "2026-08-30T11:37:38.201494974Z",
+  "model": "glm-5.3"
+}

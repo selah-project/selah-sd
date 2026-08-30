@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 14:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ڇا برائي رٿيندڙ رُلن ⟨نه⟩ آهن؟ پر نيڪي رٿيندڙن لاءِ خيسيد ۽ سچ آهي.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ڇا...نه"
+    },
+    {
+      "surface": "יתעו",
+      "gloss": "رُلن"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "رٿيندڙ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "رٿيندڙن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نيڪي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:57.444444472Z",
+  "model": "glm-5.3"
+}

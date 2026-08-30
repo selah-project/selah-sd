@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "برائي شرير کي ماريندي، ۽ نيڪ کي نفرت ڪندڙ ڏوهي ٿيندا.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "ماريندي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شرير"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "۽ نفرت ڪندڙ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيک"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ڏوهي ٿيندا"
+    }
+  ],
+  "timestamp": "2026-08-30T15:02:16.582797087Z",
+  "model": "glm-5.3"
+}

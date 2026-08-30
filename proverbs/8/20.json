@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "صداقت جي رستي تي آئون هلان ٿو، انصاف جي رستن جي وچ ۾.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "جي رستي تي"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "صداقت"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "آئون هلان ٿو"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "رستن"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:11.401717785Z",
+  "model": "glm-5.3"
+}

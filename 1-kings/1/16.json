@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "پوءِ بت شيبا جُڪي ۽ بادشاهه کي سجدو ڪيائين، ۽ بادشاهه چيو: توکي ڇا کپي؟",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "جُڪي"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شيبا"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "۽ سجدو ڪيائين"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاهه کي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:26:29.493960213Z",
+  "model": "glm-5.3"
+}

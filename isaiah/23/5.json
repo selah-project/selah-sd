@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "جيئن متسرايم جي خبر تي ⟨ڏڪن⟩، تيئن صُور جي خبر تي ⟨ڏڪندا⟩.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "متسرايم جي"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "ڏڪن"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "خبر تي"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صُور"
+    }
+  ],
+  "timestamp": "2026-08-30T14:52:26.904830146Z",
+  "model": "glm-5.3"
+}

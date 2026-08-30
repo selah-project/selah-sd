@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 129,
+  "translation": "گهڻيءَ مين ظلم ڪيو، منھنجي ننڍپڻ کان — پر مون تي غالب نه ٿي سگهيا.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "گهڻيءَ"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ظلم ڪيو مين"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "منھنجي ننڍپڻ کان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "غالب ٿي سگهيا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:12.946652414Z",
+  "model": "glm-5.3"
+}

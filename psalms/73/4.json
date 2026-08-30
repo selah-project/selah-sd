@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 73,
+  "translation": "ڇوته مڙن جي موت ۾ ڪا بيڙي ناھي، ۽ سندن جُسم جوان آھي۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "بيڙي\/سور"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "سندن موت ۾"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "۽ جوان\/سٺو جُسم"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "جُسم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:09.763666789Z",
+  "model": "glm-5.3"
+}

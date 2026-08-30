@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 5:8",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "پنھنجي واٽ کيس کان پري ڪر، ۽ سندس گھر جي دروازي وٽ نه وڃ.",
+  "tokens": [
+    {
+      "surface": "הרחק",
+      "gloss": "پري ڪر"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "کيس کان"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "پنھنجي واٽ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תקרب",
+      "gloss": "نه وڃ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "سندس گھر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:42.341768462Z",
+  "model": "glm-5.3"
+}

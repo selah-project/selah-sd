@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ته ڪھنڏ ڏسي ⟨את⟩ ناسور، ۽ ڏسو ته منھنجو ڏيک کل کان اونھو آھي ۽ ان ۾ پيلو بتنگ وار آھي، ته ڪھنڏ ان کي نجس قرار ڏئي؛ اھو نِٽڪ آھي، اھو سر جي اوڃ آھي يا ڏاڙھيءَ جي.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏسي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪھنڏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناسور"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ناسور"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "ان جو ڏيک"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "اونھو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "העור",
+      "gloss": "کل"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "۽ ان ۾"
+    },
+    {
+      "surface": "שער",
+      "gloss": "وار"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "پيلو"
+    },
+    {
+      "surface": "דק",
+      "gloss": "بتنگ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "۽ نجس قرار ڏئي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪھنڏ"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "نِٽڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "اوڃ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر جي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "ڏاڙھيءَ جي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:59.786360006Z",
+  "model": "glm-5.3"
+}

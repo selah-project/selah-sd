@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ عزرياه ⟨את⟩ حيليس کي پيد ڪيو، ۽ حيليس ⟨את⟩ اِلعاساه کي پيد ڪيو.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "۽ عزرياه"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پيد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حيليس"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "حيليس"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "۽ حيليس"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پيد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِلعاساه"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "اِلعاساه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:45.866358958Z",
+  "model": "glm-5.3"
+}

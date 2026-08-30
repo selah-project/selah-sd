@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 52,
+  "translation": "موڙيندڙ لاءِ، تعليمي نظم، داوود لاءِ۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موڙيندڙ لاءِ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "تعليمي نظم"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:38.842501636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ يائير مري ويو، ۽ قامون ۾ دفن ٿيو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري ويو"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "يائير"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "۽ دفن ٿيو"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "قامون ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:01:16.128529624Z",
+  "model": "glm-5.3"
+}

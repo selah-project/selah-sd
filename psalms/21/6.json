@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "سندس شان تنهجي مڇلات ۾ وڏي آھي؛ شان ۽ جلال تو هن تي وڌا آھن.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "سندس شان"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "تنهجي مڇلات ۾"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "۽ جلال"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "تو وڌا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "هن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:33.535641818Z",
+  "model": "glm-5.3"
+}

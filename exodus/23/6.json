@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "پنهنجي غريب جي فيصلي کي سندس تڪرار ۾ ڏنگو نه ڪر.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "تون ڏنگو ڪندين"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فيصلو"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "تنهنجي غريب جي"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "سندس تڪرار ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:48.467150332Z",
+  "model": "glm-5.3"
+}

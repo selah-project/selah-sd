@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 145,
+  "translation": "ياهوه سڀني لاءِ چڱو آھي، ۽ سندس رحمتون سندس سڀني ڪمن تي آھن.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني لاءِ"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "۽ سندس رحمتون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "سندس ڪمن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:35.659958523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ شاول جي ڌيءَ ميكهل کي سندس مرڻ جي ڏينهن تائين ڪوبہ ٻار نه ٿيو.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "۽ ميكهل کي"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ٻار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "مرڻ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:18:20.930206534Z",
+  "model": "glm-5.3"
+}

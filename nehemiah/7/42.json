@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "حارام جا پٽ، ھڪ ھزار سترھ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارام"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھڪ ھزار"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-شرھ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:44.105767922Z",
+  "model": "glm-5.3"
+}

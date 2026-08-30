@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "۽ مان سندس ھٿ سمنڊ تي رکندس ۽ سندس ساڄو ھٿ درياھن تي.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "۽ مان رکندس"
+    },
+    {
+      "surface": "בים",
+      "gloss": "سمنڊ تي"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "سندس ھٿ"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "۽ درياھن تي"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "سندس ساڄو ھٿ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:46.927917361Z",
+  "model": "glm-5.3"
+}

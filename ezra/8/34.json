@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 8:34",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ڳڻپ ۽ توري سان، سڀني لاءِ؛ ۽ سڀئي وزن ان وقت لکيا ويا.",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "ڳڻپ سان"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "۽ توري"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني لاءِ"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "۽ لکيو ويو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "המשקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ان وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ان (ڀيٽڻ)"
+    }
+  ],
+  "timestamp": "2026-08-30T14:05:30.424836861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ اسرائيل جا سڀ پڙاڻَ اچي ويا، ۽ ڪاھنن ⟨את⟩ صندوق کي کنيو۔",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "اچي ويا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پڙاڻَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جا"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "کنيو"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاھنن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    }
+  ],
+  "timestamp": "2026-08-30T11:30:21.942650083Z",
+  "model": "glm-5.3"
+}

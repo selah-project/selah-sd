@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "اُتر واري هوا مينھن کي جنم ڏيندي ٿي، ۽ غصي جا منهن ڳجهي زبان کي.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "هوا"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُتر"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "جنم ڏيندي ٿي"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "مينھن"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "۽ منهن"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "غصي جا"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "ڳجهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:30.246009764Z",
+  "model": "glm-5.3"
+}

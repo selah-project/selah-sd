@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ياد رکو جيڪو ياهوه تنهنجو ايلوهيم مريم سان ڪيو رستي ۾، جڏهن توهان مصر مان نڪتو.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ياد رکو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جيڪو ياهوه ڪيو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تنهنجو ايلوهيم"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "مريم سان"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي ۾"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "جڏهن توهان نڪتو"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مصر مان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:58.090383687Z",
+  "model": "glm-5.3"
+}

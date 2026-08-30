@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ مان غصي ۽ ڪاوڙ سان بدلو وٺندس ⟨את⟩ انهن قومن کان، جيڪي نه ٻُڌو.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "۽ مان ڪندس"
+    },
+    {
+      "surface": "באף",
+      "gloss": "غصي سان"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "۽ ڪاوڙ سان"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "بدلو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انهن قومن"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "انهن قومن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻُڌو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:50:17.588600616Z",
+  "model": "glm-5.3"
+}

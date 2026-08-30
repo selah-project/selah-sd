@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ شليمياه، ۽ ناتان، ۽ عداياه،",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "۽ شليمياه"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "۽ ناتان"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "۽ عداياه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:43.189728695Z",
+  "model": "glm-5.3"
+}

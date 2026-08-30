@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 3:11",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ياهوه مون کي چيو: پاڻ کي نيازو ڏٺائين موٽڻهار اسرائيل، بيوفا يهودا کان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "پاڻ کي نيازو ڏٺائين"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "پاڻ"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "موٽڻهار"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "מבגדה",
+      "gloss": "بيوفا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:06:57.441879945Z",
+  "model": "glm-5.3"
+}

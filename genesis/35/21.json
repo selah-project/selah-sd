@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ يسرائيل روانو ٿيو ۽ پنھنجو خيمو مگدل-عدر کان اڳتي ڪِشادو،",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "روانو ٿيو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ڪِشادو"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "پنھنجو خيمو"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "کان اڳتي"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "مگدل"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "عدر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:35:19.085524831Z",
+  "model": "glm-5.3"
+}

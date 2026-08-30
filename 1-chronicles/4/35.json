@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ يوایل، ۽ يِهوہ بن يوشَبياہ بن سَراياہ بن عَسيائل،",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "۽ يوایل"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "۽ يِهوہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "يوشَبياہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سَراياہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "عَسيائل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:21.729240839Z",
+  "model": "glm-5.3"
+}

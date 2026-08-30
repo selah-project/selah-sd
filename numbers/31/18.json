@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 31:18",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ عورتن مان ٻارن ۾جانِ ڇوڪريون جيڪي نر سان lying نه ڄاڻن، تنهنجي لاءِ جيئرا رکو.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ٻار"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "عورتن مان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاڻن"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "lying"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "החיו",
+      "gloss": "جيئرا رکو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهانجي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:20.845207492Z",
+  "model": "glm-5.3"
+}

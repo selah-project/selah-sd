@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "اوريه حِثّي — سڀ milli ⟨is⟩ ٽيهه ۽ ست.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "اوريه"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِثّي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ milli"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "۽ ست"
+    }
+  ],
+  "timestamp": "2026-08-30T14:48:16.829863989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "جيڪڏهن توهان هن کي ستيو — جيڪڏهن هو مونڏانهن چيخيندو چيخ، ته مان ضرور سندس چيخ ٻُڌندس.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ستائڻ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ستيو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هن کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "چيخائڻ"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "چيخيندو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مونڏانهن"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻُڌڻ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ٻُڌندس"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "سندس چيخ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:52.136320738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پنھنجي روح ۾ ڪاوڙڻ لاءِ جلڊي نه ڪر، ڇوته ڪاوڙ مورکن جي \/*چئي*\/ ۾ آرام وٺي ٿي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "جلڊي ڪر"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "پنھنجي روح ۾"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "ڪاوڙڻ لاءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ڪاوڙ"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "چئي ۾"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "موركن جي"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "آرام وٺي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:04.781364114Z",
+  "model": "glm-5.3"
+}

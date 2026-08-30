@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ پنھنجي ساري برائيءَ کان پوءِ ٿيو — واي، واي تنهنجي لاءِ! — ادوناي ياهوه جو بيان.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کان پوءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "پنھنجي برائيءَ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "واي"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "واي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي لاءِ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "جو بيان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:31:19.021698040Z",
+  "model": "glm-5.3"
+}

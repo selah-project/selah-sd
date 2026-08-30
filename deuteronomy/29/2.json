@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "⟨هي⟩ وڏيون آزمائشون جيڪي توهان جون اکيون ڏٺيون، ⟨هي⟩ نشانيون ۽ وڏا معجزا، اُهي سڀ.",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "وڏيون آزمائشون"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "وڏيون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ڏٺيون"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "توهان جون اکيون"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "نشانيون"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "۽ معجزا"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "وڏا"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "اُهي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:40.777555722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "جن جي سان ⟨את⟩ تنهنجن غلامن مان لڀي، اهو مرين، ۽ اسان به ادوني جا غلام ٿي وڃون.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "لڀي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ جي سان"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "تنهنجن غلامن مان"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "۽ مرين"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسان"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "ٿي وڃون"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ادوني جا"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "غلام"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:22.203145858Z",
+  "model": "glm-5.3"
+}

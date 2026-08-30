@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 41:24",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ دروازن لاءِ ٻه پن، ٻه ڀڻجندڙ پن — هڪ دروازي لاءِ ٻه پن ۽ ٻئي دروازي لاءِ ٻه پن.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "دروازن"
+    },
+    {
+      "surface": "לדלתות",
+      "gloss": "دروازن لاءِ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "מוסבות",
+      "gloss": "ڀڻجندڙ"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "پن"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "לדלת",
+      "gloss": "دروازي لاءِ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "پن"
+    },
+    {
+      "surface": "לאחרת",
+      "gloss": "ٻئي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:40:48.488416148Z",
+  "model": "glm-5.3"
+}

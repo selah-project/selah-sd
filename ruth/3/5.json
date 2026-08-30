@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ⟨هوءَ⟩ چيائين ⟨ڪڍڻيءَ⟩ تي: جيڪو تون چوين ٿي، سو مان ڪنديس.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سو سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "تون چوين ٿي"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "مان ڪنديس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:47:51.805965300Z",
+  "model": "glm-5.3"
+}

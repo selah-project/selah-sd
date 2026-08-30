@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 30:27",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "منهنجا آنت اُڀرا ۽ نه ٺَهن؛ پيڙا جا ڏينهن مون کان اڳي ئي آيا.",
+  "tokens": [
+    {
+      "surface": "מעי",
+      "gloss": "منهنجا آنت"
+    },
+    {
+      "surface": "רתחו",
+      "gloss": "اُڀرا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ٺَهن"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "مون کان اڳي"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "עני",
+      "gloss": "پيڙا جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:41:48.934546801Z",
+  "model": "glm-5.3"
+}

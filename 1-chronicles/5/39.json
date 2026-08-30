@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ شلوم ⟨את⟩ حلقيه کي پيدا ڪيو، ۽ حلقيه ⟨את⟩ عزرياه کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "۽ شلوم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حلقيه"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حلقيه"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "۽ حلقيه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزرياه"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزرياه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:49.955275842Z",
+  "model": "glm-5.3"
+}

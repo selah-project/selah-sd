@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پر جڏهن مان رڙيان ٿو ۽ مدد گهران ٿو، ته منهنجهي دعا بند ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "پر به"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "مان رڙيان ٿو"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "۽ مدد گهران ٿو"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "بند ڪري ٿو"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "منهنجهي دعا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:55.121967390Z",
+  "model": "glm-5.3"
+}

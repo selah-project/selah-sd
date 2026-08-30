@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 7:11",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پحت-مواب جا پٽ، يشوع ۽ يوآب جي پٽن مان، ٻه هزار اٺ سَو اٺارهه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پحت"
+    },
+    {
+      "surface": "مואב",
+      "gloss": "مواب"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "جي پٽن مان"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "يشوع"
+    },
+    {
+      "surface": "ולואב",
+      "gloss": "۽ يوآب"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ٻه هزار"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "۽ اٺ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ارهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:16.155828788Z",
+  "model": "glm-5.3"
+}

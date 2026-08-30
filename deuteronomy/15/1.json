@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ستن سالن جي پڇاڙيءَ تي تون شمٽه ڪندين.",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "جي پڇاڙيءَ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ستن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تون ڪندين"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "شمٽه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:07.012345617Z",
+  "model": "glm-5.3"
+}

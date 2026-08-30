@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "بيت ايل ۽ عاي جا ماڻھو: ھڪ سَو ويھھ ۽ ٽي۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "جا ماڻھو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "۽ عاي"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھھ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "۽ ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:52.764812533Z",
+  "model": "glm-5.3"
+}

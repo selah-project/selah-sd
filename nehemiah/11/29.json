@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ عين رِمّون ۾، ۽ صَرحہ ۾، ۽ يَرمُوث ۾۔",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "۽ عين رِمّون ۾"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "رِمّون"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "۽ صَرحہ ۾"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "۽ يَرمُوث ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:26.024403547Z",
+  "model": "glm-5.3"
+}

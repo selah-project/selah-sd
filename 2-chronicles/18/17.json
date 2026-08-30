@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 18:17",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ يسرائيل جي بادشاھ يھوشافات کي چيو، ڇا مان توکي نه چيو ھو ته هو مون لاءِ ڪو ڀلو نبيون نٿو ڪري، پر صرف بڇڙي جي؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يھوشافات"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ڇا نه"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "مان چيو"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "نبيون ڪري"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "بڇڙي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:10.245159519Z",
+  "model": "glm-5.3"
+}

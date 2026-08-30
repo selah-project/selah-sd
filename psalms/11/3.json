@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ڇوته بنياد ڪيرايا ويا آھن — سڌرو ڇا ڪري سگھي ٿو؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "بنياد"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ڪيرايا ويا آھن"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "سڌرو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ڪري سگھي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:26.155339116Z",
+  "model": "glm-5.3"
+}

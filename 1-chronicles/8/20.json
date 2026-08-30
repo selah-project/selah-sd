@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ ايليعيناي، ۽ صلتاي، ۽ ايليعيل.",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "۽ ايليعيناي"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "۽ صلتاي"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "۽ ايليعيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:16.588509869Z",
+  "model": "glm-5.3"
+}

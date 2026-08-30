@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 26:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "اھي سڀ عوبيد-ادوم جي پٽن مان هئا؛ اھي ۽ سندن پٽ ۽ سندن ڀائر، ڪم لاءِ طاقت ۾ طاقتور ماڻھو، ٻه ۽ سٺ عوبيد-ادوم جا.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "پٽن مان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عوبيد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اھي هئا"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "۽ سندن پٽ"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "۽ سندن ڀائر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "طاقتور"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "طاقت ۾"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "ڪم لاءِ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٺ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "عوبيد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ادوم جا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:57.971825111Z",
+  "model": "glm-5.3"
+}

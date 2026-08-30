@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 64,
+  "translation": "تمام گهڻو غصو نه ڪر، ياهوه، ۽ خطا کي هميشه لاءِ ياد نه ڪر؛ ڏس، ها، اسان سڀ تنهجا ماڻهو آهيون.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "غصو ڪر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام گهڻو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "هميشه لاءِ"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ياد ڪر"
+    },
+    {
+      "surface": "עון",
+      "gloss": "خطا کي"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "ها، ڏس"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ٻڌي وڃ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تنهجا ماڻهو"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "اسين سڀ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:05:28.927253533Z",
+  "model": "glm-5.3"
+}

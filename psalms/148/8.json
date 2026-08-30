@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 148,
+  "translation": "بھہ ۽ ٿڌ، برف ۽ گھٽا، واءُ جو چڪر، جيڪي سندس لفظ پوري ڪن ٿا؛",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "بھہ"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "۽ ٿڌ"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "برف"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "۽ گھٽا"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "واءُ"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "جي چڪر"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "پوري ڪن ٿا"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "سندس لفظ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:49.657214944Z",
+  "model": "glm-5.3"
+}

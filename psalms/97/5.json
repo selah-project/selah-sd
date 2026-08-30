@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 97,
+  "translation": "جبل ياهوه جي اڳيان موم وانگر پگھري ويا، ساري زمين جي ادوناي جي اڳيان۔",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "موم وانگر"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "پگھري ويا"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T15:03:42.248115152Z",
+  "model": "glm-5.3"
+}

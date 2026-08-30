@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ چيائين: “منهنجا منهن هلندا، ۽ آءُ توکي آرام ڏيندس.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منهنجا منهن"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "هلندا"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "۽ آرام ڏيندس"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:09:20.729061981Z",
+  "model": "glm-5.3"
+}

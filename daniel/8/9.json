@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 8:9",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ انهن مان هڪءَ مان نڪتي هڪ ننڍو سينگ، ۽ اها حد کان وڌي، ڏکڻ ڏانهن ۽ اوڀر ڏانهن ۽ سهڻي زمين ڏانهن وڏي ٿي.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "هڪءَ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "انهن"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نڪتي"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "سينگ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מצעירה",
+      "gloss": "ننڍو"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "۽ وڏي ٿي"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "حد کان وڌي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ڏکڻ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ڏانهن"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "اوڀر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ڏانهن"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "سهڻي زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:59:24.236481692Z",
+  "model": "glm-5.3"
+}

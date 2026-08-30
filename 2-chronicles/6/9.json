@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 6:9",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "رڳو تون گھر نہ ٺاهين؛ ڇوته تنهنجو پٽ جو تنهنجي پٺيان مان نڪرندو، اُهو ئي مون نالي لاءِ گھر ٺاهيندو.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ٺاهين"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "تنهنجو پٽ"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "نڪرندو"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "تنهنجي پٺيان مان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُهو ئي"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ٺاهيندو"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "مون نالي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:21:01.754471612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 27:28",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "تنهنجن نيبن جي رلاٽ جي آواز تي ميدان ڏڪڻ لڳا.",
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "آواز تي"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "رلاٽ"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "تنهنجن نيبن جي"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ڏڪڻ لڳا"
+    },
+    {
+      "surface": "مגרשות",
+      "gloss": "ميدان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:36:47.249259629Z",
+  "model": "glm-5.3"
+}

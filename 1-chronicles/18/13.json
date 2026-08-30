@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 18:13",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ هن ادوم ۾ نقيب مقرر ڪيا، ۽ سڄو ادوم داويد جا ٻانهن ٿي ويو؛ ۽ ياهوه داويد کي ⟨את⟩ سڌو هر ان هنڌ تي بچايو جتي هو ويو.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "۽ هن مقرر ڪيا"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ادوم ۾"
+    },
+    {
+      "surface": "נציבים",
+      "gloss": "نقيب"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ٿي ويو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ٻانهن"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "داويد جا"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "۽ بچايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داويد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڌو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتي"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:26.314982521Z",
+  "model": "glm-5.3"
+}

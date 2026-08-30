@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 17:17",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ يهوشوع بيت يوسف سان — اپرايم ۽ منشه سان — چيو ته توهان هڪ وڏو قوم آهيو ۽ توهان وٽ وڏي طاقت آهي؛ توهان لاءِ رڳو هڪ lot ناهي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "اپرايم لاءِ"
+    },
+    {
+      "surface": "ולמנשה",
+      "gloss": "۽ منشه لاءِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توهان آهيو"
+    },
+    {
+      "surface": "וכח",
+      "gloss": "۽ طاقت"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توهان وٽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "lot"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:56.534960480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 32:4",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "the land which Yahweh struck down before the congregation of Israel — that land is a land of cattle, and to your servants there is cattle.”",
+  "tokens": [
+    {
+      "surface": "הארץ",
+      "gloss": "the land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "struck down"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "before"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "the congregation of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a land"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "of cattle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "that is"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "and to your servants"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "cattle"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:35.915094273Z",
+  "model": "glm-5.3"
+}

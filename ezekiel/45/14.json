@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 45:14",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "۽ تيل جو مقرر حصو: تيل جي هڪ بات، ڪور مان بات جو ڏهون حصو — ڏهن باتن جو هڪ هومر، ڇوته ڏهه بات هڪ هومر ٿين ٿا.",
+  "tokens": [
+    {
+      "surface": "וחק",
+      "gloss": "۽ مقرر حصو"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تيل جو"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "هڪ بات"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تيل جو"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ڏهون حصو"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "بات جو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "ڪور"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ڏهن"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "باتن جو"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "هڪ هومر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "הבاتים",
+      "gloss": "بات"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "هڪ هومر"
+    }
+  ],
+  "timestamp": "2026-08-30T12:42:42.601045616Z",
+  "model": "glm-5.3"
+}

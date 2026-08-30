@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ⟨את⟩ اوفير، ۽ ⟨את⟩ حَويلاھه، ۽ ⟨את⟩ يوباب؛ سڀ اھي يوقطان جا پُٽ ھُئا۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوفير"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "اوفير"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حَويلاھه"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "حَويلاھه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "يوباب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "يوباب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "يوقطان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:23.408881923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ڪناز جا پُٽ عثنيئل ۽ سرايا هئا، ۽ عثنيئل جا پُٽ حتت ھئا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پُٽ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "ڪناز"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "عثنيئل"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "۽ سرايا"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پُٽ"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "عثنيئل"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "حتت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:29.424059024Z",
+  "model": "glm-5.3"
+}

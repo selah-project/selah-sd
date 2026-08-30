@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 20:1",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ پشحور، عمر جي پٽ، اُن كاهن جنهن نگران ۽ سردار هو ياهوه جي گهر ۾، ٻڌو ته يرمياهو ⟨את⟩ هي لفظ نبوت ۾ چوي ٿو.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "۽ ٻڌو"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "پشحور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "عمر جي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "اُن كاهن"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "نگران"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يرمياهو"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "نبوت ۾ چوي ٿو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي لفظ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:14:03.243848496Z",
+  "model": "glm-5.3"
+}

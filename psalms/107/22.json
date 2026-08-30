@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "۽ اهي شڪران جا قرباني ڪري Kundh ۽ سندس ڪم ڳائيندي بيان ڪن.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "۽ قرباني ڪن"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "جا قرباني"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "شڪران جا"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "۽ بيان ڪن"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "سندس ڪم"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ڳائيندي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:47.045561826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ هن انهن کي بيزق ۾ ڳڻيو، ۽ يسرائيل جا پٽ ٽي سؤ هزار هئا، ۽ يهوداه جا ماڻهو ٽيھ هزار.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "۽ انهن کي ڳڻيو"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "بيزق ۾"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ هئا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل جا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ماڻهو"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه جا"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-30T11:09:18.870771328Z",
+  "model": "glm-5.3"
+}

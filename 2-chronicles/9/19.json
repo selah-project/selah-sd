@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 9:19",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ٻارهن شينهن اُتي ڇھن ڏاڪن تي ھن پار ۽ ان پار بيٺا؛ ڪنھن به بادشاهت لاءِ ائين نه ٺاھيو ويو.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻارهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ڏھ"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "شينهن"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "بيٺا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھن"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ڏاڪن"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ھن پار"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "۽ ان پار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ٺاھيو ويو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ڪنھن به لاءِ"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "بادشاهت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:10.788211797Z",
+  "model": "glm-5.3"
+}

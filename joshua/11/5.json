@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ اِھي سڀئي بادشاھ گڏ ٿيا ۽ اچي، مروم جي پاڻين وٽ گڏ پڙاءُ ڪيائون، يسرائيل سان وڙھڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "گڏ ٿيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اِھي"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "پڙاءُ ڪيائون"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "پاڻين"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "مروم"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "وڙھڻ لاءِ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:23.345388080Z",
+  "model": "glm-5.3"
+}

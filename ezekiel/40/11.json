@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ هن ماپيو ⟨את⟩ دروازي جي منهن جي ويڪر — ڏهه هٿ، ۽ دروازي جي ڊيگهه تيرهن هٿ.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "۽ هن ماپيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دروازي جي منهن جي ويڪر"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ويڪر"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازي جي"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊيگهه"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازي جي"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "تيره"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "تيرهن"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "هٿ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:04.258877703Z",
+  "model": "glm-5.3"
+}

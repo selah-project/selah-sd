@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 73,
+  "translation": "۽ آءٌ — منھنجا پير ور effortlessly تقريباً ڊٺا، منھنجا قدم تقريباً اُڪڙي ويا، جيئن سليو.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "۽ آءٌ"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "تقريباً"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ڊٺا\/اُڪڙي"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "منھنجا پير"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "جيئن سليو\/ٽٽي"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "اُڪڙي ويا"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "منھنجا قدم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:09.763432871Z",
+  "model": "glm-5.3"
+}

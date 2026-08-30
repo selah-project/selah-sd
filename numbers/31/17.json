@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 31:17",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ هاڻي ٻارن مان هر نر کي ماريو، ۽ مرد سان лежڻ ڪندڙ هر عورت کي ماريو.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ماريو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "בטף",
+      "gloss": "ٻارن مان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ هر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ڄاڻندڙ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "لِيَ lyingسان"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر سان"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ماريو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:20.844865310Z",
+  "model": "glm-5.3"
+}

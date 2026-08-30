@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇوته قيدارڻ مڙس جي ڪاوڙ آهي، ۽ هو ڪاوڙ جي ڏينهن ۾ نه بخشيندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "قيدارڻ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ڪاوڙ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "مڙس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "بخشيندو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "۾ ڏينهن"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ڪاوڙ جي بدلو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:26.059666006Z",
+  "model": "glm-5.3"
+}

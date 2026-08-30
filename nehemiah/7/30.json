@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "رامه ۽ گِبَع جا ماڻھو: سِھ سَو ويھھ ۽ ھڪ۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "جا ماڻھو"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "رامه"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "۽ گِبَع"
+    },
+    {
+      "surface": "שש",
+      "gloss": "سِھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھھ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "۽ ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:52.764460643Z",
+  "model": "glm-5.3"
+}

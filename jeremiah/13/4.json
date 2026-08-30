@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 13:4",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "کڻ ⟨את⟩ پھاڙو جو تو خريد ڪيو، جيڪو تنهنجي چيلھ تي آھي، ۽ اُٿ، وڃ پرٿ ڏانھن، ۽ ان کي اُتي چٽانءَ ۾ لڪاءِ.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "کڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پھاڙو"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "پھاڙو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "تو خريد ڪيو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "تنهنجي چيلھ"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "۽ اُٿ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "پرٿ ڏانھن"
+    },
+    {
+      "surface": "וטמנהו",
+      "gloss": "۽ ان کي لڪاءِ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "בנקיק",
+      "gloss": "چٽانءَ ۾"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "پٿر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:12:00.145231498Z",
+  "model": "glm-5.3"
+}

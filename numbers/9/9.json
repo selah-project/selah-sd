@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ياهوه موشي سان ڳالھيڻ ٿيو چوندو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھيڻ ٿيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:20.051576856Z",
+  "model": "glm-5.3"
+}

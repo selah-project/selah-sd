@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ڪاهن اهارون جا پٽ قربانگاهه تي باهه رکن، ۽ باهه تي ڪاٺ ترتيب سان وڇائين.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "۽ رکن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "אש",
+      "gloss": "باهه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاهه"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "۽ ترتيب سان وڇائين"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ڪاٺ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "האש",
+      "gloss": "باهه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:58.961581312Z",
+  "model": "glm-5.3"
+}

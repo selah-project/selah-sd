@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "تنهنڪري مان ⟨پاڻ کي⟩ رد ڪريان ٿو ۽ پشيمان ٿيان، مٽي ۽ راک ⟨تَي⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تنهن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "مان رد ڪريان ٿو"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "۽ پشيمان ٿيان"
+    },
+    {
+      "surface": "על",
+      "gloss": "تَي"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٽي"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "۽ راک"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:55.773375423Z",
+  "model": "glm-5.3"
+}

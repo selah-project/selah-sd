@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "جيڪڏھن ڪو ماڻھو ڪا نَينگَر ڪَنوارِي ڏسي، جا مَنگيل ناھي، ۽ کيس پڪڙي ۽ اُن سان سُتو، ۽ اھي پڪڙجي وڃن،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ڏسي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ڪو ماڻھو"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ڪا نَينگَر"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "ڪَنوارِي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "مَنگيل"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "پڪڙي"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "سُتو"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "اُن سان"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "پڪڙجي وڃن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:23.118401084Z",
+  "model": "glm-5.3"
+}

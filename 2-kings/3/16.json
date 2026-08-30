@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ چيائين، ياهوه ائين فرمائي ٿو، هن نئي ۾ کڻ کوڏيو، کڻ کڻ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرمائي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوڏيو"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "هن نئي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "کڻ"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "کڻ کڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:38:19.206811548Z",
+  "model": "glm-5.3"
+}

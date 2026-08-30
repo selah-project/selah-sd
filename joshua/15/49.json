@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ دنه، ۽ ڪريت سنه — اُهو ئي دبير آھي،",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "۽ دنه"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "۽ ڪريت"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "سنه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اُهو ئي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دبير"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:31.472191481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "جيڪو ان کي لڪائي ٿو سو هوا لڪائي ٿو، ۽ سندس ساڄي هٿ جو تيل پاڻمرادو ٿو سڏي.",
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "ان کي لڪائي ٿو"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "لڪائي ٿو"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "هوا"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "۽ تيل"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "سندس ساڄي هٿ جو"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ٿو سڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:12.860329063Z",
+  "model": "glm-5.3"
+}

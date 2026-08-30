@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ داويد وڌندو ويو ۽ وڏو ٿيو، ۽ ياهوه ٻوجن جو ايلوهيم سندس ساٿ ۾ هو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ويو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "وڌندو"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "۽ وڏو ٿيو"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "۽ ياهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "جو ايلوهيم"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ٻوجن جو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ساٿ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:18:12.601579163Z",
+  "model": "glm-5.3"
+}

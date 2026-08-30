@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 39:30",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ سندس ٻچا رت چُسندا آهن، ۽ جتي مارجل آهن، اُتي ئي هو آهي.",
+  "tokens": [
+    {
+      "surface": "ואפרחו",
+      "gloss": "۽ سندس ٻچا"
+    },
+    {
+      "surface": "יעלעו",
+      "gloss": "چُسندا آهن"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "۽ جتي"
+    },
+    {
+      "surface": "חלالים",
+      "gloss": "مارجل"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:07:06.253576963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 2:23",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ياهوه ⟨את⟩ انهن قومن کي ڇڏي ڇڏيو، تہ جلدي نه هٽائين، ۽ کين يهوشعا جي هٿ ۾ نه ڏنو.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "ڇڏي ڇڏيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انهن قومن"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "انهن قومن"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "انهن"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "تہ نه"
+    },
+    {
+      "surface": "הורישם",
+      "gloss": "هٽائين"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "جلدي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ ۾"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشعا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:56:20.608916280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ زبولون جي سرحد سان، اوڀرئين پاسي کان اولهين پاسي تائين، گاد ⟨هڪ حصو⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ … سان"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولون"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "پاسي کان"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "اوڀرئين"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "اولهين"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:16.433278114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 19:41",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ ٿي سنڌُ پنھنجي وراثت جي: صوره ۽ اشتعول ۽ عير شمش۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنڌُ"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "پنھنجي وراثت جي"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "صوره"
+    },
+    {
+      "surface": "ואשתאול",
+      "gloss": "۽ اشتعول"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "۽ عير"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شمش"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:25.718383158Z",
+  "model": "glm-5.3"
+}

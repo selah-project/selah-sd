@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "تون ياهوه پنهنجي ايلوهيم سان تمام سالم رھڻ گھرجين.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "تمام سالم"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "رھڻ گھرجين"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "پنهنجي ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:44.015575231Z",
+  "model": "glm-5.3"
+}

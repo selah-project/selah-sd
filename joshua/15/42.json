@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "لبنہ ۽ عيتر ۽ عاشان۔",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "لبنہ"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "۽ عيتر"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "۽ عاشان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:31.453438184Z",
+  "model": "glm-5.3"
+}

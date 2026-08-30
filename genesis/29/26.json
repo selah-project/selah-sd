@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 29:26",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ لبان چيو، اسان جي ھن جاءِ ۾ ائين نه ڪيو وڃي، ته ننڍيءَ کي وڏيءَ کان اڳي ڏجن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لبان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪيو وڃي"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "במקומנו",
+      "gloss": "اسان جي ھن جاءِ ۾"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ڏيڻ لاءِ"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "ننڍيءَ کي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کان اڳي"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "وڏيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:40.461806878Z",
+  "model": "glm-5.3"
+}

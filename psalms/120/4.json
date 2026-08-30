@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 120,
+  "translation": "سورھيا جا تکا تير، جهنڊيءَ جي کوڙن سان گڏ.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "تير"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "سورھيا جا"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "تکا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "کوڙن"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "جهنڊيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:01.338015231Z",
+  "model": "glm-5.3"
+}

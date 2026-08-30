@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 9:23",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ يهورام پنهنجا هٿ موڙي ڀڳو ۽ احزياہ کي چيائين، فريب آهي، احزياہ!",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "۽ موڙي"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "يهورام"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "پنهنجا هٿ"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "۽ ڀڳو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "احزياہ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فريب"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "احزياہ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:40:20.957357542Z",
+  "model": "glm-5.3"
+}

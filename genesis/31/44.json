@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ هاڻي اچ، تہ اسان ٺاهه ڪريون، آءُ ۽ تون؛ ۽ اهو اسان جي وچ ۾ شاهد ٿي رهي.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "اچ"
+    },
+    {
+      "surface": "נכרتה",
+      "gloss": "ٺاهه ڪريون"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ٺاهه (عهد)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءُ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "۽ اهو ٿي رهي"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "منهنجي وچ ۾"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "۽ تنهنجي وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:00.079072436Z",
+  "model": "glm-5.3"
+}

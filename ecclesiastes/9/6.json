@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "سندن محبت به، سندن نفرت به، سندن حسد به اڳ ۾ ئي ناس ٿي وئي، ۽ سندن لاءِ پوءِ ڪوبه حصو هميشه لاءِ ناهي، سڀ ڪجهه ۾ جيڪي سج هيٺ ڪيو وڃي ٿو.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "سندن محبت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "سندن نفرت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "קנאתם",
+      "gloss": "سندن حسد"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "اڳ ۾ ئي"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "ناس ٿي وئي"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "۽ حصو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "سندن لاءِ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشه لاءِ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ ڪجهه ۾"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنھن"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ڪيو وڃي ٿو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "השمש",
+      "gloss": "سج"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:00.495586185Z",
+  "model": "glm-5.3"
+}

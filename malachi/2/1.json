@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ هاڻي هي حڪم توهان لاءِ آهي، اي ڪوهنيم.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "هي حڪم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "اي ڪوهنيم"
+    }
+  ],
+  "timestamp": "2026-08-30T12:58:38.015123034Z",
+  "model": "glm-5.3"
+}

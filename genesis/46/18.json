@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 46:18",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "اهي زلفه جا پٽ آهن، جي لابان پنهنجي ڌيءَ ليعه کي ڏانا؛ ۽ هن يعقوب کي اهي ⟨את⟩ ڄاوا — سورهن نفس.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زلفه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏانا"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "ليعهه کي"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "پنهنجي ڌيءَ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "۽ ڄاوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اهي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "يعقوب کي"
+    },
+    {
+      "surface": "שש",
+      "gloss": "سورهن (ڇهه)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(۽) ڏهه"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:40.054640770Z",
+  "model": "glm-5.3"
+}

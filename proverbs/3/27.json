@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 3:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "جنهن جو ڇڻو آهي تنهن کان ڀلائي نه روڪ، جڏهن تنهنجو هٿ ايل ڏانهن هجي ڪرڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "روڪ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلائي"
+    },
+    {
+      "surface": "מבעליו",
+      "gloss": "انهي جي مالڪ کان"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "جڏهن هجي"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ايل ڏانهن"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "تنهنجو هٿ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:15.887260964Z",
+  "model": "glm-5.3"
+}

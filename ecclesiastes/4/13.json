@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "مِسڪِين ۽ سُجهاءُ ٻار، تنھن بيوقوف پوڙھي بادشاھ کان چڱو آھي، جيڪو وڌيڪ سنڀرڻ نہ سکن.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو آھي"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ٻار"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "مِسڪِين"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "۽ سُجهاءُ"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "تنھن بادشاھ کان"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "پوڙھي"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "۽ بيوقوف"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "سکن"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "سنڀرڻ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وڌيڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:16.047464676Z",
+  "model": "glm-5.3"
+}

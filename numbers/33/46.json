@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 33:46",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ديبون-گد کان روانا ٿيا، ۽ عَلمون-دبلاتيما ۾ خيما پڙيا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "מדיבן",
+      "gloss": "ديبون کان"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گد"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيما پڙيا"
+    },
+    {
+      "surface": "בעלמן",
+      "gloss": "عَلمون ۾"
+    },
+    {
+      "surface": "דבלתימה",
+      "gloss": "دبلاتيما"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:51.373818308Z",
+  "model": "glm-5.3"
+}

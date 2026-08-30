@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ موشي چيو، آءٌ هلايان ⟨نه⟩ هاڻي ۽ ڏسان ⟨את⟩ هي وڏو منظر — ڇو نہ ٻري سنھه؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "آءٌ هلايان"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "۽ ڏسان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي وڏو منظر"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "منظر"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ٻري"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "سنھه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:57:35.215266195Z",
+  "model": "glm-5.3"
+}

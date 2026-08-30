@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ لمخ پاڻ لاءِ ٻه زالون ورتيون؛ هڪڙي جو نالو عاده هو ۽ ٻي جو نالو صله هو.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ورتيون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لمخ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زالون"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "هڪڙي"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عاده"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ٻي"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "صله"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:43.019163449Z",
+  "model": "glm-5.3"
+}

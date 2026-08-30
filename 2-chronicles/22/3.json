@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "اھو پاڻ به اختاب جي گھر جي رستن تي ھليو، ڇوته سندس ماءُ سندس صلاح ڏيندڙ ھئي شرارت ڪرڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو پاڻ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ھليو"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "جي رستن تي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اختاب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "سندس ماءُ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ھئي"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "سندس صلاح ڏيندڙ"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "شرارت ڪرڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:27:14.080330255Z",
+  "model": "glm-5.3"
+}

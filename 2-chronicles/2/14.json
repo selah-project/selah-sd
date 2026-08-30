@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 2:14",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ھاڻي اَنُ ۽ جَو، تيل ۽ شراب، جيڪي مونھنجو مالڪ چيو آھي، پنھنجن ٻانھن ڏانھن موڪلي.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ ھاڻي"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "اَنُ"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "۽ جَو"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تيل"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "۽ شراب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "مونھنجو مالڪ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "موڪلي"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "پنھنجن ٻانھن ڏانھن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:10.620670402Z",
+  "model": "glm-5.3"
+}

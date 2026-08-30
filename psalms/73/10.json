@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 73,
+  "translation": "تنهنڪري سندس قوم هتي موٽي ٿي، ۽ ڀريل جا پاڻي انهن لاءِ ڪڍيا وڃن ٿا.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "موٽي ٿو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس قوم"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "هتي"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "۽ پاڻي"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀريل جا"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "ڪڍيا وڃن ٿا"
+    },
+    {
+      "surface": "למו",
+      "gloss": "انهن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:24.597335158Z",
+  "model": "glm-5.3"
+}

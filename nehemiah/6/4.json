@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ انهن مون ڏانهن هن لفظ موجب چار دفعا موڪليو، ۽ مون ⟨את⟩ هن جواب جيئن جواب ڏنو.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "۽ انهن موڪليو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون ڏانهن"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "هن لفظ موجب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "دفعا"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "۽ مون جواب ڏنو"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "هن جواب"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "لفظ موجب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:03.106488291Z",
+  "model": "glm-5.3"
+}

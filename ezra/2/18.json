@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ٻچا يورهه جا، هڪ سَو ۽ ٻارهن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ٻچا"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "يورهه"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "هڪ سَو"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "۽ ٻارهن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:42.792088634Z",
+  "model": "glm-5.3"
+}

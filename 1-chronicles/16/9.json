@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "سندس لاءِ گايو، سندس لاءِ دف وڄايو، سندس سڀني عجيبن جو ذڪر ڪريو۔",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "گايو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس لاءِ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "دف وڄايو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس لاءِ"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ذڪر ڪريو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "عجيبن جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:19.967001254Z",
+  "model": "glm-5.3"
+}

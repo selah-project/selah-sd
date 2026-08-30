@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "منهنجا قدم تنهنجين واٽن ۾ ٺهڪي بيٺا؛ منهنجا پير لُڙا ناهن.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "ٺهڪي بيٺا"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "منهنجا قدم"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "تنهنجين واٽن ۾"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "لُڙا"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "منهنجا پير"
+    }
+  ],
+  "timestamp": "2026-08-30T15:02:03.514958670Z",
+  "model": "glm-5.3"
+}

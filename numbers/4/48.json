@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ انھن جي ڳڻپ وارا اٺ ھزار ۽ پنج سؤ ۽ ااسي ٿيا.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ٿيا"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "انھن جي ڳڻپ وارا"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "۽ ااسي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:49.829225454Z",
+  "model": "glm-5.3"
+}

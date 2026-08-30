@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 9:17",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ايلوهيم نوح سان چيو: هي ⟨آهي⟩ عھد جي نشاني، جنهن کي مون پنھنجي ۽ سڀئي گوشت جي وچ ۾ قائم ڪيو، جيڪو زمين تي آهي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نشاني"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عھد جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن کي"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "مون قائم ڪيو"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "پنھنجي ۽"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:11.122085014Z",
+  "model": "glm-5.3"
+}

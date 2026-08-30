@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "۽ هن يوحانان پٽ قورح کي سڏيو، ۽ سڀني فوجي سردارن کي جي ⟨את⟩ سان هئا، ۽ سڀني ماڻهن کي، ننڍي کان وٺي وڏي تائين.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ سڏيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "يوحانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "فوجي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ سان"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "۽ سڀني"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "ننڍي کان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وٺي"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏي تائين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:21:57.015772268Z",
+  "model": "glm-5.3"
+}

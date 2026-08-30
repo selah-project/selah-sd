@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ ⟨את⟩ سڄو نفتالي، ۽ ⟨את⟩ اپريم ۽ منشه جي زمين، ۽ ⟨את⟩ سڄي يهودا جي زمين، پريين سمنڊ تائين.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سڄو نفتالي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "נפתלي",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "اپريم جي زمين"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپريم"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "۽ منشه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سڄي يهودا جي زمين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "پريين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:42:39.779547113Z",
+  "model": "glm-5.3"
+}

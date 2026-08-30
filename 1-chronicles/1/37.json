@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "رعوایل جا پٽ: نحت، زرح، شمه ۽ مزه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوایل"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "نحت"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زرح"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شمه"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "۽ مزه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:30.445173850Z",
+  "model": "glm-5.3"
+}

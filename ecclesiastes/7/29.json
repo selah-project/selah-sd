@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "رڳو ھي ڏس، ھيءُءَ مون لڌو آھي: جيڪو ايلوهيم ڪيو ⟨את⟩ ماڻھوءَ کي سڌو؛ پر اھي پاڻ ڳوليائون گھڻا حيلا.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "مون لڌو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماڻھو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻھوءَ کي"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سڌو"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "پر اھي"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ڳوليائون"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "حيلامنديون"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گھڻا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:45.945634788Z",
+  "model": "glm-5.3"
+}

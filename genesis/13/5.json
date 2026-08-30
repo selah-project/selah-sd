@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ لوط کي به، جيڪو ابرام سان ⟨את⟩ گڏ هلندو هو، مال ۽ ڍڳا ۽ خيما هئا.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "لوط کي"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "هلندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابرام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مال (رڍون)"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "۽ ڍڳا"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "۽ خيما"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:11.225762926Z",
+  "model": "glm-5.3"
+}

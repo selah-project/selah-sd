@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "قيروس جا پٽ، سيعها جا پٽ، فدون جا پٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "قيروس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "سيعها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "فدون"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:03.793560608Z",
+  "model": "glm-5.3"
+}

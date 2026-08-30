@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "جيتوڻيڪ هو ڪري، مڪمل طور ڪبو ڪين، ڇوته ياهوه سندس هٿ کي تڪيو بيٺو آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جيتوڻيڪ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "هو ڪري"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ڪين"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "مڪمل طور ڪبو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "تڪيو بيٺو آهي"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "سندس هٿ کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:24.881812691Z",
+  "model": "glm-5.3"
+}

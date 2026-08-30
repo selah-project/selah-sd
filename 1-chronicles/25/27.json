@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 25:27",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ويھين (20) لہ اِلياٿه، ھو، سندس پُٽَ ۽ سندس ڀائر — ٻارهن (12)؛",
+  "tokens": [
+    {
+      "surface": "לעשרים",
+      "gloss": "ويھين (20) لہ"
+    },
+    {
+      "surface": "לאליתה",
+      "gloss": "اِلياٿه"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پُٽَ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "۽ سندس ڀائر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻارهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "–"
+    }
+  ],
+  "timestamp": "2026-08-30T15:11:29.782552342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ شاول اکين سان داوود کي ⟨את⟩ ڏسندو رهيو ان ڏينهن کان ۽ اڳتي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "עון",
+      "gloss": "اکين سان ڏسندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "ان ڏينهن کان"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "۽ اڳتي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:11:36.505018815Z",
+  "model": "glm-5.3"
+}

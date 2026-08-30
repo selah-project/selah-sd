@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 65,
+  "translation": "سمنڊن جي گوڙ، سندن لهرن جي گوڙ، ۽ قومن جي ڌماڪي کي ماٺ ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "ماٺ ڪري ٿو"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "گوڙ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمنڊن جي"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "گوڙ"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "سندن لهرن جي"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "۽ ڌماڪي کي"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "قومن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:48.459876462Z",
+  "model": "glm-5.3"
+}

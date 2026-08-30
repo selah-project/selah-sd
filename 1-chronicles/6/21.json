@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "الڪانا جو پٽ، يوئل جو پٽ، ازريا جو پٽ، صفنيا جو پٽ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "الڪانا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "يوئل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ازريا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "صفنيا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:54.756906253Z",
+  "model": "glm-5.3"
+}

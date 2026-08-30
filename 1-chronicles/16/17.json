@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 16:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ ان کي يعقوب لاءِ حڪم ۽ اسرائيل لاءِ سدائين جو عھد قائم ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "قائم ڪيائين"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "يعقوب لاءِ"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "اسرائيل لاءِ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عھد"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "سدائين جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:38.791324630Z",
+  "model": "glm-5.3"
+}

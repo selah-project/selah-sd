@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ عبرون ۽ رحوب ۽ حامون ۽ ڪاناه، وڏي صيدون تائين.",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "۽ عبرون"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "۽ رحوب"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "۽ حامون"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "۽ ڪاناه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صيدون"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "وڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:43.998793581Z",
+  "model": "glm-5.3"
+}

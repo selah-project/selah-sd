@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ڇاڪاڻ ته بي دينيءَ جي ڪم تي فيصلو جلدي ڪونه ڪيو ويندو آهي، تنهنڪري ماڻهن جي پٽن جا دل انهن ۾ ڀرجي وڃن ٿا برائي ڪرڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ڪونه"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ڪيو ويندو آهي"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "فيصلو"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم تي"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "بي دينيءَ جي"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "جلدي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀرجي وڃن ٿا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جا"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهن جي"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انهن ۾"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:55.771203649Z",
+  "model": "glm-5.3"
+}

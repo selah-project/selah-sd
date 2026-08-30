@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ قھات جا پٽ عمرام، يصھار، حبرون ۽ عزي ايل ٿيا؛ ۽ قھات جي زندگيءَ جا سال ٽي ۽ ٽيھ ۽ سؤ سال ٿيا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پٽ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قھات"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عمرام"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "يصھار"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "۽ عزي ايل"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "۽ جا سال"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگيءَ جا"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قھات"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽيھ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "۽ سؤ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-30T09:57:50.836175481Z",
+  "model": "glm-5.3"
+}

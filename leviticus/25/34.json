@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ سندن شهرن جي چوگرد جو کليو ميدان وڪامي نه، ڇو ته ⟨اهو⟩ انهن لاءِ هميشه جي ملڪيت آهي.",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "۽ ميدان"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "چوگرد جو کليو ميدان"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "سندن شهرن جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "وڪامي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ملڪيت"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه جي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اهو⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:43.645518594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 42:16",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "ماپيائين اوڀر واري پاسڙي کي ماپ جي ڪنه سان — پنج اڳڙا ڪنه، ماپ جي ڪنه سان، چوڌائي.",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "ماپيائين"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "پاسڙي کي"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "اوڀر واري"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ڪنه سان"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ماپ جي"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اڳڙا"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ڪنه"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ڪنه سان"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ماپ جي"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌائي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:01.849551948Z",
+  "model": "glm-5.3"
+}

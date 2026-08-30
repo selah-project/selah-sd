@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 51:38",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 51,
+  "translation": "گڏجي ننڍن شيرن وانگر گرلائيندا، شيرن جي ٻچن وانگر ڀونڪندا.",
+  "tokens": [
+    {
+      "surface": "יחדו",
+      "gloss": "گڏجي"
+    },
+    {
+      "surface": "ככפרים",
+      "gloss": "ننڍن شيرن وانگر"
+    },
+    {
+      "surface": "ישאגו",
+      "gloss": "گرلائيندا"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "ڀونڪندا"
+    },
+    {
+      "surface": "כגורי",
+      "gloss": "ٻچن وانگر"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "شيرن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:25:21.938462965Z",
+  "model": "glm-5.3"
+}

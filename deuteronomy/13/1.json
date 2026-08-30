@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "سڄو ⟨the⟩ لفظ جيڪو آئون ⟨את⟩ توهان کي حڪم ڪريان ٿو، ⟨את⟩ اُهو توهان نگهباني ڪريو ڪرڻ لاءِ؛ ان تي نه وڌايو ۽ ان مان نه گھٽايو.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڄو لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آئون"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حڪم ڪريان ٿو"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ توهان کي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اُهو (لفظ)"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "نگهباني ڪريو"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "وڌايو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "گھٽايو"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ان مان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:41:20.685173078Z",
+  "model": "glm-5.3"
+}

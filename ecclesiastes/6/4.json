@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇوته ھي ھيبِل ۾ اچي ٿو ۽ اونداھيءَ ۾ وڃي ٿو، ۽ اونداھيءَ ۾ سندس نالو ڍڪجي وڃي ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ھيبِل ۾"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "۽ اونداھيءَ ۾"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "وڃي ٿو"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "۽ اونداھيءَ ۾"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالو"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ڍڪجي وڃي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:13.816047286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "جڏھن ماڻھوءَ ۾ صرع جي مرض ٿئي، تڏھن کي کڻي ڪوھن وٽ آندو وڃي.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "مرض"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "صرع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿئي"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ماڻھوءَ ۾"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "آندو وڃي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:11.744174Z",
+  "model": "glm-5.3"
+}

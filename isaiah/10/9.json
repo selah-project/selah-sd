@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ڇا ڪرخمش جيان ڪلنو نه آھي؟ ڇا ارپاد جيان حمات نه آھي؟ ڇا دمشق جيان شمرون نه آھي؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ڇا … نه"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "ڪرخمش جيان"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ڪلنو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "ارپاد جيان"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمات"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "دمشق جيان"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شمرون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:08.396621814Z",
+  "model": "glm-5.3"
+}

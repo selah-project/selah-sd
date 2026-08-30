@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "يساخر لاءِ نتان ايل، تسوعار جو پٽ.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "يساخر لاءِ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نتان ايل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "تسوعار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:31.705732599Z",
+  "model": "glm-5.3"
+}

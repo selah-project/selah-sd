@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "رعايا جا پُٽ، رصين جا پُٽ، نقودا جا پُٽ،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "رعايا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "رصين"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نقودا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:42.926029366Z",
+  "model": "glm-5.3"
+}

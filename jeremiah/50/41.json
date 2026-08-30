@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "jeremiah 50:41",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "ڏسو، اُتر کان ھڪ قوم اچي ٿي، ۽ ھڪ وڏو گڻ ۽ ڪيترائي بادشاھ زمين جي ڇيڙن کان جاڳايا ويندا.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "اُتر کان"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "۽ ھڪ گڻ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "۽ بادشاھ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ڪيترائي"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "جاڳايا ويندا"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "ڇيڙن کان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:25:00.727545414Z",
+  "model": "glm-5.3"
+}

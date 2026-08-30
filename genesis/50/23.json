@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 50:23",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "۽ يوسف اپرائم جا ٽين نسل جا پوٽا ڏٺا؛ منشه جي پٽ مکير جا پٽ به يوسف جي آڏو تي ڄايا.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏٺا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "اپرائم جا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پوٽا"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽين نسل جا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پوٽا"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "مکير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ڄايا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "آڏو (ڳوين)"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:45.267272362Z",
+  "model": "glm-5.3"
+}

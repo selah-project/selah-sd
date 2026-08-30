@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ اورنان موڙيو ۽ ⟨את⟩ فرشتو ڏٺو، ۽ سندس چار پٽ سندس ساڻ لڪل هئا؛ ۽ اورنان ڪَڻڪ ڪَڇي رهيو هو.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "۽ موڙيو"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "اورنان"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏٺو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرشتو"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشتو"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ساڻ"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "لڪل هئا"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "۽ اورنان"
+    },
+    {
+      "surface": "דש",
+      "gloss": "ڪَڇي رهيو هو"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ڪَڻڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:59.950762248Z",
+  "model": "glm-5.3"
+}

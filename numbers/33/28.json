@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ⟨هي⟩ ترح کان روانا ٿيا، ۽ مثقه ۾ منزل ڪيائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "ترح کان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "منزل ڪيائون"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "مثقه ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:47.346249034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ته تنهجا بزرگ ۽ تنهجا قاضي ٻاهر نڪرن، ۽ ماپ ڪن انهن شهرن ڏانهن جيڪي مقتول جي چوڌاري آهن.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ٻاهر نڪرن"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "تنهجا بزرگ"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "تنهجا قاضي"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "۽ ماپ ڪن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "انهن شهرن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "مقتول جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:31.014577311Z",
+  "model": "glm-5.3"
+}

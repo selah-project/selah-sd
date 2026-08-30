@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "هن يوبل جي سال ۾ توهان موٽو هر ماڻهو پنهنجي قبضي ڏانهن.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "سال ۾"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "يوبل جي"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "توهان موٽو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر ماڻهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "پنهنجي قبضي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:46.723879679Z",
+  "model": "glm-5.3"
+}

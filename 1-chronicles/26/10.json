@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 26:10",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ حوسہ کي، مراري جي پٽن مان، پٽ ٿيا: شمري سربراھ، ڇوته هو پهريون پلRTC نه هو، تنھنڪري سندس پيءُ کيس سربراھ مقرر ڪيو.",
+  "tokens": [
+    {
+      "surface": "ולחסה",
+      "gloss": "۽ حوسہ کي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراري"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شمري"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سربراھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پهريون پلRTC"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "کيس مقرر ڪيو"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "سندس پيءُ"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "سربراھ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:43.334509403Z",
+  "model": "glm-5.3"
+}

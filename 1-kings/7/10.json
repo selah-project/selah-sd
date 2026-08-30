@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ بنياد قيمتي پٿرن جو ⟨هو⟩، وڏا پٿر — ڏهه هٿن جا پٿر ۽ اَٺ هٿن جا پٿر.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "۽ بنياد"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "قيمتي"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "وڏا"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "۽ پٿر"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اَٺ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "هٿ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:28:38.743316184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ پنهاس پٽ العزار جو، اڳي سندن اڳواڻ هو؛ ياهوه سندس ساڻ هو.",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "۽ پنهاس"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "العزار جو"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "اڳواڻ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "سندن تي"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "اڳي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ساڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:34.984491885Z",
+  "model": "glm-5.3"
+}

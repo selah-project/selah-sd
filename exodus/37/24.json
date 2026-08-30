@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "هڪ مڻ سونِ خالص منجهان ٺاهيائين ⟨את⟩ ان کي ۽ ⟨את⟩ سندس سارو سامان.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "هڪ مڻ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونِ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاهيائين"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي (منورتي)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سندس سارو سامان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارو"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "سامان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:00.876794787Z",
+  "model": "glm-5.3"
+}

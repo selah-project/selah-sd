@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ موشي اِهو ٻڌو، ۽ پنهنجي منهن تي ڪري پيو.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "۽ ڪري پيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "پنهنجي منهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:55.446276766Z",
+  "model": "glm-5.3"
+}

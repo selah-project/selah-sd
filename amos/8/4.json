@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ھي ٻڌو، اي نادار کي نگلڻ وارا، ۽ زمين جي مسڪينن کي ختم ڪرڻ وارا!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "نگلڻ وارا"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "نادار"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "۽ ختم ڪرڻ لاءِ"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "مسڪينن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:49:08.321864476Z",
+  "model": "glm-5.3"
+}

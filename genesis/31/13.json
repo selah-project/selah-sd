@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 31:13",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "آءٌ ⟨هست⟩ ايل بيت-ايل، جتي تون اُتي مکيل ستون مڪيو، جتي تون مون کي اُتي نذر نذريو؛ هاڻي اُٿ، هن زمين مان نڪر ۽ پنهنجي جنم ڀومي ڏانهن موٽ.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتي"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "مکيو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتي"
+    },
+    {
+      "surface": "נדרת",
+      "gloss": "نذريو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "קום",
+      "gloss": "اُٿ"
+    },
+    {
+      "surface": "צא",
+      "gloss": "نڪر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "هن زمين"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "۽ موٽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "מולדתך",
+      "gloss": "پنهنجي جنم ڀومي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:48:57.970296567Z",
+  "model": "glm-5.3"
+}

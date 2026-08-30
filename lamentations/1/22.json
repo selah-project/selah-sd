@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 1:22",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "سندن سڀ بڇڙائي تو اڳيان اچي ۽ کين اهو ئي ڪر جيئن تون مون سان مونجا سڀ گناهه ڏسي ڪيو آهي؛ ڇو ته منهنجا سُسڻ گهڻا آهن ۽ منهنجي دل بيمار آهي.",
+  "tokens": [
+    {
+      "surface": "תבא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "سندن بڇڙائي"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تو اڳيان"
+    },
+    {
+      "surface": "ועולל",
+      "gloss": "۽ اهو ئي ڪر"
+    },
+    {
+      "surface": "למו",
+      "gloss": "کين"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "עוללת",
+      "gloss": "ڪيو آهي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڏسي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "گناهه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "گهڻا"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "منهنجا سُسڻ"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "۽ منهنجي دل"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "بيمار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:58.826413915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 1:19",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ عيبر کي ٻه پُٽ ڄاوا؛ ⟨هڪ جو⟩ نالو پليگ ھو، ڇوته سندس ڏينھن ۾ زمين ورهاست ٿي، ۽ سندس ڀاءُ جو نالو يقطان ھو.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "۽ عيبر کي"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄاوا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پليگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "سندس ڏينھن ۾"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "ورهاست ٿي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "سندس ڀاءُ جو"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "يقطان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:52.294929758Z",
+  "model": "glm-5.3"
+}

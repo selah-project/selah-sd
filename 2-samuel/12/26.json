@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ يوآب عمون جي پٽن جي رَبہ سان ويڙهه ڪئي ۽ شاهي شهر ⟨את⟩ فتح ڪيائين۔",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "۽ ويڙهه ڪيائين"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "رَبہ ۾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "۽ فتح ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاهي شهر"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "شاهي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:20:13.895617692Z",
+  "model": "glm-5.3"
+}

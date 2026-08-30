@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 17:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "پنهنجا لفظ روڪڻ وارو علم رکندار آهي، ۽ ٿڌي طبعت وارو ⟪هو⟫ سمجهه وارو ماڻهو.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "روڪڻ وارو"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "پنهنجا لفظ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "علم رکندار آهي"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "ٿڌي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "طبعت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:41.389457130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "رانڍو موڪليو زمين جي حاڪم کي، سِلا کان بيابان ڏانهن، صهيون جي ڌيءَ جي جبل ڏانهن.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "موڪليو"
+    },
+    {
+      "surface": "כר",
+      "gloss": "رانڍو"
+    },
+    {
+      "surface": "משל",
+      "gloss": "حاڪم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "سِلا"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "بيابان ڏانهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:52:40.271386796Z",
+  "model": "glm-5.3"
+}

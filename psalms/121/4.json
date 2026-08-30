@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 121,
+  "translation": "ڏسو، هو نہ اُجهامي ۽ نہ سمهي — اسرائيل جو رکڻ وارو.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "اُجهامي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نہ"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "سمهي"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "رکڻ وارو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:55.512060164Z",
+  "model": "glm-5.3"
+}

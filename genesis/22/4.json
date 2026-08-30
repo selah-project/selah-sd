@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ٽئين ڏينهن ابراهام ⟨את⟩ پنهنجون اکيون کڻي، ان هنڌ کي پريان ڏٺو.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ٽئين"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "کڻي"
+    },
+    {
+      "surface": "آبرهام",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجون اکيون"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "پنهنجون اکيون"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان هنڌ کي"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ان هنڌ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "پريان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:24.011015428Z",
+  "model": "glm-5.3"
+}

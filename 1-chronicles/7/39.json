@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ علا جا پٽ: ارح ۽ حنيئيل ۽ رتصيا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "علا"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ارح"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "۽ حنيئيل"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "۽ رتصيا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:29.414419273Z",
+  "model": "glm-5.3"
+}

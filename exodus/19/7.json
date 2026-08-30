@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ موشي آيو ۽ قوم جي بزرگن کي سڏيو، ۽ انھن اڳيان ⟨את⟩ سڀ اھي لفظ رکيا جن جو ياهوه کيس حڪم ڏنو.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "۽ آيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ سڏيو"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "بزرگن کي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم جي"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "۽ رکيا"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "انھن اڳيان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ اھي لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن جو"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "کيس حڪم ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:34.882483195Z",
+  "model": "glm-5.3"
+}

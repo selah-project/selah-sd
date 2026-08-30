@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 19:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "پٽجان، تعليم ٻڌڻ بند ڪر ته علم جي لفظن کان ڀلجي وڃين.",
+  "tokens": [
+    {
+      "surface": "חדל",
+      "gloss": "بند ڪر \/ باز رهه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽجان"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ٻڌڻ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تعليم"
+    },
+    {
+      "surface": "לשגות",
+      "gloss": "ڀلجڻ لاءِ"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "لفظن کان"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:34.546469240Z",
+  "model": "glm-5.3"
+}

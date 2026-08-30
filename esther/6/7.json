@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ته هامان بادشاهه کي چيو: ”اُنهي ماڻهوءَ لاءِ جنهن جي وڏائي ۾ بادشاهه کي سرهائي آهي —“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "سرهائي آهي"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "وڏائي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:54:17.266121242Z",
+  "model": "glm-5.3"
+}

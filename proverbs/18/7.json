@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "بيوقوف جو وات سندس تباهي ⟨آهي⟩، ۽ سندس ٿلهيون سندس نَفَس جو ڄار ⟨آهن⟩.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "جو وات"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "بيوقوف"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "تباهي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "۽ سندس ٿلهيون"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ڄار"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "سندس نَفَس جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:44.504546495Z",
+  "model": "glm-5.3"
+}

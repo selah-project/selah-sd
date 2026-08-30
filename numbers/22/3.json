@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 22:3",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "پوءِ موآب قوم کان تمام گھڻو ڊڄي ويو، ڇوته اها وڏي هئي، ۽ موآب اسرائيل جي پٽن کان ڪلھاڻجي ويو.",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "ڊڄي ويو"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام گھڻو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "ڪلھاڻجي ويو"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:52.450314245Z",
+  "model": "glm-5.3"
+}

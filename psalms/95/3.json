@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 95,
+  "translation": "ڇوته هڪ وڏو ايل ياهوه آهي، ۽ سڀني ايلوهيم تي وڏو بادشاهه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "۽ بادشاهه"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:21.955355140Z",
+  "model": "glm-5.3"
+}

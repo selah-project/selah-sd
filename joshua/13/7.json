@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ هاڻي هي ⟨את⟩ زمين نَوَن قبيلن ۽ مناسي قبيلي جي اڌ لاءِ ورثي طور ورهاءِ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ورهاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "ورثي طور"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "نَوَن لاءِ"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "قبيلن"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "۽ اڌ"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "قبيلي جي"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "مناسي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:58.307619282Z",
+  "model": "glm-5.3"
+}

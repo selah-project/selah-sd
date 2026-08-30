@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "بقيتو موڙجي ويندو — يعقوب جو بقيتو — ايل جبار ڏانهن.",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "بقيتو"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "موڙجي ويندو"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "بقيتو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جبار"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:58.680937497Z",
+  "model": "glm-5.3"
+}

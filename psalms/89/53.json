@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "مبارڪ آھي ياهوه ⟨ل⟩ هميشہ لاءِ؛ آمين ۽ آمين.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارڪ آھي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشہ لاءِ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمين"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "۽ آمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:42.967549430Z",
+  "model": "glm-5.3"
+}

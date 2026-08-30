@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 31:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "سندس هٿ ڦتي ڏانهن لنگاريائين، ۽ سندس هٿن تاڪو جهليو.",
+  "tokens": [
+    {
+      "surface": "ידיה",
+      "gloss": "سندس هٿ"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "لنگاريائين"
+    },
+    {
+      "surface": "בכישור",
+      "gloss": "ڦتي ڏانهن"
+    },
+    {
+      "surface": "וכפיה",
+      "gloss": "۽ سندس هٿن"
+    },
+    {
+      "surface": "תמכו",
+      "gloss": "جهليو"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "تاڪو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:40.840702262Z",
+  "model": "glm-5.3"
+}

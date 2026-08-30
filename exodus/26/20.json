@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ مِشڪان جي ٻيءَ ڪَنڌيءَ لاءِ اتر ڦاٽ، ويهه ڪڙيون.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "۽ ڪَنڌيءَ لاءِ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مِشڪان جي"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ٻيءَ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ڦاٽ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اتر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "ڪڙيون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:06:08.750552783Z",
+  "model": "glm-5.3"
+}

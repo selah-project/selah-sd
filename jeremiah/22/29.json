@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "اَُپَرَديءَ جي زمين! زمين! زمين! ياهوه جو ڪلام ٻُڌُ",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ٻُڌُ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڪلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:12:47.639760220Z",
+  "model": "glm-5.3"
+}

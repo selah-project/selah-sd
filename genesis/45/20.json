@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "۽ اوھان جي اک پنھنجي سازوسامان تي رحم نه ڪري، ڇوته متصر جي ساري زمين جو بهترين اوھان جو آھي.",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "۽ اوھان جي اک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "رحم ڪري"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "پنھنجي سازوسامان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بهترين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جو"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متصر جي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اوھان جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:02.069595772Z",
+  "model": "glm-5.3"
+}

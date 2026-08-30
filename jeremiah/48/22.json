@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ ديبون تي، نبو تي ۽ بيت-دبلاتيم تي.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "ديبون"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نبو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "دبلاتيم"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:32.538517928Z",
+  "model": "glm-5.3"
+}

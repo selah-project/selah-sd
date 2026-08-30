@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ پير جا پٽ هئا: حصرون جو خاندان حصروني، حامول جو خاندان حامولي.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پير"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "حصرون"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "حصروني"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "حامول"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "حامولي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:51.877975221Z",
+  "model": "glm-5.3"
+}

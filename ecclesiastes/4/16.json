@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "سڀ ماڻھن جي، سڀن انھن جي جن کان اڳ ھئا، ڪا پڇاڻي نہ ھئي؛ پر پوءِ اچڻ وارا بہ ان ۾ خوش نہ ٿيندا — ڇوته پاڻ ۾ اِھو بہ سگھوڙائي ۽ واھ جي ڪوشش آھي.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "پڇاڻي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھن جي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ھئا"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "کان اڳ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پر بہ"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "پوءِ اچڻ وارا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "خوش ٿيندا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بہ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اِھو"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "سگھوڙائي"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "۽ ڪوشش"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "واھ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:16.048141496Z",
+  "model": "glm-5.3"
+}

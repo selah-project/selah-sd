@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 102,
+  "translation": "هن رستي ۾ منهنجي طاقت جھٽي، منهنجا ڏينهن ڪٽي ڇڏيا؛",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "جھٽيائين"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي ۾"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "منهنجي طاقت"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "ڪٽي ڇڏيائين"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "منهنجا ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:01.248324442Z",
+  "model": "glm-5.3"
+}

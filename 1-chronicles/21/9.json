@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ياهوه گد سان ڳالھيائين — داويد جي نبيءَ (ڏسندڙ) — چوڻ ته",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالھيائين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گد"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "نبيءَ (ڏسندڙ)"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد جي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:24.482722989Z",
+  "model": "glm-5.3"
+}

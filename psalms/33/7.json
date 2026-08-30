@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "سمندر جا پاڻي ڍير وانگر گڏ ڪري ٿو، اونھائين کي پنھنجين خزانن ۾ رکي ٿو.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "گڏ ڪري ٿو"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "ڍير وانگر"
+    },
+    {
+      "surface": "מי",
+      "gloss": "جا پاڻي"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکي ٿو"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "خزانن ۾"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "اونھائين کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:07.878226295Z",
+  "model": "glm-5.3"
+}

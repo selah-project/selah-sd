@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ اهو ٿيندو ته جيڪڏهن ڏهه ماڻهو هڪ ئي گهر ۾ بچن ته اهي مري ويندا.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ اهو ٿيندو ته"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ ئي"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ته اهي مري ويندا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:49:00.791726080Z",
+  "model": "glm-5.3"
+}

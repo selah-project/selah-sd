@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 9:19",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "ڇوته مان ⟨את⟩ توهان کي ختم ڪرڻ لاءِ ياهوه جي غصي ۽ ڪاوڙ کان ڊٻو ھوس؛ ۽ ياهوه ان ڀيري به منھنجي ٻُڌي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ڊٻو ھوس"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کان"
+    },
+    {
+      "surface": "האף",
+      "gloss": "غصي"
+    },
+    {
+      "surface": "והחמה",
+      "gloss": "۽ ڪاوڙ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ڪاوڙيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "توهان تي"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ختم ڪرڻ لاءِ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ توهان",
+      "marks": "توهان"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ٻُڌي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منھنجي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ان ڀيري"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:45.269701421Z",
+  "model": "glm-5.3"
+}

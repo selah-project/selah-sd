@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "ادوناي ياهوه مون لاءِ ⟨את⟩ ڪن کوليو، ۽ مون نافرماني نه ڪئي، پٺتي نه هٽيس.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "کوليو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ڪن"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "۽ مون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "نافرماني ڪئي"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پٺتي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "هٽيس"
+    }
+  ],
+  "timestamp": "2026-08-30T12:03:12.349878320Z",
+  "model": "glm-5.3"
+}

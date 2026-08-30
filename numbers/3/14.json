@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ياهوه موشيءَ سان سنينا جي بيابان ۾ ڳالهائيو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالهائيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "موشيءَ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سنينا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:39:49.805283657Z",
+  "model": "glm-5.3"
+}

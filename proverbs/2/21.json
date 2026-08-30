@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 2:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇوته سڌا زمين ۾ رھندا، ۽ ڪامل ماڻهو ان ۾ بچي ويندا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سڌا"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "رھندا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "۽ ڪامل ماڻهو"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "بچي ويندا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:19.869028715Z",
+  "model": "glm-5.3"
+}

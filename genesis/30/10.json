@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ زلفه، ليعه جي ٻانھي، يعقوب کي پٽ ڄڻيو.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زلفه"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ٻانھي"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ليعه جي"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "يعقوب کي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:29.534293436Z",
+  "model": "glm-5.3"
+}

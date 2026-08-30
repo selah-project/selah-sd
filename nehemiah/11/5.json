@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 11:5",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ معسيه پُٽ باروخ جو، پُٽ کل-حوزه جو، پُٽ حزيه جو، پُٽ عديه جو، پُٽ يويارب جو، پُٽ ذڪريه جو، پُٽ شيلونيءَ جو.",
+  "tokens": [
+    {
+      "surface": "ומעשיה",
+      "gloss": "۽ معسيه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "حوزه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "חזיה",
+      "gloss": "حزيه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "عديه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "يويارب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "ذڪريه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "شيلونيءَ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:11.489795341Z",
+  "model": "glm-5.3"
+}

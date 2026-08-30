@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڦٽ ۽ ذلت کي ⟨هو⟩ لهندو آهي، ۽ سندس بي عزتي نه مٽندي.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ڦٽ"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "۽ ذلت"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "لهندو آهي"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "۽ سندس بي عزتي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "مٽندي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:26.059427130Z",
+  "model": "glm-5.3"
+}

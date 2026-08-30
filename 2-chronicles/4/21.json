@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ گل، ۽ بتي، ۽ چمڙا سون جا — اهو پورو سون.",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "۽ گل"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "۽ بتي"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "۽ چمڙا"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "پورو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:37.814030741Z",
+  "model": "glm-5.3"
+}

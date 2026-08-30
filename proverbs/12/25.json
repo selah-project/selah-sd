@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "فڪر ماڻهوءَ جي دل ۾ کيس جهڪائي ٿو ۽ چڱو لفظ کيس خوش ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "فڪر"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل ۾"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ جي"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "کيس جهڪائي ٿو"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "۽ لفظ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "کيس خوش ڪري ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:11.051734092Z",
+  "model": "glm-5.3"
+}

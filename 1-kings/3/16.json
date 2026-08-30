@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پوءِ ٻه زالون — ويسياھ زالون — بادشاھ وٽ آيون ۽ اُن جي اڳيان بيٺيون.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "آيون"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زالون"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "ويسياھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "بيٺيون"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اُن جي اڳيان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:27:41.434593501Z",
+  "model": "glm-5.3"
+}

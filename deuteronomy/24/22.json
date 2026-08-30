@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ تو ياد رکج ته تو زمين ۾، متسرايم ۾ غلام هئين؛ تنهنڪري آءُhn توکي حڪم ڏيان ٿو ⟨את⟩ هي ڪم ڪرڻ جو.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "۽ تو ياد رکج"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "היית",
+      "gloss": "هئين"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنهن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءُhn"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "توکي حڪم ڏيان ٿو"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ جو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي ڪم"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:42:24.442982451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 57,
+  "translation": "ڪوبه شالوم ناھي، چوي ٿو منھنجو ايلوهيم، شريرن لاءِ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ڪوبه ناھي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "منھنجو ايلوهيم"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "شريرن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:03:49.814787616Z",
+  "model": "glm-5.3"
+}

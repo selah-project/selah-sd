@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ هيءُ اُهو برکت آهي، جنهن سان موشي، ايلوهيم جو ماڻهو، پنھنجي موت کان اڳ ⟨את⟩ اسرائيل جي پٽن کي برڪت ڏني.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "۽ هيءُ"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "برڪت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن سان"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برڪت ڏني"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم جو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسرائيل جي پٽن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳ"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "پنھنجي موت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:50.695493968Z",
+  "model": "glm-5.3"
+}

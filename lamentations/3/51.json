@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مون جي اک مون جي نَفَس کي پيڙيو، مون جي شهر جي سڀني ڌين جي ڪري.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "مون جي اک"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "پيڙيو"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "مون جي نَفَس لاءِ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڀني... جي ڪري"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيون"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "مون جي شهر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:56.844248800Z",
+  "model": "glm-5.3"
+}

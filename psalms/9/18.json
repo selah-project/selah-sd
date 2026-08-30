@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "ردياءِ وريا شيول ڏانهن، سڀ قومون جيڪي ايلوهيم کي وساري ٿيون.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ويريا"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ردياءِ"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "شيول ڏانهن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "وساري ٿيون"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:00:48.805607367Z",
+  "model": "glm-5.3"
+}

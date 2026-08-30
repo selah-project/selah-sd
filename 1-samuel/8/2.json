@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ سندس پهرئين پٽ جو نالو يوائيل هو، ۽ سندس ٻئي جو نالو ابياه؛ اهي بئر شيبع ۾ قاضي هئا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "پهرئين"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "يوائيل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "سندس ٻئي"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابياه"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "قاضي"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "بئر ۾"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شيبع"
+    }
+  ],
+  "timestamp": "2026-08-30T11:07:08.067007033Z",
+  "model": "glm-5.3"
+}

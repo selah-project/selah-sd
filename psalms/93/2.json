@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 93,
+  "translation": "تنھنجو عرش اڳ کان مضبوط بيٺل آھي، ازل کان تون آھين.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "مضبوط بيٺل آھي"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تنھنجو عرش"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "اڳ کان"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ازل کان"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    }
+  ],
+  "timestamp": "2026-08-30T15:03:05.445580593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ڏسو، ياهوه توهان جي ايلوهيم جو آھي آسمان ۽ آسمانن جا آسمان، زمين ۽ سڀڪجهه جيڪو ان ۾ آھي.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "توهان جي ايلوهيم"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "۽ آسمانن جا"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀڪجهه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:41:49.852386288Z",
+  "model": "glm-5.3"
+}

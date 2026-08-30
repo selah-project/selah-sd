@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 1:54",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ اسرائيل جي پٽن سڀ ڪيو جيڪو ياهوه ⟨את⟩ موشي کي حڪم ڏنو، ائين ڪيائون.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "۽ ڪيا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪيائون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:47.369638200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ياهوه، تون سندن توهن ٻُڌي آهيين، سندن سڀ مڪر مون ضد.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "تون ٻُڌي آهيين"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "سندن توهن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "سندن مڪر"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون ضد"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:09.638390832Z",
+  "model": "glm-5.3"
+}

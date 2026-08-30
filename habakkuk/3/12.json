@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڳڻڦير ۾ ⟨تون⟩ زمين تي پنڌ ڪري ٿو، ڪاوڙ ۾ قومن کي ڊنگي ٿو۔",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "ڳڻڦير ۾"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "پنڌ ڪري ٿو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين تي"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ڪاوڙ ۾"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "ڊنگي ٿو"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:12.899746999Z",
+  "model": "glm-5.3"
+}

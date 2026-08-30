@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ايلوهيم ننڍڙي ⟨את⟩ سان هو، ۽ هو وڏو ٿيو ۽ بيابان ۾ رهيو ۽ تير انداز ٿيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ سان"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ننڍڙي"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "وڏو ٿيو"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "رهيو"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "وڏو ٿيندڙ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "تير انداز"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:49.471440050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "پوءِ اسرائيل جي بادشاهه هڪ خواجه سرا کي سڏيو ۽ چيائين: جلدي ميخهو، پٽ يملاءُ جي، کي وٺي اچ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "خواجه سرا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "جلدي"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "ميخهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "يملاءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:26.788496270Z",
+  "model": "glm-5.3"
+}

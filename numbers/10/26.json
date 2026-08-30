@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 10:26",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ آشر جي پٽن جي قبيلي جي لشڪر تي پگعي ايل، عڪران جو پٽ هو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبيلي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "پگعي ايل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "عڪران"
+    }
+  ],
+  "timestamp": "2026-08-30T14:39:41.828630978Z",
+  "model": "glm-5.3"
+}

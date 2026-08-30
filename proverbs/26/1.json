@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "جهڙو برف اون ۾ ۽ جهڙو مينهن فصل لاهڻ ۾، تيئن نالائق کي وقار نٿو بٺي.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "جهڙو برف"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "اون ۾"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "۽ جهڙو مينهن"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "فصل لاهڻ ۾"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نٿو"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "بٺي"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "نالائق کي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "وقار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:59.838448784Z",
+  "model": "glm-5.3"
+}

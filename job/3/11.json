@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڇو نه مڙيهه مريان؟ پيٽ مان نڪتس ۽ ساھ ڇڏي وڃان ها.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ڇو نه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "مڙيهه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "مريان"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "پيٽ مان"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "نڪتس"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "ساھ ڇڏي وڃان ها"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:52.216638811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "عناتوت جا ماڻهو، سَوَ ٿيہ ۽ اَٺ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "جا ماڻهو"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "عناتوت"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سَوَ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ٿيہ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "۽ اَٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:11.523453193Z",
+  "model": "glm-5.3"
+}

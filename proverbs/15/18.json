@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "غصي جو ماڻهو تڪرار ڀڙڪائي ٿو، ۽ نَسن جو اوڙڪ تڪرار ماٺ ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غصي جو"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "ڀڙڪائي ٿو"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "تڪرار"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "۽ اوڙڪ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "نَسن جو"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "ماٿ ڪري ٿو"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "جهيڙو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:39.834862332Z",
+  "model": "glm-5.3"
+}

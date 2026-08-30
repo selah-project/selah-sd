@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ هن ⟨את⟩ دروازي جي اڳيان حصي جي ماپ ڪئي، گهر کان، هڪ ڪنو.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "۽ ماپ ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دروازي جي اڳيان حصي"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "اڳيان حصو"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازي جي"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "گهر کان"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "هڪ ڪنو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:35.139134221Z",
+  "model": "glm-5.3"
+}

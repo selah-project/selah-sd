@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ بني اسرائيل رعمسس کان روانا ٿيا ۽ سڪوت ۾ ڪڍيا ويا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "رعمسس"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڪڍيا ويا"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "سڪوت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:07.831313931Z",
+  "model": "glm-5.3"
+}

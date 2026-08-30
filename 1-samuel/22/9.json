@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 22:9",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ته دواگ ادومي، جيڪو شاول جي ٻڌن تي بيهيل هو، جواب ڏنو ۽ چيائين: ميان ⟨את⟩ يشي جي پٽ کي نوب ۾ اچڻ ڏٺو، اهيملڪ پٽ اهٽوب وٽ.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ڏنو"
+    },
+    {
+      "surface": "דאג",
+      "gloss": "دواگ"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ادومي"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "بيهيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ٻڌن"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مان ڏٺو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يشي جي پٽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يشي"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچڻ"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "نوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "اهيملڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اهٽوب"
+    }
+  ],
+  "timestamp": "2026-08-30T11:13:20.433856440Z",
+  "model": "glm-5.3"
+}

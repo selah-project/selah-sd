@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 116,
+  "translation": "آئون ياهوه جي اڳيان هلندس، جيئن زندگيءَ جي زمين ۾.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "آئون هلندس"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جيئا\/زندگيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:34.779557546Z",
+  "model": "glm-5.3"
+}

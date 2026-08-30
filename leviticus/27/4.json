@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ جيڪڏھن اُها مادي هجي، ته پوءِ تو جي اندازي ٽيهن شڪلن جي ٿيندي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مادي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُها"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ته پوءِ ٿيندي"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تو جي اندازي"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيهن"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شڪلن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:32.862146666Z",
+  "model": "glm-5.3"
+}

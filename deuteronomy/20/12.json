@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ جيڪڏهن ادا تو سان سلام نه ڪري پر تو سان جنگ ڪري، ته تون ان تي گهيرو ڪرين.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "سلام ڪري"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تو سان"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "پر ڪري"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تو سان"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ته گهيرو ڪرين"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:29.760118580Z",
+  "model": "glm-5.3"
+}

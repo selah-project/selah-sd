@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "هيءُ قوم آءٌ پاڻ لاءِ جوڙي آهي؛ منهنجي ساراهه بيان ڪندو.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "זו",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "جوڙي آهي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "منهنجي ساراهه"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "بيان ڪندو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:59:47.070581344Z",
+  "model": "glm-5.3"
+}

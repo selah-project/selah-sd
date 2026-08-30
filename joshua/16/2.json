@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ اُهو بيت-ايل کان لوز ڏانهن نڪتو، ۽ ارڪين جي سرحد ڏانهن لنگهيو، عتاروت تائين.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نڪتو"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "بيت-ايل کان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "لوز ڏانهن"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "۽ لنگهيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "ارڪين جي"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "عتاروت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:04.260375689Z",
+  "model": "glm-5.3"
+}

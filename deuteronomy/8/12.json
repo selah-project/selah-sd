@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "متان تون کائيندين ۽ رجهندين، ۽ سٺا گهر ٺاهيندين ۽ انهن ۾ رهندين،",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کائيندين"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "۽ رجهندين"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "۽ گهر"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "سٺا"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ٺاهيندين"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "۽ رهندين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:38:56.055848247Z",
+  "model": "glm-5.3"
+}

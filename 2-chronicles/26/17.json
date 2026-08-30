@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 26:17",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "پوءِ سندس پويان اندر آيو عزراياهو كاهن، ۽ سندس ساٿ ۾ ياهوه جا كاهن اسي، بهادرن جا پُٽ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "سندس پويان"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "عزراياهو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "۽ سندس ساٿ ۾"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جا"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "اسي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بهادر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:28:00.231332881Z",
+  "model": "glm-5.3"
+}

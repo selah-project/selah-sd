@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "تنهنڪري اهو ئي ادوناي ياهوه چوي ٿو: هائي، خون جي شهر! مان به باهه جو ڍير وڏو ڪريان.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اهو ئي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "هائي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "خون جي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "وڏو ڪريان"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "باهه جو ڍير"
+    }
+  ],
+  "timestamp": "2026-08-30T12:34:22.490467306Z",
+  "model": "glm-5.3"
+}

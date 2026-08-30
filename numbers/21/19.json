@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 21:19",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ مڃانا کان نحليئل، ۽ نحليئل کان باموت؛",
+  "tokens": [
+    {
+      "surface": "וממתנה",
+      "gloss": "۽ مڃانا کان"
+    },
+    {
+      "surface": "נחליאל",
+      "gloss": "نحليئل"
+    },
+    {
+      "surface": "ומנחליאל",
+      "gloss": "۽ نحليئل کان"
+    },
+    {
+      "surface": "במות",
+      "gloss": "باموت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:03.228939322Z",
+  "model": "glm-5.3"
+}

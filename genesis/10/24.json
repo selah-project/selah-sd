@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ اَرپَخشَد ⟨את⟩ شَلَح کي پيدا ڪيو، ۽ شَلَح ⟨את⟩ عِبَر کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "۽ اَرپَخشَد"
+    },
+    {
+      "surface": "ילد",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شَلَح کي"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شَلَح"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "۽ شَلَح"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِبَر کي"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِبَر"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:21.135227677Z",
+  "model": "glm-5.3"
+}

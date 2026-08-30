@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ⟨את⟩ اوپر ۽ ⟨את⟩ حويله ۽ ⟨את⟩ يوباب؛ سڀ اھي يقطان جا پُٽ ھُيا.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوپر"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "اوپر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حويله"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "حويله"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "يوباب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "يوباب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "قطان جا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:20.907796451Z",
+  "model": "glm-5.3"
+}

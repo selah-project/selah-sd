@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ اهي روشنيون ٿين آسمانن جي وسعت ۾، زمين تي روشني ڏيڻ لاءِ؛ ۽ ائين ٿيو.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "۽ اهي ٿين"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "روشنيون"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "وسعت ۾"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن جي"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "روشني ڏيڻ لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:37.725493710Z",
+  "model": "glm-5.3"
+}

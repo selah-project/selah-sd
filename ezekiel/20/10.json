@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "پوءِ مان کين متسرايم جي زمين مان ڪڍيا ۽ بيابان ۾ آندم.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "پوءِ مان کين ڪڍيا"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "جي زمين مان"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    },
+    {
+      "surface": "وאבאם",
+      "gloss": "۽ آندم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بيابان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:33:07.183233590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "مون پاڻ لاءِ باغيون ۽ باغ ٺاهيا، ۽ انهن ۾ مون هر ڦل جا وڻ پوکيا.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ٺاهيا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "باغيون"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "۽ باغ"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "۽ پوکيا"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انهن ۾"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ڦل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:34.989410321Z",
+  "model": "glm-5.3"
+}

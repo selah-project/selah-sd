@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "ڇوته جنگل جو سمو جانور مون جو آهي، ۽ هزارين جبلن تي جو مال.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سمو"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل جو"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "مال"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "جبلن تي"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزارين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:43.132330118Z",
+  "model": "glm-5.3"
+}

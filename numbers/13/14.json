@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "نفتالي قبيلي مان، نحبي پٽ وپسي جو.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي مان"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "نحبي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "وپسي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:42.310942426Z",
+  "model": "glm-5.3"
+}

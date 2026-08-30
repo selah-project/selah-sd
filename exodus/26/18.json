@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ مِشڪان لاءِ ⟨את⟩ ڪڙين کي ٺاهجين — ويهن ڪڙين لاءِ ڏکڻ ڦاٽ، ڏکڻ ٽيهنڊي.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "۽ ٺاهجين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪڙين"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ڪڙين"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مِشڪان لاءِ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "ڪڙيون"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ڦاٽ"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ڏکڻ"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ڏکڻ ٽيهنڊي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:06:08.750243361Z",
+  "model": "glm-5.3"
+}

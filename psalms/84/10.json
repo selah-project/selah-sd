@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 84,
+  "translation": "اسان جو ڍال، ڏس، ايلوهيم، ۽ تنھنجي مشيح جو منھن ڀِٽ.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "اسان جي ڍال"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "۽ ڀِٽ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منھن"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "تنھنجي مشيح جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:43.649175870Z",
+  "model": "glm-5.3"
+}

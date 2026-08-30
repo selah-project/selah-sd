@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "اُس ۾، ڏينهن جي شام جي ويل، رات جي ڪاريائيءَ ۽ گهاٽي اونداهيءَ ۾،",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "اُس ۾"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "شام جي ويل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن جي"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "ڪاريائيءَ ۾"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات جي"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "۽ گهاٽي اونداهيءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:35.375222469Z",
+  "model": "glm-5.3"
+}

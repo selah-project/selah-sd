@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 52,
+  "translation": "۽ نيڪ ماڻھو ڏسندا ۽ ڊڄندا، ۽ ان تي کلندا.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "۽ ڏسندا"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نيڪ ماڻھو"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "۽ ڊڄندا"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "۽ ان تي"
+    },
+    {
+      "surface": "ישחקو",
+      "gloss": "کلندا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:25.569794518Z",
+  "model": "glm-5.3"
+}

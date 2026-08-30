@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ڇو ته اُهي تلوارن کان ڀڄي ويا، کڻيل تلوار کان، ڪمان ڇڪيل آهي ۽ جنگ جي ڳري کان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کان"
+    },
+    {
+      "surface": "חרبות",
+      "gloss": "تلوارن"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ڀڄي ويا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کان"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "کڻيل"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "۽ کان"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ڪمان"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "ڇڪيل آهي"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "۽ کان"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ڳري"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:51:45.857437577Z",
+  "model": "glm-5.3"
+}

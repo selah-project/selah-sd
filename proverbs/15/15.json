@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "غريب جا سڀ ڏينهن بڇڙا آھن، پر سٺي دل واري جو ته هميشه مھماني آھي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غريب جا"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بڇڙا"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "پر سٺي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل واري جو"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "مھماني"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هميشه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:55.755818054Z",
+  "model": "glm-5.3"
+}

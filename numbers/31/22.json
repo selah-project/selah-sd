@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "رڳو ⟨את⟩ سون ۽ ⟨את⟩ چاندي، ⟨את⟩ ٽامو، ⟨את⟩ لوھ، ⟨את⟩ رانگو ۽ ⟨את⟩ سيسو،",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سون"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "چاندي"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٽامو"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ٽامو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوھ"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "لوھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رانگو"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "رانگو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سيسو"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "سيسو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:45.328772768Z",
+  "model": "glm-5.3"
+}

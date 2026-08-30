@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ سيسرا کي ٻُڌايائون ته بارق، ابينوعم جو پٽ، تابور جبل تي چڙهي ويو آهي.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "ٻُڌايائون"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "سيسرا کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڙهي ويو آهي"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "بارق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "ابينوعم"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "تابور"
+    }
+  ],
+  "timestamp": "2026-08-30T10:58:58.592308172Z",
+  "model": "glm-5.3"
+}

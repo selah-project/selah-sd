@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "تنهنڪري ان جاءِ کي بئر-شبع سڏيو ويو، ڇو ته اُتي ٻئي قسم کنيو.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تنهن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سڏيو ويو"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "ان جاءِ کي"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-شبع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "قسم کنيو"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ٻئي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:31.608795384Z",
+  "model": "glm-5.3"
+}

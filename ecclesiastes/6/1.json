@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "اھڪ برائي آھي جا مون سج ھيٺ ڏٺي آھي، ۽ اھا ماڻھوءَ تي ڳري آھي.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "آھي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مون ڏٺي آھي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "۽ ڳري"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻھوءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:13.815327161Z",
+  "model": "glm-5.3"
+}

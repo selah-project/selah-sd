@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ائين نه آهي منهنجو ٻانهن موشي؛ سندس سڀ ڀيري ۾ مون جي گهر ۾ هو امين آهي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "منهنجو ٻانهن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ ڀيري"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "مون جي گهر"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "امين"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:38:52.975496060Z",
+  "model": "glm-5.3"
+}

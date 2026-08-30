@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "تون لاٺي سان مٿس هڻندو، ۽ سندس جيءُ کي شيول مان ڇڏائيندوءَ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "لاٺي سان"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "مٿس هڻندو"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "۽ سندس جيءُ کي"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "شيول مان"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ڇڏائيندوءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:21.628864898Z",
+  "model": "glm-5.3"
+}

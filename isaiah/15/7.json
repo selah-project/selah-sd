@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 15:7",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "تنهنڪري جيڪي ڀاڄ ڪيائين ۽ سندن ذخيرو، اهي وِيلَن جي نئي تائين کڻي ويندا.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تنهن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "יתרה",
+      "gloss": "ڀاڄ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيائين"
+    },
+    {
+      "surface": "ופקדתם",
+      "gloss": "۽ سندن ذخيرو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نئي"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "وِيلَن جي"
+    },
+    {
+      "surface": "ישאום",
+      "gloss": "اهي کڻي ويندا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:52:05.870057963Z",
+  "model": "glm-5.3"
+}

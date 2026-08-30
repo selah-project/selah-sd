@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "⟨את⟩ ٻن گاڏين ۽ ⟨את⟩ چئن ڍڳن کي گرشون جي پٽن کي ڏنو، سندن خدمت جي مطابق.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٻن گاڏين"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "گاڏين"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "چئن ڍڳن"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چئن"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ڍڳن"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "جي پٽن کي"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گرشون"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "مطابق"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "سندن خدمت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:30.036290291Z",
+  "model": "glm-5.3"
+}

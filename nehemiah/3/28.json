@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 3:28",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مٿان گهوڙن جي دروازي جي، ڪاهن پڪو ڪيو، هر هڪ سامهون پنهنجي گهر جي.",
+  "tokens": [
+    {
+      "surface": "מעל",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "گهوڙن جي"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "پڪو ڪيو"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر هڪ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "سامهون"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "پنهنجي گهر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:06:42.889855834Z",
+  "model": "glm-5.3"
+}

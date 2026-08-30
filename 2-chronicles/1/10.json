@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "هاڻي حڪمت ۽ ڄاڻ مون کي ڏي، ته جيئن مان هن قوم جي اڳيان نڪري ۽ اندر اچان، ڇوته منهنجي هن وڏي قوم جو فيصلو ڪير ڪندو؟",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "۽ ڄاڻ"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "ته نڪريان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "۽ اچان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "فيصلو ڪندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تنهنجي قوم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تنهنجي قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:25.338648264Z",
+  "model": "glm-5.3"
+}

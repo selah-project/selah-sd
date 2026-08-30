@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 77,
+  "translation": "مون پراڻين ڏينهنن تي غور ڪيو، اوڄڻ زمانن جي سالن تي.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "غور ڪيو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهنن"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "پراڻين"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "اوڄڻ زمانن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:35.741314869Z",
+  "model": "glm-5.3"
+}

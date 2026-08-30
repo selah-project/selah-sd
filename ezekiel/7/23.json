@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "زنجير ٺاهه، ڇو ته زمين رت جي فيصلن سان ڀري آهي ۽ شهر تشدد سان ڀريو آهي.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ٺاهه"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "زنجير"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ڀري آهي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فيصلن"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "رت جي"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "۽ شهر"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ڀريو آهي"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "تشدد"
+    }
+  ],
+  "timestamp": "2026-08-30T14:57:24.939247030Z",
+  "model": "glm-5.3"
+}

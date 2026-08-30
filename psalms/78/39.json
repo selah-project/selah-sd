@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 78,
+  "translation": "۽ ياد ڪيائين ته هو ⟨گوشت⟩ آهن — هڪ واءِ جيڪا وڃي ٿي ۽ موٽندي ⟨نه⟩.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "۽ ياد ڪيائين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "واءِ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "وڃي ٿي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "موٽندي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:03:23.095295255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ايٿن جو پُٽ، زمَّه جو پُٽ، شمعي جو پُٽ۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ايٿن"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زمَّه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:07.750414856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ڇوته ياهوه ⟨آھي⟩ نيڪ، نيڪيءَ کي پيار ڪري ٿو؛ سڌرا سندس منھن ڏسندا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "نيڪيءَ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پيار ڪري ٿو"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سڌرا"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ڏسندا"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "سندس منھن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:00:53.357503819Z",
+  "model": "glm-5.3"
+}

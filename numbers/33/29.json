@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 33:29",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ⟨هو⟩ مِتقہ کان روانا ٿيا، ۽ چشمونہ ۾ خيما کوٽيائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "ממתקה",
+      "gloss": "مِتقہ کان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيما کوٽيائون"
+    },
+    {
+      "surface": "בחשמנה",
+      "gloss": "چشمونہ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:07.069439268Z",
+  "model": "glm-5.3"
+}

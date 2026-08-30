@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "جڏھن تون پنھنجن دشمنن سان جنگ لاءِ ڪَئمپ مان نڪرندين، تڏھن تون سَڀ ڀلِي ڪم کان پاڻ کي بچائِج.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نڪرندين"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ڪَئمپ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سَڀ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "دشمنن سان"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "پاڻ کي بچائِج"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سَڀ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ڀلو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:00.479400656Z",
+  "model": "glm-5.3"
+}

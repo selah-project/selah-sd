@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 31:31",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ موشي ۽ ايلعازر كاهن ائين ڪيو، جهڙيءَ طرح ياهوه موشي کي ⟨את⟩ حڪم ڪيو هو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "۽ ايلعازر"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاهن"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جهڙيءَ طرح"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو هو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:16.479279391Z",
+  "model": "glm-5.3"
+}

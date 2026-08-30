@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "پر نوح ياهوه جي نظرن ۾ مهرباني لڌي.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "پر نوح"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "لڌي"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مهرباني"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "نظرن ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:46.750386513Z",
+  "model": "glm-5.3"
+}

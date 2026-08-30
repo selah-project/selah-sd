@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "اسان جي ھڪ ننڍي ڀيڻ آھي ۽ ان کي ٻوٺا ناھن؛ اسان پنھنجي ڀيڻ لاءِ ڇا ڪريون، ان جي ڏينھن جڏھن ان جو ذڪر ڪيو وڃي؟",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "ڀيڻ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان جي"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ننڍي"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "۽ ٻوٺا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناھن"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ڪريون"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "پنھنجي ڀيڻ لاءِ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان جي ڏينھن"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "جڏھن ذڪر ڪيو وڃي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:35.877180341Z",
+  "model": "glm-5.3"
+}

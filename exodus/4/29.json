@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "پوءِ موشي ۽ اهارون ويا، ۽ اُنھن بني يسرائيل جي سڀني پيرن کي گڏ ڪيو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "پوءِ ويا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "۽ اهارون"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "گڏ ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀني پيرن کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پيرن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T09:58:20.728204413Z",
+  "model": "glm-5.3"
+}

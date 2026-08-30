@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "پاڪ منوره تي ديوا ⟨את⟩ ترتيب ڏيندو رهي، ياهوه جي اڳيان هميشھه.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "منوره"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ترتيب ڏيندو رهي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ديوا"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "ديوا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هميشھه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:00.579712328Z",
+  "model": "glm-5.3"
+}

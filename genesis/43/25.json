@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "۽ انهن ⟨את⟩ تحفي کي تيار ڪيو يوسف جي اچڻ تائين ڏينهن جي وچ ۾، ڇوته انهن ٻُڌو ته اُتي هو ماني کائندا.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "تيار ڪيائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تحفي"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "تحفي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "اچڻ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "ڏينهن جي وچ ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻُڌائون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "יאכלو",
+      "gloss": "کائندا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:24.389011406Z",
+  "model": "glm-5.3"
+}

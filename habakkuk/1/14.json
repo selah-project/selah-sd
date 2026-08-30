@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ماڻهن کي سمنڊ جين مڇين جهڙو، رينگڻ وارن جهڙو ڪري ٿو، جن تي ڪوبه حاڪم ناهي.",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "۽ ڪري ٿو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهن کي"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "مڇين جهڙو"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ جين"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "رينگڻ وارن جهڙو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "משל",
+      "gloss": "حاڪم"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان تي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:53:19.704724475Z",
+  "model": "glm-5.3"
+}

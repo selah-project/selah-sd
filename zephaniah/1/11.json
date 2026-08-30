@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 1:11",
+  "book": "zephaniah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ٻڏاٽيءَ جي ويٺلن، واڪ ڪريو، ڇوته ڪنعان جو سڀ قوم ختم ٿي ويو، چاندي کنڻدار سڀ ڪاٽا ويا آهن.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "واڪ ڪريو"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ويٺلن"
+    },
+    {
+      "surface": "המכתש",
+      "gloss": "ٻڏاٽيءَ جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ختم ٿي ويو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان جو"
+    },
+    {
+      "surface": "נכרתו",
+      "gloss": "ڪاٽا ويا آهن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "נטילי",
+      "gloss": "کنڻدار"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:52.144310923Z",
+  "model": "glm-5.3"
+}

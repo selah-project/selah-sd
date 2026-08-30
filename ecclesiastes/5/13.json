@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ اُهو مال غلط ڏکن ۾ تباهه ٿي ويندو آهي، ۽ ⟨اُهو⟩ پُٽ ڄڻيندو آهي پر سندس هٿ ۾ ڪوبه شيءِ نه هوندي.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "۽ تباهه ٿي ويندو آهي"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "اهو مال"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "ڏکن ۾"
+    },
+    {
+      "surface": "רע",
+      "gloss": "غلط"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "۽ پُٽ ڄڻيندو آهي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "پر نه هوندي"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "سندس هٿ ۾"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ڪوبه شيءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:15.601620814Z",
+  "model": "glm-5.3"
+}

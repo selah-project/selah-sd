@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 15:28",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ جيڪڏهن اُھا پنھنجي وهڪ کان پاڪ ٿئي، تہ پاڻ لاءِ ست ڏينھن ڳڻي، ۽ پوءِ پاڪ ٿيندي۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاڪ ٿئي"
+    },
+    {
+      "surface": "מזובה",
+      "gloss": "پنھنجي وهڪ کان"
+    },
+    {
+      "surface": "וספרה",
+      "gloss": "۽ ڳڻي"
+    },
+    {
+      "surface": "לה",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "ו אחר",
+      "gloss": "۽ پوءِ"
+    },
+    {
+      "surface": "תטהר",
+      "gloss": "پاڪ ٿيندي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:31.922205233Z",
+  "model": "glm-5.3"
+}

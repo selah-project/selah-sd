@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 4:10",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ م چيو: اها! ادوناي ياهوه، بيشڪ تو هي ماڻهن ۽ يروشلم کي مڪمل WAYL ڪيو، چوندا ته ”تو ۾ سلامتي هوندي“، ۽ تلوار جان تائين پهچي وئي آهي.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "۽ م چيو"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "اها!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "השא",
+      "gloss": "WAYL"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "مڪمل WAYL ڪيو"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ماڻهن کي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "۽ يروشلم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندا ته"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تو ۾"
+    },
+    {
+      "surface": "ונגעה",
+      "gloss": "۽ پهچي وئي آهي"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:07:45.266807667Z",
+  "model": "glm-5.3"
+}

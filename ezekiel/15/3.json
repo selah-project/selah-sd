@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 15:3",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ڇا ان مان ڪاٺ وٺبي آھي ڪو ڪم ڪرڻ لاءِ؟ ڇا ان مان ڪيل وٺندا، جنهن تي ڪو به برتن ٽنگجي؟",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "ڇا وٺبي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ان مان"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ڪاٺ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "وٺندا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ان مان"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "ڪيل"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "ٽنگڻ لاءِ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "جنهن تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪو به"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:30:32.707095334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ موشي ⟨את⟩ قوم کي ان ڏينهن حڪم ڪيو، چوڻ ته:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم کي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينهن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:36.377246077Z",
+  "model": "glm-5.3"
+}

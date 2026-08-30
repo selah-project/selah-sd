@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 13:36",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ته ڪوهن مٿس ڏسي، ۽ ڏسو، خارش چم ۾ پکڙجي ٿي، ته ڪوهن پيل وارَن لاءِ نه ڏسي؛ هو اڻپاڪ آهي.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "مٿس ڏسي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوهن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پکڙجي ٿي"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "خارش"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چم ۾"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "ڏسي (جانچي)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوهن"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "ورَن لاءِ"
+    },
+    {
+      "surface": "הצהב",
+      "gloss": "پيل"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "اڻپاڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:29.352120736Z",
+  "model": "glm-5.3"
+}

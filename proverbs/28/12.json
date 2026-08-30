@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "جڏھن نيڪ ماڻھو خوش ٿين ٿا ته وڏي شان آهي، پر جڏھن bad ماڻھن اُٿن ٿا ته ماڻھو لڪي وڃن ٿا.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "جڏھن خوش ٿين ٿا"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نيڪ ماڻھو"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "شان"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "پر جڏھن اُٿن ٿا"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bad ماڻھن"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "لڪي وڃن ٿا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:16.160924310Z",
+  "model": "glm-5.3"
+}

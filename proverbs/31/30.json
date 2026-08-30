@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "ڇلڪو ٺڳي آھي ۽ حسن اُڌرو آھي؛ پر اھا زال جيڪا ياهوه کان ڊَهي ٿي، اُھا ئي ساراھجندي آھي.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ٺڳي آھي"
+    },
+    {
+      "surface": "החן",
+      "gloss": "ڇلڪو"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "۽ اُڌرو"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "حسن"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ڊَهي ٿي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اُھا ئي"
+    },
+    {
+      "surface": "תתהلל",
+      "gloss": "ساراھجندي آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:39.439087321Z",
+  "model": "glm-5.3"
+}

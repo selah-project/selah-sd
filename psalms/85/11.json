@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 85,
+  "translation": "خيسيد ۽ سچ هڪٻئي سان مليا، انصاف ۽ شلوم هڪٻئي کي چُميو.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "۽ سچ"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "مليا"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "۽ شلوم"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "چُميو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:40.164569854Z",
+  "model": "glm-5.3"
+}

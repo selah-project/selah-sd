@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ حام — ڪنعان جو پيءُ — پنهنجي پيءُ جي nudity ڏٺي ۽ ٻاهر پنهنجن ٻن ڀائرن کي ٻڌايائين؛",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏٺائين"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جو پيءُ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجي پيءُ جي nudity"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nudity"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پنهنجي پيءُ جي"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "۽ ٻڌايائين"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "کي ٻن"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "پنهنجن ڀائرن"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ٻاهر"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:32.311031198Z",
+  "model": "glm-5.3"
+}

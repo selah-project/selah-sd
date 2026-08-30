@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ تون قيدين ۾ سهڻي صورت واريءَ هڪڙي زالَ کي ڏسندين، ۽ کيس چاهيندُين، ۽ پاڻ لاءِ زال ڪري وٺندُين،",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "۽ تون ڏسندين"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "قيدين ۾"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "سهڻي"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "صورت واريءَ"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "۽ چاهيندُين"
+    },
+    {
+      "surface": "בה",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "۽ وٺندُين"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زال ڪري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:37.506127587Z",
+  "model": "glm-5.3"
+}

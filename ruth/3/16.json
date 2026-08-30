@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ هوءَ پنهنجي سسّ وٽ آئي، ۽ سسّ چيو: “ڪير آهين، ننهن؟” ۽ هن کيس ٻڌايو ⟨את⟩ سڀ جيڪو مڙسُ هن لاءِ ڪيو هو.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "۽ آئي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "پنهنجي سسّ"
+    },
+    {
+      "surface": "وتאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "את",
+      "gloss": "آهين"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ننهن"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "۽ ٻڌايو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو هو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "هن لاءِ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مڙسُ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:21.430723592Z",
+  "model": "glm-5.3"
+}

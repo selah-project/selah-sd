@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "آسمان اوچائي لاءِ ۽ زمين اَڇائي لاءِ، ۽ بادشاهن جي دل جي ڪا ڇانءِ ناهي.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "اوچائي لاءِ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "۽ زمين"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "اَڇائي لاءِ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "۽ دل"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاهن جي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ڪا ڇانءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:43.229101902Z",
+  "model": "glm-5.3"
+}

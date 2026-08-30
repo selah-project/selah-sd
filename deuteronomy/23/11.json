@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "جيڪڏھن تنھنجي ۾ ڪو ماڻھو هجي جيڪو رات جي حادثي کان پاڪ نه هجي، ته اُهو ڪَئمپ کان ٻاهر نڪري؛ اُهو ڪَئمپ جي وچ ۾ داخل نه ٿيندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تنھنجي ۾"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "حادثي کان"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات جي"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "نڪري"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ڪَئمپ کان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "داخل ٿيندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وچ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ڪَئمپ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:00.479577090Z",
+  "model": "glm-5.3"
+}

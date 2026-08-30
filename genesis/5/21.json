@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ حنوخ پنج ۽ سٺ سال جيئر رهيو، ۽ پٽ ڄاريو ⟨את⟩ متوشلخ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جيئر رهيو"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حنوخ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "۽ سٺ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "۽ پٽ ڄاريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "متوشلخ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "متوشلخ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:04.750982078Z",
+  "model": "glm-5.3"
+}

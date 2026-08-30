@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 1:11",
+  "book": "haggai",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ مان زمين تي سڪلائي سڏي، ۽ جبلن تي، ۽ اناج تي، ۽ نئين شراب تي، ۽ تيل تي، ۽ ان تي جيڪو مٽي ڪڍي ٿي، ۽ ماڻهن تي، ۽ چوپاين تي، ۽ سڀ هٿن جي محنت تي.",
+  "tokens": [
+    {
+      "surface": "ואקרא",
+      "gloss": "۽ مان سڏيو"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سڪلائي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "جبلن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "اناج"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "نئين شراب"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "تيل"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ڪڍي ٿي"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "مٽي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "چوپاين"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "هٿن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:27.470530556Z",
+  "model": "glm-5.3"
+}

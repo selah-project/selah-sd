@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ مشوباب، ۽ ياملِڪ، ۽ يوشاه بن امَتسياہ،",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "۽ مشوباب"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "۽ ياملِڪ"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "۽ يوشاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "امَتسياہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:21.729025081Z",
+  "model": "glm-5.3"
+}

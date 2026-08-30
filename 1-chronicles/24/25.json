@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ميخا جو ڀاءُ يِشِّياه؛ يِشِّياه جي پٽن مان زَڪَرياهُو۔",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ڀاءُ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ميخا"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "يِشِّياه"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن مان"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "يِشِّياه"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "زَڪَرياهُو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:03.562930011Z",
+  "model": "glm-5.3"
+}

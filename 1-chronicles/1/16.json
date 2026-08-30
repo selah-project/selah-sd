@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ⟨את⟩ ارواديءَ کي ۽ ⟨את⟩ صمريءَ کي ۽ ⟨את⟩ حماٺيءَ کي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "اروادي"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "اروادي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "صمري"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "صمري"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حماٺي"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "حماٺي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:37.422271378Z",
+  "model": "glm-5.3"
+}

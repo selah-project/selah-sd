@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "شيول ۽ بند رحم، زمين جيڪا پاڻيءَ سان سيراب نه ٿيندي، ۽ باهه جيڪا نه چوندي: ”بس“.",
+  "tokens": [
+    {
+      "surface": "שאוע",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "۽ بند"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رحم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سيراب ٿيندي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ سان"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "۽ باهه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "چوندي"
+    },
+    {
+      "surface": "הון",
+      "gloss": "بس (ڪافي)"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:13.718689476Z",
+  "model": "glm-5.3"
+}

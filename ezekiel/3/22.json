@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 3:22",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ اتي مون تي ياهوه جو ھٿ ھيو، ۽ مون سان چيائين: اُٿ، نڪر واديءَ ۾، ۽ اتي آءٌ ⟨את⟩ تو سان ڳالھائيندس.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "۽ ھيو"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ھٿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "קום",
+      "gloss": "اُٿ"
+    },
+    {
+      "surface": "צא",
+      "gloss": "نڪر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "واديءَ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ اتي"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "آءٌ ڳالھائيندس"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ تو سان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:27:06.437514143Z",
+  "model": "glm-5.3"
+}

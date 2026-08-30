@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 3:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "اها لعلن کان قيمتي ⟨آهي⟩، ۽ تنهنجيون سڀ مرادون سندس برابر نه ٿين.",
+  "tokens": [
+    {
+      "surface": "יקרה",
+      "gloss": "قيمتي"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "מפניים",
+      "gloss": "لعلن"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "חפציך",
+      "gloss": "تنهنجيون مرادون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "برابر ٿين"
+    },
+    {
+      "surface": "בה",
+      "gloss": "سندس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:00.859242985Z",
+  "model": "glm-5.3"
+}

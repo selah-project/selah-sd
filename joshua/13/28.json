@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 13:28",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ھي ئي گد جي پٽن جو ورثو آھي، سندن خاندانن لاءِ — شهر ۽ سندن ڳوٺ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ورثو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گد جي"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "سندن خاندانن لاءِ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "וחצריהם",
+      "gloss": "۽ سندن ڳوٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:00.375413864Z",
+  "model": "glm-5.3"
+}

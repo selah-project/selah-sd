@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ياهوه يهورام جي against پلشتين جي ۽ عربين جي، جيڪي ڪوشين جي ڀرسار هئا، ⟨את⟩ روح کي اُٿايو.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "۽ اُٿايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "خلاف"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "يهورام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روح کي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "پلشتين جي"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "۽ عربين جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڀرسار"
+    },
+    {
+      "surface": "יד",
+      "gloss": "پاس"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "ڪوشين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:26:39.908617455Z",
+  "model": "glm-5.3"
+}

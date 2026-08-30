@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڊگهيون ڏينهن سندس ساڄي هٿ ۾ ⟨آهن⟩؛ سندس کاٻي هٿ ۾ دولت ۽ عزت.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ڊگهيون"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "سندس ساڄي هٽ ۾"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "سندس کاٻي هٿ ۾"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "۽ عزت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:00.859371713Z",
+  "model": "glm-5.3"
+}

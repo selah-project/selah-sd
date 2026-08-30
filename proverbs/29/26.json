@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "گهڻا حاڪم جو منهن ڳولين ٿا، پر هر ⟨ماڻهوءَ جو⟩ فيصلو ياهوه ⟨کان⟩ آهي.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "گهڻا"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ڳولين ٿا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "حاڪم"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "پر ياهوه کان"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فيصلو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر ماڻهوءَ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:44.966993830Z",
+  "model": "glm-5.3"
+}

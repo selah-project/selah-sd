@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ سندس ڀاءُ جو نالو يوبال ⟨هو⟩؛ اھو سڀني ڪنار ۽ نغارو وڄائڻ وارن جو پيءُ ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "سندس ڀاءُ"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "يوبال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جو پيءُ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "وڄائڻ وارن"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "ڪنار"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "۽ نغارو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:16.775082177Z",
+  "model": "glm-5.3"
+}

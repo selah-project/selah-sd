@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ڀرسار جو ايلوهيم ⟨آهيان⟩ مان، ياهوه جو فرمودو، ۽ پري جو ايلوهيم نه؟",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "جو ايلوهيم"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ڀرسار"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان ⟨آهيان⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمودو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "جو ايلوهيم"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "پري"
+    }
+  ],
+  "timestamp": "2026-08-30T12:14:45.383350629Z",
+  "model": "glm-5.3"
+}

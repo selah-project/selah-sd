@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 26:22",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "اھي يھودا جا خاندان ھئا، انھن جي ڳڻپ موجب: چوٺھا ۽ ستر ھزار ۽ پنج سؤ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يھودا"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "انھن جي ڳڻپ موجب"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "۽ ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:51.878326343Z",
+  "model": "glm-5.3"
+}

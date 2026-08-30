@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ اُهي شھر جا پوڙها اُهو ⟨את⟩ مائو کي وٺندا ۽ کيس سزا ڏيندا؛",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "۽ وٺندا"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پوڙها"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شھر جا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُهي"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨את⟩ مائو کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مائو"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "۽ سزا ڏيندا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ کيس"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:56.198541904Z",
+  "model": "glm-5.3"
+}

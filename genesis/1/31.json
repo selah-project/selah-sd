@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ايلوهيم ⟨את⟩ سڀ ڏٺو جيڪو هن ڪيو هو، ۽ ڏسو، سٺو تمام؛ ۽ شام ٿي ۽ صبح ٿي، ڇهين ڏينهن.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏٺو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو هو"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "سٺو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ڇهين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:10.057221569Z",
+  "model": "glm-5.3"
+}

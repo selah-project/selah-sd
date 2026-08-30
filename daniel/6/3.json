@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 6:3",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ انهن مٿان ٽي سردار، جن مان دانييل پهريون هو، ته اهي حاڪم انهن کي حساب ڏين ۽ بادشاهه کي ڪو نقصان نه ٿئي.",
+  "tokens": [
+    {
+      "surface": "ועלא",
+      "gloss": "۽ مٿان"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "انهن"
+    },
+    {
+      "surface": "סרכין",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "די",
+      "gloss": "جن"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانييل"
+    },
+    {
+      "surface": "חד",
+      "gloss": "پهريون"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "مان"
+    },
+    {
+      "surface": "די",
+      "gloss": "ته"
+    },
+    {
+      "surface": "להון",
+      "gloss": "هجن"
+    },
+    {
+      "surface": "אחשדרפניא",
+      "gloss": "حاڪم"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "יהבין",
+      "gloss": "ڏين"
+    },
+    {
+      "surface": "להון",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "حساب"
+    },
+    {
+      "surface": "ומלכא",
+      "gloss": "۽ بادشاهه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "ٿئي"
+    },
+    {
+      "surface": "נזק",
+      "gloss": "نقصان"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:49.455125286Z",
+  "model": "glm-5.3"
+}

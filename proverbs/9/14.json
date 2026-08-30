@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ⟨اھا⟩ پنھنجي گھر جي دروازي تي ويٺي آھي، شھر جي مٿاهين جاءِ تي تخت تي.",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "۽ ويٺي آھي"
+    },
+    {
+      "surface": "לפתچ",
+      "gloss": "دروازي تي"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "پنھنجي گھر جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "مٿاهين جاءِ تي"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شھر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:03.607155568Z",
+  "model": "glm-5.3"
+}

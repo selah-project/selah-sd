@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 128,
+  "translation": "۽ تون پنھنجن پٽن جا پٽ ڏسين؛ اسرائيل تي ⟨هجي⟩ سلامتي.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏسين"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "پنھنجن پٽن جا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:06.951047585Z",
+  "model": "glm-5.3"
+}

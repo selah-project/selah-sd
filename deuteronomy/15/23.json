@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "رڳو ⟨את⟩ ان جو رت نه کائجي؛ زمين تي ان کي پاڻيءَ جهڙو وهنجائي ڇڏيجي.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان جو رت"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ان جو رت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کائجي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ان کي وهنجائي ڇڏيجي"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "پاڻيءَ جهڙو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:37.460162795Z",
+  "model": "glm-5.3"
+}

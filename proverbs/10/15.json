@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "امير جو مال سندس مضبوط شهر آھي، غريب ماڻھن جي بربادي سندن ڏکويلي آھي.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "امير جو"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "سندس مضبوط"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "بربادي"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "غريب ماڻھن جي"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "سندن ڏکويلي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:29.447518672Z",
+  "model": "glm-5.3"
+}

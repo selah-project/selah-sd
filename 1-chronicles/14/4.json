@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 14:4",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ اھي ان جا يروشلم ۾ ڄاول ٻارن جا نالا ھئا: شموع، ۽ شوباب، ناتان، ۽ شلومو.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نالا"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "ڄاول ٻارن جا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ھئا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان جا"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "شموع"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "۽ شوباب"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "۽ شلومو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:40.817644597Z",
+  "model": "glm-5.3"
+}

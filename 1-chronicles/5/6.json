@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 5:6",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "بيرعا سندس پٽ، جنهن کي تلغت پلنسر، آشور جي بادشاهه، جلاوطن ڪيو؛ ⟨هو⟩ رائوبينين جو سردار هو.",
+  "tokens": [
+    {
+      "surface": "בארה",
+      "gloss": "بيرعا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن کي"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "جلاوطن ڪيو"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "تلغت"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "پلنسر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "رائوبينين جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:55.641745675Z",
+  "model": "glm-5.3"
+}

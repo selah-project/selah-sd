@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "ته حزقياوه پنهنجو منهن ديوار ڏانهن موڙيو، ۽ ياهوه کي دعا ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "۽ موڙيو"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقياوه"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "پنهنجو منهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ديوار"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "۽ دعا ڪيائين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:57:17.709131382Z",
+  "model": "glm-5.3"
+}

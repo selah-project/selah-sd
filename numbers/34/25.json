@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 34:25",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ زبولُن جي پُٽن جي قبيلي لاءِ ناسي (سردار) اليصپان پَرناڪ جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "قبيلي لاءِ ۽"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن جي"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولُن"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ناسي (سردار)"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "اليصپان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "פרנך",
+      "gloss": "پَرناڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:49.013615430Z",
+  "model": "glm-5.3"
+}

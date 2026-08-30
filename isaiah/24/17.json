@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڏڍ ۽ کڏ ۽ ڄار تنهنجي مٿان آهن، اي زمين جو رهواسي.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ڏڍ"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "۽ کڏ"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "۽ ڄار"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تنهنجي مٿان"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "رهواسي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:53:49.689756927Z",
+  "model": "glm-5.3"
+}

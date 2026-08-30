@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "يساكر قبيلي لاءِ يغال بن يوسف.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي لاءِ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "يساكر"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "يغال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:31.099216042Z",
+  "model": "glm-5.3"
+}

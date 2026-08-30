@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "مورک جو غصو ساڳئي ڏينهن معلوم ٿي پوي ٿو، پر هوشيار بي عزتيءَ کي ڍڪي ٿو.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "مورک جو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ساڳئي ڏينهن"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "معلوم ٿي پوي ٿو"
+    },
+    {
+      "surface": "כעסو",
+      "gloss": "غصو"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "ڍڪي ٿو"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "بي عزتيءَ کي"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "هوشيار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:11.680783939Z",
+  "model": "glm-5.3"
+}

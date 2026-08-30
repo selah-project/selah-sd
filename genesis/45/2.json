@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "۽ هن ⟨את⟩ پنهنجي آواز کي روئڻ ۾ ڏنو، ۽ متصرايم ٻُڌو، ۽ فرعون جي گهر ٻُڌو.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏنائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجي آواز کي"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "پنهنجي آواز"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "روئڻ ۾"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "۽ ٻُڌو"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متصرايم"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "۽ ٻُڌو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:33.366647335Z",
+  "model": "glm-5.3"
+}

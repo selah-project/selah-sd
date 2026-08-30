@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ نحشون ⟨את⟩ شلما کي پيدا ڪيو، ۽ شلما ⟨את⟩ بوعز کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "۽ نحشون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلما"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "شلما"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "۽ شلما"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوعز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوعز"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:49.311312418Z",
+  "model": "glm-5.3"
+}

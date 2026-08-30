@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 25:26",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "نون-هجھم (19) لہ مَلّوتي، ھو، سندس پُٽَ ۽ سندس ڀائر — ٻارهن (12)؛",
+  "tokens": [
+    {
+      "surface": "לתשעה",
+      "gloss": "نون-هجھم لہ (19)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "למלותי",
+      "gloss": "مَلّوتي"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پُٽَ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "۽ سندس ڀائر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻارهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "–"
+    }
+  ],
+  "timestamp": "2026-08-30T15:11:29.782329669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "ٽَڪرُ چانديءَ لاءِ ۽ بھاء سون لاءِ، ۽ دليون پرکڻ وارو ياهوه آھي.",
+  "tokens": [
+    {
+      "surface": "مצרף",
+      "gloss": "ٽَڪرُ"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "چانديءَ لاءِ"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "۽ بھاء"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "سون لاءِ"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "۽ پرکڻ وارو"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "دليون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:41.148869053Z",
+  "model": "glm-5.3"
+}

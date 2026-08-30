@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ مِصر جي ڪيمپ ۽ اِسرائيل جي ڪيمپ جي وچ ۾ آيو، ۽ ڪڪر ۽ اونداهي ٿي، ۽ رات کي روشن ڪيائين ⟨את⟩؛ ۽ هي پاڻ ۾ سڄي رات نه ويڙهايا.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "۽ آيو"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ڪيمپ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِصر جي"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ وچ ۾"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ڪيمپ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائيل جي"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ڪڪر"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "۽ اونداهي"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "۽ روشن ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رات"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ويڙهايا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پاڻ ۾"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "رات"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:50.339684179Z",
+  "model": "glm-5.3"
+}

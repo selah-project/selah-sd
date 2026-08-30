@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 114,
+  "translation": "ادوناي جي اڳيان، اي زمين، ڏَرِي وڃ؛ يعقوب جي ايلوه جي اڳيان!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ڏَرِي وڃ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "اي زمين"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ايلوه"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:07.729007548Z",
+  "model": "glm-5.3"
+}

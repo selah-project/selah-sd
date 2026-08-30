@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 23:3",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ ساري ڪٺ ۾ ايلوهيم جي گھر ۾ بادشاھ سان عهد ڪيو، ۽ چيائين تنھن کي: ڏسو، بادشاھ جو پٽ راڄ ڪندو، جيئن ياهوه داويد جي پٽن بابت چيو آھي.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "۽ عهد ڪيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ڪٺ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عهد"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر ۾"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم جي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "להם",
+      "gloss": "تنھن کي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ جو"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "راج ڪندو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:26:18.422410905Z",
+  "model": "glm-5.3"
+}

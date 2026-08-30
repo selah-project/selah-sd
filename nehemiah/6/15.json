@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 6:15",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ديوار ايلول جي مھيني جي پنجويھين ڏينهن پوري ٿي، بنجاھ ڏينهن ۾.",
+  "tokens": [
+    {
+      "surface": "ותשלם",
+      "gloss": "۽ پوري ٿي"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ديوار"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "ويھين"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "לאלול",
+      "gloss": "ايلول ۾"
+    },
+    {
+      "surface": "לחמשים",
+      "gloss": "پنجاھ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻن"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:06:46.306413869Z",
+  "model": "glm-5.3"
+}

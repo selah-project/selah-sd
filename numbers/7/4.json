@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ياهوه موشي ڏانھن فرمائڻ ڪيو تہ چئجي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ فرمائڻ ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "تہ چئجي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:11.439554830Z",
+  "model": "glm-5.3"
+}

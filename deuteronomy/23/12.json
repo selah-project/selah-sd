@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ پوءِ جڏھن شام پوڻ ۾ اچي، ته اُهو پاڻي سان ڌُوئي، ۽ سج لَھڻ تي اُهو ڪَئمپ جي وچ ۾ موٽي ايندو.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ پوءِ ٿيندو"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "پوڻ ۾ اچي"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ڌُوئي"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻي سان"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "۽ لَھڻ تي"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ايندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وچ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ڪَئمپ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:00.479748844Z",
+  "model": "glm-5.3"
+}

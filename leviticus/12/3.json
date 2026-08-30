@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ اٺين ڏينھن سندس اڻ-ختني چم ختنو ڪيو ويندي.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "۽ ڏينھن"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اٺين"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ختنو ڪيو ويندي"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "چم (گوشت)"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "سندس اڻ-ختني"
+    }
+  ],
+  "timestamp": "2026-08-30T10:15:25.284690016Z",
+  "model": "glm-5.3"
+}

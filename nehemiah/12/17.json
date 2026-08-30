@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 12:17",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ابياه جي زڪري؛ منيامين جي، موعديا جي پلطائي؛",
+  "tokens": [
+    {
+      "surface": "לאביה",
+      "gloss": "ابياه جي"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زڪري"
+    },
+    {
+      "surface": "למנימין",
+      "gloss": "منيامين جي"
+    },
+    {
+      "surface": "למועדיה",
+      "gloss": "موعديا جي"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "پلطائي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:29.959386873Z",
+  "model": "glm-5.3"
+}

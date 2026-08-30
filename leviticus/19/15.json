@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "انصاف ۾ زيادي نه ڪريو؛ غريب جو چهره نه کڻو ۽ وڏي جو چهره نه سڱاريو؛ پنهنجي همپيشي سان انصاف ڪريو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ڪريو"
+    },
+    {
+      "surface": "עול",
+      "gloss": "زيادي"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "انصاف ۾"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "کڻو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چهره"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غريب جو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "سڱاريو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چهره"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏي جو"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "انصاف سان"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "فيصلو ڪريو"
+    },
+    {
+      "surface": "عמיתך",
+      "gloss": "پنهنجي همپيشي سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:01.062078614Z",
+  "model": "glm-5.3"
+}

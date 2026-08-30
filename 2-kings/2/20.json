@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ هن چيو: مون لاءِ هڪ نئين صرحي وٺو ۽ ان ۾ لوڻ وجهو؛ تڏهن انهن وٽس وٺي آندو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ هن چيو"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "وٺو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "صرحي"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "نئين"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "۽ وجهو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "لوڻ"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "تڏهن انهن وٺي آندو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "وٽس"
+    }
+  ],
+  "timestamp": "2026-08-30T11:37:40.507329972Z",
+  "model": "glm-5.3"
+}

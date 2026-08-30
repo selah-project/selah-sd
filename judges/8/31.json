@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 8:31",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ سندس ھڪُ پيلگش، جا شڪم ۾ ھئي، تنھن کيس پڻ ھڪ پُٽ ڄڻيو، ۽ ھن سندس نالو ابيملڪ رکيو ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "۽ سندس پيلگش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "شڪم ۾"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ھن (پاڻ)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "۽ رکيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس نالو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالو"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ابيملڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:00:21.331270819Z",
+  "model": "glm-5.3"
+}

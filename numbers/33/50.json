@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ياهوه موآب جي ميدانن ۾، يردن جي ڀرسارڙيءَ ۾ يريحو جي هنڌ، موشي سان ڳالهايو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالهايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "ميدانن ۾"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڀرسارڙيءَ ۾"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "يردن"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "يريحو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:17.057949194Z",
+  "model": "glm-5.3"
+}

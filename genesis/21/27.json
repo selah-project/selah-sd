@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 21:27",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ابراهام رڍون ۽ ڍڳيون کنيون ۽ ابيمليخ کي ڏنيون، ۽ ٻئي پاڻ ۾ عهد ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "کنيون"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "رڍون"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "۽ ڍڳيون"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ڏنيون"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "ابيمليخ کي"
+    },
+    {
+      "surface": "ויכרתו",
+      "gloss": "عهد ڪيو"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عهد"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:15.566615303Z",
+  "model": "glm-5.3"
+}

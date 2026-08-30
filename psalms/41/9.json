@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "بليعل جو لفظ مون تي ڍرڪيو ويو آهي، ۽ جيڪو ليٽيو ٿو، اهو وڌيڪ اٿڻ نه ٿو.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بليعل جو"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ڍرڪيو ويو آهي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "۽ جيڪو"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ليٽيو ٿو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "اٿڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:49.634605744Z",
+  "model": "glm-5.3"
+}

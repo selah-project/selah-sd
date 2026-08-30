@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ڪا ڳالهه آهي، جو چيو وڃي ته “ڏس، هي نئون آهي؟” اها اڳ ۾ ئي، قديم زمانن ۾، جيڪي اسان کان اڳ هئا، ٿي چڪي آهي.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڪا ڳالهه"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "جو چيو وڃي"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نئون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "اڳ ۾ ئي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿي چڪي آهي"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "قديم زمانن ۾"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "اسان کان اڳ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:47.273619346Z",
+  "model": "glm-5.3"
+}

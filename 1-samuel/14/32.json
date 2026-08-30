@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 14:32",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ماڻھو لٽ تي ڪڙڪي پيا، ۽ رڍون ۽ ڳئون ۽ ڳئون جا پل کڻي، زمين تي ذبح ڪيائون؛ ۽ ماڻھن رت سان گڏ کاڌو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ڪڙڪي پيا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "لٽ"
+    },
+    {
+      "surface": "ויקחو",
+      "gloss": "کڻي"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "رڍون"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "۽ ڳئون"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پل"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڳئون"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "ذبح ڪيائون"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمين تي"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "کاڌو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "על",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت"
+    }
+  ],
+  "timestamp": "2026-08-30T11:10:28.091128430Z",
+  "model": "glm-5.3"
+}

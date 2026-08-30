@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "بيبائي جي پٽن جو، ڇھه سؤ ويھ ۽ ٽي.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "بيبائي"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "۽ ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:47.438841472Z",
+  "model": "glm-5.3"
+}

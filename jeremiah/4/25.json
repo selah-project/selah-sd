@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "مون ڏٺو، ۽ ڏسو، ڪوبه ماڻهو ⟨نہ⟩ ھو، ۽ آسمانن جا سڀ پکي اُڏامي ويا.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "مون ڏٺو"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ڪوبه ⟨نہ⟩ ھو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "پکي"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن جا"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "اُڏامي ويا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:08:08.919642329Z",
+  "model": "glm-5.3"
+}

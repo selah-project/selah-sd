@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ س Morgen العرببة جي س hal شامل آهي — عربہ جو س sea، 피سگه جي Dھينن هيٺان، Jردن جي اڀرندي پار تي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ س Morg"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "عربہ (ميدان)"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "پار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ياردن"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "اوڀر ڏي"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ تائين"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "عربہ جو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺان"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "لهڻن (ڍinclination)"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "فسگه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:07.578269695Z",
+  "model": "glm-5.3"
+}

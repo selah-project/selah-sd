@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ صقلگ ۽ بيت-همركبوت ۽ حصر-سوسه،",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "صقلگ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ بيت"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "همركبوت"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "۽ حصر"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "سوسه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:27.402303080Z",
+  "model": "glm-5.3"
+}

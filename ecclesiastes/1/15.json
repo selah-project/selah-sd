@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "جيڪو ڦيريل آهي ان کي سِيدهو نه ٿي سگهجي، ۽ جيڪو گهٽيل آهي ان کي ڳڻپ نه ٿي سگهجي.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "جيڪو ڦيريل آهي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ٿي سگهجي"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "سِيدهو ڪرڻ"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "۽ جيڪو گهٽيل آهي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ٿي سگهجي"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ڳڻپ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:16.085925220Z",
+  "model": "glm-5.3"
+}

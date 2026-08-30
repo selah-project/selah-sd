@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ ياهوه بادل ۾ لاٿ، ۽ اُتي موشيءَ سان گڏ اُڀي بيٺو، ۽ ياهوه جي نالي ۾ پڪاريو.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "لاٿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "بادل ۾"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "اُڀي بيٺو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس سان گڏ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ پڪاريو"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "جي نالي ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:09:16.076765765Z",
+  "model": "glm-5.3"
+}

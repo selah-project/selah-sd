@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 14:13",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ⟨את⟩ سڀ شھر، جي گيرار جي چوڌاري ھئا، ماريا؛ ڇوته انهن تي ياهوه جو ڊپ هو، ۽ ⟨את⟩ سڀ شھر لُٽيا، ڇوته انهن ۾ لُٽ جو مال گھڻو هو.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ماريا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ شھر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شھر"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "گیرار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ڊپ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "انهن تي"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "۽ لُٽيا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ شھر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شھر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "لُٽ جو مال"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "گھڻو"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انهن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:16.517458061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 20:22",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ اهي قادش کان روانا ٿيا، ۽ يسرائيل جي پٽن، ساري ڀائيڪار جي، هور جبل تي اچڻ ٿيو.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "قادش کان"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "اچڻ ٿيو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل جي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ڀائيڪار"
+    },
+    {
+      "surface": "הר",
+      "gloss": "هور"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:29:42.288475224Z",
+  "model": "glm-5.3"
+}

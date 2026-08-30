@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "پر تون کول کول ⟨את⟩ پنھنجو ھٿ کيس کولينس، ۽ قرض ڏيندو ڏينسانس، تنھنجي کوٽ جيترو، جيڪا کيس کوٽ آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "کول کول"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "کولينس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجو ھٿ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "پنھنجو ھٿ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "۽ قرض ڏيندو"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "ڏينسانس"
+    },
+    {
+      "surface": "די",
+      "gloss": "جيترو"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "تنھنجي کوٽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "کوٽ آهي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    }
+  ],
+  "timestamp": "2026-08-30T10:41:45.716863884Z",
+  "model": "glm-5.3"
+}

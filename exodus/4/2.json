@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ياهوه مٿس فرمايو: هي ڇا آهي تنهنجي هٿ ۾؟ ۽ چيائين: هڪ لاٺي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ فرمايو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "هي ڇا"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "تنهنجي هٿ ۾"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "لاٺي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:58:39.573099888Z",
+  "model": "glm-5.3"
+}

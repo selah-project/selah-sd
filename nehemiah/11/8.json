@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ان کان پوءِ گبي، سلاي، نَوَ سَو ويھ ۽ اَٺ.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "۽ ان کان پوءِ"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "گبي"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "سلاي"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَوَ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "۽ اَٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:11.490413558Z",
+  "model": "glm-5.3"
+}

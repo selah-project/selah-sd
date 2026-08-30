@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ شاول يونتن جي آواز ٻڌي، ۽ شاول قسم کاڌو: ياهوه زندهه آهي، هو نه ماريو ويندو.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ٻڌي"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "جي آواز"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يونتن"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "۽ قسم کاڌو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندهه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "نه ماريو ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:46:23.509610498Z",
+  "model": "glm-5.3"
+}

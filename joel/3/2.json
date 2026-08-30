@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ پڻ ٻانڀن ۽ ٻانهين تي انهن ڏينهن ۾ مون پنهنجي روح ⟨את⟩ وهائيندس.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ٻانڀن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ٻانهين"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "انهن"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "وهائيندس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجي روح"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "پنهنجي روح"
+    }
+  ],
+  "timestamp": "2026-08-30T12:47:22.635397439Z",
+  "model": "glm-5.3"
+}

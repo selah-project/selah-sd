@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ جيڪو به کليل ٿانءُ، جنهس تي پٽيءَ جو بند ڍڪ نه هجي، اهو نجس آهي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ جيڪو به"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ٿانءُ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "کليل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "بند ڍڪ"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "پٽي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:19.106465626Z",
+  "model": "glm-5.3"
+}

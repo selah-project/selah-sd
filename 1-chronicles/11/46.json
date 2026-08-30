@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 11:46",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ايليل مچاوي، ۽ يريبي ۽ يوشويا اَلنظام جا پٽ، ۽ يِتما موآبي،",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "ايليل"
+    },
+    {
+      "surface": "המחוים",
+      "gloss": "مچاوي"
+    },
+    {
+      "surface": "ויריבי",
+      "gloss": "يريبي"
+    },
+    {
+      "surface": "ויושויה",
+      "gloss": "يوشويا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אלנעם",
+      "gloss": "اَلنظام"
+    },
+    {
+      "surface": "ויתמה",
+      "gloss": "يِتما"
+    },
+    {
+      "surface": "המואבי",
+      "gloss": "موآبي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:14.165363425Z",
+  "model": "glm-5.3"
+}

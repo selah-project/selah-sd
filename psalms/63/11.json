@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 63,
+  "translation": " تلوار جي هٿن تي اُنهن کي ڍير ڪيو ويندو؛ اُهي گدڙن لاءِ حصو بجن ٿا.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "اُنهن کي ڍير ڪيو ويندو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "هٿن"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "حصو"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "گدڙن لاءِ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بجن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:08.766008413Z",
+  "model": "glm-5.3"
+}

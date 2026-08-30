@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 118,
+  "translation": "آءٌ تو جو شڪرانو ڪندس ڇوته تو مynth جواب ڏنو ۽ تو مynth مانجهه بڻجي ويو.",
+  "tokens": [],
+  "timestamp": "2026-08-30T13:19:40.266537287Z",
+  "model": "glm-5.3"
+}

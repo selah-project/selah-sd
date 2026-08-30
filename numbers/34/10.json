@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ توهان پاڻ لاءِ اوڀرين سرحد ماپيو، حصر-عينان کان شيپام تائين۔",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "ماپيو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان پاڻ لاءِ"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "اوڀرين"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "حصر کان"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عينان"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "شيپام"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:05.855549805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 3:49",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ موشي ⟨את⟩ فدي جي چاندي وڌيڪ ماڻهن کان ⟨את⟩ ليوين جي فدي ٿيلن تان ورتي.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ورتي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فدي جي چاندي"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "הפדיום",
+      "gloss": "فدي"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ کان"
+    },
+    {
+      "surface": "העדפים",
+      "gloss": "وڌيڪ ماڻهن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تان"
+    },
+    {
+      "surface": "פדויי",
+      "gloss": "فدي ٿيلن"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ليوين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:52.126896616Z",
+  "model": "glm-5.3"
+}

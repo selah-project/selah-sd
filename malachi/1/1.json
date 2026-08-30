@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ياهوه جي لفظ جو ⟨بار⟩، اسرائيل ڏانهن، ملاخيءَ جي هٿ وسيلي.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ وسيلي"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ملاخيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:58:42.135168971Z",
+  "model": "glm-5.3"
+}

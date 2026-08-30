@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 20:6",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ٻيھر گٿ ۾ مِلهامو ٿي، ۽ ⟨اُهو⟩ ماپ جو ماڻهو هو، ۽ سندس آڱريون ڇھ ۽ ڇھ — ويھ ۽ چار — ۽ اُهو به رپا کي پيدا ٿيو هو.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيھر"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "مِلهامو"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "گٿ ۾"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "هو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ماپ جو"
+    },
+    {
+      "surface": "ואצבעתיו",
+      "gloss": "۽ سندس آنگريون"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ ڇھ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "پيدا ٿيو هو"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "رپا کي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:54.990554610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ شلومه حمات صوبه ڏانهن ويو ۽ ان تي قبضو ڪيائين.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "۽ ويو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمات"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صوبه"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "۽ قبضو ڪيائين"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان تي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:53.531246897Z",
+  "model": "glm-5.3"
+}

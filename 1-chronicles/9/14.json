@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ لاوين مان: شمعيا، پٽ حشوب جو، پٽ عزريقم جو، پٽ حشبيا جو، مِن مراري جي پٽن مان.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوين"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شمعيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "حشوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "عزريقم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حشبيا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:12.696947664Z",
+  "model": "glm-5.3"
+}

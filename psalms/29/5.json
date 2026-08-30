@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "ياهوه جو آواز ڏارڻ کي ڀڃي ٿو، ۽ ياهوه ⟨את⟩ لبنان جي ڏارن کي ڀڳو.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "جو آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ڀنجي ٿو"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ڏارڻ"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "۽ ڀڳو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لبنان جي ڏارن"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "جي ڏارن"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لبنان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:21.491290294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ته مان ڏٺم، مان دل ۾ مڙسيم؛ مان ڏٺم ۽ نصيحت وٺندس.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "ڏٺم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مان"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "مڙسيم"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دل ۾"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ڏٺم"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "وٺندس"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "نصيحت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:45.546668083Z",
+  "model": "glm-5.3"
+}

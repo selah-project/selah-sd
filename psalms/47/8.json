@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "ڇوته سڀ زمين جو بادشاهه ايلوهيم آهي؛ سَجاڳيءَ سان ستاين ڪريو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ستاين ڪريو"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سَجاڳيءَ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:22.029840611Z",
+  "model": "glm-5.3"
+}

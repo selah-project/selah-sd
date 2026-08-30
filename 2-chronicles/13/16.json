@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 13:16",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ اسرائيل جي پٽن يھودہ جي اڳيان ڀڳو ۽ ايلوهيم کين سندن ھٿ ۾ ڏنو.",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "۽ ڀڳو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يھودہ"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "۽ ڏنو کين"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "سندن ھٿ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:35.864574147Z",
+  "model": "glm-5.3"
+}

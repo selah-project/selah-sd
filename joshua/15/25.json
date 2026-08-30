@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 15:25",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ حصور جدتہ، ۽ قريوت حصرون — اُهو ئي حصور آهي.",
+  "tokens": [
+    {
+      "surface": "וחצור",
+      "gloss": "۽ حصور"
+    },
+    {
+      "surface": "חדתה",
+      "gloss": "جدتہ"
+    },
+    {
+      "surface": "וקריות",
+      "gloss": "۽ قريوت"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حصرون"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اُهو ئي ⟨آهي⟩"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "حصور"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:40.742190060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 9:30",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ڪاهنن جي پٽن مان ڪي مشڪيندا هئا خوشبودار مِرڪمِ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهنن جي"
+    },
+    {
+      "surface": "רקחי",
+      "gloss": "مشڪيندا هئا"
+    },
+    {
+      "surface": "המרקחת",
+      "gloss": "مرڪم"
+    },
+    {
+      "surface": "לבשמים",
+      "gloss": "خوشبودار لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:29.405373629Z",
+  "model": "glm-5.3"
+}

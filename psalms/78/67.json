@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 78,
+  "translation": "۽ يوسف جي خيمي کي رد ڪيائين، ۽ اپفرايم جي قبيلي کي نه چونڊيائين.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "۽ رد ڪيائين"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خيمي کي"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف جي"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "۽ قبيلي کي"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپفرايم جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چونڊيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:26.041961780Z",
+  "model": "glm-5.3"
+}

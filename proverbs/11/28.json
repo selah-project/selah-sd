@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 11:28",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "جو پنهنجي مال تي ڀاڙي ٿو، هو ڪري ٿو؛ پر راستباز پن جهڙا ڦلن ٿا.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "ڀاڙيندڙ"
+    },
+    {
+      "surface": "בעשרו",
+      "gloss": "پنهنجي مال تي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڪري ٿو"
+    },
+    {
+      "surface": "וכעלה",
+      "gloss": "۽ پن جهڙا"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "יפרחו",
+      "gloss": "ڦلن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:34.561004820Z",
+  "model": "glm-5.3"
+}

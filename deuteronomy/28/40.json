@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "زيتون توکي هوندا تنهنجي سڀ حدن ۾، پر تيل نه مکيندين، ڇوته تنهنجا زيتون ڊهي پوندا.",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "زيتون"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "هوندا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "تنهنجي حدن ۾"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "پر تيل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "مکيندين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "ڊهي پوندا (کُڙجي ويندا)"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "تنهنجا زيتون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:32.703289720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "سردار مغديئيل، سردار عيرام۔ اِي ئي ادوم جا سردار ھئا۔",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "مغديئيل"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "عيرام"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِي"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:19.379227008Z",
+  "model": "glm-5.3"
+}

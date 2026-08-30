@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "مَحلي کان اِلِعازار ٿيو، ۽ سندس ڪي پٽ نه هئا۔",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "مَحلي کان"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلِعازار"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:03.563472724Z",
+  "model": "glm-5.3"
+}

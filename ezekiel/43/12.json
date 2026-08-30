@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 43:12",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "هي گهر جي تورات آهي: جبل جي مٿان سندس پوري حد چوٽي چوٽي مقدس مقدسن جي آهي؛ اها آهي، هي گهر جي تورات آهي.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل جي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوري"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "حد"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوٽي"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوٽي"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "مقدسن جي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اها آهي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:55.142821506Z",
+  "model": "glm-5.3"
+}

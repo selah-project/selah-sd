@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 25:11",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ هي ساري زمين ويران ۽ تباه ٿيندي، ۽ هي قومون ⟨את⟩ بابل جي بادشاهه جي ستتر سال خدمت ڪندا.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "۽ ٿيندي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "ويران لاءِ"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "تباه لاءِ"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "۽ خدمت ڪندا"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بابل جي بادشاهه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل جي"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستتر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-30T12:15:25.741316902Z",
+  "model": "glm-5.3"
+}

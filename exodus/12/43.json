@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ياهوه موشي ۽ اهارون کي چيو: پيسح جي ئي هي آهي حڪم: ڪوبه اوپرو پٽ ان ۾ نه کائي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "۽ اهارون"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پيسح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "اوپرو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:00:45.345201549Z",
+  "model": "glm-5.3"
+}

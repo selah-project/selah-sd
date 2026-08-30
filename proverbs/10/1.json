@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "شلومو جا پهاڪا: حڪمت وارو پُٽ پيءُ کي خوش ڪري ٿو، پر مورک پُٽ ⟨هو⟩ پنهنجي ماءُ جو غم آهي.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "پهاڪا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو جا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حڪمت وارو"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ڪري ٿو"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پيءُ کي"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "پر پُٽ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "مورخ"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "غم"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "پنهنجي ماءُ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:24.751998456Z",
+  "model": "glm-5.3"
+}

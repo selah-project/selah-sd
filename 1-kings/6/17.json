@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ گھر — اھو هيڪل جيڪو سندس اڳيان آھي — چاليھ اَمَہ ڊگھو ھو.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "چاليھ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "امہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ھو"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "هيڪل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "سندس اڳيان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:28:54.143983055Z",
+  "model": "glm-5.3"
+}

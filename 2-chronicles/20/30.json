@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 20:30",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "ته يهوشافط جي مملڪت آرام ۾ آئي، ڇوته سندس ايلوهيم کيس چوڌاري آرام ڏنو.",
+  "tokens": [
+    {
+      "surface": "ותשקט",
+      "gloss": "ته آرام ۾ آئي"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "مملكت"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافط جي"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ته آرام ڏنو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "سندس ايلوهيم"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "چوڌاري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:26:41.772038778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "اُڻِ سُڪڙ ۽ رِذالَت بڻايو اسان کي قومن جي وچ ۾.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "اُڻِ سُڪڙ"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "۽ رِذالَت"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "بنايو اسان کي"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وچ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:56.663859249Z",
+  "model": "glm-5.3"
+}

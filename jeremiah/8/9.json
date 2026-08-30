@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 8:9",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "شرمندہ ٿيا حکيم، ٽٽي پيا ۽ پڪڙيا ويا؛ ڏسو، ياهوه جي لفظِ کي رد ڪيائون — ته پوءِ کين ڪهڙي حڪمت!",
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "شرمندہ ٿيا"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "حکيم"
+    },
+    {
+      "surface": "חתו",
+      "gloss": "ٽٽي پيا"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "۽ پڪڙيا ويا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "لفظِ ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "رد ڪيائون"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "۽ حڪمت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڪهڙي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:09:36.969400753Z",
+  "model": "glm-5.3"
+}

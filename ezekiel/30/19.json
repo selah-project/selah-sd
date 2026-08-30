@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 30:19",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ آءٌ مِصر ۾ فيصلا ڪندس، ۽ اُھي سُجهندا ته آءٌ ئي ياهوه آھيان.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "۽ آءٌ ڪندس"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "فيصلا"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِصر ۾"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "۽ اُھي سُجهندا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ ئي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:36:44.041096652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "سندس ڪپڙو کڻي وٺ جيڪو پرديسي لاءِ ڪفيل آهي، ۽ پرديسين جي لاءِ کانئس گروي وٺ.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "کڻي وٺ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "سندس ڪپڙو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ڪفيل آهي"
+    },
+    {
+      "surface": "זר",
+      "gloss": "پرديسي"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "۽ ... جي لاءِ"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "پرديسين"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "کانئس گروي وٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:24.458777833Z",
+  "model": "glm-5.3"
+}

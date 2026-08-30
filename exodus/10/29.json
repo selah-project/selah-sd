@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ موشي چيو: تون بلڪل سچ چيو آھي؛ مان وڌيڪ تنهنجو چھرتو نه ڏسندس.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "כן",
+      "gloss": "بلڪل سچ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "تون چيو آھي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "مان وڌيڪ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيهر"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ڏسندس"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تنهنجو چھرتو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:59:07.293057701Z",
+  "model": "glm-5.3"
+}

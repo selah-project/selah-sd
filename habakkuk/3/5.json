@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "سندس اڳيان طاعون هلندو، ۽ سندس پيرن وٽان بجلي نڪرندي.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "سندس اڳيان"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "هلندو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "طاعون"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "۽ نڪرندي"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "بجلي"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "سندس پيرن وٽان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:41.532735818Z",
+  "model": "glm-5.3"
+}

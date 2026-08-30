@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ مڪيل ڪوھين ڍڳي جي رت مان ملاقات جي خيمي ڏانھن آڻي.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "۽ آڻي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھين"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "مڪيل"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "رت مان"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ڍڳي جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمي"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:32.461473570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ڪڪر جو ٿنڀو ڏينهن ۾ ۽ باهه جو ٿنڀو رات ۾، قوم جي اڳيان کي ڪڏھن به هٽيو نه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "هٽيو"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ٿنڀو"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ڪڪر جو"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "۽ ٿنڀو"
+    },
+    {
+      "surface": "האש",
+      "gloss": "باهه جو"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات ۾"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:00:31.897748631Z",
+  "model": "glm-5.3"
+}

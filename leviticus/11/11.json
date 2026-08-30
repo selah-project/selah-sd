@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ اُهي توهان لاءِ گندگي بجن؛ سندن گوشت نه کائو، ۽ ⟨את⟩ سندن لاشن کي گندو ڄاڻو.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "۽ گندگي"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بجن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "سندن گوشت مان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سندن لاشن کي"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "سندن لاش"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "گندو ڄاڻو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:29.980667496Z",
+  "model": "glm-5.3"
+}

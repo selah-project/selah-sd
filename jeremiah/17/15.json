@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "ڏس، اُهي مون کي چون ٿا: ”ياهوه جو لفظ ڪٿي آهي؟ اچي ٿو ڪو، هينئر!“",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اُهي"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "چون ٿا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ڪٿي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اچي ٿو ڪو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هينئر!"
+    }
+  ],
+  "timestamp": "2026-08-30T12:13:02.279655482Z",
+  "model": "glm-5.3"
+}

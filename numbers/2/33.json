@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 2:33",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ لويين بني يسرائيل جي وچ ۾ ڳڻيا نه ويا، جيئن ياهوه ⟨את⟩ موشي کي حڪم ڪيو.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "۽ لويين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "ڳڻيا ويا"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:51.697134529Z",
+  "model": "glm-5.3"
+}

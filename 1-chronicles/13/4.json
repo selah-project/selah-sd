@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ سڄي ڪٺيل چيو ته ائين ڪجي، ڇوته سڀني ماڻهن جي نظر ۾ ڳالھ سڌي هئي.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ڪٺيل"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سڌي هئي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "نظر ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:06.263316503Z",
+  "model": "glm-5.3"
+}

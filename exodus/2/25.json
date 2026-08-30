@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ايلوهيم ⟨את⟩ اسرائيل جي پٽن کي ڏٺو، ۽ ايلوهيم سڃاڻيو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسرائيل جي پٽن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "سڃاڻيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:58.238367777Z",
+  "model": "glm-5.3"
+}

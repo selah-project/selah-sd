@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "پيکح بن رملياهو جي سترهين سال ۾، آحاز يوٿام جي پٽ، يهودا جي بادشاهه جي، بادشاهي ٿي.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "سال ۾"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-رهه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "پيکح جي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "رملياهو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهي ٿي"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آحاز"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "يوٿام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:51:15.262302107Z",
+  "model": "glm-5.3"
+}

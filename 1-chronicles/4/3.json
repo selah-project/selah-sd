@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ اھي عيتام جي پيءُ جا هئا: يزرعيل، يشما ۽ يدبش؛ ۽ سندن ڀينر جو نالو صنلپوني ھو.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ جا"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "عيتام"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "يزرعيل"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "۽ يشما"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "۽ يدبش"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "سندن ڀينر"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "صنلپوني"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:28.739139885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "قبيلي بنيامين جو: پلٽي، پٽ رافو جو۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "پلٽي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "رافو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:30.605766563Z",
+  "model": "glm-5.3"
+}

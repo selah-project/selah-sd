@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "هن سڀ ۾ ايوب نه ڏنو خواري ايلوهيم کي، ۽ نه گناهه ڪيائين.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "هن سڀ ۾"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناهه ڪيائين"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ايوب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "خواري"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ايلوهيم کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:45.999466275Z",
+  "model": "glm-5.3"
+}

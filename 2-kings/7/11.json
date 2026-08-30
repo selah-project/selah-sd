@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ دروازن وارن سڏيو ۽ بادشاهه جي گهر ۾ اندر ٻڌايائون.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازن وارن"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "۽ ٻڌايائون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه جي"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "۾ اندر"
+    }
+  ],
+  "timestamp": "2026-08-30T11:40:44.460791104Z",
+  "model": "glm-5.3"
+}

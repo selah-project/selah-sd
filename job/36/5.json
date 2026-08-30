@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 36:5",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "ڏسو، ايل زبردست ⟨آھي⟩ ۽ ڪنھن کي رد نه ٿو ڪري؛ طاقت ۽ دل ۾ زبردست ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "زبردست"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "ٿو ڪري رد"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "زبردست"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:43:07.629834907Z",
+  "model": "glm-5.3"
+}

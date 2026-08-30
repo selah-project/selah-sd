@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "چورڪنڊو ⟨he will be⟩ ٿيندو، ٻيڙو؛ هڪ پَٽَڪو ان جي ڊيگهه، ۽ هڪ پَٽَڪو ان جي ويڪر.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "چورڪنڊو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨he will be⟩ ٿيندو"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ٻيڙو"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "پَٽَڪو"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ان جي ڊيگهه"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "۽ پَٽَڪو"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ان جي ويڪر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:06:32.431622140Z",
+  "model": "glm-5.3"
+}

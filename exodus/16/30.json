@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "پوءِ قوم ستين ڏينهن آرام ڪيو.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "پوءِ آرام ڪيو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ستين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:37.455965572Z",
+  "model": "glm-5.3"
+}

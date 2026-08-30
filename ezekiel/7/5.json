@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ائين چوي ٿو ادوناي ياهوه: برائي، هڪ ئي برائي — ڏسو، اچي رهي ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ ئي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "באה",
+      "gloss": "اچي رهي آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:27:25.555505544Z",
+  "model": "glm-5.3"
+}

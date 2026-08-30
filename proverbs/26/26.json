@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 26:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "دشمني ڌوڪي سان ڍڪجي ويندي آھي، پر سندس برائي جماعت ۾ ظاھر ٿيندي.",
+  "tokens": [
+    {
+      "surface": "תכסה",
+      "gloss": "ڍڪجي ويندي آھي"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "دشمني"
+    },
+    {
+      "surface": "במשאון",
+      "gloss": "ڌوڪي سان"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ظاھر ٿيندي"
+    },
+    {
+      "surface": "רעתו",
+      "gloss": "سندس برائي"
+    },
+    {
+      "surface": "בקהل",
+      "gloss": "جماعت ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:04.326489063Z",
+  "model": "glm-5.3"
+}

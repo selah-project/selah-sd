@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ياهوه جي صلاح هميشه قائم رهندي، سندس دل جون مکين نسل در نسل تائين.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "قائم رهندي"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "مکين"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "سندس دل جون"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل در"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "نسل تائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:10.733860770Z",
+  "model": "glm-5.3"
+}

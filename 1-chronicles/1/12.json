@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ⟨את⟩ پترُسيم ۽ ⟨את⟩ كسلُحيم — جن مان اُتيان نڪتا فلسطيني — ۽ ⟨את⟩ ڪپطوريم.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨⟨את⟩⟩",
+      "marks": "پترُسيم"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "پترُسيم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨⟨את⟩⟩",
+      "marks": "كسلُحيم"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "كسلُحيم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "نڪتا"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اتيان"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلسطيني"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨⟨את⟩⟩",
+      "marks": "ڪپطوريم"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "ڪپطوريم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:33.750950956Z",
+  "model": "glm-5.3"
+}

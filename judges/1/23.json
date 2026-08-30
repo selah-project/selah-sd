@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ يوسف جي گهر بيت ايل جو كوشش ڪئي ۽ جاسوسي ڪئي؛ ۽ شهر جو نال اڳي لوز هو.",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "جاسوسي ڪئي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف جي"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر جو"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "اڳي"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "لوز"
+    }
+  ],
+  "timestamp": "2026-08-30T10:56:17.488214403Z",
+  "model": "glm-5.3"
+}

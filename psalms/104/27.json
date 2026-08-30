@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 104,
+  "translation": "سڀئي تنهنجي اڪڻ ڪن ٿيون ته سندن کاڌو پنهنجيءَ موسم ۾ ڏين.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تنهنجي"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "اڪڻ ڪن ٿيون"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ته ڏين"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "سندن کاڌو"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "پنهنجيءَ موسم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:40.305506945Z",
+  "model": "glm-5.3"
+}

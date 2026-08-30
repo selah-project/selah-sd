@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 21:34",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ابراهام فلستين جي زمين ۾ ڪيترا ئي ڏينهن اوطاق ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "۽ اوطاق ڪيو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلستين"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ڪيترا ئي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:02.378487215Z",
+  "model": "glm-5.3"
+}

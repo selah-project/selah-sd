@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ مون چين: ياهوه جو لفظ مون کي آيو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "۽ مون چين"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "چين"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:34:51.682377381Z",
+  "model": "glm-5.3"
+}

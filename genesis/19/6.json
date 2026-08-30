@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ لوط انهن وٽ پرتھ تان نڪتو، ۽ دروازو پنھنجي پويان بند ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "۽ نڪتو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انهن وٽ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "پرتھ تان"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "۽ دروازو"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "بند ڪيائين"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "پنھنجي پويان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:28.614204286Z",
+  "model": "glm-5.3"
+}

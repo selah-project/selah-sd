@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "پوءِ موشي ويو ۽ ⟨את⟩ اھي لفظ سڄي يسرائيل کي ٻڌا.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "پوءِ ويو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ٻڌا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اھي لفظ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:24.641744988Z",
+  "model": "glm-5.3"
+}

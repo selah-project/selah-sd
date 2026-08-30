@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "لود، حديد ۽ اونو جي پٽن جون ست سَو ۽ ويھ ۽ ھڪ (سنڌي: 721)۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽن جون"
+    },
+    {
+      "surface": "לד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "حديد"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "۽ اونو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "۽ ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:54.731743595Z",
+  "model": "glm-5.3"
+}

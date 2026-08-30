@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "پر پڇڙيءَ ڏٺو ته ⟨آهي⟩ راحت، ۽ پاڻ دل سخت ڪيائين ۽ انهن جي نه ٻڌائين، جيئن ياهوه چيو هو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پڇڙيءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "راحت"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "دل سخت ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجي دل"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "پنھنجي دل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌائين"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انهن جي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو هو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:36:12.139626873Z",
+  "model": "glm-5.3"
+}

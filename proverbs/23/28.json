@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 23:28",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "اُها به شڪار جهڙي ڪِڙي (لڪي) بيٺي آهي، ۽ ماڻهن ۾ خائن وڌائي ٿي.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "به"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اُها"
+    },
+    {
+      "surface": "כחתף",
+      "gloss": "شڪار جهڙي"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "ڪِڙي لڪي بيٺي آهي"
+    },
+    {
+      "surface": "ובוגדים",
+      "gloss": "۽ خائن"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ماڻهن ۾"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "وڌائي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:01.637178142Z",
+  "model": "glm-5.3"
+}

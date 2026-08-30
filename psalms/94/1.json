@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 94,
+  "translation": "بدلي جو ايل ياهوه، بدلي جو ايل، اُجلي ٿي ظاھر ٿي!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "بدلي جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "بدلي جو"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "اُجلي ٿي ظاھر ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:47.428504008Z",
+  "model": "glm-5.3"
+}

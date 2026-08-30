@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "۽ رئوبين جا پُٽ: حنوخ ۽ پلو ۽ حصرون ۽ ڪرمي.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پُٽ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبين"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حنوخ"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "۽ پلو"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "۽ حصرون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "۽ ڪرمي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:43.960366438Z",
+  "model": "glm-5.3"
+}

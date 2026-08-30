@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 26:1",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ يارهين سال ۾، مهيني جي پهرئين ⟨ڏينهن⟩، ياهوه جو لفظ مون ڏانهن آيو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "۾ يارهين"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "پهرئين ڏينهن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني جي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون ڏانهن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:35:24.065256541Z",
+  "model": "glm-5.3"
+}

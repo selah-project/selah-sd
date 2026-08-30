@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 3:5",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ مون چيو ته مٿس پاڪ پگھڙ رکن؛ ۽ مٿس پاڪ پگھڙ رکيائون ۽ کيس ڪپڙا پهرايائون ۽ ياهوه جو فرشتو بيٺو هو.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "۽ مون چيو"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "رکن"
+    },
+    {
+      "surface": "צניף",
+      "gloss": "پگھڙ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سندس مٿو"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "۽ رکيائون"
+    },
+    {
+      "surface": "הצניף",
+      "gloss": "پگھڙ"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سندس مٿو"
+    },
+    {
+      "surface": "וילבשהו",
+      "gloss": "۽ کيس پهرايائون"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ڪپڙا"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "۽ فرشتو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "بيٺو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:55.373720318Z",
+  "model": "glm-5.3"
+}

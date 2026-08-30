@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "اِھي نُوح جا نَسَب آھن؛ نُوح راستباز ماڻھو ھو، پنھنجن پيڙھين ۾ ڪامل؛ نُوح ايلوهيم سان ⟨את⟩ ھليو.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اِھي"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نَسَب"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ڪامل"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ھو"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "پنھنجن پيڙھين ۾"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ايلوهيم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "ھليو"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:59.202644594Z",
+  "model": "glm-5.3"
+}

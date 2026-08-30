@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ کيلوب، شوحه جي ڀاءُ، ⟨את⟩ محير کي ڄڻيو؛ ⟨هو⟩ اشتون جو پيءُ هو.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "۽ کيلوب"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ڀاءُ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "شوحه جي"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "محير"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "محير"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "اشتون جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:39.814774197Z",
+  "model": "glm-5.3"
+}

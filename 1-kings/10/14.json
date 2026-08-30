@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ سون جو وزن جو ھڪ سال ۾ شلومو وٽ آيو، ڇھ سؤ سٺ ۽ ڇھ ڪڪر سون ھيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ھيو"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سون جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو وٽ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ھڪ سال ۾"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٺ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ ڇھ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ڪڪر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:31:10.632636018Z",
+  "model": "glm-5.3"
+}

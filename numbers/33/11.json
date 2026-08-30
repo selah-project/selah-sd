@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ نارِ ڪَنئي کان روانا ٿيا، ۽ سين جي بيابان ۾ خيمو هنئائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "کان (نارِ)"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ڪَنئي"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيمو هنئون"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "סין",
+      "gloss": "سين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:50.569861307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ ھي اُھو لکت آھي جيڪو لکيو ويو: مڻي، مڻي، توليو، ۽ ورهايو.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "۽ ھي"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "لکت"
+    },
+    {
+      "surface": "די",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "لکيو ويو"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مڻيو (مڻي)"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مڻيو (مڻي)"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "توليو (توليو)"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "۽ ورهايو (ورهايا)"
+    }
+  ],
+  "timestamp": "2026-08-30T13:57:13.663062192Z",
+  "model": "glm-5.3"
+}

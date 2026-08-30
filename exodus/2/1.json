@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ لاوي جي گھر مان ھڪ ماڻھو ويو، ۽ لاوي جي ڌيءُ ⟨את⟩ کي پرڻيوائين.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ويو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ھڪ ماڻھو"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "جي گھر مان"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "پرڻيوائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاوي جي ڌيءُ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءُ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:57:18.038822596Z",
+  "model": "glm-5.3"
+}

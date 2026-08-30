@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 118,
+  "translation": "اها ياهوه، هاڻي خلاصي ڏي، اها ياهوه، هاڻي ڪاميابي ڏي.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "خلاصي ڏي"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "ڪاميابي ڏي"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:54.326655864Z",
+  "model": "glm-5.3"
+}

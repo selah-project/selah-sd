@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "عرعار کان، جيڪو ارنون نئي جي ڪناري تي آهي، جبل سِيون تائين — اهو ئي حرمون آهي.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "عرعار کان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ڪناري"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نئي"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ارنون"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "سِيون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو ئي"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "حرمون آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:38:07.591904224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڏکويٽ ڏڙپ اچي ٿي، ۽ ⟨هو⟩ سلامتي ڳوليندا، پر ڪا نه هوندي.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "ڏکويٽ ڏڙپ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ٿي"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "۽ ڳوليندا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "پر ڪا نه هوندي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:26:59.571058775Z",
+  "model": "glm-5.3"
+}

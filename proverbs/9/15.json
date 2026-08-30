@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 9:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "واٽ وارن کي سڏڻ لاءِ — جيڪي پنھنجن واٽن تي سڌا هلندا آھن.",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "سڏڻ لاءِ"
+    },
+    {
+      "surface": "לעברי",
+      "gloss": "وارن کي"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "واٽ"
+    },
+    {
+      "surface": "המישרים",
+      "gloss": "سڌا هلندا"
+    },
+    {
+      "surface": "ארחותם",
+      "gloss": "پنھنجن واٽن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:03.607286322Z",
+  "model": "glm-5.3"
+}

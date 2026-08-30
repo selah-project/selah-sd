@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 20:17",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "ڇوته مون کي پيٽ ۾ ماريو ئي نه، ۽ مون جي ماءُ مون جي قبر ٿي وڃي ها، ۽ سندس پيٽ هميشه مڪمل ڳڀرڻ رھي ها.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מותתני",
+      "gloss": "مون کي ماريو"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "پيٽ ۾"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ٿي وڃي ها"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون جي"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ماءُ"
+    },
+    {
+      "surface": "קברי",
+      "gloss": "قبر"
+    },
+    {
+      "surface": "ורחמה",
+      "gloss": "۽ سندس پيٽ"
+    },
+    {
+      "surface": "הרת",
+      "gloss": "ڳڀرڻ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:12:26.880903867Z",
+  "model": "glm-5.3"
+}

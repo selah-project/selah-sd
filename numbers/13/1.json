@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 13:1",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ياهوه موشي ڏانھن ڳالھايو، چوندو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ … ڳالھايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:17.911324213Z",
+  "model": "glm-5.3"
+}

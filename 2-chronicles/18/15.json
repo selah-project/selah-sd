@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ بادشاهه هن کي چيو: ڪيترا ڀيرا مان تو کي قسم ڏيان ته تون مون سان رڳو سچ ياهوه جي نالي ۾ ڳالائيين؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هن کي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ڇ迄 (ڪيترا)"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ڪيترا"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ڀيرا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "تو کي قسم ڏيان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ڳالائيين"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "جي نالي ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:35.529530980Z",
+  "model": "glm-5.3"
+}

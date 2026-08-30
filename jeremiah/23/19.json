@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 23:19",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ڏسو، ياهوه جو طوفان، ڪاوڙ نڪري ٿي ۽ هڪ مڙندڙ وهي، بدڪارن جي مٿي تي ڦرندو.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "סערת",
+      "gloss": "طوفان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ڪاوڙ"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "نڪري ٿي"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "۽ هڪ"
+    },
+    {
+      "surface": "מתחולל",
+      "gloss": "مڙندڙ وهي"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدڪارن جي"
+    },
+    {
+      "surface": "יחול",
+      "gloss": "ڦرندو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:15:00.198468237Z",
+  "model": "glm-5.3"
+}

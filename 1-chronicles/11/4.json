@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ داوود ۽ سڀ يسرائيل يروشلم ڏانهن ويا؛ اها ئي يبوس آهي؛ ۽ اتي يبوسي، زمين جا رهاکو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "۽ ويا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "يبوس"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ اتي"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "يبوسي"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رهاکو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:56.761955698Z",
+  "model": "glm-5.3"
+}

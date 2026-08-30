@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "حِيپر مِڪراتي، اَخيا پِلوني،",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "حِيپر"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "مِڪراتي"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "اَخيا"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "پِلوني"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:03.787564183Z",
+  "model": "glm-5.3"
+}

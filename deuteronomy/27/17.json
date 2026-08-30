@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ملعون آهي جيڪو پنهنجي پاڙيسري جي سرحد کي هٽائيندو آهي؛ ۽ سڀ ماڻهو چوندا: آمين.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون آهي"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "هٽائيندو آهي"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "پنهنجي پاڙيسري جي"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چوندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:21.654218092Z",
+  "model": "glm-5.3"
+}

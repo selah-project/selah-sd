@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ڪوهيلت چاهه جا لفظ ڳوليا، ۽ لکيل سڌو لکيائين — سچائي جا لفظ.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "ڳوليائين"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ڪوهيلت"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ڳولڻ لاءِ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چاهه"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "۽ لکيل"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سڌو"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:48.500504970Z",
+  "model": "glm-5.3"
+}

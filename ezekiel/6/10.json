@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ هو ڄاڻندا ته آءٌ ياهوه آهيان؛ بيهڪي نه چيوم هوس انهن لاءِ هي برائي ڪرڻ.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "۽ هو ڄاڻندا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بيهڪي"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بيهڪي"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "چيوم هوس"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن لاءِ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "هي برائي"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:27:08.901461822Z",
+  "model": "glm-5.3"
+}

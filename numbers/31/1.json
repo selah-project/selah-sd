@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 31:1",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ياهوه موشي سان ڳالھائي ٿو چوڻ ته،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالھائي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:18.812902364Z",
+  "model": "glm-5.3"
+}

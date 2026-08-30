@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 5:3",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "رئوبين جا پُٽ — اسرائيل جو پھريون ڄاول — ھانوخ، پلو، حصرون ۽ ڪرمي ھئا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبين"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پھريون ڄاول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ھانوخ"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "پلو"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حصرون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ڪرمي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:10:40.922327703Z",
+  "model": "glm-5.3"
+}

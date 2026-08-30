@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 11:7",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ اھي بنيامين جا پُٽ آھن: سالو پُٽ مشلم جو، پُٽ يوعد جو، پُٽ فديه جو، پُٽ قوليه جو، پُٽ معسيه جو، پُٽ ايثيئيل جو، پُٽ يشعيه جو.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "سالو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مشلم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "יועד",
+      "gloss": "يوعد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "פדיה",
+      "gloss": "فديه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "קוליה",
+      "gloss": "قوليه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "معسيه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "איתיאל",
+      "gloss": "ايثيئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "يشعيه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:11.490281337Z",
+  "model": "glm-5.3"
+}

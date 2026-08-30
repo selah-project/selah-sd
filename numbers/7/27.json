@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ ڏاند، ڍڳن جو پٽ، ھڪ رِڇڙ، ھڪ لائق ٻڪريارِ، ھڪ سال جو پٽ، ساڙڻ جي قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳن"
+    },
+    {
+      "surface": "איל",
+      "gloss": "رِڇڙ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ٻڪريارِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "سال جو"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ساڙڻ جي قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:38:42.997528851Z",
+  "model": "glm-5.3"
+}

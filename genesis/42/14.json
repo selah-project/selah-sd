@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "۽ يوسف چين انهن کي: اهو ⟨هو⟩ ئي آهي جو مون توهان کي چيو هو، چوندو: جاسوس توهان آهيو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "مون چيو"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "توهان کي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوس"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:57.007542134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 9:3",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "هي برائي آهي سج هيٺ جي سڀ ڪم ۾، ته سڀ کي هڪ ئي ڏک سامهون آهي؛ ۽ ماڻهن جي پٽن جي دل ۾ برائي ڀريل آهي، ۽ سندن دل ۾ جنون سندن جيوت ۾، ۽ ان کان پوءِ مُئل ڏانهن.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ ۾"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ڪم ٿيندو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "ڏک سامهون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ ئي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀ کي"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀريل"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "۽ جنون"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "سندن دل ۾"
+    },
+    {
+      "surface": "בחייהם",
+      "gloss": "سندن جيوت ۾"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "۽ ان کان پوءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مُئل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:17.620943009Z",
+  "model": "glm-5.3"
+}

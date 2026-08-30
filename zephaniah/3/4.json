@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ان جا نبين سست آھن، غداريءَ جا ماڻھن؛ ان جا ڪوھن قدس کي نجس ڪيو، تورات تي ظلم ڪيائون.",
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "ان جا نبين"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "سست"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "غداريءَ جا"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "ان جا ڪوھن"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "نجس ڪيو"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ظلم ڪيائون"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:46.913565166Z",
+  "model": "glm-5.3"
+}

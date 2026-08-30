@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 57,
+  "translation": "سلامتي اچي ٿي؛ هو پنهنجن کٽن تي آرام ڪن ٿا، جيڪو سڌي واٽ سان هلي ٿو.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "آرام ڪن ٿا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "پنهنجن کٽن"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "هلي ٿو"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "سڌي واٽ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:03:51.492283373Z",
+  "model": "glm-5.3"
+}

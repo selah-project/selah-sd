@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "اها واپاري ٻيڙين جهڙي آهي، پريکان پنهنجو کاڌو آڻي ٿي.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "ٻيڙين جهڙي"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "واپاري"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "پريکان"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "آڻي ٿي"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "پنهنجو کاڌو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:32.960657856Z",
+  "model": "glm-5.3"
+}

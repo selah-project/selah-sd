@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "منھنجا پٽ، پنھنجي پيءُ جي حڪم کي جهلي رک، ۽ پنھنجي ماءُ جي تعليم نه ڇڏيں،",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "جهلي رک"
+    },
+    {
+      "surface": "בני",
+      "gloss": "منھنجا پٽ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "پنھنجي پيءُ جي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "ڇڏيں"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تعليم"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "پنھنجي ماءُ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:42.241226812Z",
+  "model": "glm-5.3"
+}

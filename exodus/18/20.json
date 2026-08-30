@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ تون کين ڊيڄارڻ جوڙاءِ: ⟨את⟩ فرضن ۽ ⟨את⟩ توراتن جو، ۽ کين ⟨את⟩ رستو سکاي جنهن ۾ هجن، ۽ ⟨את⟩ ڪم جو جيڪو ڪن.",
+  "tokens": [
+    {
+      "surface": "והזהرתה",
+      "gloss": "۽ ڊيڄارڻ جوڙاءِ"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "کين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرضن"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "فرضن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "توراتن"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "توراتن"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "۽ سکاي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رستو"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "رستو"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "هجن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "جنهن ۾"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ڪم"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ڪن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:57.942274645Z",
+  "model": "glm-5.3"
+}

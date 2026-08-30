@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "ياهوه کي ۽ سندس طاقت کي طلب ڪريو؛ سندس منهن کي هميشه ڳوليو.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "طلب ڪريو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "۽ سندس طاقت کي"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ڳوليو"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "سندس منهن کي"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هميشه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:29.660137375Z",
+  "model": "glm-5.3"
+}

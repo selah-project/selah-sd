@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "پوئي سڀ يسرائيل داوود وٽ حبرون ۾ گڏ ٿيا، چوندا: ڏس، تنهنجي هڏي ۽ تنهنجو ماس ⟨آهيون⟩ اسان.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "گڏ ٿيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "تنهنجي هڏي"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "۽ تنهنجو ماس"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:56.761300672Z",
+  "model": "glm-5.3"
+}

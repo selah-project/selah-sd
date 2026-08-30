@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ منشه جي پٽن جي ڦاڪي جي لشڪر تي گمليائل پٽ پده-صور هو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ ... تي"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ڦاڪي جي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "گمليائل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "پده-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:47.790968706Z",
+  "model": "glm-5.3"
+}

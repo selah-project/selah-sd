@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ آشر جي ڌيءُ جو نالو سَراھ ھو.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "سَراھ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:24.796908564Z",
+  "model": "glm-5.3"
+}

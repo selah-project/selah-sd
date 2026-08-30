@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "آءٌ تنهنجي ملڪ ۾ لنگهندس، رستي ۾ رستي هلندس، نه ٽيڪرندس يمن ۽ نه کاٻي.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "لنگهندس"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "تنهنجي ملڪ ۾"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي ۾"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "هلندس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "ٽيڪرندس"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "يمن"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "۽ کاٻي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:25.970367088Z",
+  "model": "glm-5.3"
+}

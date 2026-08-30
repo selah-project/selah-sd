@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ جماعت جي ڳڻپ ڪيل ماڻهن جي چاندي هڪ سؤ کنر ۽ هڪ هزار ۽ ست سؤ ۽ پنج ۽ ستر شڪل ٿي، پويتر شڪل موجب.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "۽ چاندي"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ڳڻپ ڪيل"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت جي"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "هڪ سؤ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کنر"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "۽ هڪ هزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "۽ ستر"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شڪل"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "شڪل موجب"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پويتر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:59.574803330Z",
+  "model": "glm-5.3"
+}

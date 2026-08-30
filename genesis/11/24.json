@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ نحور نَو ۽ ويھه سال جييو، ۽ ⟨את⟩ تارح کي پيدا ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جييو"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "نحور"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "پيدا ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تارح"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارح"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:48.294322749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "غريب کي ڌاڙيو نه، ڇوته هو غريب آهي؛ ۽ دروازي ۾ مظلوم کي نه ڪچلو.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ڌاڙيو"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غريب کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "ڪچلو"
+    },
+    {
+      "surface": "עני",
+      "gloss": "مظلوم کي"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:09.599793171Z",
+  "model": "glm-5.3"
+}

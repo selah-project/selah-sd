@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ياد ڪريان ٿو، بيشڪ ياد ڪريان ٿو، ۽ مڙھجي وڃي ٿو مون اندر منھنجي جيءُ.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ياد ڪريان ٿو"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "بيشڪ ياد ڪريان ٿو"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "۽ مڙھجي وڃي ٿو"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون اندر"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منھنجي جيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:06:49.790242487Z",
+  "model": "glm-5.3"
+}

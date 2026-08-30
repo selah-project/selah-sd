@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 5:4",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ انهن مان ٻيهر وٺ، ۽ کين باهه جي وچ ۾ اُڇليندين، ۽ باهه ۾ کين ساڙيندين؛ اُن مان باهه نڪري ويندي سڀ گهر يسرائيل تي.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "۽ انهن مان"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيهر"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "وٺ"
+    },
+    {
+      "surface": "והשלכת",
+      "gloss": "۽ اُڇليندين"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "کين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وچ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "باهه جي"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "۽ ساڙيندين"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "کين"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اُن مان"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نڪري ويندي"
+    },
+    {
+      "surface": "אש",
+      "gloss": "باهه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T12:28:00.727514176Z",
+  "model": "glm-5.3"
+}

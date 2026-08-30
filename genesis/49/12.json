@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "اکيون شراب کان ٽماريل، ۽ چيٽيون کير کان اڇيون.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "ٽماريل"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکيون"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "شراب کان"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "۽ اڇيون"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "چيٽيون"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "کير کان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:33.377241129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ مون سان چيائين: اي ابنِ آدم، پنهنجن پيرن تي بيهه، ته آءٌ ⟨את⟩ تو سان ڳالهائيندس.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "بيهه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "پنهنجن پيرن"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "ته آءٌ ڳالهائيندس"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تو",
+      "marks": "تو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:57:24.954266432Z",
+  "model": "glm-5.3"
+}

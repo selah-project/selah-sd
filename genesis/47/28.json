@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 47:28",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "۽ يعقوب مصر جي ملڪ ۾ سترهن سال جيو؛ ۽ يعقوب جا ڏينهن، سندس زندگيءَ جا سال، ست سال ۽ چاليهه ۽ سَو سال ٿيا.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "۽ جيو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "جي ملڪ ۾"
+    },
+    {
+      "surface": "مצרים",
+      "gloss": "مصر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏهن"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيا"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "جا ڏينهن"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "שני",
+      "gloss": "جا سال"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "سندس زندگيءَ جا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "۽ چاليهه"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "۽ سَو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:22.417305530Z",
+  "model": "glm-5.3"
+}

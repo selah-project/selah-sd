@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ياهوه ⟨את⟩ يهودا کي پنهنجو حصو وانگر مقدس زمين تي ورثي ۾ وٺندو، ۽ وري يروشلم کي چونڊيندو.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "۽ ورثي ۾ وٺندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهودا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "پنهنجو حصو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "۽ چونڊيندو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:09.314796325Z",
+  "model": "glm-5.3"
+}

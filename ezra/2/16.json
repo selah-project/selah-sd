@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "آٽر جا پُٽ، حزقياھ جا؛ اَٺاويھہ ۽ نو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "آٽر"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "حزقياھ جا"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نو (90)"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "۽ اَٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:03.643160478Z",
+  "model": "glm-5.3"
+}

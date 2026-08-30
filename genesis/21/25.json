@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ابراهام ابيمليخ کي پاڻيءَ جي کوهه جي ڪري sarcastic نه — ابيمليخ جي ٻانهن جيڪي کوهه کسلي هئا تن جي ڪري reproach ڪيو.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "reproof ڪيو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابيمليخ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ابيمليخ"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي ڪري"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "مامري جي ڪري"
+    },
+    {
+      "surface": "באר",
+      "gloss": "کوهه"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻيءَ جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "کسلي"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ٻانهن"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ابيمليخ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:15.565967961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 11:24",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ پتحيه، پٽ مشيزبعل جو، زرح جي پٽن مان، پٽ يهوده جو، ملت جي ھٿ ۾ ھو، ماڻھن جي ھر ڳالھ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ופתחיה",
+      "gloss": "۽ پتحيه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "משיזבאל",
+      "gloss": "مشيزبعل"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "مان پٽن جي"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زرح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوده"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "جي ھٿ ۾"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ملت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ھر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ماڻھن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:58.716402965Z",
+  "model": "glm-5.3"
+}

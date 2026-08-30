@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ پنهنجي دل مان ڪاوڙ هٽاءِ، ۽ پنهنجي جسم مان بڇڙائي پري ڪر؛ ڇو ته ٻاروتڻ ۽ ڪارائي هٻل آهن.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "۽ هٽاءِ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ڪاوڙ"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "دل مان"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "۽ پري ڪر"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بڇڙائي"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "جسم مان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "ٻاروتڻ"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "۽ ڪارائي"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هٻل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:34.949360800Z",
+  "model": "glm-5.3"
+}

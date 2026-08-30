@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 16:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ياهوه جو شڪر ڪريو، سندس نالي کي سڏيو، قومن ۾ سندس ڪارناما ٻڌايو.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "شڪر ڪريو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "سندس نائي کي"
+    },
+    {
+      "surface": "הודיעو",
+      "gloss": "ٻڌايو"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "قومن ۾"
+    },
+    {
+      "surface": "עלילתיו",
+      "gloss": "سندس ڪارناما"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:44.206161145Z",
+  "model": "glm-5.3"
+}

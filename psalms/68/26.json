@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 68,
+  "translation": "ڳائندڙ اڳي هليا، وڄائندڙ پويان؛ وچ ۾ ڪواريون دف وڄائينديون.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "اڳي هليا"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ڳائندڙ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پويان"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "وڄائندڙ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ڪواريون"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "دف وڄائينديون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:46.837383936Z",
+  "model": "glm-5.3"
+}

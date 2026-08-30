@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "عَنَتُوث، نُوب، عَنَنْيَہ۔",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "عَنَتُوث"
+    },
+    {
+      "surface": "נב",
+      "gloss": "نُوب"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "عَنَنْيَہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:26.024874107Z",
+  "model": "glm-5.3"
+}

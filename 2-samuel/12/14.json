@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "رڳو هن ڪم ۾ تو ياهوه جي دشمنن ⟨את⟩ کي حقير ثابت ڪيو آهي؛ تنهنڪري پڻ تو لاءِ ڄاول پٽ ضرور مرندو.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "حقير"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "ثابت ڪيو آهي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جي دشمنن"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "دشمنن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "هن ڪم ۾"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ڄاول"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ضرور"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرندو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:20:19.563557338Z",
+  "model": "glm-5.3"
+}

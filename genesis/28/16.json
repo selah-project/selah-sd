@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 28:16",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ يعقوب پنهنجي ننڍ مان جاڳيو ۽ چيائين: بيشڪ ياهوه هن جاءِ تي آهي، ۽ مون کي خبر نه هئي.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "۽ جاڳيو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "پنهنجي ننڍ مان"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "هن جاءِ تي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "۽ مون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "خبر هئي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:48:06.075677038Z",
+  "model": "glm-5.3"
+}

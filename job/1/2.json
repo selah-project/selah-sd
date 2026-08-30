@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ کيس پُتر ڄاوا، ستن پُتر ۽ ٽي ڌيئر.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "۽ ڄاوا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ستن"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيئر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:34:29.398148871Z",
+  "model": "glm-5.3"
+}

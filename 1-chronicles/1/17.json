@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "شَم جا پُٽ: عيلام ۽ اشور ۽ ارفڪشاد ۽ لود ۽ ارام، ۽ عُوض ۽ حُول ۽ گيثر ۽ مشيخ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شَم"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "۽ اشور"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "۽ ارفڪشاد"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "۽ لود"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "۽ ارام"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "۽ عُوض"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "۽ حُول"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "۽ گيثر"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "۽ مشيخ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:52.294530302Z",
+  "model": "glm-5.3"
+}

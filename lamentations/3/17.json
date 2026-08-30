@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۾ ان ⟨ياهوه⟩ منهنجي نفس کي سلامتيءَ کان پري ڪري ڇڏيو؛ مون ڀلائي وساري ڇڏي.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "پري ڪري ڇڏيو"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "سلامتيءَ کان"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منهنجي نفس"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "مون وساري ڇڏي"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ڀلائي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:06:57.534628746Z",
+  "model": "glm-5.3"
+}

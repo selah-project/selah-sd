@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "اڄ توهان نڪري رھيا آھيو، ابيب مهيني ۾.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "اڄ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "نڪري رھيا آھيو"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مهيني ۾"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ابيب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:37.028140932Z",
+  "model": "glm-5.3"
+}

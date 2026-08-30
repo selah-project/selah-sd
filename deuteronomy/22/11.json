@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "شَعتنز (۾ ڳنڍيل) ڪپڙو نه پاهيو — اَن ۽ سڻ گڏوگڏ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "پاهيو"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "شَعتنز (ملايل ڪپڙو)"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "اَن"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "۽ سڻ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏوگڏ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:29.759770951Z",
+  "model": "glm-5.3"
+}

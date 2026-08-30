@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ نُوح کي ٽي پُٽَ پيدا ٿيا: ⟨את⟩ شيم، ⟨את⟩ حام ۽ ⟨את⟩ يفت.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "پيدا ٿيا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُٽَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شيم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حام"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "يفت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "يفت"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:59.203506018Z",
+  "model": "glm-5.3"
+}

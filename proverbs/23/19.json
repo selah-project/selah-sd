@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ٻڌ، تون، پٽ منھنجو، ۽ حڪيم ٿيءُ، ۽ رستي ۾ دلِ تنهنجيءَ کي سڌو ڪر.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ منھنجو"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "۽ حڪيم ٿيءُ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "۽ سڌو ڪر"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي ۾"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دلِ تنهنجيءَ کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:33.308196997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "بعنا پٽ حوشي، آشر ۽ بعلاوت ۾۔",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "بعنا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "حوشي"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "آشر ۾"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "۽ بعلاوت ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:27:10.609853588Z",
+  "model": "glm-5.3"
+}

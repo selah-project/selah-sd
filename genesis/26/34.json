@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 26:34",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ عيسو چاليھ سالن جو ٿيو ۽ زال وٺيائين ⟨את⟩ يهوديت کي، بيري حثيءَ جي ڌيءَ، ۽ ⟨את⟩ بسمت کي، ايلون حثيءَ جي ڌيءَ۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "وٺيائين"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوديت"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "يهوديت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "بيري"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حثي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بسمت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بسمت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "אילן",
+      "gloss": "ايلون"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حثي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:57.480590181Z",
+  "model": "glm-5.3"
+}

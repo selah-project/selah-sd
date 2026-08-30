@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "سج ۽ چنڊ پنھنجي رهائش ۾ بيٺا؛ تيرين جي روشنيءَ ۾ ⟨اھي⟩ ھليا، نيزي جي بجليءَ جي چمڪ ۾۔",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "چنڊ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "بيٺا"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "پنھنجي رهائش ۾"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "روشنيءَ ۾"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "تيرين جي"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ھليا"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "چمڪ ۾"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "بجليءَ جي"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "نيزي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:12.899611216Z",
+  "model": "glm-5.3"
+}

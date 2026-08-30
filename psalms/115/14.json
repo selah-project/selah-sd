@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 115,
+  "translation": "ياهوه توهان تي، توهان تي ۽ توهان جي ٻارن تي اضافو ڪندو.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "اضافو ڪندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "توهان تي"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "توهان تي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ … تي"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "توهان جي ٻارن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:41.414041951Z",
+  "model": "glm-5.3"
+}

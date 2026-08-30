@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 10:15",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ڳيڙب مٿي کڻجي ويا؛ اھا ئي اھا جيواڙي آھي جا مَ ندي ڪبار جي ڪناري تي ڏٺي ھيم.",
+  "tokens": [
+    {
+      "surface": "וירמו",
+      "gloss": "۽ مٿي کڻجي ويا"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ڳيڙب"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اھا ئي"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "اھا جيواڙي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مَ ڏٺي ھيم"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "نديءَ ۾"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ڪبار"
+    }
+  ],
+  "timestamp": "2026-08-30T12:29:20.971785176Z",
+  "model": "glm-5.3"
+}

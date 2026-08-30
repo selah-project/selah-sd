@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ يرمياهو ⟨هو⟩ ايندو ۽ نڪرندو هو ماڻهن جي وچ ۾، ڇوته کيس اڃا نه وڌو هو قيد جي گهر ۾.",
+  "tokens": [
+    {
+      "surface": "וירמיהو",
+      "gloss": "۽ يرمياهو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ايندو هو"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "۽ نڪرندو هو"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "وלא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "وڌو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ کيس",
+      "marks": "قيد جي گهر ۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "قيد"
+    }
+  ],
+  "timestamp": "2026-08-30T14:56:59.510639859Z",
+  "model": "glm-5.3"
+}

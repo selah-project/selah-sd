@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "اڪويھون ياخين لاءِ، ٻاويھون گامول لاءِ.",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "ياحين لاءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھه"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "گامول لاءِ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:16.813202404Z",
+  "model": "glm-5.3"
+}

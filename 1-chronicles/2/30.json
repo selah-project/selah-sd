@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ناداب جا پٽ سيلد ۽ اَپّايم ھئا؛ ۽ سيلد مري ويو، پٽ نہ ھوس.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ناداب جا"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سيلد"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "۽ اَپّايم"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري ويو"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سيلد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:18.957243846Z",
+  "model": "glm-5.3"
+}

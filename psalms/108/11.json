@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 108,
+  "translation": "ڪير مون کي محصور شهر ۾ آندو؟ ڪير مون کي ادوم تائين واٺ ڏنو؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "مون کي آندو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "محصور"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "مون کي واٺ ڏنو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:29.709708108Z",
+  "model": "glm-5.3"
+}

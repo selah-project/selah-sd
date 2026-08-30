@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "اهي حڪم آهن، جي ياهوه موشي کي ⟨את⟩ اسرائيل جي پٽن لاءِ سِينا جي جبل تي ڏنا.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل تي"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سِينا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:24.511549596Z",
+  "model": "glm-5.3"
+}

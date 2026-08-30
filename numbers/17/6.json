@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 17:6",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ ٻئي ڏينهن بني اسرائيل جي ساري جماعت موشي ۽ اهارن تي شڪو ڪيو، چوندي: توهان ياهوه جي قوم کي ⟨את⟩ ماريو.",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "شڪو ڪيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ٻئي ڏينهن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽…تي"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "המתם",
+      "gloss": "ماريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جي قوم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:16.894875108Z",
+  "model": "glm-5.3"
+}

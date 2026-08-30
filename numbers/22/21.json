@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "پر بِلعام صبح جو اُٿيو ۽ پنهنجي ⟨את⟩ ڏاچي کي جُوتيو ۽ موآب جي سردارن سان گڏ روانو ٿيو.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٿيو"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح جو"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "جُوتيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجي ڏاچي"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ڏاچي"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "روانو ٿيو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:15.973053244Z",
+  "model": "glm-5.3"
+}

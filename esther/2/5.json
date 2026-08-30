@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 2:5",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ھڪ يھودي ماڻھو شوشن قلعي ۾ ھو، ۽ سندس نالو مردخي ھو، يائر جو پٽ، شمعي جو پٽ، قيش جو پٽ، ھڪ بنياميني ماڻھو.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "يھودي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ھو"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "شوشن ۾"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "قلعو"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "۽ سندس نالو"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردخي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "يائر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "قيش"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "بنياميني"
+    }
+  ],
+  "timestamp": "2026-08-30T13:55:00.908943282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 20:24",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ اسرائيل جي پٽن ٻئي ڏينھن بنيامين جي پٽن ڏانھن ويجھا ٿيا.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ويجھا ٿيا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جي پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جي پٽن"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻئي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:05:02.580870749Z",
+  "model": "glm-5.3"
+}

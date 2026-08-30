@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 16:39",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ ⟨את⟩ صادوق ڪاھن ۽ سندس ڀائر ڪاھن، ياهوه جي مسكن اَمام، اُچي ماٿي ۾ جا گِبعون ۾ آھي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "صادوق ڪاھن"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاھن"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "۽ سندس ڀائر"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاھن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اَمام"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مسكن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "اُچي ماٿي ۾"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "گِبعون ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:26.312410750Z",
+  "model": "glm-5.3"
+}

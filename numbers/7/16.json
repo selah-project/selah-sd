@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "هڪ ٻڪري جو تَکُ، پاپ قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "تَکُ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻڪري جو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "لחטאת",
+      "gloss": "پاپ قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:03.982026611Z",
+  "model": "glm-5.3"
+}

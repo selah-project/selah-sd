@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 31:2",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ مهراڻ مٿان ايلوه جو حصو، ۽ ماٿراڻان شداي جي وراثت؟",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "۽ مہ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "حصو"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ايلوه"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "مٿان (مَتانِ)"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "۽ وراثت"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شداي"
+    },
+    {
+      "surface": "ממרמים",
+      "gloss": "ماٿراڻان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:42:02.609735560Z",
+  "model": "glm-5.3"
+}

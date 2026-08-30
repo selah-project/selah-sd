@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ پرعوه جي ڌيءَ ان کي چيو: ”وڃ.“ ۽ نينگر وئي ۽ ⟨את⟩ ٻار جي ماءُ کي سڏيائين.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "פרעه",
+      "gloss": "پرعوه"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "۽ وئي"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "نينگر"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "۽ سڏيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٻار جي ماءُ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ماءُ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ٻار جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:57:13.911786601Z",
+  "model": "glm-5.3"
+}

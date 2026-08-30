@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڪِرِيَت يِعارِم، ڪِفِيره ۽ بِيروت جا ماڻھو: سَت سَو تَتاليھ۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "جا ماڻھو"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ڪِرِيَت"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "يِعارِم"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "ڪِفِيره"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "۽ بِيروت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليھ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "۽ ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:52.764185865Z",
+  "model": "glm-5.3"
+}

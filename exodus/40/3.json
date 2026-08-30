@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ تون اُتي ⟨את⟩ گواھي جي صندوق رکڻ ۽ صندوق تي ⟨את⟩ پردو ڇانئڻ.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "۽ رکڻ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گواھي جي صندوق"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "گواھي جي"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "۽ ڇانئڻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردو"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "پردو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:07.172856328Z",
+  "model": "glm-5.3"
+}

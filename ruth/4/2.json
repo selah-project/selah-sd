@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ بوعز ڳوٺ جي پڙاڻن مان ڏھ ماڻھن کي وٺي چيو، ھِتي ويٺا ٿيو؛ ۽ اُھي ويٺا.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "۽ وٺي"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏھ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "پڙاڻن مان"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ڳوٺ جي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ويٺا ٿيو"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ھِتي"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "۽ ويٺا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:21.347963625Z",
+  "model": "glm-5.3"
+}

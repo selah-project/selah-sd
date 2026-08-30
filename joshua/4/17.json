@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "پوءِ يهوشع ⟨את⟩ ڪاهنن کي حڪم ڪيو ته چويس: „چاڙهجي اُٿو يردن مان.“",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪاهنن"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهنن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته چويس"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "چاڙهجي اُٿو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "يردن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:49:00.316303657Z",
+  "model": "glm-5.3"
+}

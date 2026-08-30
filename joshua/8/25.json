@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ ٿيو ته جيڪي ان ڏينهن مري پيا، مڙس کان عورت تائين، ⟨اھي⟩ ٻارهن هزار ھيا — عي جا سڀ ماڻهو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "جيڪي مري پيا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينهن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "انھيءَ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "مڙس کان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ تائين"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ـارھن"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "جا ماڻهو"
+    },
+    {
+      "surface": "העי",
+      "gloss": "عي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:50:40.921720108Z",
+  "model": "glm-5.3"
+}

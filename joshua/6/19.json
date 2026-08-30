@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 6:19",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ سڀ چاندي ۽ سون ۽ ٽامي ۽ لوهه جا ٿانوَ پاڪ ⟨آهن⟩ ياهوه لاءِ؛ ياهوه جي خزاني ۾ ايندا.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "۽ سون"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "۽ ٿانوَ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ٽامي"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "۽ لوهه"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨آهن⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "אוצר",
+      "gloss": "خزاني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ايندا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:50:10.796946789Z",
+  "model": "glm-5.3"
+}

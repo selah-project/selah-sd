@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "نيٺي (علم) همت ۽ ياهوه جو ڀير — دولت ۽ عزت ۽ حياتي.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "نيٺي"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "همت"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ڀير"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "۽ عزت"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "۽ حياتي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:56.497641209Z",
+  "model": "glm-5.3"
+}

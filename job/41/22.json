@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 41:22",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "ھن جي ھيٺان تراشيل ٺڪر جا ٽڪرا آھن، ۽ هو گپ تي ڦلڻ پکيڙي ٿو.",
+  "tokens": [
+    {
+      "surface": "תחתיו",
+      "gloss": "ھن جي ھيٺان"
+    },
+    {
+      "surface": "חדודי",
+      "gloss": "تراشيل"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ٺڪر جا ٽڪرا"
+    },
+    {
+      "surface": "ירפד",
+      "gloss": "پکيڙي ٿو"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "ڦلڻ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "تي"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "گپ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:38.195493812Z",
+  "model": "glm-5.3"
+}

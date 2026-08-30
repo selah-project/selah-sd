@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "پوءِ اھو ٿيو ته پوءِ داويد پلشتين کي ماريو ۽ کين جھڪايو، ۽ گٿ ۽ ان جا ڳوٺ پلشتين جي ھٿان کسي ورتا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ان کان پوءِ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ماريو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پلشتي"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتي"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "کين جھڪايو"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ورتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گٿ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گٿ"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "۽ ان جا ڳوٺ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ھٿان"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:30.477046073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "هن چيو: مون کي ناعومي سڏڻ نه گهرجي؛ مون کي مارا سڏيو، ڇوته شداي مون کي تمام کَٽو ڪري ڇڏيو آهي.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "هن چيو"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "مٿن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "سڏڻ گهرجي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "נעمי",
+      "gloss": "ناعومي"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "مارا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "המר",
+      "gloss": "کَٽو ڪري ڇڏيو"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شداي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:12.012511616Z",
+  "model": "glm-5.3"
+}

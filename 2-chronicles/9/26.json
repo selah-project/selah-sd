@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 9:26",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ⟨هو⟩ سڀني بادشاهن تي حاڪم هو، نهر کان فلسطينين جي ملڪ تائين ۽ متسرايم جي سرحد تائين.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "حاڪم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀني تي"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "بادشاهن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ملڪ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلسطينين"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    }
+  ],
+  "timestamp": "2026-08-30T15:12:11.064201761Z",
+  "model": "glm-5.3"
+}

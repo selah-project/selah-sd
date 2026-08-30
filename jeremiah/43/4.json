@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 43:4",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "پوءِ يوحنان پٽ ڪارياڇ جو، ۽ لشڪر جا سڀ سردار، ۽ سڀ ماڻھو، ياهوه جي آواز تي نه ٻڌو، تہ يهودا جي زمين ۾ رھن.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "يوحنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ڪارياڇ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "لشڪر جا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آواز تي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "رھڻ لاءِ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:21:53.632740320Z",
+  "model": "glm-5.3"
+}

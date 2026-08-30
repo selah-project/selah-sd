@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "توهان پنهنجي ياهوه ايلوهيم سان ائين نه ڪريو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "توهان ڪريو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "پنهنجي ياهوه سان"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "توهان جي ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:41:22.936707358Z",
+  "model": "glm-5.3"
+}

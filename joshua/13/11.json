@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 13:11",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ گلعاد ۽ جشورين ۽ معاثين جي سرحد، ۽ سڄو جبل حرمون ۽ سمو باشان سلخه تائين،",
+  "tokens": [
+    {
+      "surface": "והגלעד",
+      "gloss": "۽ گلعاد"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "۽ سرحد"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "جشورين جي"
+    },
+    {
+      "surface": "והמעכתי",
+      "gloss": "۽ معاثين جي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڄو"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "حرمون"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سمو"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "سلخه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:19.604212608Z",
+  "model": "glm-5.3"
+}

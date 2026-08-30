@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": " ٽي سال ⟨هو⟩ يروشلم ۾ راڄ ڪيو، ۽ سندس ماءُ جو نالو معكه هو، ڌي ابيشلوم جي.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج ڪيو"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "سندس ماءُ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معكه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌي"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "ابيشلوم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:34:55.387075588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "حڪمت حاصل ڪر، سمجهه حاصل ڪر؛ نه وسارجُ ۽ منهنجي وات جي چوکن کان نه ڏنگو ٿجُ۔",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "حاصل ڪر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "حاصل ڪر"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجهه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "وسارجُ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ڏنگو ٿجُ"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "چوکن کان"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منهنجي وات جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:57.838777353Z",
+  "model": "glm-5.3"
+}

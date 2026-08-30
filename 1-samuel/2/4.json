@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "بهادرن جا کُڻ ڀڳل آھن، ۽ ٻڏندڙن پاڻ کي طاقت سان ڳڍيو آھي.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "کُڻ"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "بهادرن جا"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "ڀڳل آھن"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "۽ ٻڏندڙن"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "ڳڍيو آھي"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "طاقت سان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:06:17.322201307Z",
+  "model": "glm-5.3"
+}

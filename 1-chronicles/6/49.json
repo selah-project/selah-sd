@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "پس يسرائيل جي پٽن لاوين کي ⟨את⟩ شهر ۽ ⟨את⟩ انهن جي چوپائي ميدان ڏنا.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "پس ڏنا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل جي"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "لاوين کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "انهن جي چوپائي ميدان"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "انهن جي چوپائي ميدان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:10.292441663Z",
+  "model": "glm-5.3"
+}

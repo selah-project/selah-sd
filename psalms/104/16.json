@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 104,
+  "translation": "سير آهن ياهوه جا وڻ، لبنان جا ديڏ جيڪي هن چٽا آهن.",
+  "tokens": [
+    {
+      "surface": "يִשְׂבְּעוּ",
+      "gloss": "سير آهن"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "جا وڻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ديڏ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لبنان جا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "چٽا آهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:38.917163055Z",
+  "model": "glm-5.3"
+}

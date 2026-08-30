@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 18:25",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ياهوه موشي سان ڪيائين، چوڻ لاءِ،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڪيائين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:29:35.912034816Z",
+  "model": "glm-5.3"
+}

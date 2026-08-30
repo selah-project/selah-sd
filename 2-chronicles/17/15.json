@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ سندس هَٿَ هيٺ يهوحنان ⟨هو⟩ سردار، ۽ سندس ساٿ ۾ ٻه سَو ۽ ايسي هزار.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ ... هيٺ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "سندس هَٿَ"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "يهوحنان"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨هو⟩ سردار"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "۽ سندس ساٿ ۾"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سَو"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "۽ ايسي"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:36.618721373Z",
+  "model": "glm-5.3"
+}

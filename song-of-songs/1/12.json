@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "جڏھن بادشاھ پنھنجي گول ويھڪ تي هو، تنھن مهل منھنجي نارد پنھنجي خوشبو ڏني",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "پنھنجي گول ويھڪ تي"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "منھنجي نارد"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏني"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "پنھنجي خوشبو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:42.065954459Z",
+  "model": "glm-5.3"
+}

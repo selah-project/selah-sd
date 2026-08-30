@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ مان توکي ۽ ⟨את⟩ هن شهر کي آشور جي بادشاهه جي هٿ کان ڪڍي ڇڏيندس، ۽ مان هن شهر جي حفاظت ڪندس.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "۽ هٿ کان"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "توکي ڪڍيندس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "هن شهر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "۽ مان حفاظت ڪندس"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:57:50.192268998Z",
+  "model": "glm-5.3"
+}

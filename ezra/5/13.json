@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 5:13",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "پر بابل جي بادشاهه ڪورش جي پهرئين سال ۾، ڪورش بادشاهه ⟨حڪم ڏنو⟩ ته هي ايلها جو گھر اڏجي.",
+  "tokens": [
+    {
+      "surface": "ברם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "سال ۾"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "پهرئين"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "ڪورش جي"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "ڪورش"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "رکيو"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ايلها"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לבנא",
+      "gloss": "اڏڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:03:16.204612375Z",
+  "model": "glm-5.3"
+}

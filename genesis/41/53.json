@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ وسعت جا ست سال، جيڪي متسرايم جي زمين ۾ ⟨هئا⟩، پورا ٿي ويا.",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "پورا ٿي ويا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سال"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "وسعت جا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:42.244091505Z",
+  "model": "glm-5.3"
+}

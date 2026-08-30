@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ شاول کي ٻڌايا ويو، ته چوڻ: “ڏسو، داوود نايوت ۾ رامہ ۾ آھي.”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "۽ ٻڌايا ويو"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاول کي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته چوڻ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "نايوت ۾"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "رامہ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:12:07.294900401Z",
+  "model": "glm-5.3"
+}

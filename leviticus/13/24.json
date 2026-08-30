@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 13:24",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "يا جڏھن ماڻھوءَ جي چم ۾ باھ جي ساڙ ھجي ۽ ساڙ جي جيئري چم ھڪ روشن داغ ٿي پوي — ٿورو ڳاڙھاسرو يا اڇو —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماڻھوءَ جو بدن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ھجي"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "چم ۾"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "ساڙ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "باھ جي"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "۽ ٿي پوي"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "جيئري چم"
+    },
+    {
+      "surface": "המכוה",
+      "gloss": "ساڙ جي"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "روشن داغ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "اڇو"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "ڳاڙھاسرو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "اڇو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:50.871372925Z",
+  "model": "glm-5.3"
+}

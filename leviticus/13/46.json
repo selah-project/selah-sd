@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 13:46",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "جيترا ڏينهن نگو منجهس هوندو، اهو اڻپاڪ رهندو؛ ⟨اهو⟩ اڻپاڪ آهي؛ اڪيلو وهندو، ڇانوڙي کان ٻاهر سندس رهائش.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "جيترا سڀ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جي"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نگو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "منجهس"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "اڻپاڪ رهندو"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "اڻپاڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "اڪيلو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "وهندو"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ڇانوڙي کان"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "سندس رهائش"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:28.487716493Z",
+  "model": "glm-5.3"
+}

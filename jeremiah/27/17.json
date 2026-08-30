@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ان جي ڳالھين کي نه ٻڌو؛ بابل جي بادشاهه جي خدمت ڪريو ۽ جيو؛ ڇو هن شهر جو اجايو ٿيڻ گھرجي؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ان جي ڳالھين کي"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خدمت ڪريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بابل جي بادشاهه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "۽ جيو"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿيڻ گھرجي"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "هن شهر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "اجايو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:16:36.353525421Z",
+  "model": "glm-5.3"
+}

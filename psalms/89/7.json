@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "ڇوته آسمان ۾ ياهوه جهڙو ڪير؟ بيٽن مان ياهوه جهڙو ڪير؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "آسمان ۾"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "مقابل ڪري سگهي"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جهڙو"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "ممشابهه ٿي سگهي"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جهڙو"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "بيٽن مان"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "طاقتورن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:00.790315476Z",
+  "model": "glm-5.3"
+}

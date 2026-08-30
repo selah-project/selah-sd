@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "نحمياہ بن حکلياہ جا لفظ. ۽ ٿيو ته مھيني کسلو ۾، ويھين سال، ۽ مان شوشن ⟨ال⟩ قلعي ۾ ھوس.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "جا لفظ"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "نحمياہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "حکلياہ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مھيني ۾"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "کسلو"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھين"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ھوس"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "شوشن ۾"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "قليلي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:05:57.202086257Z",
+  "model": "glm-5.3"
+}

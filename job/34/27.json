@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 34:27",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "ڇوته اُھي ھن کان موڙي ويا ۽ سندس سارين رستن تي نه سوچيو.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "על",
+      "gloss": "ان سبب"
+    },
+    {
+      "surface": "כן",
+      "gloss": "سان"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "موڙي ويا"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "هن کان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سارين"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "سندس رستن تي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "سوچيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:42:46.828430539Z",
+  "model": "glm-5.3"
+}

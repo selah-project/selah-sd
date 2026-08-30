@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "پوءِ حنانيا نبي ⟨את⟩ جوءِ کي يرميا نبي جي ڳچيءَ مان کسي ٽوڙي ڇڏيو.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "پوءِ کسيو"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حنانيا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جوءِ"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "جوءِ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "مان"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "ڳچيءَ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "يرميا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "ٽوڙي ڇڏيو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:16:10.829528869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "اهو لفظ جو ياهوه بابل جي باري ۾ ۽ ڪلدائي (ڪَشديم) جي زمين جي باري ۾ نبين يرميهو (يرميا) جي هٿ چيو.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "اهو لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "جي باري ۾"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۽ جي باري ۾"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ڪَشديم (ڪلدائي)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "جي هٿ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرميهو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:24:51.714561235Z",
+  "model": "glm-5.3"
+}

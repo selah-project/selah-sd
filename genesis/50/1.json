@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "پوءِ يوسف پنهنجي پيءُ جي مُنهن تي ڪريو، ۽ مٿس روئيو، ۽ کيس چُمو ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "پوءِ ڪريو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُنهن"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پنهنجي پيءُ جي"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "۽ روئيو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "۽ چُمو ڪيائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    }
+  ],
+  "timestamp": "2026-08-30T14:35:11.534259919Z",
+  "model": "glm-5.3"
+}

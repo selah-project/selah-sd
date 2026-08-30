@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "سندس اڳيان جي چمڪ کانِ باهه جا ڀڙڪا ڀڙڪي ويا.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "چمڪ کانِ"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "سندس اڳيان جي"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "ڀڙڪي ويا"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "ڀڙڪا"
+    },
+    {
+      "surface": "אש",
+      "gloss": "باهه جا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:33.697404452Z",
+  "model": "glm-5.3"
+}

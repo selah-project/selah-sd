@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 38:29",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "ڪهڙي جي پيٽ مان برف نکتي، ۽ آسمانن جي اُوس ڪنهن جنمي؟",
+  "tokens": [
+    {
+      "surface": "מבטן",
+      "gloss": "ڪهڙي جي پيٽ مان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪنهن"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکتي"
+    },
+    {
+      "surface": "הקרח",
+      "gloss": "برف"
+    },
+    {
+      "surface": "וכפור",
+      "gloss": "۽ اُوس"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانن جي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪنهن"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "جنمي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:05.710107474Z",
+  "model": "glm-5.3"
+}

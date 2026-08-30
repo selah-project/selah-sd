@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇا بيسواب شي بنا نمڪ کائبي آهي؟ يا ڇا هلمنوٽ جي رس ۾ ڪو ذائقو آهي؟",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "ڇا کائبي آهي"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "بيسواب شي"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "بنا"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "نمڪ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "يا ڇا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ذائقو"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "رس"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "هلمنوٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:22.896221533Z",
+  "model": "glm-5.3"
+}

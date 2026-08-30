@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "پوءِ ايلياهو اخآب اڳيان ظاھر ٿيڻ لاءِ ويو، ۽ قحط سخت هو شومرون ۾.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ويو"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ايلياهو"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "ظاھر ٿيڻ لاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اخآب"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "۽ قحط"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "شومرون ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:35:11.008584958Z",
+  "model": "glm-5.3"
+}

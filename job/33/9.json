@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "“پاڪ آھيان مان، بغير بغاوت جي؛ نروار آھيان مان، ۽ مون کي ڪوبه گناهه ⟨ناهي⟩.",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آھيان مان"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بغير"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "بغاوت جي"
+    },
+    {
+      "surface": "חף",
+      "gloss": "نروار"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آھيان مان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ ناهي"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناهه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:41:31.361036387Z",
+  "model": "glm-5.3"
+}

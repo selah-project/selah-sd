@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "مان ⟨آهيان⟩ پنهنجي محبوب جي، ۽ منهنجو محبوب ⟨آهي⟩ مون جو؛ جيڪو سوسن ۾ چاري ٿو.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "پنهنجي محبوب جي"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "۽ منهنجو محبوب"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون جو"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "جيڪو چاري ٿو"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "سوسن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:21.473548701Z",
+  "model": "glm-5.3"
+}

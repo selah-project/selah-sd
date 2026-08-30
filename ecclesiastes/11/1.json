@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "پنهنجي ماني پاڻيءَ جي مٿاڇري تي موڪل، ڇوته ڪيترن ئي ڏينهنن کان پوءِ تون ان کي لھندين.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "موڪل"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "پنهنجي ماني"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مٿاڇري"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻيءَ جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ڪيترن ئي"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڏينهنن"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ان کي لھندين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:57.614304754Z",
+  "model": "glm-5.3"
+}

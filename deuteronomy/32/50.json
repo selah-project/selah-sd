@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 32:50",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ ان جبل تي مر، جنهن تي تون چڙھي اُتي وڃين ٿو، ۽ پنھنجي قوم ۾ گڏ ٿي، جيئن اهارون تنھنجو ڀاءُ هور جبل تي مريو ۽ پنھنجي قوم ۾ گڏ ٿيو.",
+  "tokens": [
+    {
+      "surface": "ומת",
+      "gloss": "۽ مر"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل تي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڙھي ٿو"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "והאסף",
+      "gloss": "۽ گڏ ٿي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "پنھنجي قوم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مريو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تنھنجو ڀاءُ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل ۾"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ان جبل"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "۽ گڏ ٿيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "پنھنجي قوم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:13.570670742Z",
+  "model": "glm-5.3"
+}

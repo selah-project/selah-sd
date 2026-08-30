@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 5:18",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "زبلون هڪ قوم جنهن پنھنجي نفس موت لاءِ اوڊيڙي، ۽ نفتالي، ميدان جي ماٿرين تي.",
+  "tokens": [
+    {
+      "surface": "זבלון",
+      "gloss": "زبلون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "هڪ قوم"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "اوڊيڙي"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "پنھنجي نفس"
+    },
+    {
+      "surface": "למות",
+      "gloss": "موت لاءِ"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "۽ نفتالي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מרומי",
+      "gloss": "ماٿرين"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ميدان جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:58:18.386743478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 35:26",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ زلپهہ جا پُٽ، جيڪي لياهہ جي غلامي هئي، گاد ۽ آشر: اھي ⟨هي⟩ يعقوب جا پُٽ ھئا، جي پدّان-ارام ۾ کيس ڄايا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پُٽ"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زلپهہ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "غلامي"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لياهہ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "۽ آشر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنھن"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄايا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "پدّان ۾"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارام"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:52.345365217Z",
+  "model": "glm-5.3"
+}

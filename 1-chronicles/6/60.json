@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ⟨את⟩ حُکُق ۽ ⟨את⟩ ان جا مگراشہ، ⟨את⟩ رحُب ۽ ⟨את⟩ ان جا مگراشہ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حُکُق"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "حُکُق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ان جا مگراشہ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ان جا مگراشہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "رحُب"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "رحُب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ان جا مگراشہ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ان جا مگراشہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:58.125798499Z",
+  "model": "glm-5.3"
+}

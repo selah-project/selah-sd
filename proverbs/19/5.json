@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "جھوٽن جو شاهد بے-سزا نه رھندو، ۽ جيڪو ڪوڙَ وات ۾ گھلي ٿو سو نه بچندو.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "جھوٽن جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بے-سزا رھندو"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "۽ وات ۾ گھلي ٿو"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ڪوڙَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:41.481084556Z",
+  "model": "glm-5.3"
+}

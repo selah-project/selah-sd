@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "مَونَ وِيڙَيو مَونَ شَرَبَ جِي گَهرِ ۾، ۽ سَنَ جِي ڪَنَ مَونَ تَي مُحَبَّت جو.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "مَونَ وِيڙَيو مَونَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گَهرِ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شَرَبَ جِي"
+    },
+    {
+      "surface": "ודגלو",
+      "gloss": "۽ سَنَ جِي ڪَنَ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مَونَ تَي"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "مُحَبَّت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:17.758534257Z",
+  "model": "glm-5.3"
+}

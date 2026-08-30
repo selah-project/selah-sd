@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 87,
+  "translation": "شاندار شيءون توتي بابت چيو وڃي ٿو، اي ايلوهيم جي شھر. سلاه.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "شاندار شيءون"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "چيو وڃي ٿو"
+    },
+    {
+      "surface": "בך",
+      "gloss": "توتي بابت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شھر"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم جي"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:59.602690293Z",
+  "model": "glm-5.3"
+}

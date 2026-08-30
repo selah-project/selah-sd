@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 19:11",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ سندن سرحد سمنڊ ڏانهن مڙي چڙهي، مرعله تائين، ۽ دبشeth سان لڳي، ۽ نئي سان لڳي جا يقنام جي اڳيان آهي۔",
+  "tokens": [
+    {
+      "surface": "ועלה",
+      "gloss": "۽ چڙهي"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "سندن سرحد"
+    },
+    {
+      "surface": "לימה",
+      "gloss": "سمنڊ ڏانهن"
+    },
+    {
+      "surface": "ומרעלה",
+      "gloss": "۽ مرعله"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "۽ لڳي"
+    },
+    {
+      "surface": "בדבשת",
+      "gloss": "دبشeth سان"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "۽ لڳي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نئي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منهن جي"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "يقنام"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:17.809823212Z",
+  "model": "glm-5.3"
+}

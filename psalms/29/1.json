@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "مزمور داوود لاءِ. ڏيو ياهوه کي، اي ايليم جا پٽ، ڏيو ياهوه کي جلال ۽ طاقت.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود لاءِ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ڏيو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ايليم جا"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ڏيو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "۽ طاقت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:28.765830400Z",
+  "model": "glm-5.3"
+}

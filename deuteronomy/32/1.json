@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "سڻو، اي آسمان، ۽ مان ڳالهائيندس؛ ۽ زمين منهن جون ڳالهيون ٻڌي.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "سڻو"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "۽ مان ڳالهائيندس"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "۽ ٻڌي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ڳالهيون"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منهن جون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:57.169485969Z",
+  "model": "glm-5.3"
+}

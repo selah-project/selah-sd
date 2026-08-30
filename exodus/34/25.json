@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "خمير ٿيل شيءِ سان مون جي قرباني جو رت نه ڪُهه، ۽ فسح جي ميلي جي قرباني صبح تائين نه رهجي وڃي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "ڪُهه"
+    },
+    {
+      "surface": "על",
+      "gloss": "سان"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "خمير ٿيل شيءِ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "مون جي قرباني"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "رهجي وڃي"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "صبح تائين"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ميلو"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "فسح"
+    }
+  ],
+  "timestamp": "2026-08-30T14:37:31.947477402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 3:51",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ موشي فدي ٿيلن جي چاندي اهارون ۽ سندس پٽن کي ڏني، ياهوه جي وات موجب، جيئن ياهوه موشي کي ⟨את⟩ حڪم ڪيو ھو.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏني"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چاندي"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "הפדים",
+      "gloss": "فدي ٿيلن جي"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اهارون کي"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "۽ سندس پٽن کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:52.127341125Z",
+  "model": "glm-5.3"
+}

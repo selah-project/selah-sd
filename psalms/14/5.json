@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "اُتي ڊانهن ۾ پئجي ويا ڊپ ۾، ڇوته ايلوهيم ڏڍيڪ نسل ۾ آهي.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ڊانهن ۾ پئجي ويا"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ڊپ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "نسل ۾"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ڏڍيڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:01:19.801112343Z",
+  "model": "glm-5.3"
+}

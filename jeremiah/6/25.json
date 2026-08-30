@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "نه نڪرو ٻَڌ ۾ ۽ رستي تي نه هلو، ڇوته دشمن لاءِ تلوار آھي، چوڌاري خوف آھي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "نڪرو"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ٻَڌ ۾"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "۽ رستي تي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "هلو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "دشمن لاءِ"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "خوف"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "چوڌاري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:54:55.457343610Z",
+  "model": "glm-5.3"
+}

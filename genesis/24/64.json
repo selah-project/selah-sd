@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "genesis 24:64",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ ربڪه پنهنجون ⟨את⟩ اکيون کڻي ⟨את⟩ اسحاق کي ڏٺو، ۽ اُٺ تان هيٺ ڪري پئي.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "کڻي"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ربڪه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجون اکيون"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "پنهنجون اکيون"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "اسحاق"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "هيٺ ڪري پئي"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "تان"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "اُٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:56.256198520Z",
+  "model": "glm-5.3"
+}

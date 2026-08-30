@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "⟨هو⟩ اها خوبصورت ۽ نازڪ عورت، صهيون جي ڌيءُ — مون ⟨ڀلي ڪري⟩ تباهه ڪيو.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "خوبصورت"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "۽ نازڪ عورت"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "مون تباهه ڪيو"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءُ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:08:48.255937385Z",
+  "model": "glm-5.3"
+}

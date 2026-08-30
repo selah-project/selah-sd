@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ داوود پنهنجن پيءُ سان سمهي ويو، ۽ داوود جي شهر ۾ دفن ٿيو.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "۽ سمهي ويو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "پنهنجن پيءُ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "۽ دفن ٿيو"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شهر ۾"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:27:10.777272653Z",
+  "model": "glm-5.3"
+}

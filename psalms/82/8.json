@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 82,
+  "translation": "اُٿ، اي ايلوهيم، زمين جو فيصلو ڪر؛ ڇوته سڀ قومن جو وارث ٿيندؤ.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٿ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اي ايلوهيم"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "فيصلو ڪر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "وارث ٿيندؤ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:52.585688096Z",
+  "model": "glm-5.3"
+}

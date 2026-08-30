@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ماڻھوءَ چيو: اُها زال، جا تون مون سان گڏ ڏني، اُڻ آن کي ان وڻ مان ڏنو، ۽ مَنھن کاڌو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻھوءَ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ڏني"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "مون سان گڏ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُڻ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "آن کي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-مان"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "کاڌو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:13.911199553Z",
+  "model": "glm-5.3"
+}

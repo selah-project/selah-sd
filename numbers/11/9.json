@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ جڏھن رات ۾ پڻهير ڇانوڻيءَ تي لھندي ھئي، تڏھن من اُن تي لھندو ھو.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "۽ جڏھن … لھندي ھئي"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "پڻهير"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ڇانوڻيءَ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات ۾"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "لھندو ھو"
+    },
+    {
+      "surface": "המן",
+      "gloss": "من"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:01.294409750Z",
+  "model": "glm-5.3"
+}

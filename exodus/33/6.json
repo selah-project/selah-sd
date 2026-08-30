@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ بني اسرائيل ⟨את⟩ پنهنجا سنگھار حورب جبل کان لاهي ڇڏيا.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "۽ لاهي ڇڏيا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجا سنگھار"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "پنهنجا سنگھار"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "حورب جبل کان"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "حورب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:08:59.563462604Z",
+  "model": "glm-5.3"
+}

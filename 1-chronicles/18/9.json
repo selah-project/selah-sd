@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "پوءِ ٻُڌائين توعو، حماٿ جي بادشاهه، ته داويد هددعزر صوبه جي بادشاهه جي سموري لشڪر کي ⟨את⟩ ماريو.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "پوءِ ٻُڌائين"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "توعو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماٿ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ماريو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سموري لشڪر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سموري"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "هددعزر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صوبه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:53.382279998Z",
+  "model": "glm-5.3"
+}

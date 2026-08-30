@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ مڪياهو، پٽ جمرياهو جي، پٽ شافنَ جي، ٻُڌو ⟨את⟩ سڀ لفظ ياهوه جا، ڪتاب کان مٿان.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "۽ ٻُڌو"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "مڪياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "جمرياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "شافن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "کان مٿان"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ڪتاب"
+    }
+  ],
+  "timestamp": "2026-08-30T12:19:13.549009055Z",
+  "model": "glm-5.3"
+}

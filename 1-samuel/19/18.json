@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 19:18",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ داوود ڀڳو ۽ بچي نڪتو ۽ شمويل ڏانهن رامہ ۾ آيو ۽ کيس ٻڌايو ⟨את⟩ سڀ جيڪي شاول سان ڪيا هُينس؛ ۽ هو ۽ شمويل ويا ۽ نايوت ۾ رهيا.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "۽ داوود"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ڀڳو"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "بچي نڪتو"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمويل"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "رامہ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ٻڌايو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سان"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ويا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "۽ شمويل"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "رهيا"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "نايوت ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:12:07.294737308Z",
+  "model": "glm-5.3"
+}

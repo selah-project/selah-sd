@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "اُنھيءَ وقت ياربعم جو پُٽ ابيا بيمار ٿي ويو.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "اُنھيءَ وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اُنھيءَ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "بيمار ٿي ويو"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "ياربعم",
+      "gloss": "ياربعم جو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:33:49.555745216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "شاندار تخت، بلند، شروع کان، ⟨هو⟩ اسان جي مقدس جاءِ جو مَقام.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شاندار"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "شروع کان"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مَقام"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "اسان جي مقدس جاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:11:52.725479532Z",
+  "model": "glm-5.3"
+}

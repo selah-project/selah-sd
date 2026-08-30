@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ سليمان کيس ⟨את⟩ سندس سڀن ڳالهين ٻڌايون؛ بادشاهه کان ڪا ڳالھ لڪيل نه هئي جا کيس نه ٻڌائي هجي.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "۽ ٻڌايون"
+    },
+    {
+      "surface": "לה",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "سليمان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀن ڳالهين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀن"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "سندس ڳالهين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هئي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "لڪيل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ٻڌائي"
+    },
+    {
+      "surface": "לה",
+      "gloss": "کيس"
+    }
+  ],
+  "timestamp": "2026-08-30T11:31:18.200996919Z",
+  "model": "glm-5.3"
+}

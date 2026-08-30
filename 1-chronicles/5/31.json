@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ ابيشوع ⟨את⟩ بُڪّي کي پيدا ڪيو، ۽ بُڪّي ⟨את⟩ عُزّي کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "۽ ابيشوع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بُڪّي"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بُڪّي"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "۽ بُڪّي"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عُزّي"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزّي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:18.530195907Z",
+  "model": "glm-5.3"
+}

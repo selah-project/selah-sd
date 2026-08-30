@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 30:12",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "يهودا ۾ پڻ ايلوهيم جو هٿ هو، کين هڪ دل ڏيڻ لاءِ ته بادشاهه ۽ اميرن جي حڪم کي ياهوه جي لفظ موجب پورو ڪن.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "يهودا ۾"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم جو"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ڏيڻ لاءِ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "پورو ڪن"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حڪم کي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه جي"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "۽ اميرن جي"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "لفظ موجب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:29:57.286033980Z",
+  "model": "glm-5.3"
+}

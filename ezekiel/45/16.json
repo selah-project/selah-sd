@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "ملڪ جو سمو ماڻهو هن اُهليسَ ۾ شامل رهندا، اسرائيل ۾ شهزادي لاءِ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سمو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملڪ جو"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "رهندا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾ شامل"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "هن اُهليسَ ۾"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "شهزادي لاءِ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائيل ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:42:42.601336179Z",
+  "model": "glm-5.3"
+}

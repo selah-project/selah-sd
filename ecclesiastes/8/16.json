@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "جڏهن مون ⟨את⟩ پنهنجو دل ڏنو حڪمت ڄاڻڻ لاءِ ۽ ⟨את⟩ مشغولي ڏسڻ لاءِ جا زمين تي ڪئي وڃي ٿي، ته به ڏينهن ۽ رات ۾ سندس اکين کي ننڊ نه ٿي ڏسي.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "مون ڏنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجو دل"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "پنهنجو دل"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ڄاڻڻ لاءِ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "۽ ڏسڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مشغولي"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "مشغولي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ڪئي وڃي ٿي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "۽ رات ۾"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ننڊ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "سندس اکين ۾"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏسي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:35.552318476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezekiel 23:43",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ مون چيو ڦٽيل کي — زنا ۾ — هاڻي هو زنا ڪن ٿا سندس زنا سان، ۽ اها پاڻ به.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "לבלה",
+      "gloss": "ڦٽيل کي"
+    },
+    {
+      "surface": "נאופים",
+      "gloss": "زنا ۾"
+    },
+    {
+      "surface": "עת",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "יזנה",
+      "gloss": "زنا ڪن ٿا"
+    },
+    {
+      "surface": "תזנותה",
+      "gloss": "سندس زنا سان"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "۽ اها به"
+    }
+  ],
+  "timestamp": "2026-08-30T12:34:40.492601622Z",
+  "model": "glm-5.3"
+}

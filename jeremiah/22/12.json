@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ڇوڪه جنهن جاءِ ۾ کيس جلاوطن ڪيائون، اُتي هو مري ويندو، ۽ ⟨את⟩ هن زمين کي وري نه ڏسيندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪه"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "جنهن جاءِ ۾"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "جلاوطن ڪيائون"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "کيس"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مري ويندو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "هن زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "هن زمين"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ڏسيندو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    }
+  ],
+  "timestamp": "2026-08-30T12:13:30.056203317Z",
+  "model": "glm-5.3"
+}

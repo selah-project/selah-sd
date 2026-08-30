@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ جيڪي توهان لاءِ بيابان ۾ ڪيائين، توهان جي اچڻ تائين، هن هنڌ تائين.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "۽ جيڪي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيائين"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "توهان جي اچڻ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "هن هنڌ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:06.820173358Z",
+  "model": "glm-5.3"
+}

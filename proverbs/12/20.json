@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "برائي رچڻھارن جي دل ۾ ٺڳي ⟨آھي⟩؛ پر سلامتي جي مشوره ڏيڻھارن لاءِ خوشي ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "ٺڳي"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل ۾"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "رچڻھارن"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "پر مشوره ڏيڻھارن لاءِ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:08.880817952Z",
+  "model": "glm-5.3"
+}

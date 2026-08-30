@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "سمجھدار نوڪر حاوي ٿيندو شرمندو ڪندڙ پُٽ تي، ۽ ڀائرن جي وچ ۾ وراثت ورھائيندو.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "نوڪر"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سمجھدار"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "حاوي ٿيندو"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "پُٽ تي"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "شرمندو ڪندڙ"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "۽ جي وچ ۾"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ڀائرن"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "ورھائيندو"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "وراثت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:41.148675996Z",
+  "model": "glm-5.3"
+}

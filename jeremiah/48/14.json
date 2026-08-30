@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "توهان ڪيئن ٿا چئو، “اسان سورما آهيون ۽ جنگ جا بهادر ماڻهو؟”",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "توهان ٿا چئو"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "سورما"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسان"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "۽ ماڻهو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بهادر"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ جا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:13.794521844Z",
+  "model": "glm-5.3"
+}

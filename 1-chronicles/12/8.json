@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ يوعيلاھ ۽ زبدياھ، يروحام جا پٽ، گدور مان،",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "۽ يوعيلاھ"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "۽ زبدياھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "يروحام"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "گدور"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:43.282502389Z",
+  "model": "glm-5.3"
+}

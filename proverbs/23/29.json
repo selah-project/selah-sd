@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 23:29",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ڪنهن کي آھ، ڪنهن کي آفت؟ ڪنهن کي تڪرار، ڪنهن کي پڪار؟ ڪنهن کي بنا سبب زخم، ڪنهن کي اکين جي ڳاڙھائي؟",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "ڪنهن کي"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "آھ"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ڪنهن کي"
+    },
+    {
+      "surface": "אבוי",
+      "gloss": "آفت"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ڪنهن کي"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "تڪرار"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ڪنهن کي"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "پڪار"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ڪنهن کي"
+    },
+    {
+      "surface": "פצעים",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بنا سبب"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ڪنهن کي"
+    },
+    {
+      "surface": "חכללות",
+      "gloss": "ڳاڙھائي"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:31.511534899Z",
+  "model": "glm-5.3"
+}

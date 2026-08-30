@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 78,
+  "translation": "ته شِلو جي مسڪن کي ڇڏيائون — ⟨اوھان⟩ خيما جيڪو ماڻهن وچ ۾ وسيو هو.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "ڇڏيائون"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مسڪن"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "شِلو"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيما"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "وسيو"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ماڻهن وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:27.927876395Z",
+  "model": "glm-5.3"
+}

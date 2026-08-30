@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 7:36",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پنجين ڏينهن شمعون جي پٽن جو سردار شلوميئل بن صوري شداي ھو.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجين"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شلوميئل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "صوري شداي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:19.752157814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ ياهوهُ وٽس ظاهر ٿيو ۽ چيائين: متسرايم ڏانهن نه لهج؛ ان زمين ۾ رهج جنهن بابت آءٌ توکي چوان.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ظاهر ٿيو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "وٽس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "لهج"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "متسرايم ڏانهن"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "رهج"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوان"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "توکي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:43.699222343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "شير، جانورن ۾ جُتن وارو، جيڪو ڪنهن جي اڳيان موٽندو نه آهي؛",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "شير"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جُتن وارو"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "جانورن ۾"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "موٽندو"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪنهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:04.919534917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ يهوشُع صبح جو اُٿي کلي ۽ ڪاهنن ⟨את⟩ ياهوه جي صندوقُ کي کنيو.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "۽ اُٿي کلي"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُع"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح جو"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "۽ کنيو"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهنن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جي صندوقُ کي"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوقُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:49:25.043719650Z",
+  "model": "glm-5.3"
+}

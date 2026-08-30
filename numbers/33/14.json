@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 33:14",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ روانا ٿيا الوش کان، ۽ پڙاءُ ڪيائون رفيدم ۾، ۽ اُتي نہ هيو پاڻي قوم لاءِ پيڻ کي.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "۽ روانا ٿيا"
+    },
+    {
+      "surface": "מאלוש",
+      "gloss": "الوش کان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "۽ پڙاءُ ڪيائون"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "رفيدم ۾"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هيو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قوم لاءِ"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "پيڻ کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:53.296759023Z",
+  "model": "glm-5.3"
+}

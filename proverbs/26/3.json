@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "چابو گهوڙي لاءِ، لغام پٽي کڙي لاءِ، ۽ ڏنڊو نالائقن جي پٺ لاءِ.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "چابو"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "گهوڙي لاءِ"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "لغام پٽي"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "کڙي لاءِ"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "۽ ڏنڊو"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "پٺ لاءِ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نالائقن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:59.838792291Z",
+  "model": "glm-5.3"
+}

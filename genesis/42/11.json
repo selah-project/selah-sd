@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "اسين سڀ هڪ ئي ماڻهوءَ جا پٽ آهيون؛ اسين سچا آهيون؛ تنهنجا ٻڌڪار جاسوس نه آهن.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "اسين سڀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ ئي"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "آهيون"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "سچا"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היו",
+      "gloss": "نه آهن"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "تنهنجا ٻڌڪار"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوس"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:43.178792895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 112,
+  "translation": "زمين ۾ سندس اولاد طاقتور ٿيندو، سڌن جي نسل برڪت وٺندو.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "طاقتور"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "سندس اولاد"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سڌن جي"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برڪت وٺندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:46.136602649Z",
+  "model": "glm-5.3"
+}

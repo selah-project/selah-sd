@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": " Adam جو پٽ، پنھنجو منھن بني عمن ڏانهن موڙ ۽ انهن تي نبوت ڪر.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "موڙ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "پنھنجو منھن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمن"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "۽ نبوت ڪر"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "انهن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:58:10.445603709Z",
+  "model": "glm-5.3"
+}

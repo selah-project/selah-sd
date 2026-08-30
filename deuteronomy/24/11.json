@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ٻاهر بيهجانءُ، ۽ جو ماڻهوءَ تون سندس قرض ڏيڻ وايون اهو ⟨את⟩ گرو ٻاهر تنهنجي لاءِ ڪڍي.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "بيهجانءُ"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "۽ اهو ماڻهوءَ"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "قرض ڏيڻ وايون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ڪڍي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تنهنجي لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گرو"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "گرو"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ٻاهر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:58.090814085Z",
+  "model": "glm-5.3"
+}

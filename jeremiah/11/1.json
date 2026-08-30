@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "اُھو لفظ جيڪو ياهوه وٽان ⟨את⟩ يرمياهو ڏانهن آيو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "اُھو لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "وٽان ⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:10:52.933130277Z",
+  "model": "glm-5.3"
+}

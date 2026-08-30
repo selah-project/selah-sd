@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 18:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "ڦٽيل ڀاءُ مضبوط شهر کان به مشڪل ⟨آھي⟩؛ ۽ اُھڙا تڪرار محل جي ڏارن جهڙا آھن.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "ڀاءُ"
+    },
+    {
+      "surface": "נפשע",
+      "gloss": "ڦٽيل"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "شهر کان"
+    },
+    {
+      "surface": "עז",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "ומדונים",
+      "gloss": "۽ تڪرار"
+    },
+    {
+      "surface": "כבריח",
+      "gloss": "جهڙا ڏار"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "محل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:11.732530344Z",
+  "model": "glm-5.3"
+}

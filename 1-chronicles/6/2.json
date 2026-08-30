@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ اِھي ⟨آھن⟩ گيرشوم جي پُٽن جا نالا: لِبني ۽ شِمعي.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اِھي"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نالا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن جا"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گيرشوم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِبني"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "۽ شِمعي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:39.730625614Z",
+  "model": "glm-5.3"
+}

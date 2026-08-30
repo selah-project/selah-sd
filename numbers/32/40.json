@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ موشي ⟨את⟩ گلعاد ماخير کي، منسي جي پٽ کي ڏنو؛ ۽ ⟨هو⟩ اُتي رهيو.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گلعاد"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "ماخير کي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منسي"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "رهيو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُتي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:55.115014238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ياهوه يھوشع سان چيو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يھوشع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:58.572673513Z",
+  "model": "glm-5.3"
+}

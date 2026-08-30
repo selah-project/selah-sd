@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "اچو، ياهوه جون ڪرتون ڏسو، جنهن زمين ۾ ويرانيون وڌيون آهن.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "اچو"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ڪرتون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وڌيون"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ويرانيون"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T15:02:20.995420664Z",
+  "model": "glm-5.3"
+}

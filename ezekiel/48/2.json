@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ دان جي سرحد تي، اوڀر واري ڪناري کان سمنڊ واري ڪناري تائين، اشر، ھڪ حصو۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان جي"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ڪناري کان"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "اوڀر واري"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ڪناري"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "سمنڊ واري"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اشر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ حصو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:43:21.352600137Z",
+  "model": "glm-5.3"
+}

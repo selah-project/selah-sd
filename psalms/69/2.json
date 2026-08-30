@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 69,
+  "translation": "مون کي بچاءُ اي ايلوهيم، ڇوتهه پاڻي ⟨نفس⟩ تائين اچي ويا آهن.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "مون کي بچاءُ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اي ايلوهيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهه"
+    },
+    {
+      "surface": "באו",
+      "gloss": "اچي ويا آهن"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨نفس⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:42.290691129Z",
+  "model": "glm-5.3"
+}

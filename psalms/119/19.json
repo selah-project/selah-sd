@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "پرديسي آھيان مان زمين تي؛ تنھنجون حڪمون مون کان نه لڪائج.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "پرديسي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آھيان مان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين تي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "لڪائج"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مون کان"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تنھنجون حڪمون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:20:09.872677468Z",
+  "model": "glm-5.3"
+}

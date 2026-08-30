@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ توهان جي ملڪيت جي ساري زمين ۾ زمين لاءِ واپسي جو حق ڏيندا.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "۽ ساري ۾"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "توهان جي ملڪيت"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "واپسي جو حق"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "توهان ڏيندا"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمين لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:27.668721398Z",
+  "model": "glm-5.3"
+}

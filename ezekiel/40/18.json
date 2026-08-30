@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 40:18",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ فرش دروازن جي ڪلهي سان، دروازن جي ڊيگهه جي مقابلي ۾، اُهو ئي هيٺيون فرش.",
+  "tokens": [
+    {
+      "surface": "והרצפה",
+      "gloss": "۽ فرش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "ڪلهو"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازن جي"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "مقابلي ۾"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊيگهه"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازن جي"
+    },
+    {
+      "surface": "הרצפה",
+      "gloss": "فرش"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "هيٺيون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:25.479806770Z",
+  "model": "glm-5.3"
+}

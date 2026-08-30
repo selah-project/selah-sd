@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ توهان پڪا رهو ۽ توهان جون هٿيون نه ڍوريون، ڇوته توهان جي ڪم جو اجر آهي.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "۽ توهان"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "پڪا رهو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ڍوريون ٿين"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "توهان جون هٿيون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "اجر"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "توهان جي ڪم جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:10.402050349Z",
+  "model": "glm-5.3"
+}

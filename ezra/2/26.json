@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "رامه ۽ گبع جي پٽن جو <...> ڇَهه سَو ۽ ويھ ۽ ھڪ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "رامه"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "۽ گبع"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇَهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "۽ ويھ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "۽ ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:30.151684886Z",
+  "model": "glm-5.3"
+}

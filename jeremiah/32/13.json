@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ مَن هنن جي اکين آڏو ⟨את⟩ باروخ کي حڪم ڪيو، ته چوان.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "۽ حڪم ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باروخ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "هنن جي اکين آڏو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته چوان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:17:59.619398681Z",
+  "model": "glm-5.3"
+}

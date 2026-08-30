@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ سڀئي ڄماعت صلاح ڪئي ته ٻيا ست ڏينهن ڪن؛ ۽ ست ڏينهن شادمانيءَ سان ڪيائون.",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "۽ صلاح ڪئي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ڄماعت"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ته ڪن"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻيا"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "۽ ڪيائون"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادمانيءَ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:30:30.013541241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "رت جو وارث پاڻ ⟨את⟩ قاتل کي ماريندو؛ جڏھن هن سان ملي ٿو، ته هو کيس ماريندو.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "وارث"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "پاڻ"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "ماريندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاتل کي"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "جڏھن ملي ٿو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "هن سان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "کيس ماريندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:34.840005460Z",
+  "model": "glm-5.3"
+}

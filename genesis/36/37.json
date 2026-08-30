@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 36:37",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ شملah مري ويو، ۽ سندس جاءِ تي نهر جي رحوبوت وارو شاؤل راڄ ڪيو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري ويو"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "شملah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "۽ راڄ ڪيو"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "سندس جاءِ تي"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "رحوبوت"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "نهر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:19.447973813Z",
+  "model": "glm-5.3"
+}

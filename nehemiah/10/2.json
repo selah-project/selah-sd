@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ مُھرڻ وارن تي (هي آهن): نيحمايه هٿرشٿا حاڪم پُٽ حڪليايه ۽ صدقيya.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "مُھرڻ وارن"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "نيحمايه"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "هٿرشٿا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "حڪليايه"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "۽ صدقيya"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:38.050506552Z",
+  "model": "glm-5.3"
+}

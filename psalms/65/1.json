@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 65,
+  "translation": "مقصد وارڻ واري لاءِ — داويد جو مزمور، ھڪ گيت.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقصد وارڻ واري لاءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داويد جو"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:01.938410562Z",
+  "model": "glm-5.3"
+}

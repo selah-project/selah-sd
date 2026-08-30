@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ته بادشاهه ۽ هامن اِستر راڻيءَ سان گڏ پيئڻ لاءِ آيا.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ته آيا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "۽ هامن"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "پيئڻ لاءِ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "راڻيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:08:05.232257742Z",
+  "model": "glm-5.3"
+}

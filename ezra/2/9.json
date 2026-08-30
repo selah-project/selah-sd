@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "زڪائي جي پٽن جو، ست سؤ ۽ سٺ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "زڪائي"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "۽ سٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:47.438487766Z",
+  "model": "glm-5.3"
+}

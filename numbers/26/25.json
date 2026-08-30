@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 26:25",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "اهي يِسَسَڪَر جون خاندانن آهن، سندن ڳڻپ موجب: چار ۽ سِٺ هزار ۽ ٽي سئو.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانن"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "يِسَسَڪَر"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "سندن ڳڻپ موجب"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "۽ سِٺ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سئو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:38.026931970Z",
+  "model": "glm-5.3"
+}

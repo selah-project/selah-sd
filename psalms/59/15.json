@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 59,
+  "translation": "۽ شام جو موٽن، ڪتن وانگر ڀونڪن، ۽ شهر جي چوڌاري ڦرن.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "۽ موٽن"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "شام جو"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ڀونڪن"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "ڪتن وانگر"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "۽ چوڌاري ڦرن"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:06.953860898Z",
+  "model": "glm-5.3"
+}

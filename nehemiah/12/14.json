@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "مَلوڪي جو يوناثان؛ شبنيا جو يوسف.",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "مَلوڪي جو"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "يوناثان"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "شبنيا جو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:12.626296242Z",
+  "model": "glm-5.3"
+}

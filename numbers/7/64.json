@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ ٻڪرين جو ابو، پاپ-قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ابو"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻڪرين جو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "پاپ-قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:27.781241224Z",
+  "model": "glm-5.3"
+}

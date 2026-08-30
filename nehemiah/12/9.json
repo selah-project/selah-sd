@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 12:9",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ بقبقيه ۽ عُني، سندن ڀائر، سندن اڳيان پهرن تي بيٺا هئا.",
+  "tokens": [
+    {
+      "surface": "ובקבקיה",
+      "gloss": "۽ بقبقيه"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "۽ عُني"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "سندن ڀائر"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "سندن اڳيان"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "پهرن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:25.641052553Z",
+  "model": "glm-5.3"
+}

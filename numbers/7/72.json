@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "يارهين ڏينهن تي، اَشير جي پُٽن جو سردار، عَقران جو پُٽ پَگيعيل [قرباني پيش ڪيو].",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "يارهين"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ـ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "جي پُٽن جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشير"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "پَگيعيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "عَقران"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:32.123813416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ پنهنجي نسل کي پنهنجي قوم ۾ پليت نه ڪندو؛ ڇوڪاته مون ياهوه ⟨هو⟩ پاڪ ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "پليت ڪندو"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "پنهنجي نسل کي"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "پنهنجي قوم ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪاته"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "پاڪ ڪري ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:57.415223525Z",
+  "model": "glm-5.3"
+}

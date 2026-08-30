@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "جيڪو به نفس ڪوبه رت کائيندو، ته اُهو نفس پنهنجي قوم مان وڍيو ويندو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "جيڪو به"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کائيندو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "وڍيو ويندو"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "اُهو نفس"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "پنهنجي قوم مان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:39.257147281Z",
+  "model": "glm-5.3"
+}

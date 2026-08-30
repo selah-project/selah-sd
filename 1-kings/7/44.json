@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ⟨את⟩ هڪ سَمَنْدَر، ۽ ⟨את⟩ ٻارْهَن ڍڳا سَمَنْدَرَ هيٺ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سَمَنْدَر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سَمَنْدَر"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ڍڳا"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ڍڳا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻارهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ٻارهن"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سَمَنْدَرَ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:29:13.138355028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ميخا، رحوب، حشبيا.",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "ميخا"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "رحوب"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حشبيا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:50.827122003Z",
+  "model": "glm-5.3"
+}

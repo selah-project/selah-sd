@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ دان بابت چيائين: دان شينهن جو ٻچو ⟨آھي⟩، بيشان مان ٽپو ڏيندو.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "۽ دان بابت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "גור",
+      "gloss": "ٻچو"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شينهن جو"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "ٽپو ڏيندو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "بيشان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:15.969206765Z",
+  "model": "glm-5.3"
+}

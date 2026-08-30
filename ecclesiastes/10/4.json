@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "جيڪڏهن حاڪم جو غصو تو تي چڙهي، ته پنهنجو مقام نه ڇڏر؛ ڇوته نرمي وڏن گناهن کي آرام ڏئي ٿي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "غصو"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "حاڪم جو"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "چڙهي"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تو تي"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "پنهنجو مقام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ڇڏر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "نرمي"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "آرام ڏئي ٿي"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گناهن کي"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "وڏن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:31.491960742Z",
+  "model": "glm-5.3"
+}

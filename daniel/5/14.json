@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 5:14",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ مان تو بابت ٻڌو آهي ته تنهنجي ۾ الهن جو روح آهي، ۽ روشني ۽ سمجهه ۽ چڱي Geschäft ويَ سڳي حكمت تو ۾ ملي ٿي.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "۽ مان ٻڌو آهي"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تو بابت"
+    },
+    {
+      "surface": "די",
+      "gloss": "ته"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אלהין",
+      "gloss": "الهن"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تنهنجي ۾"
+    },
+    {
+      "surface": "ונהירו",
+      "gloss": "۽ روشني"
+    },
+    {
+      "surface": "ושכלתנו",
+      "gloss": "۽ سمجهه"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "۽ حكمت"
+    },
+    {
+      "surface": "יתירה",
+      "gloss": "ويَ سڳي"
+    },
+    {
+      "surface": "השתכחת",
+      "gloss": "ملي ٿي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تو ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:58:21.832394525Z",
+  "model": "glm-5.3"
+}

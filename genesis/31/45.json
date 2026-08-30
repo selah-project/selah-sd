@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "پوءِ يعقوب هڪ پٿر کنئي ۽ ان کي يادگاري ٿنڀو بڻائي مٿي کڻي بيٺو ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "پوءِ کنئي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "هڪ پٿر"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "مٿي کڻي"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "يادگاري ٿنڀو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:05.998071539Z",
+  "model": "glm-5.3"
+}

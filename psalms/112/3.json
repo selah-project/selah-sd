@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 112,
+  "translation": "سندس گهر ۾ مال ۽ دولت آهي، ۽ سندس راستبازي هميشه قائم رهندي.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "۽ دولت"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "سندس گهر ۾"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "۽ سندس راستبازي"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "قائم رهندي"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "هميشه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:46.136760503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ اُهو ⟨اِهي⟩ سڀ ڪم ڪونه ڪيو — جو اُهو ٽڪرن تي به کائي ٿو ۽ پاڙيسريءَ جي زال کي نجس ڪري ٿو —",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "۽ اُهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ ڪم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِهي ڪم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ڪونه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ٽڪرن تي"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ٽڪرن"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کائي ٿو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "زال کي"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "پاڙيسريءَ جي"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس ڪري ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:31:05.550446879Z",
+  "model": "glm-5.3"
+}

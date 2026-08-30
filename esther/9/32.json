@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ اَستِر جو حڪم هنن پُرِم جي ڳالهين کي قائم ڪيو، ۽ اهو ڪتاب ۾ لکيو ويو.",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "۽ حڪم"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اَستِر"
+    },
+    {
+      "surface": "קים",
+      "gloss": "قائم ڪيو"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالهين"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "پُرِم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هنن"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "۽ لکيو ويو"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ڪتاب ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:56:17.590759266Z",
+  "model": "glm-5.3"
+}

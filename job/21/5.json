@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "مون ڏانھن مُنھن ڪريو ۽ حيران ٿيو، ۽ هٿ مُنهن تي رکيو.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "مُنھن ڪريو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون ڏانھن"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "۽ حيران ٿيو"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "۽ رکيو"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פה",
+      "gloss": "مُنهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:39:06.378697480Z",
+  "model": "glm-5.3"
+}

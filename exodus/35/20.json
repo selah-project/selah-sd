@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "پوءِ اسرائيل جي پٽن جي سڀ جماعت موشي جي اڳيان کان نڪري وئي.",
+  "tokens": [
+    {
+      "surface": "ויצאو",
+      "gloss": "پوءِ نڪري وئي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "مלפני",
+      "gloss": "جي اڳيان کان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:37:53.725309124Z",
+  "model": "glm-5.3"
+}

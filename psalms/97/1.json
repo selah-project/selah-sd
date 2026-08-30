@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 97,
+  "translation": "ياهوه راڄ ڪيو آھي، زمين خوش ٿي واپس، ٻيٽن جا ڀاڱا گھڻا ساھي ڪن.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راڄ ڪيو آھي"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "خوش ٿي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ساھي ڪن"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ٻيٽن"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گھڻا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:29.286550065Z",
+  "model": "glm-5.3"
+}

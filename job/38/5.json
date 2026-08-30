@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "ڪنهن ان جا ماپ رکيا، جيڪڏھن تون ڄاڻندو آھين؟ يا ڪنهن ان تي ڇي ڪش لايو؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪنهن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "رکيا"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "ان جا ماپ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تون ڄاڻندو آھين"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪنهن"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ڪش لايو"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ڇي (ماپ جي ڪش)"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:31.836651130Z",
+  "model": "glm-5.3"
+}

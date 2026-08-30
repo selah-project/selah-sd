@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ان ڏينهن ۾ ٿيندو: اُجالو نه هوندو — (اُجالي جون) قيمتيون ڪڙڪيل منجمد ٿي وينديون۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينهن ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨اهو⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندو"
+    },
+    {
+      "surface": "אור",
+      "gloss": "اُجالو"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "قيمتيون"
+    },
+    {
+      "surface": "יקפאون",
+      "gloss": "منجمد ٿي وينديون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:58:10.179386544Z",
+  "model": "glm-5.3"
+}

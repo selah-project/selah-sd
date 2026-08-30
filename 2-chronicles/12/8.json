@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "تہ هو ان جا غلام ٿين، تہ کين خبر پوي منھنجي خدمت ۽ ملڪن جي بادشاهتن جي خدمت ۾ ⟨فرق⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ٿين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان جا"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "۽ کين خبر پوي"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "منھنجي خدمت"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "۽ خدمت"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "بادشاهتن جي"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ملڪن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:32.378820845Z",
+  "model": "glm-5.3"
+}

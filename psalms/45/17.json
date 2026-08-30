@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "تون پنهنجن پيءُن جي جاءِ تي پنهنجا پُٽ  rake ٿا؛ تون کين سڀ زمين ۾ سردار مقرر ڪندين.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "جاءِ تي"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "پنهنجن پيءُن جي"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ٿا rake"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "پنهنجا پُٽ"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "تون مقرر ڪندين"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:27.572758575Z",
+  "model": "glm-5.3"
+}

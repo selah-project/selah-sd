@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 3:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "سندس ڄاڻ سان پاڻيءَ جون ٿلهيون ڦاٽيون، ۽ ڪڪر شبنم ڇڻي ٿا.",
+  "tokens": [
+    {
+      "surface": "בדעתו",
+      "gloss": "سندس ڄاڻ سان"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ٿلهيون"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "ڦاٽيون"
+    },
+    {
+      "surface": "ושחקים",
+      "gloss": "۽ ڪڪر"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "ڇڻي ٿا"
+    },
+    {
+      "surface": "טל",
+      "gloss": "شبنم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:07.804729045Z",
+  "model": "glm-5.3"
+}

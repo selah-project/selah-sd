@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "۽ چيائين هنن کي: نه، پر توهان ملڪ جي ننگ کي ڏسڻ لاءِ آيا آهيو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "هنن کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ننگ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملڪ جي"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "آيا آهيو"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ڏسڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:43.179084366Z",
+  "model": "glm-5.3"
+}

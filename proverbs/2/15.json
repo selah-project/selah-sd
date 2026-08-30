@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "جن جون رستا ڏنگا آهن ۽ ٻه-منهڻا، پنھنجين وارين ۾.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "رستا"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "ڏنگا"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "ٻه-منهڻا"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "پنھنجين وارين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T15:04:55.384551647Z",
+  "model": "glm-5.3"
+}

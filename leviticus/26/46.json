@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 26:46",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "اِھي ئي فرضا، ۽ فيصلا، ۽ توريتون آھن، جيڪي ياهوه پاڻ ۽ اسرائيل جي پٽن جي وچ ۾ سينا جبل تي، موشي جي ھٿان ڏنا.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اِھي"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "فرضا"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "۽ فيصلا"
+    },
+    {
+      "surface": "והתורת",
+      "gloss": "۽ توريتون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "پاڻ ۽"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل تي"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سينا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ھٿان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:25.224310332Z",
+  "model": "glm-5.3"
+}

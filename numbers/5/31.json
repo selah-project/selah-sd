@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ مڙس کي ڏوهه کان بري ٿيڻ گهرجي، پر اها زال پنهنجو ⟨את⟩ ڏوهُ کڻندي.",
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "۽ بري"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "مڙس"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ڏوهه کان"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "پر اها زال"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "کڻندي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجو ڏوهُ"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "پنهنجو ڏوهُ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:05.053651193Z",
+  "model": "glm-5.3"
+}

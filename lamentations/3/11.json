@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "منھنجا رستا موڙيائين ۽ کي ٽڪر ٽڪر ڪيائين؛ مون کي سوڙهو ڪري ڇڏيائين.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "منھنجا رستا"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "موڙيائين"
+    },
+    {
+      "surface": "וגיפשחני",
+      "gloss": "کي ٽڪر ٽڪر ڪيائين"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "ڪري ڇڏيائين"
+    },
+    {
+      "surface": "שומם",
+      "gloss": "سوڙهو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:51.549739049Z",
+  "model": "glm-5.3"
+}

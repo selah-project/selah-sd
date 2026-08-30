@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 74,
+  "translation": "نه ڏي تنهنجي قمري جي نَفَس جانور کي؛ تنهنجن غريبن جي جان کي هميشه لاءِ نه وسار.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "جانور کي"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفَس"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "تنهنجي قمري"
+    },
+    {
+      "surface": "חית",
+      "gloss": "جان"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "تنهنجن غريبن جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "وسار"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "هميشه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:56.241609347Z",
+  "model": "glm-5.3"
+}

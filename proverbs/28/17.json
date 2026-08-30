@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ماڻھو جيڪو ⟨את⟩ ڪنهن نفس جي رت سان ستايو، ⟨هو⟩ کڏ تائين ڀڄندو؛ ڪو بہ هن جو سنڀالو نه ڪري.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ستايو"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "رت سان"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "בור",
+      "gloss": "کڏ"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "ڀڄندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "سنڀالو ڪري"
+    },
+    {
+      "surface": "בו",
+      "gloss": "هن جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:03.212566944Z",
+  "model": "glm-5.3"
+}

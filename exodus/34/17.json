@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "پگهرايل ڌاتوءَ جا خدا پاڻ لاءِ نه ٺاهجِن.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "خدا"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "پگهرايل ڌاتوءَ جا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ٺاهجِن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:08:34.635332394Z",
+  "model": "glm-5.3"
+}

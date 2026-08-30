@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 62,
+  "translation": "ظلم تي ڀروسو نه ڪريو، ۽ لُٽ ۾ اوپرو نه ٿيو، مال جڏهن وڌي ٿو، دل ان تي نه رکو.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ڀروسو ڪريو"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "ظلم تي"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "۽ لُٽ ۾"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "اوپرو نه ٿيو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "مال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "وڌي ٿو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "رکو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:35.234284294Z",
+  "model": "glm-5.3"
+}

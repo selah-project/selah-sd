@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ماڻھوءَ جي حماقت سندس رستو ڏنگو ڪري ٿي، ۽ ياهوه تي سندس دل رِجي ٿي.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "حماقت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھوءَ جي"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "ڏنگو ڪري ٿي"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "سندس رستو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ ... تي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "رجي ٿي"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "سندس دل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:28.146159846Z",
+  "model": "glm-5.3"
+}

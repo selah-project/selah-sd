@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 6:22",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ياهوه موشي سان ڳالهائيون ٿو فرمائين ته،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالهائيون ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "فرمائين ته"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:51.754214428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ زبديہ ۽ عرد ۽ عدر،",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "۽ زبديہ"
+    },
+    {
+      "surface": "وערד",
+      "gloss": "۽ عرد"
+    },
+    {
+      "surface": "وעדר",
+      "gloss": "۽ عدر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:38.101818956Z",
+  "model": "glm-5.3"
+}

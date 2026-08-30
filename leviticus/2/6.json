@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "اُن کي ٽُڪرا ڪر ⟨את⟩ ٽُڪرن کي، ۽ تو ان تي تيل وهائيندين؛ نذرانو اُهو ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "ٽُڪرا ڪر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ٽُڪرن کي"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ٽُڪرا"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "۽ تو وهائيندين"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تيل"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "نذرانو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُهو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:49.704821792Z",
+  "model": "glm-5.3"
+}

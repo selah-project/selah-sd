@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "پوءِ نبي حنانيه انهيءِ سال ۾، ستين مهيني ۾ مري ويو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "پوءِ مري ويو"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حنانيه"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سال ۾"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "انهيءِ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مهيني ۾"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:15:55.368925455Z",
+  "model": "glm-5.3"
+}

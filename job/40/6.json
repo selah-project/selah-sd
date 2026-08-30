@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "پوءِ ياهوه ⟨את⟩ ايوب کي گردبادَ مان جواب ڏنو ۽ چيو:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "پوءِ جواب ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ايوب"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ايوب"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "مان"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "گردبادَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:16.961177754Z",
+  "model": "glm-5.3"
+}

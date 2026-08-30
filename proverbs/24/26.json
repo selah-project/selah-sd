@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "سڌا جواب ڏيندڙ جا ٿنڀا ⟨هو⟩ چُمي ٿو.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ٿنڀا"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "چُمي ٿو"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "جواب ڏيندڙ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "جواب (لفظ)"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "سڌا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:39.461962953Z",
+  "model": "glm-5.3"
+}

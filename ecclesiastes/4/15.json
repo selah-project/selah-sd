@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "مان سج ھيٺان پيارا سڀ جيوتين کي ⟨את⟩ ڏٺو، پوءِ ان ٻئي ٻار سان گڏ، جيڪو سندس جاءِ تي بيهندو.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "مان ڏٺو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ جيوتين کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جيوتين"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "پيارا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺان"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ان ٻار"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "بيهندو"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "سندس جاءِ تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:16.047929510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "پيڙهيل نفس پاڻ لاءِ پيڙجي ٿو، ڇوته سندس وات اُن تي زور وجهي ٿو.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "پيڙهيل"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "پيڙجي ٿو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "زور وجهي ٿو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُن تي"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ندس وات"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:21.338756583Z",
+  "model": "glm-5.3"
+}

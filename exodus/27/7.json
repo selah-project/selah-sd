@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ ⟨את⟩ ان جا ڏنڊا ڪڙين ۾ وڌا ويندا، ۽ ڏنڊا مذبح جي ٻن پٺن تي هوندا، ان کي کڻڻ ۾.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "۽ وڌا ويندا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان جا ڏنڊا"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ان جا ڏنڊا"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ڪڙين ۾"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "۽ هوندا"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ڏنڊا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "پٺن"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح جي"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "کڻڻ ۾"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:53.552778543Z",
+  "model": "glm-5.3"
+}

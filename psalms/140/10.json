@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 140,
+  "translation": "مون کي گهيرو ڪندڙن جي سردار تي سندن ئي لٻن جو ڏک ڇانئجي وڃي.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "گهيرو ڪندڙن جي"
+    },
+    {
+      "surface": "עמل",
+      "gloss": "ڏک"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "سندن لٻن جو"
+    },
+    {
+      "surface": "יכסומو",
+      "gloss": "ڇانئجي وڃي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:18.993441051Z",
+  "model": "glm-5.3"
+}

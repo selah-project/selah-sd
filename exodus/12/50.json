@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ اسرائيل جي سڀن پٽن اھو ئي ڪيو جيئن ياهوه موشي کي ۽ ⟨את⟩ اهارون کي حڪم ڏنو ھو؛ تيئن ئي ڪيائون.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "۽ ڪيائون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو ھو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "اهارون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن ئي"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪيائون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:00:32.935974974Z",
+  "model": "glm-5.3"
+}

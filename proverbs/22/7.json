@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "امير مسڪينن تي حڪومت ڪري ٿو، ۽ قرض وٺندو قرض ڏيندڙ ماڻهوءَ جو غلام آهي.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "امير"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "مسڪينن تي"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "حڪومت ڪري ٿو"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "۽ غلام"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "قرض وٺندو"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ماڻهوءَ جو"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "قرض ڏيندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:51.655680960Z",
+  "model": "glm-5.3"
+}

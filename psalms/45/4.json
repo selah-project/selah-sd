@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "پنهنجي تلوار پنهنجي جان تي ٻَڌ، اي بهادر؛ تنهنجي شان ۽ تنهنجي جلال.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "ٻَڌ"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "پنهنجي تلوار"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "جان"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "اي بهادر"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "تنهنجي شان"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "۽ تنهنجي جلال"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:34.867325503Z",
+  "model": "glm-5.3"
+}

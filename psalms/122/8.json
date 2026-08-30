@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 122,
+  "translation": "منهنجن ڀائرن ۽ سنگتن جي خاطر هاڻي چوان ٿو: تنهنجي اندر سلامتي هجي.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "جي خاطر"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "منهنجن ڀائرن"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "۽ سنگتن"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "چوان ٿو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تنهنجي اندر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:24.501254758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "مشيزبعيل، صادوق، يدوع۔",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "مشيزبعيل"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "يدوع"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:32.237643475Z",
+  "model": "glm-5.3"
+}

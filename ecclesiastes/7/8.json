@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "چڱو آهي ڳالهه جي پڇاڙي ان جي شروعات کان؛ چڱو آهي ڊگهي روح وارو، مٿانهين روح واري کان.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو آهي"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "پڇاڙي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالهه جي"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "ان جي شروعات کان"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو آهي"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊگهي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "مٿانهين کان"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:18.017914747Z",
+  "model": "glm-5.3"
+}

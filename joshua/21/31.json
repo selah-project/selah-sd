@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "⟨את⟩ حلقث ۽ ⟨את⟩ ان جي چراگاہ، ۽ ⟨את⟩ رحوب ۽ ⟨את⟩ ان جي چراگاہ — چار شهر.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حلقث"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "حلقث"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "چراگاہ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ان جي چراگاہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "رحوب"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "رحوب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "چراگاہ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ان جي چراگاہ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:55:28.032771278Z",
+  "model": "glm-5.3"
+}

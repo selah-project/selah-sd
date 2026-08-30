@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "پنھنجي جيان سان ماني آندوسين، بيت جي تلوار جي منھن کان.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "پنھنجي جيان سان"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "آندوسين"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "منھن کان"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بيت جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:52.000285490Z",
+  "model": "glm-5.3"
+}

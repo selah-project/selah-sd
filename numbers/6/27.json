@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ اھي ⟨את⟩ پنھنجو نالو اسرائيل جي پٽن تي رکن، ۽ آءٌ انھن کي برڪت ڏيندس.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "۽ رکن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجو نالو"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "پنھنجو نالو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "۽ آءٌ"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "انھن کي برڪت ڏيندس"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:46.279232479Z",
+  "model": "glm-5.3"
+}

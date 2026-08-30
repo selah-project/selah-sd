@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 12:22",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ اھي داويد سان گڏ لٽاري ٽوليءَ جي خلاف مدد ڪئي، ڇو ته سڀ بھادر طاقت وارا ھئا ۽ فوج ۾ سردار ٿيا.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "مدد ڪئي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "על",
+      "gloss": "خلاف"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "لٽاري ٽوليءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "بھادر"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "طاقت وارا"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ٿيا"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "فوج ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T15:11:05.662752364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "کُڏ ۾ مُنھنجي جيوت کي ڪَپيائون، ۽ مُنھنجي مٿان پٿر وجھيائون.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "ڪَپيائون"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "کُڏ ۾"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "مُنھنجي جيوت"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "۽ وجھيائون"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مُنھنجي مٿان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:29.346821264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 25:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ انهن قرعا پٽايا، خدمت مُقابل خدمت، ننڍي جهڙو وڏو، سمجهدار ۽ شاگرد سان گڏ.",
+  "tokens": [
+    {
+      "surface": "ויפילو",
+      "gloss": "۽ انهن پٽايا"
+    },
+    {
+      "surface": "گורלות",
+      "gloss": "قرعا"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "مُقابل"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "ننڍي جهڙو"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "سمجهدار"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "תלמיד",
+      "gloss": "شاگرد"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:43.190861925Z",
+  "model": "glm-5.3"
+}

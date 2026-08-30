@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "شرير ڪوڙ جي ڪمائي ڪري ٿو، پر جيڪو انصاف پوکي ٿو، تنھن جو ⟨آھي⟩ سچو اجر.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "شرير"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪري ٿو"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ڪمائي"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙ جي"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "پر جيڪو پوکي ٿو"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "اجر"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:10.669902899Z",
+  "model": "glm-5.3"
+}

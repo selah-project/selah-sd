@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "دولت غضب جي ڏينهن ۾ ڪابه فائدو نه ٿي ڏئي، ۽ ڌرم موت کان بچائي ٿو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "فائدو ٿي ڏئي"
+    },
+    {
+      "surface": "הון",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "غضب جي"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "۽ ڌرم"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "بچائي ٿو"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "موت کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:21.522109361Z",
+  "model": "glm-5.3"
+}

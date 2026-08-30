@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "هو ‏هن ڏانهن ڏٺو ۽ اُجالي ٿيا، ۽ سندن منهن شرمندا نه ٿيا.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "ڏٺو ۾ُڏ ته"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هن ڏانهن"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "۽ اُجالي ٿيا"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "۽ سندن منهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "شرمندا ٿين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:08.649172035Z",
+  "model": "glm-5.3"
+}

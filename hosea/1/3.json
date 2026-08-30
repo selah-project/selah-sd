@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ هو ويو ۽ ⟨את⟩ گومر، دبلايم جي ڌيءُ، کي ورتائين؛ ۽ هن پيٽ ٿي ۽ هن کي پٽ ڄڻيائين.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "۽ ويو"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "۽ ورتائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گومر، دبلايم جي ڌيءُ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومر"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءُ"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "دبلايم"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "۽ پيٽ ٿي"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "۽ ڄڻيائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن کي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:48.395582407Z",
+  "model": "glm-5.3"
+}

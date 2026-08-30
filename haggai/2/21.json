@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "چؤ زرُبّابل کي، يهودا جي پٺياري کي، تہ آءٌ ⟨את⟩ آسمانن ۽ ⟨את⟩ زمين کي هلاي ٿو.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "زرُبّابل"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پٺياري"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا جي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "هلاي ٿو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آسمانن"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:22.092428335Z",
+  "model": "glm-5.3"
+}

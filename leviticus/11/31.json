@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 11:31",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "اهي ئي توهان لاءِ نجس آهن سڀ رينگندڙن ۾؛ جيڪو به انھن جي مُئل کي لڳي، شام تائين نجس ٿي ويندو.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "הטמאים",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ ۾"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "رينگندڙ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جيڪو به"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "لڳندڙ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انھن کي"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "پنھنجي مُئل ۾"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس ٿيندو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-08-30T10:15:18.282836046Z",
+  "model": "glm-5.3"
+}

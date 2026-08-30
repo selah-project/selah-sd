@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 48:19",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "واٽ تي بيهي ۽ نهار، ويٺيل عروعار جا! پڇ فرار ٿيلءَ کان ۽ بچي نڪتلءَ کان، چؤ ته ڇا ٿيو؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "واٽ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "بيهي"
+    },
+    {
+      "surface": "וצפי",
+      "gloss": "۽ نهار"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ويٺيل"
+    },
+    {
+      "surface": "ערוער",
+      "gloss": "عروعار"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "پڇ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "فرار ٿيل"
+    },
+    {
+      "surface": "ונמלטה",
+      "gloss": "۽ بچي نڪتل"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "ٿيو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:55.318435218Z",
+  "model": "glm-5.3"
+}

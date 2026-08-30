@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "منهنجا سبت ⟨את⟩ نگهباني ڪريو ۽ منهنجي مقدس جاءِ کي ڊڄو؛ آئين ياهوه.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منهنجا سبت"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "منهنجا سبت"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "نگهباني ڪريو"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "۽ منهنجي مقدس جاءِ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ڊڄو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آئين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:09.665586450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ ان ۾ انھن چار قطارن جيکن ۾ جوڙيائون؛ قطار: اودم، پتده ۽ برقت — ⟨اھو⟩ پھرئين قطار.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "۽ ان ۾ جوڙيائون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "قطارن"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "جيکن"
+    },
+    {
+      "surface": "טור",
+      "gloss": "قطار"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اودم"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "پتده"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "۽ برقت"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "قطار"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "پھرين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:35.721996214Z",
+  "model": "glm-5.3"
+}

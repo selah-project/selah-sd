@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 7:23",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ سلامتي جي قرباني لاءِ ٻه ڏاند، پنج رام، پنج وڏا تڪ، پنج هڪ سالا لام؛ هي ⟨هو⟩ نٿنائيل پٽ تصوءَر جو قربان۔",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "۽ قرباني لاءِ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "سلامتي جي"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "وڏا تڪ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "لام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال جا"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربان"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نٿنائيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "تصوءَر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:26.654871442Z",
+  "model": "glm-5.3"
+}

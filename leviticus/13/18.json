@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ جڏهن گوشت ۾، ان جي چم ۾، پچڙو پيدا ٿئي ۽ سٺو وڃي،",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "۽ گوشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "پيدا ٿئي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "ان جي چم ۾"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "پچڙو"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "۽ سٺو وڃي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:46.782302006Z",
+  "model": "glm-5.3"
+}

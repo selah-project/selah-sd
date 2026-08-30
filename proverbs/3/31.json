@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "زور زبردستيءَ واري ماڻهو تي حسد نه ڪر، ۽ سندس ڪنهن به رستي کي نه چونڊ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "حسد نه ڪر"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ماڻهو تي"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زور زبردستيءَ وارو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "نه چونڊ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ڪنهن به (سڀ) کي"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "سندس رستي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:15.616718573Z",
+  "model": "glm-5.3"
+}

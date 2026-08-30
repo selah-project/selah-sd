@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "يرمياه جا لفظ، هلقياه جي پُٽ جا، ڪاهنن مان، جيڪي عناتوث ۾ هئا، بنيامين جي زمين ۾.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "جا لفظ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "هلقياه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهنن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "عناتوث ۾"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:07:08.393029235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 15:6",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ رحبعام ۽ ياربعام جي وچ ۾ جنگ هئي سندس حياتيءَ جي سڀني ڏينهن ۾.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "۽ جنگ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "هئي"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعام"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ وچ ۾"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ياربعام"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "حياتيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:34:14.881396790Z",
+  "model": "glm-5.3"
+}

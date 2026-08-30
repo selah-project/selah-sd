@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 18:9",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ يٿرو ان ساري نيڪي تي خوش ٿيو جيڪا ياهوه اسرائيل سان ڪئي، جنهن کيس مصريءَ جي هٿان ڇڏايو.",
+  "tokens": [
+    {
+      "surface": "ויחד",
+      "gloss": "خوش ٿيو"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "يٿرو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "نيڪي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪئي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "اسرائيل سان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ڇڏايو"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "هٿان"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصريءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:27.672289435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ تون پاڻ پاڳل ٿي ويندين تنهنجين اکين جي ان نظر کان جا تو ڏسندين.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "۽ تون ٿيندين"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "پاڳل"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "کان ان نظر"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تنهنجين اکين جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "تو ڏسندين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:07.194638849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ٻارهن مهينن جي پڄاڻيءَ تي هو بابل جي بادشاهت جي محل ۾ هلندو پيو هو.",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "پڄاڻيءَ تي"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "مهينن"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "محل"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "بادشاهت"
+    },
+    {
+      "surface": "די",
+      "gloss": "جي"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "هلندو پيو هو"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:57:54.944087159Z",
+  "model": "glm-5.3"
+}

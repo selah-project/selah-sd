@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "پوءِ اُن کي ⟨את⟩ شبعه سڏيائين؛ تنهنڪري اُن شهر جو نالو بئر شبعه ⟨آھي⟩ اڄ ڏينهن تائين۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سڏيائين"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "شبعه"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "شبعه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبعه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اجو ڏينهن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:57.480250026Z",
+  "model": "glm-5.3"
+}

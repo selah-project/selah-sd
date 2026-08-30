@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "تنهنڪري لوط جون ٻئي نياڻيون پنھنجي پيءُ کان اُٺي ڀاريون ٿيون.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "اُٺي ڀاريون ٿيون"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "نياڻيون"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "پنھنجي پيءُ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:16.780357938Z",
+  "model": "glm-5.3"
+}

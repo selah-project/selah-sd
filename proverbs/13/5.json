@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ڪوڙ جو لفظ نيڪ ماڻهو نفرت ٿو ڪري، ۽ بدڪار بدبودار ٿي شرم ۾ پوندو آهي.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙ جو"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "نفرت ٿو ڪري"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ ماڻهو"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "۽ بدڪار"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "بدبودار ٿي"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "شرم ۾ پوندو آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:49.939498639Z",
+  "model": "glm-5.3"
+}

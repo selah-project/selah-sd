@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ پنجن پلشتيم سردارن ڏٺو ۽ اُن ڏينھن عڪرون موٽي ويا.",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "۽ پنجن"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتيم"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "موٽي ويا"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "عڪرون"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:07:24.863785845Z",
+  "model": "glm-5.3"
+}

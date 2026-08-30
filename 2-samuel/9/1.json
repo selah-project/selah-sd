@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "پوءِ داوود چيو، ”ڇا شاول جي گھر مان اڃا ڪو بچيل آھي، ته مان يوناثان جي خاطر ان سان خيسيد ڪريان؟“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آھي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اڃا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "بچيل"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر ۾"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "۽ ڪريان"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ان سان"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "جي خاطر"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يوناثان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:19:24.007393743Z",
+  "model": "glm-5.3"
+}

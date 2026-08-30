@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 11:29",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ هي توهان لاءِ نجس آهن، زمين تي رينگندڙ رينگڻ وارن ۾: نيول ۽ چُوهو ۽ ڪڇو، پنھنجي جنس موجب.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "۽ هي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "בשרץ",
+      "gloss": "رينگندڙن ۾"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "رينگڻ وارو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "החלד",
+      "gloss": "نيول"
+    },
+    {
+      "surface": "והעכבר",
+      "gloss": "۽ چُوهو"
+    },
+    {
+      "surface": "והצב",
+      "gloss": "۽ ڪڇو"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "پنھنجي جنس موجب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:15:18.281641661Z",
+  "model": "glm-5.3"
+}

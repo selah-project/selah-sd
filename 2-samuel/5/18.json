@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 5:18",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ پلشتي آيا ۽ پاڻ کي رفائيم جي ماٿريءَ ۾ ڇڻي ڇڏيائون.",
+  "tokens": [
+    {
+      "surface": "וופלשתים",
+      "gloss": "۽ پلشتين"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "וינטשו",
+      "gloss": "ڇڻي پکڙجي ويا"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ماٿريءَ ۾"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائيم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:18:58.115013686Z",
+  "model": "glm-5.3"
+}

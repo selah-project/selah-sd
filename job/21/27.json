@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 21:27",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ڏسو، مان تنهنجن خيالن کي سڃاڻان ٿو، ۽ مون Against جيڪي چالون ٿا هلايو، اُنهن کي به.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "مان سڃاڻان ٿو"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "توهان جي خيالن کي"
+    },
+    {
+      "surface": "ומזמות",
+      "gloss": "۽ چالون"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون Against"
+    },
+    {
+      "surface": "תחמסו",
+      "gloss": "ظلم ڪريو ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:39:26.385901887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ان جي ڳڻپ ٿيلن مان، اپفراييم جي قبيلي لاءِ، چاليھ ھزار ۽ پنج سؤ ھيا.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ان جي ڳڻپ ٿيلن مان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي لاءِ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپفراييم"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:04.817814367Z",
+  "model": "glm-5.3"
+}

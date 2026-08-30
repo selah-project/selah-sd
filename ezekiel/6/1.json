@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 6:1",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ياهوه جو لفظ مڻجهه آيو، چوڻ ته:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مڻجهه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته"
+    }
+  ],
+  "timestamp": "2026-08-30T12:27:59.760637639Z",
+  "model": "glm-5.3"
+}

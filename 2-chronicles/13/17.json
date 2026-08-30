@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 13:17",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "پوءِ ابيّه ۽ سندس قوم مارڻ لڳن ۽ انهن کي وڏي مار ڏنائون، ۽ يسرائيل مان پنج لک چونڊيل ماڻهو مارجي پيا.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "مارڻ لڳن"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابيّه"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "۽ سندس قوم"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "مار"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "۽ پيا"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "مارجي"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "يسرائيل مان"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "چونڊيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:46.868789388Z",
+  "model": "glm-5.3"
+}

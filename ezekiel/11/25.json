@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ مان ٻڌايو جلاوطنن کي ⟨את⟩ سڀ ڳالھيون ياهوه جون، جيڪي مون کي ڏنا ھيون.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "۽ مان ٻڌايو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "جلاوطنن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ ڳالھيون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالھيون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "مون کي ڏنا ھيون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:28:26.242879010Z",
+  "model": "glm-5.3"
+}

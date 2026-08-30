@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 146,
+  "translation": "ڀانيو نه ڪيو اميرن تي، نه آدم جي پٽ تي، جنهن ۾ ⟨آهي⟩ نه ڪا نجات.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ڀانيو ڪيو"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "اميرن تي"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "پٽ تي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم جي"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "جنهن ۾ نه آهي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن لاءِ"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "نجات"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:32.903549923Z",
+  "model": "glm-5.3"
+}

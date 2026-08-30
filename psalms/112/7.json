@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 112,
+  "translation": "ڀلِي خبر کان ڊِتل نه ٿو؛ سندس دل مضبوط ⟨آهي⟩، ياهوه تي ڀاڙيل ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "خبرد کان"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ڀلي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ڊِتل ٿو"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "لבו",
+      "gloss": "سندس دل"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ڀاڙيل"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:59.121866855Z",
+  "model": "glm-5.3"
+}

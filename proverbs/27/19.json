@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "جيئن پاڻيءَ ۾ مُنهن مُنهن سان ملائي ٿو، تيئن ماڻهوءَ جو دل ماڻهوءَ سان.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "جيئن پاڻيءَ ۾"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "مُنهن"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "مُنهن سان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهوءَ جو"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ماڻهوءَ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:17.126644433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "مرايوت پيدا ڪيو ⟨את⟩ امرياہ، ۽ امرياہ پيدا ڪيو ⟨את⟩ احيطب؛",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "مرايوت"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرياہ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "امرياہ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "۽ امرياہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "احيطب"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "احيطب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:13.359014154Z",
+  "model": "glm-5.3"
+}

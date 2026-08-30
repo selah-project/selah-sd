@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ان ڏينهن ۾ يروشلم ۾ سوگ وڏو ٿيندو، جهڙو حضدرمون جو سوگ مگدون جي ماٿريءَ ۾.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "وڏو ٿيندو"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "سوگ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "جهڙو سوگ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "حضد"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "رمون"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "ماٿريءَ ۾"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "مگدون جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:57:38.949551209Z",
+  "model": "glm-5.3"
+}

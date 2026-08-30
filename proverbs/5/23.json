@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "⟨هو⟩ نصيحت کان سواءِ مرندو، ۽ پنهنجي جهالت جي گهڻائي ۾ ⟨هو⟩ ڀلجي ويندو.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرندو"
+    },
+    {
+      "surface": "באין",
+      "gloss": "کان سواءِ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "نصيحت"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "۽ گهڻائي ۾"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "پنهنجي جهالت"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "ڀلجي ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:32.896652208Z",
+  "model": "glm-5.3"
+}

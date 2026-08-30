@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ڇوته ڇھه مهينا يوآب ۽ سڄو اسرائيل اتي رھيا، جيستائين مڙئي نر ادوم ۾ ختم ڪيائين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ڇھه"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مهينا"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "رھيا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڄو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جيستائين"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "ختم ڪيائين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "مڙئي"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ادوم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:32:46.209088956Z",
+  "model": "glm-5.3"
+}

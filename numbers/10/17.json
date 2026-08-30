@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 10:17",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ مسكن لهائي ويس، ۽ گيرشون جي پٽن ۽ مراري جي پٽن مسکن کڻندڙن روانو ٿيو.",
+  "tokens": [
+    {
+      "surface": "והורד",
+      "gloss": "لهائي ويس"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "روانو ٿيو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "غيرشون جي"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽن"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراري جي"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "کڻندڙن"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:58.458533710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "جيڪو به اوڻائي رکندڙ ھجي، اھو پيش نه ڪريو، ڇوته اھو توهان لاءِ رضا وارو نه ٿيندو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "جيڪو به"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "مום",
+      "gloss": "اوڻائي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "پيش ڪريو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "رضا وارو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:57.521403860Z",
+  "model": "glm-5.3"
+}

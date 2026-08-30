@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "غريبن ⟨את⟩ سان ٻاويڻي روح رکڻ، تن کان بهتر آهي ته وڻڀلن ⟨את⟩ سان لُٽ جو حصو وڃي ورتو.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بهتر آهي"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "ٻاويڻي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غريبن"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "غريبن"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "حصو وڃي ورتو"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "لُٽ جو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وڻڀلن"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "وڻڀلن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:23.358051738Z",
+  "model": "glm-5.3"
+}

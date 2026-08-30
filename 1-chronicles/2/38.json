@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ عوبيد ⟨את⟩ يِهو کي پيد ڪيو، ۽ يِهو ⟨את⟩ عزرياه کي پيد ڪيو.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "۽ عوبيد"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يِهو"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "يِهو"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "۽ يِهو"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزرياه"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزرياه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:45.866194538Z",
+  "model": "glm-5.3"
+}

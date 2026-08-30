@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 26:23",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ مسڪن جي ڪنڊن لاءِ ٻن پٺاڻين ۾ ٻه تختيون ٺاھين.",
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تختيون"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تو ٺاھين"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "ڪنڊن لاءِ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسڪن جي"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "ٻن پٺاڻين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:26.905490627Z",
+  "model": "glm-5.3"
+}

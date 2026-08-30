@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "اُنهي کان اڳ جو سج ۽ روشني ۽ چنڊ ۽ تارا اونداهي ٿين، ۽ بدل مينھن کان پوءِ موٽن،",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "کان اڳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "اونداهي ٿين"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "۽ روشني"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "۽ چنڊ"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "۽ تارا"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "۽ موٽن"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "مينھن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:39.953632865Z",
+  "model": "glm-5.3"
+}

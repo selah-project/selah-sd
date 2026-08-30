@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "رتي وارا ماڻهو ڀليري کي ٿا نفرت ڪن؛ ۽ سڌرا سندس جان ٿا ڳولين.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "رتي وارا"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "ٿا نفرت ڪن"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ڀليرو"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "سڌرا"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ٿا ڳولين"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "سندس جان"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:44.239540350Z",
+  "model": "glm-5.3"
+}

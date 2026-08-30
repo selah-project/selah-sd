@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ان کان پوءِ ايلعازار، پٽ دودو احوحي جو؛ ھو ٽن بھادرن مان ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ان کان پوءِ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ايلعازار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "دودو"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "احوحي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ھو"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "ٽن مان"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "بھادرن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:24.958639766Z",
+  "model": "glm-5.3"
+}

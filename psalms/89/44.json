@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "بلڪ تون سندس تلوار جي ڌار موڙي آهين، ۽ جنگ ۾ کيس بيهارو نه اٿئي.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلڪ"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "تون موڙي آهين"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ڌار"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "سندس تلوار جي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "کيس بيهارو"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "جنگ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:15.773304723Z",
+  "model": "glm-5.3"
+}

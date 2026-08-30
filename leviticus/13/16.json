@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "يا جيڪڏھن جيئرو گوشت موٽي ۽ ابيض ۾ بدلجي وڃي ته ڪوھن وٽ اچي.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "موتي"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "החי",
+      "gloss": "جيئرو"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "۽ بدلجي وڃي"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ابيض ۾"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ته اچي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:05.716899241Z",
+  "model": "glm-5.3"
+}

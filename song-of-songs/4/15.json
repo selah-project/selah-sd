@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "باغن جو چشمو، جيئري پاڻيءَ جو کوهه، ۽ وهندڙ Lennon نه — لُبنان کان وهندڙ۔",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "چشمو"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "باغن جو"
+    },
+    {
+      "surface": "באר",
+      "gloss": "کوهه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ جو"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جيئري"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "۽ وهندڙ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لُبنان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:29.126847831Z",
+  "model": "glm-5.3"
+}

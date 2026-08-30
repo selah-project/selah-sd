@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "پوءِ داوود اتيان مٿي ويو ۽ عين گدي جي مضبوط ماڙهن ۾ رهڻ لڳو.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "مٿي ويو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اتيان"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "رهڻ لڳو"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "مضبوط ماڙهن ۾"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "گدي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:14:23.161803369Z",
+  "model": "glm-5.3"
+}

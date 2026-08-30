@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ٿورڙي ننڊ، ٿورڙي ننڊ جي جهري، ٿورڙي هٿن جي جهُل، سمھڻ لاءِ —",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ٿورڙي"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ننڊ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ٿورڙي"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "ننڊ جي جهري"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ٿورڙي"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "هٿن جي جهُل"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "هٿن"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "سمھڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:37.710389261Z",
+  "model": "glm-5.3"
+}

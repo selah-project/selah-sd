@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ کين لِبنہ کان کوچ ٿيو، ۽ رِسّہ ۾ خيمہ وڙايائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "کوچ ٿيو"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "لِبنہ کان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيمہ وڙايائون"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "رِسّہ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:47.418534862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 52,
+  "translation": "۽ انار ٿيا اٺانوي ۽ ڇھه هڪ پاسي؛ سڀ انار سؤ ٿيا جال تي چوڌاري.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ٿيا"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "انار"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "اٺانوي"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "۽ ڇھه"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "هڪ پاسي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "انار"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "جال"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    }
+  ],
+  "timestamp": "2026-08-30T12:26:04.506737019Z",
+  "model": "glm-5.3"
+}

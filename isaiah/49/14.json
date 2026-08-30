@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "۽ صھيون چيو: ياهوه مون کي ڇڏي ويو، ۽ ادوناي مون کي وساريو.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صھيون"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "مون کي ڇڏي ويو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "۽ ادوناي"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "مون کي وساريو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:01:09.590625132Z",
+  "model": "glm-5.3"
+}

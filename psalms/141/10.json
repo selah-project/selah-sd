@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 141,
+  "translation": "ڏوھي پنھنجن ئي جالن ۾ ڪِرن، جيست تائين آءٌ لنگحان.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "ڪِرن"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "پنھنجن ئي جالن ۾"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ڏوھي"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "گڏجي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جيست تائين"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "لنگحان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:11.402293954Z",
+  "model": "glm-5.3"
+}

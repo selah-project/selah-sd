@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 66,
+  "translation": "مقودي لاءِ — گيت، هڪ مزمور. رڙ ڪريو ايلوهيم لاءِ، ساري زمين!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقودي لاءِ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "رڙ ڪريو"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ايلوهيم لاءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:31.104118232Z",
+  "model": "glm-5.3"
+}

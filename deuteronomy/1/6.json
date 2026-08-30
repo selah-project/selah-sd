@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ياهوه اسان جو ايلوهيم حوريب ۾ اسان سان ڳالھايو، چوڻ ٿو: ”ڀلا ٿي ويو اوھان جو هن جبل تي رهڻ.“",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "اسان جو ايلوهيم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھايو"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "اسان سان"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "حوريب ۾"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ٿو"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ڀلا ٿي ويو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اوھان جو"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "رهڻ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "هن جبل تي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:34.731045826Z",
+  "model": "glm-5.3"
+}

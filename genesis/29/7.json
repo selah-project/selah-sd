@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 29:7",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ چيائين، ڏسو، اڃا ڏينهن وڏو آهي، مال کي گڏ ڪرڻ جو وقت ناهي؛ مال کي پاڻي پيارجو ۽ وڃي چارو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اڃا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "گڏ ڪرڻ جو"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "مال کي"
+    },
+    {
+      "surface": "השקו",
+      "gloss": "پيارجو"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "مال کي"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "۽ وڃي"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "چارو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:16.407665557Z",
+  "model": "glm-5.3"
+}

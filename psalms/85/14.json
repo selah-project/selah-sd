@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 85,
+  "translation": "انصاف سندس اڳيان هليو ٿو، ۽ سندس قدمن جي رستي کي ٺاهي ٿو.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "سندس اڳيان"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "هليو ٿو"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "۽ ٺاهي ٿو"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "رستي کي"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "سندس قدمن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:33.317668481Z",
+  "model": "glm-5.3"
+}

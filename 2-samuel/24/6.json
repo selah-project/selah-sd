@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 24:6",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ گلعاد ۾ آيا، ۽ تحتيم-حدشي جي زمين ڏانهن، ۽ دان-يعان ۾ آيا، ۽ چوڌاري صيدون ڏانهن.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "הגלעדה",
+      "gloss": "جلعاد ۾"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ... ڏانهن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "תחתים",
+      "gloss": "تحتيم"
+    },
+    {
+      "surface": "חדשי",
+      "gloss": "حدشي"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "دان"
+    },
+    {
+      "surface": "יען",
+      "gloss": "يعان"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "۽ چوڌاري"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صيدون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:59.425009043Z",
+  "model": "glm-5.3"
+}

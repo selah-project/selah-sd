@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ تو رکندي ⟨את⟩ حوض کي ملاقات جي خيمي ۽ مذبح جي وچ ۾، ۽ تو اتان پاڻي وجھندي.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "۽ تو رکندي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حوض کي"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "حوض"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمي"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ … جي وچ ۾"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "۽ تو وجھندي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتان"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:42.839569077Z",
+  "model": "glm-5.3"
+}

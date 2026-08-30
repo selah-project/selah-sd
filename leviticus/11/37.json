@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ جيڪڏھن انھن جي لاش مان ڪجھ ڪِرِي پوي ڪنھن ٻجي تي جيڪو ٻَجيڻ لاءِ هجي، ته اهو پاڪ آهي.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڪِرِي پوي"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "انھن جي لاش مان"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪنھن به"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ٻجي"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ٻَجيڻ وارو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ٻَجي"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:37.989173389Z",
+  "model": "glm-5.3"
+}

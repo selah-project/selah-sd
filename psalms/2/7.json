@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "مان ياهوه جو فرمان بيان ڪندس؛ مون کي چيائين: “تون ميرُ پُٽ آھين، اَڄ مَين توکي جنم ڏنو آھي.”",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "بيان ڪندس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "جو"
+    },
+    {
+      "surface": "חק",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ميرُ پُٽ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "توکي جنم ڏنو آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:28.685534228Z",
+  "model": "glm-5.3"
+}

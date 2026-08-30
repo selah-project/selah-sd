@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "شهادت کي ڳنڍ، منھنجن شاگردن ۾ توريت تي مھر ڪر.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "ڳنڌ"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "شهادت"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "مھر ڪر"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "توريت"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "منھنجن شاگردن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:49:01.892195655Z",
+  "model": "glm-5.3"
+}

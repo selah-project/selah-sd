@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 19:6",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "گھڻا نديب جي مُنهن جي درخواست ڪن ٿا، ۽ سڀ ماڻھوءَ جا دوست اُھي آھن جيڪي تحفا ڏين ٿا.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "گھڻا"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "درخواست ڪن ٿا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُنهن جي"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "نديب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "دوست"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ماڻھوءَ جا"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "تحفا ڏيندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:41.481383431Z",
+  "model": "glm-5.3"
+}

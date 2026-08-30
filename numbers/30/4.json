@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ جڏهن ڪا زال ياهوه کي نذر ڪري ۽ پابندي ٻڌي، پنهنجي پيءُ جي گهر ۾ پنهنجي ننڍپڻ ۾.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "۽ زال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "نذر ڪري"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "۽ ٻڌي"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "پابندي"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "پنهنجي پيءُ جي"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "پنهنجي ننڍپڻ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:03.426823220Z",
+  "model": "glm-5.3"
+}

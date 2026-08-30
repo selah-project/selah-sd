@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پر سڀ مال ۽ شهرَ جو مالِ غنيمت اسان پاڻ لاءِ غنيمت ڪيو.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "پر سڀ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "۽ مالِ غنيمت"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شهرَ جو"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "غنيمت ڪيو"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان پاڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:54.767284197Z",
+  "model": "glm-5.3"
+}

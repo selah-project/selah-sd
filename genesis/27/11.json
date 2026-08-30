@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ يعقوب پنهنجي ماءُ ربڪه سان چيو: ڏس، مون جو ڀاءُ عيسو وار وار ماڻهو آهي، ۽ آءٌ نرم (چمڙيءَ) ماڻهو آهيان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ربڪه"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "پنهنجي ماءُ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "مون جو ڀاءُ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "שער",
+      "gloss": "وار وار"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "۽ آءٌ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "نرم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:34:33.405181994Z",
+  "model": "glm-5.3"
+}

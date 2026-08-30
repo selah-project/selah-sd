@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ⟨את⟩ قبتسيم ۽ سندس مگرشھ کي، ۽ ⟨את⟩ بيت حورون ۽ سندس مگرشھ کي — چار شھر.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "قبتسيم"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "قبتسيم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "مگرشھ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "سندس مگرشھ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "بيت حورون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "حورون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "مگرشھ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "سندس مگرشھ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شھر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:57.871906772Z",
+  "model": "glm-5.3"
+}

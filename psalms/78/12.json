@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 78,
+  "translation": "سندن پئرن جي اڳيان هن عجيب ڪم ڪيا، متسرايم جي ملڪ ۼ، صعن جي ميدان ۼ.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "سندن پئرن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيا"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "عجيب ڪم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "جي ملڪ ۼ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "جي ميدان ۼ"
+    },
+    {
+      "surface": "צען",
+      "gloss": "صعن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:01.214826175Z",
+  "model": "glm-5.3"
+}

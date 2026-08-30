@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ان ڏينهن ۾ يروشلم کي چيو ويندو: ”ڊپ نه ڪج، صهيون؛ تنهنجون هٿيون سُست نه ٿين.“",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينهن ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "چيو ويندو"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "يروشلم کي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ڊپ ڪج"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "سُست ٿين"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "تنهنجون هٿيون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:05.341799114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ان کان پوءِ كوهڻ، ميدان جا ماڻھو، ٺاھ ڪري ۾ مضبوط ٿيا.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "۽ ان کان پوءِ"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "مضبوط ٿيا"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "كوهڻ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ميدان جا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:06:10.802784294Z",
+  "model": "glm-5.3"
+}

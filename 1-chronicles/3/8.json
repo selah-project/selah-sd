@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ايليشما ۽ ايليادا ۽ ايليفلت — نو.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "۽ ايليشما"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "۽ ايليادا"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "۽ ايليفلت"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:52.256103533Z",
+  "model": "glm-5.3"
+}

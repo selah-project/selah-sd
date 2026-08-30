@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "numbers 7:77",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ شلمن جي قرباني لاءِ ٻه ڏاند، پنج رڪب، پنج ٻڪرن جا ٺاڪر، پنج هڪ سال جا رڍَ — هي پڳعيل پٽ عکران جو قربان ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "۽ قرباني لاءِ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "شلمن جي"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "رڪب"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "ٻڪرن جا ٺاڪر"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "رڍَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال جا"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربان"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "پڳعيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "عکران"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:43.022937605Z",
+  "model": "glm-5.3"
+}

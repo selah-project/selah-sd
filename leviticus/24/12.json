@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ کيس قيد ۾ رکيائون، ياهوه جي وات سان کين واضح ٿيڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "۽ کيس رکيائون"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "قيد ۾"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "واضح ٿيڻ لاءِ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:32.373558284Z",
+  "model": "glm-5.3"
+}

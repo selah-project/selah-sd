@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "پنھنجي پيرن جي واٽ سڌي ڪر، ۽ تنهجون سڀ رستا مضبوط ٿين.",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "سڌي ڪر"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "واٽ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پنھنجي پيرن جي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "رستا"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "مضبوط ٿين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:46.317368822Z",
+  "model": "glm-5.3"
+}

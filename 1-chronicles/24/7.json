@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "پھريون گوريل نڪتو يهوياريب لاءِ، ۽ يڏياھ ٻيو.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نڪتو"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "گوريل"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پھريون"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "يهوياريب لاءِ"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "يڏياھ لاءِ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻيو"
+    }
+  ],
+  "timestamp": "2026-08-30T15:11:22.807519224Z",
+  "model": "glm-5.3"
+}

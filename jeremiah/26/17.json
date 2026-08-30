@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 26:17",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "ته زمين جي پراڻن مان ماڻھن اُٿي، ۽ سڀني قوم جي جماعت کي چيائون، ته چون ٿا:",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ته اُٿي"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "پراڻن مان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "چيائون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم جي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته چون ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:15:37.926358321Z",
+  "model": "glm-5.3"
+}

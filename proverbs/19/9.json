@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ڪوڙي شاهد جي بي-سزا نه ٿيندي، ۽ جيڪو ڪوڙ ڦوڪي ٿو اُهو تباهه ٿيندو.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ڪوڙي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بي-سزا ٿيندو"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "۽ جيڪو ڦوڪي ٿو"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ڪوڙ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "تباهه ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:20.875381068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ٽيٺو حُپّه لاءِ، چوڏهون يشِبِعاب لاءِ۔",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "حُپّه لاءِ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽيٺو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ٺو"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "يشِبِعاب لاءِ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوڏهون"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ڏهون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:57.676706864Z",
+  "model": "glm-5.3"
+}

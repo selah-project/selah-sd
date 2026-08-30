@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 67,
+  "translation": "قومون تو کي ساراهين، اي ايلوهيم؛ تو کي ساراهين قومون، سڀ ⟨of them⟩.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "تو کي ساراهين"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "تو کي ساراهين"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سڀ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:32.300492688Z",
+  "model": "glm-5.3"
+}

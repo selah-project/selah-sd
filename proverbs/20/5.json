@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "گهرائي وارو پاڻي آھي دل ۾ ماڻھوءَ جي صلاح، ۽ سمجھ وارو ماڻھو ان کي ڪڍي ٿو.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "گهرائي وارو"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل ۾"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھوءَ جي"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "۽ سمجھ وارو ماڻھو"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "ان کي ڪڍي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:58.791707698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "تو نبيءَ سان ائين چندين: ياهوه تو کي ڇا جواب ڏنو، ۽ ياهوه ڇا فرمايو؟",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تو چندين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبيءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "جواب ڏنو (تو کي)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "۽ ڇا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فرمايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:15:17.185306573Z",
+  "model": "glm-5.3"
+}

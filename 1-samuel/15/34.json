@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-samuel 15:34",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ شموئل رامهٿا هليو ويو، ۽ شاول پنهنجي گهر ڳوٺ شاول جي گبعه ۾ چڙهي ويو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "۽ هليو ويو"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئل"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "رامهٿا"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "۽ شاول"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڙهي ويو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "پنهنجي گهر"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "گبعه"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:09:57.977557682Z",
+  "model": "glm-5.3"
+}

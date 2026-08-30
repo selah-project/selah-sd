@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ تون ميز تي منھنن جي ماني مون اڳيان هميشہ رکندو.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "۽ تون رکندو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ميز"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منھنن جي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هميشہ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:06:10.910419215Z",
+  "model": "glm-5.3"
+}

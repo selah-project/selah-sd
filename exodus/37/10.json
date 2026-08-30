@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ هن ⟨את⟩ ميز shiṭim جي ڪاٺيءَ مان ٺاهيو: سندس ڊيگهه ٻه amot، سندس ويڪر هڪ ama، ۽ سندس اوچائي هڪ ama ۽ اڌ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ هن ٺاهيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ميز"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ڪاٺيءَ مان"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittah (ڪنڊن وارو وڻ)"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ٻه amot"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "سندس ڊيگهه"
+    },
+    {
+      "surface": "وאמה",
+      "gloss": "۽ هڪ ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "سندس ويڪر"
+    },
+    {
+      "surface": "وאמה",
+      "gloss": "۽ هک ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "۽ اڌ"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "سندس اوچائي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:02.380193634Z",
+  "model": "glm-5.3"
+}

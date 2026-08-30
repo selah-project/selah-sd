@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "تنهنجي پيءُ جي ڀاءُ جي برهنهگي نه کولج؛ سندس زال ڏانهن قريب نه ٿئين؛ اها تنهنجي ماسي آهي.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برهنهگي"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ڀاءُ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تنهنجي پيءُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کولج"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "سندس زال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "قريب نه ٿئين"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "تنهنجي ماسي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اها"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:49.086479746Z",
+  "model": "glm-5.3"
+}

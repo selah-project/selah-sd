@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ايلم کان روانا ٿيا، ۽ نارِ ڪَنئي جي ڪناري خيمو هنئائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "ايلم کان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيمو هنئون"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڪناري (تي)"
+    },
+    {
+      "surface": "ים",
+      "gloss": "نارِ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ڪَنئي (سُوپ)"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:50.569723080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ مون چيو: منهنجو ٽِڪاءُ ختم ٿي ويو، ۽ منهنجي اُميد ياهوه کان.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "۽ مون چيو"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ختم ٿي ويو"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "منهنجو ٽِڪاءُ"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "۽ منهنجي اُميد"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ياهوه کان"
+    }
+  ],
+  "timestamp": "2026-08-30T15:06:57.534859870Z",
+  "model": "glm-5.3"
+}

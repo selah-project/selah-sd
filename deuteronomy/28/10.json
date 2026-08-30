@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ زمين جا سڀ قوم ڏسندا ته ياهوه جو نالو تو تي سڏيو ويو آهي، ۽ اهي توکان ڊڄندا.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "۽ ڏسندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "سڏيو ويو"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تو تي"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "۽ ڊڄندا"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "توکان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:34.558583665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "بادشاهه موڪليو ۽ کيس کوليوس؛ قومن جي حاڪم کيس آزاد ڪيوس.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "موڪليو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "کيس کوليوس"
+    },
+    {
+      "surface": "משל",
+      "gloss": "حاڪم"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومن جي"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "کيس آزاد ڪيوس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:37.443568447Z",
+  "model": "glm-5.3"
+}

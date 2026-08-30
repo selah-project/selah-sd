@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 46:25",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "اھي بِلھہ جا پُٽ ھئا، جن لابان پنھنجي ڌيءُ راحيل کي ڏنا، ۽ هن يعقوب لاءِ اھي جنم ڏنا؛ سڀ جاني، ست。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بِلھہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏنا"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "راحيل کي"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "پنھنجي ڌيءُ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "۽ جنم ڏنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اھي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "يعقوب لاءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جاني"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:48.106433160Z",
+  "model": "glm-5.3"
+}

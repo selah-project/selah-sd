@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 23:22",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ العزار مري ويو، ۽ ان لاءِ پٽ نه هئا، پر ڌيئون؛ ۽ قيش جا پٽ — انهن جي ڀائرن — انهن سان شادي ڪئي۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري ويو"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "العزار"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان لاءِ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨رڳو⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيئون"
+    },
+    {
+      "surface": "וישאום",
+      "gloss": "۽ انهن سان شادي ڪئي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "قيش"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "انهن جي ڀائرن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:24.081634276Z",
+  "model": "glm-5.3"
+}

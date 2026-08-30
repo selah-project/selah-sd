@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ هي آھي شلمن جي قرباني جو قانون، جيڪو ياهوه کي پيش ڪيو وڃي.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "۽ هي"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "قانون"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "شلمن جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "پيش ڪيو وڃي"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:46.855923414Z",
+  "model": "glm-5.3"
+}

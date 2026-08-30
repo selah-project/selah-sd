@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 32:16",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "اُٺن کير ڏيندڙ ٽيھ ۽ سندن پل ٽيھ، ڳئين چاليهه، ۽ ڍڳا ڏهه، ڀليون ٽيھ، ۽ پلڙا ڏهه.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "اُٺن"
+    },
+    {
+      "surface": "מיניקות",
+      "gloss": "کير ڏيندڙ"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "۽ سندن پل"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيھ"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "ڳئين"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليهه"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "۽ ڍڳا"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "אתנת",
+      "gloss": "ڀليون"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ٽيھ"
+    },
+    {
+      "surface": "ועירם",
+      "gloss": "۽ پلڙا"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏهه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:15.310031546Z",
+  "model": "glm-5.3"
+}

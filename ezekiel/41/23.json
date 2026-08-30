@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ هيڪل لاءِ ٻه دروازا ۽ مقدس لاءِ ⟨ٻه دروازا⟩.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "دروازا"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "هيڪل لاءِ"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "۽ مقدس لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:40:48.488275127Z",
+  "model": "glm-5.3"
+}

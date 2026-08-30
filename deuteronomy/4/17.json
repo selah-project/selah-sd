@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "زمين تي ڪنهن به چوپائي مال جي صورت جي، آسمانن ۾ اُڏامندڙ ڪنهن به پَکي جي جانب وارن جي صورت جي —",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "صورت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪنهن به"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "چوپائي مال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين تي"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "صورت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪنهن به"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "پَکي جي"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "جانب وارن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "اُڏامندڙ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:38:10.589869406Z",
+  "model": "glm-5.3"
+}

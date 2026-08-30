@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ماڻهن جي گهڻائي بادشاهه جي شان آهي، ۽ قوم جي اُبتاءَ ۾ حاڪم جي بربادي.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "گهڻائي ۾"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ماڻهن جي"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "شان"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه جي"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "۽ اُبتاءَ ۾"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "قوم جي"
+    },
+    {
+      "surface": "מחיתת",
+      "gloss": "بربادي"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "حاڪم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:54.858725290Z",
+  "model": "glm-5.3"
+}

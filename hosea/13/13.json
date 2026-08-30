@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 13:13",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "زچي عورت جا سورهن مٿس اچن؛ هو پُٽ آهي نه سمجهه وارو، ڇوته اُن مهل هو پُٽن جي ڄمڻ جي مهل ۾ نه ٿو بيهي.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "سورهن"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "زچي عورت جا"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "اچن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سمجهه وارو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עת",
+      "gloss": "اُن مهل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ٿو بيهي"
+    },
+    {
+      "surface": "במשבר",
+      "gloss": "ڄمڻ جي مهل ۾"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُٽن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:45:47.534576612Z",
+  "model": "glm-5.3"
+}

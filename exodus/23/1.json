@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "کوڙي خبر کي نه کُڻيندا، ۽ ڏوهاري سان گڏ پنھنجو ھٿ نه رکندا ته ظالم شاھد بڻجو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "کُڻيندا (کڻندا)"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "کوڙي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "رکندا (رکو)"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "پنھنجو ھٿ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ڏوهاري"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ته بڻجو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاھد"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظالم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:04:25.616038486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "⟨את⟩ ھڪ مينھُنُ صبح جو ڪجو، ۽ ⟨את⟩ ٻئي مينھُنُ شام جي وچ ۾ ڪجو.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ھڪ مينھُنُ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "مينھُنُ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ڪجو"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح جو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ٻئي مينھُنُ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "مينھُنُ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ڪجو"
+    },
+    {
+      "surface": "בין",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "شام جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:41:11.990079722Z",
+  "model": "glm-5.3"
+}

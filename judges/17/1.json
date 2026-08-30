@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ اپريم جي جبل مان ⟨هو⟩ هڪ ماڻهو، ۽ سندس نالو ميكاهيهو ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هڪ ماڻهو"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "جبل مان"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپريم جي"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "۽ سندس نالو"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ميكاهيهو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:04:12.924098131Z",
+  "model": "glm-5.3"
+}

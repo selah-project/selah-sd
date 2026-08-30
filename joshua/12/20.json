@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "شمرُون-ميرون جو بادشاھ، ھڪ؛ اخشاف جو بادشاھ، ھڪ؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "جو بادشاھ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شمرُون-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "ميرون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "جو بادشاھ"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "اخشاف"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:13.394685738Z",
+  "model": "glm-5.3"
+}

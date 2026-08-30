@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "جو ياهوه جو لفظ نبي يرمياهو ڏانهن فلسطينين بابت آيو، اُن کان اڳ جو فرعون ⟨את⟩ غزه کي ماريو.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلسطينين"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "اُن کان اڳ جو"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ماريو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غزه"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "غزه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:22:01.691251915Z",
+  "model": "glm-5.3"
+}

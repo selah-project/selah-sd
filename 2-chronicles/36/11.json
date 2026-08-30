@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 36:11",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "ويهن ۽ هڪ سالن جو پٽ صديقياہ هو پنهنجي راڄ شروع ڪرڻ ۾، ۽ يارهن سالن هن يروشلم ۾ راڄ ڪيو.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهن"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "۽ هڪ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صديقياہ"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "پنهنجي راڄ ۾"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "۽ يارهن"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج ڪيو"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:31:34.053951497Z",
+  "model": "glm-5.3"
+}

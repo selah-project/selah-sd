@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "غريب ۽ محتاج جو فيصلو پڪو ڪيائين — پوءِ چڱائي؛ ڇا اهو ئي مون ⟨את⟩ کي سڃاڻڻ نه آهي؟ ياهوه جو فرمودو.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "فيصلو ڪيائين"
+    },
+    {
+      "surface": "דין",
+      "gloss": "پڪو"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "۽ محتاج"
+    },
+    {
+      "surface": "אז",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱائي"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ڇا نه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اهو ئي"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "سڃاڻڻ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مون (ياهوه)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمودو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:13:40.296178568Z",
+  "model": "glm-5.3"
+}

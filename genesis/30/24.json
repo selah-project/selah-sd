@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ سان ⟨את⟩ سندس نالو يوسف رکيائين، چوندي: ياهوه مون کي ٻيو پٽ وڌائي.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "رکيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس نالو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندي"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "وڌائي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻيو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:24.872559672Z",
+  "model": "glm-5.3"
+}

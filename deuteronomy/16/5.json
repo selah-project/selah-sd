@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "تون ⟨את⟩ فسح کي نه ٿو مٿي ڪري قرباني ڪرين تنهن جي ڪنهن هڪ دروازي ۾، جيڪو ياهوه تنهجو ايلوهيم توکي ڏئي ٿو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ٿو مٿي ڪري"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "قرباني ڪرين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فسح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "فسح"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ڪنهن هک ۾"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "تنهجن دروازن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تنهجو ايلوهيم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏئي ٿو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:41:37.783692823Z",
+  "model": "glm-5.3"
+}

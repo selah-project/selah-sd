@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ سندس هٿ ۾ (يعني سندس ساٿ) يهوزاباد، ۽ سندس ساڻ سَؤ ۽ اسي هزار لشڪر لاءِ تيار (سامان سان).",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ … تي"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "سندس هٿ"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "يهوزاباد"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "۽ سندس ساڻ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سَؤ"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "۽ اسي"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "تيار"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشڪر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:18.134832316Z",
+  "model": "glm-5.3"
+}

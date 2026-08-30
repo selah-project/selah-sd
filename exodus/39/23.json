@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 39:23",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ چولي جو منهن ان جي وچ ۾، زرهه جي منهن جهڙو، منهن لاءِ ڪنارو چوڌاري، نه پاڙي.",
+  "tokens": [
+    {
+      "surface": "ופי",
+      "gloss": "۽ منهن"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "چولي جو"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "ان جي وچ ۾"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "جهڙو منهن"
+    },
+    {
+      "surface": "תחרא",
+      "gloss": "زرهه جي"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ڪنارو"
+    },
+    {
+      "surface": "לפיו",
+      "gloss": "منهن لاءِ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקרע",
+      "gloss": "پاڙي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:24.675096405Z",
+  "model": "glm-5.3"
+}

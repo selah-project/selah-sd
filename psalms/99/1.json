@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 99,
+  "translation": "ياهوه راڄ ڪري ٿو، ٽٿڪن قومون؛ ڪروبن تي ويٺل آھي، ڌرتي ڪانبي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راڄ ڪري ٿو"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ٽٿڪن"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ويٺل آھي"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ڪروبن تي"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "ڪانبي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ڌرتي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:15.206332686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "اِليآب سندس پُٽ، يَروحام سندس پُٽ، ايلقناھ سندس پُٽ.",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "اِليآب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "يَروحام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ايلقناھ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:40.820002672Z",
+  "model": "glm-5.3"
+}

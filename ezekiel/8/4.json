@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 8:4",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ ڏسو، اتي يسرائيل جي ايلوهيم جو جلال ھو، ان ڏسڻي جهڙو جيڪا مون کي ماٺيءَ ۾ ڏٺي ھئي.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ايلوهيم جو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل جي"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "ڏسڻي جهڙو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ڏٺي ھئي"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "ماٺيءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:28:18.737898431Z",
+  "model": "glm-5.3"
+}

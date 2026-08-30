@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ پوءِ اھو ٿيو ۽ داوود جو دل کيس ⟨את⟩ ماريو، ڇو ته ھُئ شاؤل جي چوغي جي ڪنڌي ⟨את⟩ ڪَپي هئائين.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ان کان پوءِ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ماريو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود جو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "کيس (داوود کي)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ڪَپي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چوغي جي ڪنڌي"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ڪنڌي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنھنجي"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤل"
+    }
+  ],
+  "timestamp": "2026-08-30T11:13:33.771275112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 46:17",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "۽ آشر جا پٽ: يمنه ۽ يشوه ۽ يشوي ۽ بريعه، ۽ سندن ڀيڻ سرح؛ ۽ بريعه جا پٽ: حبر ۽ ملڪيئيل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پٽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "يمنه"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "۽ يشوه"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "۽ يشوي"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "۽ بريعه"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "۽ سرح"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "سندن ڀيڻ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پٽ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بريعه"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "حبر"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "۽ ملڪيئيل"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:40.054324433Z",
+  "model": "glm-5.3"
+}

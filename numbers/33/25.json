@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 33:25",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ⟨هي⟩ حراداه کان روانا ٿيا، ۽ مخيلوت ۾ منزل ڪيائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "מחרדה",
+      "gloss": "حراداه"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "منزل ڪيائون"
+    },
+    {
+      "surface": "במקהלת",
+      "gloss": "مخيلوت ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:47.345797891Z",
+  "model": "glm-5.3"
+}

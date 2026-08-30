@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ موشي اسي سالن جو پٽ ھو، ۽ اهارن ٽي ۽ اسي سالن جو پٽ، جڏھن اھي پره سان ڳالھيون ڪيون.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "۽ موشي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "اسي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "۽ اهارن"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "۽ اسي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "ڳالھيون ڪيون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پره"
+    }
+  ],
+  "timestamp": "2026-08-30T09:58:09.033600524Z",
+  "model": "glm-5.3"
+}

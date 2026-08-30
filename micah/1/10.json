@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "گت ۾ ٻڌايو نه؛ روئو، پر روئو نه؛ بيت-لعفرا ۾، مٽيءَ ۾ لڙهو.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "گت ۾"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ٻڌايو"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "روئو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "روئو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بيت ۾"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "لعفرا"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٽيءَ ۾"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "لڙهو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:50:49.552497022Z",
+  "model": "glm-5.3"
+}

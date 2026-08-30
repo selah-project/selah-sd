@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "سون جون قطارون اسان تو لاءِ ٺاھيونسون، چانديءَ جي ٽڪرن سان",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "قطارون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جون"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ٺاھيونسون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "ٽڪرن"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چانديءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:42.065781936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ داويد ⟨את⟩ هي ماتم ماتم ڪيو، شاؤل تي ۽ سندس پٽ يهوناتن تي.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "ماتم ڪيو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي ماتم"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "ماتم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتن"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:17:02.497841646Z",
+  "model": "glm-5.3"
+}

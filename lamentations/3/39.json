@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "جيئرو ماڻھو ڇو شڪایت ڪري، ماڻھو پنھنجي گنھه جي سزا تي؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "شڪایت ڪري"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جيئرو"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ماڻھو (سگھارو)"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "پنھنجي گنھه جي سزا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:12.418798382Z",
+  "model": "glm-5.3"
+}

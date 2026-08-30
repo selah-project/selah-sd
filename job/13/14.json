@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 13:14",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ڇو لاءِ آءٌ پنهنجو گوشت ڏندن ۾ کڻان ۽ پنهنجي جان هٿ ۾ رکان؟",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "کڻان"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "پنهنجو گوشت"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "ڏندن ۾"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "۽ پنهنجي جان"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "رکان"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "هٿ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:13.962631908Z",
+  "model": "glm-5.3"
+}

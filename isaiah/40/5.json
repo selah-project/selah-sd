@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ ياهوه جو جلال ظاھر ٿيندو، ۽ سارو بت ۾ گڏجي ڏسيندو، ڇوته ياهوه جي وات ⟨ٻولهي⟩ آھي.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "ظاھر ٿيندو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "۽ ڏسيندو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بت"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏجي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٻولهي آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:58:54.195766375Z",
+  "model": "glm-5.3"
+}

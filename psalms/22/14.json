@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "مون تي پنهنجا وات کوليا اٿن، جهڙو ڪو شينهن ڦاٽي پئي ۽ ڪڙڪي پئي.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "کوليا اٿن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "پنهنجا وات"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شينهن"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ڦاٽي پئي"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "۽ ڪڙڪي پئي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:17.538314798Z",
+  "model": "glm-5.3"
+}

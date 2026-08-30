@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 18:15",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "پوءِ اُهي اُتي لنگھي ويا، ۽ نوجوان لاوي جي گھر ۾ آيا — ميخا جي گھر ۾ — ۽ ان کان سلام پُڇيائون.",
+  "tokens": [
+    {
+      "surface": "ויסורו",
+      "gloss": "لنگھي ويا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ميخا"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "پُڇيائون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کان"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "سلام"
+    }
+  ],
+  "timestamp": "2026-08-30T14:45:25.208926465Z",
+  "model": "glm-5.3"
+}

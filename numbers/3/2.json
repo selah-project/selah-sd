@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ اھي اھارون جي پٽن جا نالا آھن: پھرؤن نادَب، ۽ ابيهو، ايلعزار ۽ ايثامار.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نالا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون جي"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "پھرؤن"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "نادَب"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "۽ ابيهو"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ايلعزار"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "۽ ايثامار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:29.310819456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 14:7",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ڇھ سؤ چونڊيل رٿ ورتائين، ۽ متصرايم جا سڀ رٿ، ۽ سڀني تي ترين.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ورتائين"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رٿ"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "چونڊيل"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رٿ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متصرايم جا"
+    },
+    {
+      "surface": "ושלשם",
+      "gloss": "۽ ترين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "سڀني"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:03.217002320Z",
+  "model": "glm-5.3"
+}

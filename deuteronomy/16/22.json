@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ پاڻٽي لاءِ ڪا مٽسبه (اُڀيل پٿر جي ستون) نہ کڙي ڪرين، جا ياهوه پنھنجو ايلوهيم نفرت ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نہ"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "کڙي ڪرين"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻٽي لاءِ"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "مٽسبه (ستون)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "نفرت ڪري ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "پنھنجو ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:11.419511694Z",
+  "model": "glm-5.3"
+}

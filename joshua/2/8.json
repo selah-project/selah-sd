@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ اھي اڃا ليٽيا مقرر نہ ھيا، ته انھن وٽ مٿي چڙھي آئي، ڇت تي.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "اڃا نہ"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "ليٽيا"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "۽ انھن"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "چڙھي آئي"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "انھن وٽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "ڇت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:49:03.967340919Z",
+  "model": "glm-5.3"
+}

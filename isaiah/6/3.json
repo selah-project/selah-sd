@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ هڪ ٻئي کي سڏي چيو: پاڪ، پاڪ، پاڪ ياهوه صبائوت، سندس جلال سڄي زمين ڀريل آهي.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "۽ سڏي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀريل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "سندس جلال"
+    }
+  ],
+  "timestamp": "2026-08-30T11:49:33.951505209Z",
+  "model": "glm-5.3"
+}

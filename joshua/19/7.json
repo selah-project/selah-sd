@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "عين-رمون ۽ عتر ۽ عشان؛ شهر چار، ۽ سندن ڳوٺ.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "رמון",
+      "gloss": "رمون"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "۽ عتر"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "۽ عشان"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "۽ سندن ڳوٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:27.402672845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "ڇوته اِنهن ايل جي چوڻ کي ڪڙو ڪيو، ۽ عليون جي صلاح کي حقير ڄاتو،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ڪڙو ڪيو"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "چوڻ کي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "۽ صلاح کي"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عليون جي"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "حقير ڄاتو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:31.565027035Z",
+  "model": "glm-5.3"
+}

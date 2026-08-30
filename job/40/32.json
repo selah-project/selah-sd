@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "پنھنجو ھٿ مٿس رک؛ لڙائي ياد رک — وري نه وڙڄندو.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "رک"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "پنھنجو ھٿ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ياد رک"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "لڙائي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "وري نه وڙڄندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:06.580076839Z",
+  "model": "glm-5.3"
+}

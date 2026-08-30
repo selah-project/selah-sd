@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "بادشاھ جي ڪاوڙ باشڪت جي ڀڻڪ جهڙي آھي، پر سندس راضپو گاھ تي شفق جهڙو آھي.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "ڀڻڪ"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "باشڪت جهڙي"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "ڪاوڙ"
+    },
+    {
+      "surface": "مלך",
+      "gloss": "بادشاھ جي"
+    },
+    {
+      "surface": "وכטל",
+      "gloss": "پر شفق جهڙو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "گاھ"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "سندس راضپو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:20.875963453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 27:19",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "خيمي جا سڀ اوزار سندس ساري خدمت ۾، ۽ سندس سڀ ڪُنڊا ۽ احاطي جا سڀ ڪُنڊا ٽامي جا هوندا.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "سڀ لاءِ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "اوزار"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "خيمي جا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "خدمت ۾"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "יתדתיו",
+      "gloss": "سندس ڪُنڊا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سٻ"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ڪُنڊا"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "احاطي جا"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ٽامي جا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:54.485431972Z",
+  "model": "glm-5.3"
+}

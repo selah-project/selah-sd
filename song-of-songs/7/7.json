@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "اي محبت، لذتن ۾ تون ڪيئن سهڻي ۽ ڪيئن مٺي آھين!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "سهڻي"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "۽ ڪيئن"
+    },
+    {
+      "surface": "نעمת",
+      "gloss": "مٺي"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "اي محبت"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "لذتن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:47:27.745714379Z",
+  "model": "glm-5.3"
+}

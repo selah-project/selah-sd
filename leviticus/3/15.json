@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ⟨את⟩ ٻه گردن، ۽ ⟨את⟩ چرڀي جيڪا انهن تي آهي، جيڪا کُرن تي آهي، ۽ ⟨את⟩ جگر مٿان جي پٺي — گردن سان گڏ اها هٽائبو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ٻه گردن"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "چرڀي"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چرڀي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "انهن تي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "کُرن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "جگر مٿان جي پٺي"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "جگر مٿان جي پٺي"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "جگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "اها هٽائبو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:11.840960794Z",
+  "model": "glm-5.3"
+}

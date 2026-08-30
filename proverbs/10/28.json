@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "رستن جي اُميد خوشي ⟨آهي⟩، پر رستن جي آس هلاڪت ٿيندي.",
+  "tokens": [
+    {
+      "surface": "תוחלت",
+      "gloss": "اُميد"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "رستن جي"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشي"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "پر آس"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رستن جي"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "هلاڪت ٿيندي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:33.985100867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 72,
+  "translation": "۽ سڀ بادشاهه کيس سجدو ڪندا؛ سڀ قومون کيس خدمت ڪنديون.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "۽ سجدو ڪندا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "کيس خدمت ڪندا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:20.569042946Z",
+  "model": "glm-5.3"
+}

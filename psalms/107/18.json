@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "سندن جان هر کاڌي کان بيزار ٿي، ۽ هو موت جي دروازن تائين پهتا.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کاڌي"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "بيزار ٿي"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "سندن جان"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "۽ پهتا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دروازن"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:14.381038235Z",
+  "model": "glm-5.3"
+}

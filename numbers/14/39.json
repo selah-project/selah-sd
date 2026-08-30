@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 14:39",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ موشي اِھي لفظ سڀني بني اسرائيل کي ٻڌايا، ۽ ماڻھن وڏي ماتم ڪيو.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ٻڌايا\/چيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِھي لفظ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اِھي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ٻارن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "ماتم ڪيو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "وڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:17.983835127Z",
+  "model": "glm-5.3"
+}

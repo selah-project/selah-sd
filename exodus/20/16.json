@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "تو پنهنجي همسائي جي خلاف جھوٹي شاهدي نه ڏينءَ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "جواب ڏينءَ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "پنهنجي همسائي جي خلاف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهدي"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:34.060529175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 14:22",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ٻه ڪڪر يا ٻه ڦُٽيون جيڪي سندس هٿ پهچي سگهي، ۽ هڪ ٿيڻي خطيا قرباني ۽ ٻيو سڙندڙ قرباني؛",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "ڪڪر"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ٻچا"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ڦُٽيون جا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "پهچي سگهي"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "سندس هٿ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيڻو آهي"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "خطيا قرباني"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "۽ ٻيو"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "سڙندڙ قرباني"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:33.219157400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 148,
+  "translation": "ساراهيو کيس سج ۽ چنڊ، ساراهيو کيس سڀ روشن تارا۔",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ساراهيو کيس"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "۽ چنڊ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ساراهيو کيس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "تارا"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:32.459848727Z",
+  "model": "glm-5.3"
+}

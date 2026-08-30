@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ جو گهر آءٌ ٺاهي رهيو آهيان سو وڏو آهي، ڇوته اسان جو ايلوهيم سڳنن الهن کان وڏو آهي.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "۽ گهر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "ٺاهي رهيو آهيان"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "اسان جو ايلوهيم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڳنن کان"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الهن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:21:35.324120986Z",
+  "model": "glm-5.3"
+}

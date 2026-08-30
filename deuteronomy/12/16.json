@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "رڳو رت نه کائُئِ؛ مٿاھين زمين تي اُنهيءَ کي پاڻيءَ وانگر ڍير ڪر.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائُئِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿاھين... تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ڍير ڪر"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "پاڻيءَ وانگر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:58.316404731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 9:1",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "ڇاڪته سڀ ⟨את⟩ هي سڀ مون پنهنجي دل ۾ رکيو ۽ ⟨את⟩ هي سڀ چکڻ لاءِ، ته صالحن ۽ حڪيمن ۽ سندن ڪمن جو واسطو ايلوهيم جي هٿ ۾ آهي — محبت به، نفرت به، ماڻهو نٿو ڄاڻي؛ سڀ کين سندن اڳيان آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ هي سڀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "مون رکيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "پنهنجي دل"
+    },
+    {
+      "surface": "ולבור",
+      "gloss": "۽ چکڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي سڀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "صالحن"
+    },
+    {
+      "surface": "והחכמים",
+      "gloss": "۽ حڪيمن"
+    },
+    {
+      "surface": "ועבדיהם",
+      "gloss": "۽ سندن ڪمن"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ ۾"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "محبت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "نفرت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "نٿو ڄاڻي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "کين سندن اڳيان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:17.620374802Z",
+  "model": "glm-5.3"
+}

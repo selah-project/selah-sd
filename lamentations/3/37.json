@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڪير ⟨هو⟩ آھي جو چوي ٿو ۽ ⟨اھو⟩ ٿي پوي ٿو، جڏھن ادوناي ان جو حڪم نه ڪيو؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨هو⟩ هي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "۽ ٿي پوي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:12.418408843Z",
+  "model": "glm-5.3"
+}

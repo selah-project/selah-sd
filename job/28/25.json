@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 28:25",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ھو واءُ جي سِٺي ڪرڻ لاءِ، ۽ پاڻين کي ماپ سان تولڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "واءُ جي"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "سِٺي"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "۽ پاڻين کي"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "تولڻ"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ماپ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:41:07.222466971Z",
+  "model": "glm-5.3"
+}

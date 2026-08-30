@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "لاوين جي حاشبيا بن ڪمويل جو؛ اهارون جي صدوق:",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "لاوين جي"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حاشبيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "ڪمويل"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اهارون جي"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صدوق"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:06.028381860Z",
+  "model": "glm-5.3"
+}

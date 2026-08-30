@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "تڏهن شلومو چيو: ياهوه چيو آهي ته هو گهاٽي اونداهي ۾ رهندڙ آهي.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تڏهن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو آهي"
+    },
+    {
+      "surface": "لשכן",
+      "gloss": "رهندڙ ٿيڻ"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "گهاٽي اونداهي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:31:07.883832025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "بتسر ۽ هواد ۽ شما ۽ شلشه ۽ يثران ۽ بعيرا.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "بتسر"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "۽ هواد"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "۽ شما"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "۽ شلشه"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "۽ يثران"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "۽ بعيرا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:29.414042169Z",
+  "model": "glm-5.3"
+}

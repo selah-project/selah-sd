@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "جو لفظ يرمياهو وٽ ياهوه ⟨את⟩ پاران آيو، چوڻ لاءِ —",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "جو لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ پاران",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:13:44.380945686Z",
+  "model": "glm-5.3"
+}

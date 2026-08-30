@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 7:2",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڪيڏا نه سهڻا آهن تنهنجا قدم جُتن ۾، نديب جي ڌيءُ! تنهنجين رانهن جا ولر ڳهڻن جهڙا آهن، ڪاريگر جي هٿن جو ڪم.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ڪيڏا نه"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "سهڻا آهن"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "تنهنجا قدم"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "جُتن ۾"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءُ"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "نديب جي"
+    },
+    {
+      "surface": "חמוקי",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ירכיך",
+      "gloss": "تنهنجين رانهن جا"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "جهڙا"
+    },
+    {
+      "surface": "חלאים",
+      "gloss": "ڳهڻن"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "هٿن جو"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ڪاريگر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:47:23.375899848Z",
+  "model": "glm-5.3"
+}

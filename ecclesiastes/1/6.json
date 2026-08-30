@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ڏکڻ ڏانهن وڃي ٿو ۽ اتر ڏانهن موڙي ٿو؛ ڦرندي ڦرندي وڃي ٿي ⟨هوائي⟩، ۽ پنھنجن چڪرن تي موٽي ٿي ⟨هوائي⟩.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "وڃي ٿو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "ڏکڻ"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "۽ موڙي ٿو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اتر"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "ڦرندي"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "ڦرندي"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "وڃي ٿي"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "هوائي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "پنھنجن چڪرن"
+    },
+    {
+      "surface": "שב",
+      "gloss": "موٽي ٿي"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "هوائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:28.136908339Z",
+  "model": "glm-5.3"
+}

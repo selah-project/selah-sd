@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 12:7",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "سلو، عموڪ، حلقياہ، يداياہ — اِي ⟨هي⟩ ڪاهنين جا سردار هئا ۽ سندن ڀائر يشوع جي ڏينهن ۾.",
+  "tokens": [
+    {
+      "surface": "סלו",
+      "gloss": "سلو"
+    },
+    {
+      "surface": "עמוק",
+      "gloss": "عموڪ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حلقياہ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "يداياہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِي"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سردان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهنين جا"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "۽ سندن ڀائر"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "جي ڏينهن ۾"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "يشوع"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:33.108599458Z",
+  "model": "glm-5.3"
+}

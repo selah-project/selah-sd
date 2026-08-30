@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 27:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "मौर चांदी لاءِ آهي ۽ ڀَٽي سون لاءِ، ۽ ماڻهو پنهنجي ساراهَه جي مطابق آهي.",
+  "tokens": [
+    {
+      "surface": "मצרף",
+      "gloss": "मौर"
+    },
+    {
+      "surface": "लכסף",
+      "gloss": "चांदी لاءِ"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "۽ ڀَٽي"
+    },
+    {
+      "surface": "लזהב",
+      "gloss": "سون لاءِ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ماڻهو"
+    },
+    {
+      "surface": "लפי",
+      "gloss": "مطابق"
+    },
+    {
+      "surface": "महललו",
+      "gloss": "پنهنجي ساراهَه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:25.559117543Z",
+  "model": "glm-5.3"
+}

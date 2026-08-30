@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ٿيو يشورون ۾ بادشاھ، جڏھن گڏ ٿيا قوم جا سردار، يسرائيل جا قبائلا گڏجي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "يشورون ۾"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "جڏھن گڏ ٿيا"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم جا"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "گڏجي"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "قبائلا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل جا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:04.868688801Z",
+  "model": "glm-5.3"
+}

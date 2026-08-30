@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "سٺ اُهي راڻيون آهن، ۽ اسي پيلگشبار، ۽ ڪنواريون بڻ شمار.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "سٺ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اُهي"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "راڻيون"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "۽ اسي"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "پيلگشبار"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "۽ ڪنواريون"
+    },
+    {
+      "surface": "אין",
+      "gloss": "بڻ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:28.439540021Z",
+  "model": "glm-5.3"
+}

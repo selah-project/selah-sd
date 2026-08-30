@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڪڏهن ٻاهر، ڪڏهن چوڪن ۾، ۽ هر ڪنڊ تي گهاتيون لائي ٿي،",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "ڪڏهن"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "پעם",
+      "gloss": "ڪڏهن"
+    },
+    {
+      "surface": "ברחובות",
+      "gloss": "چوڪن ۾"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "۽ هر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ڪنڊ تي"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "گهاتيون لائي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:35.375982055Z",
+  "model": "glm-5.3"
+}

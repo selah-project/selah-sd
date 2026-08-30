@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ جڏھن عثليه ⟨את⟩ دوڙندڙن ۽ ⟨את⟩ قوم جي آواز ٻڌي، تڏھن قوم وٽ ياهوه جي گهر ۾ آئي.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "ٻڌي"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "عثليه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آواز"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "دوڙندڙن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "آئي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:42:16.011112899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "جيئن هن ڏينهن ڪيو ويو، تيئن ياهوه حڪم ڏنو آهي ته ڪجي، توهان لاءِ کفارت ڪرڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو ويو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "هن ڏينهن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ته ڪجي"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "کفارت ڪرڻ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "توهان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:24.742084829Z",
+  "model": "glm-5.3"
+}

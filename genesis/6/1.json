@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ پوءِ ٿيو، جڏھن ماڻھو زمين جي مٿاڇري تي گھڻا ٿيڻ لڳا، ۽ کين نياڻيون ڄائيون،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "پوءِ ٿيو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "החל",
+      "gloss": "لڳا"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "گھڻا ٿيڻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مٿاڇري"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "۽ نياڻيون"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ڄائيون"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:38.569311137Z",
+  "model": "glm-5.3"
+}

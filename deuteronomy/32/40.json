@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "ڇوته آءٌ پنهنجو هٿ آسمان ڏانهن کڻندس ۽ چوندس: آءٌ هميشه جيئل آهيان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "کڻندس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "پنهنجو هٿ"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "۽ چوندس"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جيئل"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "هميشه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:13.259280724Z",
+  "model": "glm-5.3"
+}

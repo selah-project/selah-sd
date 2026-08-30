@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "ڇوته جبل کيس پنهنجو اُپاءُ ڏين، ۽ ميدان جا سڄا جيوت اُتي کيڏن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בול",
+      "gloss": "اُپاءُ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ڏين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڄا"
+    },
+    {
+      "surface": "חית",
+      "gloss": "جيوت"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ميدان جا"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "کيڏن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:45.986859615Z",
+  "model": "glm-5.3"
+}

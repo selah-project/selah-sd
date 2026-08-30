@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ ماڻهن کي چيائين: «ٽين ڏينھن لاءِ تيار رھو؛ زال جي ويجھو نه وڃو.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "היו",
+      "gloss": "رھو"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "تيار"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ٽين"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينھن لاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "وڃو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ويجھو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:52.953739095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ⟨את⟩ گوشت ۽ ⟨את⟩ کَل کي باهه ۾ ڇانوڻي کان ٻاهر ساڙيائين.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "گوشت"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کَل"
+    },
+    {
+      "surface": "העור",
+      "gloss": "کَل"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ساڙيائين"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ڇانوڻي کان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:24.563375232Z",
+  "model": "glm-5.3"
+}

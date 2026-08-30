@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ آدم جا ڏينهن، ⟨את⟩ شيث کي ڄاريڻ کان پوءِ، اٺ سؤ سال هئا، ۽ پُٽ ۽ ڌيئر ڄاريائين.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ هئا"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "جا ڏينهن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کان پوءِ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "کي ڄاريڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شيث"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شيث"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "۽ ڄاريائين"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "۽ ڌيئر"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:32.348083529Z",
+  "model": "glm-5.3"
+}

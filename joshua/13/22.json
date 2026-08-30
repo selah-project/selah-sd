@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 13:22",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ⟨את⟩ بالعام بنِ بِعور، جادوگر، کي بني اسرائيل تلوار سان ماريو، سندن ماريلن ۾.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "بالعام"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بالعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "بِعور"
+    },
+    {
+      "surface": "הקוסם",
+      "gloss": "جادوگر"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ماريو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تلوار سان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "חלליהם",
+      "gloss": "سندن ماريلن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:32.028880015Z",
+  "model": "glm-5.3"
+}

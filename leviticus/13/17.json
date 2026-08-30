@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ڪاهن کيس ڏسيندو، ۽ ڏسو، ناسور اڇو ٿي ويو آهي، ته ڪاهن ⟨את⟩ ناسور کي پاڪ قرار ڏيندو؛ اهو پاڪ آهي.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "کيس ڏسيندو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ڦري ويو آهي"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ناسور"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "اڇو"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "پاڪ قرار ڏيندو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناسور"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ناسور"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:46.782046506Z",
+  "model": "glm-5.3"
+}

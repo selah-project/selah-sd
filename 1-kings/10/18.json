@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 10:18",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ بادشاهه هڪ وڏو هاتھيڏنڍ جو تخت ٺاهيو، ۽ ان کي صاف ڪيل سون سان مڙيو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ٺاهيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "שן",
+      "gloss": "هاتھيڏنڍ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "۽ ان کي مڙيو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "מופז",
+      "gloss": "صاف ڪيل"
+    }
+  ],
+  "timestamp": "2026-08-30T11:31:21.774855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 109,
+  "translation": "۽ انهن کي خبر پوي ته ⟨هي⟩ تنهنجو هٿ آهي؛ تون ئي، ياهوه، اها ڪئي آهي.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "۽ انهن کي خبر پوي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تنهنجو هٿ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون ئي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "اها ڪئي آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:46.072683682Z",
+  "model": "glm-5.3"
+}

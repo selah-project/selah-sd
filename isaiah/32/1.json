@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "ڏسو، انصاف لاءِ بادشاهه راڄ ڪندو، ۽ امير عدل لاءِ حڪم هلائيندا.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "انصاف لاءِ"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "راج ڪندو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "۽ امير"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "عدل لاءِ"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "حڪم هلائيندا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:55:23.557516082Z",
+  "model": "glm-5.3"
+}

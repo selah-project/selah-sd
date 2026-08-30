@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 20:11",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "تہ اسرائيل جو سھو ماڻهو شهر تي ھڪ ماڻهوءَ وانگر — سنگتي ٿي — گڏ ٿيو.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "گڏ ٿيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سھو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "анты"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ھڪ ماڻهوءَ وانگر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": ""
+    },
+    {
+      "surface": "חברים",
+      "gloss": "سنگتي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:04:47.209920438Z",
+  "model": "glm-5.3"
+}

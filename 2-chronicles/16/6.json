@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ آسا بادشاهه سڄي يهودah کي ورتائين ۽ اُهي رمه جا پٿر ۽ سندس ڪاٺ، جيڪي بعشا ٺاهيا هئا، کڻي ويا؛ ۽ انهن سان گبعه ۽ همتسپه کي ٺاهيائين.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "۽ آسا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ورتائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڄي يهودah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودah"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "۽ کڻي ويا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پٿر"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "رمه جا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سندس ڪاٺ"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "سندس ڪاٺ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ٺاهيا"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشا"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "۽ ٺاهيائين"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انهن سان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گبعه"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "گبعه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "همتسپه"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "همتسپه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:34.936269995Z",
+  "model": "glm-5.3"
+}

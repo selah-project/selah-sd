@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ ستين ڏينهن تي ٿيو ته ماڻهن مان ڪي ڪڍ لاءِ نڪتا ۽ کين ڪجهه نه مليو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "نڪتا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "ڪڍ لاءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "مليو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:55.377024668Z",
+  "model": "glm-5.3"
+}

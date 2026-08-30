@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ تو کي ⟨את⟩ ان کي مذبح جي ڪڙجي هيٺ رکڻو آهي، هيٺاهين ۾؛ ۽ جال مذبح جي اڌ تائين هوندي.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "۽ تو کي رکڻو آهي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "ڪڙجي"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح جي"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "هيٺاهين ۾"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "۽ هوندي"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "جال"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "اڌ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:53.552309939Z",
+  "model": "glm-5.3"
+}

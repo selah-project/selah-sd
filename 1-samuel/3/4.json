@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ياهوه شموئيل کي سڏيو، ۽ ⟨هن⟩ چيو: “هتي آئون آهيان.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ … سڏيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ڏانهن"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "هتي آئون آهيان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:06:44.292948973Z",
+  "model": "glm-5.3"
+}

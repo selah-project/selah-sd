@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "هر بري رستي کان پنهنجا پير روڪيائون، تہ جيئن تنهنجو لفظ پاسان.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "هر ... کان"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "رستي"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بري"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "روڪيائون"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پنهنجا پير"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تہ جيئن"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "پاسان"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تنهنجو لفظ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:04.298253001Z",
+  "model": "glm-5.3"
+}

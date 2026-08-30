@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 32:2",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "And the sons of Gad and the sons of Reuben came, and said to Moses, and to Elazar the priest, and to the leaders of the congregation, saying:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "and they came"
+    },
+    {
+      "surface": "בני",
+      "gloss": "the sons of"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "and the sons of"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "and they said"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moses"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "the priest"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "the leaders of"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "the congregation"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saying"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:35.914806084Z",
+  "model": "glm-5.3"
+}

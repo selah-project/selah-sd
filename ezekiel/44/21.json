@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "۽ شراب نه پيئن ڪوبه كاهن، جڏهن اھي اندرونيءَ چوٿيءَ ۾ اچن.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "۽ شراب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "پيئن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كاهن"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "جڏهن اھي اچن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "چوٿيءَ"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "اندرونيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:42:13.731939947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "پڪو ڏهون حصو ڏيندا پنهنجي ٻج جي سڀ پيداوار جو، جيڪا سال بہ سال خانو نڪاري ٿي.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ڏهون حصو"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "پڪو ڏيندا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ پيداوار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "پيداوار"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "پنهنجي ٻج جي"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "جيڪا نڪاري ٿي"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "خانو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "بہ سال"
+    }
+  ],
+  "timestamp": "2026-08-30T10:41:08.122435293Z",
+  "model": "glm-5.3"
+}

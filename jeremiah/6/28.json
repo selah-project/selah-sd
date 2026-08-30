@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 6:28",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "سڀئي باغي سرڪار، چغلخوري ڪندڙ هلندڙ — ٺڪر ۽ لوھ؛ سڀئي خرابي ڪندڙ ⟨آهن⟩ اُهي.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "סרי",
+      "gloss": "سرڪار"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "باغي"
+    },
+    {
+      "surface": "הלכי",
+      "gloss": "هلندڙ"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "چغلخوري"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ٺڪر"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "۽ لوھ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "خرابي ڪندڙ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اُهي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:54:45.888709327Z",
+  "model": "glm-5.3"
+}

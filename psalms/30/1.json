@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "مزمور، گيت، گهر جي سنوار (حنوڪت) جو، داوود جو.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "سنوار (حنوڪت) جي"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:33.582536053Z",
+  "model": "glm-5.3"
+}

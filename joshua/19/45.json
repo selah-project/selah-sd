@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ يهود، ۽ بني-برق، ۽ گت-ريمون.",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "۽ يهود"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ بني"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "برق"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "۽ گت"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ريمون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:59.416916735Z",
+  "model": "glm-5.3"
+}

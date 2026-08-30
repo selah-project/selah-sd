@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 18:14",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "ڇا ميدان جي پٿر مان لبنان جو برف ڇڏجي وڃي ٿو؟ ڇا پراڻا ٿڌا وهيندڙ پاڻي سُٽجي وڃن ٿا؟",
+  "tokens": [
+    {
+      "surface": "היעזב",
+      "gloss": "ڇڏجي وڃي ٿو"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ميدان"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "برف"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لبنان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "ינתשו",
+      "gloss": "سُٽجي وڃن ٿا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "پراڻا"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ٿڌا"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "وهيندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:13:23.974498805Z",
+  "model": "glm-5.3"
+}

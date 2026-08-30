@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ هن ⟨את⟩ سوڙهي قرباني پيش ڪئي ۽ ان کي حڪم موجب ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "پيش ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سوڙهي قرباني"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوڙهي قرباني"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "ڪيائين ان کي"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "حڪم موجب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:48.743460716Z",
+  "model": "glm-5.3"
+}

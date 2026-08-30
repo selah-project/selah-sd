@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ ابراهام ⟨את⟩ سَڀ ڪجهه جيڪي ⟨هن⟩ وٽ هو، يصحق کي ڏنو.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سَڀ ڪجهه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سَڀ ڪجهه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن وٽ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "يصحق کي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:42.158458848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 4:16",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ياهوه جي منهن هنن کي ورهايو؛ هو وڌيڪ هنن ڏي نه ڏسيندو؛ ڪاهنن جا منهن نه مڃيا ويا، جهوڙن تي مهرباني نه ڪئي وئي.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ورهايو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "להביטם",
+      "gloss": "هنن ڏي ڏسيندو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منحن"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ڪاهنن جا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "مڃيا ويا"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "جهوڙن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "مهرباني ڪئي وئي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:40.516996508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ اکش کيس ان ڏينهن ⟨את⟩ صقلگ ڏني؛ تنهنڪري صقلگ يهودا جي بادشاهن جي رهي، هن ڏينهن تائين.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏني"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "اکش"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صقلگ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "صقلگ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "رهي"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "صقلگ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "بادشاهن جي"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:15:30.823199233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 33:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ٻانهيون پاڻ ۽ پنھنجا ٻار اچي سندس اڳيان سجدا ٿيون.",
+  "tokens": [
+    {
+      "surface": "ותגשן",
+      "gloss": "اچي ويٺيون"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ٻانهيون"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "پاڻ"
+    },
+    {
+      "surface": "וילדיהן",
+      "gloss": "۽ پنھنجا ٻار"
+    },
+    {
+      "surface": "ותשתחוין",
+      "gloss": "سجدا ٿيون"
+    }
+  ],
+  "timestamp": "2026-08-30T09:48:46.390398765Z",
+  "model": "glm-5.3"
+}

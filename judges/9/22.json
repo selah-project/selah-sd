@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ابيمليخ ٽن سالن تائين اسرائيل تي حاكم رهيو۔",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "۽ حاكم رهيو"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ابيمليخ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:00:03.233044292Z",
+  "model": "glm-5.3"
+}

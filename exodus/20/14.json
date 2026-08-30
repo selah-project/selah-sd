@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "تو زنا نه ڪرينءَ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "زنا ڪرينءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:34.060252162Z",
+  "model": "glm-5.3"
+}

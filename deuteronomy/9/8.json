@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ حورب ۾ توهين ياهوه کي ڪاوڙايو، ۽ ياهوه توهان تي غصو ٿيو ته توهان کي ناس ڪري.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "۽ حورب ۾"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "توهين ڪاوڙايو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "۽ غصو ٿيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "توهان تي"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ناس ڪري"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ توهان کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:10.331046945Z",
+  "model": "glm-5.3"
+}

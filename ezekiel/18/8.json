@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 18:8",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "سود تي (پئسا) نه ڏيندو ۽ واڌ نه کڻندو، ظلم کان پنھنجو هٿ موٽائيندو، ماڻھو ۽ ماڻھو وچ ۾ سچو انصاف ڪندو —",
+  "tokens": [
+    {
+      "surface": "בנשך",
+      "gloss": "سود تي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڏيندو"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "۽ واڌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "کڻندو"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "ظلم کان"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "موٽائيندو"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "پنھنجو هٿ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪندو"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "۽ ماڻھو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:32:03.644237742Z",
+  "model": "glm-5.3"
+}

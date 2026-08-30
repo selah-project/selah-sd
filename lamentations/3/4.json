@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "منھنجو گوشت ۽ چم ⟨کي⟩ ڦٽائي ڇڏيائين، منھنجيون ھڏيون ڀڳائين.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "ڦٽائي ڇڏيائين"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "منھنجو گوشت"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "۽ چم"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ڀڳائين"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "منھنجيون ھڏيون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:21.626069454Z",
+  "model": "glm-5.3"
+}

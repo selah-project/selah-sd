@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "حارم جا پُٽ، ھڪ ھزار ۽ سترھہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارم"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھڪ ھزار"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "سرھہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:58.348833620Z",
+  "model": "glm-5.3"
+}

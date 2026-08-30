@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "مقصد لاءِ؛ قورح جي پٽن جو معلمانه نظم.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقصد لاءِ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "معلمانه نظم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:19.178022015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ياهوه خيمي ۾ ڪَڪَر جي ٿنڀي ۾ ظاهر ٿيو، ۽ ڪَڪَر جو ٿنڀو خيمي جي دروازي تي بيٺو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ظاهر ٿيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خيمي ۾"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "ٿنڀي ۾"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ڪَڪَر جي"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "۽ بيٺو"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ٿنڀو"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ڪَڪَر جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خيمي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:28.764828797Z",
+  "model": "glm-5.3"
+}

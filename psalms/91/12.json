@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 91,
+  "translation": "ھٿن تي ئي توکي کڻندا، متان تنهنجو پير پٿر سان لڳي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ھٿن (تَرين)"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "توکي کڻندا"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "لڳي"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "پٿر سان"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "تنهنجو پير"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:58.204581438Z",
+  "model": "glm-5.3"
+}

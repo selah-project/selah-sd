@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 35:23",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "يا ڪنھن اھڙي پٿر سان جا ماڻهو مري ٿو، مٿس ڏسي نہ ڪيرايائين ۽ هو مري ويو، ۽ هو سندس دشمن نہ ھو ۽ نہ سندس برائي ڳوليندو ھو —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ڪنھن به"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مري ٿو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان سان"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بنا"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ڏسي"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ڪيرايائين"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "۽ هو مري ويو"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نہ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ڳوليندو"
+    },
+    {
+      "surface": "רעתו",
+      "gloss": "سندس برائي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:34.069685741Z",
+  "model": "glm-5.3"
+}

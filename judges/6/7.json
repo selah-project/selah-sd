@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ جڏهن اسرائيل جي پُٽن ياهوه ڏانهن مدين جي ڪري پُڪار ڪئي، تڏهن",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "پُڪار ڪئي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي ڪري"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "―"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مدين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:58:42.425968427Z",
+  "model": "glm-5.3"
+}

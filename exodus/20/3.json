@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "منھنجي اڳيان تنهنجا ٻيا ايلوهيم نہ ھجن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ھجن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻيا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منھنجي منھن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:14.337415530Z",
+  "model": "glm-5.3"
+}

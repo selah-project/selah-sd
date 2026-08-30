@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "اِهاڻو! پنهنجو منهن سيِر جبل ڏانهن ڪر ۽ ان جي خلاف نبوت ڪر.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِهاڻو"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ڪر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "پنهنجو منهن"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سيِر"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "۽ نبوت ڪر"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ان جي خلاف"
+    }
+  ],
+  "timestamp": "2026-08-30T12:39:17.326018814Z",
+  "model": "glm-5.3"
+}

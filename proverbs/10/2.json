@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "بي انصافيءَ جا خزانا فائدو نه ڏين، پر ⟨the⟩ صدقي مَرڻ کان بچائي ٿي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "فائدو ڏين"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "خزانا"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بي انصافيءَ جا"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "پر صدقي"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "بچائي ٿي"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "مَرڻ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:24.752222665Z",
+  "model": "glm-5.3"
+}

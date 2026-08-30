@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "کل لاءِ ماني ٺاهي ويندي آهي، ۽ شراب زندگي کي خوش ڪري ٿو، پر چاندي ⟨את⟩ سڀ ڪجهه جو جواب ڏيندي آهي.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "کل لاءِ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ٺاهي ويندي آهي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "۽ شراب"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ڪري ٿو"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگي کي"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "پر چاندي"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب ڏيندي آهي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ ڪجهه"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سڀ ڪجهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:32.429505302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "مدلل ⟨آهي⟩ جيڪو پنهنجي ڀيڻ سان سمهي ٿو، پنهنجي پيءُ جي ڌيءَ يا پنهنجي ماءُ جي ڌيءَ، ۽ سڄي قوم چوندي: آمين.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "مدلل"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "سمهي ٿو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "پنهنجي ڀيڻ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پنهنجي پيءُ جي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "پنهنجي ماءُ جي"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چوندي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:19.246179080Z",
+  "model": "glm-5.3"
+}

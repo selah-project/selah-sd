@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 147,
+  "translation": "ياهوه عاجزن کي سھي ڏئي ٿو، ظالمن کي زمين تائين جهڪائي ٿو.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "سھي ڏئي ٿو"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "عاجزن کي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "جهڪائي ٿو"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ظالمن کي"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:05.842665560Z",
+  "model": "glm-5.3"
+}

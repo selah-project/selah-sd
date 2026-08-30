@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "۽ پوکيون ٻنيون، ۽ ٻنيون لڳايون باغ، ۽ ڦل ڪيائين پيداوار جو.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "۽ پوکيون"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "ٻنيون"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "۽ لڳايون"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "۽ ڪيائين"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ڦل"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "پيداوار جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:09.083400949Z",
+  "model": "glm-5.3"
+}

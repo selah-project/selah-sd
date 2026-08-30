@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "“ڪير ناسمجهه آھي؟ ⟨اھو⟩ ھن侧 ڀرجي؛ ۽ جيڪو دل کان محروم آھي، ⟨اھو⟩ ان کي چوندي آھي:”",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "ناسمجهه آھي"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ڀرجي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ھن側 ھتي"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "۽ محروم آھي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کان"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "۽ چوندي آھي"
+    },
+    {
+      "surface": "لו",
+      "gloss": "ان کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:03.607404782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "منهن ڪري سؤ اَمّن جي ڊيگھه تائين، اتر وارو دروازو؛ ۽ ويڪر پنجاہ اَمّون۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منهن ڪري"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊيگھه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمّون"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "اتر واري"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "۽ ويڪر"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمّون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:36.916052528Z",
+  "model": "glm-5.3"
+}

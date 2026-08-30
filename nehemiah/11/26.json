@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ يشوع ۾، ۽ مولادھ ۾، ۽ بيت-پالٽ ۾،",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "۽ يشوع ۾"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "۽ مولادھ ۾"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "۽ بيت ۾"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "پالٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:00.585526009Z",
+  "model": "glm-5.3"
+}

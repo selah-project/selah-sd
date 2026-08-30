@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 7:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ تون، آدم جو پٽ، ائن چوي ٿو ادوناي ياهوه اسرائيل جي زمين لاءِ: پڇاڻي، پڇاڻي اچي ٿي، زمين جي چئن ڪنڊن تي.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לאדמת",
+      "gloss": "زمين لاءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "پڇاڻي"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ٿي"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "پڇاڻي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چئن"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "ڪنڊن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:27:44.841301516Z",
+  "model": "glm-5.3"
+}

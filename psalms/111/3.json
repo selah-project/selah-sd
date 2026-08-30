@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 111,
+  "translation": "شان ۽ جلال سندس ڪارڻ جو آهي، ۽ سندس صداقت هميشه قائم رهي ٿي۔",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "۽ جلال"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "سندس ڪارڻ"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "۽ سندس صداقت"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "قائم رهي ٿي"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "هميشه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:00.575552299Z",
+  "model": "glm-5.3"
+}

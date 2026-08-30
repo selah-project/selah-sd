@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 1:43",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ان جي ڳڻپ لڳي قبيلي نفتالي جي ٽي ۽ پنجاهه هزار ۽ چار سؤ.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ان جي ڳڻپ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي جي"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "۽ پنجاهه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:41.822817159Z",
+  "model": "glm-5.3"
+}

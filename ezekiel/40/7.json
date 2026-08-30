@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 40:7",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ ⟨the⟩ ڪوٺي، هڪ ڪنوڊگهي ۽ هڪ ڪنو ويڪر؛ ۽ ڪوٺين جي وچ ۾ پنج اَمَّون؛ ۽ دروازي جو ٿلهو دروازي جي اڳيان حصي کان، گهر کان، هڪ ڪنو.",
+  "tokens": [
+    {
+      "surface": "והתא",
+      "gloss": "۽ ڪوٺي"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "هڪ ڪنو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊگهي"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "۽ هڪ ڪنو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ويڪر"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ ... جي وچ ۾"
+    },
+    {
+      "surface": "התאים",
+      "gloss": "ڪوٺين"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمَّون"
+    },
+    {
+      "surface": "וסף",
+      "gloss": "۽ ٿلهو"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازي جو"
+    },
+    {
+      "surface": "מאצל",
+      "gloss": "کان"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "اڳيان حصو"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازي جي"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "گهر کان"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "هڪ ڪنو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:35.139019323Z",
+  "model": "glm-5.3"
+}

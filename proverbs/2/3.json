@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇوته جيڪڏهن تون بصيرت کي سڏين ۽ سمجھ لاءِ پنھنجو آواز بلند ڪرين،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "بصيرت کي"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "سڏين"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "سمجھ لاءِ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بلند ڪرين"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "پنھنجو آواز"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:05.333651820Z",
+  "model": "glm-5.3"
+}

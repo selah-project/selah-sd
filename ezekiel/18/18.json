@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 18:18",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "هن جي پيءُ، جو ظلم ڪيائين، لٽيا ڀاءُ کي، ۽ جيڪو چڱو نه سو پنھنجي قوم ۾ ڪيائين — ڏسو، هو پنھنجي ئي گناهه ۾ مري ٿو.",
+  "tokens": [
+    {
+      "surface": "אביו",
+      "gloss": "هن جي پيءُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ڪيائين"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "لٽ"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "ڪيائين"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ڀاءُ کي"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "۽ جيڪو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيائين"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "۾"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "پنھنجي قوم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مري ٿو"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "پنھنجي ئي گناهه ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:33:10.203199764Z",
+  "model": "glm-5.3"
+}

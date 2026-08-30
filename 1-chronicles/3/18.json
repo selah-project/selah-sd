@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 3:18",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ملڪيرام ۽ پداياہ ۽ شنعصر ۽ يقمياہ ۽ هوشامع ۽ ندابياہ.",
+  "tokens": [
+    {
+      "surface": "ומלכירם",
+      "gloss": "۽ ملڪيرام"
+    },
+    {
+      "surface": "ופדיה",
+      "gloss": "۽ پداياہ"
+    },
+    {
+      "surface": "ושנאצר",
+      "gloss": "۽ شنعصر"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "يقمياہ"
+    },
+    {
+      "surface": "הושמע",
+      "gloss": "هوشامع"
+    },
+    {
+      "surface": "ונדביה",
+      "gloss": "۽ ندابياہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:08.188908246Z",
+  "model": "glm-5.3"
+}

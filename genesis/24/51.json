@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 24:51",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ھنوءَ، ربڪا تنھنجي اڳيان آھي؛ کڻي وڃ ۽ هوءَ تنھنجي مالڪ جي پٽ جي زال ٿئي، جيئن ياهوه چيو آھي.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ھنوءَ"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ربڪا"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تنھنجي اڳيان"
+    },
+    {
+      "surface": "קח",
+      "gloss": "کڻي"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "۽ هوءَ ٿئي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "جي پٽ جي"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "تنھنجي مالڪ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:32.082502049Z",
+  "model": "glm-5.3"
+}

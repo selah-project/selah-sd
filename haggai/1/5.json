@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ هاڻي ائين چوي ٿو ياهوه لشڪرن جو: توهان پنھنجن دلين کي پنھنجن رستن تي رکو.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "لشڪرن جو"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "رکو"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "توهان جون دلين کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "توهان جي رستن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:05.686609769Z",
+  "model": "glm-5.3"
+}

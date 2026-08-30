@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ تون صندوق ۾ ⟨את⟩ گواهي رکيندين، جا مان توکي ڏيندو.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "۽ تون رکيندين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گواهي"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواهي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "مان ڏيندو"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "توکي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:43.147312757Z",
+  "model": "glm-5.3"
+}

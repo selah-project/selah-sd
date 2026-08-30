@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "joshua 15:51",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ گوشن، ۽ حولن، ۽ گيلوه — يارھن شهرن ۽ سندن ڳوٺن سميت،",
+  "tokens": [
+    {
+      "surface": "וגשן",
+      "gloss": "۽ گوشن"
+    },
+    {
+      "surface": "וחלן",
+      "gloss": "۽ حولن"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "۽ گيلوه"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهرن"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "يارھن"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(ايڪڙھن)"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "۽ سندن ڳوٺن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:31.472492377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "حَگاب جا پُٽ، شَملِي جا پُٽ، حانان جا پُٽ،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "حَگاب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "شَملِي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حانان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:02:32.942423851Z",
+  "model": "glm-5.3"
+}

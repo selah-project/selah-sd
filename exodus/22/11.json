@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ جيڪڏھن اُها کيس کان چوري ٿي وڃي، ته ھن مالڪ کي بدل ڏيندو.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "چوري"
+    },
+    {
+      "surface": "يגנב",
+      "gloss": "ٿي وڃي"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "کيس کان"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بدل ڏيندو"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "مالڪ کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:51.592971255Z",
+  "model": "glm-5.3"
+}

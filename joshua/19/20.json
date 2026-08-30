@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ هَرَبّيت، ۽ قِشيون، ۽ آبيض.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "۽ هَرَبّيت"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "۽ قِشيون"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "۽ آبيض"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:37.971355952Z",
+  "model": "glm-5.3"
+}

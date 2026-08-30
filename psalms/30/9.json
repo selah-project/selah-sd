@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "توکي، ياهوه، مان سڏيان ٿو، ۽ ادوناي کان مان منت ڪريان ٿو.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "مان سڏيان ٿو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ... کان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "مان منت ڪريان ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:09.888060068Z",
+  "model": "glm-5.3"
+}

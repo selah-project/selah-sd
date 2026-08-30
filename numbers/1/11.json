@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "بنيامين جي لاءِ ابيدان، گدعوني جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "بنيامين جي لاءِ"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "ابيدان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "گدعوني"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:39.325044135Z",
+  "model": "glm-5.3"
+}

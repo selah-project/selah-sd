@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 114,
+  "translation": "جبل نچيا جهنگلي ٻڪرين وانگر، ٽڪريون ٻڪرين جي ٻچن وانگر.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "نچيا"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "جهنگلي ٻڪرين وانگر"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ٽڪريون"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "ٻچن وانگر"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ٻڪرين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:16.489536359Z",
+  "model": "glm-5.3"
+}

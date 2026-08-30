@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 7:13",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ائين ٿيو: جيئن ⟨هو⟩ سڏيو ۽ ٻڌو نه، تيئن سڏيندا ۽ آءُ نه ٻُڌندس، چيو ياهوه صبائوت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ائين ٿيو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "سڏيندا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "آءُ ٻُڌندس"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    }
+  ],
+  "timestamp": "2026-08-30T15:01:36.407223956Z",
+  "model": "glm-5.3"
+}

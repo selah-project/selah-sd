@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "جو کوڙي ٿو کوٽ، تنهن ۾ ئي ڪري ٿو؛ ۽ جو ڀڃي ٿو ڀت، ان کي سانپڻو ٿو ڏنگي.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "جو کوڙي ٿو"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "کوٽ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڪري ٿو"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "۽ جو ڀڃي ٿو"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ڀت"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ڏنگي ٿو"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "سانپڻو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:10.612505674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "هي ڪير آھي جيڪو نھر وانگر چڙھي ٿو، دريائن وانگر سندس پاڻي گھمندا ڦڙڪن ٿا؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "نھر وانگر"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڙھي ٿو"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "دريائن وانگر"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "ڦڙڪن ٿا"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "سندس پاڻي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:57:27.594516476Z",
+  "model": "glm-5.3"
+}

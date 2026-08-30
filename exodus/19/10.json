@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ ياهوه موشيءَ کي چيو: وڃ ماڻهن وٽ، ۽ کين اڄ ۽ سڀاڻي پاڪ ڪر، ۽ اهي پنهنجا ڪپڙا ڌوئن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيءَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "۽ کين پاڪ ڪر"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اڄ"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "۽ سڀاڻي"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "۽ ڌوئن"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "پنهنجا ڪپڙا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:27.008973268Z",
+  "model": "glm-5.3"
+}

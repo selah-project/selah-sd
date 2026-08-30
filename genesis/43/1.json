@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "۽ قحط زمين ۾ سخت ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "۽ قحط"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:39.189705319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ياهوه اوهان لاءِ وڙهندو، ۽ اوهان ماٺ ڪندؤ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "وڙهندو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اوهان لاءِ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "۽ اوهان"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "ماٺ ڪندؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:31.144967562Z",
+  "model": "glm-5.3"
+}

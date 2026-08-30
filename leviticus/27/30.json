@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ زمين جو سڀ ڏهون حصو — زمين جي ٻج مان، وڻ جي ميوي مان — ياهوه لاءِ آهي؛ اهو ياهوه لاءِ پاڪ آهي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ڏهون حصو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جو"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "ٻج مان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ميوي مان"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "وڻ جي"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:32.315681206Z",
+  "model": "glm-5.3"
+}

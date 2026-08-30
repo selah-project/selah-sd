@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 35:22",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ جيڪڏھن اچرج ۾، بنا دشمنيءَ جي، هن کي ڌڪو ياڪو اٿس، يا ڪوبه اوزار مٿس اڇايائين بنا سازش جي —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "בפתע",
+      "gloss": "اچرج ۾"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بنا"
+    },
+    {
+      "surface": "איבה",
+      "gloss": "دشمنيءَ جي"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "هن کي ڌڪو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "اڇايائين"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪو به"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "اوزار"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "צדיה",
+      "gloss": "سازش جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:34.069502671Z",
+  "model": "glm-5.3"
+}

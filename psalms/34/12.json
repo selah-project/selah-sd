@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "اچو، پٽؤ! مون ٻڌو؛ مان توھان کي ياهوه جو ڊَپُ سکائيندس.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "اچو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽؤ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "جي ڊَپُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "توھان کي سکائيندس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:18.860253786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 15:32",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ لباوت ۽ شلحيم ۽ عين ۽ ريمون — سڀ ⟨ٿيون⟩ شهر اڻويھه ⟨آهن⟩ ۽ انهن جا ڳوٺ،",
+  "tokens": [
+    {
+      "surface": "ולבאות",
+      "gloss": "۽ لباوت"
+    },
+    {
+      "surface": "ושלחים",
+      "gloss": "۽ شلحيم"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "۽ عين"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "۽ ريمون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھه"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "۽ نَوَ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "۽ انهن جا ڳوٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:31.958109705Z",
+  "model": "glm-5.3"
+}

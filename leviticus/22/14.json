@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ جي ماڻهوءَ اڻ ڄاڻي مقدس شيءِ کائي، ته ان تي ان جو پنجون حصو وڌائي، ڪاهن کي ⟨את⟩ مقدس ڏئي.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ماڻهوءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جي"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائي"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس شيءِ"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "اڻ ڄاڻي"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ته وڌائي"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "ان جو پنجون حصو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "۽ ڏئي"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ڪاهن کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدس"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:46.530551715Z",
+  "model": "glm-5.3"
+}

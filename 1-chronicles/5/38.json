@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ اهيتوب ⟨את⟩ صادوق کي پيدا ڪيو، ۽ صادوق ⟨את⟩ شلوم کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "۽ اهيتوب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صادوق"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "۽ صادوق"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلوم"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلوم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:49.955154238Z",
+  "model": "glm-5.3"
+}

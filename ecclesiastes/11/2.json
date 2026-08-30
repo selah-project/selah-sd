@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "حصو ڏهه ست کي ۽ پڻ اٺ کي، ڇوته تون نه ڄاڻين ته زمين تي ڇا بڇڙائي ٿيندي.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "حصو"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ست کي"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "اٺ کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ڄاڻين"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بڇڙائي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:57.614610266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezekiel 40:43",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ ڪنارا هڪ هٿ جيheartbeat ٿلهيرا، اندر چوڌاري چوڌاري جڙيل؛ ۽ ميزن تي قرباني جو گوشت.",
+  "tokens": [
+    {
+      "surface": "והשפתים",
+      "gloss": "۽ ڪنارا"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "هڪ هٿ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מוכנים",
+      "gloss": "جڙيل"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "اندر"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "ميزن"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "הקרבן",
+      "gloss": "قرباني جو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:45.309025397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 75,
+  "translation": "جڏهن مان مقرر وقت وٺندس، مان پاڻ سڌائيءَ سان فيصلو ڪندس.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "وٺندس"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقرر وقت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان پاڻ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "سڌائيءَ سان"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "فيصلو ڪندس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:07.713447527Z",
+  "model": "glm-5.3"
+}

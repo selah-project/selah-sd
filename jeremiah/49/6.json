@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "پوءِ ان کان پوءِ آءٌ بني عامون جي ⟨את⟩ قيدين جي واپسي موڙيندس، ياهوه جو پيغام.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "۽ ان کان پوءِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "موڙيندس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قيدين جي واپسي"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "قيدين جي واپسي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عامون"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "جو پيغام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:24:03.527899803Z",
+  "model": "glm-5.3"
+}

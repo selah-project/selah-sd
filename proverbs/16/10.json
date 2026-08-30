@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "قسامت بادشاهه جي لپن تي آهي؛ انصاف ۾ سندس وات خيانت نه ڪندي.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "قسامت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لپن"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه جي"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "انصاف ۾"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "خيانت ڪندي"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "سندس وات"
+    }
+  ],
+  "timestamp": "2026-08-30T15:04:22.575581086Z",
+  "model": "glm-5.3"
+}

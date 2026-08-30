@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 85,
+  "translation": "تو پنهنجي قوم جو گناهه کڻي ورتو، سندن سڀ پاپ لڪايو. سلاهه.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "کڻي ورتو"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناهه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "پنهنجي قوم"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "لڪايو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "پاپ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:45.224925024Z",
+  "model": "glm-5.3"
+}

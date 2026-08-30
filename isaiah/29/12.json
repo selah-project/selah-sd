@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ ڪتاب ان کي ڏنو ويندو جيڪو ڪتاب نٿو ڄاڻي، چوندا ’هن کي پڙھ، ٿي سگهي ٿو‘؛ ۽ اھو چوندو، ’مان ڪتاب نٿو ڄاڻان.‘",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "۽ ڏنو ويندو"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ڪتاب"
+    },
+    {
+      "surface": "על",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻي ٿو"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ڪتاب"
+    },
+    {
+      "surface": "لאמר",
+      "gloss": "چوندا"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "پڙھ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ٿي سگهي ٿو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هن کي"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چوندو"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "مان نٿو ڄاڻان"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ڪتاب"
+    }
+  ],
+  "timestamp": "2026-08-30T11:55:27.798147044Z",
+  "model": "glm-5.3"
+}

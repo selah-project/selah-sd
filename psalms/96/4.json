@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 96,
+  "translation": "ڇوته ياهوه وڏو ⟨آھي⟩ ۽ تمام ساراهيل ⟨آھي⟩؛ هو سڀني ايلوهيم کان ڊپ جهليندڙ ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "۽ ساراهيل"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ڊپ جهليندڙ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "על",
+      "gloss": "کان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:17.434709539Z",
+  "model": "glm-5.3"
+}

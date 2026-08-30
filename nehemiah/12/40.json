@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 12:40",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ٻن مڃيا ڪٿن ايلوهيم جي گهر ۾ بيٺيون، ۽ مان ۽ حاڪمن جو اڌ حصو منهنجي ساڻ.",
+  "tokens": [
+    {
+      "surface": "ותעמדנה",
+      "gloss": "۽ بيٺيون"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "התודת",
+      "gloss": "مڃيا ڪٿن جي"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم جي"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "۽ اڌ"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "حاڪمن جو"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منهنجي ساڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:15.477414223Z",
+  "model": "glm-5.3"
+}

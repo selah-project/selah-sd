@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "شفا ڏيندڙ دل ⟨آھي⟩ جسم جي زندگي، پر حسد هڏين جي سڙ ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "زندگي"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "جسم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا ڏيندڙ"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "پر سڙ"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "هڏين"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "حسد"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:01.743415898Z",
+  "model": "glm-5.3"
+}

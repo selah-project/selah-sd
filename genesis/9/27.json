@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "ايلوهيم يافت کي وسيع ڪري؛ ۽ ⟨هو⟩ شيم جي خيمن ۾ رهندو؛ ۽ ڪنعان ٻانهن ٿيندو تنهن جو.",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "وسيع ڪري"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "يافت کي"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "۽ رهندو"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "جي خيمن ۾"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شيم"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ٻانهن"
+    },
+    {
+      "surface": "למו",
+      "gloss": "تنهن جو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:12.741840783Z",
+  "model": "glm-5.3"
+}

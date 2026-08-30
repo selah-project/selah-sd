@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 27:29",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ شارون ۾ چرندڙ ڍڳن تي شترائي شاروني هو؛ ۽ وادين ۾ ڍڳن تي شپات بن عدلي هو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ڍڳن"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "چرندڙ"
+    },
+    {
+      "surface": "בשרון",
+      "gloss": "شارون ۾"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "شترائي"
+    },
+    {
+      "surface": "השרוני",
+      "gloss": "شاروني"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ڍڳن"
+    },
+    {
+      "surface": "בעמקים",
+      "gloss": "وادين ۾"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "شپات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עדלי",
+      "gloss": "عدلي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:27.545929472Z",
+  "model": "glm-5.3"
+}

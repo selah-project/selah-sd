@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ مون توهان کي چيو: توهان اموريءَ جي جبل تائين آيا آهيو، جيڪو ياهوه اسان جو ايلوهيم اسان کي ڏئي ٿو.",
+  "tokens": [
+    {
+      "surface": "ومر",
+      "gloss": "۽ مون چيو"
+    },
+    {
+      "surface": "الڪم",
+      "gloss": "توهان کي"
+    },
+    {
+      "surface": "بتم",
+      "gloss": "توهان آيا آهيو"
+    },
+    {
+      "surface": "عد",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "هر",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "همري",
+      "gloss": "اموريءَ جي"
+    },
+    {
+      "surface": "اشر",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "يهوه",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "علينا",
+      "gloss": "اسان جو ايلوهيم"
+    },
+    {
+      "surface": "نتن",
+      "gloss": "ڏئي ٿو"
+    },
+    {
+      "surface": "لנو",
+      "gloss": "اسان کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:38.001370548Z",
+  "model": "glm-5.3"
+}

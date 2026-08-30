@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ بيت عربه ۽ صمرايم ۽ بيت ايل،",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "۽ بيت"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "عربه"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "۽ صمرايم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:50.707897679Z",
+  "model": "glm-5.3"
+}

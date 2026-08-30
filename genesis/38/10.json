@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ جيڪُجُھُ ڪيو اُھو ياهوه جي نظرن ۾ برائي ٿيو، ۽ ⟨את⟩ُ کي بہ ماريو ويو.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "برائي ٿيو"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "نظرن ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪُجُھُ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "۽ ماريو ويو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بہ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ُ کي (اونان)"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:12.601547481Z",
+  "model": "glm-5.3"
+}

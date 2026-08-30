@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 139,
+  "translation": "پوري ساڻ سان مان کين ساڻيو آهي؛ دشمن بڻيا آهن مون لاءِ.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "پوري\/انت تائين"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ساڻ"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "مان کين ساڻيا"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بڻيا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:37.650980919Z",
+  "model": "glm-5.3"
+}

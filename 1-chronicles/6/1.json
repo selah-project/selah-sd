@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "لويي جا پُٽ: گيرشوم، قهات ۽ مراري.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لويي جا"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گيرشوم"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "۽ مراري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:39.730390229Z",
+  "model": "glm-5.3"
+}

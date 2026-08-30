@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ جيئن هن اسان لاءِ پيٽرو، تيئن ٿيو؛ مون کي هن منھنجيءَ ڪندي تي موٽايو ۽ ⟨את⟩ ان کي لڙڪائي ڇڏيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "پيٽرو"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان لاءِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مون"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "موٽايو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כני",
+      "gloss": "منھنجيءَ ڪندي"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ان"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "لڙڪايو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:51.706979312Z",
+  "model": "glm-5.3"
+}

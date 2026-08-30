@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ڇوته اڃا ٿورو ٿورو وقت، ۽ غصو پورو ٿي ويندو، ۽ منھنجو قهر سندن تباهيءَ تي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اڃا"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ٿورو"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "ٿورو وقت"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "۽ پورو ٿي ويندو"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "غصو"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "۽ منھنجو قهر"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "سندن تباهيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:17.688858287Z",
+  "model": "glm-5.3"
+}

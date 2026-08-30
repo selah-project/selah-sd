@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ياهوه موشي سان ڳالھائيو، چوندي讲:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالھائيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندي讲"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:51.178504157Z",
+  "model": "glm-5.3"
+}

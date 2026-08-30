@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ان جاءِ جو نالو هن تبعره رکيو، ڇو ته ياهوه جي باهه منجهن ڀڙڪي هئي.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ رکيو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "تبعره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ڀڙڪي هئي"
+    },
+    {
+      "surface": "בם",
+      "gloss": "منجهن"
+    },
+    {
+      "surface": "אש",
+      "gloss": "باهه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:41.865768288Z",
+  "model": "glm-5.3"
+}

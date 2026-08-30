@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 87,
+  "translation": "ڪوراخ جي پٽن لاءِ — زبور، ڳيچ. سندس بنياد ⟨آھي⟩ پاڪ جبلن ۾.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "پٽن لاءِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ڪوراخ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ڳيچ"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "سندس بنياد"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "جبلن ۾"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:59.602348392Z",
+  "model": "glm-5.3"
+}

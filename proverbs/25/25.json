@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ٿڪيل نفس تي ٿڌو پاڻي، ۽ پرڏيهه کان سٺي خبر.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ٿڌو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ٿڪيل"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "۽ خبر"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "سٺي"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "پرڏيهه کان"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "پري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:49.264031935Z",
+  "model": "glm-5.3"
+}

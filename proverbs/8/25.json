@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "جبلن جي ٻڏائڻ کان اڳ، ٽڪرين جي جنم کان اڳ مون کي جنم ڏنو ويو.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "کان اڳ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "جبلن"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "ٻڏائڻ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳ"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ٽڪرين"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "مون کي جنم ڏنو ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:26.027022362Z",
+  "model": "glm-5.3"
+}

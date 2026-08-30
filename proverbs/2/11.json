@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "سوجھري توکي ساريندي، سمجھ توکي ڇانوَٽ ڪندي.",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "سوجھري"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ساريندي"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "ڇانوَٽ ڪندي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:23.202048392Z",
+  "model": "glm-5.3"
+}

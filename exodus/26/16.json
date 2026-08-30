@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "ڏهه هٺ \nتختيءَ جي ڊِگهيري، ۽ هڪ هٺ ۽ اڌ هٺ هڪ تختيءَ جي ويڪري.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "هٺ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊِگهيري"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختيءَ جي"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "۽ هڪ هٺ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "۽ اڌ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "هٺ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ويڪري"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختيءَ جي"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:57.253726685Z",
+  "model": "glm-5.3"
+}

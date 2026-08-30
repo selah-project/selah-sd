@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 78,
+  "translation": "۽ واپس موٽي ايل کي آزمايائون، ۽ يسرائيل جي قدوس کي ڏک ڏنائون.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "واپس موٽي"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "آزمايائون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "قدوس"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "ڏک ڏنائون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:26.946199776Z",
+  "model": "glm-5.3"
+}

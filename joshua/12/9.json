@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "يريکو جو بادشاھ ⟨الواحد⟩؛ هاءِ (يعني عي) جو بادشاھ، جيڪو بيت ايل جي ڪنڍي تي آھي، ⟨الواحد⟩؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "جو بادشاھ"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "يريکو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "جو بادشاھ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "عي (هاءِ)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "ڪنڍي تي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:14.204306023Z",
+  "model": "glm-5.3"
+}

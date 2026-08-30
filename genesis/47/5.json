@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "۽ فرعون يوسف سان چيو، ”تنهنجو پيءُ ۽ تنهجا ڀائر تو وٽ آيا آهن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چڻ لاءِ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تنهنجو پيءُ"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "۽ تنهجا ڀائر"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تو وٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:04.623388182Z",
+  "model": "glm-5.3"
+}

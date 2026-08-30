@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "اسرائيل ۾ سٻڏيل سڀ شيءِ تنھنجي ٿيندي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "سٻڏيل شيءِ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائيل ۾"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنھنجي"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:29:23.959899573Z",
+  "model": "glm-5.3"
+}

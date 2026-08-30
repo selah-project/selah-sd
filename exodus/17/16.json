@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ چيائين: جو هٿ ياه جي تخت تي ⟨آهي⟩؛ ياهوه جي عمالق سان جنگ آهي، نسل کان نسل تائين.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כס",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "عمالق سان"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "نسل کان"
+    },
+    {
+      "surface": "דר",
+      "gloss": "نسل تائين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:15.708481738Z",
+  "model": "glm-5.3"
+}

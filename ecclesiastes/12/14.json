@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ڇو ته ايلوهيم ⟨את⟩ سڀ عمل فيصلي ۾ آندو، هر لڪيل شيءِ مٿان، چاهي چڱو هجي ۽ چاهي خراب.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ عمل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آندو"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "فيصلي ۾"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "لڪيل شيءِ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "چاهي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "۽ چاهي"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:38.386468834Z",
+  "model": "glm-5.3"
+}

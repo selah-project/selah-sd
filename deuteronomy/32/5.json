@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "هن لاءِ خرابي ڪئي اٿن، سندس پٽ ناهن، سندن ئي داغ آھي؛ نسل پٽڙو ۽ ڏنگو.",
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "خرابي ڪئي اٿن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن لاءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناهن"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "سندن داغ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "پٽڙو"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "۽ ڏنگو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:26.530593913Z",
+  "model": "glm-5.3"
+}

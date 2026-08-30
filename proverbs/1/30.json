@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "منھنجي صلاح تي راضي نه ٿيا، منھنجي سڀ تنبيهه کي ٺٺوليو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "راضي ٿيا"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "منھنجي صلاح"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ٺٺوليو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "منھنجي تنبيهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:30.950896131Z",
+  "model": "glm-5.3"
+}

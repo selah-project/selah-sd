@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "برائي ڪندڙ جو ڊپُّ ئي وٽس اچي ٿو، ۽ چٽن جي تمنحن پوري ڪري وڃيندي.",
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "ڊپُّ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "برائي ڪندڙ جو"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "وٽس اچي ٿو"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "۽ تمنحن"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "چٽن جي"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "پوري ڪري وڃيندي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:36.636814657Z",
+  "model": "glm-5.3"
+}

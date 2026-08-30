@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ⟨את⟩ عاشان ۽ ⟨את⟩ ان جا چراگاهه، ۽ ⟨את⟩ بيت شمش ۽ ⟨את⟩ ان جا چراگاهه.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عاشان"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "عاشان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چراگاهه"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ان جا چراگاهه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بيت شمش"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شمش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چراگاهه"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ان جا چراگاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:08.688797614Z",
+  "model": "glm-5.3"
+}

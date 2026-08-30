@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "انهيءَ ڏينهن ۾ آءٌ ڊانيل ٽن هنڌن جي ڏکن ۾ هوس، ٽي هفتا ڏينهن.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "انهيءَ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ڊانيل"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "هوس"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "ڏکن ۾"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽن"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هفتن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:00:26.062786304Z",
+  "model": "glm-5.3"
+}

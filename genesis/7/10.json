@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ست ڏينهن کان پوءِ طوفان جا پاڻي زمين تي ٿي ويا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ست کان پوءِ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "۽ پاڻي"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "طوفان جا"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ٿي ويا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:48.136098720Z",
+  "model": "glm-5.3"
+}

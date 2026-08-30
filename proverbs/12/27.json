@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 12:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "سست پنهنجو شڪار پچائي نٿو ۽ سگهڙ ماڻهوءَ جي دولت قيمتي هوندي آهي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نٿو"
+    },
+    {
+      "surface": "יחרך",
+      "gloss": "پچائي"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "سست"
+    },
+    {
+      "surface": "צידו",
+      "gloss": "پنهنجو شڪار"
+    },
+    {
+      "surface": "והון",
+      "gloss": "۽ دولت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ جي"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "قيمتي"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "سگهڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:11.052123769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 5:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "تنهنجو چشمو مبارڪ ⟨هجي⟩، ۽ نوجوانيءَ جي زالءَ کان خوش ٿئي.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "מקורך",
+      "gloss": "تنهنجو چشمو"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مبارڪ"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "۽ خوش ٿئي"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "زالءَ کان"
+    },
+    {
+      "surface": "נעורך",
+      "gloss": "تنهنجي نوجوانيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:04:55.061066133Z",
+  "model": "glm-5.3"
+}

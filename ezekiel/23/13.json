@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 23:13",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ مَن ڏٺو ته هو نجس ٿي وئي، ٻنهي جي لاءِ ⟨هڪ⟩ ئي رستو آهي.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "۽ مَن ڏٺو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "نجس ٿي وئي"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "לשתיהן",
+      "gloss": "ٻنهي جي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:34:37.697859089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 25:8",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ سندس شهر جا بزرگ ان کي سڏين ۽ ان سان ڳالهين؛ ۽ اھو بيٺو چوي: مان نہ گھريو ان کي وٺڻ.",
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "سڏين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "سندس شهر جا"
+    },
+    {
+      "surface": "ודברו",
+      "gloss": "۽ ڳالهين"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ان سان"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "بيٺو"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "چوي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "گھريو"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "ان کي وٺڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:04.117701760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ھاڻي پاڻ لاءِ اسرائيل جي قبيلن مان ٻنھي ماڻھن کي وٺو — ھڪ ھڪ ماڻھو ھر ھڪ قبيلي لاءِ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ ھاڻي"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "وٺو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏھ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "قبيلن مان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "قبيلي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:49:03.457964634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ بادشاهه عورت کي چيو: وڃ پنهنجي گهر ڏي، ۽ آءٌ تنهنجي باري ۾ حڪم ڏيندس.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "پنهنجي گهر ڏي"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "۽ آءٌ"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "حڪم ڏيندس"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تنهنجي باري ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:21:14.039023519Z",
+  "model": "glm-5.3"
+}

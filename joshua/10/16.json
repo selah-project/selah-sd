@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "پوءِ اِھي پنج راجا ڀڄي ويا ۽ مَقيدہ واري غار ۾ لڪي ويا.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "ڀڄي ويا"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "راجا"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اِھي"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "۽ لڪي ويا"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "غار ۾"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "مقيدہ واري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:51:57.541361663Z",
+  "model": "glm-5.3"
+}

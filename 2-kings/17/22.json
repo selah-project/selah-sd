@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 17:22",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ اسرائيل جي پٽن يروبعام جي سڀني گناهن ۾ هليو، جيڪي هن ڪيا؛ ⟨انهن⟩ کان نه موڙيا.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "هليو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀني ۾"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "گناهن"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "يروبعام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "موڙيا"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "کان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:43:57.861777067Z",
+  "model": "glm-5.3"
+}

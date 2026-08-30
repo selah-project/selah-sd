@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "سڀ پکين جو رينگڻهار جيڪو چار (پيرن) تي هلي ٿو — اهو اوهان لاءِ ناپسندIDEو (شيقص) آهي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "رينگڻهار"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "پکين جو"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "هلي ٿو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار (پيرن)"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ناپسندIDEو (شيقص)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو ⟨آهي⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اوهان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:53.857864146Z",
+  "model": "glm-5.3"
+}

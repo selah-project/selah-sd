@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "توهان به، ڪُشي، منهنجي تلوار جا رت ڪيل آهيو.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "ڪُشي"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "رت ڪيل"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "منهنجي تلوار جا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "آهيو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:32.834364310Z",
+  "model": "glm-5.3"
+}

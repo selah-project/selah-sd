@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "توهان جي ‎ٿيلي ۾ پٿر ۽ پٿر نه هجن، وڏي ۽ ننڍي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توهان جي"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "ٿيلي ۾"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "۽ پٿر"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "۽ ننڍي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:14.256485256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "ڪمزور هٿن کي مضبوط ڪريو، ۽ ڏنوڙين گودن کي سگھارو ڪريو.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "مضبوط ڪريو"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "هٿن"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "ڪمزور"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "۽ گودن"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "ڏنوڙين"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "سگھارو ڪريو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:53:51.025306317Z",
+  "model": "glm-5.3"
+}

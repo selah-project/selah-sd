@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ⟨ته⟩ مقدس ۽ عام ۾، ۽ نجي ۽ پاڪ ۾ فرق ڪريو،",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "۽ فرق ڪريو"
+    },
+    {
+      "surface": "בין",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ ۾"
+    },
+    {
+      "surface": "החל",
+      "gloss": "عام"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ ۾"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "نجي"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ ۾"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "پاڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:38:05.059791236Z",
+  "model": "glm-5.3"
+}

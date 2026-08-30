@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "افسوس آھي سرکشي ڪندڙ ۽ گندل تي — ظلم ڪندڙ شهر تي!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "افسوس آھي"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "سرکشي ڪندڙ"
+    },
+    {
+      "surface": "وנגאלה",
+      "gloss": "۽ گندل"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ظلم ڪندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:46.912973981Z",
+  "model": "glm-5.3"
+}

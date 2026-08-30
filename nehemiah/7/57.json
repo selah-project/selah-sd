@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "شليموه جي نوڪرن جي پٽن جا پٽ: سوتائي جا پٽ، سوفرت جا پٽ، پريدہ جا پٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "نوڪرن جي"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شليموه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "سوتائي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "سوفرت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "پريدا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:56.860545417Z",
+  "model": "glm-5.3"
+}

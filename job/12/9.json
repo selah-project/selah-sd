@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ڪير نه ٿو ڄاڻي سڀني هنن ۾ ته ياهوه جي هٿ ⟨هن⟩ کي ٺاهيو آھي؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ٿو ڄاڻي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀني ۾"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هنن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ٺاهيو آھي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:36:31.736762104Z",
+  "model": "glm-5.3"
+}

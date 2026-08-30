@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "پنھنجي ٻانهن لاءِ لفظ ياد رک، جنهن تي تو مون کي آس ڏني آهي.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ياد رک"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "پنھنجي ٻانهن لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "جنهن تي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "مون کي آس ڏني"
+    }
+  ],
+  "timestamp": "2026-08-30T13:20:32.085173863Z",
+  "model": "glm-5.3"
+}

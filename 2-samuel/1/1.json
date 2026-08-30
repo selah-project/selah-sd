@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ پوءِ ٿيو، شاول جي موت کان پوءِ، داوود amalek کي مارڻ کان موٽيو ۽ داوود صقلگ ۾ ٻه ڏينهن رهيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کان پوءِ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "۽ داوود"
+    },
+    {
+      "surface": "שב",
+      "gloss": "موٽيو"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "مارڻ کان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عماليق"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "عماليق"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "۽ رهيو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "صقلگ ۾"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:17:36.370880537Z",
+  "model": "glm-5.3"
+}

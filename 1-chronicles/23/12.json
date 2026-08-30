@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "قهات جا پٽ — عمرام، يتسهار، حبرون ۽ عزيئيل، چار۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عمرام"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "يتسهار"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "۽ عزيئيل"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:05.631950070Z",
+  "model": "glm-5.3"
+}

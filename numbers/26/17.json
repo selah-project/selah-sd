@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "ارود کان آرودي خاندان، ارائيلي کان ارائيلي خاندان۔",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "ارود کان"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "آرودي"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "ارائيلي کان"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "ارائيلي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:43.889296161Z",
+  "model": "glm-5.3"
+}

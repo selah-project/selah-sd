@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "اُتي ماپي اُتر وارو پاسو، پنج سَو قَنون، ماپ واري قَن سان، چوڌائي.",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "ماپي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": " پاسو"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "اُتر وارو"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قَنون"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "قَن سان"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ماپ واري"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌائي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:58:41.576961807Z",
+  "model": "glm-5.3"
+}

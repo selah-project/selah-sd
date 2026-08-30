@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "يرمياهو ڏهين، مکبني يارهون.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ڏهين"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "مکبني"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "يارهون"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:39.886964965Z",
+  "model": "glm-5.3"
+}

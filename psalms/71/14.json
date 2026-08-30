@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 71,
+  "translation": "۽ آءٌ هميشہ اميد ڪندس، ۽ تنهنجي سڀني ساراھن تي وڌيندس.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "۽ آءٌ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هميشہ"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "اميد ڪندس"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "۽ وڌيندس"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀنين"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تنهنجي ساراھن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:56.865518047Z",
+  "model": "glm-5.3"
+}

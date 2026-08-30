@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "سندس لذيذ طعامن لاءِ آرزو نه ڪر، ڇوته اھي جوٽن جي ماني آھن۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "آرزو ڪر"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "سندس لذيذ طعامن لاءِ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "جوٽن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:34.437201234Z",
+  "model": "glm-5.3"
+}

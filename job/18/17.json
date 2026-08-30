@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "سندس يادگيري زمين تان ناس ٿي ويندي، ۽ سندس نالو گهٽين جي مُنهن تي نه رهندو.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "سندس يادگيري"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ناس ٿي ويندي"
+    },
+    {
+      "surface": "מני",
+      "gloss": "تان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُنهن"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "گهٽي ٻاهر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:38:30.155166043Z",
+  "model": "glm-5.3"
+}

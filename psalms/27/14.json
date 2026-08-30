@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ياهوه تي ٻڌڪ رک؛ پڪو ٿاءِ ۽ پنھنجي دل کي ٻڌ ۾ آڻ؛ ۽ ٻيهر ياهوه تي ٻڌڪ رک.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ٻڌڪ رک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "پڪو ٿاءِ"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "ٻڌ ۾ آڻ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "پنھنجي دل کي"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "۽ ٻيهر ٻڌڪ رک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:51.744118780Z",
+  "model": "glm-5.3"
+}

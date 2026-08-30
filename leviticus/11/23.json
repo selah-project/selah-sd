@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ سڀ پرواز ڪندڙ ريڙھائيندڙ جيوت، جن کي چار پير آهن، اهي توهان لاءِ نفرت جهڙا آهن.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ريڙھائيندڙ جيوت"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "پرواز ڪندڙ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کي"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "پير"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "نفرت جهڙو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:33.763552845Z",
+  "model": "glm-5.3"
+}

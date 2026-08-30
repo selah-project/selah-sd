@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 9:26",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "ڇوته ايمان سان ⟨هي⟩ چار دروازن جا سورما هئا، ⟨۽⟩ هي لوی هئا، ۽ اھي بيت ايلوهيم جي کوٽڙين ۽ خزانن تي مقرر هئا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ايمان سان"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چار"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "سورما"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازن جا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "۽ هئا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي مقرر"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "کوٽڙين"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "خزانن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:29.841488970Z",
+  "model": "glm-5.3"
+}

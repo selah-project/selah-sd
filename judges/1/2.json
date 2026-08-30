@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ياهوه چيو: يهودا چڙهندو؛ ڏسو، مَون ⟨את⟩ ⟨ال⟩ زمين سندس هٿ ۾ ڏني آهي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڙهندو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "مَون ڏني آهي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "سندس هٿ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:57:09.687722194Z",
+  "model": "glm-5.3"
+}

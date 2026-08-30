@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 29:2",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ ياهوه جي نظر ۾ جيڪو سڌو آھي سو ڪيائين، مٿس سندس پيءُ داوود جي ڪيل سڀ ڪم موجب.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيائين"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "جيڪو سڌو آھي"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي نظر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "موجب سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيل"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "سندس پيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:28:49.198948075Z",
+  "model": "glm-5.3"
+}

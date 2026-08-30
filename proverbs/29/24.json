@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "چور سان شيئر ڪندڙ پنھنجي نَفَس کي دشمن رکي ٿو؛ لَعنت ٻڌي ٿو ۽ ظاھر نه ٿو ڪري.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "شيئر ڪندڙ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "چور"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "دشمن رکي ٿو"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "پنھنجي نَفَس کي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "لَعنت"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ٻڌي ٿو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ظاھر ڪري ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:37.545921843Z",
+  "model": "glm-5.3"
+}

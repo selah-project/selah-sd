@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ تنهن چيو: ”اِي ٻه تيل جا پُٽ آھن، جي سڄي زمين جي ادون جي سامهون بيٺا آھن۔“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ تنهن چيو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِي"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "تيل"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "بيٺا آھن"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي سامهون"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ادون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T15:00:32.275847367Z",
+  "model": "glm-5.3"
+}

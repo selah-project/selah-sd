@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ داويد ⟨تبتي⟩ ماڙي ۾ هو، ۽ فلستين جو ٺلهو پوس ⟨تبتي⟩ بيت لحم ۾ هو.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "۽ داويد"
+    },
+    {
+      "surface": "אז",
+      "gloss": "⟨تبتي⟩"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "ماڙي ۾"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "۽ ٺلهو پوس"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلستين جو"
+    },
+    {
+      "surface": "אז",
+      "gloss": "⟨تبتي⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بيت لحم ۾"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "بيت لحم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:09.561168323Z",
+  "model": "glm-5.3"
+}

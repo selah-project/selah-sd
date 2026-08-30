@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "गाउ، اي ساري زمين، ياهوه لاءِ؛ هن جي مُڪتي جو آواز ڏيو ڏينهن کان ڏينهن تائين.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "गाउ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "آواز ڏيو"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ڏينهن کان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏينهن تائين"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن تائين"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "هن جي مُڪتي جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:13.823762216Z",
+  "model": "glm-5.3"
+}

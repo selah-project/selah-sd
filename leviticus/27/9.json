@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 27:9",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ جيڪڏھن اھو جانور ھجي جو ان مان ياهوه لاءِ قرباني پيش ڪئي وڃي، جيڪو ڪجھ به ان مان ياهوه کي ڏجي اھو پاڪِ ٿيندو.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "پيش ڪن"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ان مان"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڏئي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ان مان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:39:28.197881579Z",
+  "model": "glm-5.3"
+}

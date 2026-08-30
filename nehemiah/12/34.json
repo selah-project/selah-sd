@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "يehودah ۽ بنيامين ۽ شمعيه ۽ يرميه.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "يهودah"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "۽ بنيامين"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "۽ شمعيه"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "۽ يرميه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:26.465534586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ يوسف مري ويو، ۽ سندس سڀ ڀائر، ۽ سڄو اُهو نسل.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري ويو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "سندس ڀائر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڄو"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "اُهو نسل"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُهو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:15.748567167Z",
+  "model": "glm-5.3"
+}

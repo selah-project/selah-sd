@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 84,
+  "translation": "مقصد واري لاءِ، گتيت تي، قورح جي پٽن جو، هڪ مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقصد واري لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "گتيت"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "هڪ مزمور"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:38.357665124Z",
+  "model": "glm-5.3"
+}

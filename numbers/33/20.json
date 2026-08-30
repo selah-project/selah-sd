@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ رمون-پريص کان روانا ٿيا، ۽ لبنه ۾ خيمو کوڙيائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "מרמן",
+      "gloss": "رمون-پريص کان"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "رمون-پريص کان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيمو کوڙيائون"
+    },
+    {
+      "surface": "בלבנה",
+      "gloss": "لبنه ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:58.571337507Z",
+  "model": "glm-5.3"
+}

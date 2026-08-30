@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ٻئي دريا جو نالو گيحون آھي، اھو ئي ⟨هو⟩ سڄي ڪوش ملڪ کي گھيرو ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "دريا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "گيحون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو ئي"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "گھيرو ڪندڙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڄي ڪوش ملڪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ملک"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ڪوش"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:15.650409575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 68,
+  "translation": "ايلوهيم کي قوت ڏيو؛ اسريل تي ⟨سندس⟩ شوڪت آهي، ۽ ڪڪرن ۾ ⟨سندس⟩ قوت آهي.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "ڏيو"
+    },
+    {
+      "surface": "עז",
+      "gloss": "قوت"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ايلوهيم کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسريل"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "سندس شوڪت"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "۽ سندس قوت"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "ڪڪرن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:33.729856713Z",
+  "model": "glm-5.3"
+}

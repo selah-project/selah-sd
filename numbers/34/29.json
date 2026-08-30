@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "اهي هئا جن کي ياهوه حڪم ڏنو ته ⟨את⟩ اسرائيل جي پٽن کي ڪنعان جي زمين ۾ ورثو ورائين.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "ته ورثو ورائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسرائيل جي پٽن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:43.756463366Z",
+  "model": "glm-5.3"
+}

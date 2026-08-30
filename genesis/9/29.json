@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "پوءِ نوح جا ڪل ڏينھن نَوَ سَوَ ۽ پنجاھ سال ٿيا، ۽ هو مري ويو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪل"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَوَ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَوَ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "۽ پنجاھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "۽ هو مري ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:35.059343723Z",
+  "model": "glm-5.3"
+}

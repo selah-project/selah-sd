@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 26:21",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ انهن جا چاليھ پيڙا چانديءَ جا؛ ھڪ تختي ھيٺ ٻه پيڙا ۽ ھڪ تختي ھيٺ ٻه پيڙا.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "۽ چاليھ"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "انهن جا پيڙا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چانديءَ جا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "پيڙا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ھڪ تختي"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "پيڙا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ھڪ تختي"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ٻئي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:26.905125257Z",
+  "model": "glm-5.3"
+}

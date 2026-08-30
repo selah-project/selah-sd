@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ حبرون جي پٽن جا نالا: قورح ۽ تفوح ۽ رقم ۽ شمع.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽن جا نالا"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "۽ تفوح"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "۽ رقم"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "۽ شمع"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:37.507616934Z",
+  "model": "glm-5.3"
+}

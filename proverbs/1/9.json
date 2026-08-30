@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ڇوتهه اهي تنهنجي مٿي تي مهرباني جو گل-هار آهن ۽ تنهنجي ڳچيءَ تي بازو بند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهه"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "گل-هار"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مهرباني"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "تنهنجي مٿي تي"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "۽ بازو بند"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "تنهنجي ڳچيءَ تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:08.152379392Z",
+  "model": "glm-5.3"
+}

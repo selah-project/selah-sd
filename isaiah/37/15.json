@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ حزقياھ ياهوه کي دعا ڪئي، چونديءَ:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "۽ دعا ڪئي"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقياھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چونديءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:58:08.230283986Z",
+  "model": "glm-5.3"
+}

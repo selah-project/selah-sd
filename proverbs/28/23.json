@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 28:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ماڻهوءَ کي تنبيه ڪندو پوءِ چاھڙي ⟪۽ وڌيڪ چاھڙي⟫ ماڻي ٿو، زبان جي چپڙڻ کان.",
+  "tokens": [
+    {
+      "surface": "מוכיח",
+      "gloss": "تنبيه ڪندو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ کي"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چاھڙي"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ماڻي ٿو"
+    },
+    {
+      "surface": "ממחליק",
+      "gloss": "چپڙڻ"
+    },
+    {
+      "surface": "لשון",
+      "gloss": "زبان جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:56.599466830Z",
+  "model": "glm-5.3"
+}

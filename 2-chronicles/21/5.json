@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 21:5",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ٻٽيهه سالن جو پُٽ يههورام هو جڏهن هن بادشاهي شروع ڪئي، ۽ اٺ سال هن يروشلم ۾ راڄ ڪيو.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "يههورام"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "جڏهن هن بادشاهي شروع ڪئي"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "۽ اٺ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راڄ ڪيو"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:26:19.963226394Z",
+  "model": "glm-5.3"
+}

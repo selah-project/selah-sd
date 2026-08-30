@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ جيڪڏھن اُھا ٽئين ڏينھن کائجي، تہ اُھا پِگّول ⟨آھي⟩؛ قبول نه ٿيندي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "کائڻ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائجي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ٽئين"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "پِگّول"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُھا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "قبول ٿيندي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:38.877446166Z",
+  "model": "glm-5.3"
+}

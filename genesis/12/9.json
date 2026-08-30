@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ابرام لڏي ويو، هليندو ۽ وري لڏندو، ڏکڻ ڏانهن.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "لڏي ويو"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "هليندو"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "۽ وري لڏندو"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ڏکڻ ڏانهن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:42.227387207Z",
+  "model": "glm-5.3"
+}

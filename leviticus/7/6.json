@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڪاهنن منجهان هر نر ان کي کائيندو؛ پاڪ جاءِ ۾ اها کائبي؛ اها پاڪن جي پاڪ ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر \/ سڀ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "ڪاهنن منجهان"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ان کي کائيندو"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "جاءِ ۾"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائبي"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاڪن جي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩ آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:55.770339553Z",
+  "model": "glm-5.3"
+}

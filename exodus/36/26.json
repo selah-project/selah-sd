@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 36:26",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ چاليهن چاندي جون پاڙون ٺاهيائين؛ هڪ ڪاٺي هيٺ ٻه پاڙون ۽ ٻي ڪاٺي هيٺ ٻه پاڙون.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "۽ چاليهن"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "پاڙون ان جون"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "پاڙون"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ڪاٺي"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "پاڙون"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ڪاٺي"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ٻي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:13.815492339Z",
+  "model": "glm-5.3"
+}

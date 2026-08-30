@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ ٻڪرين تي يزيز ھگري هو؛ اھي سڀ بادشاھ داوود جي ملڪيت جا سردار ھيا.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ٻڪرين"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "يزيز"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "ھگري"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "ملڪيت جا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاھ جي"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:27.546332770Z",
+  "model": "glm-5.3"
+}

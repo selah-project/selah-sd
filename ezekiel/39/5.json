@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "ميدان جي مٿاڇري تي تون ڪريسن، ڇوته آئون ڳالھ ڪئي آھي، ادوناي ياهوه جو فرمودو.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مٿاڇري"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ميدان"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "تون ڪريسن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آئون"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ڳالھ ڪئي آھي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمودو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:40:16.532575084Z",
+  "model": "glm-5.3"
+}

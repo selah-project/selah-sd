@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ياهوه توکي جنون ۽ اندھيون ۽ دل جي حيرت سان ماريندو.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "توکي ماريندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "جنون سان"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "۽ اندھيون سان"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "۽ حيرت سان"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:38.485459407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ حيرام بادشاهه ڏي موڪليو سؤ ۽ ويهه ڪڪر سون.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "۽ موڪليائين"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حيرام"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاهه ڏي"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ועשרين",
+      "gloss": "۽ ويهه"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ڪڪر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:31:38.493642402Z",
+  "model": "glm-5.3"
+}

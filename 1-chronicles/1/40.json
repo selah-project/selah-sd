@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "شوبل جا پٽ: عليان ۽ منحت ۽ عيبال، شفي ۽ اونم؛ ۽ صبعون جا پٽ: ايه ۽ عنه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شوبل"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "عليان"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "۽ منحت"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "۽ عيبال"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "شفي"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "۽ اونم"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پٽ"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "صبعون"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ايه"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "۽ عنه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:30.445663129Z",
+  "model": "glm-5.3"
+}

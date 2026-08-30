@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 4:2",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ سڀني چوري ڪيائون گڏجي، ته يروشلم تي اچي وڙھن ۽ ان ۾ نقصان پھچائين.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "چوري ڪيائون"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏجي"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ته اچي"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "وڙھن"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم تي"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "۽ پھچائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "نقصان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:06.951725780Z",
+  "model": "glm-5.3"
+}

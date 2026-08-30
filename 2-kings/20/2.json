@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ پنهنجو منهن ⟨את⟩ ڀت ڏانهن موڙيائين ۽ ياهوه کي دعا ڪيائين، چوڻ:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "۽ موڙيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجو منهن"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "پنهنجو منهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ڀت"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "۽ دعا ڪيائين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:45:39.355252302Z",
+  "model": "glm-5.3"
+}

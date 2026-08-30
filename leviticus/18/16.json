@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "تنهنجي ڀاءُ جي زال جي برهنهگي نه کولج؛ اها تنهنجي ڀاءُ جي برهنهگي ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برهنهگي"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تنهنجي ڀاءُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کولج"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "برهنهگي"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تنهنجي ڀاءُ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اها"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:49.086804535Z",
+  "model": "glm-5.3"
+}

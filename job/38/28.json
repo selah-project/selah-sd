@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "ڇا مينهن جو پيءُ آهي؟ يا ڪنهن شبنم جا ٽڪرا ڄايا؟",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "ڇا آهي"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "مينهن لاءِ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄايا\/جنيا"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "ٽڪرا"
+    },
+    {
+      "surface": "טל",
+      "gloss": "شبنم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:46.505087176Z",
+  "model": "glm-5.3"
+}

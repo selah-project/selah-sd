@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پنھنجي بسترون موڙ (سنگھاري) م 兰ھن سان، عود ۽ دارچيني سان رنگيائين.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "موڙ\/سنگھاريوم"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "پنھنجي بسترون"
+    },
+    {
+      "surface": "מר",
+      "gloss": "م 兰ھن"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "عود"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "دارچيني"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:50.028603513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "مون جي مشيحن کي هٿ نه لائو، ۽ مون جي نبيئن سان بڇڙائي نه ڪريو.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "هٿ نه لائو"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "مون جي مشيحن کي"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "۽ مون جي نبيئن سان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "بڇڙائي نه ڪريو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:13.823629926Z",
+  "model": "glm-5.3"
+}

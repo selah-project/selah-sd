@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڇوته ست ڀيرا نيڪ ماڻهو ڪري ٿو ۽ اُٿي ٿو، پر بدڪار بُري ۾ ٽٽڙجي وڃن ٿا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست ڀيرا"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڪري ٿو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ ماڻهو"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "۽ اُٿي ٿو"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "پر بدڪار"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ٽٽڙجي وڃن ٿا"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "بُري ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T15:04:38.834658366Z",
+  "model": "glm-5.3"
+}

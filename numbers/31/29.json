@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 31:29",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "تسن جي اڌ مان وٺو، ۽ تون ايلعازر كاهن کي ڏيندين ياهوه جي ترموت.",
+  "tokens": [
+    {
+      "surface": "ממחציתם",
+      "gloss": "تسن جي اڌ مان"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "وٺو"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "۽ تون ڏيندين"
+    },
+    {
+      "surface": "לאלעזר",
+      "gloss": "ايلعازر کي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاهن"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "ترموت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:16.478519943Z",
+  "model": "glm-5.3"
+}

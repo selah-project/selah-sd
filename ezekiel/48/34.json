@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 48:34",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "اولھ واري پاسي پنج سؤ ۽ چار ھزار، انھن جا دروازا ٽي: گاد جو دروازو ھڪ، آشر جو دروازو ھڪ، نفتالي جو دروازو ھڪ.",
+  "tokens": [
+    {
+      "surface": "פאת",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "اولھ واري"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "שעריהם",
+      "gloss": "انھن جا دروازا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:10.987815069Z",
+  "model": "glm-5.3"
+}

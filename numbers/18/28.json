@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 18:28",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "اھڙيءَ طرح توهان پڻ ياهوه جي offering توهان جي سڀني مَٿاڻَن مان کڻندؤ، جيڪي توهان اسرائيل جي پٽن ⟨את⟩ کان وٺندؤ؛ ۽ ان مان توهان ياهوه جي offering ⟨את⟩ اهارون ڪاھن کي ڏندؤ.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "اھڙيءَ طرح"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "توهان کڻندؤ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "offering"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڀني مان"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "توهان جي مَٿاڻَن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "توهان وٺندؤ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ کان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "۽ توهان ڏندؤ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ان مان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جي offering"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "offering"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اهارون کي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاھن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:29:35.912684745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "هو منھنجي لاءِromب آهي جيڪو گھات لائي ٿو، هڪ سھ کي لڪايل جائن ۾.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "romب"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "گھات لائي ٿو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منھنجي لاءِ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "سھ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "لڪايل جائن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:51.549587132Z",
+  "model": "glm-5.3"
+}

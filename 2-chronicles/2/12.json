@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ هاڻي مون موڪليو آهي هڪ ماڻھو ڏاھو، ڄاڻندڙ سمجهه وارو، حورم ⟨پيءُ جھڙو ڪاريگر⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "مون موڪليو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هڪ ماڻھو"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ڏاھو"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ڄاڻندڙ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجهه"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "حورم کي"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:11:52.364600559Z",
+  "model": "glm-5.3"
+}

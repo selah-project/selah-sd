@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 102,
+  "translation": "ڇاڪ ته ياهوه صهيون کي ٺاهيو ⟨آهي⟩، پنھنجي شان ۾ ظاھر ٿيو ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪ ته"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ٺاهيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ظاھر ٿيو"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "پنھنجي شان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:19.812293584Z",
+  "model": "glm-5.3"
+}

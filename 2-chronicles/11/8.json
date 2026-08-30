@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ⟨את⟩ گت کي ۽ ⟨את⟩ مريشا کي ۽ ⟨את⟩ زيف کي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "گت"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "مريشا"
+    },
+    {
+      "surface": "مרשה",
+      "gloss": "مريشا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "زيف"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زيف"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:22.782843263Z",
+  "model": "glm-5.3"
+}

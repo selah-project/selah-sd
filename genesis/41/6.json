@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 41:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ ڏسو، ست ڇڙون سُڪل ۽ اوڀاري واءَ جِتيَل، انهن پٺيان اُڀريون.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "ڇڙون"
+    },
+    {
+      "surface": "דקות",
+      "gloss": "سُڪل (بُکل)"
+    },
+    {
+      "surface": "ושדופת",
+      "gloss": "۽ جِتيَل"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "اوڀاري واءَ"
+    },
+    {
+      "surface": "צמחות",
+      "gloss": "اُڀريون"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "انهن پٺيان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:48.634429899Z",
+  "model": "glm-5.3"
+}

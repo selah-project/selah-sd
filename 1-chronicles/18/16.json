@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ صادوق، اخيطوب جو پٽ، ۽ ابيميلخ، ابياثر جو پٽ، ڪاهن ⟨هئا⟩؛ ۽ شوشا لکڻ وارو هو.",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "۽ صادوق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اخيطوب"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "۽ ابيميلخ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ابياثر"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "۽ شوشا"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "لکڻ وارو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:26.315602833Z",
+  "model": "glm-5.3"
+}

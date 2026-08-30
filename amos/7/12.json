@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 7:12",
+  "book": "amos",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ امتسيا عموس کي چيو: “ڏسندڙ اَچرج! وڃ، بھڳي وڃ پاڻ لاءِ يهودا جي ملڪ ۾، ۽ اتي ماني کاءُ، ۽ اتي ئي نبوات ڪر.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "امتسيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "عموس"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ڏسندڙ اَچرج"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "بھڳي وڃ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ملڪ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "۽ کاءُ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ اتي"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "نبوات ڪر"
+    }
+  ],
+  "timestamp": "2026-08-30T12:49:38.747960648Z",
+  "model": "glm-5.3"
+}

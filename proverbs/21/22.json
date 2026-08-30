@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "بھادرن جي شھر تي چڙھي ٿو ڪو سڄاڻ، ۽ ڪيرائي ٿو ان جي ڀروسي جو قلعو.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "شھر"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "بھادرن جي"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڙھي ٿو"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سڄاڻ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "۽ ڪيرائي ٿو"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "ان جي ڀروسي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:04:41.059523348Z",
+  "model": "glm-5.3"
+}

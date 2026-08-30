@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "پنھنجي زمين کي درياه وانگر پار ڪر، تڙشش جي ڌيءَ، وري ڪوبه پٽو ناهي.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "پار ڪر"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "پنھنجي زمين کي"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "درياه وانگر"
+    },
+    {
+      "surface": "בת",
+      "gloss": "جي ڌيءَ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تڙشش"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "پٽو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    }
+  ],
+  "timestamp": "2026-08-30T11:53:30.289779345Z",
+  "model": "glm-5.3"
+}

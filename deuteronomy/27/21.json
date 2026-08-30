@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "مدلل ⟨آهي⟩ جيڪو ڪنهن به چوپائي سان سمهي ٿو، ۽ سڄي قوم چوندي: آمين.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "مدلل"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "سمهي ٿو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪنهن به"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "چوپائي"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چوندي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:19.245917573Z",
+  "model": "glm-5.3"
+}

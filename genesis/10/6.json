@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ حام جا پٽ: ڪوش ۽ متسرايم ۽ پوت ۽ ڪنعان۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پٽ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ڪوش"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "۽ متسرايم"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "۽ پوت"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "۽ ڪنعان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:31.942675524Z",
+  "model": "glm-5.3"
+}

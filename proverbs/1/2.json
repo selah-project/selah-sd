@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "حڪمت ۽ تربيت کي ڄاڻڻ لاءِ، سمجهه جي ڳالھين کي سمجھڻ لاءِ —",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ڄاڻڻ لاءِ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "۽ تربيت"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "سمجھڻ لاءِ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ڳالھيون"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:07.718556102Z",
+  "model": "glm-5.3"
+}

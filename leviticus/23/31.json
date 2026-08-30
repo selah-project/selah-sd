@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ڪوبه ڪم نه ڪريو — اها اوھان جي نسلن لاءِ سدائين جو ريت آھي، اوھان جي سڀني رهائشن ۾.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ڪريو"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ريت"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "سدائين جو"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "اوھان جي نسلن لاءِ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀنين ۾"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "رهائسن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:39.463642216Z",
+  "model": "glm-5.3"
+}

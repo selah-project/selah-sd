@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 53,
+  "translation": "سرول لاءِ، مَحَلت تي، تعليمي نظم، داوود جو.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "سرول لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "مَحَلت"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "تعليمي نظم"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:24.883197923Z",
+  "model": "glm-5.3"
+}

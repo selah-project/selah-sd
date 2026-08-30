@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 7:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پڻ آسمانن جي پکين مان ست ست جوڙ، نر ۽ مادي، ته سڀني زمين جي مُنهن تي نسل جيئرو رهي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "پکين مان"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن جي"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست ست"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست ست"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "۽ مادي"
+    },
+    {
+      "surface": "לחיות",
+      "gloss": "جيئرو رهي"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُنهن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:27.062440396Z",
+  "model": "glm-5.3"
+}

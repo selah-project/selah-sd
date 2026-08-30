@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 35:1",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ يوشياهو يروشلم ۾ ياهوه لاءِ فصح ڪيو، ۽ پهرئين مهيني جي چوڏهين ڏينھن فصح ذبح ڪيائون.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "يوشياهو"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "فصح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "ذبح ڪيائون"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "فصح"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "چوڏهن ۾"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني جي"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پھرئين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:31:35.338011852Z",
+  "model": "glm-5.3"
+}

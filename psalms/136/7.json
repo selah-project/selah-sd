@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 136,
+  "translation": "جنهن وڏا روشن ڪيا، ڇوته سدائين لاءِ سندس خيسيد ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "جنهن ڪيا"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "روشن"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "وڏا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "سدائين لاءِ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "سندس خيسيد"
+    }
+  ],
+  "timestamp": "2026-08-30T15:04:07.802010174Z",
+  "model": "glm-5.3"
+}

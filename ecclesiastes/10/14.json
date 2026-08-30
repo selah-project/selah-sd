@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ بيوقوف لفظ وڌائي ٿو؛ ⟨ה⟩ ماڻهوءَ کي خبر ناهي ته ڇا ٿيندو، ۽ جو هن کان پوءِ ٿيندو، اهو هن کي ڪير ٻڌائيندو؟",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "۽ بيوقوف"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "لفظ وڌائي ٿو"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "خبر ناهي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهوءَ کي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ته ڇا"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "۽ جو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "هن کان پوءِ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ٻڌائيندو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:04.583457237Z",
+  "model": "glm-5.3"
+}

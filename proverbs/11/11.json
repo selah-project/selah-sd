@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "سڌرن جي دعا سان شھر مٿي کيو وڃي ٿو، ۽ شريرن جي وات سان ڀڄي پوي ٿو.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "دعا سان"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سڌرن جي"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "مٿي کيو وڃي ٿو"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شھر"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "۽ وات سان"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شريرن جي"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "ڀڄي پوي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:40.572934485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 27:20",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ پنھنجي شان منجهان ٿورو مٿس ڏين، ته جيئن اسرائيل جي پُٽن جي ساري جماعت کيس ٻڌي.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "۽ ڏين"
+    },
+    {
+      "surface": "מהודך",
+      "gloss": "پنھنجي شان منجهان"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ته جيئن"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ٻڌن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن جي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:33.889330189Z",
+  "model": "glm-5.3"
+}

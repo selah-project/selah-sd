@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "ڳڻياءَ ڏٺائين، پر نه رکيائين؛ ڪَنَ کوليائين، پر ٻُڌو نه.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "ڏٺائين"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ڳڻيا (گهڻا)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "رکيائين"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "کوليائين (کُليا)"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ڪَنَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ٻُڌو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:58:58.389138061Z",
+  "model": "glm-5.3"
+}

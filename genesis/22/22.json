@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ ⟨את⟩ كسد کي ۽ ⟨את⟩ حزو کي ۽ ⟨את⟩ فلدش کي ۽ ⟨את⟩ يدلاف کي ۽ ⟨את⟩ بتوئيل کي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "كسد"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "كسد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حزو"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "حزو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "فلدش"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "فلدش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "يدلاف"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "يدلاف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "بتوئيل"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "بتوئيل"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:22.094140847Z",
+  "model": "glm-5.3"
+}

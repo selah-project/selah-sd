@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "راستباز آهين تون، ياهوه، ۽ سيدھا آهن تنهجا فيصلا.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "۽ سيدھا"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "تنهجا فيصلا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:43.878814905Z",
+  "model": "glm-5.3"
+}

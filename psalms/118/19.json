@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 118,
+  "translation": "مون لاءِ صداقت جا دروازا کولو؛ مان انهن ۾ داخل ٿيندس، ياه جي تعريف ڪندس.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "کولو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "جا دروازا"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صداقت"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "داخل ٿيندس"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انهن ۾"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "تعريف ڪندس"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:53.440370755Z",
+  "model": "glm-5.3"
+}

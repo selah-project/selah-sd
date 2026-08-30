@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "دولت لاءِ گهٻريل ⟨آهي⟩ لٽياکڻ ۽ ماڻهو، ۽ ⟨هو⟩ نه ڄاڻي ته قلات کيس اچي ٿي.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "گهٻريل"
+    },
+    {
+      "surface": "להון",
+      "gloss": "دولت لاءِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "لٽياکڻ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "(اک) سندس — مطلب بُري اک"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "قلات"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "کيس اچي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:56.599335587Z",
+  "model": "glm-5.3"
+}

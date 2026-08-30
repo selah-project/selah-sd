@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "بيشڪ بيهڪ (شو) ايل ناهي ٻڌندو، ۽ شداي ان تي نظر ناهي وجهندو.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "بيهڪ (شو)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ٻڌندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "۽ شداي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "نظر وجهندو ان تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:43:06.850213051Z",
+  "model": "glm-5.3"
+}

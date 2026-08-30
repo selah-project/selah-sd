@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "جنهن جي فصل کي بکيو کائي ٿو ۽ ڪنڊن مان کسي وٺندو، ۽ اُجهي وڃي سندن ڌن.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "بکيو"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائي ٿو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "ڪنڊن مان"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "کسي وٺندو"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "۽ اُجهي وڃي"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "پياسو"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "سندن ڌن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:34.526566871Z",
+  "model": "glm-5.3"
+}

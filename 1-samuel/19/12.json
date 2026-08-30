@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ ميخل داويد کي دريءَ مان هيٺ ڪٿي، ۽ هو ويو ۽ ڀڄي پيو ۽ بچي ويو.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "۽ هيٺ ڪٿي"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ميخل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داويد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد کي"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "مان"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "دريءَ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "۽ ويو"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "۽ ڀڄي پيو"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "۽ بچي ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:12:13.663607084Z",
+  "model": "glm-5.3"
+}

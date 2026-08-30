@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 7:39",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ ڪاٺيو، ڍڳن جو پل؛ ھڪ راندڙ؛ ھڪ راهو، پنھنجي پھرئين سال جو، سڙڪ قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ڪاٺيو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پل"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳن جو"
+    },
+    {
+      "surface": "איל",
+      "gloss": "راندڙ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "راهو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پل"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "پنھنجي پھرئين سال جو"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سڙڪ قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:01.471909842Z",
+  "model": "glm-5.3"
+}

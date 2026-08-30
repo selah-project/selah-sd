@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "نوش وڻندڙ شراب ڏيو هلاڪت واري کي، ۽ شراب تلخ جان واري کي.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "ڏيو"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "نوش وڻندڙ شراب"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "هلاڪت واري کي"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "۽ شراب"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "تلخ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان واري کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:33.625973050Z",
+  "model": "glm-5.3"
+}

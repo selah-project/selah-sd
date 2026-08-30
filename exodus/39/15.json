@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ چوشن تي اُنھن ڳٿن جون زنجيرون ٺاھيون — ڳٽن جي ڪم جون، خالص سون جون.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "۽ ٺاھيون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "چوشن"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "زنجيرون"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "ڳٽن جون"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم جون"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ڳٽن"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:56.509446073Z",
+  "model": "glm-5.3"
+}

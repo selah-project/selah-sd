@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "واديءِ نظر جو بار. تون اُتي ڇا ٿيوي آھين جو تون سڀئي چڙھي وئيءَ ڇتين تي؟",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "واديءَ"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "نظر جي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهن لاءِ"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ھاڻي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "چڙھي وئيءَ"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "تون سڀئي"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "ڇتين تي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:52:46.578456531Z",
+  "model": "glm-5.3"
+}

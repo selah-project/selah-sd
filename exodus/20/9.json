@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "ڇهن ڏينهن تون پنهنجو سڄو ڪم ڪرينءَ ۽ ڪندين.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ڇهن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "پنهنجو ڪم ڪرينءَ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "۽ ڪندين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "پنهنجو ڪم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:22.266226489Z",
+  "model": "glm-5.3"
+}

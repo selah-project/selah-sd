@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ⟨هو⟩ ڍڳي کي ياهوه جي اڳيان ذبح ڪري، ۽ اهارون جا پٽ، ⟨ڪاهن⟩، ⟨את⟩ رت پيش ڪن، ۽ ⟨את⟩ رت قربانگاهه تي چوڌاري اڇلائين، جيڪو ملاقات جي خيمي جي دروازي وٽ آهي.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ذبح ڪري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڍڳي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ڍڳو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "پيش ڪن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رت"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "۽ اڇلائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رت"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاهه"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمو"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:58.961117388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "جيڪا جان ان کي هٿ لائي، اها شام تائين نجس ٿي رهي، ۽ پاڪ شيئن مان نه کائي، سواءِ ان جي جو پاڻي ۾ پنهنجو جسم ڌوئي.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "هٿ لائي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "نجس ٿي رهي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاڪ شيون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سواءِ ان جي جو"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "ڌوئي"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "پنهنجو جسم"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:55.267016603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ هاڻي تون چئي رهيو آهين: وڃ، تنهنجي مالڪ کي چؤ: ڏس، ايلياهو هتي آهي.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چئي رهيو آهين"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "تنهنجي مالڪ کي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ايلياهو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:35:18.776072787Z",
+  "model": "glm-5.3"
+}

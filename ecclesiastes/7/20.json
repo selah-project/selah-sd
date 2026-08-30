@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڇوته زمين تي ڪو اهڙو انسان ناهي جو نيڪ هجي، چڱائي ڪري ۽ گنهه نه ڪري.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين تي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱائي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "گنهه ڪري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:49.083285483Z",
+  "model": "glm-5.3"
+}

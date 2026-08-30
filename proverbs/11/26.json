@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "جو اناج روڪي ٿو، سو ⟨هو⟩ قوم کان لعنت ٿو کائي؛ ۽ وڪڻندڙ جي مٿان برڪت.",
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "روڪيندڙ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "اناج"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "لعنت ٿو کائي"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "۽ برڪت"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "مٿي تي"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "وڪڻندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:34.560727109Z",
+  "model": "glm-5.3"
+}

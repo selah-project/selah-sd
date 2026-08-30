@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ياهوه پڏيءَ جي دل کي سخت ڪري ڇڏيو، ۽ هن انهن جي نه ٻڌي، جيئن ياهوه مشهه کي چيو هيو.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "۽ سخت ڪري ڇڏيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پڏي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌي"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انهن جي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مشهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:36:45.361587966Z",
+  "model": "glm-5.3"
+}

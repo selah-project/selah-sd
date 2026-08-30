@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "سرايا، عزريا، يرميا؛",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "سرايا"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزريا"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "يرميا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:38.050643033Z",
+  "model": "glm-5.3"
+}

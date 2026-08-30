@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ بادشاهه ياربعم پٽ نبط جي اٺڻويهين سال ۾ ابيم يهودا تي راڄ ڪيو.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "۽ ... سال ۾"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ويهه (ٺينڪي: اٺن تي ويهه)"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاهه جي"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ياربعم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نبط"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج ڪيو"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "ابيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:34:55.386797107Z",
+  "model": "glm-5.3"
+}

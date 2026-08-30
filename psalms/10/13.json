@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 10:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ڇو ناھي ڏسندو؟ رشا ايلوهيم کي ڦٽو ڪري ٿو، دل ۾ چوي ٿو: توڻ نہ پڇينسين.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ڇو تان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇو ناھي ڏسندو؟"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "ڦٽو ڪري ٿو"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم کي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "دل ۾"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "پڇينسين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:00:54.644334070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 23:35",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ايئن چئو |\n ماڻھو پنھنجي سنگتيءَ کي ۽ ماڻھو پنھنجي ڀاءُ کي: ياهوه ڇا جواب ڏنو؟ ۽ ياهوه ڇا فرميو؟",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ايئن"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "چئو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "על",
+      "gloss": "کي"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "پنھنجي سنگتيءَ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ماڻھو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "پنھنجي ڀاءُ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "جواب ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "۽ ڇا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فرميو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:14:47.681903779Z",
+  "model": "glm-5.3"
+}

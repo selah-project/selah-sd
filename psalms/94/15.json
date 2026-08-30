@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 94,
+  "translation": "ڇوته انصاف ۾ موٽندو، ۽ ان کان پوءِ سڀ دل جا سِڌا ماڻهو ⟨هوندا⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עד",
+      "gloss": "۾"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "موٽندو"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فيصلو"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "۽ ان کان پوءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "سِڌا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:37.426839349Z",
+  "model": "glm-5.3"
+}

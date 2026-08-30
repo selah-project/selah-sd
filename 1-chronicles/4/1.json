@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "يهوداه جا پُٽ هئا: پيرتس، حتسران، ڪرمي، حُور ۽ شوbal.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پيرتس"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حتسران"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "۽ ڪرمي"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "۽ حُور"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "۽ شوbal"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:28.738591935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 11:46",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ھي آھي تورات: ⟨the⟩ جانورن ۽ ⟨the⟩ پکين، ۽ پاڻيءَ ۾ رمندي هر جيئري جي، ۽ زمين تي سرڻ واري هر جيءَ جي.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات (تعليم)"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "جانورن"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "۽ پکين"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ هر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جيءَ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "جيئري"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "رمندي"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻيءَ ۾"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "۽ هر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جيءَ"
+    },
+    {
+      "surface": "השרצת",
+      "gloss": "سرڻ واري"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:24.302236135Z",
+  "model": "glm-5.3"
+}

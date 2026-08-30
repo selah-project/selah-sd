@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 5:21",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "زبان جي تَڇَ ۾ تو لڪجي وڃين، ۽ تباهي کان نه ڊڄجينِ جڏھن اچي.",
+  "tokens": [
+    {
+      "surface": "בשוט",
+      "gloss": "تَڇَ ۾"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان جي"
+    },
+    {
+      "surface": "תחבא",
+      "gloss": "لڪجي وڃين"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڊڄجينِ"
+    },
+    {
+      "surface": "משד",
+      "gloss": "تباهي کان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اچي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:35.139750481Z",
+  "model": "glm-5.3"
+}

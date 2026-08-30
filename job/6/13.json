@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 6:13",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇا مون ۾ منهنجي مدد ناهي، ۽ توشيي مون کان ڌڪجي وئي آهي؟",
+  "tokens": [
+    {
+      "surface": "האם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "منهنجي مدد"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون ۾"
+    },
+    {
+      "surface": "ותשיה",
+      "gloss": "۽ توشيي"
+    },
+    {
+      "surface": "נדחה",
+      "gloss": "ڌڪجي وئي آهي"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مون کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:36:01.418552135Z",
+  "model": "glm-5.3"
+}

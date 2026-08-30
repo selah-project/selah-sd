@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "ڏاهو ماڻهو ⟨את⟩ جهل ماڻهوءَ سان فيصلو ٿو ٿئي؛ پوءِ غصو ٿئي يا کلي، آرام ⟨آهي⟩ نه.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ڏاهو"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "فيصلو ٿو ٿئي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جهل ماڻهو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "جهل"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "غصو ٿئي"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "کلي"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "آرام"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:44.239286526Z",
+  "model": "glm-5.3"
+}

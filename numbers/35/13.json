@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 35:13",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ جن شهرن توهان ڏيندا، اُھي توهان جي لاءِ ڇھ پناھ جا شهر ٿيندا.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "۽ جن شهرن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "توهان ڏيندا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "پناھ جا"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ٿيندا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان جي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:30.054466554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "ائن چوي ٿو ياهوه، جيڪو سمنڊ ۾ رستو ڏي ٿو ۽ زوراور پاڻين ۾ پيٽي.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ائن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "جيڪو ڏي ٿو"
+    },
+    {
+      "surface": "בים",
+      "gloss": "سمنڊ ۾"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستو"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "۽ پاڻين ۾"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "زوراور"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "پيٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:59:31.839896665Z",
+  "model": "glm-5.3"
+}

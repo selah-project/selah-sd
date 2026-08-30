@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 9:15",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ بادشاهه شلومو ٻه سؤ وڏيون ڍالون ڪُٽيل سون جون ٺاهيون؛ هڪ ڍال تي ڇهه سؤ ڪُٽيل سون چڙهي ٿو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ٺاهيون"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سؤ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "وڏيون ڍالون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ڪُٽيل"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ڪُٽيل"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڙهي ٿو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ڍال"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:56.354969646Z",
+  "model": "glm-5.3"
+}

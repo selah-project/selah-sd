@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ٻڌو، جبلو، ⟨את⟩ ياهوه جو تڪرار، ۽ توهان زمين جي بنيادن جا مظبوط! ڇوته ياهوه وٽ پنهنجي قوم سان تڪرار آهي، ۽ هو يسرائيل سان Reasoning ڪندو.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "جبلو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جو تڪرار"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "تڪرار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "۽ مظبوط"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "بنيادن جا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "تڪرار"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه وٽ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "پنهنجي قوم"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "Reasoning ڪندو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:53:20.266028635Z",
+  "model": "glm-5.3"
+}

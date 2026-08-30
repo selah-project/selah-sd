@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ راحيل جي ٻانهي بلهاهه وري حاملہ ٿي ۽ يعقوب کي ٻيو پٽ ڄڻيو.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "حاملہ ٿي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بلهاهه"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ٻانهي"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل جي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "يعقوب کي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:55.117272803Z",
+  "model": "glm-5.3"
+}

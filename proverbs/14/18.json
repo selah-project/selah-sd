@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 14:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "سادا لوچ مورڪت جا وارث آهن، ۽ ڀڙ ماڻهو ⟨علم⟩ سان تاج پائين ٿا.",
+  "tokens": [
+    {
+      "surface": "נחלו",
+      "gloss": "وارث ٿين ٿا"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "سادا لوچ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "مورڪت"
+    },
+    {
+      "surface": "וערומים",
+      "gloss": "۽ ڀڙ"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "تاج پائين ٿا"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:42.008312091Z",
+  "model": "glm-5.3"
+}

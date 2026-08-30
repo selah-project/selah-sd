@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "هي خواب آهي؛ ۽ اسين ان جي تعبير بادشاهه اڳ ٻڌاينداسين.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "۽ ان جي تعبير"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "ٻڌاينداسين"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "اڳ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:57:27.777360682Z",
+  "model": "glm-5.3"
+}

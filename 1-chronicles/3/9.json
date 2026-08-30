@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "اهي سڀ داوود جا پٽ ھئا، لڳِيا (فيلگش) جي پٽن کانسواءِ، ۽ تامار سندن ڀيڻ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "کانسواءِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "لڳِيا (فيلگش)"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "۽ تامار"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "سندن ڀيڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:52.589483088Z",
+  "model": "glm-5.3"
+}

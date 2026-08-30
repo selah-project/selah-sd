@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "هن ڪتان جا ڪپڙا ٺاهي وڪيا، ۽ ڪمرپٽي واپارين کي ڏنيون.",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "ڪتان جا ڪپڙا"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ٺاهي"
+    },
+    {
+      "surface": "ו תמכר",
+      "gloss": "۽ وڪيا"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "۽ ڪمرپٽي"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ڏنيون"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "واپارين کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:36.174316400Z",
+  "model": "glm-5.3"
+}

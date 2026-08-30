@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "هلا! چوڻ وارو پيءُ کي، تو ڇا پيدا ڪيو؟ ۽ زال کي، تو ڇا جنميو؟",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "هلا!"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوڻ وارو"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "پيءُ کي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "تو پيدا ڪيو"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "۽ زال کي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "تو جنميو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:01:00.743608255Z",
+  "model": "glm-5.3"
+}

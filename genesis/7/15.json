@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ اهي نوح وٽ، ٻيڙيءَ ۾ آيا، ٻه ٻه، سڀ گوشت مان جنهن ۾ زندگيءَ جو ساھ آهي.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "۽ آيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ٻيڙي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڀ مان"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "۾"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ساھ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگيءَ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:18.572533765Z",
+  "model": "glm-5.3"
+}

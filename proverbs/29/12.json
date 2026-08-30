@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "حاڪم جيڪو ڪوڙي ڳالھ تي ڪَن ڏئي، سندس سڀ خادم بدڪار ٿين ٿا.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "حاڪم"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "ڪَن ڏئي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "سندس خادم"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدڪار"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:36.590445355Z",
+  "model": "glm-5.3"
+}

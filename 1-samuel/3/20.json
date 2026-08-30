@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ سڄي اسرائيل کي خبر پئي، دان کان بئر شبع تائين، ته شمعول ياهوه جي نبيءَ طور پڪو ٿيو.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "۽ خبر پئي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "دان کان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "پڪو ٿيو"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمعول"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "نبيءَ طور"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:06:54.735780717Z",
+  "model": "glm-5.3"
+}

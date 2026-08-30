@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ فرعون يوسف سان ٻوليو: منھنجي خواب ۾، ھلو، آءُ نديءَ جي ڪناري تي بيٺو ھوس،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ٻوليو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "منھنجي خواب ۾"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ھلو"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "بيٺو ھوس"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ڪناري"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "نديءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:44.723745295Z",
+  "model": "glm-5.3"
+}

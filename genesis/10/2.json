@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "يافت جا پٽ: گومر، ۽ ماگوگ، ۽ مداي، ۽ ياوان، ۽ توبل، ۽ مشيخ، ۽ تيراس.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "يافت جا"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومر"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "۽ ماگوگ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "۽ مداي"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "۽ ياوان"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "۽ توبل"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "۽ مشيخ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "۽ تيراس"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:44.825731719Z",
+  "model": "glm-5.3"
+}

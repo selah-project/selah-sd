@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "نَتَنائيل چوٿون، رَدّي پنجون.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "نَتَنائيل"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوٿون"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "رَدّي"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:05.882425592Z",
+  "model": "glm-5.3"
+}

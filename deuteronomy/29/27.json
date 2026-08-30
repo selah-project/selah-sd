@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 29:27",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ ياهوه ⟨ڪوپ⟩ ۽ قهر ۽ وڏي غضب سان کين سندن زمين مان پاڙي ڪڍيو ۽ کين ٻيءَ زمين ڏانهن اُڇليو، جهڙوءَ agraهِي ڏينهن آهي.",
+  "tokens": [
+    {
+      "surface": "ויתשם",
+      "gloss": "۽ پاڙي ڪڍيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "مעל",
+      "gloss": "مان"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "سندن زمين"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ڪوپ سان"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "۽ قهر سان"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "۽ غضب سان"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "וישלכ׮",
+      "gloss": "۽ اُڇليو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ٻيءَ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "جهڙوءَ ڏينهن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:33.405739207Z",
+  "model": "glm-5.3"
+}

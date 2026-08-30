@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ مُرديخي کي ⟨את⟩ ايستر جا لفظ ٻُڌايا.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ٻُڌايا"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "مُرديخي کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ايستر جا لفظ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ايستر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:48.915506663Z",
+  "model": "glm-5.3"
+}

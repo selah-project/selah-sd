@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ رحبعم ۽ يروبعم جي وچ ۾ جنگ ھوندي رھي سندن سڀني ڏينھن ۾.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "۽ جنگ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ھوندي رھي"
+    },
+    {
+      "surface": "בין",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعم"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ جي وچ ۾"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "يروبعم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڏينھن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:33:49.979843989Z",
+  "model": "glm-5.3"
+}

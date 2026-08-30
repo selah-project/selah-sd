@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 40:12",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ هڪ حد ڪوٺرين جي اڳيان — هڪ هٿ، ۽ هڪ هٿ حد هن پار؛ ۽ ڪوٺري ڇهه هٿ هن پار، ۽ ڇهه هٿ هن پار.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "۽ حد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "התאות",
+      "gloss": "ڪوٺرين جي"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "هڪ هٿ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "۽ هڪ هٿ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حد"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "هن پار"
+    },
+    {
+      "surface": "והתא",
+      "gloss": "۽ ڪوٺري"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇهه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "هن پار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ ڇهه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "هن پار"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:04.259049177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ امن جون چراگاهون خاموش ٿي ويون ياهوه جي ڪاوڙ جي ڀڙڪ جي سامهون کان.",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "۽ خاموش ٿي ويون"
+    },
+    {
+      "surface": "نאות",
+      "gloss": "چراگاهون"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "امن جون"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "جي سامهون کان"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ڀڙڪ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ڪاوڙ جي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:14:29.143705650Z",
+  "model": "glm-5.3"
+}

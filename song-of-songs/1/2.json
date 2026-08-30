@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "مون کي پنھنجي وات جي چمبن سان چمو، ڇو ته تون جي محبتَون شرط کان سٺيون آھن.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "مون کي چمو"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "چمبن سان"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "پنھنجي وات جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "سٺيون"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "تون جي محبتَون"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "شرط کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:52.796132629Z",
+  "model": "glm-5.3"
+}

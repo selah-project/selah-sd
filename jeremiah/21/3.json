@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "تڏهن يرمياهو انهن کي چيو: هيءُ چئو صديقيا کي:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هيئن"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "چئو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صديقيا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:14:14.084358922Z",
+  "model": "glm-5.3"
+}

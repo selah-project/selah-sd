@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "طاقت ۽ شان سندس لباس آهن، ۽ هو آخري ڏينهن تي کلندي،",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "۽ شان"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "سندس لباس"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "۽ هو کلندي"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "آخري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:24.761424421Z",
+  "model": "glm-5.3"
+}

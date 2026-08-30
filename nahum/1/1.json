@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "نينَوى جو بار؛ نَحوم ايلقشيءَ جي نظر جو ڪتاب.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نينَوى"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ڪتاب"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "نظر"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "نَحوم"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "ايلقشي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:53:34.794532246Z",
+  "model": "glm-5.3"
+}

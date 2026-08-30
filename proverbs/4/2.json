@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ڇوته ⟨مان⟩ توهان کي سٺو علم ڏنو آهي؛ منهنجي تعليم کي نه ڇڏيو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "علم"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "سٺو"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ڏنو آهان"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان کي"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "منهنجي تعليم کي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ڇڏيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:11.837629042Z",
+  "model": "glm-5.3"
+}

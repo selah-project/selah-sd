@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ياهوه ⟨את⟩ يونه کي ٽارڻ لاءِ هڪ وڏي مڇي تيار ڪئي؛ ۽ يونه مڇيءَ جي پيٽ ۾ ٽي ڏينهن ۽ ٽي راتيون رهيو.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "تيار ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "דג",
+      "gloss": "مڇي"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ٽارڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يونه"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "يونه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "يونه"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "جي پيٽ ۾"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "مڇيءَ جي"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "راتيون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:50:34.157595677Z",
+  "model": "glm-5.3"
+}

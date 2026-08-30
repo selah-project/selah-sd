@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "رچوم، چشبنا، معسياه،",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "رچوم"
+    },
+    {
+      "surface": "חשבנה",
+      "gloss": "چشبنا"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "معسياه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:45.422913130Z",
+  "model": "glm-5.3"
+}

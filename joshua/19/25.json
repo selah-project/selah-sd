@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ سندن سرحد חלקת ۽ حلي ۽ بيتن ۽ اخشپ ٿي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "سندن سرحد"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "חלקת"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "۽ حلي"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "۽ بيتن"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "۽ اخشپ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:43.998195768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "بوڙھو ۽ منھن کڻندڙ — اُھو ⟨هو⟩ سر آھي؛ ۽ نبي، جيڪو کوڙ سکائي ٿو — اُھو ⟨هو⟩ پڇ آھي.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "بوڙھو"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "۽ منھن کڻندڙ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منھن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩ اُھو"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨هو⟩ سر"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "۽ نبي"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "سکائيندو"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کوڙ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩ اُھو"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "پڇ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:11.765907678Z",
+  "model": "glm-5.3"
+}

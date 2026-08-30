@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "پاڻ کي سنڀال، متان تون ⟨את⟩ ياهوه کي وساري وڃين،جنهن توکي مصر جي زمين مان، غلامي جي گھر مان ڪڍيو.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "پاڻ کي سنڀال"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ کي"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "وساري وڃين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه کي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "توکي ڪڍيو"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمين مان"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصر جي"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر مان"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلامي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:51.245617200Z",
+  "model": "glm-5.3"
+}

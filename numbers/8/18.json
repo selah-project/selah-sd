@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ مَون ⟨את⟩ لاوین کي اسرائيل جي پٽن جي سڀ پهرولن جي بدران ورتو.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "۽ مَون ورتو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاوین کي"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوین"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدران"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پهرولن"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:12.828126051Z",
+  "model": "glm-5.3"
+}

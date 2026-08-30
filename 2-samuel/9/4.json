@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ بادشاھ ان کي چيو، ”ھو ڪٿي آھي؟“ ۽ صيبا بادشاھ کي چيو، ”ڏسو، ھو ماخير پٽ عميئيل جي گھر ۾، لو دبار ۾ آھي.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ڪٿي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ھو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "صيبا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ھو"
+    },
+    {
+      "surface": "بית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماخير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "عميئيل"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "۾"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لو دبار"
+    }
+  ],
+  "timestamp": "2026-08-30T11:19:24.008100873Z",
+  "model": "glm-5.3"
+}

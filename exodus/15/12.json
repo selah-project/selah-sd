@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "تون پنهنجو ساڄو هٿ ٻڏايو، زمين کين نگلي ويا.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "ٻڏايو\/ڊگهو ڪيو"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "پنهنجو ساڄو هٿ"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "نگلي ويا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:00:54.384538021Z",
+  "model": "glm-5.3"
+}

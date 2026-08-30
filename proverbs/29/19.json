@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "لفظن سان نوڪر ترتيب نٿو ٿي سگهي؛ ڇوته هو سمجهي ٿو، پر جواب ناهي.",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "لفظن سان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "ترتيب ٿئي ٿو"
+    },
+    {
+      "surface": "עבد",
+      "gloss": "نوڪر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سمجهي ٿو"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "پر ناهي"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "جواب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:23.919258173Z",
+  "model": "glm-5.3"
+}

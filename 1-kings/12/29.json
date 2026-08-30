@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "پوءِ هن ⟨את⟩ هڪڙي کي بيت-ايل ۾ رکيو، ۽ ⟨את⟩ هڪڙي کي دان ۾ رکيائين.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "پوءِ رکيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هڪڙي"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪڙي"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بيت ۾"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "هڪڙي"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪڙي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکيائين"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "دان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:33:27.288583419Z",
+  "model": "glm-5.3"
+}

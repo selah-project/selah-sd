@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "کولي اسان جي خلاف پنهنجو وات سڀئي اسان جا دشمنن.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "کولي"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اسان جي خلاف"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "پنهنجو وات"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "اسان جا دشمنن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:56.664171187Z",
+  "model": "glm-5.3"
+}

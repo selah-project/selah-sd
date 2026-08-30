@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "هي اُهو لفظ آهي جيڪو ياهوه مُوآب بابت اُن اڳئين وقت کان چيو.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "اُن اڳئين وقت کان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:51:24.963173806Z",
+  "model": "glm-5.3"
+}

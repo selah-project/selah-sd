@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "genesis 24:55",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "پوءِ سندس ڀاءُ ۽ سندس ماءُ چيو: نوجوان ڙي، اسان وٽ ڏينهن يا ڏھ اُتي وهي، پوءِ ويندي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "سندس ڀاءُ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "سندس ماءُ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "وهي"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نوجوان ڙي"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "اسان وٹ ⟨את⟩"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ڏھ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ويندي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:52.213660154Z",
+  "model": "glm-5.3"
+}

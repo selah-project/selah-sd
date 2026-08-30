@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ملتيا تون آهين تو جي اندر اچڻ ۾، ۽ ملتيا تون آهين تو جي ٻاهر نڪرڻ ۾.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملتيا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون آهين"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "تو جي اندر اچڻ ۾"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "۽ ملتيا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون آهين"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "تو جي ٻاهر نڪرڻ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:41.758248377Z",
+  "model": "glm-5.3"
+}

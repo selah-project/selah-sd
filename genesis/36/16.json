@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 36:16",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "سردار قورح، سردار غعتام، سردار عماليق؛ اھي ادوم جي ملڪ ۾ ايليفز جا سردار ھئا؛ اھي عادہ جا پُٽ ھئا.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "געתם",
+      "gloss": "غعتام"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عماليق"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "جا سردار"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ايليفز"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "جي ملڪ ۾"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادہ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:55.540845468Z",
+  "model": "glm-5.3"
+}

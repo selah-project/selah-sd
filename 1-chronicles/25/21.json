@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 25:21",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "چوڏهين مٺيتياهو ⟨هو⟩، سندس پٽ ۽ سندس ڀائر ٻارهن.",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "چوڏهين"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-10"
+    },
+    {
+      "surface": "מתתיהו",
+      "gloss": "مٺيتياهو"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "وאחיו",
+      "gloss": "۽ سندس ڀائر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-10"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:59.071876139Z",
+  "model": "glm-5.3"
+}

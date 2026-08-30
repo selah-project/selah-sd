@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 49:33",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "۽ حصور گِدڙن جو ماڳ ٿيندو، تباهي هميشه لاءِ؛ اُتي ڪوبه ماڻهو نه ويهندو، ۽ ماڻهوءَ جو پُٽ اُتي نه رهندو.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "حصور"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "ماڳ لاءِ"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "گِدڙن"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "تباهي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ويهندو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ڪوبه ماڻهو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "رهندو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:24:49.072342185Z",
+  "model": "glm-5.3"
+}

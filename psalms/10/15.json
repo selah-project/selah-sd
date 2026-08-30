@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "رشا ۽ بڇڙي ماڻھوءَ جي ٻانهن ٻٽي ڪر؛ سندس بڇڙائي پڇ تان جو نہ لڀي.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ٻٽي ڪر"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ٻانهن"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشا"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "۽ بڇڙي ماڻھوءَ جي"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "پڇ"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "بڇڙائي"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "لڀي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:00:54.644772080Z",
+  "model": "glm-5.3"
+}

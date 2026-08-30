@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "نيک ماڻهوءَ جو وات زندگيءَ جو چشمو آهي، پر بدڪارن جو وات زورزلي کي ڍڪي ٿو.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "چشمو"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگيءَ جو"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيک ماڻهوءَ جو"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "پر وات"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدڪارن جو"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ڍڪي ٿو"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زورزلي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:19.803001083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 41:14",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ گھر جي سامهڻ جي ۽ الڳ جاءِ جي ويڪر اوڀر ڏي سؤ هٿ.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "۽ ويڪر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سامهڻ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر جي"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "۽ الڳ جاءِ"
+    },
+    {
+      "surface": "לקדים",
+      "gloss": "اوڀر ڏي"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "هٿ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:31.291410942Z",
+  "model": "glm-5.3"
+}

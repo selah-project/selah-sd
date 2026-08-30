@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ هو پنجين مهيني ۾ يروشلم پهتو؛ اها بادشاهه جي ستين سال هئي.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "۽ پهتو"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مهيني ۾"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجين"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاهه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:03:17.416061907Z",
+  "model": "glm-5.3"
+}

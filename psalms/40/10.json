@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "مان خوشخبري ٻڌائي آهان صداقت جي وڏيڱ congregation ۾؛ ڏس، منهنجا چنپ مان نه روڪيوم، ياهوه، تون ٿو ڄاڻين.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "مان خوشخبري ٻڌائي آهان"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صداقت"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": " congregation ۾"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "منهنجا چنپ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "روڪيوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ٿو ڄاڻين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:45.878916396Z",
+  "model": "glm-5.3"
+}

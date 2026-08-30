@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 58,
+  "translation": "انهن جو زهر نانگ جي زهر جهڙو آهي، ٻوڙي اَفس وانگر جيڪو پنهنجو ڪن بند ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "למו",
+      "gloss": "انهن جو"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "جهڙو آهي"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "نانگ جي"
+    },
+    {
+      "surface": "كמו",
+      "gloss": "وانگر"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "اَفس"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ٻوڙي"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "بند ڪري ٿو"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "پنهنجو ڪن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:43.108614881Z",
+  "model": "glm-5.3"
+}

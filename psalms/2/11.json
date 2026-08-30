@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ياهوه ⟨את⟩ جي خدمت ڊپ سان ڪريو، ۽ ڪپڪڻ سان خوش ٿيو.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "خدمت ڪريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "ڊپ سان"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "۽ خوش ٿيو"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "ڪپڪڻ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:11.981570575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ جيڪڏهن اهو بچائي وٺي، ته پنجون ڀاڱو تنهنجي اندازي مٿان وڌائي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "بچائي ٿو"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "بچائي وٺي"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ته وڌائي"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "پنجون ڀاڱو"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تنهنجي اندازي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:37.187618618Z",
+  "model": "glm-5.3"
+}

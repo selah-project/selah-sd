@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "سڀ قومون اُن جي اڳيان ڪجھ به ناھن؛ اُن کي اُھي صفر ۽ ويراني چيا ويا آھن.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "ڪجھ به ناھن"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "اُن جي اڳيان"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "صفر"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "۽ ويراني"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "چيا ويا آھن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:59:28.145490966Z",
+  "model": "glm-5.3"
+}

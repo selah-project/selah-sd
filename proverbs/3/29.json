@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پنهنجي پاڙهي لاءِ برائيءَ جو نقشو نه ٺاه، جڏهن هو ⟨את⟩ تو سان بي خوف ويٺو آهي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "نقشو نه ٺاه"
+    },
+    {
+      "surface": "על",
+      "gloss": "لاءِ (خلاف)"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "تنهنجي پاڙهي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ويٺو آهي"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بي خوف"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تو سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:15.616272600Z",
+  "model": "glm-5.3"
+}

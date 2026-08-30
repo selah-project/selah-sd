@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "تنهنجي پيءُ جو ننگ ۽ تنهنجي ماءُ جو ننگ ظاهر نه ڪر؛ هوءَ ⟨آهي⟩ تنهجي ماءُ، سندس ننگ ظاهر نه ڪر.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ننگ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تنهنجي پيءُ جو"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "۽ ننگ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "تنهجي ماءُ جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ظاهر ڪر"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "تنهجي ماءُ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هوءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ظاهر ڪر"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "سندس ننگ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:41.041455674Z",
+  "model": "glm-5.3"
+}

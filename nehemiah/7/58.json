@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "يعلٰي جا پٽ، درڪون جا پٽ، گدل جا پٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "يعلٰي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "درڪون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گدل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:56.860770884Z",
+  "model": "glm-5.3"
+}

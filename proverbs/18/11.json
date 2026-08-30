@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 18:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "امير جو مال سندس زور جو شهر آھي، ۽ سندس سوچ ۾ اُسريل ڪندھ جهڙو.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "امير"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "سندس زور"
+    },
+    {
+      "surface": "וכחומה",
+      "gloss": "۽ ڪندھ جهڙو"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "اُسريل"
+    },
+    {
+      "surface": "במשכיתו",
+      "gloss": "سندس سوچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:36.001515616Z",
+  "model": "glm-5.3"
+}

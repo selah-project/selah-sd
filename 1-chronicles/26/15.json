@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "عوبيد-ايدوم کي ڏکڻ ڏانهن، ۽ سندس پٽن کي گڏ ڪيل جي گهر.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "عوبيد-ايدوم کي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ايدوم"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ڏکڻ ڏانهن"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "۽ سندس پٽن کي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "گڏ ڪيل جي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:11:39.484459165Z",
+  "model": "glm-5.3"
+}

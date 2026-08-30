@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "کُلي نپش وارو جهيڙو اباري ٿو، پر جيڪو ياهوه تي ڀاڙي ٿو، سو فربہ ٿيندو.",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "کُلي"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نپش"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "اباري ٿو"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "جهيڙو"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "پر ڀاڙيندڙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "فربہ ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:07.702196526Z",
+  "model": "glm-5.3"
+}

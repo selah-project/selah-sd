@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "هڪ ٻئي سان چنبڙيل آهن، ۽ هوا انهن جي وچ ۾ نه ٿي داخل ٿئي.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ٻئي سان"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "چنبڙيل آهن"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "۽ هوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ٿي داخل ٿئي"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "انهن جي وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:27.611044635Z",
+  "model": "glm-5.3"
+}

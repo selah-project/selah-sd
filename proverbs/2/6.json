@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇوته ياهوه حڪمت ڏئي ٿو؛ سندس وات مان ڄاڻ ۽ سمجھ نڪرن ٿا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڏئي ٿو"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "سندس وات مان"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاڻ"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "۽ سمجھ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:24.482775095Z",
+  "model": "glm-5.3"
+}

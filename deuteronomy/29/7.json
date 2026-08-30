@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ اسان ⟨את⟩ سندن زمين ورتي ۽ ان کي روubenين ۽ گادين ۽ منسي قبيلي جي اڌ کي وراثت طور ڏني.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "۽ ورتي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندن زمين"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "سندن زمين"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "۽ ڏني"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "وراثت طور"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "روبينين کي"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "۽ گادين کي"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "۽ اڌ کي"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "قبيلي"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "منسي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:58.450432410Z",
+  "model": "glm-5.3"
+}

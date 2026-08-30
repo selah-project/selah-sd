@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ ياهوه موشيءَ کي چيو: مون ⟨את⟩ هيءُ قوم ڏٺو آهي، ۽ ڏسو، هيءُ هڪ سختِ پٺي وارو قوم آهي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيءَ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مون ڏٺو آهي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هيءُ قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سختِ"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "پٺي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:08:30.479170141Z",
+  "model": "glm-5.3"
+}

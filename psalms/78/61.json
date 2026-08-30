@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 78,
+  "translation": "۽ پنهنجو زور قيد ڏنائين، ۽ پنهنجي شان دشمن جي هٿ ۾.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ڏنائين"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "قيد"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "پنهنجو زور"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "۽ پنهنجي شان"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ ۾"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:23.042843299Z",
+  "model": "glm-5.3"
+}

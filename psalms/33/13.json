@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "آسمانن کان ياهوه ڏٺو، ⟨את⟩ سڀني ماڻهن جي پُٽن کي ڏسڻ ڪيو.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "آسمانن کان"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏسڻ ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀني ماڻهن جي پُٽن کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:37.793058767Z",
+  "model": "glm-5.3"
+}

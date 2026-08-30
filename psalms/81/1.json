@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 81,
+  "translation": "مقابل لاءِ، گتي instrument تي، آساف جي لاءِ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقابل لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "گتي instrument (هگتيث)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "آساف جي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:02.758819483Z",
+  "model": "glm-5.3"
+}

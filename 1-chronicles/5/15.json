@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "احي، عبدئيل جو پٽ، گوني جو پٽ، پنهنجن پيءُ جي گهر جو مکيو هو.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "احي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "عبدئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "گوني"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مکيو"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "جي گهر جو"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "پنهنجن پيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:26.419577621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 31:38",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ڍورَ سِٽَن جا چاليهه ۽ ڇهه هزار هئا، ۽ انهن جو مڪس ياهوه لاءِ ٻه ۽ ستر.",
+  "tokens": [
+    {
+      "surface": "והבקר",
+      "gloss": "۽ ڍورَ سِٽَن"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ڇهه"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ چاليهه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "۽ انهن جو مڪس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "۽ ستر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:43.715111228Z",
+  "model": "glm-5.3"
+}

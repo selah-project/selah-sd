@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "منهنجن لٻن سان آءٌ ٻڌايو آهي تنهنجي وات جا سڀ حڪم.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "منهنجن لٻن سان"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "آءٌ ٻڌايو آهي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تنهنجي وات جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:20:05.496002768Z",
+  "model": "glm-5.3"
+}

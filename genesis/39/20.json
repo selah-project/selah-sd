@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ يوسف جي مالک ⟨את⟩ کي ورتي ۽ کيس جيل ۾ وڌس، اھو جاءِ جتي بادشاھ جا قيدي ٻڌل آھن؛ ۽ هو اتي جيل ۾ رھيو.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "۽ ورتائين"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "مالڪ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "يوسف"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "۽ وڌس کيس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "جيل"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتي"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "قيدي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ جا"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "ٻڌل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "۾ گهر ۾"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "جيل"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:18.363800051Z",
+  "model": "glm-5.3"
+}

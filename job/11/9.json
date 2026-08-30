@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ان جي ماپ زمين کان ڊگھي ⟨آهي⟩، ۽ سمندر کان وسيع ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "ڊگھي"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمين کان"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ان جي ماپ"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "۽ وسيع"
+    },
+    {
+      "surface": "מני",
+      "gloss": "کان"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:36:57.704873585Z",
+  "model": "glm-5.3"
+}

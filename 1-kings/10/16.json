@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ بادشاهه شلومو ڌڙڪيل سون جون ٻه سؤ وڏيون ڍالون ٺاھيون؛ ڇھ سؤ سون ھڪ ڍال تي چڙھندو ھو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ٺاھيون"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سؤ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "وڏيون ڍالون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ڌڙڪيل"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڙھندو ھو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ڍال"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:31:10.633387365Z",
+  "model": "glm-5.3"
+}

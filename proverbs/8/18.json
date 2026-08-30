@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "دولت ۽ عزت مون سان ⟨آھن⟩؛ پراڻي (قائم رھندڙ) مالداري ۽ صداقت.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "۽ عزت"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "مون سان ⟨את⟩"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مالداري"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "پراڻي (قائم رھندڙ)"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "۽ صداقت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:11.401420376Z",
+  "model": "glm-5.3"
+}

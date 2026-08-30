@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ خيمي ۽ چوگرد واريءَ چوپڙ جون سڀ ڪيلون تانبِي جون هيون.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "ڪيلون"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "خيمي جون"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "۽ چوپڙ جون"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوگرد واريءَ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبِي جون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:38:05.522752786Z",
+  "model": "glm-5.3"
+}

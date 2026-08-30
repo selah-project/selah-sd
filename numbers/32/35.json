@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ ⟨את⟩ عتروت-شوفان ۽ ⟨את⟩ يعزر ۽ يگبها.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "عتروت-شوفان"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "عتروت"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "شوفان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "يعزر"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "يعزر"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "۽ يگبها"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:13.931661944Z",
+  "model": "glm-5.3"
+}

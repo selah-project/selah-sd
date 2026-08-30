@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ شڪم جي مينارن جا سڀ مالڪ ٻڌيائون، ۽ ايل-بريت جي گھر جي مضبوط ڪوٺيءَ ۾ داخل ٿيا.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "۽ ٻڌيائون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "مالڪ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "مينارن جا"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شڪم"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "۽ داخل ٿيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "مضبوط ڪوٺي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:43:50.546835700Z",
+  "model": "glm-5.3"
+}

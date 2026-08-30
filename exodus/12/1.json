@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ياهوه موشي ۽ اهارون سان ڳالھيائي متسرايم جي ملڪ ۾، چوندو،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ ڳالھيائي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملڪ ۾"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:00:34.599414375Z",
+  "model": "glm-5.3"
+}

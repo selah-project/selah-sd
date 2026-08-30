@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "سندن گوشت نه کائو ۽ سندن لاش تي هٿ نه لڳايو؛ اُهي توهان لاءِ نجِس آهن.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "سندن گوشت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائو"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "۽ سندن لاش"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "هٿ لڳايو"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "نجِس"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اُهي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:45.602508599Z",
+  "model": "glm-5.3"
+}

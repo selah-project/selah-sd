@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 4:45",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "اھي مراري جي پٽن جي خاندانن جي ڳڻپ وارا آھن، جن کي موشي ۽ اهارون ياهوه جي حڪم سان موشي جي ھٿ ذريعي ڳڻيو.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ڳڻپ وارا"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانن جي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراري"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن کي"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ڳڻيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "۽ اهارون"
+    },
+    {
+      "surface": "על",
+      "gloss": "مطابق"
+    },
+    {
+      "surface": "פי",
+      "gloss": "حڪم سان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ھٿ ذريعي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:49.828638736Z",
+  "model": "glm-5.3"
+}

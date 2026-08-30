@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 128,
+  "translation": "ڏس، بيشڪ ائين ئي برڪت ڏنو ويندو اھو ماڻھو جيڪو ياهوه کان ڊنڊو آھي۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين ئي"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برڪت ڏنو ويندو"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڊنڊو آھي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:17.553735010Z",
+  "model": "glm-5.3"
+}

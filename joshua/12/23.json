@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "دور جي نپٿ ۾ دور جو بادشاهه هڪ، گلgal جي قومن جو بادشاهه هڪ —",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "جي بادشاهه"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دور"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "جي نپٿ ۾"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دور"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "جي بادشاهه"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "گلگل ۾"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:10.382744629Z",
+  "model": "glm-5.3"
+}

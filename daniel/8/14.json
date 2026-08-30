@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ چيائين مون کي: شام ۽ صبح تائين ٻه هزار ۽ ٽي سؤ؛ پوءِ مقدس جاءِ نبڙي ويندي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ٻه هزار"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "نبڙي ويندي"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس جاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:59:38.044823782Z",
+  "model": "glm-5.3"
+}

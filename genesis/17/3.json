@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ ابرام پنھنجي منھن تي ڪري پيو، ۽ ايلوهيم ⟨את⟩ ساڻس ڳالھايو، چوندو:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "۽ ڪري پيو"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "پنھنجي منھن"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالھايو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ساڻس"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:51.800122107Z",
+  "model": "glm-5.3"
+}

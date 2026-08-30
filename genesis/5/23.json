@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ حنوخ جا سڀ ڏينهن پنج ۽ سٺ سال ۽ ٽي سؤ سال ٿيا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حنوخ جا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "۽ سٺ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:04.752936120Z",
+  "model": "glm-5.3"
+}

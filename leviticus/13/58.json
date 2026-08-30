@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "leviticus 13:58",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ڪپڙو يا تانو يا وڻو يا ڪوبه چمڙي جو ٺھيل شيءِ جيڪو ⟨توهان⟩ ڌوئو ۽ ناسور ان مان هليو وڃي، ته ٻيهر ڌوئجي ۽ پاڪ ٿي پوندو.",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "۽ ڪپڙو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "تانو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "وڻو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ٺھيل شيءِ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "چمڙي جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "توهان ڌوئو"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "۽ هليو وڃي"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ان مان"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ناسور"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ڌوئجي"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ٻيهر"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "۽ پاڪ ٿيڻو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:27.944060771Z",
+  "model": "glm-5.3"
+}

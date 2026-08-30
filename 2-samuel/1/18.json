@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 1:18",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ سکائڻ لاءِ چيائين يهودا جي پٽن کي قوس — ڏسو، اهو لکيل آهي يشار جي ڪتاب تي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "سکائڻ لاءِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا جي"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "قوس"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "لکيل آهي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ڪتاب"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "يشار جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:17:02.498089812Z",
+  "model": "glm-5.3"
+}

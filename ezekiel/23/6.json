@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 23:6",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "نيرو رنگ پهريل گورنر ۽ حاڪم، پسند جا جووان سڀ، گهوڙن تي هليندڙ سوار.",
+  "tokens": [
+    {
+      "surface": "לבשי",
+      "gloss": "پهريل"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "نيرو رنگ"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "گورنر"
+    },
+    {
+      "surface": "וסגנים",
+      "gloss": "۽ حاڪم"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "جووان"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "پسند جا"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "سوار"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "هليندڙ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گهوڙن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:35:13.770704607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ اھي نوح جي پٽن جون نسل لڪيرون آھن — شيم، حام ۽ يافت — ۽ طوفان کان پوءِ انھن کي پٽ ڄايا.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نسل لڪيرون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جون"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شيم"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "۽ يافت"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "ڄايا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انھن کي"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "طوفان کان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:44.825097717Z",
+  "model": "glm-5.3"
+}

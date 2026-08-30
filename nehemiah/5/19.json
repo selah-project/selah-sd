@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "منھنجو ايلوهيم! مون لاءِ ڀلائيءَ سان ياد ڪر، سڀ جيڪو مون هن ماڻھن لاءِ ڪيو.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "ياد ڪر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منھنجي لاءِ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "منھنجو ايلوهيم"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ڀلائيءَ سان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "مون ڪيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "هن ماڻھن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:06:22.939219595Z",
+  "model": "glm-5.3"
+}

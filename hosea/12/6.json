@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ياهوه، فوجن جو ايلوهيم — ياهوه ⟨هو⟩ سندس يادگار ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "۽ ياهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "جو ايلوهيم"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "فوجن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "سندس يادگار"
+    }
+  ],
+  "timestamp": "2026-08-30T12:46:03.385203551Z",
+  "model": "glm-5.3"
+}

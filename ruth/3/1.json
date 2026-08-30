@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 3:1",
+  "book": "ruth",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ نعومي سندس ساسُ چيس: „ڀيڻُ مون تو لاءِ آرام جي ڳول نه ڪريان، جيڪو توکي چڱو ٿئي؟“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "چيس"
+    },
+    {
+      "surface": "לה",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "نعومي"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "ساسُ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ڀيڻُ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ڇا نه"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ڳول ڪريان"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "چڱو ٿئي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:26.623654518Z",
+  "model": "glm-5.3"
+}

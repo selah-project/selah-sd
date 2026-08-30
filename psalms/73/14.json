@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 73,
+  "translation": "۽ مون سڄو ڏينھن ستايل ٿي رھيو، ۽ منھنجو ٺاپلوڙو هر صبح.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "۽ مون ٿيس"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "ستايل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "۽ منھنجو ٺاپلوڙو"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "هر صبح"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:26.672117288Z",
+  "model": "glm-5.3"
+}

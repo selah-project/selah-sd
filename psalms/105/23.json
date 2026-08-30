@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "۽ اسرائيل متسرايم ۾ آيو، ۽ يَعقوب حام جي زمين ۾ پرچو ٿيو.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "۽ آيو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم ۾"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "۽ يَعقوب"
+    },
+    {
+      "surface": "גר",
+      "gloss": "پرچو ٿيو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "۾ زمين"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:13.117522185Z",
+  "model": "glm-5.3"
+}

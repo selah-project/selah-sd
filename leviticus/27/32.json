@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ ڍورن ۽ رڍن جو سڀ ڏهون حصو — جيڪو به ٺٺي هيٺان لنگهندو، ڏهون ياهوه لاءِ پاڪ هوندو.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ڏهون حصو"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍورن"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "۽ رڍن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جيڪو به"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "لنگهندو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺان"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "ٺٺي"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ڏهون"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندو"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:32.315978127Z",
+  "model": "glm-5.3"
+}

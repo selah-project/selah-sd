@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ يوشَعَع ⟨את⟩ قوم جي آفيسرن کي حڪم ڪيو ته چئو:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "۽ حڪم ڪيو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يوشَعَع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم جي آفيسرن"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "آفيسرن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم جي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته چئو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:41:50.689009899Z",
+  "model": "glm-5.3"
+}

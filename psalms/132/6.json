@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 132,
+  "translation": "ڏسو، اسين اِها اَفراتہ ۾ ٻُڌي، جَنگَل جي پوڙن ۾ ڳولي ورتي.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "اسين اِها ٻُڌي"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "اَفراتہ ۾"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "ڳولي ورتي"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "پوڙن ۾"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جَنگَل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:33.146249128Z",
+  "model": "glm-5.3"
+}

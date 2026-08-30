@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ياهوه ايلوهيم ماڻھوءَ کي سڏيو ۽ مٿس چيائين: تون ڪٿي آھين؟",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-کي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻھوءَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ڪٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:13.908400501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڪِرڻين ۾ مون جون رڳون هيٺ ڪيائين، پنهنجي تيرن جون.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "هيٺ ڪيائين (داخل ڪيائين)"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "مون جي ڪِرڻين ۾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پنهنجي تيرن جون"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "پنهنجي تيردان جون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:07.739554610Z",
+  "model": "glm-5.3"
+}

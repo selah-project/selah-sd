@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ياهوه موشي سان ڳالھايو، چوندو۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالھايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאمר",
+      "gloss": "چوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:53.281646041Z",
+  "model": "glm-5.3"
+}

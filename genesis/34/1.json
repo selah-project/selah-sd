@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "پوءِ دينا، لياه جي ڌيءَ، جا هن ياعقوب کي ڄڻي هئي، نڪري ٻاهر آئي ملڪ جون ڌيئر ڏسڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "نڪري ٻاهر آئي"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دينا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لياه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ڄڻي هئي"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ياعقوب کي"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ڏسڻ لاءِ"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "ڌيئر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملڪ جون"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:33.152793340Z",
+  "model": "glm-5.3"
+}

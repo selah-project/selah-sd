@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 55,
+  "translation": "شام ۽ صبح ۽ ٽڙي ڪندس ۽ هماه ڪندس، ۽ ⟨هو⟩ منھنجي آواز ٻُڌو.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "۽ صبح"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "۽ ٽ"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ٽڙي ڪندس"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "۽ هماه ڪندس"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "۽ ٻُڌو"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "منھنجي آواز"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:18.629798288Z",
+  "model": "glm-5.3"
+}

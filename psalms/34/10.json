@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "ڊڄو ⟨את⟩ ياهوه کي، اي سندس پاڪئن! ڇوته سندس ڊڄڻ وارن کي ڪوبه کٽ ڪونهي.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ڊڄو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "سندس پاڪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ڪونهي"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "کٽ"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "سندس ڊڄڻ وارن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:18.859973281Z",
+  "model": "glm-5.3"
+}

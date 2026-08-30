@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ اوھين ياهوه جي ڀيڙي کي ⟨את⟩ هن بيابان ۾ ڇو آندو، جو اسان ۽ اسان جا مال اُتي مئون؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "آندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جي ڀيڙي"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ڀيڙي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بيابان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مئون"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسان"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "۽ اسان جا مال"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:15.387627936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 13:16",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "هو به مون لاءِ نجات ٿيندو، ڇو تہ منافق سندس اڳيان نه اچي سگهندو.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "نجات لاءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو تہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "سندس اڳيان"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "منافق"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اچي سگهندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:13.962881331Z",
+  "model": "glm-5.3"
+}

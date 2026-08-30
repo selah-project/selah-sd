@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 22:9",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "تو ۾ چغلخور ماڻهن رت وهائڻ لاءِ ڪم ڪيو، ۽ تو ۾ جبلن تي کاڌو، تو جي وچ ۾ بي حيائي ڪيائون.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "چغلخور"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تو ۾"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "وهائڻ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ۾"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "جبلن تي"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "کاڌو"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تو ۾"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "بي حيائي"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪيائون"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "تو جي وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:34:08.462760988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ته موَشي پره وچومان کان نڪتو ۽ ياهوه وٽ التجا ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نڪتو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موَشي"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "وچومان کان"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پره"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "التجا ڪيائين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:00:01.686435316Z",
+  "model": "glm-5.3"
+}

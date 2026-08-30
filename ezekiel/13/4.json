@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 13:4",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "اسرائيل، تنهنجا نبي سُڪلن جايَن ۾ لومڙين وانگر ٿي ويا.",
+  "tokens": [
+    {
+      "surface": "כשעלים",
+      "gloss": "لومڙين وانگر"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "سُڪلن جايَن ۾"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "تنهنجا نبي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ٿي ويا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:29:45.653521743Z",
+  "model": "glm-5.3"
+}

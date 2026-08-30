@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 37:22",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "اُتر مان سون جهڙو چمڪ اچي ٿو؛ ايلوهه وٽ خوفناڪ جلال ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "מצפון",
+      "gloss": "اُتر مان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جهڙو چمڪ"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "על",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ايلوهه"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "خوفناڪ"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "جلال"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:23.021392752Z",
+  "model": "glm-5.3"
+}

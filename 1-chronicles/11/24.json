@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "هي ڪم ڪيائين بِنياهو، پُٽ يِهويداع جي، ۽ کيس نالو هو ٽن سورمن ۾.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيائين"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بِنياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "يِهويداع"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "۽ کيس"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "ٽن ۾"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "سورمن"
+    }
+  ],
+  "timestamp": "2026-08-30T15:11:36.493809171Z",
+  "model": "glm-5.3"
+}

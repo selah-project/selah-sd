@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "داويد جو زمزمو، ياهوه مھارو آھي، مان ڪجھه به نه وندس.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "زمزمو"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داويد جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "مھارو آھي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "وندس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:38.105989540Z",
+  "model": "glm-5.3"
+}

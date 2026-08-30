@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 3:6",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "اُھا رات — انديري کڻي وٺي؛ اُھا ورھ جي ڏينھن ۾ خوش نه ٿئي، مهينن جي ڳڻپ ۾ نه اچي.",
+  "tokens": [
+    {
+      "surface": "הלילה",
+      "gloss": "اُھا رات"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُھو"
+    },
+    {
+      "surface": "יקחهו",
+      "gloss": "کڻي وٺي"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "انديري"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "خوش ٿئي"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ڏينھن ۾"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھ جي"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ڳڻپ ۾"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "مهينن جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "اچي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:34:04.452881656Z",
+  "model": "glm-5.3"
+}

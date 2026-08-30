@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 36:19",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ سردارَن باروخ کي چيو: وڃ، پاڻ لڪاءِ — تون ۽ يرمياهو — ۽ ڪوبه ماڻهو نه ڄاڻي ته توهان ڪٿي آهيو.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سردارَن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "لڪاءِ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "וירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ڪوبه ماڻهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻي"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ڪٿي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:19:55.207286681Z",
+  "model": "glm-5.3"
+}

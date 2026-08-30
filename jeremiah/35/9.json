@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 35:9",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ نہ ٺاھڻ لاءِ رھڻ جا گهر، ۽ انگوري باغ ۽ ٻني ۽ ٻج اسان لاءِ نہ ٿيندو.",
+  "tokens": [
+    {
+      "surface": "ולבלתי",
+      "gloss": "نہ لاءِ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ٺاھڻ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "לשבתנו",
+      "gloss": "اسان جي رھڻ لاءِ"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "۽ انگوري باغ"
+    },
+    {
+      "surface": "ושדה",
+      "gloss": "۽ ٻني"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "۽ ٻج"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:18:22.146564300Z",
+  "model": "glm-5.3"
+}

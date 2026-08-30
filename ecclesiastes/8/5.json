@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "حڪم جي رکوالو ⟨ٿو⟩ ڪوبه بُرو ڪم نه ڄاڻي، ۽ وقت ۽ فيصلي کي دل جو دانا ڄاڻي ٿو.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "رکوالو"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻي ٿو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "۽ وقت"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "۽ فيصلو"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻي ٿو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:53.286188471Z",
+  "model": "glm-5.3"
+}

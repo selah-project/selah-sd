@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 25:26",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ جيڪڏھن ڪنھن ماڻھوءَ جو ڪوبه وصولي ڪندڙ نه ھجي، ۽ سندس ھٽي وڃي ۽ پنھنجي وصوليءَ جيترو لهي،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ڪنھن ماڻھوءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ھجي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "وصولي ڪندڙ"
+    },
+    {
+      "surface": "והשיגה",
+      "gloss": "۽ پھچي"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "سندس ھٿ"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "۽ لهي"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "جيترو"
+    },
+    {
+      "surface": "גאלתו",
+      "gloss": "پنھنجي وصوليءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:25.477849494Z",
+  "model": "glm-5.3"
+}

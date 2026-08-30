@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 23:1",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ بلعم چيو بالق کي: مون لاءِ هن جاءِ ۾ ست قربانگاهون ٺاهه، ۽ مون لاءِ هن جاءِ ۾ ست ڏاند ۽ ست رڪٻيون تيار ڪر.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالق"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ٺاهه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "هن جاءِ ۾"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "قربانگاهون"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "تيار ڪر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "هن جاءِ ۾"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "رڪٻيون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:40.505611720Z",
+  "model": "glm-5.3"
+}

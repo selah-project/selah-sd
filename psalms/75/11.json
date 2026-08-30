@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 75,
+  "translation": "۽ بدڪارن جا سڀ سنگ آءٌ ڇڪي ڪٽندس؛ نيڪن جا سنگ مٿي کڻيا ويندا.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدڪارن جا"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "آءٌ ڇڪي ڪٽندس"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "مٿي کڻيا ويندا"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "سنگ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪن جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:09.570277782Z",
+  "model": "glm-5.3"
+}

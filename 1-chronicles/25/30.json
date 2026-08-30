@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 25:30",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ٽئويھين محزيوتءَ کي، سندس پٽن ۽ سندس ڀائرن سان، ٻارهن;",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "ٽئويھين"
+    },
+    {
+      "surface": "وעשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "למחזיאות",
+      "gloss": "محزيوتءَ کي"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽن"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "سندس ڀائرن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻارهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ٽين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:26.369502495Z",
+  "model": "glm-5.3"
+}

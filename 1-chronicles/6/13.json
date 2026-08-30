@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ شموئيل جا پٽ: پھروند ۽ ٻيو (وشني) ۽ ابيا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "پھروند"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "۽ ٻيو (وشني)"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "۽ ابيا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:59.877838111Z",
+  "model": "glm-5.3"
+}

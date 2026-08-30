@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 81,
+  "translation": "ڳاءُ کڻو گيت، ۽ وڄايو ڈهول، مٺو سارنگي ۽ نبل (ڊگهو ساز).",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "کڻو"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "۽ وڄايو"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ڈهول"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "سارنگي"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "مٺو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نبل (ڊگهو ساز)"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:02.759324896Z",
+  "model": "glm-5.3"
+}

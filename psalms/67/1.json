@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 67,
+  "translation": "موڳري لاءِ، تارين سان؛ هڪ مزمور، هڪ گيت۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "موڳري لاءِ"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "تارين سان"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:45.735974514Z",
+  "model": "glm-5.3"
+}

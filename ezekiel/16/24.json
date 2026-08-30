@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 16:24",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ توءِ پاڻ لاءِ هڪ گنبد ٺاھيو ۽ پاڻ لاءِ هر چوڪ ۾ اُچو مڙتو بنايو.",
+  "tokens": [
+    {
+      "surface": "ותבני",
+      "gloss": "۽ توءِ ٺاھيو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "גב",
+      "gloss": "گنبد"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "۽ توءِ بنايو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لءِ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "اُچو مڙتو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "چوڪ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:31:19.021850656Z",
+  "model": "glm-5.3"
+}

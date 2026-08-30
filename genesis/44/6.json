@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "۽ انهن کي پڙي ورتائين ۽ انهن سان ⟨את⟩ اِهي ڳالهيون ڪيائين.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "انهن کي پڙي ورتائين"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڪيائين"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انهن سان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِهي ڳالهيون"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالهيون"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اِهي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:08.287234595Z",
+  "model": "glm-5.3"
+}

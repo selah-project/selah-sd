@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پڄاڻي آئي، پڄاڻي آئي؛ ⟨هو⟩ تنهنجي لاءِ جاڳي آهي — ڏسو، اچي رهي ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "پڄاڻي"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آئي"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آئي"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "پڄاڻي"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "جاڳي آهي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تنهنجي لاءِ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "באה",
+      "gloss": "اچي رهي آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:27:25.555732198Z",
+  "model": "glm-5.3"
+}

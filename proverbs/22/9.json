@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ٻڌ اکيولڙو ماڻهو ⟨هو⟩ مبارڪ ٿيندو، ڇوته پنهنجي ماني مان غريب کي ڏيندو آهي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ٻڌ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکيولڙو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "مبارڪ ٿيندو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏيندو آهي"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "پنهنجي ماني مان"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "غريب کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:14.782119266Z",
+  "model": "glm-5.3"
+}

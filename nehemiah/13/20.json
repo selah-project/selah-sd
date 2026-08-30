@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 13:20",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ واپارين ۽ هر قسمرچن جي وڪendar يروشلم کان ٻاهر هڪ ٻه ڀيرا رات لنگهي ويا.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "رات لنگهي ويا"
+    },
+    {
+      "surface": "הרכלين",
+      "gloss": "واپارين"
+    },
+    {
+      "surface": "ומכרי",
+      "gloss": "۽ وڪenderن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر قسمرچن جي"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "مارچن جي"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "کان ٻاهر"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "هڪ ڀيرا"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "۽ ٻه ڀيرا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:38.940130403Z",
+  "model": "glm-5.3"
+}

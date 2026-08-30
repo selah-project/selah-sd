@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ اھي آھن جن کي داويد بيت ياهوه ۾ گيت جي خدمت تي بيهاريو، صندوق جي آرام کان پوءِ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "بيهاريو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "خدمت (ھٿ)"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "آرام کان پوءِ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:59.887741314Z",
+  "model": "glm-5.3"
+}

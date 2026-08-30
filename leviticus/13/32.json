@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ستين ڏينھن ڪھنڏ ڏسي ⟨את⟩ ناسور، ۽ ڏسو ته نِٽڪ نه پکڙيو آھي ۽ ان ۾ پيلو وار ناھي، ۽ نِٽڪ جو ڏيک کل کان اونھو ناھي —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏسي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪھنڏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناسور"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ناسور"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پکڙيو"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نِٽڪ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آھي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "שער",
+      "gloss": "وار"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "پيلو"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "۽ ڏيک"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نِٽڪ جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناھي"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "اونھو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "העור",
+      "gloss": "کل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:59.786949655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ بت-شبع چيو، سٺو، آءٌ تنهنجي لاءِ بادشاهه سان ڳالهائيندس.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبع"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "سٺو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ڳالهائيندس"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تنهنجي لاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:28:16.880146127Z",
+  "model": "glm-5.3"
+}

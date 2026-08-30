@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 35:24",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "ته جماعت فيصلو ڪري مارڻھار ۽ رت جي گوئل جي وچ ۾، انھن قانونن موجب.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "ته فيصلو ڪري"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "مارڻھار"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ ... وچ ۾"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "گوئل"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رتو جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "قانونن"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "انھن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:34.069826483Z",
+  "model": "glm-5.3"
+}

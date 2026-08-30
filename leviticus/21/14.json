@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "بيوَ، ۽ ڇڏيل، ۽ پليت، فحشي — ⟨את⟩ انهن کي نه وٺندو؛ پر ڪنواريءَ کي پنهنجي قوم مان زال وٺندو.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "بيوَ"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "۽ ڇڏيل"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "۽ پليت"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "فحشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انهن کي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "انهن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "وٺندو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "ڪنواريءَ کي"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "پنهنجي قوم مان"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "وٺندو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:57.415066926Z",
+  "model": "glm-5.3"
+}

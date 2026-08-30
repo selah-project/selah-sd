@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 106,
+  "translation": "۽هنن ⟨את⟩ قومن کي ناس نه ڪيو، جن بابت ياهوه هنن کي حڪم ڏنو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ناس ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قومن"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن بابت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "حڪم ڏنو\/چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هنن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:52.633006416Z",
+  "model": "glm-5.3"
+}

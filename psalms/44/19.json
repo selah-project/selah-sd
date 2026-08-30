@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "اسان جو دل پوئتي نه موڙيو، نه اسان جا قدم تنهنجي رستي کان ڏڻا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "پوئتي موڙيو"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پوئتي"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "اسان جو دل"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "ڏڻا"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "اسان جا قدم"
+    },
+    {
+      "surface": "מני",
+      "gloss": "کان"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "تنهنجي رستي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:02:12.288701911Z",
+  "model": "glm-5.3"
+}

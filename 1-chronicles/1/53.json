@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "سردار قناز، سردار تيمان، سردار مبصار.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قناز"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تيمان"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "مبصار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:19.378917864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 102,
+  "translation": "هي پوئينءَ نسل لاءِ لکيو وڃي، ۽ جيڪو قوم پيدا ٿيندو سو ياه جي تعريف ڪري.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "لکيو وڃي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "نسل لاءِ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "پوئينءَ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "۽ قوم"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "پيدا ٿيندو"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "تعريف ڪري"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:19.812672644Z",
+  "model": "glm-5.3"
+}

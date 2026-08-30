@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "darwin جي ھڪ ڪَنڊي جا پرد پندرهن اَمهه ھئا؛ انھن جا کَمبا ٽي ۽ انھن جا بنياد ٽي.",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "پرد"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-ٽن"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمهه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ڏانھن"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "ڪَنڊِ"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "انھن جا کَمبا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "۽ انھن جا بنياد"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:18.877542476Z",
+  "model": "glm-5.3"
+}

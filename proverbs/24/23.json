@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "هي به حڪيمن جي (ڳالهين) مان آهن: فيصلي ۾ مُنهن ڏسڻ ڀلو ناهي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "حڪيمن جي (ڳالهين) مان آهن"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "مُنهن ڏسڻ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مُنهن"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "فيصلي ۾"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:21.263478208Z",
+  "model": "glm-5.3"
+}

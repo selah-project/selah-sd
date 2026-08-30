@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "jeremiah 50:46",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "بابل جي پڪڙجڻ جي آواز کان زمين ڪپي، ۽ قومن ۾ رڙ ٻڌي ويندي.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "جي آواز کان"
+    },
+    {
+      "surface": "נתפשה",
+      "gloss": "پڪڙجي"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "נרעשה",
+      "gloss": "ڪپي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "וזעקה",
+      "gloss": "۽ رڙ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومن ۾"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ٻڌي ويندي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:39.252612681Z",
+  "model": "glm-5.3"
+}

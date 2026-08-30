@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "پنھنجو عھد مان نه پليسندس، ۽ پنھنجن لسن مان نڪتل کي نه مٽائيندس.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "پليسندس"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "پنھنجو عھد"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "۽ نڪتل کي"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "پنھنجن لسن مان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "مٽائيندس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:17.661753759Z",
+  "model": "glm-5.3"
+}

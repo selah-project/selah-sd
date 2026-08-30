@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 77,
+  "translation": "گهاٽن ڪڪرن پاڻي اُڙڪيو؛ آسمانن آواز ڏنو؛ بلڪَ تنهنجا تير هليا ويا.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "اُڙڪيو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "گهاٽن ڪڪرن"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلڪَ"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "تنهنجا تير"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "هليا ويا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:56.034542406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "پوءِ نوڪر پنھنجي مالڪ ابراهام جي ران هيٺ ⟨את⟩ پنھنجو هٿ رکيو، ۽ هن کي ⟨ה⟩ ان ڳالھ تي قسم ڏنو.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "پوءِ رکيو"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "نوڪر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجو هٿ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "پنھنجو هٿ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ران"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "پنھنجي مالڪ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "۽ قسم ڏنو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ان ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:13.227689641Z",
+  "model": "glm-5.3"
+}

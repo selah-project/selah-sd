@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ آئون يروشلم وٽ آيس ۽ اُتي ٽي ڏينهن رهيس.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "آيس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "رهيس"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:06:23.081285775Z",
+  "model": "glm-5.3"
+}

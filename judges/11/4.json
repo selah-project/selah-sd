@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ڪن ڏينهن کانپوءِ ٿيو ته عمون جي پٽن اسرائيل سان جنگ ڪئي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ڏينهن کانپوءِ"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "۽ جنگ ڪيائون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون جي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T11:02:42.402466053Z",
+  "model": "glm-5.3"
+}

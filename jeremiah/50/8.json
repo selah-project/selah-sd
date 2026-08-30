@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 50:8",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "ڀڄي وڃو بابل جي وچ مان، ۽ ڪلدين جي ملڪ مان نڪري وڃو؛ ۽ ٻڪرين وانگر ٿيو، piecescattle جي اڳيان.",
+  "tokens": [
+    {
+      "surface": "נדו",
+      "gloss": "ڀڄي وڃو"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "جي وچ مان"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "۽ ملڪ مان"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ڪلدين جي"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "نڪري وڃو"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כעתודים",
+      "gloss": "ٻڪرين وانگر"
+    },
+    {
+      "surface": "لפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "piecescattle"
+    }
+  ],
+  "timestamp": "2026-08-30T12:24:24.807861325Z",
+  "model": "glm-5.3"
+}

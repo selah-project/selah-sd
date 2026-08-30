@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ڪَنَ دھر، اي ايوب، مون ٻُڌ؛ ماٺ رھه، ته آءٌ ڳالھائيندس.",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "ڪَنَ دھر"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اي ايوب"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻُڌ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "ماٺ رھه"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ته آءٌ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ڳالھائيندس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:42:35.276080692Z",
+  "model": "glm-5.3"
+}

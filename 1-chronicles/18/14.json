@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 18:14",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ داويد سڄي اسرائيل تي بادشاهي ڪئي، ۽ هو سندس سڀني ماڻهن لاءِ انصاف ۽ راستبازي ڪندو رهيو.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "۽ بادشاهي ڪئي"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪندو رهيو"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "۽ راستبازي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني لاءِ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ماڻهن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:26.315276856Z",
+  "model": "glm-5.3"
+}

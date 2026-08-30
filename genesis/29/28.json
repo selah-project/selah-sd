@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ يعقوب ائين ڪيو، ۽ ان جي ھن ھفتي کي پورو ڪيائين؛ ۽ ⟨لبان⟩ کيس پنھنجي ڌي راحيل کي ⟨את⟩ زال لاءِ ڏني.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "۽ پورو ڪيائين"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ھفتي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ھن"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏني"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راحيل کي"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "پنھنجي ڌي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زال لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:40.462509330Z",
+  "model": "glm-5.3"
+}

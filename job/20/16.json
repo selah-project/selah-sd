@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 20:16",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "افعين جو زهر ٿو چوسي؛ اُفائي جي زبان کيس ماري ٿي.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "افعين جو"
+    },
+    {
+      "surface": "יינק",
+      "gloss": "چوسي ٿو"
+    },
+    {
+      "surface": "תהרגהו",
+      "gloss": "ماري ٿي کيس"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "اُفائي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:39:28.074493742Z",
+  "model": "glm-5.3"
+}

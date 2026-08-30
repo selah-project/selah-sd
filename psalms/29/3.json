@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "ياهوه جو آواز پاڻين تي ⟨آهي⟩؛ جلال جو ايل گجگاه ڪري ٿو؛ ياهوه گھڻن پاڻين تي ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "جلال جو"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "گجگاه ڪري ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻين"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گھڻن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:28.766267084Z",
+  "model": "glm-5.3"
+}

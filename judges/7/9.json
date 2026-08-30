@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 7:9",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ اُنِ راتِ ٿيو، ۽ ياهوه مٿس چيو: اُٿ، لشكر ۾ لَهه وڃ، ڇوته مَون کيس تنهنجي هٿ ۾ ڏنو آهي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "راتِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُنِ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "קום",
+      "gloss": "اُٿ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "لَهه وڃ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "لشكر ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "مون کيس ڏنو"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "تنهنجي هٿ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:59:36.553136261Z",
+  "model": "glm-5.3"
+}

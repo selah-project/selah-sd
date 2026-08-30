@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ قهات جا پُٽ: عمرام، يصهار، حبرون ۽ عُزيائيل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پُٽ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عمرام"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "۽ يصهار"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "۽ حبرون"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "۽ عُزيائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:39.730754342Z",
+  "model": "glm-5.3"
+}

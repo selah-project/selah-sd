@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ اهي سڪوت کان روانا ٿيا ۽ ايتام ۾ ڪڍيا، جيڪو بيابان جي ڪناري تي آهي.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "سڪوت"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڪڍيا ويا"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ايتام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ڪناري تي"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بيابان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:07.831512227Z",
+  "model": "glm-5.3"
+}

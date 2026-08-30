@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 33:28",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ رھندو يِسرائيل امن ۾، الڳ؛ يَعقُب جي چشمي، اناج ۽ نئون شراب جي زمين ڏانهن؛ بلڪ سندس آسمان ڇڻائيندا شبنم.",
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "۽ رھندو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "امن ۾"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "الڳ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشمي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يَعقُب جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "اناج"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "۽ نئون شراب"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلڪ"
+    },
+    {
+      "surface": "שמיו",
+      "gloss": "سندس آسمان"
+    },
+    {
+      "surface": "יערפו",
+      "gloss": "ڇڻائيندا"
+    },
+    {
+      "surface": "טל",
+      "gloss": "شبنم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:39.569574385Z",
+  "model": "glm-5.3"
+}

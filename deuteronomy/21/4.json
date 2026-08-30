@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ان شهر جا بزرگ ⟨את⟩ ڳئن کي هڪ سدائين وهندڙ نئي تائين لهائن، جنهن ۾ نه ٻني ٿئي ۽ نه پوک ٿئي، ۽ اُتي نئي ۾ ⟨את⟩ ڳئن جي دري ڪن.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "لهائن"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر جا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڳئن کي"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ڳئن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نئي"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "سدائين وهندڙ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن ۾"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ٻني ٿئي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "پوک ٿئي"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "دري ڪن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڳئن جي"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ڳئن"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "نئي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:31.014956511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "تو ئي ⟨آهين⟩ منھنجو بادشاھ، ايلوهيم؛ ياقوب جون نجاتون حڪم ڪر۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئي"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "منھنجو بادشاھ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪر"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "نجاتون"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ياقوب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:09.326198957Z",
+  "model": "glm-5.3"
+}

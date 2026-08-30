@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ مَنُن اوھان کي چيو: ڊَڄو نه، نه اوھان انھن کان خوف کائو.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "۽ مَنُن چيو"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "اوھان کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "ڊَڄو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "خوف کائو"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "انھن کان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:43.260030202Z",
+  "model": "glm-5.3"
+}

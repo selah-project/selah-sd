@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "مون کان هليو وڃو، سڀڪنهن بيڪاري جي ڪندڙ، ڇوته ياهوه مون جي روئڻ جي آواز ٻڌو آهي.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "هليو وڃو"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مون کان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀڪنهن"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "جي ڪندڙ"
+    },
+    {
+      "surface": "און",
+      "gloss": "بيڪاري"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌو آهي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "مون جي روئڻ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:58:43.047561433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ شلومو جي خوراڪ هڪ ڏينهن لاءِ ٽيهه ڪور صاف اٽو ۽ سٺ ڪور ڪُٽيل اٽو هئي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ هئي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خوراڪ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو جي"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ڏينهن لاءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "כר",
+      "gloss": "ڪور"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "صاف اٽو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "۽ سٺ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "ڪور"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "ڪُٽيل اٽو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:30:04.411658875Z",
+  "model": "glm-5.3"
+}

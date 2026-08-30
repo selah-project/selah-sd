@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "پنھنجي ڍڪ لاءِ چئن ڪنڊن تي، ان ڪپڙي جي جنهن سان پاڻ ڍڪيو ٿا، ڳنڊيل تندون پاڻ ٺاهيو.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "ڳنڊيل تندون"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ٺاهيو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چئن"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "ڪنڊن"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "پنھنجي ڍڪ (ڪپڙي) جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ڍڪيو ٿا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:29.759961005Z",
+  "model": "glm-5.3"
+}

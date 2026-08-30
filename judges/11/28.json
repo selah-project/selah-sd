@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 11:28",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "پر عمون جي پٽن جي بادشاهه يفتاح جي ان لفظن تي ڪن نه ڌيو، جيڪي هن وٽس موڪليا.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "پر... نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ڪن ڌيو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظن"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "يفتاح جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "موڪليا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "وٽس"
+    }
+  ],
+  "timestamp": "2026-08-30T11:02:33.747026149Z",
+  "model": "glm-5.3"
+}

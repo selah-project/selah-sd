@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ياهوه جي fear سان ٿورو چڱو آھي، وڏي خزاني کان ۽ ان ۾ گڏڀاڱي کان.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ٿورو"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "جي fear ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "خزاني کان"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "۽ گڏڀاڱي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:55.756000285Z",
+  "model": "glm-5.3"
+}

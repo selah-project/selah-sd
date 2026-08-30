@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 1:27",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ان جا ڳڻپ ٿيل، يھوداھ قبيلي لاءِ، چار ۽ ستر ھزار ۽ ڇھ سؤ.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ان جا ڳڻپ ٿيل"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي لاءِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يھوداھ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "۽ ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ ڇھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:19.492577598Z",
+  "model": "glm-5.3"
+}

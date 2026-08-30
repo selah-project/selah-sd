@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ انھن ⟨את⟩ عماليق جي بچڻ وارن جي بقا ماريائون، ۽ اُتي ھن ڏينھن تائين رھيا.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ماريائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عماليق جي بچڻ وارن جي بقا"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "بقا"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "بچڻ وارن جي"
+    },
+    {
+      "surface": "לעמלק",
+      "gloss": "عماليق جي"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "رھيا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ھن ڏينھن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:15.645243711Z",
+  "model": "glm-5.3"
+}

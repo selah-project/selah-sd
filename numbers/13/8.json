@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "افرايم قبيلي لاءِ هوشع بن نون.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي لاءِ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرايم"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "هوشع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:31.099349939Z",
+  "model": "glm-5.3"
+}

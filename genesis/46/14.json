@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "۽ زبولُن جا پُٽ: سيرد، ايلون ۽ يحلائل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پُٽ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولُن"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "سيرد"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "۽ ايلون"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "۽ يحلائل"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:54.112114012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "متع ۽ ڪوڙي لفظ کي مون کان پري ڪر؛ ڏک ۽ مالداري مون کي نه ڏي؛ مون کي منھنجي حصي جو کاڌو کاراءِ.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "متع"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "۽ لفظ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ڪوڙي"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "پري ڪر"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مون کان"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ڏک"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "۽ مالداري"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "کاراءِ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "کاڌو"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "منھنجي حصي جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:55.126450Z",
+  "model": "glm-5.3"
+}

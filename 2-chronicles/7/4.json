@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ بادشاھ ۽ سڀ ماڻھن ياهوه جي اڳيان قرباني پيش ڪري رھيا هئا.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "۽ بادشاھ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "قرباني ڏي رھيا هئا"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:21:59.175760910Z",
+  "model": "glm-5.3"
+}

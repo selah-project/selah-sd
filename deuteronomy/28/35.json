@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 28:35",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ياهوه توکي خراب ڦوڙن سان ماريندو گوڏن ۽ سڏن تي، جن کان تو شفا نه لهي سگهندين، پنڍي کان وٺي سِر تائين.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "توکي ماريندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "ڦوڙن سان"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراب"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הברכים",
+      "gloss": "گوڏن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "השקים",
+      "gloss": "سڏن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "تو سگهندين"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "شفا وٺڻ"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "تلي کان"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پنڍي"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ تا"
+    },
+    {
+      "surface": "קדקדך",
+      "gloss": "سِر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:07.194806273Z",
+  "model": "glm-5.3"
+}

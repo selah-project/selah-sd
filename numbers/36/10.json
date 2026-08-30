@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "جيئن ياهوه ⟨את⟩ موشي کي حڪم ڪيو، تيئن صلفحد جون ڌيئرن ڪيو.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيئرن"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "صلفحد"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:03.028349772Z",
+  "model": "glm-5.3"
+}

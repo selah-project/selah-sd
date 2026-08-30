@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 74,
+  "translation": "عهد ڏس: ڪارڻ زمين جون اونداهيون جايون ظلم جي رهاڪن سان ڀريون آهن.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "عهد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڪارڻ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ڀريون آهن"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "اونداهيون جايون"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جون"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "رهاڪن"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:56.241753651Z",
+  "model": "glm-5.3"
+}

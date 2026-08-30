@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 4:7",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ان جا نذير برف کان صاف، کير کان اجهاڻا هئا؛ منهن موتيان کان ڳاڙها هئا؛ سندن شڪل نيلم جيجهڙي هئي.",
+  "tokens": [
+    {
+      "surface": "זכו",
+      "gloss": "صاف هئا"
+    },
+    {
+      "surface": "נזיריה",
+      "gloss": "ان جا نذير"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "برف کان"
+    },
+    {
+      "surface": "צחו",
+      "gloss": "اجهاڻا هئا"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "کير کان"
+    },
+    {
+      "surface": "אדמו",
+      "gloss": "ڳاڙها هئا"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "موتيان کان"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "نيلم"
+    },
+    {
+      "surface": "גזרתם",
+      "gloss": "سندن شڪل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:10.865835545Z",
+  "model": "glm-5.3"
+}

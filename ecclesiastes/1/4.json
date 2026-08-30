@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "نسل وڃي ٿو ۽ نسل اچي ٿو، پر زمين هميشه لاءِ قائم رھي ٿي.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "وڃي ٿو"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "۽ نسل"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "پر زمين"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشه لاءِ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "قائم رھي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:14.130901686Z",
+  "model": "glm-5.3"
+}

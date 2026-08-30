@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 24:6",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "تنهنڪري لعنت ⟨the⟩ زمين کي کائي وئي، ۽ ان ۾ رهندڙ ڏوهي ٿي ويا؛ تنهنڪري زمين جا رهواسي سڙي ويا، ۽ ماڻهو ٿورا ئي بچيا.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تنهن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "کائي وئي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين کي"
+    },
+    {
+      "surface": "ויאשמו",
+      "gloss": "۽ ڏوهي ٿي ويا"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رهندڙ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنهن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "חרו",
+      "gloss": "سڙي ويا"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رهواسي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جا"
+    },
+    {
+      "surface": "ונשאר",
+      "gloss": "۽ بچيا"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "ٿورا ئي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:53:51.992170265Z",
+  "model": "glm-5.3"
+}

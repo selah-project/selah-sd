@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ انهن سان پرڻو نه ڪرين؛ پنھنجي ڌيءَ کي سندس پٽ لاءِ نه ڏينں ۽ سندس ڌيءَ کي پنھنجي پٽ لاءِ نه وٺين.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "پرڻو ڪرين"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انهن سان"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "پنھنجي ڌيءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ڏينں"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "سندس پٽ لاءِ"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "۽ سندس ڌيءَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "وٺين"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "پنھنجي پٽ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:38:38.973369767Z",
+  "model": "glm-5.3"
+}

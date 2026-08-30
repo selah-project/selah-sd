@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ⟨את⟩ سmbH سپل سمورو لوٺ ۽ ⟨את⟩ سمورو مال غنيمت ورتائون، ماڻهن ۾ ۽ چوپاين ۾.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ورتائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سمورو لوٺ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سمورو"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "لوٺ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سمورو غنيمت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سمورو"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "غنيمت"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ماڻهن ۾"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "۽ چوپاين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:21.374952518Z",
+  "model": "glm-5.3"
+}

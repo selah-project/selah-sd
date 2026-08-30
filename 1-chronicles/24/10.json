@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ستون هاکوز لاءِ، اٺون ابيہ لاءِ۔",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "هاکوز لاءِ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ابيہ لاءِ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اٺون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:56.680523785Z",
+  "model": "glm-5.3"
+}

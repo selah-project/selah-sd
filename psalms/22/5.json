@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "توتي ئي اسان جا پيءُ توڪل ڪيو؛ توڪل ڪيو ۽ تون کين ڇڏايو.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "توتي ئي"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "توڪل ڪيو"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "اسان جا پيءُ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "توڪل ڪيو"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "۽ تون کين ڇڏايو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:48.164675027Z",
+  "model": "glm-5.3"
+}

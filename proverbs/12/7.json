@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "بد ڏنڊا وڃي ٿي ٿين ۽ ⟨هو⟩ نٿا رھن، پر صداقت وارن جو گھر بيهندو.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "ڏنڊا وڃي ٿي ٿين"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بد"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "پر نٿا رھن"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "پر گھر"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صداقت وارن جو"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "بيهندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:05.211732586Z",
+  "model": "glm-5.3"
+}

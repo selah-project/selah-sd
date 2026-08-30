@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 118,
+  "translation": "ياهوه ۾ پناهه وٺڻ سگهارن تي ڀاڙڻ کان چڱو آهي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو آهي"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "پناهه وٺڻ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه ۾"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ڀاڙڻ کان"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "سگهارن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:43.117357586Z",
+  "model": "glm-5.3"
+}

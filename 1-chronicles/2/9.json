@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ چتران جا پٽ جيڪي کانس پيدا ٿيا: ⟨את⟩ يرحميل ۽ ⟨את⟩ رام ۽ ⟨את⟩ كلوبي.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "چتران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "پيدا ٿيا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کانس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يرحميل"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "يرحميل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "رام"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "كلوبي"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "كلوبي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:49.310909470Z",
+  "model": "glm-5.3"
+}

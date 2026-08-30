@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 20:13",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "اھي مريبه جا پاڻي ⟨آھن⟩، جنھن ۾ يسرائيل جي پٽن ⟨את⟩ ياهوه سان تڪرار ڪيو، ۽ هو انھن ۾ پاڪ ٿيو۔",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "مريبه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنھن ۾"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "تڪرار ڪيو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "پاڪ ٿيو"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انھن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:04.658449514Z",
+  "model": "glm-5.3"
+}

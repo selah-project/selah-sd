@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "مون ياهوه سان چيو: تون ادوناي آھين؛ مون جو ڀلو مَڃت تنھنجي کان ٻاھر ناھي.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "مون چيو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه سان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "مون جو ڀلو"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ناھي"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تنھنجي کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:00.749465578Z",
+  "model": "glm-5.3"
+}

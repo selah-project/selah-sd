@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ايفرايِم مُٺو آھي بتَن سان؛ کي ڇڏي ڏيو.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "مُٺو آھي"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "بتَن"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ايفرايِم"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "ڇڏي ڏيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:59:37.872983631Z",
+  "model": "glm-5.3"
+}

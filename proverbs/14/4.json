@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "جتي ڍڳا نه آهن، اتي ڀاڻيو خالي آهي، ۽ ڍڳي جي طاقت سان گهڻي پيداوار ٿيندي آهي.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "۾ نه هجڻ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ڍڳا"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "ڀاڻيو"
+    },
+    {
+      "surface": "בר",
+      "gloss": "خالي"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "۽ گهڻي"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "پيداوار"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "۾ طاقت"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ڍڳي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:31.941538351Z",
+  "model": "glm-5.3"
+}

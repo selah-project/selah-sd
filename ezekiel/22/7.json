@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 22:7",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "پيءُ ۽ ماءُ کي تنھنجي ۾ ھلڪو سمجھيو اٿن؛ مسافر سان تنھنجي وچ ۾ ظلم ڪيو اٿن؛ يتيم ۽ widow کي تنھنجي ۾ ستايو اٿن.",
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "۽ ماءُ کي"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "ھلڪو سمجھيو اٿن"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تنھنجي ۾"
+    },
+    {
+      "surface": "لגר",
+      "gloss": "مسافر سان"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪيو اٿن"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "تنھنجي وچ ۾"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "يتيم"
+    },
+    {
+      "surface": "ואלמنا",
+      "gloss": "۽ widow کي"
+    },
+    {
+      "surface": "הונו",
+      "gloss": "ستايو اٿن"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تنھنجي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:33:31.934590525Z",
+  "model": "glm-5.3"
+}

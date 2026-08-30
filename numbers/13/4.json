@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ اھي سندن نالا ھئا: روبين جي قبيلي لاءِ — شموع، زڪور جو پٽ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "سندن نالا"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي لاءِ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "روبين"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "شموع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زڪور"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:17.911994259Z",
+  "model": "glm-5.3"
+}

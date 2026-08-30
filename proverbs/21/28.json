@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ڪوڙن جو شاهد هلاڪ ٿيندو، پر ٻڌندڙ ماڻهو هميشه ڳالهائيندو.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ڪوڙن جو"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "هلاڪ ٿيندو"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "پر ماڻهو"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "ٻڌندڙ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ڳالهائيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:39.791389616Z",
+  "model": "glm-5.3"
+}

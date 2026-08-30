@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "تون ڏٺو، ياهوه، ماني جي ظلم کي؛ تون ماني جي مقدمت جو فيصلو ڪر.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "تون ڏٺو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "ماني جي ظلم کي"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "تون فيصلو ڪر"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ماني جي مقدمت جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:10.086944121Z",
+  "model": "glm-5.3"
+}

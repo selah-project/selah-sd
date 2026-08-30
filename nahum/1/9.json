@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 1:9",
+  "book": "nahum",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ياهوه جي خلاف توهان ڇا رٿيو ٿا؟ مڪمل ختميءَ جي هو ڪندو؛ ٻيھر تنگي نه اُٿندي.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "תחשבון",
+      "gloss": "رٿيو ٿا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "خلاف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "مڪمل ختمي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪندو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "اُٿندي"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ٻيھر"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:52:31.217894609Z",
+  "model": "glm-5.3"
+}

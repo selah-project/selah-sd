@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ ياهوه موشي سان ڳالهائي ڇڏيو، چوڻ لاءِ۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالهائي ڇڏيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:44.413262853Z",
+  "model": "glm-5.3"
+}

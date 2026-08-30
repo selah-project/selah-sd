@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ڪن جيڪو زندگيءَ جي تنبيه ٻُڌي، اهو عقلمندن جي وچ ۾ رهندو آهي.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "ڪن"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ٻُڌي"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "تنبيه"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگيءَ جي"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "عقلمندن"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "رهندو آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:36.265239542Z",
+  "model": "glm-5.3"
+}

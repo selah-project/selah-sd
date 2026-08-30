@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 27:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ڇهين مهيني لاءِ ⟨ڇهين⟩ عيرا بن عِقيش التڪوعي هو؛ ۽ سندس ڪٽڪ تي ويهه ۽ چار هزار هئا.",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "ڇهين"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني لاءِ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ڇهين"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "عيرا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "عِقيش"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "التڪوعي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "سندس ڪٽڪ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:27.244333689Z",
+  "model": "glm-5.3"
+}

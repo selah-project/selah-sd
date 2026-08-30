@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ تنهنجا آسمان، جيڪي تنهنجي مٿي تي آهن، ٽامو ⟨هوندا⟩؛ ۽ زمين، جيڪا تنهنجي هيٺ آهي، لوھ.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "۽ هوندا"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "تنهنجا آسمان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي تي"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "تنهنجي مٿي"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ٽامو"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "۽ زمين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "تنهنجي هيٺ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوھ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:26.247218682Z",
+  "model": "glm-5.3"
+}

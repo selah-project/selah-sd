@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ياهوه کي قرض ڏيندڙ غريب تي مهربان ٿئي ٿو، ۽ سندس ڪم جو بدلو کيس پورو ڪندو.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "قرض ڏيندڙ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "مهربان ٿئي ٿو"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "۽ سندس ڪم جو بدلو"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "پورو ڪندو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:34.047677038Z",
+  "model": "glm-5.3"
+}

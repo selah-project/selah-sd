@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 106,
+  "translation": "۽ اها کيس نيائي طور ڳڻي ويس، نسل کان نسل تائين، هميشه تائين.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "ڳڻي ويس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "نيائي طور"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل کان"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "نسل تائين"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:02.358417958Z",
+  "model": "glm-5.3"
+}

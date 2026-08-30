@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 72,
+  "translation": "جبل ماڻهن لاءِ سلام کڻندا، ۽ ٽڪريون انصاف سان.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "کڻندا"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلام"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ماڻهن لاءِ"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "۽ ٽڪريون"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "انصاف سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:04.832566841Z",
+  "model": "glm-5.3"
+}

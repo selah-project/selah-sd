@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "توکي تنهنجي دل موجب ڏيندو، ۽ تنهنجي ساري مشورت پوري ڪندو.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ڏيندو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "تنهنجي دل موجب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ ساري"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "تنهنجي مشورت"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "پوري ڪندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:47.839312642Z",
+  "model": "glm-5.3"
+}

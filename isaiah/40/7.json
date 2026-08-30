@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "گاھ سُڪي ٿي، گل ڇانيڳجي ٿي، ڇوته ياهوه جو پَو ۾ ⟨ان تي⟩ واوکائي ٿو؛ بيشڪ ماڻھن جو گاھ ⟨آھن⟩.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "سُڪي ٿي"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گاھ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ڇانيڳجي ٿي"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "گل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "پَو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "واوکائي ٿو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گاھ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھن جو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:58:54.196236656Z",
+  "model": "glm-5.3"
+}

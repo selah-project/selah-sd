@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "خوشبختي اُن ماڻهوءَ کي جنهن حڪمت ڳولي، ۽ اُن ماڻهوءَ کي جنهن عقل پيدا ڪري.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوشبختي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ڳولي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "۽ اُن ماڻهوءَ"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "پيدا ڪري"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "عقل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:00.858671706Z",
+  "model": "glm-5.3"
+}

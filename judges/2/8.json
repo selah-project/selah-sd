@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ يھوشُع پُٽ نون، ياهوه جو ٻانھو، مريو — سؤ ۽ ڏھن سالن جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "۽ مريو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يھوشُع"
+    },
+    {
+      "surface": "بن",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ٻانھو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "۽ ڏھن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالن جو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:56:39.145240427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "سَورهون حيزير لاءِ، ارڙهون هَپِصيص لاءِ۔",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "حيزير لاءِ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سَورهون"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ورهون"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "هَپِصيص لاءِ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ارڙهون"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ڙهون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:57.677054214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 15:41",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ گديروت، بيت دگون، ۽ نعماہ، ۽ مقيدہ — سورھن شهر ۽ سندن ڳوٺ.",
+  "tokens": [
+    {
+      "surface": "וגדרות",
+      "gloss": "۽ گديروت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "دگون"
+    },
+    {
+      "surface": "ונעמה",
+      "gloss": "۽ نعماہ"
+    },
+    {
+      "surface": "ומקדה",
+      "gloss": "۽ مقيدہ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "שש",
+      "gloss": "سورھن (ڇھ)"
+    },
+    {
+      "surface": "عשרه",
+      "gloss": "(۽ ڏھ)"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "۽ سندن ڳوٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:31.453212232Z",
+  "model": "glm-5.3"
+}

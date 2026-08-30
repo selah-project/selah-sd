@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 33:32",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ بيني-يعقان کان روانا ٿيا، ۽ حور-هگدگد ۾ منزل ڪيائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "بيني- کان"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "يعقان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "منزل ڪيائون"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "حور- ۾"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "هگدگد"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:37.317417684Z",
+  "model": "glm-5.3"
+}

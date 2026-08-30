@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 120,
+  "translation": "مان ⟨آهيان⟩ شالوم؛ پر جڏهن مان ڳالهائيندو آهيان، ته هو جنگ لاءِ آهن.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "پر جڏهن"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ڳالهائيندو آهيان"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:52.057601961Z",
+  "model": "glm-5.3"
+}

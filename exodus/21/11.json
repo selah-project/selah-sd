@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ جيڪڏھن اھي ٽيءَ ان لاءِ نه ڪري، ته هو مفت ۾ نڪري، چانديءَ کان سواءِ؛",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽيءَ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ان لاءِ"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "ته هو نڪري"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "مفت ۾"
+    },
+    {
+      "surface": "אין",
+      "gloss": "سواءِ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چانديءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:41.666269994Z",
+  "model": "glm-5.3"
+}

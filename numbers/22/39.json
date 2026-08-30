@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "پوءِ بلعام بلاق سان گڏ روانو ٿيو، ۽ اهي قريت-حصوت ۾ آيا.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "روانو ٿيو"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ساڻ"
+    },
+    {
+      "surface": "בلק",
+      "gloss": "بلاق"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "اهي آيا"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قريت-"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "حصوت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:03.032843043Z",
+  "model": "glm-5.3"
+}

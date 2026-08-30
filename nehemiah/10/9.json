@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "معزيا، بلغي، شمعيا — اھي ئي ھوڻا.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "معزيا"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "بلغي"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شمعيا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ھوڻا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:50.826502040Z",
+  "model": "glm-5.3"
+}

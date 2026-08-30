@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "دانشمند جو دل سندس ساڄي پاسي ⟨آهي⟩، ۽ بيوقوف جو دل سندس کاٻي پاسي.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانشمند جو"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "سندس ساڄي پاسي"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "۽ دل"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "بيوقوف جو"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "سندس کاٻي پاسي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:31.491655999Z",
+  "model": "glm-5.3"
+}

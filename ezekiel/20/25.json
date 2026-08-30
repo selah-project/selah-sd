@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 20:25",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "پوءِ مان به انهن کي اهڙا حڪم ڏنا جيڪي چڱا نه هئا، ۽ اهڙا فيصلا جن ۾ ⟨هو⟩ نه جيئن.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "پوءِ … به"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ڏنم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چڱا"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "۽ فيصلا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "جن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:34:05.500835412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 23:34",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ تو کي سمنڊ جي وچ ۾ سمهندڙ جهڙو ٿيندو، ۽ ٿنڀي جي مٿان سمهندڙ جهڙو.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "۽ تو کي ٿيندو"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "سمهندڙ جهڙو"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "וכשכב",
+      "gloss": "۽ سمهندڙ جهڙو"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "جي مٿان"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ٿنڀي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:16.613533296Z",
+  "model": "glm-5.3"
+}

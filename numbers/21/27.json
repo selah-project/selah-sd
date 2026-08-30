@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 21:27",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "تنهنڪري پهاڪا چوڻارا چوندا آهن: “اچو حشبون؛ سيحون جو شهر ٺهي ۽ اُسري،”",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تنهنڪري (علي)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(ڪن)"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "چوندا آهن"
+    },
+    {
+      "surface": "המשלים",
+      "gloss": "پهاڪا چوڻارا"
+    },
+    {
+      "surface": "באו",
+      "gloss": "اچو"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ٺهي"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "۽ اُسري"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "سيحون جو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:24.917561334Z",
+  "model": "glm-5.3"
+}

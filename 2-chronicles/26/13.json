@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 26:13",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ انھن جي ھٿ ھيٺ لشڪر جو سپھہ ھو — ٽي سؤ ھزار ۽ ست ھزار ۽ پنج سؤ جنگ جا ڪندڙ، طاقت ۽ سگھہ سان، بادشاھہ جي مدد لاءِ دشمن تي.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ انھن جي ھٿ ھيٺ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "انھن جي ھٿ ھيٺ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "سپھہ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "ڪندڙ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "طاقت ۾"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "سگھہ"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "مدد لاءِ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاھہ جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "האויב",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:28:18.900457177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 36:9",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "ھڪ پردي جي ڊيگھ اٺ ۽ ويھ اَمَ ھئي، ۽ ھڪ پردي جي ويڪر چار اَمَ؛ سڀني پردين لاءِ ھڪ ماپ.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ڊيگھ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پردو"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "اَمَ ۾"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "۽ ويڪر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "اَمَ ۾"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پردو"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ماپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني لاءِ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:18.886352912Z",
+  "model": "glm-5.3"
+}

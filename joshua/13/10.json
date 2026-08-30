@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 13:10",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ سيحون جا سڀ شهر، اموريءَ جي بادشاھ جا، جيڪو حشبون ۾ راڄ ڪري ٿو، بني عمون جي سرحد تائين،",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "سيحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموريءَ جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج ڪري ٿو"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "حشبون ۾"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:19.604071799Z",
+  "model": "glm-5.3"
+}

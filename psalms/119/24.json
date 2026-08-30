@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "تنھنجي شاھد بہ منھنجو سک آھن، منھنجي صلاح جا ماڻھو.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بہ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "تنھنجي شاھد"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "منھنجو سک"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "منھنجي صلاح جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:20:21.356849921Z",
+  "model": "glm-5.3"
+}

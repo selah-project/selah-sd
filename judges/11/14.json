@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ يفتاح وري (زيادتي ڪئي) قاصد بني عمون جي بادشاهه ڏانهن موڪليا.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "۽ زيادتي ڪي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "يفتاح"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "۽ موڪليا"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "قاصد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:02:09.517506766Z",
+  "model": "glm-5.3"
+}

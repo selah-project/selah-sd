@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "اسرائيل جي ساري جماعت ان کي ڪندي ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ڪندي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ان (پسح) کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:12.402666972Z",
+  "model": "glm-5.3"
+}

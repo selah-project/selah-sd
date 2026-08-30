@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ داوود اُٿيو ۽ هو ۽ سندس ساٿي ڇهه سئو ماڻهو جن سان گڏ هئا، اکيش پٽ ماعوخ، گث جي بادشاهه وٽ وڃي رهيا.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٿيو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "۽ روانو ٿيو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ ڇهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سئو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ساٿي سان گڏ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "اکيش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "ماعوخ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گث جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:16:05.422027690Z",
+  "model": "glm-5.3"
+}

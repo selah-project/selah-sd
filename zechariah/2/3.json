@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ياهوه مون کي چار ڪاريگر ڏيکاريا.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "۽ ڏيکاريا مون کي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ڪاريگر"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:48.378196661Z",
+  "model": "glm-5.3"
+}

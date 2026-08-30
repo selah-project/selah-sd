@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "حاصور، رامه، گتايِم،",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "حاصور"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "رامه"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "گتايِم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:35.406978788Z",
+  "model": "glm-5.3"
+}

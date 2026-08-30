@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "مکئون ۽ ماکـي کائيندو، جھڙيءَ برڀُڙ شرط کي رد ڪرڻ ۽ چڱائي چونڊڻ سکي.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "مکئون"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "۽ ماکـي"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائيندو"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "سکڻ لاءِ"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "رد ڪرڻ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "شرط کي"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "۽ چونڊڻ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "چڱائي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:59.121226186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "مرايوث پٽس، امريا پٽس، اَحيتُوب پٽس.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "مرايوث"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پٽس"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "امريا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پٽس"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "احيتوب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پٽس"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:13.459832322Z",
+  "model": "glm-5.3"
+}

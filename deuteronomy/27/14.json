@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ لاوی جواب ڏيندا ۽ سڀن اسرائيل جي ماڻھن کي مٿسُرَ آواز سان چوندا.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "۽ جواب ڏيندا"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "۽ چوندا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "רם",
+      "gloss": "مٿسُرَ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:59.753996944Z",
+  "model": "glm-5.3"
+}

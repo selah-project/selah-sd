@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ ياهوه موشي جي لفظ موجب ڪيو، ۽ مينڊڪ گھرن مان، آڱڻن مان ۽ ٻنين مان مري ويا.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "لفظ موجب"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "۽ مري ويا"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "مينڊڪ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "گھرن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "آڱڻن"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "ٻنين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:35:53.997145236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڳائڻ سان شراب نه پيئبو، نشي واري شراب پيئندڙن لاءِ ڪوڙو ٿي ويندو.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "ڳائڻ سان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "پيئبو"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "نشي واري شراب"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "ڪوڙو ٿيندو"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "پيئندڙن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:53:30.845846306Z",
+  "model": "glm-5.3"
+}

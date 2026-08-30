@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ چيزقياهو ڪوهنين ۽ لِوين کان ڍڳن بابت پڇيو.",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "پڇيو"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "چيزقياهو"
+    },
+    {
+      "surface": "על",
+      "gloss": "کان…بابت"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪوهنين"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "۽ لِوي"
+    },
+    {
+      "surface": "על",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ڍڳيون"
+    }
+  ],
+  "timestamp": "2026-08-30T15:12:57.173697806Z",
+  "model": "glm-5.3"
+}

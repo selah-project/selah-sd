@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 11:9",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ يوائيل زڪري جو پُٽ انهن تي نگران هو، ۽ يهودا هَسَنُواه جو پُٽ شهر تي ٻيو هو.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "۽ يوائيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زڪري"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "نگران"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "انهن تي"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "۽ يهودا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "הסנואה",
+      "gloss": "هَسَنُواه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "مשנה",
+      "gloss": "ٻيو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:11.058334910Z",
+  "model": "glm-5.3"
+}

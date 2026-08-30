@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 19:35",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ مضبوط شهر هئا: صِدّيم، صير، ۽ حمّت، رقّت ۽ ڪنّرت.",
+  "tokens": [
+    {
+      "surface": "וערי",
+      "gloss": "۽ شهر"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "הצדים",
+      "gloss": "صِدّيم"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صير"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "۽ حمّت"
+    },
+    {
+      "surface": "רקת",
+      "gloss": "رقّت"
+    },
+    {
+      "surface": "וכנרת",
+      "gloss": "۽ ڪنّرت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:53.335032197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "مونکي اک جي پُتليءَ وانگر رک، پنھنجن پرن جي اوٽ ۾ مونکي لڪاءِ.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "مونکي رک"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "پُتليءَ وانگر"
+    },
+    {
+      "surface": "בת",
+      "gloss": "اک جي"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اک"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "اوٽ ۾"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "پنھنجن پرن"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "مونکي لڪاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:02:04.543475050Z",
+  "model": "glm-5.3"
+}

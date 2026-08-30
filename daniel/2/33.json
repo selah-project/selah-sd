@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "سندس ٽنگون ⟨هيون⟩ لوھ جون، سندس پير منجهان ئي لوھ جا ۽ منجهان مٽيءَ جا.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "ٽنگون"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "لوھ"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "پير"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "منجهان"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "لوھ"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "۽ منجهان"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "مٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:57:27.776747005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ ابراهام پنھنجي مُئي جي سامهون کان اُٿيو ۽ حث جي پُٽن سان ڳالھايو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٿيو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "کان"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سامهون"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "پنھنجي مُئي جي"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالھايو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حث"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:08.024571127Z",
+  "model": "glm-5.3"
+}

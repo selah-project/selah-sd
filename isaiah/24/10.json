@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ٻٽو ڀڳو آهي، ڇڙواڳ شهر؛ سڀ گهر بند ڪيو ويو آهي، داخل ٿيڻ کان.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ڀڳو آهي"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ڇڙواڳ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "بند ڪيو ويو آهي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "داخل ٿيڻ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:53:30.846077010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 62,
+  "translation": "رڳو ايلوهيم ڏانهن منهنجي نَفَش ماٺ آهي؛ مِنس ئي منهنجي نجات آهي۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ماٺ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منهنجي نَفَش"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "مِنس"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "منهنجي نجات"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:50.988126783Z",
+  "model": "glm-5.3"
+}

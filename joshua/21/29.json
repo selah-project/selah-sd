@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "⟨את⟩ يرموت ۽ ⟨את⟩ ان جي چراگاہ، ⟨את⟩ عين گنيم ۽ ⟨את⟩ ان جي چراگاہ — چار شهر.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يرموت"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "يرموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "چراگاہ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ان جي چراگاہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عين گنيم"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "گنيم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "چراگاہ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ان جي چراگاہ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:55:28.032246174Z",
+  "model": "glm-5.3"
+}

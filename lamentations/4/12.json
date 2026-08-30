@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "زمين جي بادشاھن ۽ دنيا جي سڀني رھواسين اھو نه مڃيو ته ڏک ۽ دشمن يروشلم جي دروازن ۾ داخل ٿين.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "مڃيو"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاھن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رھواسين"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنيا جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "داخل ٿين"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ڏک"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "۽ دشمن"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "دروازن ۾"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:35.839269286Z",
+  "model": "glm-5.3"
+}

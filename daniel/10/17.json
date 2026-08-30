@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 10:17",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ مون جهڙو هن ⟨ادوناي⟩ جو غلام هن ⟨ادوناي⟩ سان ڪيئن ڳالهائي سگهي ٿو؟ ۽ جهڙوڪ مون ۾ هاڻي ڪا طاقت بيٺي ناهي، ۽ نه ڪا ساهه مون ۾ بچي آهي.",
+  "tokens": [
+    {
+      "surface": "והיך",
+      "gloss": "۽ مون جهڙو"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "سگهي ٿو"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ڳالهائي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "۽ مون"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "بيٺي"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون ۾"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "ונשמה",
+      "gloss": "۽ ساهه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נשארה",
+      "gloss": "بچي"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:31.144707502Z",
+  "model": "glm-5.3"
+}

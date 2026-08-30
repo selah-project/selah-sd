@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 34:27",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "يعقوب جا پٽ ماريلن تي آيا ۽ شهر لُٽيائون، جيڪي هنن سندن ڀيڻ کي پليت ڪيو ھو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب جا"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ماريلن"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "۽ لُٽيائون"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "پليت ڪيو"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "سندن ڀيڻ کي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:13.058932514Z",
+  "model": "glm-5.3"
+}

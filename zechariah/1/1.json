@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 1:1",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "اٺين مهيني ۾، داريائوس جي ٻئي سال ۾، ياهوه جو لفظ نبي زڪريا — پٽ برخيا، پٽ عدو — ڏانهن ٿيڻ لڳو، چوڻَ جو.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "مهيني ۾"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اٺين"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "سال ۾"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "داريائوس جي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيڻ لڳو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زڪريا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "برخيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "عدو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻَ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:23.470111093Z",
+  "model": "glm-5.3"
+}

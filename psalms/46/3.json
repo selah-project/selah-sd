@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "تنھنڪري اسين نه ٿا ڊرسون، جيتوڻي زمين مٽجي وڃي ۽ جبل سمنڊ جي دل ۾ ڪِري ڌڻجن.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تنھن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "ڊرسون"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "مٽجي وڃي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "۽ ڌڻجن"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "جي دل ۾"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمنڊ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:11.233345553Z",
+  "model": "glm-5.3"
+}

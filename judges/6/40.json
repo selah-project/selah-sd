@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ايلوهيم ان رات ائين ڪيو؛ ۽ رڳو ٻڪري تي سڪائي ٿي ۽ ساري زمين تي شبنم هو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيائين"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ان رات"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "انهيءَ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سڪائي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "ٻڪري"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "טל",
+      "gloss": "شبنم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:59:16.224075309Z",
+  "model": "glm-5.3"
+}

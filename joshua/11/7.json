@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 11:7",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "پوءِ يهوشوع ۽ لڙائيءَ جو سڄو ماڻهن ساڻ ڪري، مروم جي پاڻين تي انهن تي اوچتو آيو ۽ مٿن ڪڙڪي پيو.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڄو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "لڙائيءَ جو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ساڻ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "انهن تي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "پاڻين"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "مروم"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اوچتو"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ڪڙڪي پيو"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "مٿن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:23.345894882Z",
+  "model": "glm-5.3"
+}

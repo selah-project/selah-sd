@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ گبعون ۾ رھندا هئا گبعون جو پيءُ يعيئيل، ۽ سندس زال جو نالو مَعَڪاھ ⟨ھو⟩۔",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "۽ گبعون ۾"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "رھندا هئا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جو پيءُ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گبعون"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "يعيئيل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "سندس زال جو"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معڪاھ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:31.910023794Z",
+  "model": "glm-5.3"
+}

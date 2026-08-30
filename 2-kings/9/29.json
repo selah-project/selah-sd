@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 9:29",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ يورام پٽ احاب جي يارهين سال ۾، احزيا يهودا تي بادشاهي ڪئي.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "۽ … سال ۾"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "يارهن"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "يورام لاءِ\/جي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "احاب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهي ڪئي"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "احزيا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:40:21.574663102Z",
+  "model": "glm-5.3"
+}

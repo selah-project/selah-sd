@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "اھو بار جوڪو حبقوق نبيءَ ٿي ڏٺو.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "اھو بار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جوڪو"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ٿي ڏٺو"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "حبقوق"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:53:13.467004850Z",
+  "model": "glm-5.3"
+}

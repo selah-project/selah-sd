@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "شِمعا سندس پٽ، حَگّيا سندس پٽ، عَسايا سندس پٽ.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "شِمعا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "حَگّيا"
+    },
+    {
+      "surface": "בנو",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "عَسايا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:59.887580037Z",
+  "model": "glm-5.3"
+}

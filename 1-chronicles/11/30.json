@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "مهرائي النطوفاتي، حيلد پٽ باناه جو، النطوفاتي۔",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "مهرائي"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "النطوفاتي"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "حيلد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "باناه"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "النطوفاتي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:21.940110048Z",
+  "model": "glm-5.3"
+}

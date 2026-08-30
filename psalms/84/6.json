@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 84,
+  "translation": "خوش نصيب اھو ماڻھو جنهنجي طاقت ⟨تو ۾⟩ آھي، جنھن جي دل ۾ زيارت جا رستا آھن.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش نصيب"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "جنهنجي لاءِ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تو ۾"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "زيارت جا رستا"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "سندن دل ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:22.144870880Z",
+  "model": "glm-5.3"
+}

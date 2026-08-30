@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ التولد ۽ بيتول ۽ حرماہ،",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "۽ التولد"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "۽ بيتول"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "۽ حرماہ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:27.301293139Z",
+  "model": "glm-5.3"
+}

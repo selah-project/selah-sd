@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ ڪجهه ڏينھن پٺيان نئي سُڪي وئي، ڇوته ملڪ ۾ مينهن نه هو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "پڇاڙيءَ ۾"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينھن جي"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "۽ سُڪي وئي"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نئي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "مينهن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملڪ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:33:53.303638649Z",
+  "model": "glm-5.3"
+}

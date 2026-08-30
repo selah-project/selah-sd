@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ تون سون جون جڙتون (منقش مڙهه) ٺاهينن.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "۽ تون ٺاهينن"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "جڙتون (منقش مڙهه)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:06:32.430544609Z",
+  "model": "glm-5.3"
+}

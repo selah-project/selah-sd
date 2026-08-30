@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "چڱائي ڪيائين ⟨هن⟩ جي، ۽ برائي نه، سندس زندگيءَ جي سڀني ڏينھن ۾.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "چڱائي ڪيائين هن جي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱائي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "سندس زندگيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:28.516354391Z",
+  "model": "glm-5.3"
+}

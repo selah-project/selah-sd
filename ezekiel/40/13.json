@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 40:13",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ ماپيائين ⟨את⟩ دروازي کي ڪمري جي ڇت کان ان جي ڇت تائين — ويڪر ويهه ۽ پنج اَمّون، منهنامنهن.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ماپيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دروازي"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "מגג",
+      "gloss": "ڇت کان"
+    },
+    {
+      "surface": "התא",
+      "gloss": "ڪمري جي"
+    },
+    {
+      "surface": "לגגו",
+      "gloss": "ان جي ڇت تائين"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ويڪر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمّون"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "آموجه"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "منهن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:20.167181021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ عتائي ⟨את⟩ نٿان کي پيدا ڪيو، ۽ نٿان ⟨את⟩ زبد کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "۽ عتائي"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نٿان کي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "نٿان"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "۽ نٿان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زبد کي"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زبد"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:02.030747191Z",
+  "model": "glm-5.3"
+}

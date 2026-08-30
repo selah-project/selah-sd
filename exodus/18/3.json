@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ <![CDATA[<את>]]> سندس ٻن پُٽن کي، جن مان هڪ جو نالو گيرشوم هو، ڇوته چيائين: پرڏيهي زمين ۾ مون اوطاقي ڪئي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ٻن پُٽن"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "پُٽن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن مان"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪ جو"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گيرشوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "גר",
+      "gloss": "اوطاقي"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ڪئي هئم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "پرڏيهي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:17.672175336Z",
+  "model": "glm-5.3"
+}

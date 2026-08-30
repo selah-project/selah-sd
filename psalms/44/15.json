@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "تون اسان کي قومن ۾ پهاڪو بڻايين ٿو، قومن ۾ مٿي هِلائڻ.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "تون اسان کي بڻايين ٿو"
+    },
+    {
+      "surface": "משל",
+      "gloss": "پهاڪو"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومن ۾"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "هِلائڻ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "בל",
+      "gloss": "قومن ۾"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "قومن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:36.510972335Z",
+  "model": "glm-5.3"
+}

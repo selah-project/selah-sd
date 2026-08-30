@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ تون چن ۽ سٺي سمجهه لهين ايلوهيم ۽ ماڻهوءَ جي اکين ۾.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "۽ تون لهين"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چن"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "۽ سمجهه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "سٺي"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي اکين ۾"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "۽ ماڻهوءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:05.241938486Z",
+  "model": "glm-5.3"
+}

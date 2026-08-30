@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ياهوه بلند آھي، ڇوڪه ٿو ⟨هو⟩ مَروم ۾ رھي؛ صهيون کي ڀريو انصاف ۽ راستبازيءَ سان.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "بلند آھي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪه"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ٿو رھي"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "مَروم ۾"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀريو"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون کي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "۽ راستبازي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:55:14.311106819Z",
+  "model": "glm-5.3"
+}

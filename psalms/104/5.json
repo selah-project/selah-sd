@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 104,
+  "translation": "زمين کي پنھنجن بنيادن تي بيهاريائين، بڻ ۽ ٻڌيءَ، اها ڪڏھن به نه ڇڻندي.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "بيهاريائين"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "پنھنجن بنيادن"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ڪڏھن به نه"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ڇڻندي"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "بڻ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ٻڌيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:37.142324019Z",
+  "model": "glm-5.3"
+}

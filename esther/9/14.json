@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ بادشاھ چيو ته ائين ڪيو وڃي؛ ۽ سوشن ۾ حڪم جاري ٿيو، ۽ هامان جي ڏھن پٽن کي ⟨את⟩ ٽنگيو ويو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "ته ڪيو وڃي"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "۽ جاري ٿيو"
+    },
+    {
+      "surface": "דת",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "سوشن ۾"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ڏھن پٽن کي"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ڏھن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان جي"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "ٽنگيو ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:56:24.491525366Z",
+  "model": "glm-5.3"
+}

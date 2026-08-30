@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڪير ٿو ڄاڻي، ماڻھن جي پُڻ مَٿي طرف وڃي ٿي، ۽ چوپائي مال جي پُڻ ھيٺَ زمين ڏانھن لھي ٿي؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ٿو ڄاڻي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "پُڻ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ماڻھن جي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "مَٿي طرف وڃي ٿي"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "مَٿي"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "۽ پُڻ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "چوپائي مال جي"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "لھي ٿي"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ھيٺَ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمين ڏانھن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:02.833664916Z",
+  "model": "glm-5.3"
+}

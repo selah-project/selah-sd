@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ حنانيا، ۽ عيلام، ۽ عنثوتيا.",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "حنانيا"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "عنثوتيا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:50.566381798Z",
+  "model": "glm-5.3"
+}

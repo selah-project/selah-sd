@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "جَئَن ٻَرِڙِي ڪَنڊَنَ ۾، تَئَن مَانِ وَائِي ڇوڪَرِينَ ۾.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "جئن ٻَرِڙِي"
+    },
+    {
+      "surface": "בין",
+      "gloss": "۾"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "ڪَنڊَنَ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تَئَن"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "مَانِ وَائِي"
+    },
+    {
+      "surface": "בין",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "ڇوڪَرِينَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:17.758215334Z",
+  "model": "glm-5.3"
+}

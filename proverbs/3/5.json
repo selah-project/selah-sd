@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ياهوه تي پنھنجي ساري دل سان ڀروسو ڪر، ۽ پنھنجي سمجهه تي ٽيڪ نه ڏي۔",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ڀروسو ڪر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دل سان"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ … تي"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "سمجهه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "ٽيڪ ڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:53.455155752Z",
+  "model": "glm-5.3"
+}

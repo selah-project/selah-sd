@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ هن ٻيهر ٻيا ست ڏينهن انتظار ڪيو ۽ قبتي ⟨את⟩ کي موڪليائين، پر هوءَ وري هن وٽ واپس ٿيڻ وڌائي ڇڏي.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "۽ انتظار ڪيو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيهر ٻيا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ٻيا"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "۽ موڪليائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قبتي"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "قبتي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "وڌايو"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "واپس ٿيڻ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هن وٽ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:35.879835192Z",
+  "model": "glm-5.3"
+}

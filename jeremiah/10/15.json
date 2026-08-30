@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "اهي بيكار آهن، ٺڳيءَ جو ڪم آهن؛ انهن جي پڪڙ جي وقت ۾ هليا ويندا.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "بيکار"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "ٺڳيءَ جو"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "وقت ۾"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "انهن جي پڪڙ جي"
+    },
+    {
+      "surface": "יאبדו",
+      "gloss": "هليا ويندا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:09:57.426022086Z",
+  "model": "glm-5.3"
+}

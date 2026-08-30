@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 27:19",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ڇو ته ياهوه صبائوت ٻڌن، ان سمنڊ ۽ ان پاڙن، ۽ باقي برتنن جي بابت، جيڪي هن شهر ۾ رهجي ويا آھن، اھڙيءَ طرح چوي ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اھڙيءَ طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "جي بابت"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ٻڌن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ان سمنڊ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ان پاڙن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "باقي"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "برتنن"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "رهجي ويا"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شهر ۾"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:16:36.353961407Z",
+  "model": "glm-5.3"
+}

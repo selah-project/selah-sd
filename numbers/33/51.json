@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "’اسرائيل جي پٽن سان ڳالهه ڪر ۽ کين چؤ ته توهان يردن کي ⟨את⟩ پار ڪري کنعان جي زمين ڏانهن وڃي رهيا آهيو،",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ڳالهه ڪر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ چوندو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "پار ڪري رهيا آهيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "يردن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:17.058140506Z",
+  "model": "glm-5.3"
+}

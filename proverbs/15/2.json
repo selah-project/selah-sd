@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "دانمندن جي زبان علم کي سُکيو ٿي، ۽ مڙسن جو وات اَڻاڻپ اُگھڙي ٿو.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانمندن جي"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "سُکيو ٿي"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم کي"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "۽ وات"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "مڙسن جو"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "اُگھڙي ٿو"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "اَڻاڻپ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:38.070747064Z",
+  "model": "glm-5.3"
+}

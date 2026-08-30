@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "بادشاھ جيڪو انصاف جي تخت تي ويٺو آھي، پنهنجن اکين سان سڀ برائي کي اوڏي ٿو.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ويٺو آھي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "דין",
+      "gloss": "انصاف جي"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "اوڏي ٿو"
+    },
+    {
+      "surface": "بעיניו",
+      "gloss": "پنهنجن اکين سان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائي کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:58.792279536Z",
+  "model": "glm-5.3"
+}

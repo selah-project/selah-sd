@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ⟨את⟩ نر سان عورت جي پسرڻيءَ وانگر نه سمهين؛ اھو ڪرھه واري شيءِ آھي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ۽",
+      "marks": "نر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "سمهين"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "پسرڻيءَ وانگر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت جي"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ڪرھه واري شيءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو ⟨آھي⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:03.071937070Z",
+  "model": "glm-5.3"
+}

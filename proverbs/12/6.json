@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "بدن جا لفظ رت لاءِ گھات آهن، پر سڌن جو وات انھن کي بچائيندو.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدن جا"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "گھات"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "پر وات"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سڌن جو"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "انھن کي بچائيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:05.211590517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ عُزّي ⟨את⟩ زرَحْياه کي پيدا ڪيو، ۽ زرَحْياه ⟨את⟩ مَرايوث کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "۽ عُزّي"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زرَحْياه"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زرَحْياه"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "۽ زرَحْياه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَرايوث"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مَرايوث"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:18.530309968Z",
+  "model": "glm-5.3"
+}

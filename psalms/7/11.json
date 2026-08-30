@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "مون جو ٻَڍ ايلوهيم سان ⟨آھي⟩، جيڪو سڌن دلين جي موک ڪندڙ آھي.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "مون جو ٻَڍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "موک ڪندڙ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "سڌن"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:02.654063223Z",
+  "model": "glm-5.3"
+}

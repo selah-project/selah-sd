@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "متانِ تون پنهنجو هيڪلو ٻين کي ڏين ۽ پنهنجا ورهيه بي رحم ماڻهن کي.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "متانِ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تون ڏين"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "ٻين کي"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "پنهنجو هيڪلو"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "۽ پنهنجا ورهيه"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "بي رحم ماڻهن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:30.109156160Z",
+  "model": "glm-5.3"
+}

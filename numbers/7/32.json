@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ سونءَ جي ڪافي، ڏھ شيڪل ⟨سنگ⟩ جي، خوشبوءَ سان ڀريل،",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ڪافي"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏھ شيڪل"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ڀريل"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:38:38.801506756Z",
+  "model": "glm-5.3"
+}

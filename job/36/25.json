@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "سڀ انسان اُن کي ڏٺو آھي؛ فاني ماڻھو پريءَ کان ڏسي ٿو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ڏٺو آھي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُن کي"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فاني ماڻھو"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ڏسي ٿو"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "پريءَ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:43:09.959582409Z",
+  "model": "glm-5.3"
+}

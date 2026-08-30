@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 24:12",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڏکن ⟨سان پاڻ کي⟩ ٿڪائي ڏنائين، ۽ ان جي وڏي زنگ ان مان نه نڪري؛ باهه ۾ ⟨رهندي⟩ ان جي زنگ.",
+  "tokens": [
+    {
+      "surface": "תאנים",
+      "gloss": "ڏکن"
+    },
+    {
+      "surface": "הלאת",
+      "gloss": "ٿڪائي ڏنائين"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نڪري"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ان مان"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "ان جي زنگ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "ان جي زنگ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:34:22.491150760Z",
+  "model": "glm-5.3"
+}

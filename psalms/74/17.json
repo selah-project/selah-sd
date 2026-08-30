@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 74,
+  "translation": "توءَ ئي سڀ زمين جون حدون بيهاريون؛ اونهارو ۽ سيارو توءَ ئي جوڙيا آهن.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "توءَ"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "بيهاريون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "حدون"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جون"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "اونهارو"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "۽ سيارو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توءَ"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "جوڙيا آهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:56.241205212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "ڏسو، ست سال اچن ٿا — وڏو ستابو سڄي زمين متصرم ۾.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "באות",
+      "gloss": "اچن ٿا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبو"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متصرم"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:16.238637797Z",
+  "model": "glm-5.3"
+}

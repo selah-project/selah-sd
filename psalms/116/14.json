@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 116,
+  "translation": "پنهنجون نذر ياهوه کي ادا ڪندس، ها، سندس ساري قوم جي سامهون.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "پنهنجون نذر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ادا ڪندس"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "سامهون"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ها، هاڻي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "قوم جي سندس"
+    }
+  ],
+  "timestamp": "2026-08-30T15:03:24.184961741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "پڻ پنهنجن ڪمن سان نوجوان سڃاڻجي ٿو، چاهي سندس ڪم صاف هجي ۽ چاهي سڌو.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "پنهنجن ڪمن سان"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "سڃاڻجي ٿو"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "چاهي"
+    },
+    {
+      "surface": "זך",
+      "gloss": "صاف"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "۽ چاهي"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سڌو"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "سندس ڪم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:02.017531979Z",
+  "model": "glm-5.3"
+}

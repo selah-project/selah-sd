@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 115,
+  "translation": "اهارون جي گهر! ياهوه تي ڀاڙو؛ سندن مدد ۽ سندن ڍال ⟨هو⟩ آهي.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون جي"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ڀاڙو"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه تي"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "سندن مدد"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "۽ سندن ڍال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:38.785456301Z",
+  "model": "glm-5.3"
+}

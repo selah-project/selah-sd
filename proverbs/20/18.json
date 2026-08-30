@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 20:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "صلاح سان مٿاڳ قائم ڪر، ۽ رٿن سان جنگ ڪر.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "مٿاڳ"
+    },
+    {
+      "surface": "בעצה",
+      "gloss": "صلاح سان"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "قائم ڪر"
+    },
+    {
+      "surface": "ובתחבלות",
+      "gloss": "رٿن سان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪر"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:16.622096855Z",
+  "model": "glm-5.3"
+}

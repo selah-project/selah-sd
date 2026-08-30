@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "پوءِ جنهن جو اھو گھر آھي، اھو اچي ۽ ڪوھن کي ٻڌائي، چوي ته، مون کي گھر ۾ نغاس جهڙو ڪجهه ڏسڻ ۾ آيو آھي،",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "پوءِ اچي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "جي"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "۽ ٻڌائي"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ڪوھن کي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوي ته"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "نغاس جهڙو"
+    },
+    {
+      "surface": "نראה",
+      "gloss": "ڏسڻ ۾ آيو"
+    },
+    {
+      "surface": "لي",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:46.811263803Z",
+  "model": "glm-5.3"
+}

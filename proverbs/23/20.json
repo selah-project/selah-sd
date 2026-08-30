@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "شراب پيئندڙن ۾ نه رهه، گوشت جي لالچينن ۾، سندن ساڻ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "رهه"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "پيئندڙن ۾"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "בזלلי",
+      "gloss": "لالچينن ۾"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "لמו",
+      "gloss": "سندن ساڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:33.308315737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ يهوناتن جو پٽ مريب بعل هو، ۽ مري بعل ⟨את⟩ ميکا کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتن جو"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "مريب"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "۽ مري"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میکا"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکا کي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:13.731472014Z",
+  "model": "glm-5.3"
+}

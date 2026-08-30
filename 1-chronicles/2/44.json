@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ شمع ⟨את⟩ رحم کي پيدا ڪيو — يرقعم جو پيءُ؛ ۽ رقم ⟨את⟩ شمّي کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "۽ شمع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رحم"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رحم"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جو پيءُ"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "يرقعم"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "۽ رقم"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شمّي"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمّي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:37.507760051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "اُو گونگا، ٻُڌو؛ ۽ اُو اندها، نهار ڪرو ته ڏسو.",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "اُو گونگا"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻُڌو"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "۽ اُو اندها"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "نهار ڪرو"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ته ڏسو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:58:58.388782121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ڏوھيءَ کي بادشاھ جي اڳيان پري ڪر، ۽ سندس تخت انصاف ۾ قائم ٿي ويندو.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "پري ڪر"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ڏوھيءَ کي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "۽ قائم ٿي ويندو"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "انصاف ۾"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "سندس تخت"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:26.499756927Z",
+  "model": "glm-5.3"
+}

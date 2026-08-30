@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 9:24",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "ڏسو، ڏينهن اچي رهيا آهن، ياهوه جو وچن آهي، ۽ آءٌ سڀن سُنن تي ۽ سُنٽن تي سزا وارWunused بازپرس ڪندس.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "באים",
+      "gloss": "اچي رهيا آهن"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "جو وچن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "۽ بازپرس ڪندس"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀن"
+    },
+    {
+      "surface": "מול",
+      "gloss": "سُنن"
+    },
+    {
+      "surface": "בערלה",
+      "gloss": "سُنٽن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:10:37.406832616Z",
+  "model": "glm-5.3"
+}

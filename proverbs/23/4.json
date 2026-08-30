@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "امير ٿيڻ لاءِ پاڻ کي نه ٿڪاءِ، پنھنجي سمجھ کان پاڻ کي روڪ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "ٿڪاءِ"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "امير ٿيڻ لاءِ"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "پنھنجي سمجھ کان"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "پاڻ کي روڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:34.437324304Z",
+  "model": "glm-5.3"
+}

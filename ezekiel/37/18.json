@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 37:18",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ جڏهن تنهنجي قوم جا پٽ تو کي چون — ٻڌائين ٿو ڇا اسان کي، اهي تو لاءِ ڇا آهن؟",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "۽ جڏهن"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "چون"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تو کي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تنهنجي قوم جا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ۾"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ڇا نه"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ٻڌائين ٿو"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان کي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:40:00.291315712Z",
+  "model": "glm-5.3"
+}

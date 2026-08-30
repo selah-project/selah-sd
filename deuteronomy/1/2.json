@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "اَٺَرتين ڏينهن حوريب کان، سيعير جي جبل جي رستي، قاديش برنيع تائين.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ـستر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "حوريب کان"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستي"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سيعير"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قاديش"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "برنيع"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:48.250671280Z",
+  "model": "glm-5.3"
+}

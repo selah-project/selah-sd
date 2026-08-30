@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 25:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ٻٽيل ڏند ۽ ڪڙڀجي ويل پير — اھو آھي ڀاڙڻ دغاباز تي، ڏکن جي ڏينهن ۾.",
+  "tokens": [
+    {
+      "surface": "שן",
+      "gloss": "ڏند"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ٻٽيل"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "۽ پير"
+    },
+    {
+      "surface": "מועדת",
+      "gloss": "ڪڙڀجي ويل"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ڀاڙڻ"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "دغاباز تي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ڏکن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:37.947753702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ تون پنھنجي دل ۾ چوندين ته منھنجي طاقت ۽ منھنجي ھٿ جي زور مون لاءِ ⟨את⟩ هي سگھه پيدا ڪئي.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ تون چوندين"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "پنھنجي دل ۾"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "منھنجي طاقت"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "۽ زور"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "منھنجي ھٿ جي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "پيدا ڪئي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي سگھه"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "سگھه"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:19.802042131Z",
+  "model": "glm-5.3"
+}

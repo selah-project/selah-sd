@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "لعنتي آھين تون شهر ۾، ۽ لعنتي آھين تون ٻني ۾.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنتي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "آھين تون"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شهر ۾"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "۽ لعنتي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "آھين تون"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ٻني ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:45.032340812Z",
+  "model": "glm-5.3"
+}

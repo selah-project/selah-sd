@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ڪوھن ⟨את⟩ جيئري گوشت کي ڏسي ۽ کيس ناپاڪ ڄاڻائي؛ جيئرو گوشت ناپاڪ آھي — اھو صرع آھي.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏسي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جيئري گوشت کي"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "החי",
+      "gloss": "جيئري"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "۽ ناپاڪ ڄاڻائي"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "החי",
+      "gloss": "جيئرو"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آھي"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "صرع"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:05.716620272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ هاڻي، ياهوه، تون ئي ⟨آهين⟩ ⟨هو⟩ ايلوهيم، ۽ تون تنهنجي ٻانهي بابت هيءَ نيڪي ڳالائي آهي.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئي"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "۽ ڳالايو آهي"
+    },
+    {
+      "surface": "על",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تنهنجي ٻانهي"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "هيءَ نيڪي"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:12.630955374Z",
+  "model": "glm-5.3"
+}

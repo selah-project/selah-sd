@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "پاڪ پاڪن ۾ تون کيس کائيندين؛ هر نر کائيندو ⟨את⟩؛ پاڪ رهندو تنهنجي لاءِ.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "پاڪ پاڪن ۾"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاڪ پاڪن"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "تون کيس کائيندين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائيندو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "کيس (پاڪ شي)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "رهندو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:56.953038393Z",
+  "model": "glm-5.3"
+}

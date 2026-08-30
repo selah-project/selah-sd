@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "گھر ۽ دولت پيءُن جي وراثت آھي، پر عقل واري زال ياهوه کان ⟨اچي ٿي⟩.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "והון",
+      "gloss": "۽ دولت"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "وراثت"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پيءُن جي"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "پر ياهوه کان"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "عقل واري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:28.918472997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ کنَڙ سان مون جا ڏند ڀڳائين، راک ۾ مون کي لتاڙيائين.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "۽ ڀڳائين (کَپائيائين)"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "کنَڙ سان"
+    },
+    {
+      "surface": "שני",
+      "gloss": "مون جا ڏند"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "مون کي لتاڙيائين (جهڪايائين)"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "راک ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:07.740059676Z",
+  "model": "glm-5.3"
+}

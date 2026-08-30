@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 20:14",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ياحزيئل، پٽ زڪرياهو، پٽ بنايه، پٽ يعيئل، پتن متنياه لاوي، آساف جي پٽن منجهان، تن تي ياهوه جي روح ٿي، گڏيل جي وچ ۾.",
+  "tokens": [
+    {
+      "surface": "ויחזיאל",
+      "gloss": "۽ ياحزيئل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "زڪرياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "بنايه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "يعيئل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "متنياه"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "منجهان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "تن تي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "گڏيل جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:26:09.700357575Z",
+  "model": "glm-5.3"
+}

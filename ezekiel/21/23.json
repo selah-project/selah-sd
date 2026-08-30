@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ياهوه جو لفظ مون ڏانھن آيو، چوندڙ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون ڏانھن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:32:40.104556179Z",
+  "model": "glm-5.3"
+}

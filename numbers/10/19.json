@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ شمعون جي پٽن جي قبيلي جي لشکر تي شلومي ايل، صوري شدِي جو پٽ، هو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبيلي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شلومي ايل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "صوري"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدِي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:58.458987718Z",
+  "model": "glm-5.3"
+}

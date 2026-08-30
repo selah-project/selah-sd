@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ ياهوه جو فرشتو کيس ڳولهي ورتو پاڻي جي چشمي وٽ، بيابان ۾ — چشمي وٽ شور جي رستي تي.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "۽ کيس ڳولهي ورتائين"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشمي"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻي جي"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "על",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "העין",
+      "gloss": "چشمي"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي تي"
+    },
+    {
+      "surface": "שור",
+      "gloss": "شور جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:43.656734483Z",
+  "model": "glm-5.3"
+}

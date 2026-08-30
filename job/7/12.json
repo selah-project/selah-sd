@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڇا آئون سمنڊ آهيان، يا تہ سمنڊ-ڊائن، جو تون مون تي پهرو رکندو آهين؟",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آئون"
+    },
+    {
+      "surface": "אם",
+      "gloss": "يا"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "سمنڊ-ڊائن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "رکندو آهين"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "پهرو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:09.784734340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ سلمون ⟨את⟩ بوعز کي پيد ڪيو، ۽ بوعز ⟨את⟩ عوبيد کي پيد ڪيو.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "۽ سلمون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوعز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوعز"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "۽ بوعز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوبيد"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عوبيد"
+    }
+  ],
+  "timestamp": "2026-08-30T13:47:02.856864808Z",
+  "model": "glm-5.3"
+}

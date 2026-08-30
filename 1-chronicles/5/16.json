@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 5:16",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ ⟨اهي⟩ گلعاد ۾ رهيا، بشان ۽ سندس ڳوٺن ۾، ۽ شارون جي سڀني چراگاهن ۾، سندن سرحدن تي.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "۽ رهيا"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "گلعاد ۾"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "بشان ۾"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "۽ سندس ڳوٺن ۾"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "۽ سڀني ۾"
+    },
+    {
+      "surface": "מגרשי",
+      "gloss": "چراگاهن"
+    },
+    {
+      "surface": "שרון",
+      "gloss": "شارون جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "תוצאותם",
+      "gloss": "سندن سرحدن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:26.419735266Z",
+  "model": "glm-5.3"
+}

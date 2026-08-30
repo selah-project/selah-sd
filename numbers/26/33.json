@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 26:33",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ صلفحد، حپفر جو پٽ — کيس پٽ نه هئا، پر ڌيئون؛ ۽ صلفحد جون ڌيئن جا نالن مھلا، ۽ نعہ، حگلا، ملکہ ۽ ترصہ.",
+  "tokens": [
+    {
+      "surface": "וצלפחד",
+      "gloss": "۽ صلفحد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "حپفر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨رڳو⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيئون"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالن"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيئن جا"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "صلفحد"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "مھلا"
+    },
+    {
+      "surface": "ונעה",
+      "gloss": "۽ نعہ"
+    },
+    {
+      "surface": "חגלה",
+      "gloss": "حگلا"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ملکہ"
+    },
+    {
+      "surface": "ותרצה",
+      "gloss": "۽ ترصہ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:28.944668773Z",
+  "model": "glm-5.3"
+}

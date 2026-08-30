@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "پوءِ هو ٻئي رستي سان ويو، ۽ ان رستي تي موٽي نه آيو جنهن ۾ هو بيت-ايل ۾ آيو هو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "پوءِ هو ويو"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي سان"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שב",
+      "gloss": "موٽي آيو"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي تي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو هو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ايل"
+    }
+  ],
+  "timestamp": "2026-08-30T11:32:45.601860736Z",
+  "model": "glm-5.3"
+}

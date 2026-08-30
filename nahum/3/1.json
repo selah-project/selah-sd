@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "هائي، رت جي شهر تي! سڄو ڪوڙ ۽ لٽمار سان ڀريو آھي؛ لٽ نه ھٽندي.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "هائي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "رت جي"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "ڪوڙ"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "لٽمار"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ڀريو آھي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ھٽندي"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "لٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:52:50.394877757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ⟨את⟩ دآه ۽ ⟨את⟩ ايه کي پنھنجي جنس موجب.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "دآه"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "دآه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ايه"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ايه"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "پنھنجي جنس موجب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:17.332409844Z",
+  "model": "glm-5.3"
+}

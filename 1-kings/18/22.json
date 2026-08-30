@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 18:22",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ايلياہ قوم کي چيو، مان ياهوه جو نبي اڪيلو رھي ويس، ۽ بعل جا نبي چار سؤ پنجاھ ماڻھو آھن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ايلياہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "נותרתי",
+      "gloss": "رھي ويس"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "اڪيلو"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "۽ نبي"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "بعل جا"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "۽ پنجاھ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:35:50.769684498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ڪوش نمرود کي جنم ڏنو ⟨את⟩؛ ⟨هو⟩ زمين ۾ جنگجو ٿيڻ شروع ڪيو.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "۽ ڪوش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جنم ڏنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨⟨את⟩⟩",
+      "marks": "نمرود"
+    },
+    {
+      "surface": "נמררוד",
+      "gloss": "نمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "החל",
+      "gloss": "شروع ڪيو"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ٿيڻ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جنگجو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:33.750648728Z",
+  "model": "glm-5.3"
+}

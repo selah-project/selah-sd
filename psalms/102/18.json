@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 102,
+  "translation": "بيٺل جي دعا ڏانھن منھن ڪيائين ۽ سندن دعا ⟨את⟩ حقير نه ڄاتائين.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "منھن ڪيائين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "بيٺل جي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "حقير نه ڄاتائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندن دعا"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "سندن دعا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:19.812546710Z",
+  "model": "glm-5.3"
+}

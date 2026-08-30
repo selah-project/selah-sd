@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "شفتياھ جا پٽ، ٽي سَو ٻاوانجھہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شفتياھ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستاويھہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:02:18.156530965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 5:9",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ بني اسرائيل جي سڀ پاڪ شين مان جيڪا به ڀيٽ\/تحفو ڪاهيءَ کي پيش ڪيو وڃي، اهو سندس ئي ٿيندو.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ڀيٽ\/تحفو"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "جي سڀ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "پاڪ شين"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "پيش ڪن"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ڪاهيءَ کي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:03.167588624Z",
+  "model": "glm-5.3"
+}

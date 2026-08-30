@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "اُوصيم ڇهون، داويد ستون.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "اُوصيم"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ڇهون"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ستون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:05.882554321Z",
+  "model": "glm-5.3"
+}

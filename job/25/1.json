@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "پوءِ بِلدَد شوحي جواب ڏنو ۽ چيو:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "پوءِ جواب ڏنو"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "بِلدَد"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "شوحي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:18.895622139Z",
+  "model": "glm-5.3"
+}

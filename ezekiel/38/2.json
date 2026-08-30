@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 38:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "اِي آدم جي پُٽ! پنھنجو منھن گوگ ڏانهن موڙ، مگوگ جي ملڪ جي، ميشيخ ۽ توبل جي مکيا سردار جو، ۽ ان جي خلاف نبوت ڪر:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "موڙ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "پنھنجو منھن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "گوگ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ملڪ"
+    },
+    {
+      "surface": "המגוג",
+      "gloss": "مگوگ جي"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مکيا"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ميشيخ"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "۽ توبل"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "۽ نبوت ڪر"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ان جي خلاف"
+    }
+  ],
+  "timestamp": "2026-08-30T12:39:53.025275435Z",
+  "model": "glm-5.3"
+}

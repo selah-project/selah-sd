@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "संत नाम मा फखر कريو، ياهوه کي ڳوليندڙن جو دل خوش ٿئي۔",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "فخر ڪريو"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نام ۾"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ٿئي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "मבקשי",
+      "gloss": "ڳوليندڙن جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:19.967269397Z",
+  "model": "glm-5.3"
+}

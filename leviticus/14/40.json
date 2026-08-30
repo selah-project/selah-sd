@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ڪوھن حڪم ڪري، ۽ ⟨هو⟩ اھي پٿر ڪڍن جن ۾ نڳڻ آھي، ۽ ⟨هو⟩ انهن کي شهر کان ٻاھر، هڪ نجاست واري جاءِ تي اڇلائين؛",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "۽ حڪم ڪري"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھن"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "۽ ڪڍن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پٿر"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "جن ۾"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نڳڻ"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "۽ اڇلائين"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "انهن کي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ٻاھر"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شهر کان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجاست واري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:12.818129571Z",
+  "model": "glm-5.3"
+}

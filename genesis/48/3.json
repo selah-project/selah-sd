@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ يعقوب يوسف کي چيو: “ايل شداي مون کي لوز ۾، ڪنعان جي زمين ۾، ڏٺو ۽ ⟨את⟩ مون کي برڪت ڏنائين.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شداي"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "لوز ۾"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان جي"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "۽ برڪت ڏنائين"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مون"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:57.741343907Z",
+  "model": "glm-5.3"
+}

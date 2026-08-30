@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ڇوته قيدين جي گھر مان نڪري بادشاھ ٿيو، ۽ پنھنجي بادشاھيءَ ۾ ئي نِلڙ غريب ڄائو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "جي گھر مان"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "قيدين"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نڪري"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاھ ٿيو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "۽"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ئي"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "پنھنجي بادشاھيءَ ۾"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ڄائو"
+    },
+    {
+      "surface": "רש",
+      "gloss": "غريب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:16.047720387Z",
+  "model": "glm-5.3"
+}

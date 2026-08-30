@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "سڀ اهو نبوڪدنصר بادشاهه تي آيو.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "نبوڪدنصر"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:57:54.943696364Z",
+  "model": "glm-5.3"
+}

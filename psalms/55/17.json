@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 55,
+  "translation": "مان ته ايل ڏانهن پڪاريندس، ۽ ياهوه مون کي بچائيندو.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "پڪاريندس"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "۽ ياهوه"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "مون کي بچائيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:18.629506537Z",
+  "model": "glm-5.3"
+}

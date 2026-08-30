@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "پنهنجي زخم مون کان پري ڪر؛ توهان جي هٿ جي زد کان مان سمائجي ويس.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "پري ڪر"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "مون کان"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "پنهنجو زخم"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "زدي"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "توهان جي هٿ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "سمائجي ويس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:48.779168276Z",
+  "model": "glm-5.3"
+}

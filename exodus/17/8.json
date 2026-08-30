@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ عماليق آيو، ۽ رفيدم ۾ يسرائيل سان وڙهيو.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "۽ آيو"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عماليق"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "۽ وڙهيو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "رفيدم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:39.340106776Z",
+  "model": "glm-5.3"
+}

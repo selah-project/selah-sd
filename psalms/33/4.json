@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ڇوته سِڌو آهي ياهوه جو لفظ، ۽ سندس سارو ڪم ايمانداريءَ سان ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سِڌو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سارو"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "سندس ڪم"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ايمانداريءَ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:46.850547536Z",
+  "model": "glm-5.3"
+}

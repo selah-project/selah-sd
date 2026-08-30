@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 4:15",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "“ھٽي وڃو، اڻ پاڪ!” هنن کي سڏيو ويو؛ “ھٽي وڃو، ھٽي وڃو، هٿ نه لائو” — ڇو ته هو ڀڳا، پڻ گليل ٿيا؛ قومن ۾ چيو ويو: “هي وڌيڪ نه رهندا.”",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "ھٽي وڃو"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "اڻ پاڪ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "למו",
+      "gloss": "هنن کي"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "ھٽي وڃو"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "ھٽي وڃو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "هٿ لائو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "נצו",
+      "gloss": "ڀڳا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "گليل ٿيا"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "چيو ويو"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومن ۾"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "رهندا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:40.516829503Z",
+  "model": "glm-5.3"
+}

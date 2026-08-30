@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ٻڌو هي ⟨את⟩ لفظ جيڪو آءٌ توهان تي کڻي رهيو آهيان، هڪ قينو، بيت يسرائيل جي لاءِ.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي لفظ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "کڻي رهيو آهيان"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "توهان تي"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "هڪ قينو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T12:49:28.987391952Z",
+  "model": "glm-5.3"
+}

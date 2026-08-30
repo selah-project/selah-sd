@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 108,
+  "translation": "جاڳ، اي نبل ۽ ڪنور! آئون صبح کي جاڳائيندس.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "جاڳ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "اي نبل"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "۽ ڪنور"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "آئون جاڳائيندس"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "صبح کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:47.239386984Z",
+  "model": "glm-5.3"
+}

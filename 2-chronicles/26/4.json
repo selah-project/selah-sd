@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 26:4",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ ياهوه جي نظر ۾ جيڪو سڌو ⟨هو⟩ سو ڪيائين، ان سڀ ڪجهه جي مطابق جيڪو امتسياهو سندس پيءُ ڪيو هو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ڪيائين"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "سڌو"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي نظر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ان سڀ جي مطابق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "امتسياهو"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "سندس پيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:27:39.816062368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ ڪاهنن ۽ نبين ۽ سڄي قوم ٻُڌي ⟨את⟩ يرميهو کي اِهي لفظ ياهوه جي گهر ۾ ڳالهائيندو؛",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "۽ ٻُڌي"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهنن"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "۽ نبين"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڄي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يرميهو"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرميهو"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ڳالهائيندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِهي لفظ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اِهي"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:15:23.060675476Z",
+  "model": "glm-5.3"
+}

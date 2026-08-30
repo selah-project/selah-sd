@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "اُٿ ۽ ڪُلھڙي جي گھر ۾ لھ؛ ۽ اُتي آءُ ⟨את⟩ پنھنجا لفظ توکي ٻڌائيندس.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "اُٿ"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "۽ لھ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر ۾"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "ڪُلھڙي جي"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "۽ اُتي"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "ٻڌائيندس توکي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجا لفظ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "پنھنجا لفظ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:13:44.381158161Z",
+  "model": "glm-5.3"
+}

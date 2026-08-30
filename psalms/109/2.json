@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 109,
+  "translation": "ڇوته ظالم جو ۽ فريب جو وات مون تي کوليو اٿن؛ مون سان ⟨את⟩ ڪوڙ جي زبان سان ڳالهايائون۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ظالم جو"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "۽ وات"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فريب جو"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "کوليو اٿن"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ڳالهايائون"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ مون سان",
+      "marks": "مون"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:23.049411564Z",
+  "model": "glm-5.3"
+}

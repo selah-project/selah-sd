@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ گاد جي پٽن ⟨את⟩ ديبون ۽ ⟨את⟩ عتروت ۽ ⟨את⟩ عروعير ٺاهيا.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "ٺاهيا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ديبون"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "ديبون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "عتروت"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "عتروت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "عروعير"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "عروعير"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:13.931536918Z",
+  "model": "glm-5.3"
+}

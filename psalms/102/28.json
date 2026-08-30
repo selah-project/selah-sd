@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 102,
+  "translation": "۽ تون ئي سڳيو ⟨آھين⟩، ۽ تنھنجا سال پورا نه ٿيندا.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئي سڳيو"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "۽ تنھنجا سال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "پورا ٿيندا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:46.719299620Z",
+  "model": "glm-5.3"
+}

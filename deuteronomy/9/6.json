@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 9:6",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ تون ڄاڻ ته نه تنهنجي صداقت سان ياهوه تنهنجو ايلوهيم توکي هي سگهي زمين ورتوڻ لاءِ ڏئي ٿو؛ ڇوته تون ڪڙي-گچيءَ قوم آھين.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "۽ تون ڄاڻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "تنهنجي صداقت سان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تنهنجو ايلوهيم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏئي ٿو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "سگهي"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ورتوڻ لاءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ڪڙي"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "گچيءَ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون آھين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:10.330587560Z",
+  "model": "glm-5.3"
+}

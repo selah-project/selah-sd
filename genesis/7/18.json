@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 7:18",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ پاڻي طاقتور ٿيا ۽ زمين تي تمام گھڻا وڌيا، ۽ ٻيڙي پاڻيءَ جي مُنھن تي ھلڻ لڳي.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "۽ طاقتور ٿيا"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "۽ وڌيا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام گھڻا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "۽ ھلڻ لڳي"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ٻيڙي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "جي مُنھن"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:13.640419881Z",
+  "model": "glm-5.3"
+}

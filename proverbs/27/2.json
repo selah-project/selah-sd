@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "تو کي پراوڙ ساراهي، ۽ نه پنهنجو منهن؛ اوپرو، ۽ نه پنهنجا هل.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "تو کي ساراهي"
+    },
+    {
+      "surface": "זר",
+      "gloss": "پراوڙ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "پنهنجو منهن"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "اوپرو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "پنهنجا هل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:20.079602656Z",
+  "model": "glm-5.3"
+}

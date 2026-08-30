@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 30:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "“ماڻهوءَ جو پٽ، نبوت ڪر ۽ چؤ، اهڙو چوي ٿو ادوناي ياهوه: هيلايو، هه، ان ڏينهن لاءِ!”",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ جو"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبوت ڪر"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ چؤ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اهڙو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "هيلايو"
+    },
+    {
+      "surface": "הה",
+      "gloss": "هه"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ان ڏينهن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:37:12.068134226Z",
+  "model": "glm-5.3"
+}

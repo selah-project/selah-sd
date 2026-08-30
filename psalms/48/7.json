@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "اُتي ⟨کين⟩ ڏڪر پڪڙي ورتو، درد، جهڙوڪ زائڻ عورت کي ٿيندو آهي.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "ڏڪر"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "کين پڪڙي ورتو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "درد"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "جهڙوڪ زائڻ عورت کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:06.803798015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ھڪّ ڪروب جي اوچائي ڏھ اَمَہ ھئي، ۽ اھڙيءَ طرح ٻيو ڪروب.",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "اوچائي"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ڪروب جي"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ھڪّ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏھ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "اَمَہ ۾"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "۽ اھڙيءَ طرح"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ڪروب"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻيو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:29:22.756991983Z",
+  "model": "glm-5.3"
+}

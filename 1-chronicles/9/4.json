@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "عوثي بن عميهود بن عمري بن امري بن باني — پڇ جي پٽن مان، يهودا جي پٽ جو.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "عوثي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عميهود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "عمري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "امري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "باني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پڇ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:49.593725229Z",
+  "model": "glm-5.3"
+}

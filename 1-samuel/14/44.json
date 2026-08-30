@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 14:44",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "پوءِ شاول چيو: ائين ايلوهيم ڪري ۽ ائين وڌيڪ، ڇو ته يوناتان مرڻ ضرور مرندو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "۽ ائين"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرڻ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مرندو"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "يوناتان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:10:58.094836456Z",
+  "model": "glm-5.3"
+}

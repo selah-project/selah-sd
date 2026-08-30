@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "judges 8:35",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ يرُبعل — گدعون — جي گھر سان خيسيد نه ڪيائون، ان سڀ ڀلائي جي مطابق جيڪا ھن اسرائيل سان ڪئي ھئي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪيائون"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "يرُبعل"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "گدعون"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ان سڀ جي مطابق"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ڀلائي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪئي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:59:41.495536896Z",
+  "model": "glm-5.3"
+}

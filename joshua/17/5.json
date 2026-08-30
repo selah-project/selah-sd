@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 17:5",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ منشي جا ڏهه ڀاڱا پيا، سواءِ گلعاد جي زمين ۽ باشان جي، جيڪي اردن جي پار آهن.",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "پيا"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "ڀاڱا"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشي"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "سواءِ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گلعاد جي"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "۽ باشان جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "پار"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "اردن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:13.905228158Z",
+  "model": "glm-5.3"
+}

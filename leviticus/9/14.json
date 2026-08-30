@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ هن ⟨את⟩ اندرين ۽ ⟨את⟩ پيرن کي ڌوئيو ۽ سوڙهي قربانيءَ تي مذبح تي ساڙيائين.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "ڌوئيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اندرين"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "اندرين"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پير"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "پير"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ساڙيائين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوڙهي قربانيءَ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "مذبح ڏانهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:48.742960611Z",
+  "model": "glm-5.3"
+}

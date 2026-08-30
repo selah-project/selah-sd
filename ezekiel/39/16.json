@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ پڻ شهر جو نالو هامونا ٿيندو؛ ۽ هو زمين کي پاڪ ڪندا.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر جو"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "هامونا"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "پاڪ ڪندا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين کي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:39:44.747203283Z",
+  "model": "glm-5.3"
+}

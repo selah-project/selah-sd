@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "جو ⟨את⟩ دانا سان هلي ٿو سو دانا ٿيندو؛ ۽ احمقن جو سنگتي خراب ٿيندو.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "هلي ٿو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دانا (ڀڻ ڏاڻا)"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "۽ دانا ٿيندو"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "۽ سنگتي"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "احمقن جو"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "خراب ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:11.219323646Z",
+  "model": "glm-5.3"
+}

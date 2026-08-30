@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ياهوه کان ڊِ endeڙا، سندس ساراھ ڪريو؛ يعقوب جو سڀني نسل، سندس تعظيم ڪريو؛ ۽ اسرائيل جو سڀني نسل، سندس_DEPRECATED ڊِ ileضي.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "کان ڊِ endeڙا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "سندس ساراھ ڪريو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب جو"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "سندس تعظيم ڪريو"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "۽ سندس ڊِ ileضي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:03.131280901Z",
+  "model": "glm-5.3"
+}

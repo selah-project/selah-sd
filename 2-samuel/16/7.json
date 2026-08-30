@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ شمعي لعنتون ڏيندي ائين چيو: “نڪتو، نڪتو، اي رت جو ماڻهو ۽ اي بيقدر ماڻهو!”",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "۽ ائين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعي"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "لعنتون ڏيندي"
+    },
+    {
+      "surface": "צא",
+      "gloss": "نڪتو"
+    },
+    {
+      "surface": "צא",
+      "gloss": "نڪتو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "رت جو"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ماڻهو"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "بيقدر"
+    }
+  ],
+  "timestamp": "2026-08-30T11:22:34.063713821Z",
+  "model": "glm-5.3"
+}

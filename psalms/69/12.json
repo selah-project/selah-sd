@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 69,
+  "translation": "۽ مون پنھنجو لباس ڇڻ ڪري ڇڏيو، ۽ انهن لاءِ مَثَل ٿي ويس.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "۽ ڪري ڇڏيوم"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "پنھنجو لباس"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ڇڻ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "۽ ٿي ويس"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن لاءِ"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "مَثَل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:16.223857343Z",
+  "model": "glm-5.3"
+}

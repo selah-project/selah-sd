@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "دلايه جا پٽ، طوبيا جا پٽ، نکودا جا پٽ — چار سَو چاليهه ۽ ٻه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "دلايه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "طوبيا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نخودا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چار سَو چاليهه ۽ ٻه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": ""
+    },
+    {
+      "surface": "ושנים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:06.553754054Z",
+  "model": "glm-5.3"
+}

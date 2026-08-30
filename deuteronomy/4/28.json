@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 4:28",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ توهان اتي اھڙن ايلوهيم جي خدمت ڪندؤ — ماڻھن جي ھٿن جو ڪم — لڪر ۽ پٿر، جيڪي نہ ٿا ڏسن، ۽ نہ ٿا ٻڌن، ۽ نہ ٿا کائن، ۽ نہ ٿا سنگھن.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "۽ خدمت ڪندؤ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم (سنڌين جن)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ھٿن جو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "لڪر"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "۽ پٿر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יראון",
+      "gloss": "ٿا ڏسن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نہ"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "ٿا ٻڌن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نہ"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "ٿا کائن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نہ"
+    },
+    {
+      "surface": "יריחן",
+      "gloss": "ٿا سنگھن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:38:20.301033309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "ھي م لاءِ ٿيو، ڇوته م تو جي حڪمن جي رکوالائي ڪئي.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "م لاءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "تو جي حڪمن"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "م... جي رکوالائي ڪئي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:20:14.690488229Z",
+  "model": "glm-5.3"
+}

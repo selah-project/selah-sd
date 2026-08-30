@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 26:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "اوڀر ۾ لاوي ست هئا؛ اتر ۾ روز چار، ڏکڻ ۾ روز چار، ۽ اَسُپّيم ڏانهن ٻه ۽ ٻه.",
+  "tokens": [
+    {
+      "surface": "למזרח",
+      "gloss": "اوڀر ۾"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "לצפונה",
+      "gloss": "اتر ۾"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "לנגבה",
+      "gloss": "ڏکڻ ۾"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ולאספים",
+      "gloss": "۽ اَسُپّيم ڏانهن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "۽ ٻه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:16.754951139Z",
+  "model": "glm-5.3"
+}

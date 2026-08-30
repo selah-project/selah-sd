@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 41:57",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ سڀ <>ڪُل<\/> زمين مِصري ڏانهن يوسف وٽ اناج خريد ڪرڻ لاءِ آئي، ڇوته قيع سڄي زمين تي سخت هو.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آئي"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "مِصري ڏانهن"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "خريد ڪرڻ لاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "سخت هو"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قيع"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڄي تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:49.968072477Z",
+  "model": "glm-5.3"
+}

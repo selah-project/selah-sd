@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ جڏھن ڪو مرد يا عورت ۾ ناسور ٿئي، سر ۾ يا ڏاڙھيءَ ۾ —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "۽ مرد"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿئي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "منجھس"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ناسور"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "سر ۾"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ڏاڙھيءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:59.785778670Z",
+  "model": "glm-5.3"
+}

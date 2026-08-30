@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 3:5",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ يهوشُعَ چيو ماڻهن کي: پاڻ کي پاڪ ڪريو، ڇوته سڀاڻي ياهوه اوطائن جي وچ ۾ ڪندو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُعَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "پاڻ کي پاڪ ڪريو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "سڀاڻي"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "اوطائن جي وچ ۾"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "عجيب ڪم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:41:58.239547125Z",
+  "model": "glm-5.3"
+}

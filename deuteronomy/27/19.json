@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ملعون آهي جيڪو مسافر، يتيم ۽ آيل جو فيصلو ڏنگو ڪندو آهي؛ ۽ سڀ ماڻهو چوندا: آمين.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون آهي"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ڏنگو ڪندو آهي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فيصلو"
+    },
+    {
+      "surface": "גר",
+      "gloss": "مسافر"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "يتيم"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "۽ آيل (وينٺ عورت)"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چوندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:21.654662111Z",
+  "model": "glm-5.3"
+}

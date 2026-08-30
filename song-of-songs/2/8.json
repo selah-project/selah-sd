@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "منھنجي يار جي آواز! ھلو، ھيڙو اچي ٿو، جبلن تي ٽپا ڏئي، ٽڪرين تي اڇلجي.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "منھنجي يار جي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ھلو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ھيڙو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "ٽپا ڏئي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "جبلن"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "اڇلجي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ٽڪرين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:31.875070371Z",
+  "model": "glm-5.3"
+}

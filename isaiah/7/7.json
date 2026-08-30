@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "اِيئن چوي ٿو ادوناي يَهووَه: اُهو قائم نه ٿيندو ۽ نه ٿيندو.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اِيئن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يَهووَه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "قائم ٿيندو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:35.952347181Z",
+  "model": "glm-5.3"
+}

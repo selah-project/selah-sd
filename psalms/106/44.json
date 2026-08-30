@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 106,
+  "translation": "۽ هن سندن تڪليف ۾ ڏٺو، جڏهن هن ⟨את⟩ سندن رڙ ٻڌي.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "هن ڏٺو"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "تڪليف ۾"
+    },
+    {
+      "surface": "להם",
+      "gloss": "سندن"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "جڏهن هن ٻڌي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندن رڙ"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "سندن رڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:50.995279032Z",
+  "model": "glm-5.3"
+}

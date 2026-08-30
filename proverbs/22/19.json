@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 22:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ته تنهنجو ڀروسو ياهوه ۾ هجي؛ مون تو کي اَڄ ڄاڻايو آهي، ها، تو کي ئي.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "ته هجي"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه ۾"
+    },
+    {
+      "surface": "מבטחך",
+      "gloss": "تنهنجو ڀروسو"
+    },
+    {
+      "surface": "הודעתיך",
+      "gloss": "مون تو کي ڄاڻايو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَڄ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ها، ئي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:50.266753944Z",
+  "model": "glm-5.3"
+}

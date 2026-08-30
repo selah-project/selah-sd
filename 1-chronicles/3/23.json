@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ نعرَياھ جا پٽ: اِليوعينَي ۽ حزقياھ ۽ عزرِيقام — ٽي.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "نعرَياھ"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "اِليوعينَي"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "۽ حزقياھ"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "۽ عزرِيقام"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:54.110467942Z",
+  "model": "glm-5.3"
+}

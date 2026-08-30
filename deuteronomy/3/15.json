@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ مکير کي مون ⟨את⟩ گلعاد ڏنو.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "۽ مکير کي"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "مون ڏنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گلعاد"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گلعاد"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:05.198313637Z",
+  "model": "glm-5.3"
+}

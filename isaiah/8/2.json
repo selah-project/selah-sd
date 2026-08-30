@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ مون پاڻ لاءِ سچا شاهد ڪيا: ⟨את⟩ اوريا ڪاهن ۽ ⟨את⟩ زڪريا ابن يبڑڪياهو.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "۽ مون شاهد ڪيا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "سچا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوريا ڪاهن"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اوريا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "زڪريا"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "زڪريا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "يبڙڪياهو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:49:12.604708476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ان زمين مان اشور نڪتو، ۽ ⟨את⟩ نينوهه ۽ ⟨את⟩ رحوبوت-عير ۽ ⟨את⟩ كلاح کي ٺاهيو.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ان زمين"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نڪتو"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اشور"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "۽ ٺاهيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نينوهه"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نينوهه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "رحوبوت-عير"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "رحوبوت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عير"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "كلاح"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "كلاح"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:42.771877566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "جيڪو ظالم کي چوي ”تون نيڪ آهين“، ماڻهوءَ (قومون) کيس لعنت ڪن، امتون کيس لعنٽين.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "چوي"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ظالم کي"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "لعنت ڪن"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ماڻهوءَ (قومون)"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "لعنٽين"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "امتون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:21.263612803Z",
+  "model": "glm-5.3"
+}

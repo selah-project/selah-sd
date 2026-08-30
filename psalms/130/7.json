@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 130,
+  "translation": "اِسرائيل! ياهوه تي اُميد رک، ڇوته ياهوه وٽ خيسيد آهي، ۽ سندس وٽ ڀرپور مُڪتائي آهي.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "اُميد رک"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עם",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "۽ ڀرپور"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس وٽ"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "مُڪتائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:43.124924091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "چوڌوري بدڪار چڱلائن ٿا، جڏهن ڌوڪو ابن آدم ۾ مٿي ڪيو وڃي ٿو.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "چوڌوري"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدڪار"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "چڱلائن ٿا"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "جڏهن مٿي ڪيو وڃي ٿو"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "ڌوڪو"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:00:17.701459901Z",
+  "model": "glm-5.3"
+}

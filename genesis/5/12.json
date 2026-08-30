@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ قينان ستر سالن جي ڄمار جيئري رهيو ۽ ⟨את⟩ مهلالئيل کي ڄايو.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جيئري رهيو"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قينان"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "۽ ڄايو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مهلالئيل"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مهلالئيل"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:55.800634683Z",
+  "model": "glm-5.3"
+}

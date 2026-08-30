@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "اونداهي ۽ موت جي اوت ۾ ويٺل، ڏک ۽ زنجيرن جا قيدي،",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "ويٺل"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اونداهي ۾"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "۽ موت جي اوت"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "قيدي"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ڏک جا"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "۽ زنجيرن جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:31.564895583Z",
+  "model": "glm-5.3"
+}

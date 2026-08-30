@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 62,
+  "translation": "البت هٻل آهي آدم جا پٽ، ڪوڙ آهي اِيش جا پٽ؛ تارازين ۾ مٿي چڙهن لاءِ، اهي هٻل کان گڏجي ⟨به هلڪا آهن⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "البت"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هٻل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ڪوڙ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِيش"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "تارازين ۾"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "مٿي چڙهن لاءِ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "هٻل کان"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "گڏجي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:35.234094449Z",
+  "model": "glm-5.3"
+}

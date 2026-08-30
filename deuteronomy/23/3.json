@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ممزر ياهوه جي مجلس ۾ نه اچي؛ گڏوگڏڏھين نسل تائين به اُنجي لاءِ ياهوه جي مجلس ۾ نه اچي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "ممزر"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "مجلس ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "گڏوگڏ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "ڏھين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "انجي لاءِ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "مجلس ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:27.856308667Z",
+  "model": "glm-5.3"
+}

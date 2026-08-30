@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 67,
+  "translation": "ته زمين ۾ تنهنجو رستو سڃاتو وڃي، سڀ قومن ۾ تنهنجو نجات۔",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ته سڃاتو وڃي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "تنهنجو رستو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن ۾"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "تنهنجو نجات"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:45.736298255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "اسان جون واٽون ڳوليون ۽ پرکيون، ۽ ياهوه ڏانھن موٽون.",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "ڳوليون"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "اسان جون واٽون"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "۽ پرکيون"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "۽ موٽون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:12.418973279Z",
+  "model": "glm-5.3"
+}

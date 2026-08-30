@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ڪناعان پيدا ڪيو ⟨את⟩ صيدون پنھنجي پھريون ڄاول کي ۽ ⟨את⟩ حِتّ کي.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "۽ ڪناعان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صيدون"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صيدون"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "پنھنجي پھريون ڄاول"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حِتّ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِتّ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:37.421717560Z",
+  "model": "glm-5.3"
+}

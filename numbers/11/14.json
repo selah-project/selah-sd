@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "مان اڪيلو سڀني ⟨את⟩ هن قوم کي کڻي نٿو سگهان، ڇوته اھو مون کان گھڻو ڳرو آھي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "سگهان"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مان"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "اڪيلو"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "کڻي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀني هن قوم کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ڳرو"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مون کان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:31.684926162Z",
+  "model": "glm-5.3"
+}

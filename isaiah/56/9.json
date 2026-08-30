@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 56,
+  "translation": "سڀ ميدان جا جانور، اچو ته کائو، سڀ ٻيلي جا جانور۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ميدان جا"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "اچو"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "کائڻ لاءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ٻيلي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:02:28.376674413Z",
+  "model": "glm-5.3"
+}

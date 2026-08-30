@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "پوءِ شيت پنج سال ۽ ⟨את⟩ هڪ سَو سال جيئو رهيو، ۽ پاڻ ⟨את⟩ اينوش کي پيدا ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جيئو رهيو"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شيت"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "۽ هڪ سَو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "پيدا ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اينوش"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "اينوش"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:47.094264329Z",
+  "model": "glm-5.3"
+}

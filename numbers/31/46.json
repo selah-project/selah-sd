@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ماڻهن جي جانَن جي سورھ هزار،",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "۽ جانَن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهن جي"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "سورھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:41.098011839Z",
+  "model": "glm-5.3"
+}

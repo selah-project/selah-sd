@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "مveگ پيتي ۽ سون ۽ چاندي، ٽامي، لوھ، ڪاٺ ۽ پٿر جي ايلھن جي واکاڻ ڪيائون.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "پيتي"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "۽ واکاڻ ڪيائون"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ايلھن جي"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "سون"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "۽ چاندي"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "ٽامي"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "لوھ"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "ڪاٺ"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "۽ پٿر"
+    }
+  ],
+  "timestamp": "2026-08-30T15:08:41.573575900Z",
+  "model": "glm-5.3"
+}

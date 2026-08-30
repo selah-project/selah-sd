@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ اِلعاساه ⟨את⟩ سِسمايِي کي پيد ڪيو، ۽ سِسمايِي ⟨את⟩ شلوم کي پيد ڪيو.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "۽ اِلعاساه"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پيد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سِسمايِي"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "سِسمايِي"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "۽ سِسمايِي"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پيد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلوم"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلوم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:45.866510596Z",
+  "model": "glm-5.3"
+}

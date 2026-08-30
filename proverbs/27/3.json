@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "پٿر جي ڳوري ۽ ريت جو بار، پر بيوقوف جي ڪاوڙ ٻنهي کان ڳيري آهي.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ڳوري"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پٿر جي"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "۽ بار"
+    },
+    {
+      "surface": "החול",
+      "gloss": "ريت"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "پر ڪاوڙ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "بيوقوف جي"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ڳيري"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ٻنهي کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:20.079745982Z",
+  "model": "glm-5.3"
+}

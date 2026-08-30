@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ياهوه پنھنجو منھن تو تي چمڪي ۽ تو تي مھربان ٿئي.",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "چمڪي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "پنھنجو منھن"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تو تي"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "۽ تو تي مھربان ٿئي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:46.278802847Z",
+  "model": "glm-5.3"
+}

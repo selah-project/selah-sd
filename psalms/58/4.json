@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 58,
+  "translation": "ظالم پيٽ مان پرايا ٿيا؛ ڳڀ کان ئي راهه وڃائي ڇڏيائون، ڪوڙ ڳالهائيندڙ.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "پرايا ٿيا"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "پيٽ مان"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "راهه وڃائي"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ڳڀ کان"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالهائيندڙ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ڪوڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:41.035063901Z",
+  "model": "glm-5.3"
+}

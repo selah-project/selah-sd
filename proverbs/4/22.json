@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ڇوتهه اهي جيون ⟨آهن⟩ انهن لاءِ جي کين ڳولين، ۽ سندن سڄيءَ گوشت لاءِ شفا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهه"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جيون"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "انهن لاءِ جي کين ڳولين"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "۽ سڄيءَ لاءِ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "سندن گوشت"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:56.563103453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 2:25",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ته بنيامين جا پٽ ابنر پٺيان گڏ ٿيا ۽ ھڪ ٽولي ٿي بيٺا ۽ ھڪ ٽڪريءَ جي مٿڀري تي بيٺا.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "گڏ ٿيا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پٺيان"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ابنر"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "לאגדה",
+      "gloss": "ھڪ ٽولي"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "بيٺا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿڀري"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "ٽڪريءَ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:47:14.590692019Z",
+  "model": "glm-5.3"
+}

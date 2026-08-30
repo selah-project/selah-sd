@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 2:18",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "پوءِ اُهي رعويل پنهنجي پيءُ وٽ آيون، تنهن چيو: ”اوهين اڄ ڇو اهڙي جلدي موٽي آيون؟“",
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "آيون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعويل"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "پنهنجي پيءُ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "מהרתן",
+      "gloss": "جلدي ڪري"
+    },
+    {
+      "surface": "בא",
+      "gloss": "موٽي آيون"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اڄ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:58.803820481Z",
+  "model": "glm-5.3"
+}

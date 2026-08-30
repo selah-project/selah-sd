@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "تنھنڪري آءُ توکي حڪم ڪريان ٿو چوندو: تو لاءِ ٽي شھر الڳ ڪر.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تنھن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءُ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "توکي حڪم ڪريان ٿو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شھر"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "الڳ ڪر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:39.687244832Z",
+  "model": "glm-5.3"
+}

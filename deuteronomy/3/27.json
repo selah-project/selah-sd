@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 3:27",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "چڙھ پسگاه جي مٿي تي، ۽ پنهنجيون اکيون کڻ اولھ ۽ اتر ۽ ڏکڻ ۽ اوڀر، ۽ پنهنجين اکين سان ڏس، ڇو ته تون ⟨את⟩ هي يردن نه لنگھندين.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "چڙھ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "پسگاه"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "۽ کڻ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "پنهنجيون اکيون"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "اولھ"
+    },
+    {
+      "surface": "וצפנה",
+      "gloss": "۽ اتر"
+    },
+    {
+      "surface": "ותימנה",
+      "gloss": "۽ ڏکڻ"
+    },
+    {
+      "surface": "ומזרחה",
+      "gloss": "۽ اوڀر"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏس"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "پنهنجين اکين سان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "لنگھندين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي يردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "يردن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:32.373812276Z",
+  "model": "glm-5.3"
+}

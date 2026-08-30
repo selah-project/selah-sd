@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 10:25",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "هالوچيش، پلچا، شوبڪ،",
+  "tokens": [
+    {
+      "surface": "הלוחש",
+      "gloss": "هالوچيش"
+    },
+    {
+      "surface": "פלחא",
+      "gloss": "پلچا"
+    },
+    {
+      "surface": "שובק",
+      "gloss": "شوبڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:45.422669853Z",
+  "model": "glm-5.3"
+}

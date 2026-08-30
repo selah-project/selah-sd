@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڇونke ڏُکَ ڏِئِي ٿو، پر پوءِ رَحم ڪَري ٿو، پنھنجِي مِهرَ جِي گَهَٽائي مُطابِق.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇونke"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ڀَلي"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "ڏُکَ ڏِئِي ٿو"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "رَحم ڪَري ٿو"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "گَهَٽائي مُطابِق"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "پنھنجِي مِهرَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:19.552122386Z",
+  "model": "glm-5.3"
+}

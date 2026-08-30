@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "پوءِ بنيامين ۽ يهوداه جي پٽن مان داويد وٽ مَصيده تائين آيا.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "پوءِ آيا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جي پٽن"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "۽ يهوداه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "مَصيده ڏانهن"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "داويد وٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:43.447339546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ جڏھن تون کيس پاڻ کان آزاد موڪليندو، تون کيس خالي موڪليندو ئي نه.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "۽ جڏھن"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "تون کيس موڪليندو"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "آزاد"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "پاڻ کان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "تون کيس موڪليندو"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "خالي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:41:33.049084463Z",
+  "model": "glm-5.3"
+}

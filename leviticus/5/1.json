@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ جڏهن ڪو نفس گنهه ڪري ۽ قسم جي آواز ٻڌي، ۽ ⟨هو⟩ شاهد هجي — يا ڏٺو هجي يا ڄاڻي — جيڪڏهن ٻڌائي نه ته ⟨هو⟩ پنهنجو گناهه کڻندو.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "۽ نفس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "گنهه ڪري"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "۽ ٻڌي"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "قسم (لعنت)"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏٺو هجي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ٻڌائي"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "۽ کڻندو"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "پنهنجو گناهه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:58.369504868Z",
+  "model": "glm-5.3"
+}

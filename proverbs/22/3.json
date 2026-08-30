@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "هوشيار بڇڙائي ڏسي لڪي وڃي ٿو ۽ سادا لوڪ اڳتي وڌن ٿا ۽ سزا پائن ٿا.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "هوشيار"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏسي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بڇڙائي"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "۽ لڪي وڃي ٿو"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "۽ سادا لوڪ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "اڳتي وڌن ٿا"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "۽ سزا پائن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:56.497503541Z",
+  "model": "glm-5.3"
+}

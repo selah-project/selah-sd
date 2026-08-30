@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ان سال ۾ جنهنجو بادشاهه آحاز مريو، هي بار ⟨پيو⟩ ٿيو.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ان سال ۾"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مريو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آحاز"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:51:03.923651352Z",
+  "model": "glm-5.3"
+}

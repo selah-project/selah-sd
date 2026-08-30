@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ ياهوه ۾ سرهو ٿاءُ، ته هو تنهنجي دل جون خواهشون تو کي ڏيندو۔",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "۽ سرهو ٿاءُ"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "۽ هو ڏيندو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو کي"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "خواهشون"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دل جون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:12.478429774Z",
+  "model": "glm-5.3"
+}

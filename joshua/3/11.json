@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 3:11",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڏسو، سڄي زمين جي ادوناي جي عھد جو صندوق توهان جي اڳيان جردن ۾ لنگهندو.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عھد جي"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگهندو"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "توهان جي اڳيان"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "جردن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:49:03.457821797Z",
+  "model": "glm-5.3"
+}

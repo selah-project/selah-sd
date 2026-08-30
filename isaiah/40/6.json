@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "ھڪ اواز چوي ٿو: ”پڪار!“ ۽ ⟨ڪير〉 چوي ٿو: ”مان ڇا پڪاران؟ سارو بت گاھ آھي، ۽ سندس سارو خيسيد کيت جي گل جهڙو آھي.“",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "اواز"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "پڪار"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چوي ٿو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "پڪاران"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارو"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "بت"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گاھ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سارو"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "گل جهڙو"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کيت جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:58:54.196072026Z",
+  "model": "glm-5.3"
+}

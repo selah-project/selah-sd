@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ پوءِ نڪتو سندس ڀاءُ، جنهنجي ھٿ تي ڳاڙسي ڌاڳو ھو؛ ۽ هن سندس نالو زَرَح رکيو.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "۽ پوءِ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نڪتو"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "سندس ڀاءُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهنجي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ھٿ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ڳاڙسي ڌاڳو"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ رکيو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالو"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زَرَح"
+    }
+  ],
+  "timestamp": "2026-08-30T09:51:42.754986044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ قوم پري بيٺي، ۽ موشي اُن ۾ٿلهي اونداهيءَ وٽ ويجهو ٿيو، جتي ايلوهيم هو.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "۽ بيٺي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "پري"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "۽ موشي"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ويجهو ٿيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "ٿلهي اونداهيءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:00.779240250Z",
+  "model": "glm-5.3"
+}

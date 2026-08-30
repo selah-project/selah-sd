@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 32:1",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ ٿيو، ٻارھين سال ۾، ٻئين ٻارهين مهيني ۾، مهيني جي پھرئين ڏينھن، ياهوه جو لفظ مون وٽ آيو، چوڻ لاءِ،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "۾ ٻن"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ٻارهن"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "۾ ٻارهين"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ـ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "مهيني"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "جي پھرئين ڏينھن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني جي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:38:39.989394310Z",
+  "model": "glm-5.3"
+}

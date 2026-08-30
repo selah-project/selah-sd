@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "يصهار جا پٽ: شلومِٿ سردار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "يصهار"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "شلومِٿ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    }
+  ],
+  "timestamp": "2026-08-30T15:11:12.762824915Z",
+  "model": "glm-5.3"
+}

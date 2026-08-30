@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 72,
+  "translation": "۽ ھن جي راڄ سمنڊ کان سمنڌ تائين، ۽ درياھ کان زمين جي ڇيڙن تائين ھوندي.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "۽ راڄ ڪندو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سمنڊ کان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمنڌ"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "۽ درياھ کان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ڇيڙن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:00.553596952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 34:6",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ منشيه ۽ افرايم ۽ شمعون جي شهرن ۾، نفتالي تائين، انهن جي ڀڙاسن ۾ چوڌاري (اهو ڪيائين).",
+  "tokens": [
+    {
+      "surface": "ובערי",
+      "gloss": "۽ شهرن ۾"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشيه"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "۽ افرايم"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "۽ شمعون"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ تائين"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ڀڙاسن ۾"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "انهن جي"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:31:51.421838824Z",
+  "model": "glm-5.3"
+}

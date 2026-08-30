@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "پوءِ يوسف جا ڏهن ڀائر لهي آيا ته متصرايم مان اَنَ خريد ڪن.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "پوءِ لهي آيا"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "جا ڀائر"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ته خريد ڪن"
+    },
+    {
+      "surface": "בר",
+      "gloss": "اَنَ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "متصرايم مان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:13.966794802Z",
+  "model": "glm-5.3"
+}

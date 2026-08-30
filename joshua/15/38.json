@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ دلعان ۽ هممصپه ۽ يوقتيئل،",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "۽ دلعان"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "۽ هممصپه"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "۽ يوقتيئل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:38.414365281Z",
+  "model": "glm-5.3"
+}

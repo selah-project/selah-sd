@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 69,
+  "translation": "ڇوته تنهنجي لاءِ مون توبيخ کٽي آهي؛ لج ڄڻ مونجو منهن ڍڪي ڇڏيو آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تنهنجي لاءِ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "مون کٽي آهي"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "توبيخ"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ڍڪي ڇڏيو آهي"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "لج"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مونجو منهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:33.640219588Z",
+  "model": "glm-5.3"
+}

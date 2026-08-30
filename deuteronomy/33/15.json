@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ اوڀر جي جبلن جي چوٽيءَ کان، ۽ هميشه جي ٽڪرين جي چونڊ سوغاتن کان،",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "۽ چوٽيءَ کان"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "جبلن جي"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "اوڀر جي"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "۽ چونڊ سوغاتن کان"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ٽڪرين جي"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:14.339342077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "توهان مون کي ⟨את⟩ جواب ڏنو ۽ چيوتو: جيڪو تون ڪرڻ لاءِ چيو آهي، سو ڪم چڱو آهي.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "۽ توهان جواب ڏنو"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مون کي"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "۽ چيوتو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "تون چيو آهي"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:41.312987641Z",
+  "model": "glm-5.3"
+}

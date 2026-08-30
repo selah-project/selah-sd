@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 32:19",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ ياهوه ڏٺو ۽ڪجهل ٿي ويو، پنهنجن پٽن ۽ پنهنجن ڌيين جي ڪاوڙ سببان.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏٺو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "۽ڪجهل ٿي ويو"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "ڪاوڙ سببان"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پنهنجن پٽن"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "۽ پنهنجن ڌيين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:04.540932422Z",
+  "model": "glm-5.3"
+}

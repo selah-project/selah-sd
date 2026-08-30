@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "احينادب پٽ عدو، مَحنيم ۾۔",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "احينادب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "عدو"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "مَحنيم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:27:10.609606957Z",
+  "model": "glm-5.3"
+}

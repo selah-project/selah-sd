@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 13:19",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ٿيندو، پچڙي جي جاءِ تي، اڀريل اڇو تهڙو يا اڇو داغ ڳاڙهاسرو، ۽ ڪاهن ڏانهن ڏسبو،",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "جي جاءِ تي"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "پچڙي"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "اڀريل"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "اڇو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "اڇو"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "ڳاڙهاسرو"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "۽ ڏسبو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:46.782490314Z",
+  "model": "glm-5.3"
+}

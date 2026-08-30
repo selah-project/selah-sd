@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 41:40",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "تو منهنجي گهر تي هجندي، ۽ تنهنجي وات تي منهنجو سڀ قوم چُمندو؛ رڳو تخت ۾ آءُ تنکان وڏو آهيان.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "هجندي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "منهنجي گهر"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تنهنجي وات"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "چُمندو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منهنجو قوم"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "تخت ۾"
+    },
+    {
+      "surface": "אגדל",
+      "gloss": "وڏو آهيان"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تنکان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:09.255836783Z",
+  "model": "glm-5.3"
+}

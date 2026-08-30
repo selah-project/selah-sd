@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "منهنجي قوم، مَن توءِ سان ڇا ڪيو؟ ۽ ڪهڙي شيءِ ۾ توءِ کي thڪايو؟ مون سان جواب ڏي.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "منهنجي قوم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توءِ سان"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "۽ ڇا"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "توءِ کي thڪايو"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "جواب ڏي"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون سان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:53:20.266202204Z",
+  "model": "glm-5.3"
+}

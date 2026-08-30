@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "صوفخ جا پٽ سوخ ۽ حرفنفر ۽ شوعل ۽ بيري ۽ يمره.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "صوفخ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "سوخ"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "۽ حرفنفر"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "۽ شوعل"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "۽ بيري"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "۽ يمره"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:11.855732452Z",
+  "model": "glm-5.3"
+}

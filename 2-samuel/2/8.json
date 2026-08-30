@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ اَبنير، پُٽ نير، سائول جي لشڪر جو سردار، ⟨את⟩ اِش بوشت پُٽ سائول کي وٺي مَحَنايم ڏانهن وٺي ويو.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "۽ اَبنير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "نير"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشڪر جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "سائول جو"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "وٺي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِش بوشت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِش"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "بوشت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "سائول"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "۽ وٺي ويو"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "مَحَنايم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:17:17.688604345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 48:6",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "ڀڳو، پنھنجي جان بچايو، ۽ ٿيو جيئن بيابان ۾ اڪيلو وڻ!",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "ڀڳو"
+    },
+    {
+      "surface": "מלטו",
+      "gloss": "بچايو"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "پنھنجي جان"
+    },
+    {
+      "surface": "ותהיינה",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כערוער",
+      "gloss": "جيئن اڪيلو وڻ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:09.663573700Z",
+  "model": "glm-5.3"
+}

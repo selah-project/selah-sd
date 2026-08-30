@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ارح جا پٽ، ڇهه سَو ٻاونٺ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ارح"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاهه"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:16.155690840Z",
+  "model": "glm-5.3"
+}

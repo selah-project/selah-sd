@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 26:27",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "لڙائين مان ۽ لُٽ مان جيڪو کين مليو، سو کين ياهوه جي گھر کي مضبوط ڪرڻ لاءِ پاڪ ڪيو.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "המלחמות",
+      "gloss": "لڙائين"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "لُٽ"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "پاڪ ڪيائون"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "مضبوط ڪرڻ لاءِ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "جي گھر کي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:19.500480319Z",
+  "model": "glm-5.3"
+}

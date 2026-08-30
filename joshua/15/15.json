@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ ڪالب اُتيان دبير جي رهواسين تي چڙهي ويو؛ ۽ دبير جو اڳوڻو نالو قرياث سفر هو.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "۽ چڙهي ويو"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اُتيان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رهواسين"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دبير"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دبير جو"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "اڳوڻو"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قرياث"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سفر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:51.923535112Z",
+  "model": "glm-5.3"
+}

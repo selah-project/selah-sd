@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "خوش دل ⟨هڏيون⟩ چڱيون ڪري ٿو ۽ ڪٽيل روح هڏيون سُڪائي ٿو.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "چڱيون ڪري ٿو"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "علاج"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "۽ روح"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "ڪٽيل"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "سُڪائي ٿو"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "هڏيون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:17.184276369Z",
+  "model": "glm-5.3"
+}

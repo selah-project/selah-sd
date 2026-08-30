@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ڪا به گھٽيا واري شيءِ نه کائج.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کائج"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪا به"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "گھٽيا واري شيءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:39.072392732Z",
+  "model": "glm-5.3"
+}

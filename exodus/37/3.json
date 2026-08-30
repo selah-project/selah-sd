@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 37:3",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ ان لاءِ چار سون جون انڳليون اُڪريائين، ان جي چار پاٽن تي — ان جي هڪ پاسو تي ٻه انڳليون، ۽ ٻئي پاسو تي ٻه انڳليون.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "۽ اُڪريائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان لاءِ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "انڳليون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "פעמתיו",
+      "gloss": "پاٽن"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "انڳليون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "پاسو"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "انڳليون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "پاسو"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ٻئي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:11.859896403Z",
+  "model": "glm-5.3"
+}

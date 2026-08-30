@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 106,
+  "translation": "تنهنڪري ⟨ھو⟩ مٿن پنهنجو هٿ کڻيو، ⟨את⟩ کين بيابان ۾ ڪيرائڻ لاءِ،",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "کڻيو"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "پنهنجو هٿ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "مٿن"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "ڪيرائڻ لاءِ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ کين"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:01.186378416Z",
+  "model": "glm-5.3"
+}

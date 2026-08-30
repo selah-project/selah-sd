@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ اليشع مٿس چيو، ”کڻي آءُ ڌنش ۽ تير.“ ۽ مٿس کڻي آندائين ڌنش ۽ تير.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "اليشع"
+    },
+    {
+      "surface": "קח",
+      "gloss": "کڻي آءُ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ڌنش"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "۽ تير"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "۽ کڻي آندائين"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ڌنش"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "۽ تير"
+    }
+  ],
+  "timestamp": "2026-08-30T11:43:01.267231082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 21:28",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ياهوه جو لفظ ايلياھو تشبيءَ ڏانهن ٿيو، چوڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ايلياھو"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "تشبي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:37:20.001109787Z",
+  "model": "glm-5.3"
+}

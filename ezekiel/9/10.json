@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ مان به نه رحم ڪندس، نه捷径 ٽاريندس؛ مان سندن رستي کي سندن سر تي وجھندس.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "رحم ڪندس"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "منهنجي اک"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "ٽاريندس"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "سندن رستي"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "سندن سر تي"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "وجھندس"
+    }
+  ],
+  "timestamp": "2026-08-30T12:28:53.514005748Z",
+  "model": "glm-5.3"
+}

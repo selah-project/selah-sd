@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 11:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ڪير آهي جيڪو ڏاڙهي ٿو ۽ وري وڌي ٿو، ۽ جيڪو نيڪيءَ کان روڪي ٿو، سو رڳو ڪميءَ ڏي وڃي ٿو.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ڪير آهي"
+    },
+    {
+      "surface": "מפזר",
+      "gloss": "ڏاڙهي ٿو"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "۽ وڌي ٿو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "וחושך",
+      "gloss": "۽ روڪي ٿو"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "نيڪيءَ کان"
+    },
+    {
+      "surface": "אך",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "ڪميءَ ڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:49.553410200Z",
+  "model": "glm-5.3"
+}

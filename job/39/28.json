@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 39:28",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "پهاڙ تي رهي ٿو ۽ ٽڪر تي اجهو ٿو — پهاڙ جي ڏنڊي ۽ مضبوط جاءِ تي.",
+  "tokens": [
+    {
+      "surface": "סלע",
+      "gloss": "پهاڙ تي"
+    },
+    {
+      "surface": "يשכן",
+      "gloss": "رهي ٿو"
+    },
+    {
+      "surface": "ולון",
+      "gloss": "۽ اجهو ٿو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ڏنڊي"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "پهاڙ جي"
+    },
+    {
+      "surface": "ומצודה",
+      "gloss": "۽ مضبوط جاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:18.851347133Z",
+  "model": "glm-5.3"
+}

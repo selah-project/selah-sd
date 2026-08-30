@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ڇوته جيڪي اهڙيون ڪمن کي ڪن ‎۽ جيڪو بي انصافي ڪري، سڀ ياهوه توهان جي ايلوهيم لاءِ نفرت جي شئي آهن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "نفرت جي شئي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "توهان جي ايلوهيم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪن"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اهڙيون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "עול",
+      "gloss": "بي انصافي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:14.257074905Z",
+  "model": "glm-5.3"
+}

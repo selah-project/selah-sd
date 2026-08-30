@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ شَلَح ⟨את⟩ عِيبر کي پيدا ڪرڻ کان پوءِ ٽي سال ۽ چار سَو سال جِيائي، ۽ پُٽن ۽ ڌِيئن کي پيدا ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِيائي"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شَلَح"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "پيدا ڪرڻ کان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِيبر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِيبر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "پيدا ڪيائين"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُٽن"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "۽ ڌِيئن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:55.662861132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 12:18",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "اِڀائي، پنهنجي ماني ڪانڀ ۾ کاءِ، ۽ پنهنجو پاڻي ڪمپ ۽ ڊپ سان پيءُ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِڀائي"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "پنهنجي ماني"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "ڪانڀ ۾"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کاءِ"
+    },
+    {
+      "surface": "ומימיך",
+      "gloss": "۽ پنهنجو پاڻي"
+    },
+    {
+      "surface": "ברגזה",
+      "gloss": "ڪمپ ۾"
+    },
+    {
+      "surface": "ובדאגה",
+      "gloss": "۽ ڊپ سان"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "پيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:29:03.693900045Z",
+  "model": "glm-5.3"
+}

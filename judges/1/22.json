@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ يوسف جو گهر، اهي به بيت ايل تي چڙيا؛ ۽ ياهوه ⟨ان جي⟩ ساڻ هئو.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "چڙيا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف جو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "۽ ياهوه"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ساڻ هئو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:56:17.488080508Z",
+  "model": "glm-5.3"
+}

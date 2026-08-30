@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ياهوه جو لفظ اِلياهو تِشبيءَ ڏانهن آيو، چوڻ ته:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلياهو"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "تِشبي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته"
+    }
+  ],
+  "timestamp": "2026-08-30T11:36:38.815561969Z",
+  "model": "glm-5.3"
+}

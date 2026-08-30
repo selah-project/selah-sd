@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ڪوهن پنهنجي آنگر ⟨את⟩ رت ۾ ٻوڙي، ياهوه جي اڳيان پَرَڏ جي منهن تي ⟨את⟩ رت مان ست ڀيرا چِٿي.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ٻوڙي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آنگر"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "پنهنجي آنگر"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "رت ۾"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "چِٿي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ڀيرا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منهن (پرَڏ جي)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منهن تي"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "پَرَڏ جي"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "قدس جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:46.412536970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 118,
+  "translation": "ياهوه مون جي آھي؛ آءٌ نه ٿو ڊران؛ انسان مون لاءِ ڇا ڪري سگهندو؟",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "آءٌ ڊران"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪري سگهندو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:39.578707898Z",
+  "model": "glm-5.3"
+}

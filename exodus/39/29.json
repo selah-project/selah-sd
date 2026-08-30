@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 39:29",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ ⟨את⟩ پٽو — ڇڙو مڻيل سنَڻ، ۽ نيلي، ۽ ارغواني، ۽ ڳاڙهي سنجهي — ڪَڍڻ واري جو ڪم، جيئن ياهوه موشي کي حڪم ڏنو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پٽو"
+    },
+    {
+      "surface": "האבנט",
+      "gloss": "پٽو"
+    },
+    {
+      "surface": "שש",
+      "gloss": "سنَڻ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "مڻيل"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "نيلي"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ارغواني"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ڳاڙهي"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سنجهي"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "ڪَڍڻ وارو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:37:10.808365607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "“پاڻ لاءِ ڪوبه تراشيل مورت نه ٺاهجين، ڪابه شڪل جيڪا آسمانن ۾ مٿي هجي، ۽ جيڪا زمين ۾ هيٺ هجي، ۽ جيڪي پاڻين ۾ زمين جي هيٺان هجن.”",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ٺاهجين"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "پסל",
+      "gloss": "تراشيل مورت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪابه"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "شڪل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانن ۾"
+    },
+    {
+      "surface": "مמעל",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "۽ جيڪا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "۽ جيڪي"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻين ۾"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "هيٺان"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:25.359348225Z",
+  "model": "glm-5.3"
+}

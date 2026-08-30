@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ان ۾ هڪ غريب سجاڙيو ماڻهو مليو، ۽ هو پنهنجي حكمت سان ⟨את⟩ شهر کي بچائي ويو؛ پر ڪوبه ماڻهو ⟨את⟩ ان غريب ماڻهو کي ياد نه ڪيو.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "۽ مليو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سجاڙيو"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "۽ بچائي ويو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر کي"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر کي"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "پنهنجي حكمت سان"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "پر ڪوبه ماڻهو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ياد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان ماڻهو کي"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ان ماڻهو کي"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:33.630154416Z",
+  "model": "glm-5.3"
+}

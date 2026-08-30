@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ هن (حباب) مٿس چيو: مان نه ويندس؛ پر پنھنجي ملڪ ۽ پنھنجي ڄمڀومي ڏانهن ويندس.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ويندس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ٻيsrڳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "پنھنجي ملڪ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ڏانهن"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "پنھنجي ڄمڀومي"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ويندس"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:17.736805765Z",
+  "model": "glm-5.3"
+}

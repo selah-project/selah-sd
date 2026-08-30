@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "هڪ ڏاند، ڍڳي جو پٽ، هڪ رام، هڪ لام، هڪ سال جو پٽ، عولہ (ساڙڻ جي قرباني) لاءِ۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳي جو"
+    },
+    {
+      "surface": "איל",
+      "gloss": "رام"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "لام"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "سال جو"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "عولہ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:26.654442719Z",
+  "model": "glm-5.3"
+}

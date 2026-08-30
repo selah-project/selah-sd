@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ياهوه جي لعنت رشيءَ جي گهر ۾ ⟨آھي⟩، پر نيڪن جي رھائش کي ⟨هو⟩ برڪت ڏئي ٿو.",
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "جي گهر ۾"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشيءَ"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "۽ رھائش"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نيڪن جي"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برڪت ڏئي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:56.433041030Z",
+  "model": "glm-5.3"
+}

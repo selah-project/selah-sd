@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "اھو انصاف ۽ فيصلي کي پريت ڪري ٿو؛ ياهوه جي خيسيد سان زمين ڀريل آھي.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "پريت ڪري ٿو"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "۽ فيصلي"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ڀريل آھي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:07.877898084Z",
+  "model": "glm-5.3"
+}

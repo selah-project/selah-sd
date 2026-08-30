@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "هو قومن کي اسان جي ھيٺ ڪري ٿو ۽ اُمتن کي اسان جي پيرن ھيٺ.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "ھيٺ ڪري ٿو"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومن کي"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "اسان جي ھيٺ"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "۽ اُمتن کي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺ"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "اسان جي پيرن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:08.793150809Z",
+  "model": "glm-5.3"
+}

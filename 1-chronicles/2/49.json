@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ هن شعف کي جنم ڏنو، مدمنا جو پيءُ؛ ⟨את⟩ شوا کي، مڪبنا جو پيءُ؛ ۽ جبعا جو پيءُ؛ ۽ ڪالب جي ڌيءَ عڪسه هئي.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "۽ هن جنم ڏنو"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "شعف"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جو پيءُ"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "مدمنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شوا"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "شوا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جو پيءُ"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "مڪبنا"
+    },
+    {
+      "surface": "وאבי",
+      "gloss": "۽ جو پيءُ"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "جبعا"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "۽ ڌيءَ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ڪالب"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "عڪسه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:51.467682718Z",
+  "model": "glm-5.3"
+}

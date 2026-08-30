@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "هڪ سڳوري زال پنهنجي مڙس جو تاج آهي، پر شرم找一个ڙي هڏين ۾ سڙڪ جهڙي آهي.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "سڳوري"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "پنهنجي مڙس جو"
+    },
+    {
+      "surface": "وכרקב",
+      "gloss": "پر سڙڪ جهڙي"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "هڏين ۾"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "شرم找到一个ڙي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:22.952088404Z",
+  "model": "glm-5.3"
+}

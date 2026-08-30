@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 41:1",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "ڏسو، سندس اُميد ٺڳي آهي؛ ڇا سندس ڏسڻ تي ئي ڪير ڪيرايو ويندو؟",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "תחלתו",
+      "gloss": "سندس اُميد"
+    },
+    {
+      "surface": "נכזבה",
+      "gloss": "ٺڳي آهي"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מראיו",
+      "gloss": "سندس ڏسڻ"
+    },
+    {
+      "surface": "יטל",
+      "gloss": "ڪيرايو ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:24.704686942Z",
+  "model": "glm-5.3"
+}

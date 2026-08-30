@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "۽ سندن نفس جو فديو تمام قيمتي آهي، ۽ اهو هميشه لاءِ رڪجي وڃي ٿو.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "۽ قيمتي"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "فديو"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "سندن نفس"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "۽ رڪجي وڃي ٿو"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:05.982532549Z",
+  "model": "glm-5.3"
+}

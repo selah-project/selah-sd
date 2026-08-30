@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 126,
+  "translation": "ياهوه اسان سان وڏا ڪم ڪيا آھن، اسان خوش ٿياسين.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "وڏا ڪيا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "اسان سان"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "اسان ٿياسين"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "خوش"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:49.154421149Z",
+  "model": "glm-5.3"
+}

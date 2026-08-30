@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "چانديءَ مان ملاوٽ هٽاءُ، ته ڌاتن ڌوئندڙ لاءِ ٿانءُ نڪري اچي.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "هٽاءُ"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ملاوٽ"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "چانديءَ مان"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "نڪري اچي"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "ڌاتن ڌوئندڙ لاءِ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ٿانءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:43.229344202Z",
+  "model": "glm-5.3"
+}

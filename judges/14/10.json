@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 14:10",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ سندس پيءُ ان زال وٽ لهي ويو، ۽ شمشون اتي مھماني ڪئي، ڇوتهه نوجوان ائين ڪندا آهن.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "لھي ويو"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "سندس پيءُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ان زال"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪئي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شمشون"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "مھماني"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ڪندا آهن"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "نوجوان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:02:13.104770220Z",
+  "model": "glm-5.3"
+}

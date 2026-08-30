@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ سون جو وزن جيڪو هڪ سال ۾ شلومو ڏانهن آيو، سٺ سؤ ۽ سٺ ۽ ڇهه سون جون ڪِڪَرُون هيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سون جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو ڏانهن"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "هڪ سال ۾"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "سٺ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "۽ سٺ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ ڇهه"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "ڪِڪَرُون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:56.354562367Z",
+  "model": "glm-5.3"
+}

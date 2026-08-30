@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "“آءٌ ياهوه تنهنجو ايلوهيم آهيان، جنهن توکي متسرايم جي زمين مان، غلامن جي گهر مان ڪڍيو.”",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تنهنجو ايلوهيم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "توکي ڪڍيو"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمين مان"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم جي"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گهر مان"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلامن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:25.359105576Z",
+  "model": "glm-5.3"
+}

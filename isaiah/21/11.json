@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ٻار دومة جو۔ مون ڏانهن سعير مان هڪڙو ٿو سڏي: “نگهبان، رات جو ڇا آهي؟ نگهبان، رات جو ڇا آهي؟”",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ٻار"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "دومة"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون ڏانهن"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ٿو سڏي"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "سعير مان"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "نگهبان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "رات جي"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "نگهبان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "رات جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:52:50.385902499Z",
+  "model": "glm-5.3"
+}

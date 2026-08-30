@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ مان ياهوه اڳيان ٻاٿون ٿيس ان وقت، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "ٻاٿون ٿيس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ان وقت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "انهن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:28.972952987Z",
+  "model": "glm-5.3"
+}

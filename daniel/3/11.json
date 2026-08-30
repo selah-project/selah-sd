@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ جيڪو ڊهي نه پوءِ ۽ سجي نه، سو سڙندڙ باهه جي بھتئي ۾ اُڇلجي.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ جيڪو"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڊهي پوءِ"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "۽ سجي"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "اُڇلجي"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "ڀتئي ۾"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "بھتئي"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "باهه جي"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "سڙندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:57:40.737920263Z",
+  "model": "glm-5.3"
+}

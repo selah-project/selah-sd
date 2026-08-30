@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 58,
+  "translation": "۽ ماڻهو چوندو: بيشڪ نيڪ لاءِ ڦل آهي، بيشڪ ايلوهيم آهي جيڪو زمين ۾ فيصلا ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چوندو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "אך",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ڦل"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "نيڪ لاءِ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "فيصلا ڪري ٿو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:16.233212901Z",
+  "model": "glm-5.3"
+}

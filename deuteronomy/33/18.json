@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 33:18",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ زبولون بابت چيائين: خوش ٿي زبولون، تنهجي نڪرڻ ۾، ۽ يِسسکار، تنهجن خيمن ۾.",
+  "tokens": [
+    {
+      "surface": "ולזבולן",
+      "gloss": "۽ زبولون بابت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "خوش ٿي"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولون"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "تنهجي نڪرڻ ۾"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "۽ يِسسکر"
+    },
+    {
+      "surface": "באהליך",
+      "gloss": "تنهجن خيمن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:39.204804194Z",
+  "model": "glm-5.3"
+}

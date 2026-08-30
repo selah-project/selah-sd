@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "تنهنجي ماءُ جي ڀيڻ جي برهنهگي نه کولج؛ ڇاڪاڻ ته اها تنهنجي ماءُ جي گوشت ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برهنهگي"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ڀيڻ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "تنهنجي ماءُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کولج"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "تنهنجي ماءُ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اها"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:49.086216283Z",
+  "model": "glm-5.3"
+}

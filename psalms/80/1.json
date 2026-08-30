@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 80,
+  "translation": "رئيسِ سازن لاءِ، شوشنيم-عدوت تي، آصف جي گواهي، هڪ مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "رئيسِ سازن لاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "شوشنيم"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "عدوت (گواهي)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "آصف جي"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:27.268043691Z",
+  "model": "glm-5.3"
+}

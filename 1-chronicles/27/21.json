@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 27:21",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "گلعاد ۾ منسّه جي اڌ قبيلي لاءِ يِدّو زڪرياهو جو پٽ؛ بنيامين لاءِ يعشيعيل اَبنير جو پٽ.",
+  "tokens": [
+    {
+      "surface": "לחצי",
+      "gloss": "اڌ لاءِ"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "منسّه"
+    },
+    {
+      "surface": "גלעדה",
+      "gloss": "گلعاد ۾"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يِدّو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "زڪرياهو"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "بنيامين لاءِ"
+    },
+    {
+      "surface": "יעשיאל",
+      "gloss": "يعشيعيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَبنير"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:36.706538991Z",
+  "model": "glm-5.3"
+}

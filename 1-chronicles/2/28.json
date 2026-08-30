@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ اونام جا پُتر ھئا: شمّي ۽ يدع؛ ۽ شمّي جا پُتر: نادب ۽ ابishur۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ھئا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُتر"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "اونام جا"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمّي"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "۽ يدع"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پُتر"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمّي جا"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "نادب"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "۽ ابيشور"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:59.928321781Z",
+  "model": "glm-5.3"
+}

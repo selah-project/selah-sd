@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ ⟨هو⟩ راحيل وٽ به ويو، ۽ راحيل کي به ⟨את⟩ لياهه کان وڌيڪ پيار ڪيائين، ۽ وڌيڪ ست ٻيا سال ساڻس خدمت ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ويو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "پيار ڪيائين"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راحيل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل کي"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "لياهه کان وڌيڪ"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "خدمت ڪيائين"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ساڻس"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ٻيا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:56.611561920Z",
+  "model": "glm-5.3"
+}

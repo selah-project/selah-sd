@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 20:28",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "خيسيد ۽ سچ بادشاهه کي بچائيندا آهن، ۽ خيسيد سندس تخت کي سَھاري ٿو.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "۽ سچ"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "بچائيندا آهن"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "וסעד",
+      "gloss": "۽ سَھاري ٿو"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "خيسيد سان"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "سندس تخت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:00.948282642Z",
+  "model": "glm-5.3"
+}

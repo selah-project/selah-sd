@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "ماني اوھان نه کاڌي، ۽ شراب ۽ نشيدار شراب نه پيتو، تنھنڪري تہ اوھين ڄاڻو تہ آءٌ ئي اوھان جو ياهوه ايلوهيم آھيان.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "کاڌي"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "۽ شراب"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "۽ نشيدار شراب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "پيتو"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تنھنڪري تہ"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ڄاڻو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ايلوهيم (اوھان جو)"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:58.450026249Z",
+  "model": "glm-5.3"
+}

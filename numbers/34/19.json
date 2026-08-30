@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ اهي آهن انهن ماڻهن جا نالا: قبيلي يهودا جي لاءِ ڪالب پٽ يفني جو.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اهي"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نالا"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "انهن ماڻهن جا"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي جي لاءِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ڪالب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يفني"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:11.464930067Z",
+  "model": "glm-5.3"
+}

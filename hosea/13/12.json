@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "افريم جو گناهه ٻَڌل آھي؛ سندس پاپ لِڪايو ويو آھي.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ٻَڌل"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناهه"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افريم"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "لِڪايو ويو"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "سندس پاپ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:45:45.093931244Z",
+  "model": "glm-5.3"
+}

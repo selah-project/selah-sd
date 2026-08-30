@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "لِگَرشوم: لِبني سندس پُٽ، يَحَث سندس پُٽ، زِمّه سندس پُٽ.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "لِگَرشوم لاءِ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِبني"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "يَحَث"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زِمّه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:31.653206579Z",
+  "model": "glm-5.3"
+}

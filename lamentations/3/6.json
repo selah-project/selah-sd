@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "اونداهين ۾ مون کي وهاريائين، جهڙو قديم مُئل.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "اونداهين ۾"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "مون کي وهاريائين"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "جهڙو مُئل"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "قديم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:55.121656290Z",
+  "model": "glm-5.3"
+}

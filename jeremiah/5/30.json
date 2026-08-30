@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ٻرندڙ ۽ ڀيانڪ ڪم زمين ۾ ٿيو آھي.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ٻرندڙ (ٿرھرائي)"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "۽ ڀيانڪ"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "ٿيو آھي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:08:12.794529937Z",
+  "model": "glm-5.3"
+}

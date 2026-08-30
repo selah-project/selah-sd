@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "اوچيون اکيون، ڪوڙي زبان، ۽ نماڪي رت وهائيندڙ هٿ،",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "اکيون"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "اوچيون"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙي"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "۽ هٿ"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "وهائيندڙ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "نماڪي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:42.240716789Z",
+  "model": "glm-5.3"
+}

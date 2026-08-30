@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "هڻُ ٻڌو ⟨את⟩ هن عهد جا لفظ، ۽ انهن کي يهودا جي ماڻهن ۽ يروشلم جي رهاڪن کي ٻڌايو.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "هڻُ ٻڌو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هن عهد جا لفظ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عهد جا"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "۽ ٻڌايو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا جي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ ۾"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رهاڪن"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T12:10:52.933375929Z",
+  "model": "glm-5.3"
+}

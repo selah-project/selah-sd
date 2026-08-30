@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 21:26",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "گڏيل مِٽيءَ تي سمهن ٿا، ۽ ڪوئو کين ڍڪي ٿو.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "گڏيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مِٽيءَ"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "سمهن ٿا"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "۽ ڪوئو"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ڍڪي ٿو"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "کين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:39:26.385774416Z",
+  "model": "glm-5.3"
+}

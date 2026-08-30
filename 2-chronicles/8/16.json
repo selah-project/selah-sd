@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 8:16",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ شلوموه جي سڄي ڪم تيار ٿيو، ياهوه جي گهر جي بنياد رکجڻ جي ڏينهن کان وٺي سندس پورا ٿيڻ تائين؛ ياهوه جو گهر پورو ٿيو.",
+  "tokens": [
+    {
+      "surface": "ותכן",
+      "gloss": "۽ تيار ٿيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه جي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "מוסד",
+      "gloss": "بنياد"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ تائين"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "پورا ٿيڻ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "پورو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:59.289688046Z",
+  "model": "glm-5.3"
+}

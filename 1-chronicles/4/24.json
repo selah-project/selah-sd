@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "شمعون جا پٽ: نموئيل، ۽ يامين، يارِب، زراخ، شاؤل.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "نموئيل"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "۽ يامين"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "يارِب"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زراخ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    }
+  ],
+  "timestamp": "2026-08-30T15:10:58.513563674Z",
+  "model": "glm-5.3"
+}

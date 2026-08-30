@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 121,
+  "translation": "هو نه ڏيندو ته تنهجو پير لوڏي؛ تنهجو رکڻ وارو اُجهامي نه.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڏيندو"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ته لوڏي"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "تنهجو پير"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "اُجهامي"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "تنهجو رکڻ وارو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:55.511908107Z",
+  "model": "glm-5.3"
+}

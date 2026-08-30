@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 127,
+  "translation": "جيئن تير جنگجو جي ھٿ ۾، تيئن جوانيءَ جا پُٽَ آھن.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "جيئن تير"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ھٿ ۾"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جنگجو \/ سورھيه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽَ"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "جوانيءَ جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:45.290234079Z",
+  "model": "glm-5.3"
+}

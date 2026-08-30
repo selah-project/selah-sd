@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 94,
+  "translation": "سمجهو، قوم ۾ جانورن جهڙا بندہ ۽ مورکو، توهان ڪڏهن عقل وٺندؤ؟",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "سمجهو"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "جانورن جهڙا بندہ"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "قوم ۾"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "۽ مورکو"
+    },
+    {
+      "surface": "مתי",
+      "gloss": "ڪڏهن"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "عقل وٺندؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:54.027922581Z",
+  "model": "glm-5.3"
+}

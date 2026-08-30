@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ماڻهوءَ جي دل ۾ ڪيترائي ارادا ⟨آهن⟩، پر ياهوه جي صلاح ئي قائم رهندي.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "ڪيترائي"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ارادا"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل ۾"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ جي"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "پر … جي صلاح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئي"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "قائم رهندي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:04.945182803Z",
+  "model": "glm-5.3"
+}

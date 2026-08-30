@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "برکت وارو ⟨هجي⟩ تنهنجو ٽوڪري ۽ تنهنجي مِڙائي.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "برکت وارو"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "تنهنجو ٽوڪري"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "۽ تنهنجي مِڙائي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:34.573057737Z",
+  "model": "glm-5.3"
+}

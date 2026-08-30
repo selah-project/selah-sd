@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 46:27",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "۽ يوسف جا پُٽ جيڪي کيس متسرايم ۾ ڄايا، ٻه جاني ھئا؛ يعقوب جي گهر جون سڀ جاني جيڪي متسرايم ۾ آيون، ستر ھيون۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پُٽ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف جا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄايا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "متسرايم ۾"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جاني"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جاني"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گهر جون"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب جي"
+    },
+    {
+      "surface": "הבאה",
+      "gloss": "آيون"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "متسرايم ۾"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:48.106877387Z",
+  "model": "glm-5.3"
+}

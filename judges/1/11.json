@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ اتان هو دبير جي رهاڪن ڏانهن ويو، ۽ دبير جو نالو اڳي ڪريت-سيفر هو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "۽ ويو"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "رهاڪن"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دبير جي"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دبير جو"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "اڳي"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ڪريت"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سيفر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:56:20.036324186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 55,
+  "translation": "ياهوه کي طلب ڪرو جڏهن هو ملي ٿو، کيس سڏيو جڏهن هو ويجهو آهي.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "طلب ڪرو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "جڏهن هو ملي ٿو"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "کيس سڏيو"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "جڏهن هو آهي"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ويجهو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:02:40.358699521Z",
+  "model": "glm-5.3"
+}

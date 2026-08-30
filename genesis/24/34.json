@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ چيائين: مان ابراهام جو ٻڌو آهيان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:34.466776582Z",
+  "model": "glm-5.3"
+}

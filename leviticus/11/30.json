@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ڀونءُ ۽ وڏو ڪرڙو ۽ ڀڳڙو ۽ ڳوڙهو ۽ چِٽپُٽِي.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "۽ ڀونءُ"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "۽ وڏو ڪرڙو"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "۽ ڀڳڙو"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "۽ ڳوڙهو"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "۽ چِٽپُٽِي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:15:18.282338874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ تو پنهنجي ڀائي جي خلاف جوڙ شاهدي نه ڏينءَ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "جواب ڏينءَ \/ شاهدي ڏينءَ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "پنهنجي ڀائي جي خلاف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهدي"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "جوڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:17.118522109Z",
+  "model": "glm-5.3"
+}

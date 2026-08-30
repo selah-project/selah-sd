@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ بلا کي پُتر ٿيا: ادر ۽ گيرا ۽ ابيھود.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ٿيا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "بلا کي"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ادر"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "۽ گيرا"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "۽ ابيھود"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:27.056133747Z",
+  "model": "glm-5.3"
+}

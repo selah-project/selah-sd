@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "ڇوته پنھنجي مرڻ ۾ ڪجھ به کڻندو نه؛ سندس شان پويان ڪا نه لھندي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "پنھنجي مرڻ ۾"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "کڻندو"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ڪجھ به"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "لھندي"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "پويان"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "شان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:09.811571071Z",
+  "model": "glm-5.3"
+}

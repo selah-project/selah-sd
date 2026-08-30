@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ سندس ڀائرن جي وچ ۾ سندس ڪا وراثت نه هوندي؛ ياهوه ئي سندس وراثت آھي، جيئن هن سان چيو اٿس.",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "۽ وراثت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "سندس ڀائرن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئي"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "سندس وراثت"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اٿس"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:34.820459829Z",
+  "model": "glm-5.3"
+}

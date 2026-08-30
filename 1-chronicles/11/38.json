@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "يوئيل، ناتان جو ڀاءُ؛ مِبْحر پٽ هَگْرائي جو.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "يوئيل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ڀاءُ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "مِبْحر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "هَگْرائي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:51.312090413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ لوطان جا پُٽ ھيا حوري ۽ ھيمام؛ ۽ لوطان جي ڀيڻ تمنع ھئي۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ھيا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطان جا"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "حوري"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "۽ ھيمام"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "۽ ڀيڻ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطان جي"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تمنع"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:30.677923527Z",
+  "model": "glm-5.3"
+}

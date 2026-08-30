@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ تنهنجو سڀ مول مقدس جي شيقلي ۾ ٿيندو؛ ويھ گيرا شيفل ٿيندو.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تنهنجو مول"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "شيقلي ۾"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس جي"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گيرا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "شيقل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:14.687054838Z",
+  "model": "glm-5.3"
+}

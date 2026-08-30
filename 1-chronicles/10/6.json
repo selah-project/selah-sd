@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "تہ شاول مري ويو، ۽ سندس ٽي پٽ، ۽ سندس پوري گھر گڏجي مري ويا.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مري ويو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ پورو"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "سندس گھر"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏجي"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مري ويا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:44.432541829Z",
+  "model": "glm-5.3"
+}

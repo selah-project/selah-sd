@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "پوءِ مڪمل ٿيا آسمان ۽ زمين ۽ سندن سارو لشڪر.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "مڪمل ٿيا"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "۽ زمين"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سارو"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "سندن لشڪر"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:29.006137719Z",
+  "model": "glm-5.3"
+}

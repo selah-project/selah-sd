@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ايليل ۽ عوبيد ۽ يعشيئيل مصوبايه،",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "ايليل"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "عوبيد"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "يعشيئيل"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "مصوبايه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:14.165489918Z",
+  "model": "glm-5.3"
+}

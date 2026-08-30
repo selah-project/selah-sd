@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ هن ⟨את⟩ يسرائيل تي ٽيهه ۽ ٽي سال فيصلو ڪيو، ۽ مري ويو ۽ شامير ۾ دفن ٿيو.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "فيصلو ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مري ويو"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "دفن ٿيو"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "شامير ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:01:14.236015528Z",
+  "model": "glm-5.3"
+}

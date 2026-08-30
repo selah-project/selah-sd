@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ سندس لشڪر ۽ سندس ڳڻپ ٿيل چھہ ۽ چاليھ هزار ۽ پنج سؤ ⟨هئا⟩.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "۽ سندس لشڪر"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "۽ سندس ڳڻپ ٿيل"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "۽ چاليھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:52.363430948Z",
+  "model": "glm-5.3"
+}

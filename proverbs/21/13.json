@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "جو پنھنجي ڪن کي مسڪين جي رڙ مان بند ڪري ٿو، تنھن هو پاڻ به پڪاريندو ۽ جواب نه ملندس.",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "بند ڪري ٿو"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "پنھنجي ڪن کي"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "مان رڙ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "مسڪين جي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو پاڻ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "پڪاريندو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب ملندس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:15.317295831Z",
+  "model": "glm-5.3"
+}

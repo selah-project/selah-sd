@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "جيستائين هو ياهوه لاءِ پاڻ کي الڳ رکندو آهي، تيستائين ڪنهن مُئل جي ويجهو نه ايندو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "سندس الڳ ٿيڻ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ويجهو"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مُئل جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ايندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:07.033207091Z",
+  "model": "glm-5.3"
+}

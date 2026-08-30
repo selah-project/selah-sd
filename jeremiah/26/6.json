@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "تڏهين آءٌ ⟨את⟩ هن گهر کي شيله جهڙو ڪندس، ۽ ⟨את⟩ هن شهر کي سڀ زمين جي قومن لاءِ لعنت بڻيندس.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "تڏهين آءٌ ڪندس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هن گهر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "هن گهر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "شيله جهڙو"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "هن شهر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "هن شهر"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "بڻيندس"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "لعنت لاءِ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "قومن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:15:23.060540601Z",
+  "model": "glm-5.3"
+}

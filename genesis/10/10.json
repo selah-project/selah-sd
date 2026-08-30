@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ سندس بادشاهي جي شروعات بابل ۽ اريڪ ۽ اڪد ۽ ڪلنهه ۾ ٿي، شعنار زمين ۾.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "شروعات"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "سندس بادشاهي"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "وريڪ"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "واڪد"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "۽ ڪلنهه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "شعنار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:07.876024055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 33:12",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ سين جي بيابان کان روانا ٿيا، ۽ دُفقه ۾ خيمو هنئائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "بيابان کان"
+    },
+    {
+      "surface": "סין",
+      "gloss": "سين جي"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيمو هنئون"
+    },
+    {
+      "surface": "בדפקה",
+      "gloss": "دُفقه ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:50.570092222Z",
+  "model": "glm-5.3"
+}

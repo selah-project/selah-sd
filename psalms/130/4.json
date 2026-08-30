@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 130,
+  "translation": "ڇوته تنھنجي سھ مڃڻ آھي، تنھنجو ڀَو رکجي ٿو۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تنھنجي"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "سھ مڃڻ آھي"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تنھنجو"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ڀَو رکجي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:14.432042065Z",
+  "model": "glm-5.3"
+}

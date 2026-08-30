@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ماٺ ڪريو، ٻيٽن جا رهاڪو؛ صيدون جو واپاري، جيڪو سمنڊ پار ڪري ٿو، کين ڀريو (پاليو).",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "ماٺ ڪريو"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رهاڪو"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ٻيٽ"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "واپاري"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صيدون"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "پار ڪري ٿو"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "ڀريو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:54:10.861089797Z",
+  "model": "glm-5.3"
+}

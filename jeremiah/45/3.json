@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "تو چيو: ھاءُ ھاڻي مون لاءِ! ڇوته ياهوه ڏک ۾ وڌائي ڏک منهنجي سور ۾; مان منهنجين آھين ۾ ٿڪجي ويس ۽ آرام نه مليم.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "تو چيو"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ھاءُ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ھاڻي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "وڌايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "ڏک"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "منهنجي سور"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ٿڪجي ويس"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "منهنجين آھين ۾"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "۽ آرام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "مليم"
+    }
+  ],
+  "timestamp": "2026-08-30T12:22:32.980344520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ بادشاهه مون کي چيو: تون ڇا ٿو گهرين؟ ۽ مان آسمانن جي ايلوهيم کي دعا ڪئي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "על",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ٿو گهرين"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "۽ مان دعا ڪئي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کان"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ايلوهيم جي"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:06:03.831692606Z",
+  "model": "glm-5.3"
+}

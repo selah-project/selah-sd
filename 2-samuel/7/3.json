@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پوءِ ناتن بادشاهه کي چيو: جيڪو به تنهنجي دل ۾ آهي، وڃ ۽ ڪر، ڇو ته ياهوه تنهنجي ساڻ آهي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جيڪو به"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "تنهنجي دل ۾"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تنهنجي ساڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:47:13.738470693Z",
+  "model": "glm-5.3"
+}

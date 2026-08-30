@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 7:18",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ادونيقم جي پٽن جو ڇھ سَو ٻيهه (سَت)۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "ادونيقم"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٺ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "۽ ست"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:43.432115246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 74,
+  "translation": "توءَ پنھنجي طاقت سان سمنڊ کي ڀڳو؛ توءَ پاڻيءَ تي تڻڻن جا مٿا ڪُٽيا.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "توءَ"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "ڀڳو"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "پنھنجي طاقت سان"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ڪُٽيا"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مٿا"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "تڻڻن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:54.884335337Z",
+  "model": "glm-5.3"
+}

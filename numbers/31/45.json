@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ٻه ڳئون ۽ ٽيھ هزار ۽ پنج سؤ،",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "۽ ٻه ڳئون"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:41.097818223Z",
+  "model": "glm-5.3"
+}

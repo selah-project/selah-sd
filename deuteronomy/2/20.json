@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 2:20",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "(رپائيم جي زمين ڳڻپ ۾ اچي ٿي، اها پاڻ به؛ رپائيم اڳي ان ۾ رهندا هئا، ۽ عموني انهن کي زمزميم سڏيندا آهن،",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رپائيم"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ڳڻپ ۾ اچي ٿي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "پاڻ به"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اها"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رپائيم"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "رهندا هئا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "اڳي"
+    },
+    {
+      "surface": "והעמנים",
+      "gloss": "۽ عموني"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "سڏيندا آهن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "زמזמים",
+      "gloss": "زمزميم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:07.629966046Z",
+  "model": "glm-5.3"
+}

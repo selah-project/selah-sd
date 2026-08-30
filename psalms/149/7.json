@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 149,
+  "translation": "ته قومن ۾ بدلو وٺن، ۽ license ⟨نہ⟩؛ قومن جي گروهن ۾ سزا ڪن.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ته ڪن"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "بدلو"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومن ۾"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "سزا"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨نہ⟩"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "قومن جي گروهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:32.879728456Z",
+  "model": "glm-5.3"
+}

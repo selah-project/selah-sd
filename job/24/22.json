@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 24:22",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ پنهنجي زور سان زوراورن کي ڇڪي ٿو؛ هو اُٿي ٿو، ۽ ڪو پنهنجي حياتي تي yakeen نه رکي.",
+  "tokens": [
+    {
+      "surface": "ומשך",
+      "gloss": "۽ ڇڪي ٿو"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "زوراورن کي"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "پنهنجي زور سان"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اُٿي ٿو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "yakeen رکي"
+    },
+    {
+      "surface": "בחיין",
+      "gloss": "حياتي تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:20.117109359Z",
+  "model": "glm-5.3"
+}

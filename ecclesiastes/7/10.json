@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "نه چؤ ته اڳين ڏينهن ھيءن کان ڇوٺا ھئا، ڇوته تنھن ھن باري ۾ حڪمت سان نه پڇيو آھي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ھو"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "جيڪي ڏينهن"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "اڳين"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ھئا"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ڇوٺا"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ھيءن کان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "حڪمت سان"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "پڇيو آھي"
+    },
+    {
+      "surface": "על",
+      "gloss": "باري ۾"
+    },
+    {
+      "surface": "زה",
+      "gloss": "ھن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:04.781633095Z",
+  "model": "glm-5.3"
+}

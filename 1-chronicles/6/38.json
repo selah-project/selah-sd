@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "صادوق پٽس، احيمعص پٽس.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پٽس"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "احيمعص"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پٽس"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:13.460114015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ جيڪڏھن تون پنھنجي دل ۾ چوين، اسان ڪيئن سڃاڻون ⟨את⟩ ⟨the⟩ لفظ جيڪو ياهوه نه ٿو چوي؟",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "چوين"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "پنھنجي دل ۾"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "سڃاڻون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لفظ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ٿو چوي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:13.782447101Z",
+  "model": "glm-5.3"
+}

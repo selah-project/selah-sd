@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ڪوبه اکر ناهي ۽ ڪوبه لفظ ناهي — سندن آواز ٻڌڻ ۾ ناهي ايندو.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اکر"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ناهي"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "کان سواءِ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ٻڌڻ ۾ اچي"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "سندن آواز"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:33.375745953Z",
+  "model": "glm-5.3"
+}

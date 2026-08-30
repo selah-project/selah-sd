@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "حڪمت ٻاهر رڙي ٿي، ويڪڙن رستن ۾ پنهنجو آواز ڏيندي آهي.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "رڙي ٿي"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ويڪڙن رستن ۾"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ڏيندي آهي"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "پنهنجو آواز"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:10.812341477Z",
+  "model": "glm-5.3"
+}

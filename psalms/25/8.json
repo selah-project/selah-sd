@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ياهوه نيڪ ۽ سڌو ⟨آهي⟩؛ تنهنڪري ⟨هو⟩ گنهگارن کي رستي ۾ سيکاري ٿو.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "نيڪ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "۽ سڌو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنهن تي"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "سيکاري ٿو"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گنهگارن کي"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:07.802879388Z",
+  "model": "glm-5.3"
+}

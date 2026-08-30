@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 26:1",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "دروازبانن جي ورهاستن لاءِ — قورحين مان: مشيلمياهو، قوريه جو پُٽ، آساف جي پُٽن مان.",
+  "tokens": [
+    {
+      "surface": "למחלקות",
+      "gloss": "ورهاستن لاءِ"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "دروازبانن"
+    },
+    {
+      "surface": "לקרחים",
+      "gloss": "قورحين مان"
+    },
+    {
+      "surface": "משלמיהו",
+      "gloss": "مشيلمياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "قوريه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:58.989480439Z",
+  "model": "glm-5.3"
+}

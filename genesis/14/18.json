@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 14:18",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ مَلڪي صيدق، شاليم جو بادشاھ، ماني ۽ شراب کڻي آيو، ۽ اُھو عليون ايل جو ڪاھن ھو.",
+  "tokens": [
+    {
+      "surface": "ומלכי",
+      "gloss": "۽ ملڪي"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صيدق"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "شاليم"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "کڻي آيو"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "۽ شراب"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ اُھو"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ڪاھن"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ايل جو"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عليون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:09.691572486Z",
+  "model": "glm-5.3"
+}

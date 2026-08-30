@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "تنهنڪري طاقتور قوم تنکي مَنَت ڪندي، ظلمن جي قومن جي ڪريہہ تنکان ڊندي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تنهن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "تنکي مَنَت ڪندي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقتور"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ڪريہہ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن جي"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ظلمن"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "تنکان ڊندي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:54:07.046307203Z",
+  "model": "glm-5.3"
+}

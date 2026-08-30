@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "مقصد لاءِ — „شفق جي مادي هرن“ تي — داويد جو مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقصد لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "مادي هر"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "شفق"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داويد جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:19.833325193Z",
+  "model": "glm-5.3"
+}

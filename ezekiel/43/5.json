@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 43:5",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "۽ روح مون کي کڻي اندروني صحن ۾ آنيو، ۽ ڏسو، ياهوه جي جلال گهر ڀري ڇڏيو.",
+  "tokens": [
+    {
+      "surface": "ותשאני",
+      "gloss": "مون کي کڻي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ותביאני",
+      "gloss": "آنيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "اندروني"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀريو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر"
+    }
+  ],
+  "timestamp": "2026-08-30T12:42:16.104082888Z",
+  "model": "glm-5.3"
+}

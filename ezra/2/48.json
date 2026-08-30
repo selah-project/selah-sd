@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "رِصين جا پُٽ، نِقوداہ جا پُٽ، گَزّام جا پُٽ،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "رِصين"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نِقوداہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "گَزّام"
+    }
+  ],
+  "timestamp": "2026-08-30T14:02:32.942706313Z",
+  "model": "glm-5.3"
+}

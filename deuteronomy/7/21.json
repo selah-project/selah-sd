@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "کانئن نه ڊڄ، ڇوته ياهوه تنهنجو ايلوهيم تنهنجي وچ ۾ ⟨آھي⟩ — وڏو ايل ۽ ڊپ ڏيندڙ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "ڊڄ"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "کانئن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تنهنجو ايلوهيم"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تنهنجي وچ ۾"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "۽ ڊپ ڏيندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:38:59.108970976Z",
+  "model": "glm-5.3"
+}

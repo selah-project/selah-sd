@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 97,
+  "translation": "ڪَنُ ۽ اَندھارو سندس چوڌاري آھن، انصاف ۽ فيصلو سندس تخت جو بنياد.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "ڪَنُ"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "۽ اَندھارو"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "سندس چوڌاري"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "۽ فيصلو"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "بنياد"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "سندس تخت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:29.286835809Z",
+  "model": "glm-5.3"
+}

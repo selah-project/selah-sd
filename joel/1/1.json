@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ياهوه جو لفظ جيڪو يوائيل پٽ پتوال ڏانهن آيو.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "يوائيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "پتوال"
+    }
+  ],
+  "timestamp": "2026-08-30T12:46:42.521871160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ تون هڪ مرثيو کڻ، اسرائيل جي شهزادن تي.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "שא",
+      "gloss": "کڻ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "مرثيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "شهزادن جي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T12:32:23.136240960Z",
+  "model": "glm-5.3"
+}

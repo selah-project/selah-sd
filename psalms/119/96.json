@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "سڀ ڪمال جي پوري حد مون ڏٺي آهي؛ پر تنهنجو حڪم بلڪل وسيع آهي.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "ڪمال جي پوري حد"
+    },
+    {
+      "surface": "رאיתי",
+      "gloss": "مون ڏٺي آهي"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "حد"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "وسيع"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "تنهنجو حڪم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بلڪل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:20:58.029527188Z",
+  "model": "glm-5.3"
+}

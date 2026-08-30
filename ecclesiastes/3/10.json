@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مَون ⟨את⟩ اُهو مشغلو ڏٺو آهي جيڪو ايلوهيم آدم جي پٽن کي ڏنو آهي ته ان ۾ پيا مشغول رهن.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "مَون ڏٺو آهي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُهو مشغلو"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "اُهو مشغلو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏنو آهي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن کي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم جي"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ته پيا مشغول رهن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:13.047469437Z",
+  "model": "glm-5.3"
+}

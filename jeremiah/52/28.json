@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 52:28",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 52,
+  "translation": "هي ⟨هو⟩ اُهو قوم جنهن کي نبوبلدنضر ستين سال ۾ جلاوطن ڪيو: يهودين مان ٽي هزار ۽ ٽيويهه.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن کي"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "جلاوطن ڪيو"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "نبوبلدنضر"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "سال ۾"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "יהודים",
+      "gloss": "يهودين"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويهه"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "۽ ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:25:57.705493916Z",
+  "model": "glm-5.3"
+}

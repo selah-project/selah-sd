@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 124,
+  "translation": "اُن وقت ڦوڪدار پاڻي اسان جي جيءُ تي وهندا وڃي ها.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "اُن وقت"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "وهندا وڃي ها"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "اسان جي جيءُ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "ڦوڪدار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:38.643671253Z",
+  "model": "glm-5.3"
+}

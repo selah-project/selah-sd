@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ادومي کي نفرت نه ڪر، ڇوته اهو ⟨هو⟩ تنهنجو ڀاءُ ⟨آهي⟩؛ متسرائي کي نفرت نه ڪر، ڇوته تون سندس ملڪ ۾ پرڏيهي رهيو آهين.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "نفرت ڪر"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "ادومي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تنهنجو ڀاءُ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "نفرت ڪر"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "متسرائي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "גר",
+      "gloss": "پرڏيهي"
+    },
+    {
+      "surface": "היית",
+      "gloss": "رهيو آهين"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "سندس ملڪ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:21.682985697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 15:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "گھٽ دل واري لاءِ اڻ سمجهه خوشي آھي، ۽ سمجھ وارو ماڻھو هلي سڌي رکي ٿو.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "اڻ سمجهه"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشي"
+    },
+    {
+      "surface": "לחסר",
+      "gloss": "گھٽ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل واري لاءِ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "۽ سمجھ وارو ماڻھو"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "سڌي رکي ٿو"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "هلي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:11.635502235Z",
+  "model": "glm-5.3"
+}

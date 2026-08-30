@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "نادانيءَ جو منصوبو پاپ آهي، ۽ ماڻهن لاءِ ٺٺولي ڪندڙ ‏تڪليف‏ آهي.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "منصوبو"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "نادانيءَ جو"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "پاپ آهي"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "۽ تڪليف آهي"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ماڻهن لاءِ"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ٺٺولي ڪندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:16.592567105Z",
+  "model": "glm-5.3"
+}

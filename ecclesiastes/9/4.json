@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "ڇاڪته جيڪو سڀ جيوتن سان جُڙيل آهي، تنهن کي آس آهي؛ ڇاڪته جيوتڙي ڪتي لاءِ اهو چڱو آهي مُئل شينهن کان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪته"
+    },
+    {
+      "surface": "מי",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "جُڙيل آهي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جيوتن"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "آس\/ڀروسو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪته"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ڪتي لاءِ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جيوتڙي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "شينهن"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مُئل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:17.621163307Z",
+  "model": "glm-5.3"
+}

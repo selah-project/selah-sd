@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "يروشلم جو بادشاھ ⟨الواحد⟩؛ حبرون جو بادشاھ ⟨الواحد⟩؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "جو بادشاھ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "جو بادشاھ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:14.204558864Z",
+  "model": "glm-5.3"
+}

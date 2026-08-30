@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 22:9",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "جڏھن ڪو ماڻھو پنھنجي سنگتي کي ڳڏھڻ يا ڍڳو يا رڪ، يا ڪا به چوپائي سنڀالڻ لاءِ ڏئي، ۽ اُها مري وڃي يا ٽٽل ٿئي يا کڻي وڃي، ۽ ڪو ڏسندڙ نه ھجي —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڏئي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ڪو ماڻھو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "پنھنجي سنگتي"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ڳڏھڻ"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ڍڳو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "שה",
+      "gloss": "رڪ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ ڪا به"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "چوپائي"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "سنڀالڻ لاءِ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "۽ مري وڃي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "ٽٽل ٿئي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "کڻي وڃي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏسندڙ ھجي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:51.592299676Z",
+  "model": "glm-5.3"
+}

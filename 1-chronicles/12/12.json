@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "عَتّاي ڇهون، اِليائيل ستون.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "عَتّاي"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ڇهون"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "اِليائيل"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ستون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:08.227928085Z",
+  "model": "glm-5.3"
+}

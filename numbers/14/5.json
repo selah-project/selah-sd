@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 14:5",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ته موشي ۽ اهارون پوري بني اسرائيل جي سنگت جي ڪٽڻ آڏو پنھنجن منھن تي ڊٺا.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ته ڊٺا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "۽ اهارون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "پنھنجا منھن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "آڏو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوري"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "سنگت"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ڪٽڻ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:21.200679341Z",
+  "model": "glm-5.3"
+}

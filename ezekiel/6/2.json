@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "اِي آدم جي پُٽ، پنھنجو منھن اسرائيل جي جبلن ڏي ڪر ۽ انھن کي نبوت ڪر:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ڪر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "پنھنجو منھن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "جبلن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "۽ نبوت ڪر"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "انھن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:27:59.760876167Z",
+  "model": "glm-5.3"
+}

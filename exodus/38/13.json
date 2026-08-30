@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ اوڀر پاسي، سج اُڀرندڙ طرف، پنجاهه اَمهه ھيون.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "۽ ... پاسي"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "اوڀر"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "سج اُڀرندڙ طرف"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاهه"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمهه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:18.877070520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "تو قتل نه ڪرينءَ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "قتل ڪرينءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:17.118133619Z",
+  "model": "glm-5.3"
+}

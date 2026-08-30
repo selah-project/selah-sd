@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ يوسف صبح جو وٽن آيو، ۽ ⟨את⟩ کين ڏٺو، ۽ ڏسو، ⟨هي⟩ مايوس ھئا.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "وٽن"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح جو"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏٺو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "کين"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "مايوس ھئا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:51:49.710479595Z",
+  "model": "glm-5.3"
+}

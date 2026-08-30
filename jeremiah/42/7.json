@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "۽ ڏهه ڏينهن جي پڇاڙيءَ تي ياهوه جو لفظ يرمياہ ڏانهن آيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "پڇاڙيءَ تي"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياہ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:21:57.015603797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "هميشہ، اي ياهوه، تنهنجو لفظ آسمانن ۾ قائم ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "هميشہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تنهنجو لفظ"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "قائم"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:02.791675959Z",
+  "model": "glm-5.3"
+}

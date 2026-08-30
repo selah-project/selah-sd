@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ راءُ ۽ ⟨את⟩ ٻُڏهڻي ۽ ڳجهي ڏِڙڪ پنهنجي جنس موجب،",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "۽ راءُ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ٻُڏهڻي"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ٻُڏهڻي"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "۽ ڳجهي ڏِڙڪ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "پنهنجي جنس موجب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:41.445657830Z",
+  "model": "glm-5.3"
+}

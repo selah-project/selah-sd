@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ ايلوهيم هن جي مدد ڪئي پلشتين تي ۽ گور بعال ۾ رهندڙ عربن تي ۽ معونين تي.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "مدد ڪيائينس"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتين"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "عربن"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "رهندڙ"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "گور ۾"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعال"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "۽ معونين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:28:04.356124423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "بدڪار موڪلي برائي ۾ ڪري ٿو، ۽ ايماندار سفير ⟨هو⟩ شفا آهي.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "موڪلي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدڪار"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڪري ٿو"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "برائي ۾"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "۽ سفير"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ايماندار"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:11.218675954Z",
+  "model": "glm-5.3"
+}

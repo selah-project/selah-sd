@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ سڄي متصرايم جي زمين ۾ هڪ وڏي رڙ ٿيندي، جهڙي ڪانه ٿي هئي ۽ جهڙي وري ٿيندي ئي ڪانه.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "۽ ٿيندي"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "رڙ"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "۾ سڄي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متصرايم جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جهڙي"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "اُن جهڙي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ڪانه"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "ٿي هئي"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "۽ اُن جهڙي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ڪانه"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "وري ٿيندي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:00:19.867998251Z",
+  "model": "glm-5.3"
+}

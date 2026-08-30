@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 22:22",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "سندس واتان توڙاھ وٺ، ۽ سندس چيل لفظ پنھنجي دل ۾ رک.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "وٺ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "سندس واتان"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "توڙاھ"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "۽ رک"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "سندس چيل لفظ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "پنھنجي دل ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:39:32.652815718Z",
+  "model": "glm-5.3"
+}

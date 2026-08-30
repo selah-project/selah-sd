@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 9:6",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ اشدود ۾ اُپٽريل نسل رهندو، ۽ مان پلشتين جي وڏائي وڍي ڇڏيندس.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "۽ رهندو"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "اُپٽريل نسل"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "اشدود ۾"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "۽ مان وڍي ڇڏيندس"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "وڏائي"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:57:42.319721570Z",
+  "model": "glm-5.3"
+}

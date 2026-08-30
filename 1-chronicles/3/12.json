@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "امصياه سندس پٽ، عزريا سندس پٽ، يوثام سندس پٽ.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "امصياه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزريا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "يوثام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:52.589988012Z",
+  "model": "glm-5.3"
+}

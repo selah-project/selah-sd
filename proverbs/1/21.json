@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 1:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "گهمن وڳن جي مَٿي ۾ ⟨هوءَ⟩ پڪاري ٿي، دروازن جي مندن ۾، شهر ۾ پنھنجا لفظ چوي ٿي.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "مَٿي ۾"
+    },
+    {
+      "surface": "המיות",
+      "gloss": "گهمن وڳن"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "پڪاري ٿي"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "مندن ۾"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دروازن جي"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شهر ۾"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "پنھنجا لفظ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "چوي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:04.379285467Z",
+  "model": "glm-5.3"
+}

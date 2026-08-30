@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 62,
+  "translation": "۽ ان کي چُپ نه ڏيو، جيستائين هو بيهاري ۽ جيستائين هو يروشلم کي زمين ۾ ساراھ بڻائي ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ڏيو"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "چُپ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جيستائين"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "بيهاري"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ جيستائين"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "بڻائي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يروشلم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ساراھ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:05:37.552243304Z",
+  "model": "glm-5.3"
+}

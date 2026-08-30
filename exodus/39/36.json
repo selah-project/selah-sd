@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "⟨את⟩ ميز ۽ ⟨את⟩ سندس سڀ ٿانوَ ۽ ⟨את⟩ حاضرين جي ماني،",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ميز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس سڀ ٿانوَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "سندس ٿانوَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حاضرين جي ماني"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "حاضرين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:37:45.655202351Z",
+  "model": "glm-5.3"
+}

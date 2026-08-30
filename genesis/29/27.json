@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 29:27",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "ھن جي ھن ھفتي کي پورو ڪر، ۽ ھيءَ به ⟨את⟩ تو کي ڏني ويندي، ان خدمت جي عيوض جا تو مون سان وري ست ٻيا سال ڪندين.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "پورو ڪر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ھفتي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ھن"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "۽ ڏني ويندي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو کي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ھيءَ (راحيل)"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ھيءَ"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "ان خدمت جي عيوض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تو ڪندين"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ٻيا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:40.462199768Z",
+  "model": "glm-5.3"
+}

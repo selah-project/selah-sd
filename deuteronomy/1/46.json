@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ توهان قديش ۾ ڪيترائي ڏينهن رهيو، انهن ڏينهن جيڏانهن جيڏانهن توهان ⟨اُتي⟩ رهيو.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "رهيو"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "قديش ۾"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ڪيترائي"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "انهن ڏينهن جيڏانهن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جي"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "توهان رهيو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:59.308547673Z",
+  "model": "glm-5.3"
+}

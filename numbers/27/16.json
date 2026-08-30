@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ياهوه، سڀني بشريت جي روحن جو ايلوهيم، جماعت تي ھڪڙو ماڻھو مقرر ڪري،",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "مقرر ڪري"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "جو ايلوهيم"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "روحن جا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشريت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ھڪڙو ماڻھو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:00.600840538Z",
+  "model": "glm-5.3"
+}

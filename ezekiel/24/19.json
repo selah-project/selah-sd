@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ ماڻهن مون کي چيو: ڇا نه ٿو ٻُڌائين اسان کي ته اِهي ⟨شيون⟩ اسان لاءِ ڇا آهن، جو تون اهو ڪري رهيو آهين؟",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ڇا نه"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ٻُڌائين"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان کي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِهي"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان لاءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪري رهيو آهين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:34:51.682244463Z",
+  "model": "glm-5.3"
+}

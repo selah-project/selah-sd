@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ ⟨את⟩ پنهنجو ashem (گناهه- offering) ياهوه ڏانهن کڻي ايندو — ڍڳو ڪامل مينهن جي ڪوٺيءَ مان، تنهنجي価 estimation موجب، guilt-offering طور، ڪاهن ڏانهن.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجو ashem (گناهه-offering)"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "پنهنجو ashem (گناهه-offering)"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "کڻي ايندو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه ڏانهن"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ڍڳو"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ڪامل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "مينهن جي ڪوٺي"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "تنهنجي estimation موجب"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "guilt-offering طور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:25.002314404Z",
+  "model": "glm-5.3"
+}

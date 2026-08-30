@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ھن ياهوه جي اکين ۾ بُرو ڪيو، جيئن سندس پيءُ منشه ڪيو ھو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيو"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بُرو"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکين ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو ھو"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "سندس پيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:45:30.799656100Z",
+  "model": "glm-5.3"
+}

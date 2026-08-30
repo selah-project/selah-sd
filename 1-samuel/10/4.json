@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ توکي سلام چوندا ۽ توکي ٻه مانيون ڏيندا؛ تون سندن هٿان وٺندين.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "۽ سلام چوندا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "سلام"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ڏيندا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "مانيون"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "تون وٺندين"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "سندن هٿان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:09:00.664823279Z",
+  "model": "glm-5.3"
+}

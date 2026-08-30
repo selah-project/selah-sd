@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 36:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ ديشون ۽ اتسر ۽ ديشان؛ اھي حوريءَ جا سردار ھئا، شعير جا پُٽ، ادوم جي زمين ۾۔",
+  "tokens": [
+    {
+      "surface": "ודשון",
+      "gloss": "۽ ديشون"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "۽ اتسر"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "۽ ديشان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "حوريءَ جا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "شعير جا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:30.677436903Z",
+  "model": "glm-5.3"
+}

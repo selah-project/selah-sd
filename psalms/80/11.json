@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 80,
+  "translation": "جبل ان جي سائي سان ڍڪجي ويا، ۽ ان جون ٽاريون ايل جا ديودار ھيون.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "ڍڪجي ويا"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "ان جي سائي سان"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "۽ ان جون ٽاريون"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ديودار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:00.401701001Z",
+  "model": "glm-5.3"
+}

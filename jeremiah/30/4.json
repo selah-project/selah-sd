@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ اھي اھي لفظ آھن جيڪي ياهوه اسرائيل ۽ يھوداھ جي باري ۾ چيا.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "باري ۾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ باري ۾"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يھوداھ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:17:06.242194113Z",
+  "model": "glm-5.3"
+}

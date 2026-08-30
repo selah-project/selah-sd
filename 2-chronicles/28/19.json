@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 28:19",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ڇوته ياهوه ⟨את⟩ يهوداہ کي جھڪايو، آحاز اسرائيل جي بادشاهه جي ڪري؛ ڇوته هن يهوداہ ۾ بي_INVITATION قيد },from loose",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הכניע",
+      "gloss": "جھڪايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوداہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداہ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "جي ڪري"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آحاز"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הפריע",
+      "gloss": "بيقابو ٿيو"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "يهوداہ ۾"
+    },
+    {
+      "surface": "ומעול",
+      "gloss": "۽ خيانت ڪيائون"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "خيانت"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه سان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:27:44.638207292Z",
+  "model": "glm-5.3"
+}

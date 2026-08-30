@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 30:23",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ڏسو، ياهوه جو طوفان، غصو نڪري ٿو، ڦيٽڻ وارو طوفان، شرارتن جي مٿي تي چڪر کائيندو.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "סערת",
+      "gloss": "طوفان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غصو"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "نڪري ٿو"
+    },
+    {
+      "surface": "סער",
+      "gloss": "طوفان"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "ڦيٽڻ وارو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شرارتن جي"
+    },
+    {
+      "surface": "יחול",
+      "gloss": "چڪر کائيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:16:27.910195130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ڍڳيون چئن ۽ ٽيهن هزارن هيون،",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "۽ ڍڳيون"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "چئن"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽيهن"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزارن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:42.309128647Z",
+  "model": "glm-5.3"
+}

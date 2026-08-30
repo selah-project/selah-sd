@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ميراري جا پٽ، سندن ڀائر، کاٻي پاسي (بيٺا): ايتان پٽ قيشي جو، پٽ عبدِي جو، پٽ مَلُوخ جو.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ميراري"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "سندن ڀائر"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي\/پاسي"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "کاٻي"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ايتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "قيشي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبدِي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "مَلُوخ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:54.020812728Z",
+  "model": "glm-5.3"
+}

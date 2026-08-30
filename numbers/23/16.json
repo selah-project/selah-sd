@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ ياهوه بلعام سان مليو، ۽ لفظ هن جي وات ۾ رکيائين، ۽ چيائين تہ بلق ڏانهن موٽ ۽ ائين چئج.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "مليو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "رکيائين"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "هن جي وات ۾"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "موٽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بلق"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "۽ ائين"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "چئج"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:38.211789752Z",
+  "model": "glm-5.3"
+}

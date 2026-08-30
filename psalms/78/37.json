@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 78,
+  "translation": "۽ سندن دل سندس ساٿ ۾ سڌي نه هئي، ۽ سندس عهد ۾ ثابت قدم نه رهيا.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "۽ سندن دل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "سڌي نه هئي"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس سايث ۾"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "ثابت قدم نه رهيا"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "سندس عهد ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T15:03:07.488347410Z",
+  "model": "glm-5.3"
+}

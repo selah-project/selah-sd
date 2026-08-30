@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 97,
+  "translation": "سندس اڳيان باھہ وڃي ٿي ۽ سندس دشمنن کي چوڌاري ساڙي ڇڏي ٿي.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "باھہ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "سندس اڳيان"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "وڃي ٿي"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "۽ ساڙي ڇڏي ٿي"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "سندس دشمنن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:29.286971801Z",
+  "model": "glm-5.3"
+}

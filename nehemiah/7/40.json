@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "امير جي پٽن جون ھڪ ھزار ۽ پنجاهہ ۽ ٻه (سنڌي: 1,052)۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽن جون"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "امير"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھڪ ھزار"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاهہ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:54.732472589Z",
+  "model": "glm-5.3"
+}

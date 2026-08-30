@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ حت جي پٽن ابراهام کي جواب ڏنو، چوندڙس.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "پوءِ جواب ڏنو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جي پٽن"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابراهام کي"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندڙ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سَ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:47.579297349Z",
+  "model": "glm-5.3"
+}

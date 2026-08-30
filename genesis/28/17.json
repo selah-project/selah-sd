@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 28:17",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ کيس ڊپ لڳو، ۽ چيائين، ڇا ڀيانڪ آھي ھي جاءِ! ھي ٻيو ڪجھ نه آھي، پر ايلوهيم جو گھر، ۽ ھي آسمانن جو دروازو آھي.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "کيس ڊپ لڳو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ڀيانڪ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ٻيو ڪجھ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم جو"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "۽ ھي"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن جو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:48:08.132974171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "مان چيو، ياهوه، مون تي رحم ڪر، منھنجي جيءَ کي شفا ڏي، ڇو ته مان توکان خطيا ڪيو.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "مون تي رحم ڪر"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "شفا ڏي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منھنجي جيءَ کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "خطيا ڪيو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:04.463248343Z",
+  "model": "glm-5.3"
+}

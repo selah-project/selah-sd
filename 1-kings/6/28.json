@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ⟨את⟩ ڪروبن کي سون سان ڍڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "۽ ڍڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪروبن"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ڪروبن"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:29:22.757490343Z",
+  "model": "glm-5.3"
+}

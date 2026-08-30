@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ڀلي لشڪر مون خلاف مڙھي اچي، مون جو دل نه ڊائجي؛ ڀلي جنگ مون خلاف اُڀري، ان ۾ ⟨ئين⟩ مان پڪو آهان.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ڀلي"
+    },
+    {
+      "surface": "תחנه",
+      "gloss": "لشڪر مڙھي اچي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون خلاف"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ڊائجي"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "مون جو دل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ڀلي"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "اُڀري"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون خلاف"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "پڪو آهان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:54.494728238Z",
+  "model": "glm-5.3"
+}

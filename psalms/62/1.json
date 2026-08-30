@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 62,
+  "translation": "مقابل ڪرڻ واري لاءِ، يدودون تي، داويد جو مزمر۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقابل ڪرڻ واري لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "يدودون"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمر"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داويد جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:50.987802344Z",
+  "model": "glm-5.3"
+}

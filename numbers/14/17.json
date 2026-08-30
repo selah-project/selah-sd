@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 14:17",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ هاڻي منهنجي ادوناي جو طاقت وڏو ٿيڻ گهرجي، جيئن تون چيو آهي، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "وڏو ٿئي"
+    },
+    {
+      "surface": "נא",
+      "gloss": "منهنجي گزارش"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "تو چيو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:05.550515642Z",
+  "model": "glm-5.3"
+}

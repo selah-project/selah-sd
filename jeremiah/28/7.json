@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "پر ھاڻي ٻُڌ، منهنجي عرض آھي، اھو لفظ جيڪو مان تنھنجي ٻڌن ۾ ۽ سڀ قوم جي ٻڌن ۾ ٿو ڳالهايان.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻُڌ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "منهنجي عرض آھي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٿو ڳالهايان"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "تنھنجي ٻڌن ۾"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "۽ جي ٻڌن ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-30T12:16:47.752634407Z",
+  "model": "glm-5.3"
+}

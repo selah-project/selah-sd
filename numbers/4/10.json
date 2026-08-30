@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ اُھي ⟨את⟩ ان کي ۽ ⟨את⟩ ان جي سَڀ کَلَن جي ڍَڪَڻ ۾ رکن، ۽ اُھي کَنڀَن تي رکن.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "رکن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ان جي سَڀ سامان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سَڀ"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ان جو سامان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ڍَڪَڻ ۾"
+    },
+    {
+      "surface": "עור",
+      "gloss": "کَل"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "تَحَش جي"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "رکن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "کَنڀَن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:38.866479242Z",
+  "model": "glm-5.3"
+}

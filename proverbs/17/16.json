@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "ڇو ھن بيوقوف جي ھٿ ۾ اھا قيمت آھي حڪمت خريد ڪرڻ لاءِ، جڏھن ته دل ناھي؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ھن"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "قيمت"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ھٿ ۾"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "بيوقوف جي"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "خريد ڪرڻ لاءِ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "۽ دل"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناھي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:14.011571941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 11:26",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ يروبعام بن نبت، افراتي، صردا کان — ۽ سندس ماءُ جو نالو صروعه هو، هڪ شه زال، هو سليمان جو ٻانهو هو — هن بادشاهه جي against هٿ کڻيو.",
+  "tokens": [
+    {
+      "surface": "וירבעם",
+      "gloss": "۽ يروبعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نبت"
+    },
+    {
+      "surface": "אפרתי",
+      "gloss": "افراتي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הצרדה",
+      "gloss": "صردا"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "سندس ماءُ جو"
+    },
+    {
+      "surface": "צרועה",
+      "gloss": "صروعه"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "شه"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ٻانهو"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "سليمان جو"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "۽ کڻيائين"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "بادشاهه جي against"
+    }
+  ],
+  "timestamp": "2026-08-30T11:33:07.380042605Z",
+  "model": "glm-5.3"
+}

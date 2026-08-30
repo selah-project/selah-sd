@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 7:19",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ پاڻي تمام تمام طاقتور ٿيا زمين تي، ۽ سڀ اُچا جبل ڍڪجي ويا جيڪي سڀ آسمانن جي ھيٺيان آھن.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "۽ پاڻي"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "طاقتور ٿيا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "۽ ڍڪجي ويا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "اُچا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺيان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:13.642352271Z",
+  "model": "glm-5.3"
+}

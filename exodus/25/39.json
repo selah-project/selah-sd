@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ھڪڙي ڪڪر (کڙ) خالص سون منجھان ان کي ٺاھيندو، ⟨את⟩ سڀني انھن ٿانوَن سميت.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "ھڪڙي ڪڪر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ٺاھيندو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي (مينوراه)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀني ٿانوَن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ٿانوَ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "انھن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:28.388728649Z",
+  "model": "glm-5.3"
+}

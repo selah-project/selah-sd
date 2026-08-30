@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ اھي ڏينھن آھن ابراهام جي زندگيءَ جي ٻن سالن جا، جيڪي ھن جيايو، سَو سال ۽ ستتر سال ۽ پنج سال.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سالن جي"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگيءَ جي"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنھن"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جيايو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "۽ ستتر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-30T14:32:52.790311164Z",
+  "model": "glm-5.3"
+}

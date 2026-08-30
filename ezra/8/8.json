@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 8:8",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ شپٽياھ جي پٽن مان — زبدياھ، ميڪائيل جو پٽ — ۽ سندس ساڻ اسي نر.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "۽ پٽن مان"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شپٽياھ"
+    },
+    {
+      "surface": "זבדיה",
+      "gloss": "زبدياھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "ميڪائيل"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "۽ سندس ساڻ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "اسي"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "نر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:32.739559551Z",
+  "model": "glm-5.3"
+}

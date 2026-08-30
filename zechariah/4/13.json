@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ تنهن مون کي چيو، چوڻ ته: ”ڇا توڪي نه ٿو معلوم ته اِي ڇا آھن؟“ ۽ مون چيو: ”نه، منھنجا ادوناي۔“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ تنهن چيو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ڇا... نه"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ٿو معلوم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِي ڇا آھن"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ مون چيو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "منھنجا ادوناي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:00:32.275590679Z",
+  "model": "glm-5.3"
+}

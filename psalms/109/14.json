@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 109,
+  "translation": "سندس پيءُ جي گناهه ياهوه اڳيان ياد رهي، ۽ سندس ماءُ جي پاپ ميس نه ٿئي.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "ياد رهي"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناهه"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "سندس پيءُ جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "۽ پاپ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "سندس ماءُ جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "ميس ٿئي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:16.679464734Z",
+  "model": "glm-5.3"
+}

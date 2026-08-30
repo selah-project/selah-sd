@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ دان جي پٽن جي قبيلي لاءِ سردار بُڪي، يوگلي جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "۽ قبيلي لاءِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بُڪي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "يوگلي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:00.652968266Z",
+  "model": "glm-5.3"
+}

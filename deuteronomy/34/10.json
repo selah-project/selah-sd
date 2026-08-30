@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ اسرائيل ۾ ⟨پوءِ⟩ اهڙو نبي ⟨ڪو⟩ اُٿيو ئي نه جهڙو موشي، جنهن کي ياهوه منهن سان منهن ڄاڻيو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "קם",
+      "gloss": "اُٿيو"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائيل ۾"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "جهڙو موشي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن کي"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاڻيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:49:11.700668191Z",
+  "model": "glm-5.3"
+}

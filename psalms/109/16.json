@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 109,
+  "translation": "ڇوته هو خيسيد ڪرڻ نه ياد رکيو، پر غريب ۽ محتاج ماڻهوءَ کي ستايو، ۽ ٿٻندڙ دل کي مارڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨جو⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ياد رکيو"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ڪرڻ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "پر ستايو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ کي"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "۽ محتاج"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "۽ ٿٻندڙ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "مارڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:16.679767032Z",
+  "model": "glm-5.3"
+}

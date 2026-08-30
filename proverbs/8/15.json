@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "مون پاران بادشاهه راڄ ڪن ٿا، ۽ حاڪم انصاف جا فرض لکن ٿا.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "مون پاران"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "راج ڪن ٿا"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "۽ حاڪم"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "فرض لکن ٿا"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:01.973682181Z",
+  "model": "glm-5.3"
+}

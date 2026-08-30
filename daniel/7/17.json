@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "اِھي وڏا جانور، جيڪي چار آھن، اھي چار بادشاھ آھن، جيڪي زمين مان اُٿندا.",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "اِھي"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "وڏا"
+    },
+    {
+      "surface": "די",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "اُٿندا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:59:19.948691261Z",
+  "model": "glm-5.3"
+}

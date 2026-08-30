@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "سڀ هيءُ مان حڪمت ۾ آزمايو؛ م چيو ته مان حڪيم ٿيندس، پر اُها مڻ کان پري آهي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "آزمايو"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "حڪمت ۾"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "چيو م"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "حڪيم ٿيندس"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "پر اُها"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "پري"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مڻ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:34.125279839Z",
+  "model": "glm-5.3"
+}

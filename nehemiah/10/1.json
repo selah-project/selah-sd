@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 10:1",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ سڀني ھن_descriptorڳالھين_descriptor کان پوءِ اسان ھڪ اَمانه ٻَڌي لکندا آھيون، ۽ مُھرڻ وارن تي اسان جا سردار، اسان جا لوي، اسان جا ڪوھن (آھن).",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "۽ سڀني"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ھن"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسان"
+    },
+    {
+      "surface": "כרתים",
+      "gloss": "ٻَڌي ٿا"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "امانه"
+    },
+    {
+      "surface": "וכתבים",
+      "gloss": "۽ لکندا آھيون"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "مُھرڻ وارن"
+    },
+    {
+      "surface": "שרינו",
+      "gloss": "اسان جا سردار"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "اسان جا لوي"
+    },
+    {
+      "surface": "כהנינו",
+      "gloss": "اسان جا ڪوھن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:38.050218433Z",
+  "model": "glm-5.3"
+}

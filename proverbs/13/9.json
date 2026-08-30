@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ڏوهن جو نور خوش ٿيندو آھي، پر بدن جو چراگ ٻجھي ويندو آھي.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "نور"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ڏوهن جو"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ٿيندو آھي"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "پر چراگ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدن جو"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ٻجھي ويندو آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:46.148790047Z",
+  "model": "glm-5.3"
+}

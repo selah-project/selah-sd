@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 34:16",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ ياهوه موشيءَ سان ڳالهائيو ته چوي:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالهائيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته چوي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:15.392580661Z",
+  "model": "glm-5.3"
+}

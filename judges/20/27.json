@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 20:27",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ بني اسرائيل ياهوه کان پڇيو — ۽ اُنن ڏينھن ۾ اتي ايلوهيم جي عھد جو صندوق هو.",
+  "tokens": [
+    {
+      "surface": "וישאלו",
+      "gloss": "پڇيو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه کان"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ اتي"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عھد جو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ڏينھن ۾"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "اُنن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:05:16.515854805Z",
+  "model": "glm-5.3"
+}

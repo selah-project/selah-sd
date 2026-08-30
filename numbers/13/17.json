@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "موشي ⟨את⟩ هنن کي ڪنعان جي زمين جاچڻ لاءِ موڪليو، ۽ هنن چيو: هن راه سان نگب ۾ چڙهو، ۽ ⟨את⟩ جبل تي چڙهو.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "موڪليو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ هنن کي",
+      "marks": "هنن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "جاچڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪنعان جي زمين"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "هنن سان"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "چڙهو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "نگب ۾"
+    },
+    {
+      "surface": "ועליתם",
+      "gloss": "۽ چڙهندؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جبل"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:38:57.877975441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ڪاهن حڪم ڪندو، ۽ ⟨את⟩ هڪڙيءَ پکيءَ کي ماريندو، مٽيءَ جي ٿانءَ ۾، جيئرو پاڻيءَ مٿان.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "۽ حڪم ڪندو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "۽ ماريندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هڪڙيءَ پکيءَ کي"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "پکيءَ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "هڪڙيءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾ (ڏانهن)"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ٿانءَ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٽيءَ جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جيئري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:11.810916247Z",
+  "model": "glm-5.3"
+}

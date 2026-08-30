@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ عبدون، ۽ ذکري، ۽ حنان.",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "عبدون"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ذکري"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "حنان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:50.566288762Z",
+  "model": "glm-5.3"
+}

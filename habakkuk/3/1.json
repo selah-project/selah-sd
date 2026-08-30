@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "دعا آھي حبقوق نبيءَ جي، شگيونوت تي.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "حبقوق جي"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبيءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "شگيونوت"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:22.537252303Z",
+  "model": "glm-5.3"
+}

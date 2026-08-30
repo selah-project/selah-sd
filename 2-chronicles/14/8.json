@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 14:8",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ زرعھ ڪوشي انهن جي خلاف نڪتو، هڪ هزار هزارن جي لشڪر ۽ ٽي سؤ رٿن سان، ۽ اچي مريشه تائين پهتو.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "۽ نڪتو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "انهن جي خلاف"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زرعھ"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "ڪوشي"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "لشڪر سان"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هڪ هزار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزارن جي"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "۽ رٿون"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "۽ آيو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "مريشه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:02.956676846Z",
+  "model": "glm-5.3"
+}

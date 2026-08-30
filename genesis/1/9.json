@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ايلوهيم چيو: پاڻي آسمانن جي هيٺان هڪءَ جاءِ ڏانهن کٽجن، ۽ سڪي زمين ڏسجي؛ ۽ ائين ٿيو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "کٽجن"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "هيٺان"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪءَ"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "ڏسجي"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "سڪي زمين"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:25.856558748Z",
+  "model": "glm-5.3"
+}

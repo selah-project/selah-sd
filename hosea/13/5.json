@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "مان تو کي ڀڃ ۾ سڃاتم، سُڪائيءَ جي زمين ۾.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "تو کي سڃاتم"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ڀڃ ۾"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "سُڪائيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:59:55.283198753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "نوح، شيم، حام ۽ يافت۔",
+  "tokens": [
+    {
+      "surface": "نوح",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شيم"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "۽ يافت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:29.742681916Z",
+  "model": "glm-5.3"
+}

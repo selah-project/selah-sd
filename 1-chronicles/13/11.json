@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 13:11",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ داويد کي ناڀاڳ ٿيو، ڇوته ياهوه عُزا ۾ ڀڳڙو پيو هو؛ تنهنڪري ان جاءِ جو نالو پيرتس عُزا رکيائين — اڄ تائين.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ناڀاڳ ٿيو"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "داويد کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ڀڳڙو پيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ڀڳڙو"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "عُزا ۾"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "رکيائين"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "جاءِ جو نالو"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پيرتس"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عُزا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اج"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:43.932924301Z",
+  "model": "glm-5.3"
+}

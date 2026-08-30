@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 44:15",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "ته يوسف انهن کي چيو، ”هي ڪهڙو ڪم آهي جيڪو توهان ڪيو؟ ڇا توهان نہ ڄاڻو ٿا ته جهڙو مڙس آءٌ، نچش ڪندو نچش ڪندو آهيان؟“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ڇا نہ"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ڄاڻو ٿا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "نچش"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "ڪندو نچش"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مڙس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جهڙو"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "جهڙو آئون"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:57.433501866Z",
+  "model": "glm-5.3"
+}

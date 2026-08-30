@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 2:29",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ نفتالي جي قبيلي جو، ۽ نفتالي جي پٽن جو سردار اهيرع، عينان جو پٽ هوندو.",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "۽ قبيلي جو"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "۽ سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "جي پٽن جو"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اهيرع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عينان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:54.795702733Z",
+  "model": "glm-5.3"
+}

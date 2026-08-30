@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 69,
+  "translation": "زندگيءَ جي ڪتاب مان ميسارجي وڃن، ۽ نيڪن سان گڏ لکجن ئي نه.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "ميسارجي وڃن"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڪتاب مان"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگيءَ جي"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "۽ سان گڏ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نيڪن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئي نه"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "لکجن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:08.136329844Z",
+  "model": "glm-5.3"
+}

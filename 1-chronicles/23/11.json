@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 23:11",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ ياحت سردار ھو، ۽ زيزه ٻيو؛ ۽ يعوش ۽ بريعه پٽ گھڻا نه ڪيائون، تنھنڪري اھي ھڪ ئي ڳڻپ ۾ ھڪڙي پيءُ جي گھر بڻيا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ھو"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ياحت"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "וזיזה",
+      "gloss": "۽ زيزه"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "۽ يعوش"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "۽ بريعه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "گھڻا ڪيائون"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ بڻيا"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "جي گھر"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "לפקדה",
+      "gloss": "ڳڻپ ۾"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:05.631791098Z",
+  "model": "glm-5.3"
+}

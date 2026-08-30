@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 15:16",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ چوٿين پيڙهي واپس هتي موٽندي، ڇو ته امورين جو ڏوهه اڃا پورو نه ٿيو آهي هتي تائين.",
+  "tokens": [
+    {
+      "surface": "ודור",
+      "gloss": "۽ پيڙهي"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "چوٿين"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "واپس موٽندي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هتي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "پورو ٿيو"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ڏوهه"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "امورين جو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هتي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:54.877361757Z",
+  "model": "glm-5.3"
+}

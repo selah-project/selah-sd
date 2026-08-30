@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "گرشونيءَ مان: لعدان ۽ شمعي.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "گرشونيءَ مان"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "لعدان"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "۽ شمعي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:08.769297418Z",
+  "model": "glm-5.3"
+}

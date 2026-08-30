@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ جيڪڏھن ڪو ماڻھو نيڪ ٿئي ۽ انصاف ۽ راستبازي ڪري —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ماڻھو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿئي"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "۽ ڪري"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "۽ راستبازي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:32:03.643558269Z",
+  "model": "glm-5.3"
+}

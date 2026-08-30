@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "جو ايمانداري پچاري ٿو، سو انصاف ٻڌائي ٿو؛ پر ڪوڙن جو شاهد ٺڳي (ٻڌائي ٿو).",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "پچاري ٿو"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ايمانداري"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ٻڌائي ٿو"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "پر شاهد"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ڪوڙن جو"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ٺڳي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:08.880320292Z",
+  "model": "glm-5.3"
+}

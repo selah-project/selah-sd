@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ احيمعص پيدا ڪيو ⟨את⟩ عزرياہ، ۽ عزرياہ پيدا ڪيو ⟨את⟩ يوحنان؛",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "۽ احيمعص"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزرياہ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزرياہ"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "۽ عزرياہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوحنان"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "يوحنان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:13.359410676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 19:50",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ياهوه جي حڪم موجب کيس اها شهر ڏنائون جاڪو گهريو هو — ⟨את⟩ تمنت سيرح، اپفرaim جي جبل ۾؛ ۽ انهن ⟨את⟩ شهر کي ٺهرايائون ۽ ان ۾ رهڻ لڳو.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "פי",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ڏنائون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "שאل",
+      "gloss": "گهريو هو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمنت سيرح"
+    },
+    {
+      "surface": "תמנת",
+      "gloss": "تمنت"
+    },
+    {
+      "surface": "סרח",
+      "gloss": "سيرح"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل ۾"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپفرaim"
+    },
+    {
+      "surface": "ויבנه",
+      "gloss": "۽ ٺهرايائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "۽ رهڻ لڳو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:43:31.299153716Z",
+  "model": "glm-5.3"
+}

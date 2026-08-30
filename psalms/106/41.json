@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 106,
+  "translation": "۽ هن کين قومن جي هٿ ۾ ڏنو، ۽ سندن دشمنن سندن تي حڪومت ڪئي.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "هن کين ڏنو"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "جي هٿ ۾"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "حڪومت ڪئي"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "سندن تي"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "سندن دشمنن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:50.994828588Z",
+  "model": "glm-5.3"
+}

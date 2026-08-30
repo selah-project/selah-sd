@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "ڇوته ياهوه جو حصو سندس قوم آهي؛ يعقوب سندس وراثت جي ڇنڊ آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "حصو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس قوم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ڇنڊ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "سندس وراثت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:44.261785301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ڍڳن جا ٻه ۽ ستر ھزار،",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ڍڳن جا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "۽ ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:41:03.872978231Z",
+  "model": "glm-5.3"
+}

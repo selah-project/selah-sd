@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ ابراهام صبح سويرو اُٿي ان جاءِ تي ويو جتان ياهوه جي اڳيان ⟨את⟩ بيٺو هو.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "صبح سويرو اُٿي ويو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ان جاءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتي"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "بيٺو هو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جي اڳيان"
+    },
+    {
+      "surface": "פני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:34.006286715Z",
+  "model": "glm-5.3"
+}

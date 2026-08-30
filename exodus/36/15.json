@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 36:15",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "هڪ پڙدي جي ڊيگهه ٽيهه اَمَهَ ۽ هڪ پڙدي جي ويڪر چار اَمَهَ هئي؛ يارنهن پڙدن لاءِ هڪ ئي ماپ.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ڊيگهه"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پڙدي جي"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "اَمَهَ ۾"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمَهَ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ويڪر"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پڙدي جي"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ماپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "يارنهن"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پڙدن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:39.383999896Z",
+  "model": "glm-5.3"
+}

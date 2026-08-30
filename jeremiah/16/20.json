@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ڇا ڪو ماڻهو پاڻ لاءِ خدا ٺاهيندو، ۽ اهي خدا ناهن؟",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "ڇا ٺاهيندو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خدا"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "۽ اهي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خدا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:12:10.054680038Z",
+  "model": "glm-5.3"
+}

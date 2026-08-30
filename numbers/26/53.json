@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 26:53",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "انهن کي ئي زمين ورثي طور ورهائي ويندي، نالن جي انگَ مطابق.",
+  "tokens": [
+    {
+      "surface": "לאלה",
+      "gloss": "انهن کي ئي"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "ورهائي ويندي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "ورثي طور"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "انگَ مطابق"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نالن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:28.322244882Z",
+  "model": "glm-5.3"
+}

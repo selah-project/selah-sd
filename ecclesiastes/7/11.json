@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "حڪمت وراثت سان گڏ ڇوتر آھي، ۽ سج کي ڏسيندڙن لاءِ فائدو آھي.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ڇوتر آھي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "وراثت"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "۽ فائدو"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "ڏسيندڙن لاءِ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:04.781796748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ قائين ڏانهن ۽ سندس نذر ڏانهن نه ڏٺائين؛ تڏهن قائين تي سخت غصو چڙهيو ۽ سندس منهن ڪري پيو.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "۽ … ڏانهن"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قائين"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ … ڏانهن"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "سندس نذر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "ڏٺائين"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "۽ چڙهيو"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "قائين تي"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "۽ ڪري پيو"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "سندس منهن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:31.280257934Z",
+  "model": "glm-5.3"
+}

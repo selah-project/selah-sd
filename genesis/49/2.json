@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "ڪٺا ٿيو ۽ ٻُڌيو، يعقوب جا پٽ، ۽ ٻُڌيو اسرائيل ڏانهن جيڪو توهانجو پيءُ آهي.",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "ڪٺا ٿيو"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "۽ ٻُڌيو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب جا"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "۽ ٻُڌيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "توهانجو پيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:51.755588363Z",
+  "model": "glm-5.3"
+}

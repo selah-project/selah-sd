@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 19:19",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ ٿيو شوفار جو آواز، وڃي ٿو ۽ تمام سخت ٿيندو؛ موشي ڳالهائي ٿو، ۽ ايلوهيم کيس آواز سان جواب ڏئي ٿو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "شوفار جو"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "وڃي ٿو"
+    },
+    {
+      "surface": "وחזק",
+      "gloss": "۽ سخت ٿيندو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ڳالهائي ٿو"
+    },
+    {
+      "surface": "ויהוה-placeholder",
+      "gloss": ""
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "۽ ايلوهيم"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "جواب ڏئي ٿو کيس"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آواز سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:22.838780459Z",
+  "model": "glm-5.3"
+}

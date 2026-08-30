@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 94,
+  "translation": "۽ ⟨هي⟩ چون ٿا: ”ياه نه ڏسندو، ۽ يعقوب جو ايلوهيم نه سمجهندو.“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "۽ چون ٿا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ڏسندو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سمجهندو"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "جو ايلوهيم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:54.027769406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "۽ سِدڙي واٽ تي هليائين ⟨את⟩ کين، ته رهڻ جي شهر ڏانهن وڃن.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "هليائين"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "واٽ تي"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "سِدڙي"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ته وڃن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "رهڻ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:59.523501772Z",
+  "model": "glm-5.3"
+}

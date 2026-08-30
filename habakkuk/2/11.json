@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇوته ديوار مان پَٿر چُڪندو، ۽ ڪاٺ مان ڪَنڊي جواب ڏيندي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پَٿر"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "ديوار مان"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "چُڪندو"
+    },
+    {
+      "surface": "وכפיס",
+      "gloss": "۽ ڪَنڊي"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "ڪاٺ مان"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "جواب ڏيندي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:52:48.753925226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "بني يسرائيل سان ڳالھاء ۽ کين چؤ ته جڏھن توهان ⟨את⟩ يردن پار ڪري کنعان جي زمين ڏانھن وڃو،",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھاء"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ چؤ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته جڏھن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "پار ڪري وڃو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "يردن"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمين ڏانھن"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:23.847226497Z",
+  "model": "glm-5.3"
+}

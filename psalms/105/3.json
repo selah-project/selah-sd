@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "سندس پاڪ نالي ۾ فخر ڪريو؛ ياهوه جي ڳولهين وارن جو دل خوش ٿئي.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "فخر ڪريو"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نالي ۾"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "سندس پاڪ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ٿئي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ڳولهين وارن جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:29.659983293Z",
+  "model": "glm-5.3"
+}

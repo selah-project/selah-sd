@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 10:8",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ساڳئي وحشي ۽ جاهل آهن؛ هٻلاي جي تعليم — اهو رڳو ڪاٺ آهي.",
+  "tokens": [
+    {
+      "surface": "ובאחת",
+      "gloss": "۽ ساڳئي (ھڪ ٿي)"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "وحشي آهن"
+    },
+    {
+      "surface": "ויכסלו",
+      "gloss": "۽ جاهل"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تعليم"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "هٻلاين جي"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ڪاٺ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:09:34.859459865Z",
+  "model": "glm-5.3"
+}

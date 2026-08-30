@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ سمنڊ جو ڪنارو چوپائي مال وارن جي چراگاھن ۽ رھائش جو ماڳ ٿيندو، ۽ ٻڪرين جا واڙا.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ڪنارو"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "נות",
+      "gloss": "رھائش جو ماڳ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "چراگاھ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "چوپائي مال وارن جي"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "۽ واڙا"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ٻڪريون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:57.686496998Z",
+  "model": "glm-5.3"
+}

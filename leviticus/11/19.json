@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ⟨את⟩ هيلاچ، ۽ ٽوهڻ پنهنجي جنس موجب، ۽ ⟨את⟩ هوپو، ۽ ⟨את⟩ چمگادڙ،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "هيلاچ"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "هيلاچ"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "ٽوهڻ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "پنهنجي جنس موجب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "هوپو"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "هوپو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "چمگادڙ"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "چمگادڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:53.857701402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 22:5",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ نبي گاد داوود کي چيو: قلعي ۾ نه وهج؛ هل ۽ پاڻ لاءِ يهودا جي ملڪ ۾ اچ. ته داوود هليو ۽ حرث جي جنگل ۾ آيو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "وهج"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "قلعي ۾"
+    },
+    {
+      "surface": "לך",
+      "gloss": "هل"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "۽ اچ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ملڪ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "۽ هليو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "۽ آيو"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل"
+    },
+    {
+      "surface": "חרת",
+      "gloss": "حرث"
+    }
+  ],
+  "timestamp": "2026-08-30T14:46:02.508433832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 7:21",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ هي گهر، جيڪو بلند هو، هر لنگهندڙ لاءِ حيرت جو سبب ٿيندو ۽ هو چوندو: ياهوه هن زمين سان ۽ هن گهر سان ائين ڇو ڪيو؟",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "۽ هي گهر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "هر لاءِ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگهندڙ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "حيرت ۾ وجهندو"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چوندو"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "هن زمين سان"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "۽ هن گهر سان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T15:12:36.173205120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ شُپّم ۽ حُپّم — عير جا پُٽ؛ حُشيم — اَحير جا پُٽ.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "۽ شُپّم"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "۽ حُپّم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عير"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "حُشيم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "اَحير"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:15.076496707Z",
+  "model": "glm-5.3"
+}

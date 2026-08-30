@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 115,
+  "translation": "مرده ياه جي ساراھ نه ڪن ٿا، ۽ نه سڀ اُهي جيڪي خاموشيءَ ۾ لهن ٿا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مرده"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ساراھ ڪن ٿا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "لهندڙ"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "خاموشيءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:36.728581738Z",
+  "model": "glm-5.3"
+}

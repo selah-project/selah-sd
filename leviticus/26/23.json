@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ جيڪڏھن انھن شين سان توهان مون کان سڌارجا نه، پر مون سان ٽڪراءَ سان ھلو —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "انھن شين سان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "توهان سڌارجا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کان"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "۽ توهان ھلو"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "ٽڪراءَ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:37.867824055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ بنيامين جي پٽن مان: سلّو، پٽ مشلم جو، پٽ هودوياH جو، پٽ حسنوعه جو.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ … مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "سلّو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مشلم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "هودوياH"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "حسنوعه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:27.563935423Z",
+  "model": "glm-5.3"
+}

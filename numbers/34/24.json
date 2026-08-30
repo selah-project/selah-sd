@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ افرايم جي پٽن جي قبيلي لاءِ سردار ڪَمُوئيل، شِفتان جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "۽ قبيلي لاءِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرايم"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "ڪَمُوئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "شِفتان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:00.653268959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "مُنڍ ۾ رھنما لاءِ — قورح جي پٽن لاءِ — هڪ مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "رھنما لاءِ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن لاءِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:08.792623255Z",
+  "model": "glm-5.3"
+}

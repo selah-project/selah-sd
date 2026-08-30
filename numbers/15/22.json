@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ جيڪڏھن توهان ڀٽڪو ۽ ⟨את⟩ سڀ اھي حڪم نه ڪريو، جيڪي ياهوه موشي سان ڳالھايا.",
+  "tokens": [
+    {
+      "surface": "وכי",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "ڀٽڪو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ڪريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ اھي حڪم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:29:11.115680827Z",
+  "model": "glm-5.3"
+}

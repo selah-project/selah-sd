@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "پسنديدي ماني نه کاڌم، ۽ گوشت ۽ شراب منهنجي وات ۾ نه آيا، ۽ تيل نه چکايوم، جيستائين ٽن هفتن جا ڏينهن پورا ٿيا.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "پسنديدي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "کاڌم"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "۽ گوشت"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "۽ شراب"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منهنجي وات"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "۽ تيل"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "چکايوم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جيستائين"
+    },
+    {
+      "surface": "مלאת",
+      "gloss": "پورا ٿيا"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽن"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هفتن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:00:26.062959105Z",
+  "model": "glm-5.3"
+}

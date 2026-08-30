@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ شام ٿي ۽ صبح ٿي — ٽيون ڏينھن۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ٽيون"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:16.328318352Z",
+  "model": "glm-5.3"
+}

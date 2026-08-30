@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "جيڪڏھن تون راستباز ٿئين ته ان کي ڇا ڏيندين، يا تن جي ھٿان ڇا وٺندو؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "راستباز ٿئين"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ڏيندين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "تن جي ھٿان"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "وٺندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:43:27.529813244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 132,
+  "translation": "چڙهڻ جو گيت۔ ياهوه، داوود لاءِ ياد رک ⟨את⟩ سندس سڀڪنھن تڪليف،",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "چڙهڻ جو"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ياد رک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس سڀڪنھن تڪليف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀڪنھن"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "سندس تڪليف"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:35.338348873Z",
+  "model": "glm-5.3"
+}

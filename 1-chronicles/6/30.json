@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "پٽ حَشَبَياه جو، پٽ اَمَصياه جو، پٽ حِلقياه جو.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حَشَبَياه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "اَمَصياه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حِلقياه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:54.021118659Z",
+  "model": "glm-5.3"
+}

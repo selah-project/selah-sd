@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "باني جي پٽن جو، ڇھه سؤ چاليھ ۽ ٻه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "باني"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليھ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:47.438737540Z",
+  "model": "glm-5.3"
+}

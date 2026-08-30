@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ ايليشمع ۽ ايليادع ۽ ايليفلت.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "۽ ايليشمع"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "۽ ايليادع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "۽ ايليفلت"
+    }
+  ],
+  "timestamp": "2026-08-30T11:18:16.042355478Z",
+  "model": "glm-5.3"
+}

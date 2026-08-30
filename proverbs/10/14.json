@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ھوشيار علم کي سانڍي رکن ٿا، ۽ مورک جو واتُ برباديءَ جي ويجهو آھي.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "ھوشيار"
+    },
+    {
+      "surface": "יצצפנו",
+      "gloss": "سانڍي رکن ٿا"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم کي"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "۽ واتُ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "مورک جو"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "برباديءَ جي"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "ويجهو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:29.447370387Z",
+  "model": "glm-5.3"
+}

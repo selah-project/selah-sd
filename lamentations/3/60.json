@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "تون ڏٺو سندن ساري انتقام کي، سندن سارن منصوبن کي مون سان.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "تون ڏٺو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "سندن انتقام کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارن"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "سندن منصوبن کي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:10.087079695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "جڏھن هو پنھنجي آواز نرم ڪري، تنھن ۾ ايمان نه آڻ؛ ڇوته سندس دل ۾ ست نفرتيون آهن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "نرم ڪري"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "پنھنجي آواز"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "ايمان آڻ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تنھن ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "نفرتيون"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "سندس دل ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:04.326263387Z",
+  "model": "glm-5.3"
+}

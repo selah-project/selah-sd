@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ياهوه ان تي پشيمان ٿيو؛ ”اھو نه ٿيندو“، ياهوه چيو.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "پشيمان ٿيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:49:52.265398561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "رن ٻوڪو، تڙشيش جون ٻيڙيون، ڇوته توهان جو ماڙ پيا وڃڻ.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "رن ٻوڪو"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ٻيڙيون"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تڙشيش جون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "پيا وڃڻ"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "توهان جو ماڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:53:49.886628124Z",
+  "model": "glm-5.3"
+}

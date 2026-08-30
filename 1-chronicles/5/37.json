@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ عزرياه پڻ ⟨את⟩ عمرياه کي پيدا ڪيو، ۽ عمرياه ⟨את⟩ اهيتوب کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "پڻ پيدا ڪيو"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزرياه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمرياه"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "عمرياه"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "۽ عمرياه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اهيتوب"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اهيتوب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:49.954902998Z",
+  "model": "glm-5.3"
+}

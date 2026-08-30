@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ڏسو، مَنِ تو کي قومن ۾ ننڍو ڪيو آهي؛ تون تمام گهڻو حقير آهين.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ننڍو"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ڪيو آهي"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومن ۾"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "حقير"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام گهڻو"
+    }
+  ],
+  "timestamp": "2026-08-30T15:00:18.759161219Z",
+  "model": "glm-5.3"
+}

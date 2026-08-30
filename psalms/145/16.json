@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 145,
+  "translation": "تون ⟨את⟩ پنھنجي ھٿ کولين ٿو، ۽ سڀ جاندارن جي مرادي کي رَڄائي ٿو.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "کولين ٿو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجي ھٿ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "پنھنجي ھٿ"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "۽ رَڄائي ٿو"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀ … کي"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جاندارن"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "مرادي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:41.736299559Z",
+  "model": "glm-5.3"
+}

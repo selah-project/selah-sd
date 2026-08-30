@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ سندس پهرين پُٽ عبدون، ۽ صور، ۽ قيش، ۽ بعل، ۽ ندب.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "۽ سندس پُٽ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "پهرين"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عبدون"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "۽ صور"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "۽ قيش"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "۽ بعل"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "۽ ندب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:35.832497627Z",
+  "model": "glm-5.3"
+}

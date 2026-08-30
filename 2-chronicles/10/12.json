@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 10:12",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "تڏهن يَربعام ۽ سڳورو قوم ٽئين ڏينهن رحبعام وٽ آيا، جيئن بادشاهه چيو هو ته „ٽئين ڏينهن مون وٽ موٽو.“",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "تڏهن آيا"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "يربعام"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڳورو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعام"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ٽئين"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو هو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "موٽو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ٽئين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:14.865491988Z",
+  "model": "glm-5.3"
+}

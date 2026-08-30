@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ سون جو ڪف، ڏھ شيکل، خوشبوءِ سان ڀريل۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ڪف"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏھ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جو"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ڀريل"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبوءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:59.828743028Z",
+  "model": "glm-5.3"
+}

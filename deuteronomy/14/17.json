@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ قآت، ۽ ⟨את⟩ رحام، ۽ ⟨את⟩ شلخ.",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "۽ قآت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "رحام"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "رحام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شلخ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "شلخ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:39.399618443Z",
+  "model": "glm-5.3"
+}

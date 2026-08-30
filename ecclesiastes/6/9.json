@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "اکين جو ڏسڻ نفس جي گهمڻ کان چڱو آهي؛ پوءِ هي به هيس آهي ۽ روح جي سهي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ڏسڻ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکين جو"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "گهمڻ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پوءِ به"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هيس"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "سهي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:55.820141540Z",
+  "model": "glm-5.3"
+}

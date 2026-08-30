@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 1:17",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ڀلا ڇا ان ڪري پنهنجو جال خالي ڪندو، ۽ مسلسل قومن کي مارڻ لاءِ ڪوبه رحم نه ڪندو؟",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "ڀلا ڇا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ان ڪري"
+    },
+    {
+      "surface": "יריק",
+      "gloss": "خالي ڪندو"
+    },
+    {
+      "surface": "חרמו",
+      "gloss": "پنهنجو جال"
+    },
+    {
+      "surface": "ותמיד",
+      "gloss": "۽ مسلسل"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "مارڻ لاءِ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "رحم ڪندو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:52:07.620112281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "۽ سندس پاڪ ٿيڻ کان پوءِ ستن ڏينهن سندس لاءِ ڳڻيا ويندا.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "۽ … کان پوءِ"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "سندس پاڪ ٿيڻ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ستن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ڳڻيا ويندا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:42:27.969862033Z",
+  "model": "glm-5.3"
+}

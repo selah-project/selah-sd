@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ڇونڪَ تون اَنھيءَ اِلَهَ جو ناھين جيڪو بڇڙائيءَ کي پسند ڪري؛ بڇڙو تنهنجي ۾ رھي نہ سگهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇونڪَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "پسند ڪري"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بڇڙائي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "تنهنجي ۾ رهي"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بڇڙو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:12.215385429Z",
+  "model": "glm-5.3"
+}

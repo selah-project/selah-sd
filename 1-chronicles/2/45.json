@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ شمعي جو پٽ معون ⟨هو⟩، ۽ معون بيت صور جو پيءُ ⟨هو⟩۔",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "۽ جو پٽ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمعي"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "معون"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "۽ معون"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جو پيءُ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:04.751406628Z",
+  "model": "glm-5.3"
+}

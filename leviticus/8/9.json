@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ هن پنهنجي مٿي تي پگهڙ رکي؛ ۽ پگهڙ تي، سندس منهن جي اڳيان، ⟨את⟩ سون جي چمڪندڙ پٽ کي رکي — پاڪ تاج — جيئن ياهوه ⟨את⟩ موشي کي حڪم ڏنو.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "رکي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پگهڙ"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "پگهڙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "پنهنجي مٿي"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "رکي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "پگهڙ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "анчивن"
+    },
+    {
+      "surface": "מול",
+      "gloss": "آمهن"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "سندس منهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سون جي چمڪندڙ پٽ"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "چمڪندڙ پٽ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سون جي"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:37:51.600980296Z",
+  "model": "glm-5.3"
+}

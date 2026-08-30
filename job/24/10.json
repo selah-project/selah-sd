@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ننگا، بغير ڪپڙي جي، پنھن ٿا، ۽ بکيا ٿانءَ کڻي وڃن ٿا.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ننگا"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "پنھن ٿا"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بغير"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "ڪپڙي جي"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "۽ بکيا"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "کڻي وڃن ٿا"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "ٿانءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:38.956432259Z",
+  "model": "glm-5.3"
+}

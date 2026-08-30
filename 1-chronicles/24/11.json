@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "نائون يشوع لاءِ، ڏهون شكنيہهو لاءِ۔",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "يشوع لاءِ"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "نائون"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "شكنيہهو لاءِ"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "ڏهون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:56.680645948Z",
+  "model": "glm-5.3"
+}

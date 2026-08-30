@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "زڪي جي پٽن جو ست سَو سٺ (760).",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "زڪي"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "۽ سٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:44.034922200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 2:15",
+  "book": "haggai",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ھاڻي منھن ڪريو، پنھنجن دلين ۾ ڏيرو ھن ڏينھن کان ۽ مٿي — ان کان اڳي جو ياهوه جي هيڪل ۾ پٿر پٿر تي رکجي ٿو.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ ھاڻي"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "رکو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "منھن ڪريو"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "توهان جي دل ۾"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ھن ڏينھن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ھن"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "۽ مٿي"
+    },
+    {
+      "surface": "מטרם",
+      "gloss": "ان کان اڳي"
+    },
+    {
+      "surface": "שום",
+      "gloss": "رکڻ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "هيڪل ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:20.161110423Z",
+  "model": "glm-5.3"
+}

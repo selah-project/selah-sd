@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 29:20",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ ٽئين ڏينھن يارھن ڳئون، ٻه ايل-رڪا، چوڏهن هڪ سال جا رمان، بنا ڪنهن خامي جا.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "۽ … ڏينھن تي"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ٽئين"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ڳئون"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "يارھن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ڏهن"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ايل-رڪا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "رمان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "هڪ سال جا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوڏهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ڏهن"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بنا ڪنهن خامي جا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:13.556210543Z",
+  "model": "glm-5.3"
+}

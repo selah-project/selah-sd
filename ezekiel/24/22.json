@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 24:22",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ توهان ڪريو سگهو جيئن آءٌ ڪيو اٿم: مُڇن تي (ڪپڙو) نه ٻڌو ۽ ماڻهن جو ماني نه کائو.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "۽ توهان ڪندو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "آءٌ ڪيو اٿم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "مُڇن"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעטו",
+      "gloss": "ٻَڌو"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "۽ ماني"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ماڻهن جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:34:59.730532441Z",
+  "model": "glm-5.3"
+}

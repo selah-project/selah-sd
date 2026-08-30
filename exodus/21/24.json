@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "اک بدلي اک، ڏند بدلي ڏند، هٿ بدلي هٿ، پير بدلي پير.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "اک"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلي"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اک"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ڏند"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلي"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ڏند"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلي"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پير"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلي"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پير"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:58.621308488Z",
+  "model": "glm-5.3"
+}

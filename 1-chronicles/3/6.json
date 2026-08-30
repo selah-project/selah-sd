@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ يبھر ۽ ايليشما ۽ ايليفلت.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "۽ يبھر"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "۽ ايليشما"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "۽ ايليفلت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:52.255879743Z",
+  "model": "glm-5.3"
+}

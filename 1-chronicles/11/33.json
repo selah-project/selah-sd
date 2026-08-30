@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "عزموٿ البحرومي، اِليَحبّا الشعلبوني،",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "عزموٿ"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "البحرومي"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "اِليَحبّا"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "الشعلبوني"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:03.787101237Z",
+  "model": "glm-5.3"
+}

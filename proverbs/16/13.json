@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 16:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "بادشاهن جي پسند سچا هون آهن، ۽ سڌيون ڳالهيون ڪندڙ کي ⟨هو⟩ پيار ڪن ٿا.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "پسند"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاهن جي"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "هون"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "سچا"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "۽ ڳالهيون ڪندڙ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سڌيون"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "پيار ڪن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:16.597188378Z",
+  "model": "glm-5.3"
+}

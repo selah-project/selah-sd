@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 4:28",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "هيءَ ⟨ه⟩ ملاقات جي خيمي ۾ گershoni پٽن جي خاندانن جي خدمت آهي، ۽ سندن نگراني اهارون پٽ کاهن اِتامار جي هٿ هيٺ آهي.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هيءَ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانن جي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "گershoni"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خيمي ۾"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات جي"
+    },
+    {
+      "surface": "ומשמרתם",
+      "gloss": "۽ سندن نگراني"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ هيٺ"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "اِتامر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:42.780060013Z",
+  "model": "glm-5.3"
+}

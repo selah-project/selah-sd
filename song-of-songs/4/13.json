@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "تون جا ڇوٽڙا پَرديس انارن جو ⟨آھن⟩، قيمتي ڦلن سان؛ هِنّا، نارد سان۔",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "تون جا ڇوٽڙا"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "پَرديس"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "انارن جو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ڦل"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "قيمتي"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "هِنّا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "نارد"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:29.126419877Z",
+  "model": "glm-5.3"
+}

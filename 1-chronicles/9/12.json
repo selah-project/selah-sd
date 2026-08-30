@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 9:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ عديا بن يروحام بن فشحور بن ملكيا، ۽ معساي بن عديئيل بن يحزره بن مشلم بن مشليميت بن امر.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "۽ عديا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "يروحام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "فشحور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "ملكيا"
+    },
+    {
+      "surface": "ומעשי",
+      "gloss": "۽ معساي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עדיאל",
+      "gloss": "عديئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יחזרה",
+      "gloss": "يحزره"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مشلم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "משלמית",
+      "gloss": "مشليميت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "امر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:53.313300819Z",
+  "model": "glm-5.3"
+}

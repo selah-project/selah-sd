@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 58,
+  "translation": "جو منتر پڙهندڙن جي آواز نه ٻڌي، چارمن ۾ بلڪل مهارت وارو به نه.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ٻڌي"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "منتر پڙهندڙن جي"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "چارم"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "ٻڌڻ ۾"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "مهارت وارو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:43.108954198Z",
+  "model": "glm-5.3"
+}

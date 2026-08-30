@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "پھاڙ — سندس ڪم پورو ⟨آھي⟩؛ ڇوته سندس سڀ رستا انصاف ⟨آھن⟩؛ ايماندار ايل، جنھن ۾ ڪوبه ظلم ناھي؛ نياز ۽ سڌرو ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "پھاڙ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "پورو"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "سندس ڪم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "رستا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ايماندار"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ناھي"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نياز"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "۽ سڌرو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:57.170087982Z",
+  "model": "glm-5.3"
+}

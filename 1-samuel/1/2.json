@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ وٽس ٻه زالون هيون؛ ھڪڙي جو نالو حنه ۽ ٻي جو نالو فننه؛ ۽ فننه وٽ ٻار ھئا، ۽ حنه وٽ ٻار نہ ھئا.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "۽ وٽس"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زالون"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪڙي جو"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "حنه"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ٻي جو"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "فننه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ھئا"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "فننه وٽ"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ٻار"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "۽ حنه وٽ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ٻار"
+    }
+  ],
+  "timestamp": "2026-08-30T11:05:57.742009033Z",
+  "model": "glm-5.3"
+}

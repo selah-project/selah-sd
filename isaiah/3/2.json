@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "بهادر ۽ جنگ جو ماڻهو، قاضي ۽ نبي، فال ڏيندڙ ۽ بزرگ —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "بهادر"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ماڻهو"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ جو"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "قاضي"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "۽ نبي"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "۽ فال ڏيندڙ"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "۽ بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:03.741781171Z",
+  "model": "glm-5.3"
+}

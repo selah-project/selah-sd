@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ کين شافَر جبل کان کوچ ٿيو، ۽ حَرادہ ۾ خيمہ وڙايائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "کوچ ٿيو"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "جبل کان"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شافَر"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيمہ وڙايائون"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "حَرادہ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:47.418975248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 92,
+  "translation": "مزمور، گيت، شبات ⟨جي⟩ ڏينهن لاءِ.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ڏينهن لاءِ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شبات جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:14.890103666Z",
+  "model": "glm-5.3"
+}

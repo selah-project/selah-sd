@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "ست خوبصورت ڳئون — اھي ست سال ⟨آھن⟩؛ ۽ ست خوبصورت سنگهون — اھي ست سال ⟨آھن⟩؛ خواب ھڪ ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ڳئون"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "خوبصورت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اھي ⟨آھن⟩"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "سنگهون"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "خوبصورت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اھي ⟨آھن⟩"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:51:48.869997075Z",
+  "model": "glm-5.3"
+}

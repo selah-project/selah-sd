@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ مان ته ڪوڙو آهيان، ماڻهو ئي نه؛ ماڻهن جي بي عزتي ۽ قوم جو حقير.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "۽ مان ته"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ڪوڙو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو ئي"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "بي عزتي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهن جي"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "۽ حقير"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:48.165052061Z",
+  "model": "glm-5.3"
+}

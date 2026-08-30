@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 147,
+  "translation": "گھوڙي جي طاقت ۾ ⟨هو⟩ پسند نه ڪري ٿو، ماڻھوءَ جي ٽنگن ۾ راضي نه ٿيندو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "طاقت ۾"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "گھوڙي جي"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "پسند ڪري ٿو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "ٽنگن ۾"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ماڻھوءَ جي"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "راضي ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:44.705765680Z",
+  "model": "glm-5.3"
+}

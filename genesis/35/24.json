@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "راحل جا پٽ: يوسف ۽ بنيامين.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحل"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "۽ بنيامين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:34:18.694641966Z",
+  "model": "glm-5.3"
+}

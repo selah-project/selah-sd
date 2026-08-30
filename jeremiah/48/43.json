@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "ڏپ، ۽ کڏا، ۽ جال — تنھنجي مٿان، اي موآب جي رھواسي، ياهوه جو وچن.",
+  "tokens": [
+    {
+      "surface": "پחد",
+      "gloss": "ڏپ"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "۽ کڏا"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "۽ جال"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تنھنجي مٿان"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "اي رھواسي"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب جي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وچن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:46.866845645Z",
+  "model": "glm-5.3"
+}

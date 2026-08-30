@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ ڍڳو، ڍڳن جو پٽ، ھڪ رَمَ، ھڪ مينھن، ھڪ سال جو پٽ، سڙڪي قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ڍڳو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳن"
+    },
+    {
+      "surface": "איל",
+      "gloss": "رَمَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "مينھن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "سال جو"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سڙڪي قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:36.347082278Z",
+  "model": "glm-5.3"
+}

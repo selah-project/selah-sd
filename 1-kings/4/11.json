@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "بين-ابيناداب — سڄي نافات-دور جي (علائقي تي)؛ طافت، شلوموھ جي ڌيءُ، سندس زال ٿي هئي.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ابيناداب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "نافات"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "دور"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "طافت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءُ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموھ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ٿي هئي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زال"
+    }
+  ],
+  "timestamp": "2026-08-30T14:49:28.658956977Z",
+  "model": "glm-5.3"
+}

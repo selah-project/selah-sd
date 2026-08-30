@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ⟨اهي⟩ عيمم کان روانا ٿيا، ۽ ديبون-گد ۾ خيما پڙيا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "عيمم"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيما پڙيا"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "ديبون ۾"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گد"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:51.373606322Z",
+  "model": "glm-5.3"
+}

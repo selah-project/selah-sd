@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "هي ⟨هو⟩ سوم سڄي زمين تي سوچيل آهي، ۽ هي ⟨هو⟩ هٿ سڀني قومن تي ڊگهو ڪيل آهي.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "سوم"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "سوچيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "۽ هي"
+    },
+    {
+      "surface": "היד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "ڊگهو ڪيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:51:03.923348844Z",
+  "model": "glm-5.3"
+}

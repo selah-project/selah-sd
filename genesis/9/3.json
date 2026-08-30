@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "سڀ رngڻ họڻ جيڪو جيئرو آهي، توهان لاءِ کاڌي لاءِ هوندو؛ جيئن ساوا ٻوٽا، توهان کي ⟨את⟩ سڀ ڏنم آهي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "رngڻ họڻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جيئرو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندو"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "کاڌي لاءِ"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "جيئن ساوا"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ٻوٽا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ڏنم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:44.813627081Z",
+  "model": "glm-5.3"
+}

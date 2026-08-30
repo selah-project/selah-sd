@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 29:26",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ لاويٰ داويد جي سازن سان بيٺا، ۽ ڪاھن ٽپن سان.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "بيٺا"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاويٰ"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "سازن سان"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "۽ ڪاھن"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "ٽپن سان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:29:43.052914404Z",
+  "model": "glm-5.3"
+}

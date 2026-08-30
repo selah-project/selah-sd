@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "اچ، محبوب منهنجو، اسان ميدان ڏانهن نڪرون، ڳوٺن ۾ رات ڪريون.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "اچ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "محبوب منهنجو"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "اسان نڪرون"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ميدان ڏانهن"
+    },
+    {
+      "surface": "نלינה",
+      "gloss": "رات ڪريون"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "ڳوٺن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:47:20.740829652Z",
+  "model": "glm-5.3"
+}

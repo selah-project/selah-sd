@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "بيشڪ مون ئي ڏانھن موٽي ٿو، سڀ ڏينھن پنھنجو ھٿ پلٽي ٿو.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون ئي"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "موٽي ٿو"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "پلٽي ٿو"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "پنھنجو ھٿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينھن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:21.625920610Z",
+  "model": "glm-5.3"
+}

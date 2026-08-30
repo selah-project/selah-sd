@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "تنھنڪري تون دل جي سوجھرا سان انصاف ۽ عدل ۽ سڌائي سمجھندين — سڀ نيڪ رستا.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تنھنڪري"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "سمجھندين"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "۽ عدل"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "۽ سڌائي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "رستا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نيڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:23.201708447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ⟨את⟩ سمنڊ کي هن ساڄي ڪلھي وٽان، اُڀرندي پاسي، ڏکڻ جي اُمام ۾ رکيو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سمنڊ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکيائين"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ڪلھي وٽان"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ساڄي"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "اُڀرندي پاسي"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "اُمام"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ڏکڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:51.060042015Z",
+  "model": "glm-5.3"
+}

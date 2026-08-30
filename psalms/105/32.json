@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "ھن سندن مينھن کي برسات جي بدلي ٿور ڏنو، سندن زمين ۾ شعلن واري باھ.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "سندن مينھن کي"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ٿور"
+    },
+    {
+      "surface": "אש",
+      "gloss": "باھ"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "شعلن واري"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "سندن زمين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:30.999325171Z",
+  "model": "glm-5.3"
+}

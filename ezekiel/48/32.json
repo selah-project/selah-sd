@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 48:32",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ اوڀر پاسي پنج سؤ ۽ چار ھزار ماپ، ۽ ٽي دروازا: يوسف جو ھڪ دروازو، بنيامين جو ھڪ دروازو، دان جو ھڪ دروازو.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "۽ … پاسي"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "اوڀر"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "۽ دروازا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "۽ دروازو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف جو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين جو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان جو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:31.957161936Z",
+  "model": "glm-5.3"
+}

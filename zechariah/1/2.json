@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ياهوه توهان جي پيڙهين تي ڏاڍو غصو ٿيو — غصو.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "ڏاڍو غصو ٿيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "توهان جي پيڙهين"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "غصو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:23.470394952Z",
+  "model": "glm-5.3"
+}

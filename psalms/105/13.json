@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "۽ قوم کان قوم ڏانھن ڦرندا رھيا، راڄ کان ٻئيءَ قوم ڏانھن.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "۽ ڦرندا رھيا"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "قوم کان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "راڄ کان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻئيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:23.532339322Z",
+  "model": "glm-5.3"
+}

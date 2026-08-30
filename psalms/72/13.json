@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 72,
+  "translation": "هو محتاج ۽ غريب تي رحم ڪندو، ۽ غريبن جون جانون هو بچائيندو.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "رحم ڪندو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דל",
+      "gloss": "محتاج"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "۽ غريب"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "۽ جانون"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "غريبن جون"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "بچائيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:02.516080223Z",
+  "model": "glm-5.3"
+}

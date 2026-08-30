@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پاڙن جو ھڪ تڪو، گنھن جي قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "تڪو"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "پاڙن جو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گنھن جي قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:43.456779263Z",
+  "model": "glm-5.3"
+}

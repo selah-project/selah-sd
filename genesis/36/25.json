@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ اھي ئي ⟨ھن⟩ عاناح جا پُٽ ھئا: ديشون ۽ عاهolibامہ، عاناح جي ڌيءَ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عاناح"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "ديشون"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "۽ اَهوليبامہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عاناح"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:51.816317677Z",
+  "model": "glm-5.3"
+}

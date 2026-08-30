@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 7:13",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ان ئي ڏينهن تي نوح ۽ شيم ۽ حام ۽ يافث، نوح جا پٽ، ۽ نوح جي زال ۽ سندس پٽن جون ٽي زالون، سندن ساڻ ⟨את⟩ ٻيڙيءَ ۾ آيا.",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "ان ئي"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "۽ شيم"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "۽ حام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "۽ يافث"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح جا"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "۽ زال"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح جي"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "زالون"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پٽن جون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "سندن ساڻ ⟨את⟩",
+      "marks": "نوح ۽ سندس پٽ ۽ زالون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾ (ڏانهن)"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ٻيڙي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:18.571081225Z",
+  "model": "glm-5.3"
+}

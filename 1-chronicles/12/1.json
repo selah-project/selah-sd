@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 12:1",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ اھي داوود وٽ صيقلاگ ۾ آيا، جڏھن ھو اڃا شاؤل بن قيش جي ڪري پڪو بند ھو؛ ۽ اھي بھادرن مان ھئا، جنگ ۾ مددگار۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "לציקלג",
+      "gloss": "صيقلاگ ۾"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اڃا"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "بند ھو"
+    },
+    {
+      "surface": "مפני",
+      "gloss": "جي ڪري"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "قيش"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "בגבורים",
+      "gloss": "بھادرن مان"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "مددگار"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T15:11:29.266424447Z",
+  "model": "glm-5.3"
+}

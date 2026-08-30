@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 9:28",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ متصرايم کان ۽ سڀني ملڪن کان شلومو لاءِ گهوڙا کائيندا هئا.",
+  "tokens": [
+    {
+      "surface": "ומוציאים",
+      "gloss": "کائيندا هئا"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گهوڙا"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "متصرايم کان"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو لاءِ"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "۽ سڀني...کان"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ملڪن"
+    }
+  ],
+  "timestamp": "2026-08-30T15:12:23.359516716Z",
+  "model": "glm-5.3"
+}

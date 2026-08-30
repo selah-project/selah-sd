@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 10:11",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ انھن جا ڀائر: شبنيا، هوديا، قليتا، پلايا، حنان.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "۽ انھن جا ڀائر"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "شبنيا"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "هوديا"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "قليتا"
+    },
+    {
+      "surface": "פלאיה",
+      "gloss": "پلايا"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حنان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:50.826993205Z",
+  "model": "glm-5.3"
+}

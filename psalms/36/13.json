@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "اُتي ئي آفت جا ڪندڙ ڪيرا آهن؛ ⟨هو⟩ ڌڪجي ڪيرا ٿيا آهن ۽ اُٿي نه سگهندا.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "اُتي ئي"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڪيرا آهن"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "جا ڪندڙ"
+    },
+    {
+      "surface": "און",
+      "gloss": "آفت"
+    },
+    {
+      "surface": "דחו",
+      "gloss": "ڌڪجي ڪيرا ٿيا آهن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "سگهندا"
+    },
+    {
+      "surface": "קום",
+      "gloss": "اُٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:01.878582448Z",
+  "model": "glm-5.3"
+}

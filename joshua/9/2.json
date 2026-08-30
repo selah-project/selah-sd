@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ⟨هيءَ⟩ گڏ ٿيا يڪجا، يهوشع ۽ اسرائيل سان وڙهڻ لاءِ — هڪ مُنهن.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "۽ گڏ ٿيا"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "يڪجا"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "وڙهڻ لاءِ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشع"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "פה",
+      "gloss": "مُنهن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:51:23.317045023Z",
+  "model": "glm-5.3"
+}

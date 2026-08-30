@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "پکيءَ يا چوپايي جي ڪا به لاش يا پٽيل (ڦاٽل) شيءِ ڪاهن نه کائين.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ڪا به"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "لاش"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "۽ پٽيل شيءِ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "جي"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "پکيءَ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "۽"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "چوپايي جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کائين"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:42:41.972895849Z",
+  "model": "glm-5.3"
+}

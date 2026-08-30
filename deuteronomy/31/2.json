@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 31:2",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ کين چيائين: ”آءٌ اڄ سؤ ٽويھن سالن جو ٿيو آھيان؛ مون وري نہ ٿي سگهيو ٿو نڪرڻ ۽ واپس اچڻ، ۽ ياهوه مون کي چيو آھي: تون ⟨את⟩ ھن يردن کان پار نہ ٿيندين.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ڄميل"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ٽويھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن جو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اج"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ٿي سگهيو ٿو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "نڪرڻ"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "۽ واپس اچڻ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "۽ ياهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو آھي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "پار ٿيندين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ھن يردن کي"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "يردن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ھن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:24.642002654Z",
+  "model": "glm-5.3"
+}

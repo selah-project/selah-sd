@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 10:17",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ يهوديه جي شهرن ۾ رهندڙ اسرائيل جي پٽن تي رحبعم راڄ ڪيو.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "رهندڙ"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "شهرن ۾"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوديه"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "راڄ ڪيو"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "تن تي"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:26.950777553Z",
+  "model": "glm-5.3"
+}

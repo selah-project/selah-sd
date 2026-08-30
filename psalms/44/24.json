@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "جاڳ! تنهنجي ڇو ننڊ ادي، ادوناي؟ جاڳ! اسان کي هميشه لاءِ نه ڪيرايو.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "جاڳ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "ننڊ ادي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "جاڳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ڪيرايو"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "هميشه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:31.727287560Z",
+  "model": "glm-5.3"
+}

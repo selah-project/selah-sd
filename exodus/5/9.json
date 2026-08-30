@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ڪم ماڻهن تي ٻارڄو ٿئي ۽ اھي ان ۾ ڪن، ۽ اھي ڪوڙين ڳالھين ڏانھن نه ڀليڪن.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "ٻارڄو ٿئي"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "۽ اھي ڪن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ڀليڪن"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "ڳالھين ڏانھن"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:57:53.699258806Z",
+  "model": "glm-5.3"
+}

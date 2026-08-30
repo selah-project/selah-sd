@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "آمون سندس پٽ، يوشيا سندس پٽ.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "آمون"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "يوشيا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:54.635213768Z",
+  "model": "glm-5.3"
+}

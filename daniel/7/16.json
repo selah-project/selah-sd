@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 7:16",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "مان بيٺلن مان هڪ وٽ ويجهو ويس ۽ مٿس سڀ ان جي سچائي پڇيم؛ سو مون کي چيائين ۽ لفظن جي تعبير مون کي سکايائين.",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "ويجهو ويس"
+    },
+    {
+      "surface": "על",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "חד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "קאמיא",
+      "gloss": "بيٺلن"
+    },
+    {
+      "surface": "ויציבא",
+      "gloss": "۽ پڪي"
+    },
+    {
+      "surface": "אבעא",
+      "gloss": "پڇيم"
+    },
+    {
+      "surface": "مנה",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "על",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ان"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "ופשר",
+      "gloss": "۽ تعبير"
+    },
+    {
+      "surface": "מליא",
+      "gloss": "لفظن جي"
+    },
+    {
+      "surface": "יהודעננي",
+      "gloss": "سکايائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:59:12.713168452Z",
+  "model": "glm-5.3"
+}

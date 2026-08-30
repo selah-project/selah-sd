@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 55,
+  "translation": " نگل وٺ، اي ادوناي، سندن زبان کي وراهه، ڇوته مَين ظلم ۽ تڪرار شهر ۾ ڏٺو آهي.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "نگل وٺ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "وراهه"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "سندن زبان کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مَين ڏٺو آهي"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "۽ تڪرار"
+    },
+    {
+      "surface": "بעיר",
+      "gloss": "شهر ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T15:02:25.031740600Z",
+  "model": "glm-5.3"
+}

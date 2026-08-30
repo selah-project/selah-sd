@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "پوءِ ڇو ناهي رکيو تو ياهوه جي ⟨את⟩ قسم ۽ ⟨את⟩ حڪم، جيڪو مون تو تي حڪم ڪيو؟",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "۽ ڇو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "رکيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جي قسم"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حڪم"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "مون حڪم ڪيو"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تو تي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:28:15.162658355Z",
+  "model": "glm-5.3"
+}

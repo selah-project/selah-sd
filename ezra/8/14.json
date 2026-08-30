@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 8:14",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ بگوَي جي پُٽن مان: عُتي ۽ زبود؛ ۽ انهن سان گڏ ستر نَر.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "۽ پُٽن مان"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بگوَي"
+    },
+    {
+      "surface": "עותי",
+      "gloss": "عُتي"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "۽ زبود"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "۽ انهن سان گڏ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "نَر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:05:38.250496184Z",
+  "model": "glm-5.3"
+}

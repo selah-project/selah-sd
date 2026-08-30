@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 11:8",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "آسمانن کان اوچو آھي — تو ڇا ڪندين؟ شيول کان اونهو آھي — تو ڇا ڄاڻندين؟",
+  "tokens": [
+    {
+      "surface": "גבهי",
+      "gloss": "اوچو"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانن کان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "ڪندين"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "اونهو"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "شيول کان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ڄاڻندين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:27.933245065Z",
+  "model": "glm-5.3"
+}

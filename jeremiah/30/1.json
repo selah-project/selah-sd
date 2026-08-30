@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "اهو لفظ جيڪو يرمياھو ڏانھن ياهوه وٽان آيو، چوڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "اهو لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياھو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه وٽان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:17:06.241632262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ شيشان پنھنجي ڌيءُ کي پنھنجي غلام يرحع لاءِ زال ڪري ڏنو، ۽ ان (کي) ⟨את⟩ عتائي کي ڄڻيو.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏنو"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شيشان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجي ڌيءُ کي"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "پنھنجي ڌيءُ"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "يرحع لاءِ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "پنھنجي غلام"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زال ڪري"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "۽ ڄڻيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان (کي)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عتائي کي"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "عتائي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:02.030613713Z",
+  "model": "glm-5.3"
+}

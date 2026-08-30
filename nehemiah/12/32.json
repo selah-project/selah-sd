@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ انهن جي پٺيان هوشعيا ۽ يهودا جي سردارن جو اڌ هليو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "۽ هليو"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "انهن جي پٺيان"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "هوشعيا"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "۽ اڌ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:53.470396860Z",
+  "model": "glm-5.3"
+}

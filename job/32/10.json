@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 32:10",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "تنھنڪري مَ چيو، مون کي ٻُڌو، آءٌ به پنھنجو ڏاھپ ڏيکاريندس.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "تنھنڪري"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "مَ چيو"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ٻُڌو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "ڏيکاريندس"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "پنھنجي ڏاھپ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "به"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:41:32.489874672Z",
+  "model": "glm-5.3"
+}

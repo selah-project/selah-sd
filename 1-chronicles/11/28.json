@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "عيرا، عڪيش جو پٽ، هتڪوعي؛ ابيعيزر، هعنثوتي،",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "عيرا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "عڪيش"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "هتڪوعي"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ابيعيزر"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "هعنثوتي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:56.579756707Z",
+  "model": "glm-5.3"
+}

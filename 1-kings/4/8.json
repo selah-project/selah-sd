@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ اھي سندن نالا آھن: بن حور، افرائم جي جبل ۾.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "سندن نالا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن (پٽ)"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل ۾"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرائم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:27:03.382255384Z",
+  "model": "glm-5.3"
+}

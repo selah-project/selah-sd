@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 147,
+  "translation": "دل ٽٽيلن کي شفا ڏيندڙ، ۽ سندن زخمن کي ٻَڌيندڙ ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "شفا ڏيندڙ"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "ٽٽيلن کي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "۽ ٻَڌيندڙ"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "سندن زخمن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:51.367293609Z",
+  "model": "glm-5.3"
+}

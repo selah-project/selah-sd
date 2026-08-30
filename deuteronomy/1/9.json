@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ مَنُهنجي اُن وقت ۾ اوهان کي چيو ته مَنُهنجي پاڻ ۾ اوهان ⟨את⟩ کي کڻڻ جي سگهه ناهي.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "اوهان کي"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "۽ ان وقت ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته چوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "پاڻ سگهان"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "مَنُهنجي پاڻ ۾"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "کڻڻ جي سگهه"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "اوهان کي ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:00.326219108Z",
+  "model": "glm-5.3"
+}

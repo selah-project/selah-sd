@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ بقبقر، حریش ۽ گلل، ۽ متنيا، پٽ ميخا جو، پٽ زڪري جو، پٽ آساف جو.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "۽ بقبقر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "حریش"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "۽ گلل"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "۽ متنيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "ميخا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زڪري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:12.697105030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "ڦيريل دل کي ڀلو ڪجهه نه ملندو، ۽ جيڪو پنھنجي زبان ۾ مڙيل آھي اھو برائيءَ ۾ ڪِري پوندو.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "ڦيريل"
+    },
+    {
+      "surface": "لב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ملندو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلو ڪجهه"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "مڙيل آھي"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "پنھنجي زبان ۾"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڪِري پوندو"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "برائيءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:29.974577271Z",
+  "model": "glm-5.3"
+}

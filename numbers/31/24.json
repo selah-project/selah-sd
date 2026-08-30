@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 31:24",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ توهان ستين ڏينھن پنھنجا ڪپڙا ڌوئو ۽ پاڪ ٿيو، ۽ پوءِ لشڪر ۾ داخل ٿيو.",
+  "tokens": [
+    {
+      "surface": "וכבסתם",
+      "gloss": "۽ ڌوئو"
+    },
+    {
+      "surface": "בגדיכם",
+      "gloss": "پنھنجا ڪپڙا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "۽ پاڪ ٿيو"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "۽ پوءِ"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "داخل ٿيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "لشڪر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:45.329093296Z",
+  "model": "glm-5.3"
+}

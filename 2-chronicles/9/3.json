@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ سباءَ جي ملڪه ڏٺو ⟨את⟩ شلومو جي عقل ۽ ⟨the⟩ گهر جنهن هن تعمير ڪيو هو،",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "۽ ڏٺائين"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ملڪه"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "سباءَ جي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عقل"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "عقل"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو جي"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "۽ ⟨the⟩ گهر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "تعمير ڪيو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:43.884946179Z",
+  "model": "glm-5.3"
+}

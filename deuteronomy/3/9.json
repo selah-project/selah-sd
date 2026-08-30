@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "صيدوني حرمون کي سِريون سڏين ٿا، ۽ ⟨اِهي⟩ اموري ⟨اُن کي⟩ سِنير سڏين ٿا.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "صيدوني"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "سڏين ٿا"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "حرمون کي"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "سِريون"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "۽ ⟨اِهي⟩ اموري"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "سڏين ٿا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨اُن کي⟩"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "سِنير"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:50.735209776Z",
+  "model": "glm-5.3"
+}

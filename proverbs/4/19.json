@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "بدڪارن جو رستو اونداهي جهڙو آهي؛ هو ناهن ڄاڻندا ته ڇا ۾ ٽٽن ٿا.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "رستو"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدڪارن"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "اونداهي جهڙو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناهن"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاڻندا"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ته ڇا ۾"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ٽٽن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:13.920782460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 2:17",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ٻچا بيتساي جا، ٽي سَو ۽ ويهه ۽ ٽي.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ٻچا"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "بيتساي"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "۽ ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:42.791829362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ ستين مهيني ۾، مهيني جي ستارڻ ڏينهن، ٻيڙي ارارت جي جبلن تي آرامي.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "آرامي"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ٻيڙي"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مهيني ۾"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ست ۽"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "جبلن"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "ارارت"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:40.826797925Z",
+  "model": "glm-5.3"
+}

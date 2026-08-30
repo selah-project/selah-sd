@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 88,
+  "translation": "تَڏهن مون کي سڀني کان هيٺ گڏ ۾ رکيوت، اوندهين ۾، اونهاين ۾.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "رکيوت"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "گڏ ۾"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "سڀني کان هيٺ"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "اوندهين ۾"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "اونهاين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:26.903909164Z",
+  "model": "glm-5.3"
+}

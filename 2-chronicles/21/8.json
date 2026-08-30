@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "سندس ڏينهن ۾ ادم يهودا جي هٿ هيٺان بغاوت ڪئي ۽ پاڻ تي بادشاهه مقرر ڪيائون.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "سندس ڏينهن ۾"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "بغاوت ڪئي"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادم"
+    },
+    {
+      "surface": "مתחת",
+      "gloss": "هيٺان"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا جي"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "۽ بادشاهه مقرر ڪيائون"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "پاڻ تي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:26:19.963804799Z",
+  "model": "glm-5.3"
+}

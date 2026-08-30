@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "مان ڳالائيس ۽ کانئس نه ڊرس، ڇوته آءٌ پاڻ سان ائين ناھي.",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "مان ڳالائيس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "کانئس ڊرس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "پاڻ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:36:34.212107145Z",
+  "model": "glm-5.3"
+}

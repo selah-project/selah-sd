@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ ياهوه سيناءِ جبل تي لٿو، جبل جي مٿي تائين، ۽ ياهوه موشي کي سڏيو جبل جي مٿي ڏانهن، ۽ موشي چڙهي ويو.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "۽ لٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سيناءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل جي"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ سڏيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "موشي کي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل جي"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "۽ چڙهي ويو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:22.838945508Z",
+  "model": "glm-5.3"
+}

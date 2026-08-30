@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "تون ٿڪل کي پاڻي نه پيارين ٿو، ۽ بُکيل کان ماني روڪين ٿو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ٿڪل کي"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "پيارين ٿو"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "۽ بُکيل کان"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "روڪين ٿو"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    }
+  ],
+  "timestamp": "2026-08-30T13:39:14.530082372Z",
+  "model": "glm-5.3"
+}

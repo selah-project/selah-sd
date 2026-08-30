@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ جڏهن سج لهي ۽ هو پاڪ ٿئي، تنهن کان پوءِ پاڪ شيئن مان کائي، ڇوته اها سندس کاڌي آهي.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "۽ جڏهن لهي"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "۽ پاڪ ٿئي"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "تنهن کان پوءِ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاڪ شيون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "سندس کاڌي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهي آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:55.267213154Z",
+  "model": "glm-5.3"
+}

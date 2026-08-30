@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ مَ چيو: هائِ، ادوناي ياهوه! ڏس، مَ کي ڳالهائڻ نه اَچي، ڇوته مان ننڍڙو آهيان.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "۽ مَ چيو"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "هائِ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "مَ کي … اَچي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالهائڻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ننڍڙو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مان آهيان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:06:58.449037489Z",
+  "model": "glm-5.3"
+}

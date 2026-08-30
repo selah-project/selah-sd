@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 16:19",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "فيصلو نه ڪُڻيءُ، منهن نه سڃاڻين، ۽ رشوت نه وٺ؛ ڇوته رشوت عقلمندن جون اکيون اندھيون ڪري ٿي ۽ نيڪن جا لفظ ڏنگا ڪري ٿي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "ڪُڻيءُ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فيصلو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכיר",
+      "gloss": "سڃاڻين"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "وٺ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رشوت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "رشوت"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "اندھيون ڪري ٿي"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "اکيون"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "عقلمندن جون"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "۽ ڏنگا ڪري ٿي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "نيڪن جا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:41:40.295516775Z",
+  "model": "glm-5.3"
+}

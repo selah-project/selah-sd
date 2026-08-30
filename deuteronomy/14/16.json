@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "⟨את⟩ ننڍو اُلوُ ۽ ⟨את⟩ وڏو اُلوُ ۽ اُٽِيل اُلوُ،",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ننڍو اُلوُ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ننڍو اُلوُ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "وڏو اُلوُ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "وڏو اُلوُ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "۽ اُٽِيل اُلوُ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:41.446223313Z",
+  "model": "glm-5.3"
+}

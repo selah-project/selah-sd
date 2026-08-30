@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 113,
+  "translation": "سج جي اُڀرڻ کان ان جي لھڻ تائين ساراھيو وڃي ٿو ياهوه جو نالو.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "اُڀرڻ کان"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ان جي لھڻ تائين"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "ساراھيو وڃي ٿو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:27.564769729Z",
+  "model": "glm-5.3"
+}

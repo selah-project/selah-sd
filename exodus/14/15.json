@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ياهوه چيو موشي کي: ڇو ٿو مڏي مڃاءِ مون کي؟ بني اسرائيل سان ڳالهه ۽ اهي روانا ٿين.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "ٿو مڏي مڃاءِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالهه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "۽ اهي روانا ٿين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:31.145140993Z",
+  "model": "glm-5.3"
+}

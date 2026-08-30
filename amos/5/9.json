@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "جيڪو تباھيءَ کي طاقتور تي چمڪائي ٿو، ۽ تباھي مضبوط قلعي تي اچي ٿي۔",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "چمڪائي ٿو"
+    },
+    {
+      "surface": "שד",
+      "gloss": "تباھيءَ کي"
+    },
+    {
+      "surface": "علي",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقتور"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "۽ تباھي"
+    },
+    {
+      "surface": "علي",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "مضبوط قلعي"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اچي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:49:00.087069202Z",
+  "model": "glm-5.3"
+}

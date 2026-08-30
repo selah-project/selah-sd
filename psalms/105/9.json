@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "جيڪا هن ابراهام سان ⟨את⟩ ڪاٽي، ۽ پنهنجي قسمت اسحاق لاءِ،",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ڪاٽي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "۽ پنهنجي قسمت"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "اسحاق لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:14.609166124Z",
+  "model": "glm-5.3"
+}

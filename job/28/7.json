@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "اُھو رستو ڪوبه شکاري پکي نه سڃاڻي ٿو، ۽ شاهين جي اک ان کي نه ڏٺو آھي.",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "رستو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "سڃاڻي ٿو"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "شكاري پکي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "ڏٺو آھي"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اک"
+    },
+    {
+      "surface": "איה",
+      "gloss": "شاهين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:59.517041570Z",
+  "model": "glm-5.3"
+}

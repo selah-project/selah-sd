@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ شلوموه ⟨את⟩ گزر ۽ ⟨את⟩ بيت حورون هيٺين کي ٺاهيو.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "۽ ٺاهيو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گزر"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "گزر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "بيت حورون هيٺين"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حورون"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "هيٺين"
+    }
+  ],
+  "timestamp": "2026-08-30T11:31:27.484297890Z",
+  "model": "glm-5.3"
+}

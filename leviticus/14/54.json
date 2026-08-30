@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "اهو ئي تورات آهي، هر هڪ ڦٽ ۽ ڪوڙهه ۽ نيطق لاءِ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "اهو ئي"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "هر هڪ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ڦٽ"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ڪوڙهه"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "۽ نيطق"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:30.377563345Z",
+  "model": "glm-5.3"
+}

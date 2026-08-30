@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ٽي سؤ ننڍڙيون ڍالون ڪُٽيل سون جون؛ هڪ ڍال تي ٽي سؤ سون چڙهي ٿو؛ ۽ بادشاهه کين لبنان جي ٻيلي جي گهر ۾ رکيو.",
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "ننڍڙيون ڍالون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ڪُٽيل"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڙهي ٿو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "ڍال"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "۽ رکيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ٻيلي جي"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لبنان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:56.355125336Z",
+  "model": "glm-5.3"
+}

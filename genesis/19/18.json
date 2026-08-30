@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ لوط چين انهن کي: ائين نه ڪر، منھنجا ادوناي!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چين"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:50.272280968Z",
+  "model": "glm-5.3"
+}

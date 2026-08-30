@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "بدڪن جي ڦرلٽ کين گهلي ويندو، ڇو ته انهن انصاف ڪرڻ کان انڪار ڪيو.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "ڦرلٽ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدڪن جي"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "کين گهلي ويندو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "انڪار ڪيائون"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:29.206277313Z",
+  "model": "glm-5.3"
+}

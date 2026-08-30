@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "پوءِ هن ⟨את⟩ انهن کي قيد ۾ ٽن ڏينهن لاءِ ڪٺو ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "پوءِ هن ڪٺو ڪيو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "انهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "قيد"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:05.234666767Z",
+  "model": "glm-5.3"
+}

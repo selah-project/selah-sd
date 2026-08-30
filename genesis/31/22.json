@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ٽئين ڏينهن لابان کي ٻڌايو ويو ته يعقوب ڀڳو آهي.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ٻڌايو ويو"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "لابان کي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ٽئين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ڀڳو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:35:15.067719663Z",
+  "model": "glm-5.3"
+}

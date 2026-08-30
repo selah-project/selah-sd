@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "اُٿ ۽ زمين جي ڊيگهه ۽ ويڪر ۾ پياده هل، ڇوته اها مان توکي ڏيندس.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "اُٿ"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "پياده هل"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "ان جي ڊيگهه ۾"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "۽ ان جي ويڪر ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "مان ... ڏيندس"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:17.491315838Z",
+  "model": "glm-5.3"
+}

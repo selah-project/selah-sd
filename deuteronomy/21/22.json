@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ جيڪڏهن ڪنهن ماڻهوءَ ۾ موت جي سزا وارو ڏوهه هجي، ۽ هو مارجي وڃي، ۽ تون کيس ⟨את⟩ وڻ تي لڙڪائين،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ڪنهن ماڻهوءَ ۾"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ڏوهه"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "سزا"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت جي"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "۽ هو مارجي وڃي"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "۽ تون لڙڪائين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "کيس"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:40.554252621Z",
+  "model": "glm-5.3"
+}

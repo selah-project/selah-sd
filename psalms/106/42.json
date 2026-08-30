@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 106,
+  "translation": "۽ سندن دشمنن کين ستايو، ۽ اهي سندن هٿ هيٺ دٻجي ويا.",
+  "tokens": [
+    {
+      "surface": "וילחצומו",
+      "gloss": "کين ستايو"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "سندن دشمنن"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "دٻجي ويا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "سندن هٿ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:50.995031214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ياهوه قائين کي چيو: توکي ڇو غصو چڙهيو آهي، ۽ تنهنجو منهن ڇو ڪري پيو آهي؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… کي"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قائين"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "غصو چڙهيو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "۽ ڇو"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڪري پيو"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تنهنجو منهن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:31.282795549Z",
+  "model": "glm-5.3"
+}

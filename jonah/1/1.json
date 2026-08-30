@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "پوءِ ياهوه جو لفظ يوناه بن اميتاي ڏانهن آيو، چوڻ ته:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "پوءِ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "يوناه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "اميتاي جو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته:"
+    }
+  ],
+  "timestamp": "2026-08-30T12:51:04.815125766Z",
+  "model": "glm-5.3"
+}

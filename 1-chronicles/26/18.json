@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 26:18",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "پَربَر ۾، اولهه ڏانهن، چار؛ رستي تي ٻه، ۽ پَربَر ۾ ٻه.",
+  "tokens": [
+    {
+      "surface": "לפרבר",
+      "gloss": "پَربَر ۾"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "اولهه ڏانهن"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "למסלה",
+      "gloss": "رستي تي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "לפרבר",
+      "gloss": "پَربَر ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:16.755166548Z",
+  "model": "glm-5.3"
+}

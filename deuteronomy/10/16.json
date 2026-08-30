@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ توهان مٿاھوڏ جي اڻڇريءَ کي ⟨את⟩ پنھنجي دل جي، ۽ پنھنجيون gardن کي نه سخت ڪريو وڌيڪ.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "۽ توهان مٿاھوڏ ڪريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اڻڇري"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "اڻڇري"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "پنھنجي دل جي"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "۽ پنھنجيون gardن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "سخت ڪريو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وڌيڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:42:38.607760948Z",
+  "model": "glm-5.3"
+}

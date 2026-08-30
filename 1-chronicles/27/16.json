@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 27:16",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ اسرائيل جي قبيلن تي: روبينين تي ناغيد اليعزر زڪري جو پٽ؛ شمعونين تي شفطياه ماخا جو پٽ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ ... تي"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "قبيلن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "روبينين تي"
+    },
+    {
+      "surface": "نגיד",
+      "gloss": "ناغيد"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "اليعزر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زڪري"
+    },
+    {
+      "surface": "לשמעוני",
+      "gloss": "شمعونين تي"
+    },
+    {
+      "surface": "שפטיהו",
+      "gloss": "شفطياه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ماخا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:32.799316074Z",
+  "model": "glm-5.3"
+}

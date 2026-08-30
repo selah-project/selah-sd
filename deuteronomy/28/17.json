@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ملتيا آهي تنهنجي ٽوڪري ۽ تنهنجي اٽو گنڍڻ جي ٿالهي.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملتيا آهي"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "تنهنجي ٽوڪري"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "۽ تنهنجي اٽو گنڍڻ جي ٿالهي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:41.757853950Z",
+  "model": "glm-5.3"
+}

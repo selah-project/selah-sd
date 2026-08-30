@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ جيڪڏهن ان جي ڪا ڌيءُ ناھي ته توهان سندس وراثت ⟨את⟩ سندس ڀائرن کي ڏيو.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناھي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان جي"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءُ"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "توهان ڏيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس وراثت"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "سندس وراثت"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "سندس ڀائرن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:50.630633585Z",
+  "model": "glm-5.3"
+}

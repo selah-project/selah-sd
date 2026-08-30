@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ⟨هو⟩ مُنڊو ڪري، پر ⟨את⟩ خارش نه مُنڊائيندو؛ ۽ ڪوهن ⟨את⟩ خارش واري کي ست ڏينهن ٻيهر بند ڪري.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "مُنڊو ڪري"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خارش"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "خارش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "مُنڊائيندو"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "بند ڪري"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خارش واري"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "خارش واري"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ٻيهر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:29.351428133Z",
+  "model": "glm-5.3"
+}

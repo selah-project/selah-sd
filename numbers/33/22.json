@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 33:22",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ کين رِسّہ کان کوچ ٿيو، ۽ ڪِهِلاٿہ ۾ خيمہ وڙايائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "کوچ ٿيو"
+    },
+    {
+      "surface": "מרסה",
+      "gloss": "رِسّہ کان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيمہ وڙايائون"
+    },
+    {
+      "surface": "בקהלתה",
+      "gloss": "ڪِهِلاٿہ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:47.418736301Z",
+  "model": "glm-5.3"
+}

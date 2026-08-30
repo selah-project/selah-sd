@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "حتصرو ⟨ال⟩ڪرملي، نعَرائي پٽ اِزْبائي جو.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "حتصرو"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "⟨ال⟩ڪرملي"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "نعَرائي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "اِزْبائي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:51.311796566Z",
+  "model": "glm-5.3"
+}

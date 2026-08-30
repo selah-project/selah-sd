@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ ابراهام هن سان چيو، نهنھن ٻڌي وٺ پاڻ کي، متان تو واپار ڪري ⟨את⟩ مون پُٽُ کي اُتي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هن سان"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ٻڌي وٺ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ کي"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "واپار ڪري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مون پٽ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "مون پٽ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اتي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:11.177237468Z",
+  "model": "glm-5.3"
+}

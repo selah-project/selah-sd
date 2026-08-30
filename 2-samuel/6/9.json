@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ته ان ڏينهن داوود ⟨את⟩ ياهوه کان ڊڄي پيو، ۽ چيائين: ياهوه جو صندوق مون وٽ ڪيئن اچي؟",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ڊڄي پيو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينهن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:18:33.027282191Z",
+  "model": "glm-5.3"
+}

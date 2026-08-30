@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "پوءِ قابيل ياهوه جي حضور مان نڪتو، ۽ عدن جي اوڀر ۾ نود جي ملڪ ۾ رهڻ لڳو.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نڪتو"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قابيل"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "جي حضور مان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "رهڻ لڳو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "جي ملڪ ۾"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "نود"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "جي اوڀر ۾"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "عدن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:34.492717524Z",
+  "model": "glm-5.3"
+}

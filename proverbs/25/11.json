@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "سونهري انار چانديءَ جي جڙت ۾ — اهو آهي لفظ، جيڪو پنهنجي وقت تي چيو وڃي.",
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "انار"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونهري"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "جڙت ۾"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چانديءَ جي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو وڃي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "پنهنجي وقت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:08.552864358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ڏينهن جي ٻئي ڏينهن ⟨את⟩ شهر کي هڪ ڀيرو چوڌاري ڦريا ۽ ڇانوڻيءَ ۾ موٽيا؛ ائين ئي ڪيائون ڇهن ڏينهن تائين.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "۽ ڦريا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ڀيرو"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "۽ موٽيا"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ڇانوڻيءَ ۾"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪيائون"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ڇهن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:49:50.309469892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "پيرن دروازي کان چپ ٿي ويٺا، نوجوانن پنهنجي راڳ کان.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "پيرن"
+    },
+    {
+      "surface": "משער",
+      "gloss": "دروازي کان"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "چپ ٿي ويٺا"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "نوجوانن"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "پنهنجي راڳ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:47.127846045Z",
+  "model": "glm-5.3"
+}

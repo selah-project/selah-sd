@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 20:19",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ اسرائيل جي پُٽن صبح جو اُٿي گبعهه جي سامهڻ پاڻ کي چوڙيو.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "اُٿيا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح جو"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "پاڻ کي چوڙيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي سامهڻ"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "گبعهه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:05:36.246384787Z",
+  "model": "glm-5.3"
+}

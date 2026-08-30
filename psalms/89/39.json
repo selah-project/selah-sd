@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "پر تون ⟨هم⟩ رد ڪيو ۽ ڇڏي ڏنو، تون پنهنجي مشيح سان غصو ڏيکاريو.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "پر تون"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "رد ڪيو"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "۽ ڇڏي ڏنو"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "غصو ڏيکاريو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "پنهنجي مشيح"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:40.732147798Z",
+  "model": "glm-5.3"
+}

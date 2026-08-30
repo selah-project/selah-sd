@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 16:16",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ موشي قورح سان چيو: تون ۽ تيون سڄي جماعت ياهوه جي اڳيان هجو، تون ۽ اهي ۽ اهارون، سڀاڻي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ موشي چيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڄي"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "تي جي جماعت"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هجو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "והם",
+      "gloss": "۽ اهي"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "۽ اهارون"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "سڀاڻي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:57.887925329Z",
+  "model": "glm-5.3"
+}

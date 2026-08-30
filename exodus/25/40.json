@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ ڏس ۽ ٺاهه انھن جي نقشي موجب، جيڪو توکي جبل تي ڏيکاريو پئي وڃي.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏس"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "۽ ٺاهه"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "انھن جي نقشي موجب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ڏيکاريو پئي وڃي"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:28.388850183Z",
+  "model": "glm-5.3"
+}

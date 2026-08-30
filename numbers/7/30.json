@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "چوٿين ڏينهن تي رئوبن جي پٽن جو نسلين اليصور، شديئور جو پٽ، [پيش ڪيو]۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوٿين"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسلين"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "جي پٽن جو"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبن"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "اليصور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "شديئور"
+    }
+  ],
+  "timestamp": "2026-08-30T14:39:42.705618863Z",
+  "model": "glm-5.3"
+}

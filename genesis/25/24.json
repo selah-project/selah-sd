@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 25:24",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ سندس ڏينهن پورا ٿيا ڄمڻ جا، ۽ ڏسو — سندس پيٽ ۾ جوڙا هئا.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "پورا ٿيا"
+    },
+    {
+      "surface": "ימיה",
+      "gloss": "سندس ڏينهن"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ڄمڻ جا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "תומם",
+      "gloss": "جوڙا"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "سندس پيٽ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:41.147785279Z",
+  "model": "glm-5.3"
+}

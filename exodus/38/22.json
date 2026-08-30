@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ بتسائيل پٽ اُري پٽ حور، يهودا جي قبيلي مان، ⟨את⟩ سڀ ڪجھ ٺاهيو جيڪو ياهوه موشي کي ⟨את⟩ حڪم ڏنو.",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "۽ بتسائيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "اُري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي مان"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا جي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاهيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ ڪجھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ ڪجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:22.869260865Z",
+  "model": "glm-5.3"
+}

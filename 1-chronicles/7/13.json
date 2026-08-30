@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 7:13",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "نفتالي جا پُٽ: يحصيئل ۽ گوني ۽ ييصر ۽ شلوم — بلهه جا پُٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "יחציאל",
+      "gloss": "يحصيئل"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "۽ گوني"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "۽ ييصر"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "۽ شلوم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بلهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:43.049811407Z",
+  "model": "glm-5.3"
+}

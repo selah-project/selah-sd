@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇو ته هاڻي توهان ئي ڪجھ به نه ٿيا؛ توهان ڏٻر ڏٺو ۽ ڊڄي پيا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "ڏٻر"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "۽ ڊڄو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:15.640939341Z",
+  "model": "glm-5.3"
+}

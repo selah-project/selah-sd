@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ جڏھن توهان جنگ جي ويجھو ٿيؤ ته ڪوھن اڳتي اچي ۽ ماڻھن سان ڳالھائي.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "جڏھن توهان ويجھو ٿيؤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "۽ اچي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھن"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "۽ ڳالھائي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:05.775675520Z",
+  "model": "glm-5.3"
+}

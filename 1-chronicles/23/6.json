@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 23:6",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ داوود کين لاوي پٽن جي مَحلقن ۾ ورهايو: گرشون، قهات ۽ مراري.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "۽ کين ورهايو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "محلقن ۾"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "לגרשון",
+      "gloss": "گرشون"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "۽ مراري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:08.769188736Z",
+  "model": "glm-5.3"
+}

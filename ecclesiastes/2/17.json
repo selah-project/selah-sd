@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "پوءِ مون ⟨את⟩ زندگيءَ کان نفرت ڪئي، ڇوته جيڪو ڪم سج هيٺ ڪيو وڃي ٿو سو مون تي ڏکوٺ آهي، ڇوته سڀ ڪجهه هبل آهي ۽ روح جي ڏکوٺ.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "پوءِ مون نفرت ڪئي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زندگيءَ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندگيءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ڏکوٺ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "جو ڪيو وڃي ٿو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سڀ ڪجهه"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هبل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "۽ ڏکوٿ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:36.859528585Z",
+  "model": "glm-5.3"
+}

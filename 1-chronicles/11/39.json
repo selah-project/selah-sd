@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "تْسِلِڪ عموني؛ نَحْرائي بِيروٿي، جيڪو يوآب پٽ تْسْروياه جي هٿيارن کي کڻي ٿي.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "تْسِلِڪ"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "عموني"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "نَحْرائي"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "بِيروٿي"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "کڻي ٿي"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "هٿيارن کي"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تْسْروياه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:51.312251480Z",
+  "model": "glm-5.3"
+}

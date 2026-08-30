@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 22:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ناداني ننڍڙي جي دل ۾ ٻَڌل آھي، پر تربيت جي ڏنڊي اُن کي کيس پري ڪري ڇڏيندي.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "ناداني"
+    },
+    {
+      "surface": "קשורה",
+      "gloss": "ٻَڌل"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل ۾"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ننڍڙي"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ڏنڊي"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربيت"
+    },
+    {
+      "surface": "ירחיקנה",
+      "gloss": "پري ڪري ڇڏيندي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "کيس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:43.978255177Z",
+  "model": "glm-5.3"
+}

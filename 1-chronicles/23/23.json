@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "موشي جا پٽ ⟨هئا⟩ محلي ۽ عدر ۽ يرموت، ٽي۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "محلي"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "۽ عدر"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "۽ يرموت"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:24.081762585Z",
+  "model": "glm-5.3"
+}

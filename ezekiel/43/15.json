@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "۽ هارئيل چار اَمو؛ ۽ ارئيل کان ۽ مٿي چار سِنگ.",
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "۽ هارئيل"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمو"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "۽ ارئيل کان"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "۽ مٿي"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "سِنگ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-08-30T12:42:05.755423642Z",
+  "model": "glm-5.3"
+}

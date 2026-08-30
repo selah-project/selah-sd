@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "آتر جي اولاد، جيڪي حزقياهه جا هئا، اٺانوي.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جي اولاد"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "آتر"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "حزقياهه جا"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نوانوي"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "۽ اٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:44.499611788Z",
+  "model": "glm-5.3"
+}

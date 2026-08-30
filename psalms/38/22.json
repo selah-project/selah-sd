@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "ياهوه، منهنجا ايلوهيم، مون کي نه ڇڏج، مون کان پري نه ٿيج.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "مون کي ڇڏيج"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "منهنجا ايلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "پري نه ٿيج"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مون کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:42.589792461Z",
+  "model": "glm-5.3"
+}

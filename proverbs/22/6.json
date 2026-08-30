@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ننڍڙي کي سندس واٽ جي موٽ تي هٿ جهليو؛ جيستائين هو پوڙهو ٿيندو، تيستائين ان کان نه موڙندو.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "هٿ جهليو"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ننڍڙي کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي موٽ تي"
+    },
+    {
+      "surface": "פי",
+      "gloss": "موٽ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "سندس واٽ جي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "جيستائين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "تيستائين"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "پوڙهو ٿيندو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "موڙندو"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ان کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:51.655555655Z",
+  "model": "glm-5.3"
+}

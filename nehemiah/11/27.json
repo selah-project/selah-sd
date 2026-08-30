@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ حصر-شوعال ۾، ۽ بير-شيبا ۽ ان جي ڳوٺن ۾،",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "۽ حصر ۾"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوعال"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "۽ بير ۾"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شيبا"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "۽ ان جي ڳوٺن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:00.585664166Z",
+  "model": "glm-5.3"
+}

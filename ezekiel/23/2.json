@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "“آدم جي پُٽ، ٻه زالون هُيون، هڪ ئي ماءُ جون ڌيون.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زالون"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيون"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ماءُ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هُيون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:58:04.011491704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "منهنن کي سڃاڻڻ ⟨هو⟩ چڱو ناهي، ۽ مڻي مانيءَ لاءِ ماڻهو گناهه ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "سڃاڻڻ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منهنن کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ لاءِ"
+    },
+    {
+      "surface": "פת",
+      "gloss": "مڻي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "مانيءَ"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "گناهه ڪري ٿو"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ماڻهو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:56.599052986Z",
+  "model": "glm-5.3"
+}

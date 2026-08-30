@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 12:10",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "انهن کي چؤ: ائن چوي ٿو ادوناي ياهوه: هي بار يروشلم جي سردار تي آهي ۽ سڄي بيت اسرائيل تي، جيڪي انهن جي وچ ۾ آهن.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڄو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "انهن جي وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:28:44.814234841Z",
+  "model": "glm-5.3"
+}

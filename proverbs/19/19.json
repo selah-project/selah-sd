@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "سخت ڪاوڙ جو ماڻھو سزا کڻي ٿو؛ ڇوته جيڪڏھن تون کيس ڇڏائين ته ٻيهر ڪندين.",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ڪاوڙ جو"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "کڻي ٿو"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "سزا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "تون کيس ڇڏائين"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ته ٻيهر"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "ڪندين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:34.048033118Z",
+  "model": "glm-5.3"
+}

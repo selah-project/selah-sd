@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "هڪ حڪيم پٽ پنهنجي پيءُ جي سکيا ٻڌي ٿو، پر ٺٺولي ڪندڙ ڀڙڪو نه ٻڌي.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حڪيم"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "سکيا"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "پر ٺٺولي ڪندڙ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌي ٿو"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ڀڙڪو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:57.107208299Z",
+  "model": "glm-5.3"
+}

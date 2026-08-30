@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 13:10",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ياهوه جو ڪاوڙ ڀڙڪي عُزا تي، ۽ کيس ماريائين، ڇوته هٿ صندوق تي موڪليائين؛ ۽ اتي ئي ايلوهيم جي اڳيان مري ويو.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ڪاوڙ ڀڙڪي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ڪاوڙ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "عُزا تي"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "کيس ماريائين"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "موڪليائين"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مري ويو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:43.932696320Z",
+  "model": "glm-5.3"
+}

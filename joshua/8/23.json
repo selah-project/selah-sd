@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ عيءَ جي بادشاهه کي ⟨את⟩ جيئندو پڪڙيائون ۽ کيس يهوشعا وٽ آندائون.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "عيءَ جي بادشاهه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "העי",
+      "gloss": "عيءَ جي"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "پڪڙيائون"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جيئندو"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "آندائون"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ کيس",
+      "marks": "کيس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشعا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:51:28.952830990Z",
+  "model": "glm-5.3"
+}

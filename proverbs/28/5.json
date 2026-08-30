@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "برائيءَ جا ماڻهو انصاف کي نه سمجهن ٿا، پر ياهوه کي ڳوليندڙ سڀ ڪجهه سمجهن ٿا.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائيءَ جا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "سمجهن ٿا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "پر ڳوليندڙ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "سمجهن ٿا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ ڪجهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:17.674970539Z",
+  "model": "glm-5.3"
+}

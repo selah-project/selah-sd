@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 2:33",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "لود، حديد ۽ اونو جا پُٽ، ست سَو ٽيهہ ٽيھه (725).",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "לד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "حديد"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "۽ اونو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ٽيهہ"
+    },
+    {
+      "surface": "וחמשه",
+      "gloss": "۽ پنج"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:38.397169770Z",
+  "model": "glm-5.3"
+}

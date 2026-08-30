@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 32:2",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ يحزقياھ ڏٺو ته سانحريب آيو آھي ۽ سندس منھن يروشلم تي جنگ لاءِ آھي.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏٺو"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "يحزقياھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو آھي"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "سانحريب"
+    },
+    {
+      "surface": "ופניو",
+      "gloss": "۽ سندس منھن"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ لاءِ"
+    },
+    {
+      "surface": "عל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:30:30.278162506Z",
+  "model": "glm-5.3"
+}

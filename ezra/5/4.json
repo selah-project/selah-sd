@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "تڏهن انهن کي همين سان چيوسين: ”اهي مرد ڪهڙن نالن جا آهن، جي هي عمارت ٺاهي رهيا آهن؟“",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "تڏهن"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "همين سان"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "چيوسين"
+    },
+    {
+      "surface": "لהם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ڪهڙن"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "نالن جا"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "די",
+      "gloss": "جي"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "عمارت"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "ٺاهي رهيا آهن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:11.692722431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 14:48",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ جيڪڏهن ڪوهن اچي ۽ ڏسي، ته ڏسو، گهر جي گچ ڪرڻ کان پوءِ ناسور گهر ۾ نه پکڙيو آهي، ته ڪوهن ⟨את⟩ گهر کي پاڪ ڄاڻي، ڇوته ناسور ٽريو آهي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "چٽي طرح اچي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوهن"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏسي"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ته ڏسو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پکڙيو"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ناسور"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کان پوءِ"
+    },
+    {
+      "surface": "הטח",
+      "gloss": "گچ ڪرڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گهر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "۽ پاڪ ڄاڻي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گهر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "ٽريو آهي"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ناسور"
+    }
+  ],
+  "timestamp": "2026-08-30T14:39:25.225859948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "हنسی بابت آءٌ چيو: چريائپ آهي؛ ۽ خوشيءَ بابت: اها ڇا ڪري ٿي؟",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ہنسی بابت"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آءٌ چيو"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "چريائپ آهي"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "۽ خوشيءَ بابت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اها"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪري ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:37.810068898Z",
+  "model": "glm-5.3"
+}

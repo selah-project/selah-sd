@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ ياهوه جي نظر ۾ سھي ڪيائين، رڳو پوري دل سان نه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيائين"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "سھي"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي نظر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "دل سان"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "پوري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:28:40.515748742Z",
+  "model": "glm-5.3"
+}

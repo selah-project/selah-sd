@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 31:48",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ لابان چيو: هي ڍير ⟨هو⟩ اڄ مون ۽ تنهنجي وچ ۾ شاهد ⟨آهي⟩؛ تنهنڪري ان جو نالو گلعاد سڏيو ويو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "لבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "هي ڍير"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "مون ۽"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "تنهنجي وچ ۾"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اج"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ان ڪري"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سڏيو ويو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ان جو نالو"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:05.998940995Z",
+  "model": "glm-5.3"
+}

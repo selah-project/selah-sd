@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 3:28",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڻڻپ ۾ سڀ نر، هڪ مهيني جي پٽ کان ۽ مٿي، اٺ هزار ۽ ڇهه سؤ، مقدس جي نگراني جا نگهبان.",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "ڻڻپ ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "پٽ کان"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "مهيني جي"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "۽ مٿي"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ ڇهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "نگهبان"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "نگراني جا"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:05.807185056Z",
+  "model": "glm-5.3"
+}

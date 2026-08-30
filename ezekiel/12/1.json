@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 12:1",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ياهوه جو لفظ مون ڏانهن آيو، چوندڙ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون ڏانهن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:29:21.351798733Z",
+  "model": "glm-5.3"
+}

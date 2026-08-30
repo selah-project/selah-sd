@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "پوءِ ان جي اڳيان کان هٿ جي آلي موڪلي وئي، ۽ هي تحرير لکيو ويو.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "ان جي اڳيان"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "موڪلي وئي"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "هٿ جي آلي"
+    },
+    {
+      "surface": "די",
+      "gloss": "جي"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "۽ تحرير"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "لکيو ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:57:46.111920300Z",
+  "model": "glm-5.3"
+}

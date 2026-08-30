@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 11:15",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ٽيهه مان ٽي مٿا چٽان تي لهي ويا داويد وٽ، عدلم جي غار ۾، ۽ فلستين جو ڪيمپ رفائيم جي ماٿري ۾ مقام ڪري رهيو هو.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "۽ لهي ويا"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "چٽان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "غار"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "عدلم"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "۽ ڪيمپ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلستين جو"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "مقام ڪري رهيو هو"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "جي ماٿري ۾"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائيم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:09.560988956Z",
+  "model": "glm-5.3"
+}

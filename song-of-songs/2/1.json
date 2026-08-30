@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "آءٌ ⟨هِي⟩ شَرَنْڊَڻِ شَارَونَ جِي، ۽ ٻَرِڙِي وَادِينَ جِي.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "شرنڊڻ"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "شارون جي"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "ٻَرِڙِي"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "وادين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:17.757992452Z",
+  "model": "glm-5.3"
+}

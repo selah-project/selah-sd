@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ ڏاند، ڍورن جو پٽ، ھڪ رڃ، ھڪ rhsڻ، ھڪ سال جو پٽ، سوڃن لاءِ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍورن"
+    },
+    {
+      "surface": "איל",
+      "gloss": "رڃ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "منڊو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "سال جو"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سوڃن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:43.456535775Z",
+  "model": "glm-5.3"
+}

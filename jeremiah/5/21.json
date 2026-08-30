@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 5:21",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ٻڌو، هاڻي هي (ڪريو) — اي بيوقوف ۽ دل-کڙو قوم؛ جن جون اکيون آهن ۽ نه ٿا ڏسن، جن جون ڪنون آهن ۽ نه ٿا ٻڌن.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "بيوقوف"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ نه آهي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکيون"
+    },
+    {
+      "surface": "להם",
+      "gloss": "جن جون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ٿا ڏسن"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ڪنون"
+    },
+    {
+      "surface": "להם",
+      "gloss": "جن جون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ٿا ٻڌن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:09:01.459176597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 76,
+  "translation": "يهودا ۾ ايلوهيم ڄاڻيو وڃي ٿو؛ اسرائيل ۾ سندس نالو وڏو آھي.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "ڄاڻيو وڃي ٿو"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "يهودا ۾"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائيل ۾"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:39.791736178Z",
+  "model": "glm-5.3"
+}

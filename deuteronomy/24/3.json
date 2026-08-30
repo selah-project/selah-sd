@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 24:3",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ پوئيون ماڻھو کيس سڻي، ۽ کيس طلاق جو لکت لکي ۽ هٿ ۾ ڏئي سندس گھر مان موڪلي، يا پوئيون ماڻھو مري، جئن کيس پاڻ لاءِ زال وٺي هئائين.",
+  "tokens": [
+    {
+      "surface": "ושנאה",
+      "gloss": "۽ سڻي"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "پوئيون"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "۽ لکي"
+    },
+    {
+      "surface": "לה",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "لکت"
+    },
+    {
+      "surface": "כריתת",
+      "gloss": "طلاق جو"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "۽ ڏئي"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "هٿ ۾"
+    },
+    {
+      "surface": "ושלחה",
+      "gloss": "۽ موڪلي"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "سندس گھر مان"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مري"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "پوئيون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جئن"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "وٺي هئائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زال"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:04.819316969Z",
+  "model": "glm-5.3"
+}

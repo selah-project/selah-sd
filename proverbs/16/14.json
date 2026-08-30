@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "بادشاهه جو غصموت جا پيغامبر آهن، پر هڪ حڪيم ان کي مٽائي ٿو.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "غصو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه جو"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "پيغامبر"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت جا"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "پر هڪ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حڪيم"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "ان کي مٽائي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:16.597391773Z",
+  "model": "glm-5.3"
+}

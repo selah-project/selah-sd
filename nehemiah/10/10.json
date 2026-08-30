@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 10:10",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ لاوي: يِشوع ازنيا جو پٽ، بنوي، حيناداد جي پٽن مان، قدميئل.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "۽ لاوي"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "۽ يِشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אזניה",
+      "gloss": "ازنيا"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "بنوي"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "پٽن مان"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "حيناداد"
+    },
+    {
+      "surface": "קדמיאל",
+      "gloss": "قدميئل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:50.826785131Z",
+  "model": "glm-5.3"
+}

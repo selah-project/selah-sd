@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "گهڻو ظالم نه ٿءُ، ۽ نادان به نه ٿيءُ؛ ڇو پنهنجي وقت کان سواءِ مرين؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "ظالم ٿءُ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گهڻو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ٿيءُ"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مرين"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "کان سواءِ"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "پنهنجي وقت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:49.082767426Z",
+  "model": "glm-5.3"
+}

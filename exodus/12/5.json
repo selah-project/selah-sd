@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ڍورو تمامصاف، نر، هڪ سالي جو، اوڏانهن ٿئو؛ مينڊهن مان يا ٻڪرين مان اچو.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "ڍورو"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تمامصاف"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…جي ڏي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "هڪ سالي جو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٻئو\/ٿئو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اوڏانهن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…مان"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "مينڊهن"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "يا …مان"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ٻڪرين"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "اچو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:36:36.233557103Z",
+  "model": "glm-5.3"
+}

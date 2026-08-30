@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "هر وقت تنھنجا ڪپڙا اڇا رهن، ۽ تنھنجي مٿي تي تيل ڪٻرڻ نہ گھرجي.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "رهن"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "تنھنجا ڪپڙا"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "اڇا"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "۽ تيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي تي"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "تنھنجي مٿي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ڪٻرڻ نہ گھرجي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:00.495946527Z",
+  "model": "glm-5.3"
+}

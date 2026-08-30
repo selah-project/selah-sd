@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 26:22",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ عُزّياہُ جي ڳالھين جو باقي حصو، پهرين ۽ پوئينون، يشعياہُ پٽ امُوص نبي لکيو.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "۽ باقي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالھين جو"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "عُزّياہُ جي"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "پهرين"
+    },
+    {
+      "surface": "והאחרנים",
+      "gloss": "۽ پوئينون"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "لکيو"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "يشعياہُ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "امُوص"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:27:33.149998273Z",
+  "model": "glm-5.3"
+}

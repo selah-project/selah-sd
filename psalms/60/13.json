@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 60,
+  "translation": "اسان کي تنگيءَ کان مدد ڏي، ڇوته ماڻھوءَ جي نجات اوپي آھي.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان کي"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "تنگيءَ کان"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ڇوته اوپي"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "نجات"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھوءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:54.291056361Z",
+  "model": "glm-5.3"
+}

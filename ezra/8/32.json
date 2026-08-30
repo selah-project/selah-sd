@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ اسان يروشلم پهتاسين ۽ اتي ٽي ڏينهن رهياسين.",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "۽ اسان پهتاسين"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "۽ رهياسين"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:05:34.983300472Z",
+  "model": "glm-5.3"
+}

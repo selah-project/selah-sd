@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 2:5",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ مون پنهنجون اکيون کڻيون ۽ ڏٺم، ۽ ڏسو، هڪ ماڻهو، ۽ سندس هٿ ۾ ماپ جي ڪَڍ آهي.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "۽ مون کڻيون"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "پنهنجون اکيون"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "۽ ڏٺم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هڪ ماڻهو"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "۽ سندس هٿ ۾"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ڪَڍ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ماپ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:12.078882842Z",
+  "model": "glm-5.3"
+}

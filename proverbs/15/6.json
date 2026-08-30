@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "نيڪ جي گهر ۾ ٿلهي دولت آهي، پر شرير جي پيداوار ۾ ڇنڊ ڇاڻ آهي.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ جي"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ٿلهي"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "پر پيداوار ۾"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شرير جي"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "ڇنڊ ڇاڻ آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:56.469442311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 30:2",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ موشي ڀاريندو بني اسرائيل جي قبيلن جي سردارن کي، چوندو: هي ⟨ال⟩ لفظ آهي جنهن ياهوه حڪم ڏنو.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڀاريندو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "قبيلن جي"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بني لاءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:03.426521690Z",
+  "model": "glm-5.3"
+}

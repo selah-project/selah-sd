@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ هنن ⟨את⟩ ان کي صبح تائين رکيو، جيئن موشي حڪم ڪيو هو؛ ۽ اهو بوس نه ٿيو، ۽ ان ۾ ڪينئان نه هو.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "رکيو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو هو"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "بوس ٿيو"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "۽ ڪينئان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:02:11.755838226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ موشي ۽ اهارن ملاقات جي خيمي جي اڳيان آيا.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "۽…آيا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "۽ اهارن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمي"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:16.895223925Z",
+  "model": "glm-5.3"
+}

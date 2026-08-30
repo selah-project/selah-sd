@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ياهوه جو صندوق فلسطينين جي ملڪ ۾ ست مهينا رهيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "جي ملڪ ۾"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلسطينين جي"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مهينا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:08:03.071712955Z",
+  "model": "glm-5.3"
+}

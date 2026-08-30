@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 32:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ چيائين، جيڪڏھن عيسو ھڪ لشڪر تي اچي ۽ ان کي ماري، ته جيڪو لشڪر بچيل رھي، سو بچڻ لاءِ رھندو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "۽ ان کي ماري"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "بچيل"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "بچڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:11.200197133Z",
+  "model": "glm-5.3"
+}

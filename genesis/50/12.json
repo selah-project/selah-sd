@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "۽ سندس پُٽن کيس اھو ئي ڪيو، جيئن کين حڪم ڪيو ھوائين.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "۽ ڪيون"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پُٽن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اھو ئي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צום",
+      "gloss": "کين حڪم ڪيو ھوائين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:43.499230281Z",
+  "model": "glm-5.3"
+}

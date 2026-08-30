@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "گبعون ۾ ياهوه شلموھ جي ننڊ ۾ ظاھر ٿيو، ۽ ايلوهيم چيو: “سوال ڪر، مان توکي ڇا ڏيان؟”",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "گبعون ۾"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ظاھر ٿيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کان"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلموھ"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "خواب ۾"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "رات جي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "سوال ڪر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "مان ڏيان"
+    },
+    {
+      "surface": "لך",
+      "gloss": "توکي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:27:47.342807575Z",
+  "model": "glm-5.3"
+}

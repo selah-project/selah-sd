@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ياهوه صبائوت اهڙو فرمائي ٿو: اڃا اهو ٿيندو جو قومون ايندڙيون آهن، ۽ ڪيترن ئي شهرن جا رهواسي.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اهڙو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرمائي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "اجهي اڃا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ايندڙيون آهن"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "۽ رهواسي"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهرن جا"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ڪيترن ئي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:44.538899663Z",
+  "model": "glm-5.3"
+}

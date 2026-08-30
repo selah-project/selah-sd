@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 29:11",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "ان ۾ ماڻهوءَ جو پير نه لنگهندو ۽ پکين جو پير نه لنگهندو، ۽ اهو چاليهه سال اڻ وسيو رهندو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "لنگهندو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پير"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ جو"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "۽ پير"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "پکين جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "لنگهندو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "اڻ وسيو رهندو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليهه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-30T12:37:11.096134407Z",
+  "model": "glm-5.3"
+}

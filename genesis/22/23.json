@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ بتوئيل ⟨את⟩ ربڪہ کي ڄڻيو؛ اھي اٺ ملڪہ ناحور کي، ابراهام جي ڀاءُ کي ڄڻيا.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "۽ بتوئيل"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ربڪہ"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ربڪہ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ڄڻيا"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ملڪہ"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "ناحور کي"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ڀاءُ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:22.094395719Z",
+  "model": "glm-5.3"
+}

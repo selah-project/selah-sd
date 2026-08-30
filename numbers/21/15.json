@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 21:15",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ نسين جي ڍلوان، جيڪا عر جي رهائش ڏانهن مڙي ٿي ۽ موآب جي سرحد تي ٽيڪي ٿي.",
+  "tokens": [
+    {
+      "surface": "ואשד",
+      "gloss": "۽ ڍلوان"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "نسين جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "مڙي ٿي"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "رهائش ڏانهن"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عر"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "۽ ٽيڪي ٿي"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "سرحد تي"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:03.111107661Z",
+  "model": "glm-5.3"
+}

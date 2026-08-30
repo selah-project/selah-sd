@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 81,
+  "translation": "ڇو ته اھو اسرائيل لاءِ حڪم ⟨آھي⟩، يعقوب جي ايلوهيم جو فيصلو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "חק",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "اسرائيل لاءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فيصلو"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "جي ايلوهيم جو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:13.823921371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 25:13",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ڇهين بُقياهو، سندس پٽ ۽ سندس ڀائر ٻارهه هئا.",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "ڇهين"
+    },
+    {
+      "surface": "בקיהו",
+      "gloss": "بُقياهو"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "۽ سندس ڀائر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ڏهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:10.085610857Z",
+  "model": "glm-5.3"
+}

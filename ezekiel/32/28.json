@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 32:28",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ تون، اغلفن جي وچ ۾ ڀڳل ٿيندين ۽ تلوار جي ماريلن سان سمهيندين.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "اغلفن"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ڀڳل ٿيندين"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "۽ سمهيندين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماريلن"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ماريلن"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:38:23.294082852Z",
+  "model": "glm-5.3"
+}

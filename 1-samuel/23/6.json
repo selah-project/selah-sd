@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 23:6",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ جڏھن ابياثر پٽ احيميلڪ جو داوود وٽ قيعيلاھ ۾ ڀڳو، تڏھن ھڪ ايفود سندس ھٿ ۾ لتھو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "בברח",
+      "gloss": "جڏھن ڀڳو"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ابياثر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "احيميلڪ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "قيعيلاھ"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ايفود"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "لتھو"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "سندس ھٿ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:13:23.002710278Z",
+  "model": "glm-5.3"
+}

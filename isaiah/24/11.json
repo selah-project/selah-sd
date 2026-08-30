@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 24:11",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "شراب تي گلين ۾ رڙ آهي؛ سڀ خوشي اُنجهايل آهي، زمين جو ٿرڪ لڏائي ويو آهي.",
+  "tokens": [
+    {
+      "surface": "צוחה",
+      "gloss": "رڙ آهي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "گليهن ۾"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "اُنجهايل آهي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشي"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "لڏائي ويو آهي"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ٿرڪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:53:30.846221035Z",
+  "model": "glm-5.3"
+}

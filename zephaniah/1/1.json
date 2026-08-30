@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 1:1",
+  "book": "zephaniah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ياهوه جو لفظ جيڪو صفنيا ڏانهن آيو — ڪوشي جو پٽ، گدليا جو پٽ، امريا جو پٽ، حزقيا جو پٽ — يوشيا، آمون جي پٽ، يهودا جي بادشاهه جي ڏينهن ۾.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آيو (ٿيو)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "صفنيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "כושי",
+      "gloss": "ڪوشي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "גדליה",
+      "gloss": "گدليا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "امريا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "حزقيا"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "يوشيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "آمون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:16.587547907Z",
+  "model": "glm-5.3"
+}

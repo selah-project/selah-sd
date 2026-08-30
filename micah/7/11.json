@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڏينهن تنهجن ڀتين جي اوسر جو! ان ڏينهن حد پري ڪئي ويندي.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "اوسر جو"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "تنهجن ڀتين"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "پري ڪئي ويندي"
+    },
+    {
+      "surface": "חק",
+      "gloss": "حد"
+    }
+  ],
+  "timestamp": "2026-08-30T12:52:20.561751417Z",
+  "model": "glm-5.3"
+}

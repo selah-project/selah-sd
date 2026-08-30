@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پوءِ اُن ئي رات ٿي، ۽ ياهوه جو لفظ ناتن ڏانهن آيو، چوندو:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "پوءِ ٿي"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُن ئي"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:47:13.738668361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 4:11",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "پوءِ مون جواب ڏنو ۽ مون چيس ته هي ٻه زيتون جا وڻ مَنورهه جي ساڄي ۽ سندس کاٻي پاسي ڇاهن؟",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "۽ مون جواب ڏنو"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ مون چيو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ان سان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "הזיתים",
+      "gloss": "زيتون جا وڻ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ساڄي"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "مَنورهه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ پاسي"
+    },
+    {
+      "surface": "שמאולה",
+      "gloss": "ان جي کاٻي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:28.053050430Z",
+  "model": "glm-5.3"
+}

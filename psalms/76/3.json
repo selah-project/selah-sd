@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 76,
+  "translation": "۽ شاليم ۾ سندس ٿانءَ ٿيو، ۽ صهيون ۾ سندس رهائشگاهه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "شاليم ۾"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "سندس ٿانءَ (ڪُٽِي)"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "۽ سندس رهائشگاهه"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صهيون ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:39.791849261Z",
+  "model": "glm-5.3"
+}

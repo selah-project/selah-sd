@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ هن يھودا جون مظبوط شهر ⟨את⟩ کي فتح ڪيو، ۽ يروشلم تائين آيو.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "۽ فتح ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مظبوط شهر"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "مظبوط"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "يھودا جون"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "۽ آيو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:47.339360325Z",
+  "model": "glm-5.3"
+}

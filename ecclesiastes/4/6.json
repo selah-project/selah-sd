@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "سڪون سان ڀريل ھڪ انڌورو، محنت ۽ روح جي ڏک سان ڀريل ٻن مُٽن کان چڱو ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀريل"
+    },
+    {
+      "surface": "כף",
+      "gloss": "انڌورو (ھٿ جي تري)"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "سڪون"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "کان ڀريل"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "ٻن مُٽن"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "۽ ڏک"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:55.394433171Z",
+  "model": "glm-5.3"
+}

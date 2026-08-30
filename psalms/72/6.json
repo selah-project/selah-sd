@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 72,
+  "translation": "وھندڙ وانگر ڪٽيل گاھ تي لهندو، جهڙو مينھن جا وسڪارا زمين کي تر ڪن.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "لهندو"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "مينھن وانگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "גז",
+      "gloss": "ڪٽيل گاھ"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "جهڙو وسڪارا"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "ٺڃو مينھن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:00.553338867Z",
+  "model": "glm-5.3"
+}

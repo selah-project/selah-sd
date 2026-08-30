@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ٻڌو، اوڏانهين، جيڪو מون ڪيو آهي؛ ۽ سڃاڻو، ويجهن، مون جي طاقت.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "اوڏانهين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "مون ڪيو"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "۽ سڃاڻو"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "ويجهن"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "مون جي طاقت"
+    }
+  ],
+  "timestamp": "2026-08-30T11:55:11.458293453Z",
+  "model": "glm-5.3"
+}

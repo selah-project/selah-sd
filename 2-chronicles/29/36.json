@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-chronicles 29:36",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ خوش ٿيو حزقيا ۽ سڀ ماڻھن، ڇوته ايلوهيم ماڻھن لاءِ تيار ڪيو ھو، ڇوته ڪم اچانڪ ٿيو ھو.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "۽ خوش ٿيو"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "حزقيا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "ההכין",
+      "gloss": "تيار ڪيو ھو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ماڻھن لاءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בפתאם",
+      "gloss": "اچانڪ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو ھو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڪم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:29:36.120684611Z",
+  "model": "glm-5.3"
+}

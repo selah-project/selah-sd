@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ميڪا جا پٽ ھئا: پيثون ۽ ميليخ ۽ تحريعا۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ميڪا"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "پيثون"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "۽ ميليخ"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "۽ تحريعا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:17.684379794Z",
+  "model": "glm-5.3"
+}

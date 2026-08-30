@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "تو جا فرضا م لاءِ گيت ٿي ويا آھن، مھاجرن جي گھر ۾.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ٿي ويا آھن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "م لاءِ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تو جا فرضا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر ۾"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "مھاجرن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:20:14.690276663Z",
+  "model": "glm-5.3"
+}

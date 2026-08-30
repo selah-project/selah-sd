@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 60,
+  "translation": "مون کي مضبوط شهر ڏانھن ڪير وٺي ويندو؟ ادوم تائين مون کي ڪير وٺي ويندو؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "مون کي وٺي ويندو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "مون کي وٺي ويندو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:09.036768286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ ميخا جا پٽ: پيثون ۽ ميليخ ۽ تعارع ۽ آحاز.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ميخا جا"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "پيثون"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "۽ ميليخ"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "۽ تعارع"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "۽ آحاز"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:56.322610114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ٻڪرين مان ھڪ تَڪُو، گنھه جي قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "تَڪُو"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻڪرين مان"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گنھه جي قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:38:42.997790289Z",
+  "model": "glm-5.3"
+}

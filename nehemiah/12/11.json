@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ يويعد ⟨את⟩ يوناثان کي پيدا ڪيو، ۽ يوناثان ⟨את⟩ يدوع کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "۽ يويعد"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوناثان"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "يوناثان"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "۽ يوناثان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يدوع"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "يدوع"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:25.641389007Z",
+  "model": "glm-5.3"
+}

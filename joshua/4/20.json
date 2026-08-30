@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ⟨את⟩ اُهي ٻارهه پٿر، جيڪي يردن مان کنيائون، يهوشع گلگل ۾ اُڀاريو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ٻارهه پٿر"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻارهان"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ٻارهان"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اُهي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "کنيائون"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "يردن"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "اُڀاريو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشع"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "گلگل ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:49:00.316903085Z",
+  "model": "glm-5.3"
+}

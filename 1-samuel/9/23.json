@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "پوءِ شمويل طباخ کي چيو: اُهو حصو ڏي جو مون توکي ڏنو هو، جنهن بابت مون توکي چيو هو: اُهو پاڻ وٽ رک.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "پوءِ چيو"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمويل"
+    },
+    {
+      "surface": "لטבח",
+      "gloss": "طباخ کي"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُهو حصو"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "حصو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "مون ڏنو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن بابت"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "مون چيو"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "שים",
+      "gloss": "رک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اُهو"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "پاڻ وٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:09:15.273237326Z",
+  "model": "glm-5.3"
+}

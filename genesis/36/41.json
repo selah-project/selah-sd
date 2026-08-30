@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "سردار اهوليبامه، سردار ايله، سردار پينون.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "اهوليبامه"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ايله"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "پينون"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:22.188931003Z",
+  "model": "glm-5.3"
+}

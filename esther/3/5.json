@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ هامانَ ڏٺو تہ مردخاي نه ٿو جهڪي ۽ نه ٿو سندس اڳيان سجدو ڪري، ۽ هامان غصي سان ڀرجي ويو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏٺو"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردخاي"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "جهڪي ٿو"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "۽ سجدو ڪري ٿو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس اڳيان"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "۽ ڀرجي ويو"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غصي سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:55:27.152783066Z",
+  "model": "glm-5.3"
+}

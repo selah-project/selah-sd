@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "لنگهي وڃو ترشيش ڏي؛ رڙيو، ٻيٽ جي رهواسي!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "لنگهي وڃو"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "ترشيش ڏي"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "رڙيو"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رهواسي"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ٻيٽ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:52:26.905145994Z",
+  "model": "glm-5.3"
+}

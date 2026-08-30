@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "سندس اڳيان سڀ زمين ڪپي؛ هوءَ ٽيڪو ٿئي، پرلڪ نه ٽٽي.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "ڪپي"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "سندس اڳيان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "אף",
+      "gloss": "پر"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ٽيڪو ٿئي"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "پرلڪ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ٽٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:21.284488966Z",
+  "model": "glm-5.3"
+}

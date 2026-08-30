@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ جيڪڏھن اھا چم ۾ گھڻو پکڙجي، ته ڪوھن ⟨את⟩ ان کي نجس قرار ڏئي؛ اھو ھڪ نڳع آھي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پکڙجي"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "گھڻو پکڙجي"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چم ۾"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "نجس قرار ڏئي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي (متاثر ماڻھوءَ کي)"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "نڳع"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:50.870965996Z",
+  "model": "glm-5.3"
+}

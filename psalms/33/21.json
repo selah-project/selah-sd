@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ڇوتيڪو اسان جو دل اُن ۾ خوش ٿيندي، ڇوتيڪو اسان اُن جي پاڪ نالي تي توڪل ڪيو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتيڪو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُن ۾"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ٿيندي"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "اسان جو دل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوتيڪو"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نالي تي"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "اُن جي پاڪ"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "توڪل ڪيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:04.934244226Z",
+  "model": "glm-5.3"
+}

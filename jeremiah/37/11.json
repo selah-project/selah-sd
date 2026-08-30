@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 37:11",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ ائين ٿيو جڏهن ڪلدانين جي فوج يروشلم کان مٿي کڻي وئي، فرعون جي فوج جي ڪري.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ائين ٿيو"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "جڏهن مٿي کڻي وئي"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "ڪلدانين جي"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "کان"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "جي ڪري"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    }
+  ],
+  "timestamp": "2026-08-30T12:19:55.485245553Z",
+  "model": "glm-5.3"
+}

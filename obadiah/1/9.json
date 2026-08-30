@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "obadiah 1:9",
+  "book": "obadiah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ تنهنجا بهادر، اي تيمان، ڏڪي ويندا، ته عيسو جي جبل مان ماڻهو قتلَ ۾ ڪٽيو وڃي.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "ڏڪي ويندا"
+    },
+    {
+      "surface": "גבוריך",
+      "gloss": "تنهنجا بهادر"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "اي تيمان"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "ڪٽيو وڃي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "جبل مان"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "מקטל",
+      "gloss": "قتلَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:49:35.347524626Z",
+  "model": "glm-5.3"
+}

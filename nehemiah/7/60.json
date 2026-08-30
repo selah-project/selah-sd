@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "سڀئي نتنيم ۽ شليموه جي نوڪرن جا پٽ — ٽي سَو اٺانوي (92) ٿيا.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "نتنيم"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "نوڪرن جي"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شليموه"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "اٺانوي"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:56.861094136Z",
+  "model": "glm-5.3"
+}

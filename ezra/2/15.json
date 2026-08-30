@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "عادين جا پُٽَ، چار سَو چَپنڄاھ ۽ چار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽَ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "عادين"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "چَپنڄاھ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:03.221672889Z",
+  "model": "glm-5.3"
+}

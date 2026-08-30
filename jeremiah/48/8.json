@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 48:8",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ ڦرندڙ هر هڪ شهر تي ايندو، ۽ ڪوبه شهر نه بچندو؛ ۽ ماٿي تباهه ٿيندي، ۽ ميدان اُجڙي ويندو، جيئن ياهوه چيو آهي.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "۽ ايندو"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ڦرندڙ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر هڪ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "۽ شهر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמלט",
+      "gloss": "بچندو"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "۽ تباهه ٿيندي"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "ماٿي"
+    },
+    {
+      "surface": "ונשמד",
+      "gloss": "۽ اُجڙي ويندو"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ميدان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:09.663865870Z",
+  "model": "glm-5.3"
+}

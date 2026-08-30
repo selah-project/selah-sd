@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ بادشاهه جي حڪم کان، جيڪو ڪاهنن ۽ لاوين تي هو، ڪنهن به معاملي ۽ خزانن بابت، نه ٽڙيا.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ٽڙيا"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهنن"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "۽ لاوين"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ڪنهن به"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "معاملي"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "۽ خزانن بابت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:59.289543881Z",
+  "model": "glm-5.3"
+}

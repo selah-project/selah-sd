@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "توتان گھٽ ڪو ئي آھي، ياهوه؛ تون وڏو آهين، ۽ تنهجون نالو جوش ۾ وڏو آهين.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "کان سوڍو ڪو نه"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "توتان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "۽ وڏو"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تنهجون نالو"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "جوش ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:09:34.859143317Z",
+  "model": "glm-5.3"
+}

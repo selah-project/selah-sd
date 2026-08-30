@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 92:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 92,
+  "translation": "صديق تمر جهڙو گلڻ ٿو، اَرز جهڙو لبنان ۾ مٿي اوڏو ٿيندو.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "صديق"
+    },
+    {
+      "surface": "כתמר",
+      "gloss": "تمر جهڙو"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "گلڻ ٿو"
+    },
+    {
+      "surface": "כארז",
+      "gloss": "اَرز جهڙو"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "لبنان ۾"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "مٿي اوڏو ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:09.868494130Z",
+  "model": "glm-5.3"
+}

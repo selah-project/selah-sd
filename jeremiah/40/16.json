@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 40:16",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "پوءِ چيو گدلياھ پٽ احيقام جو يوحنان پٽ ڪارياھ ڪڍ کي: اھو ڪم ڪج نه، ڇوته کوڙ آھي تون يشماعيل بابت ٿو چوين.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "پوءِ چيو"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "گدلياھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "احيقام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "يوحنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ڪارياھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "ڪج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اهو ڪم"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اهو ڪم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "کوڙ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٿو چوين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بابت"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "يشماعيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:57:18.777005173Z",
+  "model": "glm-5.3"
+}

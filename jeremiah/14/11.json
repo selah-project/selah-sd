@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "پوءِ ياهوه مون کي چيو: هن قوم جي ڀلائي لاءِ دعا نه ڪر.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "پوءِ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "دعا ڪر"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ڀلائي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:11:39.696582513Z",
+  "model": "glm-5.3"
+}

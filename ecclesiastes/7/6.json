@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڇوته جيئن ڪڙن جي آواز ديگهه جي هيٺان، تيئن نادان جي کِل؛ ۽ هي به هوا آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "جيئن آواز"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "ڪڙن جي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺان"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ديگهه جي"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "کِل"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "نادان جي"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هوا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:18.017541204Z",
+  "model": "glm-5.3"
+}

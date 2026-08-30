@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "مقصد ياد رکو — لا بن تي، داويد جو مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقصد ياد رکو"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "موت (سرگيت)"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داويد جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:05.094855626Z",
+  "model": "glm-5.3"
+}

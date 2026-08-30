@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ رعايا شوbal جي پُٽَ يخت کي پيدا ڪيو، ۽ يخت احومي ۽ لهد کي پيدا ڪيو؛ اھي ئي صرعاتي جون خاندان آھن.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "۽ رعايا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شوbal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يخت"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "يخت"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "۽ يخت"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "احومي"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "احومي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "لهد"
+    },
+    {
+      "surface": "להד",
+      "gloss": "لهد"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "صرعاتي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:28.738928877Z",
+  "model": "glm-5.3"
+}

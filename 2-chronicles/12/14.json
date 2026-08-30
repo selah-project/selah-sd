@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ برائي ڪيائين، ڇوته پنھنجو دل تيار نه ڪيائين ته ياهوه کي ⟨את⟩ ڳولي۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيائين"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "تيار ڪيائين"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "پنھنجو دل"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ڳولڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:29.257675127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "مان ايلوه سان چوندس: مpletely نه ڪر مون کي؛ مون کي ٻڌاءِ ته تون ڇو مون سان جهيڙو ڪريين.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "چوندس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ايلوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "مpletely نه ڪر مون کي"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "مون کي ٻڌاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "مون سان جهيڙو ڪريين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:36.499286455Z",
+  "model": "glm-5.3"
+}

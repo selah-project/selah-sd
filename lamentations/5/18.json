@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ציון جبل تي، جيڪو ويران ٿي ويو، گدرهن ان ۾ گهمڻ ٿا ڪن.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل تي"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ציון"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "ويران ٿي ويو"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "گدرهن"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "گهمڻ ٿا ڪن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:46.141677645Z",
+  "model": "glm-5.3"
+}

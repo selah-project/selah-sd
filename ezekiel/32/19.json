@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 32:19",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "ڪنهن کان وڌيڪ سهڻي آهين؟ لهي وڃ ۽ اَغلا سان گڏ سُتِي وڃجُن ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ממי",
+      "gloss": "ڪنهن کان"
+    },
+    {
+      "surface": "נעמت",
+      "gloss": "وڌيڪ سهڻي آهين"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "لهي وڃ"
+    },
+    {
+      "surface": "והשכבה",
+      "gloss": "۽ سُتِي وڃجُن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَغلا"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "اَغلا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:37:53.208161526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "daniel 11:23",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ساڻس تعلق کان پوءِ هو فريب ڪندو؛ ۽ چڙهندو ۽ ٿورڙي قوم سان طاقتور ٿيندو.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ کان"
+    },
+    {
+      "surface": "התחברות",
+      "gloss": "تعلق"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ساڻس"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪندو"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فريب"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "۽ چڙهندو"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "طاقتور ٿيندو"
+    },
+    {
+      "surface": "במעט",
+      "gloss": "ٿورڙي"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:35.981024106Z",
+  "model": "glm-5.3"
+}

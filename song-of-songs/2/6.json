@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "سندس کاٻو ھٿ منھنجي مٿي ھيٺ آھي ۽ سندس ساڄو ھٿ مون کي چرٻاٽي ٿو.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "سندس کاٻو ھٿ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺ"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "منھنجي مٿي"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "۽ سندس ساڄو ھٿ"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "مون کي چرٻاٽي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:31.874634175Z",
+  "model": "glm-5.3"
+}

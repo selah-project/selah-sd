@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 1:5",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ٺاهيل ڪانءَ جو مذبح، جيڪو بيصليل پٽ اُوري پٽ حور ٺاهيو هو، تنهن کي ياهوه جي مسڪن جي اڳيان رکيو ويو هو؛ ۽ شلومو ۽ congregation (ڀڳل) ان کي ڳوليائون.",
+  "tokens": [
+    {
+      "surface": "ומזבח",
+      "gloss": "۽ مذبح"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ڪانءَ جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاهيو"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بيصليل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "اُوري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "שם",
+      "gloss": "رکيو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مسڪن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וידרשהו",
+      "gloss": "۽ ان کي ڳوليائون"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "۽ ڀڳل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:17.717140089Z",
+  "model": "glm-5.3"
+}

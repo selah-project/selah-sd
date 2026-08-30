@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ عزرا ڪاهن ⟨את⟩ تورات کي جماعت اڳيان آندو، مڙس کان وٺي زال تائين ۽ هر سمجهندڙ ٻڌڻ لاءِ، ستين مهيني جي هڪ ڏينهن تي.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "آندو"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "عزرا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تورات"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "مڙس کان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ تائين"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ هر"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "سمجهندڙ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ٻڌڻ لاءِ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني جي"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:06.008778865Z",
+  "model": "glm-5.3"
+}

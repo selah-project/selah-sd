@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ تون پٿرن تي هن تورات جا سڀ ⟨את⟩ لفظ چوڪسائيءَ سان لکهن.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "۽ لکهن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پٿرن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "هن تورات جا"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "באר",
+      "gloss": "چوکسي طرح"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "چوڪسائيءَ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:50.129182168Z",
+  "model": "glm-5.3"
+}

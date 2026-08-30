@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "وڇڙيل ڀلاري ماڻهن جي ڄار جي خواهش ڪري ٿو، پر راستبازن جي پاڙ ڦل ڏئي ٿي.",
+  "tokens": [
+    {
+      "surface": "חמد",
+      "gloss": "خواهش ڪري ٿو"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "وڇڙيل"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "ڄار"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ڀلاري ماڻهن جي"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "پر پاڙ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راستبازن جي"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڏئي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:42.626987542Z",
+  "model": "glm-5.3"
+}

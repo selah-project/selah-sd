@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 2:6",
+  "book": "joel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ان جي سامهون قومون ڪامڻين؛ سڀ منهن پَڪا پيل ٿي ويا.",
+  "tokens": [
+    {
+      "surface": "מפניו",
+      "gloss": "ان جي سامهون"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "ڪامڻين"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "ٺھرائي ويا"
+    },
+    {
+      "surface": "פארור",
+      "gloss": "پَڪا پيل"
+    }
+  ],
+  "timestamp": "2026-08-30T12:47:25.769932707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 8:30",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ گدعون کي ستر پُٽ ھئا، جي سندس ران مان نڪتا، ڇوته کيس گھڻيون زالون ھيون.",
+  "tokens": [
+    {
+      "surface": "ולגדעון",
+      "gloss": "۽ گدعون کي"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ھئا"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "نڪتا (جن جيڪي نڪتا)"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "سندس ران مان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زالون"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "گھڻيون"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ھيون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    }
+  ],
+  "timestamp": "2026-08-30T11:00:21.331120230Z",
+  "model": "glm-5.3"
+}

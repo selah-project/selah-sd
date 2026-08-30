@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ صفنيا ڪاهن اهو ⟨את⟩ خط يرميا نبي جي ڪنن ۾ پڙهيو.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "پڙهيو"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "صفنيا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اهو خط"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "خط"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ڪنن ۾"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرميا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:17:31.725653854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ھو سج جي اڳيان ساوڪ ۾ آھي، ۽ پنھنجي باغ تي سندس ڦوٽLOGGER نڪرندي.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "ساوڪ ۾"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ھو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "پنھنجي باغ"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "سندس ڦوٽ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نڪرندي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:28.568873443Z",
+  "model": "glm-5.3"
+}

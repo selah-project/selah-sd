@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "رشوت ⟨آهي⟩ هن جي مالڪ جي اکين ۾ چم واري پٿر؛ جتان به منهن ڪري، اُتي ڪامياب ٿئي ٿو.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چم واري"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "رشوت"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکين ۾"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "هن جي مالڪ جي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "جتان به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "(سڀني) هنوان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "منهن ڪري"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "ڪامياب ٿئي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:24.113828326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 7:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "اچ، پريت جي پياسي پاڻي ڀريون صبح تائين؛ محبتن ۾ رجھي وڃون.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "اچ"
+    },
+    {
+      "surface": "נרוה",
+      "gloss": "ڀريون\/رجھيون"
+    },
+    {
+      "surface": "דדים",
+      "gloss": "پريت\/محبت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "נתעלסה",
+      "gloss": "رجھي وڃون\/خوش ٿيون"
+    },
+    {
+      "surface": "באהבים",
+      "gloss": "محبتن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:50.028826394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 35:5",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ مون رڪابين گهر جي پُٽن اڳيان شراب سان ڀريون سَرون ۽ پيالا رکيا، ۽ مون چين چين ته اُهي شراب پيو.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "۽ مون رکيا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "رڪابين"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "سَرون"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ڀريون"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "וכסות",
+      "gloss": "۽ پيالا"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ مون چين"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "چين"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "پيو"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:56:43.433607361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 24:19",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ يعقوب مان ھڪڙو حاڪم نازل ٿيندو، ۽ شھر مان بچيل کي تباهه ڪندو.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "۽ نازل ٿيندو"
+    },
+    {
+      "surface": "מיעקב",
+      "gloss": "يعقوب مان"
+    },
+    {
+      "surface": "והאביד",
+      "gloss": "۽ تباهه ڪندو"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "بچيل کي"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "شھر مان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:10.435009812Z",
+  "model": "glm-5.3"
+}

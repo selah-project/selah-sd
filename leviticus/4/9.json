@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ⟨את⟩ ٻن گوردين ۽ ⟨את⟩ تہ چرٻي جيڪا انهن تي آھي، جيڪا ٻانھن تي آھي، ۽ ⟨את⟩ جگر جي پرتِ اضافي کي، گوردين سان گڏِ کي ھيٽي ڪندو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ٻن گوردين"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "گوردين"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تہ چرٻي"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چرٻي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "انهن تي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ٻانھن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "جگر جي پرت"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "جگر جي پرت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "جگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "سان"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "گوردين"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ھيٽي ڪندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:51.460721882Z",
+  "model": "glm-5.3"
+}

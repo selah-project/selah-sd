@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ٽُٽي ٿي ڀڃي، زمين؛ چڀڙجي ٿي چڀڙجي، زمين؛ لوڏجي ٿي لوڏجي، زمين.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "ٽُٽي ٿي"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "ڀڃي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "فור",
+      "gloss": "چڀڙجي ٿي"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "چڀڙجي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "لوڏجي ٿي"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "لوڏجي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T11:53:49.690362361Z",
+  "model": "glm-5.3"
+}

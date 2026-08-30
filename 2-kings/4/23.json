@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ چيائين: ”تو کي ڇو وڃڻ اٿس؟ اڄ نہ چنڊ آهي نہ شبات.“ ۽ چيائين: ”سلامتي آهي.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "تو کي"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "وڃڻ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هن وٽ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اج"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "چنڊ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نہ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شبات"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:38:41.720401283Z",
+  "model": "glm-5.3"
+}

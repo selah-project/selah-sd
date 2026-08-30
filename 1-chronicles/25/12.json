@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "پنجين نمبر نتنياهو تي — سندس پٽ ۽ ڀائر ٻارهه.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پنجين نمبر"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "نتنياهو"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "۽ ڀائر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:00.334452977Z",
+  "model": "glm-5.3"
+}

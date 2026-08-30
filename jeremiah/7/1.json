@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "اهو لفظ جيڪو يرمياهو ڏانهن ياهوه وٽان ⟨את⟩ آيو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "اهو لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه (پاران)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:09:06.405304235Z",
+  "model": "glm-5.3"
+}

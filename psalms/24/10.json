@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڪير آھي ھي، بھڙائيءَ جو بادشاھ؟ ياهوه صبائوت — اھو ئي آھي بھڙائيءَ جو بادشاھ۔ سلاہ۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آھي ھي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "بھڙائيءَ جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو ئي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "بھڙائيءَ جو"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:50.001022293Z",
+  "model": "glm-5.3"
+}

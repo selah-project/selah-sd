@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 15:2",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ سندن ڏاکڻي سرحد لوڻ جي سمنڊ جي ڇيڙي کان هئي، ان زبان کان جيڪا ڏکڻ ڏانهن منهن ڪري ٿي۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "هئي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "سندن"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ڏکڻ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ڇيڙي کان"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "لوڻ جي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הלשן",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "منهن ڪري ٿي"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ڏکڻ ڏانهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:33.682209036Z",
+  "model": "glm-5.3"
+}

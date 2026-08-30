@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مان لنگھان، اهاٻڏ ٻڌي، ۽ ⟨את⟩ سٺي زمين ڏسان، جا يردن جي پار آهي، هي سٺو جبل ۽ لبنان.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "مان لنگھان"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اهاٻڏ ٻڌي"
+    },
+    {
+      "surface": "ויאראה",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "سٺي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "پار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "يردن"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "سٺو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "۽ لبنان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:32.373261252Z",
+  "model": "glm-5.3"
+}

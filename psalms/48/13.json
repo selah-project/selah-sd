@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "چڪر ھڻو صھيون جي چوڌاري ۽ ان کي گھيرو ڪريو، ان جا برج ڳڻيو.",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "چڪر ھڻو"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صھيون"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "۽ ان کي گھيرو ڪريو"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ڳڻيو"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "ان جا برج"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:35.585640762Z",
+  "model": "glm-5.3"
+}

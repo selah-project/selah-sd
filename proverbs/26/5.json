@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "ڪنہه سگهو کي سندس سگهپي موجب جواب ڏي، متان هو پنھنجي آکاڻن ۾ ڏاهپ وارو ٿي پوي.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "جواب ڏي"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "سگهو"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "سندس سگهپي موجب"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿئي"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ڏاهو"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "پنھنجي آکاڻن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:57.726334192Z",
+  "model": "glm-5.3"
+}

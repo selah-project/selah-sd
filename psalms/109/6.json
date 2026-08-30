@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 109,
+  "translation": "مقرر ڪر مٿس هڪ شرير ۽ هڪ ساٽان بيهي سندس ساڄي هٿ تي،",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "مقرر ڪر"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "هڪ شرير"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "۽ هڪ ساٽان"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "بيهي"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "سندس ساڄي هٿ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:03:26.082029893Z",
+  "model": "glm-5.3"
+}

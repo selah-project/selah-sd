@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ شاول ڏٺو ته ⟨هو⟩ وڏي سمجهه وارو آهي، ته پوءِ کانئس ڊپ کاڌائين.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سمجهه وارو آهي"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ڊپ کاڌائين"
+    },
+    {
+      "surface": "מפניو",
+      "gloss": "کانئس"
+    }
+  ],
+  "timestamp": "2026-08-30T11:11:42.477505207Z",
+  "model": "glm-5.3"
+}

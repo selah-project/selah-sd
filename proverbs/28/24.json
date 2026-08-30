@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "پيءُ ۽ ماءُ کي لٽڻ ۽ چوڻ 'ڪا بغاوت ناهي' — اهو تباهه ڪندڙ ماڻهوءَ جو ساٿي آهي.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "لٽڻ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پيءُ کي"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "۽ ماءُ کي"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چوڻ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "بغاوت"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ساٿي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ماڻهوءَ جو"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "تباهه ڪندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:56.599600028Z",
+  "model": "glm-5.3"
+}

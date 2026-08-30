@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 46:17",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "اُتي پُڪاريئون ٿا: پروھ متسرايم جو بادشاھ، شين آھي؛ مقرر وقت لنگھي ويو.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "پُڪاريئون ٿا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پروھ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "شين"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "لنگھائي ويو"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "مقرر وقت"
+    }
+  ],
+  "timestamp": "2026-08-30T12:22:17.369471261Z",
+  "model": "glm-5.3"
+}

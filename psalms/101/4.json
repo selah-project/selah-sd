@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 101,
+  "translation": "ڏنگي دل منهنجي کان پري ٿي وڃي؛ بڇڙائيءَ کي آئون سڀاويڪ نه ٿو سڃاڻان۔",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ڏنگي"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "پري ٿي وڃي"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "منهنجي کان"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بڇڙائيءَ کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "آئون سڃاڻان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:22.231914790Z",
+  "model": "glm-5.3"
+}

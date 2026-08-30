@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 91,
+  "translation": "ڇوته هو ئي توکي جهالت جي ڦانئٽي کان ۽ تباهيءَ جي وبا کان ڇڏائيندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "توکي ڇڏائيندو"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "ڦانئٽي کان"
+    },
+    {
+      "surface": "יקושׁ",
+      "gloss": "جهالت جي"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "وبا کان"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "تباهيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:37.026567717Z",
+  "model": "glm-5.3"
+}

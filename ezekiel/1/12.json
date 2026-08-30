@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 1:12",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ هر هڪ پنهنجي منهن جي طرف ويو؛ جتي روح وڃڻو هو، اتي ويا؛ هليڻ مهين منهن نه موڙيائون.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "۽ هر هڪ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "پار"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "پنهنجي منهن جي"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ويو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "جتي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "وڃڻو"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ويا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "منهن موڙيائون"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "هليڻ مهين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:25:46.004261323Z",
+  "model": "glm-5.3"
+}

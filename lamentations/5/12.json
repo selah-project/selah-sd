@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "سردارن کي سندن ھٿن سان لٽايو ويو؛ بزرگن جا منھن عزت نه ماڻيا.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "سردارن کي"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "سندن ھٿن سان"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "لٽايو ويو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منھن"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "بزرگن جا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "عزت ماڻي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:52.000715679Z",
+  "model": "glm-5.3"
+}

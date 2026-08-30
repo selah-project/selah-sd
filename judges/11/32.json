@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 11:32",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ يفتاح بني عمون وٽ وڙهڻ لاءِ وڃي پهتو، ۽ ياهوه کين سندس هٿ ۾ ڏنو.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "۽ وڃي پهتو"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "يفتاح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "وڙهڻ لاءِ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "۽ ڏنو کين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "سندس هٿ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:01:56.775767129Z",
+  "model": "glm-5.3"
+}

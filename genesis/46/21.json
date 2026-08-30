@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 46:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "۽ بنيامين جا پُٽ ⟨هئا⟩ بيلع ۽ بيخر ۽ اشبل، گيرا ۽ نعمان، ايحي ۽ روش، مُپّيم ۽ حُپّيم ۽ ارد.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پُٽ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بيلع"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "۽ بيخر"
+    },
+    {
+      "surface": "ואשבל",
+      "gloss": "۽ اشبل"
+    },
+    {
+      "surface": "גרא",
+      "gloss": "گيرا"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "۽ نعمان"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ايحي"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "۽ روش"
+    },
+    {
+      "surface": "מפים",
+      "gloss": "مُپّيم"
+    },
+    {
+      "surface": "וחפים",
+      "gloss": "۽ حُپّيم"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "۽ ارد"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:40.003815880Z",
+  "model": "glm-5.3"
+}

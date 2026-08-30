@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ فللو جا پٽ: اليآب.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "فللو"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "اليآب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:48.565951269Z",
+  "model": "glm-5.3"
+}

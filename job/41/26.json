@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "هو ⟨את⟩ سڀ اوچن کي ڏسي ٿو؛ هو سڀ گھمنڊ جي پٽن تي بادشاھ آھي.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ اوچن کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "اوچن"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ڏسي ٿو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جي پٽن"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "گھمنڊ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:28.365935611Z",
+  "model": "glm-5.3"
+}

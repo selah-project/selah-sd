@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ڇو ته تنهنجا چشما ٻاهر ڇڻي وڃن، ۽ ويڪرين ۾ پاڻيءَ جون نديون؟",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "ڇڻي وڃن"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "تنهنجا چشما"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ويڪرين ۾"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "جون نديون"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ جون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:39.266034070Z",
+  "model": "glm-5.3"
+}

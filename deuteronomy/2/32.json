@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "پوءِ سيحون اسان جي مقابلي لاءِ نڪتو، هو ۽ سندس سڀ قوم، يهصه ۾ جنگ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نڪتو"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سيحون"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "اسان جي مقابلي لاءِ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس قوم"
+    },
+    {
+      "surface": "لמלחמה",
+      "gloss": "جنگ لاءِ"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "يهصه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:44.248566351Z",
+  "model": "glm-5.3"
+}

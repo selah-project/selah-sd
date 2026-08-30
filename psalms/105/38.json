@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "متسرايم انهن جي نڪرڻ تي خوش ٿيو، ڇوته انهن جو خوف مٿن ڪريو۔",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "خوش ٿيو"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "انهن جي نڪرڻ تي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ڪريو"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "انهن جو خوف"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "مٿن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:17.145288681Z",
+  "model": "glm-5.3"
+}

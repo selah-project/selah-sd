@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 56,
+  "translation": "بيڪاريءَ سان ڇا ھي بچندا؟ غصي ۾ قومن کي ڍاءِ، ايلوهيم.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "…سان"
+    },
+    {
+      "surface": "און",
+      "gloss": "بيڪاريءَ"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "بچندا"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "באף",
+      "gloss": "غصي ۾"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومن کي"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "ڍاءِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:32.820161428Z",
+  "model": "glm-5.3"
+}

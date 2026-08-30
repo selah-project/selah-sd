@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 3:22",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ شكنياھ جا پٽ: شمعياھ؛ ۽ شمعياھ جا پٽ: حتّوش ۽ يڳال ۽ بَريَخ ۽ نعرَياھ ۽ شافَط — ڇھ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "شكنياھ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شمعياھ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شمعياھ"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "حتّوش"
+    },
+    {
+      "surface": "ויגאל",
+      "gloss": "۽ يڳال"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "۽ بَريَخ"
+    },
+    {
+      "surface": "ונעריה",
+      "gloss": "۽ نعرَياھ"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "۽ شافَط"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ڇھ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:54.110300239Z",
+  "model": "glm-5.3"
+}

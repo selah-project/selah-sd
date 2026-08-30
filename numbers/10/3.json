@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ جڏھن انهن ۾ وڄائين ته تو وٽ گڏ ٿئي سڀ قوم، دروازي وٽ خيمي جي ملاقات جي.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "۽ وڄائين"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "انهن ۾"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "گڏ ٿئي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تو وٽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمي"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:04.124010453Z",
+  "model": "glm-5.3"
+}

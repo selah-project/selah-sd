@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "“قانون موجب ملكه وشتي سان ڇا ڪجي، ڇو ته هن بادشاهه اخشوروش جو ⟨את⟩ حڪم خواجہ سرائن جي هٿان نه ڪيو آهي؟”",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "قانون موجب"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪجي"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "ملڪه سان"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "وشتي"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حڪم"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "اخشوروش"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿان"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "خواجہ سرائن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:54:27.138950063Z",
+  "model": "glm-5.3"
+}

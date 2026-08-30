@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ماڻهوءَ جو دل پنهنجو رستو رچي ٿو، پر ياهوه سندس قدم کي جڙيندو آهي.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ جو"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "رچي ٿو"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "پنهنجو رستو"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "پر ياهوه"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "جڙيندو آهي"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "سندس قدم کي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:04:22.575388308Z",
+  "model": "glm-5.3"
+}

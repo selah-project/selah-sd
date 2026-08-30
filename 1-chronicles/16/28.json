@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 16:28",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ڏيو ياهوه کي، قومن جون خاندانو؛ ڏيو ياهوه کي جلال ۽ عز.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ڏيو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "خاندانو"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومن جون"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ڏيو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "۽ عز"
+    }
+  ],
+  "timestamp": "2026-08-30T15:11:36.437811732Z",
+  "model": "glm-5.3"
+}

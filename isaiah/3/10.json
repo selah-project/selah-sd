@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "چئو ته نيڪ ماڻھوءَ لاءِ چڱائي آھي، ڇوته پنھنجن ڪمن جو ميو کائندا.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "چئو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ ماڻھوءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱائي آھي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ميو"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "پنھنجن ڪمن جو"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کائندا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:47:24.693341655Z",
+  "model": "glm-5.3"
+}

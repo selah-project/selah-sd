@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 24:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "پر مذمت ڪندڙن لاءِ ⟨هو⟩ سازگار آهي، ۽ انهن تي سٺي برڪت ايندي.",
+  "tokens": [
+    {
+      "surface": "ולמוכיחים",
+      "gloss": "پر مذمت ڪندڙن لاءِ"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "سازگار آهي"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "۽ انهن تي"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ايندي"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "برڪت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "سٺي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:39.461738674Z",
+  "model": "glm-5.3"
+}

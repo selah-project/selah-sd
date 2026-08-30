@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ هي ڪم ايلوهيم جي نظرن ۾ برا لڳو، تنھنڪري هن ⟨את⟩ يسرائيل کي ماريو.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "برا لڳو"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "نظرن ۾"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنھن ڪم تي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "هي ڪم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ماريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:39.490141716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ يوآش ياهوه جي نظرن ۾ سڌو ڪيو، يهوياداع الكاھن جي سڀني ڏينھن تائين.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيو"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يوآش"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "سڌو (جيڪو راست آهي)"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "نظرن ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "يهوياداع"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكاھن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:26:44.614259973Z",
+  "model": "glm-5.3"
+}

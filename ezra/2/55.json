@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "ezra 2:55",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "شلومو جي ٻڌن جي پٽن جا پٽ: سوطي جا پٽ، هسوفريت جا پٽ، پرودا جا پٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ٻڌن جي"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "סטי",
+      "gloss": "سوطي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "הספרת",
+      "gloss": "هسوفريت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "פרודא",
+      "gloss": "پرودا"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:13.154105281Z",
+  "model": "glm-5.3"
+}

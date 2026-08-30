@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "تپّوح جو بادشاھ، ھڪ؛ حيفر جو بادشاھ، ھڪ؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "جو بادشاھ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تپّوح"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "جو بادشاھ"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "حيفر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:13.394216375Z",
+  "model": "glm-5.3"
+}

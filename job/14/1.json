@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ماڻھو، عورت جو ڄاول، ٿورن ڏينھن جو ۽ بيقرائي سان ڀرجيل آھي.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "ڄاول"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "ٿورن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينھن جو"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ڀرجيل"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "بيقرائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:31.178260390Z",
+  "model": "glm-5.3"
+}

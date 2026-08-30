@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "شمّه الحرّي، احيآم پٽ شرر الحرّي جو،",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "شمّه"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "الحرّي"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "احيآم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "شرر"
+    },
+    {
+      "surface": "الحהררי",
+      "gloss": "الحرّي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:45.159009525Z",
+  "model": "glm-5.3"
+}

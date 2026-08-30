@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 28:20",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ اُن تي تلغت پلنسر آشور جو بادشاهه آيو ۽ کيس تنگ ڪيائين، پر کيس سگھو ڪين ڏنائين.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُن تي"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "تلغت"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "پلنسر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور جو"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "تنگ ڪيائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "سگھو ڪين ڏنائين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:27:44.638340910Z",
+  "model": "glm-5.3"
+}

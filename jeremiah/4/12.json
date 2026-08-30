@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "هنن کان هڪ ڀريل هوا م لاءِ ايندي؛ هاڻي آءٌ به پاڻ انهن سان فيصلا ڳائيندس — ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "هوا"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀريل"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "هنن کان"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ايندي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "م لاءِ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ پاڻ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ڳائيندس"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "فيصلا"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "انهن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:07:45.267228567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 7:33",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ ڏاند، ڳئون جو پُٽ، ھڪ رام، ھڪ لambre — سال جو پُٽ — ساڙني قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڳئون"
+    },
+    {
+      "surface": "איל",
+      "gloss": "رام"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "لambre"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "سال جو"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ساڙني قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:19.751428957Z",
+  "model": "glm-5.3"
+}

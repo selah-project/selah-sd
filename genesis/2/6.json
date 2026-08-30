@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ هڪ بخار زمين مان مٿي چڙهي، ۽ ⟨את⟩ مٽيءَ جو سڄو منهن پاڻي پلايو.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "۽ بخار"
+    },
+    {
+      "surface": "יעלه",
+      "gloss": "مٿي چڙهي ٿو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "۽ پاڻي پلايو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڄو منهن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "مٽيءَ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:38:39.504568707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پَروش جا پُٽ: ٻه ھزار ٻه سَو ٻہ ۽ سَتر.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "پَروش جا"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ٻه ھزار"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ٻه سَو"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "۽ سَتر"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:40.796481001Z",
+  "model": "glm-5.3"
+}

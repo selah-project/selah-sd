@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 39:15",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ يرمياهو ڏانهن ياهوه جو لفظ ٿيو، جڏهن هو قيدين جي ائيڻ ۾ بند هو، چوڻ ته،",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "۽ ڏانهن"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "جڏهن هو"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "بند"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "ائيڻ ۾"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "قيدين جي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته"
+    }
+  ],
+  "timestamp": "2026-08-30T12:20:55.243980307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 14:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "حڪيمن جو تاج سندن دولت آهي، بيوقوفن جي بيوقوفي ⟨رڳو⟩ بيوقوفي آهي.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "حڪيمن جو"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "سندن دولت"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "بيوقوفي"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "بيوقوفن جي"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "بيوقوفي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:57.444762695Z",
+  "model": "glm-5.3"
+}

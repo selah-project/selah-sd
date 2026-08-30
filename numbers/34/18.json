@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ هڪڙو سردار، هڪڙو سردار هر قبيلي مان وٺو، ته جيئن ⟨את⟩ ملڪ کي ورثي ۾ وراهيو.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "۽ هڪڙو سردار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪڙو"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪڙو"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "قبيلي مان"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "وٺو"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "ورثي ۾ وراهڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:11.464769279Z",
+  "model": "glm-5.3"
+}

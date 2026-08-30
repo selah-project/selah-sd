@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "پوءِ حزقياھ بادشاھ جي نوڪرن يشعياھ وٽ اچي ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "پوءِ اچي ڪيو"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "نوڪرن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقياھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "يشعياھ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:44:32.745453241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "نفتلي ⟨هو⟩ هڪ شيخzion لڳل ڏنها آهي، ⟨جو⟩ سهڻن لفظن کي ڏيندڙ آهي.",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتلي"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "ڏنها (مادي هزارپا)"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "ڇڏيل\/لڳل"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "ڏيندڙ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "سهڻا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:16.463156026Z",
+  "model": "glm-5.3"
+}

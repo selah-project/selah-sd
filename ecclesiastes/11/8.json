@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ڇوته جيڪڏھن ماڻھو ڪيئن سال جيئي، سڀني ۾ خوش رھي، ۽ اونداهين ڏينھنن کي ⟨את⟩ ياد ڪري، ڇوته اھي گھڻا ٿيندا؛ جيڪو اچي ٿو سڀ هٻل آھي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ڪيئن سال"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گھڻا"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جيئي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "سڀني ۾"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش رھي"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "۽ ياد ڪري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اونداهين ڏينھنن کي"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينھنن کي"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "اونداهين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گھڻا"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ٿيندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "جيڪو اچي ٿو"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هٻل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:11.244388255Z",
+  "model": "glm-5.3"
+}

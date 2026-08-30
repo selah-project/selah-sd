@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ ايلون ۽ تمنته ۽ عقرون۔",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "۽ ايلون"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "۽ تمنته"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "۽ عقرون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:25.718790291Z",
+  "model": "glm-5.3"
+}

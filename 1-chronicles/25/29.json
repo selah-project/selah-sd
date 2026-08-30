@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 25:29",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "اڻويھين گدلتيءَ کي، سندس پٽن ۽ سندس ڀائرن سان، ٻارهن;",
+  "tokens": [
+    {
+      "surface": "לשנים",
+      "gloss": "اڻويھين"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "לגדלתי",
+      "gloss": "گدلتيءَ کي"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽن"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "سندس ڀائرن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻارهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ٽين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:26.369304966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇا پٿرن جيءَ جو طاقت منهنجو طاقت آهي؟ ڇا منهنجو گوشت ٺاسڙو آهي؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پٿرن جي"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "منهنجو طاقت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "منهنجو گوشت"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "ٺاسڙو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:15.264483573Z",
+  "model": "glm-5.3"
+}

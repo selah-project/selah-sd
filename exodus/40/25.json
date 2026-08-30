@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ چراغن کي ياهوه جي اڳيان ٽيڪاريائين، جيئن ياهوه ⟨את⟩ موشي کي حڪم ڪيو هو.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ٽيڪاريائين"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "چراغن کي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:22.626740864Z",
+  "model": "glm-5.3"
+}

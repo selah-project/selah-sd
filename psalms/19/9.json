@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ياهوه جا فرض سڌا آھن، دل کي خوش ڪن ٿا؛ ياهوه جو حڪم پاڪ ⟨آھي⟩، اکين کي روشن ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "فرض"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سڌا"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "خوش ڪن ٿا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "روشن ڪري ٿو"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:43.840063304Z",
+  "model": "glm-5.3"
+}

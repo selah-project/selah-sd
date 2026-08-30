@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 3:19",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ سندس هٿ ۾ ‏عزر پٽ يشوع، مِصفه جي سردار، ٻي ماپ چڙهائي هٿيارن جي ڪنڊ کان سامهون مضبوط ڪئي.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "مضبوط ڪيائين"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "سندس هٿ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "عزر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "يشوع"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "مِصفه"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ماپ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ٻي"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "سامهون"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "چڙهائي"
+    },
+    {
+      "surface": "הנשק",
+      "gloss": "هٿيارن جي"
+    },
+    {
+      "surface": "המקצע",
+      "gloss": "ڪنڊ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:15.459963879Z",
+  "model": "glm-5.3"
+}

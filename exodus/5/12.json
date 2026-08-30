@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ ماڻهو سڄي متسرايم جي زمين ۾ ڇڙوڇڙ ٿي ويا، تٻن لاءِ ڪڻ ڪڍڻ.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "۽ ڇڙوڇڙ ٿي ويا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم جي"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "ڪڻ ڪڍڻ"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ڪڻ"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "تبن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:57:53.699825475Z",
+  "model": "glm-5.3"
+}

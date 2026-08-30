@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "اِھي راحيل جا پُٽ ⟨ھئا⟩، جي يعقوب کي پيدا ٿيا؛ سڀ نفس چوڏهن ⟨ھئا⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اِھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جي"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پيدا ٿيا"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "يعقوب کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏھ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:40.004144859Z",
+  "model": "glm-5.3"
+}

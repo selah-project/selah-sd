@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 28:8",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "وڏائيءَ وارن جي پٽن ان کي نه ٽاپيو، ۽ شينهن ان تي نه لنگهيو آھي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הדריכהו",
+      "gloss": "ٽاپيو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "وڏائيءَ وارن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "لنگهيو آھي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:59.517160799Z",
+  "model": "glm-5.3"
+}

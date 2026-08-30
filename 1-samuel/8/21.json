@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ شموئل ⟨את⟩ ماڻهن جا سڀ لفظ ٻڌا، ۽ ⟨هي⟩ ياهوه جي ڪنن ۾ ٻڌايا.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "۽ ٻڌا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماڻهن جا سڀ لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن جا"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "۽ ٻڌايا"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ڪنن ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:06:34.121307595Z",
+  "model": "glm-5.3"
+}

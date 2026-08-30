@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "ان ئي ڏينهن ابراهام ۽ سندس پُٽ اسماعيل کي ختمو ڪيو ويو.",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "ان ئي"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "ختمو ڪيو ويو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "۽ اسماعيل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:40.803391707Z",
+  "model": "glm-5.3"
+}

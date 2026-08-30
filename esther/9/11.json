@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "ان ڏينهن تي شوشن قلعي ۾ ماريلن جو انگ بادشاهه اڳيان آيو.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينهن تي"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "انگ"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "ماريلن جو"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "شوشن"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "قلعي ۾"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:55:33.054133314Z",
+  "model": "glm-5.3"
+}

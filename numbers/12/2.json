@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ چيائون: ”ڇا رڳو موشي سان ياهوه ڳالھيوتو آھي؟ ڇا اسان سان به نه ڳالھيوتو آھي؟“ ۽ ياهوه ٻُڌو.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "۽ چيائون"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "ڇا رڳو"
+    },
+    {
+      "surface": "אך",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "موشي سان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھيوتو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ڇا … نه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اسان سان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھيوتو"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "۽ ٻُڌو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:48.784138774Z",
+  "model": "glm-5.3"
+}

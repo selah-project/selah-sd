@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 12:5",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ميامين، معدياہ، بلگاہ،",
+  "tokens": [
+    {
+      "surface": "מימין",
+      "gloss": "ميامين"
+    },
+    {
+      "surface": "מעדיה",
+      "gloss": "معدياہ"
+    },
+    {
+      "surface": "בלגה",
+      "gloss": "بلگاہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:33.108075744Z",
+  "model": "glm-5.3"
+}

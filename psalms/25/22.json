@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "اي ايلوهيم، ⟨את⟩ يسرائيل کي سندس سڀني تنگين مان ڇڏاي.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "ڇڏاي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اي ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڀني مان"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "تنگين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:47.329598444Z",
+  "model": "glm-5.3"
+}

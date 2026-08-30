@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ ⟨تون⟩ پاڪ آهين، يسرائيل جي ساراهن ۾ ويٺل.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "۽ ⟨تون⟩"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاڪ آهين"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ويٺل"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ساراهن ۾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:19.833776334Z",
+  "model": "glm-5.3"
+}

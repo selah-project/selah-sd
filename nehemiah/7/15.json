@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "بنوي جي پٽن جو ڇھ سَو اَٺتاليھ (648).",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "بنوي"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليھ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "۽ اَٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:44.035123220Z",
+  "model": "glm-5.3"
+}

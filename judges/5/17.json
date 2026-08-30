@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 5:17",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "گلعاد يردن جي پار رهيو، ۽ دان ڇو ٻيڙين ۾ رهي؟ اشر سمنڊ جي ڪناري تي ويٺو، ۽ پنھنجي اوڍائن ۾ رهي ٿو.",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "جي پار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "يردن"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "رهيو"
+    },
+    {
+      "surface": "ודן",
+      "gloss": "۽ دان"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "رهي ٿو"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ٻيڙين ۾"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اشر"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ويٺو"
+    },
+    {
+      "surface": "לחוף",
+      "gloss": "جي ڪناري تي"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "מפרציו",
+      "gloss": "پنھنجي اوڍائن"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "رهي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:58:18.386468493Z",
+  "model": "glm-5.3"
+}

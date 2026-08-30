@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڳائڻار: آصاف جا پٽ، سَو ويهه ۽ اَٺُ.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ڳائڻار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آصاف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "۽ اَٺُ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:10.447421130Z",
+  "model": "glm-5.3"
+}

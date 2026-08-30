@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "ته بادشاه موڪليو ۽ يهودا ۽ يروشلم جي سڀني پيرن کي گڏ ڪيائين.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "موڪليو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاه"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "۽ گڏ ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀني پيرن کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پيرن"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "۽ يروشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:32:15.215671505Z",
+  "model": "glm-5.3"
+}

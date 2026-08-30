@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "نفسِ برڪت ٿلهي ٿيندي آهي، ۽ سيراب ڪندڙ به پاڻ سيراب ٿيندو آهي.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "برڪت"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ٿلهي ٿيندي آهي"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "۽ سيراب ڪندڙ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "پاڻ"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "سيراب ٿيندو آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:34.560483482Z",
+  "model": "glm-5.3"
+}

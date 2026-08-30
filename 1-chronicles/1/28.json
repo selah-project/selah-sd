@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ابراهام جا پٽ: يصحاق ۽ يشمعيل.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يصحاق"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "۽ يشمعيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:22.751291273Z",
+  "model": "glm-5.3"
+}

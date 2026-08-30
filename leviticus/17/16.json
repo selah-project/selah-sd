@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ جيڪڏهن ⟨هو⟩ ڪپڙا نه ڌوئي ۽ پننجو جسم نه اُڇلي، ته ⟨هو⟩ پننجو ڏوھ کڻندو.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ڌوئي"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "۽ پننجو جسم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "اُڇلي"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "کڻندو"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "پننجو ڏوھ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:15.600202827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 27:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "پنجون، پنجين مهيني لاءِ، سردار شمهوث يزراحي؛ ۽ سندس ڊويزن تي ويهه ۽ چار هزار هئا.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پنجون"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني لاءِ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجين"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "שמהות",
+      "gloss": "شمهوث"
+    },
+    {
+      "surface": "היזרח",
+      "gloss": "يزراحي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ ... تي"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "سندس ڊويزن"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:15.522532457Z",
+  "model": "glm-5.3"
+}

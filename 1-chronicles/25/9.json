@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 25:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ پهريون قرعه اَساف لاءِ يوسف تي نڪتو؛ ٻئي نمبر گدلياهو تي — هو ۽ سندس ڀائر ۽ پٽ ٻارهه.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نڪتو"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قرعه"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پهريون"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "اساف لاءِ"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "يوسف تي"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "گدلياهو"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻئي نمبر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "۽ سندس ڀائر"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:00.334003509Z",
+  "model": "glm-5.3"
+}

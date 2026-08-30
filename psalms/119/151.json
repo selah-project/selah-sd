@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "تون نزديڪ آھين، اي ياهوه؛ ۽ تنھنجون سڀ حڪمَ سچ آھن.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "نزديڪ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تنھنجون حڪمَ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:02.292820483Z",
+  "model": "glm-5.3"
+}

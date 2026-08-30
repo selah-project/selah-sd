@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "تنهنڪري موشي انهيءَ ڏينهن ⟨את⟩ هيءَ گيت لکيو ۽ ⟨את⟩ اسرائيل جي پٽن کي سِکيائين.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "لکيائين"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هيءَ گيت"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "هيءَ گيت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هيءَ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "انهيءَ"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "۽ سِکيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسرائيل جي پٽن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:30.203467231Z",
+  "model": "glm-5.3"
+}

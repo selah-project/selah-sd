@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "اُن ڏينهن ۾ بچڻ وارو تو وٽ ايندو، تنهنجن ڪنن کي ٻُڌائڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُن"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ايندو"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "بچڻ وارو"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تو وٽ"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "ٻُڌائڻ لاءِ"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ڪنن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:34:55.923304486Z",
+  "model": "glm-5.3"
+}

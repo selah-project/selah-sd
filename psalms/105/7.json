@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "هو ياهوه اسان جو ايلوهيم آھي؛ سندس فيصلا سڄي زمين تي آھن۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "اسان جو ايلوهيم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڄي تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "سندس فيصلا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:12.595311548Z",
+  "model": "glm-5.3"
+}

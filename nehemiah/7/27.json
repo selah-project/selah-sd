@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "عناثوت جا ماڻهو سَو ٻارهن ۽ اَٺ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "جا ماڻهو"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "عناثوت"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ٻارهن"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "۽ اَٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:52.579691201Z",
+  "model": "glm-5.3"
+}

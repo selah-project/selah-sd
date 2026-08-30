@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "انهن سڀن لفظن ۽ ان ساري نظاري موجب، ناتن داويد سان ائين ڳالھائيندو.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "سڀن موجب"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظن"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "انهن"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "۽ ساري موجب"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "نظاري"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھائيندو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:55.869864408Z",
+  "model": "glm-5.3"
+}

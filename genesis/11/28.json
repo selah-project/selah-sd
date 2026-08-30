@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ هاران پنهنجي پيءُ تارح جي اڳيان، پنهنجي ڄم جي زمين ۾، ڪلدانين جي اور ۾ مري ويو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مري ويو"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "هاران"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارح"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پنهنجي پيءُ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "پنهنجي ڄم جي"
+    },
+    {
+      "surface": "באור",
+      "gloss": "۾ اور"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ڪلدانين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:35.355743502Z",
+  "model": "glm-5.3"
+}

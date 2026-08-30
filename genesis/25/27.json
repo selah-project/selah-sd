@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 25:27",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ ٻار وڏا ٿيا؛ ۽ عيسو شڪار ڄاڻندڙ ماڻھو ٿيو، ميدان جو ماڻھو؛ ۽ يعقوب سادو ماڻھو، خيمن ۾ ويٺل.",
+  "tokens": [
+    {
+      "surface": "ויגדלו",
+      "gloss": "وڏا ٿيا"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "ٻار"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻندڙ"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "شڪار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ميدان"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "۽ يعقوب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "תם",
+      "gloss": "سادو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ويٺل"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "خيمن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:45.527138667Z",
+  "model": "glm-5.3"
+}

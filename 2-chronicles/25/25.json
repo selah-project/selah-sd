@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 25:25",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ امتسياھ بن يواش، يهودا جي بادشاھ، يواش بن يهوحاص، اسرائيل جي بادشاھ جي موت کان پوءِ پندرهن سال جيائي.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "۽ جيائي"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "امتسياھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يواش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا جي"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يواش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "يهوحاص"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-ڏھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-30T14:28:04.087528806Z",
+  "model": "glm-5.3"
+}

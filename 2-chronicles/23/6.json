@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 23:6",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ ياهوه جي گهر ۾ ڪو نه اچي، سواءِ ڪاهنن ۽ لاوي جي خادمن جي؛ اھي ئي اچن، ڇوته اھي پاڪ آھن، ۽ سڀ ماڻھو ياهوه جي حفاظت جي پابندي ڪن.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אם",
+      "gloss": "سواءِ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهنن"
+    },
+    {
+      "surface": "והמשרתים",
+      "gloss": "۽ خادمن"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "لاوي جي"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "اچن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "پابندي ڪن"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "حفاظت جي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:26:39.021617857Z",
+  "model": "glm-5.3"
+}

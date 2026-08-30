@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ داوود چڙھي ويو، گد جي لفظ موجب، جيئن ياهوه حڪم ڪيو هو.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چڙھي ويو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "لفظ موجب"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گد"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو هو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:26:22.051092711Z",
+  "model": "glm-5.3"
+}

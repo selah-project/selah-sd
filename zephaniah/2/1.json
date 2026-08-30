@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "پاڻ کي گڏ ڪريو، ها گڏ ڪريو، اي قوم جنهن جي ڪڏهن به خواهش نه ڪئي وئي!",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "پاڻ کي گڏ ڪريو"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "ها گڏ ڪريو"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "اي قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "جنهن جي خواهش نه ڪئي وئي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:50.424318840Z",
+  "model": "glm-5.3"
+}

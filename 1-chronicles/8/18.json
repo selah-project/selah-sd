@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ يشمراي، ۽ يزليا، ۽ يوباب — ايلپعل جا پٽ.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "۽ يشمراي"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "۽ يزليا"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "۽ يوباب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ايلپعل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:16.588177746Z",
+  "model": "glm-5.3"
+}

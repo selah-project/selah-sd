@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "باهه مسلسل قربانيگاهه تي ٻرندي رهندي، اُها وساماري نه ويندي.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "باهه"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "مسلسل"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ٻرندي رهندي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانيگاهه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "وساماري ويندي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:09.271998533Z",
+  "model": "glm-5.3"
+}

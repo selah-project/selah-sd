@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ⟨את⟩ عوبال ۽ ⟨את⟩ ابيمائيل ۽ ⟨את⟩ شبا کي۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "عوبال"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "عوبال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ابيمائيل"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ابيمائيل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "شبا"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شبا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:21.194817708Z",
+  "model": "glm-5.3"
+}

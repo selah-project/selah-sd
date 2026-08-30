@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "رد ٿيل چانديءَ جو نالو کين ڏنو ويو، ڇوته ياهوه انهن کي رد ڪري ڇڏيو آهي.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "رد ٿيل"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "نالو ڏنو ويو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "رد ڪري ڇڏيو آهي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انهن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:07:41.124220879Z",
+  "model": "glm-5.3"
+}

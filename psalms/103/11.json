@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 103,
+  "translation": "ڇوته جيئن آسمان ⟨the⟩ زمين کان مٿي آهن، تيئن سندس خيسيد سندس ڊَپ رکندڙن تي غالب آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "جيئن مٿي"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "על",
+      "gloss": "کان مٿي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "غالب آهي"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "سندس خيسيد"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "سندس ڊَپ رکندڙن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:08.772618888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "تيبوت ۾ ڪجهه نه هو، رڳو ٻه لوح جيڪي موشي حوريب ۾ رکيا هئا، جيڪي ياهوه بني اسرائيل سان ڪٽڻ ٿي، جڏهن اُهي متسرايم مان نڪتا.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نه هو"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "تيبوت ۾"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "لوح"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکيا هئا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "حوريب ۾"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ڪٽڻ ٿي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "جڏهن نڪتا"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "متسرايم مان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:21:22.583325971Z",
+  "model": "glm-5.3"
+}

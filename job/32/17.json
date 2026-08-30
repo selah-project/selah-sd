@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 32:17",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "آءٌ پڻ جواب ڏيندس پنهنجو حصو، آءٌ پڻ پنهنجي ڄاڻ ٻڌائيندس.",
+  "tokens": [
+    {
+      "surface": "אענה",
+      "gloss": "جواب ڏيندس"
+    },
+    {
+      "surface": "אף",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "پنهنجو حصو"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "ٻڌائيندس"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "پنهنجي ڄاڻ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:41:52.687705035Z",
+  "model": "glm-5.3"
+}

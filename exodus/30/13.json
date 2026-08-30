@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 30:13",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "هي ڏيندا سڀ، جيڪي ڳڻيلن تي لنگهن ٿا: اڌ شيقل، مقدس شيقل موجب — شيقل ويهه گيرا آهي — اڌ شيقل ياهوه لاءِ نذر.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ڏيندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "جيڪي لنگهن ٿا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "ڳڻيلن"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "اڌ"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "شيقل"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "شيقل موجب"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گيرا"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "شيقل"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "اڌ"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "شيقل"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:07:56.149672373Z",
+  "model": "glm-5.3"
+}

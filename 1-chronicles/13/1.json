@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ داوود هزارن جي سردارن ۽ سؤن جي سردارن سان، هر هڪ نگر سان، صلاح ڪئي.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "صلاح ڪئي"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "هزارن جي"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "۽ سؤن جي"
+    },
+    {
+      "surface": "لכל",
+      "gloss": "هر هڪ لاءِ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "نگر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:06.262757866Z",
+  "model": "glm-5.3"
+}

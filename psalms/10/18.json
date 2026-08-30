@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "يتيم ۽ مظلوم جي فيصلو ڪرڻ لاءِ، ته مٿاھين زمين جو انسان وري ڊيڙھ نه ڪري.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "فيصلو ڪرڻ لاءِ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "يتيم"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "۽ مظلوم"
+    },
+    {
+      "surface": "בל",
+      "gloss": "وري نه"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ڏيندو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اور"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ڊيڙھ ڪرڻ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T15:01:09.793022490Z",
+  "model": "glm-5.3"
+}

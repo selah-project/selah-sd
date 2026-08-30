@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "جو ماڻهو ڪنهن ڳالھ ٻڌڻ کان اڳ جواب ڏئي ٿو، اُن لاءِ اُهو بيوقتي ۽ شرم ٿو آهي.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "جواب ڏئي ٿو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "کان اڳ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ٻڌڻ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "بيوقتي"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُن لاءِ"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "۽ شرم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:55.192223907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "ماڻھوءَ لاءِ سِرو تھ تڻج کان پاسو ڪرڻ آھي، پر مڙئي اڄائي اُڀرن ٿا ٽڪر تي.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "سِرو"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ماڻھوءَ لاءِ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "پاسو ڪرڻ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "تڻج کان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "پر مڙئي"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "اڄائي"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "اُڀرن ٿا ٽڪر تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:45.293937809Z",
+  "model": "glm-5.3"
+}

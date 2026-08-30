@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ياهوه مون کي چيو: ⟨את⟩ موآب کي ستائڻ نه، ۽ انهن سان جنگ نه ڇيڙج، ڇوته مان توکي سندس زمين مان ورثي ۾ نه ڏيندس، ڇوته لوط جي پٽن کي ⟨את⟩ عَر ورثي ۾ ڏنو آهي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ستائڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "ڇيڙ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انهن سان"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ڏيندس"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "سندس زمين مان"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "ورثي ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن کي"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ڏنو آهي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَر"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عَر"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "ورثي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:24.061085947Z",
+  "model": "glm-5.3"
+}

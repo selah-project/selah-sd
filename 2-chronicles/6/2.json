@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ مون تو لاءِ هڪ رھڻ جو گھر ٺاهيو آھي، ۽ تو جي هميشہ وڳ۾ رھڻ لاءِ هڪ جاءِ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "۽ مون"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ٺاهيو آھي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "رھڻ جو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "۽ هڪ جاءِ"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "تو جي رھڻ لاءِ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "هميشہ وڳ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:21:11.613638851Z",
+  "model": "glm-5.3"
+}

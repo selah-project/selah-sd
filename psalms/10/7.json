@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "سندس وات لعنتن سان ڀري آهي ۽ فريب ۽ ڌوڪي سان؛ سندس زبان هيٺ ڏک ۽ گناهه پيل آهن.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "لعنتن"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "سندس وات"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀري آهي"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "۽ فريب"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "۽ ڌوڪي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "سندس زبان"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ڏک"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "۽ گناهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:17.994972953Z",
+  "model": "glm-5.3"
+}

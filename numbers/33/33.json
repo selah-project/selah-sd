@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 33:33",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ چڙهي ويا حور-هگدگد کان، ۽ منزل ڪيائون يَطبعَتاہ ۾.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "۽ چڙهي ويا"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "حور-هگدگد"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "۽ منزل ڪيائون"
+    },
+    {
+      "surface": "ביטבתה",
+      "gloss": "يَطبعَتاہ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:50.505502297Z",
+  "model": "glm-5.3"
+}

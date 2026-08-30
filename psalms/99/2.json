@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 99,
+  "translation": "ياهوه صھيون ۾ وڏو آھي، ۽ ⟨هو⟩ سڀني قومن کان مٿي آھي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صھيون ۾"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "۽ مٿي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "کان مٿي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:15.206550399Z",
+  "model": "glm-5.3"
+}

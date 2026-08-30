@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "۽ اسانجي پيءُ چيو: موڙو، اسان لاءِ ٿورو کاڌو خريد ڪريو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "اسانجي پيءُ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "موڙو"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "خريد ڪريو"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان لاءِ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ٿورو"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کاڌو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:02.061077018Z",
+  "model": "glm-5.3"
+}

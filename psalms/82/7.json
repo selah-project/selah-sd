@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 82,
+  "translation": "پر انسان وانگر مرندؤ، ۽ سردارن مان هڪ وانگر ڪِرندؤ.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "انسان وانگر"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "مرندؤ"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "۽ هڪ وانگر"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "ڪِرندؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:52.585538135Z",
+  "model": "glm-5.3"
+}

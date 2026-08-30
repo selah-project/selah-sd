@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "مَنُهُنجي آهي چاندي ۽ مَنُهُنجو آهي سَون، نَعُم ياهوه صبائوت.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "مَنُهُنجي آهي"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "۽ مَنُهُنجو آهي"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سَون"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَعُم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:32.284640511Z",
+  "model": "glm-5.3"
+}

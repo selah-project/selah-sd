@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 26:19",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ يصحق جي نوڪرن واديءَ ۾ کوڙيو، ۽ اتي زندهه پاڻيءَ جي هڪ کوھي لڌائون.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "۽ کوڙيو"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "جي نوڪرن"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يصحق"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "واديءَ ۾"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "۽ لڌائون"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "באר",
+      "gloss": "هڪ کوھي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ جي"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندهه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:15.762339118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "پوءِ ⟨ھو⟩ ان کان ڇڏي ويو؛ تنھنڪري چويس: ختن جي ڪري رت جو ڏيو.",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "پوءِ ڇڏي ويو"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ان کان"
+    },
+    {
+      "surface": "אז",
+      "gloss": "تنھنڪري"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "چويس"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ڏيو"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "رت جو"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "ختن جي ڪري"
+    }
+  ],
+  "timestamp": "2026-08-30T09:58:30.093159927Z",
+  "model": "glm-5.3"
+}

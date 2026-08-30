@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ڪنهن به بيواه ۽ يتيم کي ستائجي نه ٿيندو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ڪنهن به"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بيواه"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "۽ يتيم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ستائجو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:52.136095621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ھڪ پالڪي بادشاهه شلومو پنهنجي لاءِ لبنان جي وڻن کان ٺاهي.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "پالڪي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاهي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پنهنجي لاءِ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "وڻن کان"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لبنان جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:53.108270444Z",
+  "model": "glm-5.3"
+}

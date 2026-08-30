@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ٻئين ڏينهن نتن ايل بن صوعر، يِساڪر جو نسلدار، پيش ڪيو.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻئين"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "پيش ڪيو"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نتن ايل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "صوعر"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسلدار"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "يِساڪر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:09.738820807Z",
+  "model": "glm-5.3"
+}

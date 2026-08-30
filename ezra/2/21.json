@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "بيت لحم جا پٽ، سَوَ ٿيہ ۽ ٽي.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سَوَ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ٿيہ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "۽ ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:11.522962377Z",
+  "model": "glm-5.3"
+}

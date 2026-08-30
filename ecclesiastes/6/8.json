@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇاڪاڻ ته ڄاڻو کان موڙ کان ڇا وڌيو؟ ۽ غريب کي جيڪو جيئرن سامهون هلڻ سڃاڻي ٿو، تنھن کي ڇا (فائدا)؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "وڌيو"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ڄاڻو کان"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "موڙ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "غريب کي"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "سڃاڻي ٿو"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "هلڻ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "سامهون"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جيئرن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:49.518719170Z",
+  "model": "glm-5.3"
+}

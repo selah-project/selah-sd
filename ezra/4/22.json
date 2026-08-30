@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 4:22",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ هيءَ ڪم ڪرڻ ۾ سُستي نه ڪريو، متان نقصان وڌي بادشاههن کي زيان پهچائي.",
+  "tokens": [
+    {
+      "surface": "וזהירין",
+      "gloss": "۽ چوڻ"
+    },
+    {
+      "surface": "הוו",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "سُستي"
+    },
+    {
+      "surface": "למעבד",
+      "gloss": "ڪم ڪرڻ ۾"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "هيءَ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "متان"
+    },
+    {
+      "surface": "ישגא",
+      "gloss": "وڌي"
+    },
+    {
+      "surface": "חבלא",
+      "gloss": "نقصان"
+    },
+    {
+      "surface": "להנזקת",
+      "gloss": "زيان پهچائڻ لاءِ"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "بادشاهن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:03:29.698070544Z",
+  "model": "glm-5.3"
+}

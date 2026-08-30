@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 16:32",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ڳجھي سمنڊ ۽ سندس ڀرجائتو؛ ميدان ۽ جيڪو ان ۾ آھي، اُٽڪي خوش ٿئي.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "ڳجھي"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "ומלואו",
+      "gloss": "۽ سندس ڀرجائتو"
+    },
+    {
+      "surface": "יעלץ",
+      "gloss": "اُٽڪي خوش ٿئي"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ميدان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ جيڪو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:21.284807119Z",
+  "model": "glm-5.3"
+}

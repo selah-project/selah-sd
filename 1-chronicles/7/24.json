@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ سندس ڌيءَ شِعرہ هئي، ۽ هن ⟨את⟩ هيٺين بيت-حورون ۽ ⟨את⟩ مٿين ۽ ⟨את⟩ عُزن-شِعرہ ٺاهيا.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "سندس ڌيءَ"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "شِعرہ"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ٺاهيا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هيٺين بيت-حورون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "حورون"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "هيٺين"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مٿين"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "مٿين"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عُزن-شِعرہ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "عُزن"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "شِعرہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:35.580013885Z",
+  "model": "glm-5.3"
+}

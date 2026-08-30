@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ ذبح ڪيو ويو، ۽ موشي ⟨את⟩ رت مذبح تي چارج ڇڙي ڇڏيو، چوگرد.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ذبح ڪيو ويو"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ڇڙي ڇڏيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رت"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوگرد"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:58.399436326Z",
+  "model": "glm-5.3"
+}

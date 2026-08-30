@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ڇا تو ڄاڻين ٿو، جيڪو اسان نه ڄاڻون؟ ڇا تو سمجھين ٿو، جيڪو اسان سان ناھي؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ڄاڻين ٿو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "ڄاڻون"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "سمجھين ٿو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "اسان سان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:57.371665975Z",
+  "model": "glm-5.3"
+}

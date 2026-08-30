@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 25:19",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ زمين پنھنجو ڦل ڏيندي، ۽ توهان رجي کائو، ۽ ان تي بيخبر رھو.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "۽ ڏيندي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "پنھنجو ڦل"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "۽ کائو"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "رجي"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "۽ رھو"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بيخبر"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:55.898856060Z",
+  "model": "glm-5.3"
+}

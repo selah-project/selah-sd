@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ⟨את⟩ سوڙهي قرباني کي سندس ٽڪرن سميت وٽس پيش ڪيائون ۽ ⟨את⟩ مٿو، ۽ هن مذبح تي ساڙيو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سوڙهي قرباني"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوڙهي قرباني"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "پيش ڪيائون"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "وٽس"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "سندس ٽڪرن سميت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مٿو"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مٿو"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ساڙيائين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:48.742569747Z",
+  "model": "glm-5.3"
+}

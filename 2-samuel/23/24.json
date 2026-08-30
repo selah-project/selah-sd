@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "عساهيل، يوآب جو ڀاءُ، ٽيهن مان هو؛ الحنان پٽ دودو، بيت لحم جو.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "عساهيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "عساهيل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "جو ڀاءُ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "ٽيهن مان"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "الحنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "دودو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:57.990428653Z",
+  "model": "glm-5.3"
+}

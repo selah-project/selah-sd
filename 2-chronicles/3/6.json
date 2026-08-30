@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ⟨את⟩ خانه کي قيمتي پٿرن سان سينگاريائين سهڻائيءَ لاءِ، ۽ سون ⟨هو⟩ پَرويم جو سون هو۔",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "۽ سينگاريائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خانه"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانه"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "قيمتي"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "سهڻائيءَ لاءِ"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "۽ سون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "پَرويم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:21:08.225407813Z",
+  "model": "glm-5.3"
+}

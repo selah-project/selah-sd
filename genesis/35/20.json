@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 35:20",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ يعقوب سندس قبر تي ھڪ ستون اڀاريو؛ اھو ئي راحيل جي قبر جو ستون ⟨آھي⟩ اڄ ڏينھن تائين.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "۽ ... اڀاريو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ھڪ ستون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "سندس قبر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو ئي"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "קברת",
+      "gloss": "قبر"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل جي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اج ڏينھن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:39.581703125Z",
+  "model": "glm-5.3"
+}

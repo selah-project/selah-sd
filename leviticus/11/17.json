@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ⟨את⟩ ننڍو الو، ۽ ⟨את⟩ ڪورمورنٽ، ۽ ⟨את⟩ وڏو الو،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ننڍو الو"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ننڍو الو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ڪورمورنٽ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ڪورمورنٽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "وڏو الو"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "وڏو الو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:53.857240481Z",
+  "model": "glm-5.3"
+}

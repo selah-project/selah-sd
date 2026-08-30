@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "پر لاوي ۽ بنيامين کي هن پنھنجن ۾ ڳڻيو نه، ڇوته بادشاھ جو حڪم يوآب کي گھڻو ڌڪو لڳو.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "پر لاوي"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "۽ بنيامين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ڳڻيو"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "پنھنجن ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "گھڻو ڌڪو لڳو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ جو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:39.489954805Z",
+  "model": "glm-5.3"
+}

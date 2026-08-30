@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڇوتَهه پنهنجي دل کان ڏک نه ٿو ڏي، ۽ ماڻهوءَ جي پُٽن کي ڏکيو نه ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتَهه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ڏک ٿو ڏي"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "پنهنجي دل کان"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "۽ ڏکيو ٿو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن کي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:07:59.390130027Z",
+  "model": "glm-5.3"
+}

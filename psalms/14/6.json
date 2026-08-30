@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "توهان غريب جي صلاح کي شرمسار ڪيو، ڇوته ياهوه سندس پناهه آهي.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غريب جي"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "شرمسار ڪيو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "پناهه"
+    }
+  ],
+  "timestamp": "2026-08-30T15:01:19.801306378Z",
+  "model": "glm-5.3"
+}

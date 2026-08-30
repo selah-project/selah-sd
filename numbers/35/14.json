@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 35:14",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "توهان ⟨את⟩ ٽي شهر يردن جي پار ۾ ڏيندا، ۽ ⟨את⟩ ٽي شهر توهان ڪنعان جي زمين ۾ ڏيندا؛ پناھ جا شهر ٿيندا.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٽي شهر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "توهان ڏيندا"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "پار ۾"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "يردن جي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ٽي شهر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "توهان ڏيندا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان جي"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "پناھ جا شهر"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": ""
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ٿيندا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:30.054673092Z",
+  "model": "glm-5.3"
+}

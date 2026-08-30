@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ڪوهنن ۽ لاوين پاڪ ٿيا، ۽ پاڪ ڪيائون ⟨את⟩ قوم کي ۽ ⟨את⟩ دروازن کي ۽ ⟨את⟩ ڀت کي.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "۽ پاڪ ٿيا"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪوهنن"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "۽ لاوين"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "۽ پاڪ ڪيائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دروازن"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ڀت"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ڀت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:53.470065645Z",
+  "model": "glm-5.3"
+}

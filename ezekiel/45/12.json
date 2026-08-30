@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 45:12",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "۽ شڪل ويهه گيرا ⟨هجن⟩؛ ويهه شڪل، پنج ۽ ويهه شڪل،ڏهه ۽ پنج شڪل — توهان جي منهه ⟨هجن⟩.",
+  "tokens": [
+    {
+      "surface": "והשקל",
+      "gloss": "۽ شڪل"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "گרה",
+      "gloss": "گيرا"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شڪل"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويهه"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شڪل"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شڪل"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "منهه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨هجن⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:59:09.946355122Z",
+  "model": "glm-5.3"
+}

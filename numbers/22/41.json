@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 22:41",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ صبح ٿي ته بلق ☰ את⟩ بلعم کي کنيو ۽ کيس باموت-بعل تي چاڙهيو، ۽ اتي کان قوم جي ڇيڙ کي ڏٺائين.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "کنيو"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بلق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بلعم"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعم"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "چاڙهيو"
+    },
+    {
+      "surface": "במות",
+      "gloss": "باموت"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ڏٺائين"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اتي کان"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ڇيڙ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:45.324538744Z",
+  "model": "glm-5.3"
+}

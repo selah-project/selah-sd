@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڊپ ۽ ڪپڙو ⟨ٿي ويو⟩ اسان لاءِ، تباهي ۽ پاماري.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ڊپ"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "۽ ڪپڙو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ٿي ويو⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان لاءِ"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "تباهي"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "۽ پاماري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:56.664322197Z",
+  "model": "glm-5.3"
+}

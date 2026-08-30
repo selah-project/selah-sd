@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ته اسرائيل جي سردارن ۽ بادشاهه پاڻ کي جھڪايو، ۽ چيائون: ياهوه ⟨آهي⟩ صالح.",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "پاڻ کي جھڪايو"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "۽ بادشاهه"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "۽ چيائون"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:32.378465043Z",
+  "model": "glm-5.3"
+}

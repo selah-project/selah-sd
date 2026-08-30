@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 20:5",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ يهوشافات يهودا ۽ يروشلم جي ڀائيچاري ۾، ياهوه جي گهر ۾، نئين صحن جي اڳيان بيٺو.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "بيٺو"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافات"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "جي ڀائيچاري ۾"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "۽ يروشلم"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "جي گهر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "نئين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:58.111587082Z",
+  "model": "glm-5.3"
+}

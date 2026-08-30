@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ڇوتهه سندن سردار صوعن ۾ هئا، ۽ سندن پيغامبر حانس تائين پهتا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهه"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "صوعن ۾"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "سندن سردار"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "۽ سندن پيغامبر"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "حانس"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "پهتا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:56:21.056107899Z",
+  "model": "glm-5.3"
+}

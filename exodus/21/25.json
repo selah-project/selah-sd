@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ساڙ بدران ساڙ، زخم بدران زخم، نيَل بدران نيَل.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "ساڙ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدران"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "ساڙ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدران"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "نيَل"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدران"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "نيَل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:35:51.037118649Z",
+  "model": "glm-5.3"
+}

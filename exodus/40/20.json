@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ کڻيائين ۽ ⟨את⟩ گواهيءَ کي صندوق ۾ وڌائين، ۽ ⟨את⟩ لاڏن کي صندوق تي رکيائين، ۽ ⟨את⟩ ڪفورت کي صندوق تي مَٿان وڌائين.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "کڻيائين"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وڌائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گواهي"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواهي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "رکيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاڏ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "لاڏ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وڌائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪفورت"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ڪفورت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "مَٿان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:06.738689763Z",
+  "model": "glm-5.3"
+}

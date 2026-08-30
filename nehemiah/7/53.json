@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "بڪبوق جا پٽ، حڪوفا جا پٽ، حرحر جا پٽ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "بڪبوق"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "حڪوفا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "حرحر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:52.024193867Z",
+  "model": "glm-5.3"
+}

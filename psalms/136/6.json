@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 136,
+  "translation": "",
+  "tokens": [],
+  "timestamp": "2026-08-30T13:23:10.911391677Z",
+  "model": "glm-5.3"
+}

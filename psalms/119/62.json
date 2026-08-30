@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "اڌ رات ۾ اٿندس تو جي ثنا ڪرڻ لاءِ، تنهنجين راست فيصلن جي سبب.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "اڌ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات ۾"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "اٿندس"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "ثنا ڪرڻ لاءِ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي سبب"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "فيصلن"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "تنهنجين راست"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:03.235092874Z",
+  "model": "glm-5.3"
+}

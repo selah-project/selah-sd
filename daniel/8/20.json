@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ڏاڪو جيڪو تو سِٺ سِڱن وارو، اھي مادي ۽ فارس جا بادشاھ آھن.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "ڏاڪو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "تو سِٺ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "وارو"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "سِڱن"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادي"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "۽ فارس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:59:14.524263002Z",
+  "model": "glm-5.3"
+}

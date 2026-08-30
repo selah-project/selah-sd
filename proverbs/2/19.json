@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "جيڪي بہ وٽس اچن ٿا سي موٽن ٿا ئي نه ۽ زندگيءَ جا رستا حاصل نه ٿا ڪن،",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "جيڪي بہ"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "وٽس اچن ٿا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "موٽن ٿا ئي نه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "حاصل ٿا ڪن"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "رستا"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگيءَ جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:34.737688737Z",
+  "model": "glm-5.3"
+}

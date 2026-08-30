@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "مسافر ۽ يتيم جي فيصلي کي نه ڏنگ ڪر، ۽ بيوا جو ڪپڙو گروي نه رکج.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "ڏنگو ڪر"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فيصلي کي"
+    },
+    {
+      "surface": "גר",
+      "gloss": "مسافر"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "يتيم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "گروي رکج"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ڪپڙو"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بيوا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:53.770106718Z",
+  "model": "glm-5.3"
+}

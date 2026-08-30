@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 20:18",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "لما هن مَتان پيٽ مان نڪتس، جو محنت ۽ ڏک ڏسان، ۽ پنھنجا ڏينهن شرم ۾ پورا ٿين؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "لما"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "پيٽ مان"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "نڪتس"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "جو ڏسان"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "۽ ڏک"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "پورا ٿين"
+    },
+    {
+      "surface": "בבשת",
+      "gloss": "شرم ۾"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "پنھنجا ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:12:26.881263021Z",
+  "model": "glm-5.3"
+}

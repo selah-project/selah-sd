@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "deuteronomy 28:61",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "پڻ سڀ بيماري ۽ سٿ مار، جيڪا هن تورات جي ڪتاب ۾ لکيل ناهي، ياهوه تنهنجي مٿان چاڙهيندو، جيستائين تون ناس ٿي وڃين.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "بيماري"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "سٿ مار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "لکيل"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ڪتاب ۾"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات جي"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "چاڙهيندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تنهنجي مٿان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جيستائين"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "تنهنجي ناس ٿيڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:54.780083475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 87,
+  "translation": "ياهوه ڳڻپ ڪندو، جڏھن قومن کي لکندو، ته ھيءُ اُتي ڄاول آھي. سلاہ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ڳڻپ ڪندو"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "جڏھن لکندو"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومن کي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ھيءُ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ڄاول آھي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:52.946583170Z",
+  "model": "glm-5.3"
+}

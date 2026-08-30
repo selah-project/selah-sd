@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "jeremiah 51:41",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 51,
+  "translation": "ڪيئن پڪڙيو ويو شيشڪ، ۽ پڪڙي وئي سڄي زمين جي ساراھ! ڪيئن بابل قومن ۾ ويراني ٿي ويو!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "پڪڙيو ويو"
+    },
+    {
+      "surface": "ששך",
+      "gloss": "شيشڪ"
+    },
+    {
+      "surface": "ותתפש",
+      "gloss": "۽ پڪڙي وئي"
+    },
+    {
+      "surface": "תהלת",
+      "gloss": "ساراھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ٿي ويو"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ويراني"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:25:12.580109112Z",
+  "model": "glm-5.3"
+}

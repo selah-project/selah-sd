@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "عيلام جا پُٽ، هڪ هزار ٻه سَو چون ۽ چار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هڪ هزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سَو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "چون"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:22.101595619Z",
+  "model": "glm-5.3"
+}

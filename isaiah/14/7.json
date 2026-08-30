@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "آرام ۾ ⟨هو⟩ سڪون کي سڀ زمين؛ ⟨هو⟩ ٽٽي پيا آهن خوشيءَ جو گيت.",
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "آرام ۾"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "سڪون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ٽٽي پيا آهن"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "خوشيءَ جو گيت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:51:49.798640702Z",
+  "model": "glm-5.3"
+}

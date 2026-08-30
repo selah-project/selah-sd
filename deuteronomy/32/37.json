@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ چوندو: ڪٿي آهن سندن ايلوهيم، سندن ٽٽو جنهنجي ۾ پناهه ورتائون؟",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چوندو"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ڪٿي"
+    },
+    {
+      "surface": "אלהימום",
+      "gloss": "سندن ايلوهيم"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ٽٽو"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "پناهه ورتائون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "جنهنجي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:13.258621577Z",
+  "model": "glm-5.3"
+}

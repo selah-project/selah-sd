@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "آسمانن جي پکين ۽ سمنڊ جي مڇين، جيڪي سمنڊ جا رستا لنگهن ٿا.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "پکي"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانن جي"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "۽ مڇين"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ جي"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگهن ٿا"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "رستا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمنڊ جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:00:20.075920465Z",
+  "model": "glm-5.3"
+}

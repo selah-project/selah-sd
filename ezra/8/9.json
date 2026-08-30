@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 8:9",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "يوآب جي پٽن مان عوبديه، يخيئيل جو پٽ، ۽ سندس ساڻ ٻه سؤ ۽ ارڙهن نر.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "جي پٽن مان"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "عوبديه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "يخيئيل"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "۽ سندس ساڻ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سؤ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "۽ ارڙهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "<پوري انگ>"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "نر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:35.651913511Z",
+  "model": "glm-5.3"
+}

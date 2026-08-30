@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ اضحاق جا ڏينهن سؤ ورهيه ۽ اسي ورهيه ٿيا.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "اضحاق"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورهيه"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "۽ اسي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورهيه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:52.345958567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "ڪتن جي ڪنن کي پڪڙيندڙ وانگر ⟨آهي⟩ اھو، جيڪو لنگھي ٿو ۽ پنھنجي نه سان وڙھڻ ۾ کاڌو وڃي ٿو.",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "پڪڙيندڙ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "جي ڪنن کي"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ڪتن جي"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگھي ٿو"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "کاڌو وڃي ٿو (غصي ۾)"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "وڙھڻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پنھنجي نه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:00.562965756Z",
+  "model": "glm-5.3"
+}

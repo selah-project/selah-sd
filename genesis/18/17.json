@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ياهوه چيو، ڇا مان ابراهام کان لڪائي سگهان ٿو اهو جيڪو مان ڪري رهيو آهيان؟",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "۽ ياهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ڇا لڪايان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "ابراهام کان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اهو جيڪو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪري رهيو آهيان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:31.772603627Z",
+  "model": "glm-5.3"
+}

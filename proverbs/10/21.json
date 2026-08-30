@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "چٽڻيءَ جون لپون گھڻن کي چارائين ٿيون، ۽ اَٻوجهھ دل جي کوٽ ۾ مرن ٿا.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "لپون"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "چٽڻيءَ جون"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "چارائين ٿيون"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گھڻن کي"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "۽ اَٻوجهھ"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "کوٽ ۾"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل جي"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "مرن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:36.636247709Z",
+  "model": "glm-5.3"
+}

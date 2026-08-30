@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ياهوه شريرن جي ڏنڊي ٽوڙي آهي، حاڪمن جي حاڪميت جو عصا.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ٽوڙي آهي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ڏنڊي"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شريرن جي"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "حاڪمن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:51:56.018847869Z",
+  "model": "glm-5.3"
+}

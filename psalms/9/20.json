@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "اُٿ ياهوه؛ نه ڏڍ ٿيندو انسان؛ قومون تنهنجي اڳيان فيصلو ڪيون وڃن.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٿ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "ڏڍ ٿيندو"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "فيصلو ڪيون وڃن"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "על",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تنهنجي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:00:48.805848898Z",
+  "model": "glm-5.3"
+}

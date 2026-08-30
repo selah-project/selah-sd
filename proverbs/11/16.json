@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "مهر واري عورت عزت تي قابو رهندي آهي، ۽ ظالم ڌن مال تي قابو رهنندا آهن.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مهر واري"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "قابو رهندي آهي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "عزت تي"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "۽ ظالم"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "قابو رهنندا آهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "مال تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:13.445638046Z",
+  "model": "glm-5.3"
+}

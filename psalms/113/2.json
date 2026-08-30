@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 113,
+  "translation": "ياهوه جو نالو ⟨مبارڪ⟩ رھي، ھاڻي کان وٺي ايذان تائين.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "رھي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "⟨مبارڪ⟩"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ھاڻي کان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وٺي ايذان تائين"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ايذان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:27.564647637Z",
+  "model": "glm-5.3"
+}

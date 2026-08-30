@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ⟨את⟩ زمين ڏسو ته اها ڇا آهي، ۽ ⟨את⟩ ان جي رهندڙ قوم — ڇا هو سگهارا آهن، ڇا ڪمزور؛ ڇا هو ٿورا آهن يا گهڻا.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "۽ ڏسندؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اها آهي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "رهندڙ قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "رهندڙ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "سگهارا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو آهن"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "ڪمزور"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "ٿورا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو آهن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "يا"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گهڻا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:38:57.878278788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 69,
+  "translation": "منصي (موسيقيءَ جي اڳواڻ) کي، شوشنيم تي، داوود جو.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "منصي (موسيقيءَ جي اڳواڻ) کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "شوشنيم"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:42.290496955Z",
+  "model": "glm-5.3"
+}

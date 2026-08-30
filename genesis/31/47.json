@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ لابان ان کي ”يگر سَهَدُوتا“ سڏيو ۽ يعقوب ان کي ”گلعاد“ سڏيو.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ سڏيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "يگر"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "سَهَدُوتا"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "۽ يعقوب"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:05.998691921Z",
+  "model": "glm-5.3"
+}

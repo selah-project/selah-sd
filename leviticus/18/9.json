@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "تنهنجي ڀيڻ جي ننگ ۽ عيبت نه کولجين — پيءُ جي ڌيءِ يا ماءُ جي ڌيءِ، گهر ۾ ڄاول يا ٻاهر ڄاول — سندن ننگ نه کولجين.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ننگ ۽ عيبت"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "تنهنجي ڀيڻ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءِ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تنهنجي پيءُ جي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءِ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "تنهنجي ماءُ جي"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "ڄاول"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "מולدת",
+      "gloss": "ڄاول"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کولجين"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "سندن ننگ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:29.824311135Z",
+  "model": "glm-5.3"
+}

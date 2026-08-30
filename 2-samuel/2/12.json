@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 2:12",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ اَبنير بن نير ۽ شاول جي پٽ ايش بوشث جي خدمتگارن مَحنايم کان گبعون ڏانھن نڪتا.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نڪتا"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَبنير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נר",
+      "gloss": "نير"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "۽ خدمتگارن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ايش"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "بوشث"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول جي"
+    },
+    {
+      "surface": "ממחנים",
+      "gloss": "مَحنايم کان"
+    },
+    {
+      "surface": "גבעונה",
+      "gloss": "گبعون ڏانھن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:47:51.330085069Z",
+  "model": "glm-5.3"
+}

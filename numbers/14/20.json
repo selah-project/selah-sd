@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ياهوه چيو، مان معاف ڪيو آهي، تنهنجي لفظ موجب.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "مان معاف ڪيو"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "تنهنجي لفظ موجب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:05.551071067Z",
+  "model": "glm-5.3"
+}

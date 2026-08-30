@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ عيسو يعقوب کي چيو: «مون کي پلايو،ھن ڳاڙهي ڳاڙهي رڌي مان، ڇوته مان ٿڪل آهيان.» تنهنڪري سندس نالو ادوم سڏيو ويو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "مون کي پلايو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "من"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ڳاڙهي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ڳاڙهي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ٿڪل"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مان"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنهن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالو"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:12.315021973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ايلوهيم جو جلال ڳجھي ڳالھ آھي، ۽ بادشاھن جو جلال ڳالھ ڳولڻ.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "ڳجھي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "۽ جلال"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاھن"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ڳولڻ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:34.625641616Z",
+  "model": "glm-5.3"
+}

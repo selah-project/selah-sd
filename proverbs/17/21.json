@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "جيڪو مردار پيدا ڪري ٿو سو پنهنجي غم لاءِ، ۽ ناسم عقل جو پيءُ خوش نه ٿيندو.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "پيدا ڪري ٿو"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "مردار"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "غم لاءِ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پنهنجي لاءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ٿيندو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ناسم عقل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:17.183965340Z",
+  "model": "glm-5.3"
+}

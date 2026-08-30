@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "پاڪ دل وارو — سندس لئن جي مٺائي سان — بادشاھ سندس دوست آهي.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "پيار ڪندڙ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مٺائي"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "سندس لئن جي"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "سندس دوست"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:14.782479048Z",
+  "model": "glm-5.3"
+}

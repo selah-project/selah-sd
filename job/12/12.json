@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 12:12",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "پيرن ۾ حڪمت آھي ۽ ڊگهن ڏينهن ۾ سمجھ.",
+  "tokens": [
+    {
+      "surface": "בישישים",
+      "gloss": "پيرن ۾"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "۽ ڊگهن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:36:31.737273873Z",
+  "model": "glm-5.3"
+}

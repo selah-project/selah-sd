@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "پھچندو پنھنجن پيئرن جي پيڙهيءَ ۾؛ هميشه لاءِ روشني نه ڏسندا.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "پھچندو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "۾ (تائين)"
+    },
+    {
+      "surface": "דור",
+      "gloss": "پيڙهيءَ"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "پنھنجن پيئرن جي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "هميشه لاءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ڏسندا"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشني"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:09.811804849Z",
+  "model": "glm-5.3"
+}

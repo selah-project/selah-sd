@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ اسرائيل يوسف جي پٽن کي ⟨את⟩ ڏٺو ۽ چيو تہ اھي ڪير آھن؟",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏٺو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوسف جي پٽن کي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف جي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:50.394042724Z",
+  "model": "glm-5.3"
+}

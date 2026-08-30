@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "۽ ⟨את⟩ مون کي نه سڏيو آهي، يعقوب، ڇو ته مَن کان ٿڪجي وئو آهين، اسرائيل.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مون"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ٿڪجي وئو آهين"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مَن کان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T11:59:47.070820081Z",
+  "model": "glm-5.3"
+}

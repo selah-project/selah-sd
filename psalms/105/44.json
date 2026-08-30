@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "۽ هن کين ڏنا قومن جون زمينون، ۽ ماڻهن جي محنت جو ورثو ورتائون.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ڏنا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "زمينون"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن جون"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "۽ محنت"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ماڻهن جي"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ورتائون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:24.310051626Z",
+  "model": "glm-5.3"
+}

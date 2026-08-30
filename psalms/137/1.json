@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 137,
+  "translation": "بابل جي نهرن جي ڪناري، اُتي ويٺوسين، ۽ روئيوسين، جڏهن اسان ⟨את⟩ صهيون ياد ڪيو.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ڪناري"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "نهرن جي"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "ويٺوسين"
+    },
+    {
+      "surface": "גם",
+      "gloss": "۽"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "روئيوسين"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "ياد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صهيون"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:51.952173008Z",
+  "model": "glm-5.3"
+}

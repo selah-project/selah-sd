@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "نه ٻڌايو، اهي ٻڌائين ٿا؛ انهن کي نه ٻڌائينديون؛ شرم نه رهڪندي۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "ٻڌايو (پيشگوئي)"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "اهي ٻڌائين ٿا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יטטפו",
+      "gloss": "ٻڌائينديون"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "رهڪندي"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "شرم"
+    }
+  ],
+  "timestamp": "2026-08-30T12:51:01.854431346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ تو ⟨את⟩ حوض ۽ ⟨את⟩ سندس ٻُڌ کي مسح ڪندين ۽ ⟨את⟩ ان کي پاڪ ڪندين.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "۽ مسح ڪندين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حوض"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "حوض"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سندس ٻُڌ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "سندس ٻُڌ"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "۽ پاڪ ڪندين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ان کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:35.109694559Z",
+  "model": "glm-5.3"
+}

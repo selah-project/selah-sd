@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 3:17",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ اھي لوي جا پُٽ ھئا پنھنجن نالن سان: گيرشون، قہات ۽ مراري.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ھئا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوي"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "پنھنجن نالن سان"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "غيرشون"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "قمھات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "مراري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:16.600728071Z",
+  "model": "glm-5.3"
+}

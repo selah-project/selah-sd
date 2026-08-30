@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 148,
+  "translation": "جبل ۽ سڀ ٽڪريون، ميويدار وڻ ۽ سڀ اُنار؛",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ٽڪريون"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ميويدار"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "اُنار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:21.416595070Z",
+  "model": "glm-5.3"
+}

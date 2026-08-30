@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ اهو ئي هن سان ٿيو، ۽ ماڻهن ⟨את⟩ کيس دروازي ۾ لتاڙيو ۽ هو مري ويو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن سان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اهو ئي"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "لتاڙيوس"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هو (سليش)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازي ۾"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مري ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:40:56.088780097Z",
+  "model": "glm-5.3"
+}

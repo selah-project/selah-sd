@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "مدمینه ڀڄي وئي آهي؛ گبيم جي رهاڪن پناہ ورتي آهي.",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "ڀڄي وئي آهي"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "مدمینه"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رهاڪن"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "گبيم"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "پناہ ورتي آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:34.350857781Z",
+  "model": "glm-5.3"
+}

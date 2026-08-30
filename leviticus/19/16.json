@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "پنهنجي قوم ۾ چوڪيدار چرجھڻ وارو نه هليين؛ پنهنجي پاڙيسري جي رت تي بيٺل نه رهين، آهي ياهوه.",
+  "tokens": [
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "هليين"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "چوڪيدار چرجھڻ وارو"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "پنهنجي قوم ۾"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "بيٺل رهين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "پنهنجي پاڙيسري جي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:01.062250719Z",
+  "model": "glm-5.3"
+}

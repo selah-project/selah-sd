@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ⟨את⟩ سڀ ڪُوءِ پنهنجي جنس موجب،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ ڪُوءِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ڪُوءِ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "پنهنجي جنس موجب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:41.445872680Z",
+  "model": "glm-5.3"
+}

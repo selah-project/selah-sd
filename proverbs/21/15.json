@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "انصاف ڪرڻ صالح کي خوشي ٿي، پر برائي ڪندڙن لاءِ تباھي آھي.",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "خوشي"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "صالح کي"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ڪرڻ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "پر تباھي"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "لاءِ ڪندڙن"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:15.317741385Z",
+  "model": "glm-5.3"
+}

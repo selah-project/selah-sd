@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ياهوه جي رُوح مون ۾ ٻوليو، ۽ سندس لفظ مون جي زبان تي آھي.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "رُوح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٻوليو"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون ۾"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "۽ سندس لفظ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "مون جي زبان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:49:21.624758470Z",
+  "model": "glm-5.3"
+}

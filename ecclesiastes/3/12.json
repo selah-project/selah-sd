@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مان ٿو ڄاڻان ته انهن ۾ ڪو به ڀلو ڪونهي، سواءِ خوش ٿيڻ جي ۽ پنهنجي زندگيءَ ۾ ڀلائي ڪرڻ جي.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "مان ٿو ڄاڻان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ڪونهي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڪو به ڀلو"
+    },
+    {
+      "surface": "בם",
+      "gloss": "انهن ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سواءِ"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "خوش ٿيڻ جي"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "۽ ڪرڻ جي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلائي"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "پنهنجي زندگيءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:13.047833481Z",
+  "model": "glm-5.3"
+}

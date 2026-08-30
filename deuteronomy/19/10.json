@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ته بيگناھ رت تنھن زمين جي وچ ۾ نه اوڙجي جا ياهوه توھان جو ايلوهيم توکي وراثت طور ڏئي ٿو، ۽ رت تنھن تي ⟨رهي⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "اوڙجي"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بيگناھ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "تنھن زمين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "توھان جو ايلوهيم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏئي ٿو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "وراثت"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تنھن تي"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "رت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:35.518080753Z",
+  "model": "glm-5.3"
+}

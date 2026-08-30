@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇا يسرائيل ⟨هو⟩ غلام آهي؟ ڇا گهر ۾ ڄاول آهي؟ پوءِ ڇو هو لُٽ جو مَنڍ ٿي ويو؟",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "ڇا غلام"
+    },
+    {
+      "surface": "يשראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "ڄاول"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "پوءِ ڇو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿي ويو"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "لُٽ جو مَنڍ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:06:21.063248288Z",
+  "model": "glm-5.3"
+}

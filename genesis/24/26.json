@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ ان ماڻهوءَ سالم ڪيو ۽ ياهوه اڳيان سِر جهڪايو.",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "۽ سالم ڪيو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ان ماڻهوءَ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "۽ سِر جهڪايو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه اڳيان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:48.553203569Z",
+  "model": "glm-5.3"
+}

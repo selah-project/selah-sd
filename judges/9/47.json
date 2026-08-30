@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "judges 9:47",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ابيملخ کي ٻڌايو ويو ته مِگدلِ شڪيم جا سڀ مالڪ گڏ ٿيا آهن.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ٻڌايو ويو"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "ابيملخ کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "گڏ ٿيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "مالڪ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "مِگدلِ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شڪيم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:43:41.989484820Z",
+  "model": "glm-5.3"
+}

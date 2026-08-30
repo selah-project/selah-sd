@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ اُها ڪاهن مذبح تي ساڙيندو؛ ياهوه لاءِ باهه جي قرباني جو کاڌو ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "ساڙيندو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "مذبح تي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "کاڌو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "باهه جي قرباني"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:57.039215514Z",
+  "model": "glm-5.3"
+}

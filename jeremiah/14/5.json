@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ڇو ته ميدان ۾ هٿيءَ به ٻچو ڏنو ۽ ڪڍي ڇڏيائين، ڇو ته گاهه نه هو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "هٿيءَ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ميدان ۾"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ٻچو ڏنو"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "۽ ڪڍي ڇڏيائين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "گاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:11:19.949053092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پڻ سڀ لفظن تي، جيڪي چيا ويا آهن، پنھنجي دل نه ڏي، متان ته تو ⟨את⟩ تنهنجي ٻانھي کي تنهنجي لعنت ڪندي ٻُڌين.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "چيا ويا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "متان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ٻُڌين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تنهنجي ٻانھي"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تنهنجي ٻانھي"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "تنهنجي لعنت ڪندي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:34.124876541Z",
+  "model": "glm-5.3"
+}

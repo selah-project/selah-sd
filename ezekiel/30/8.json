@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 30:8",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ ⟨هو شندا ته⟩ آءٌ ياهوه آھيان، جڏھن آءٌ مصر ۾ باهه وجهندس، ۽ سندس سڀ مددگار ڀڳل پوندا.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "۽ سڃاڻندا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "جڏھن وجهندس"
+    },
+    {
+      "surface": "אש",
+      "gloss": "باهه"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مصر ۾"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "۽ ڀڳل پوندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "سندس مددگار"
+    }
+  ],
+  "timestamp": "2026-08-30T12:36:59.702699652Z",
+  "model": "glm-5.3"
+}

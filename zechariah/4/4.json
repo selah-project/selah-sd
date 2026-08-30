@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ م جواب ڏنو ۽ م چيو ان ملاڪ کي جيڪو مون سان ڳالهائي ٿو، چوڻ لاءِ: هي ڇا ⟨آهن⟩، منهنجا ادوناي؟",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "۽ م جواب ڏنو"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ م چيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ان ملاڪ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالهائيندڙ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "منهنجا ادوناي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:24.744680025Z",
+  "model": "glm-5.3"
+}

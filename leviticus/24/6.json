@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ تون انهن کي ٻن قطارن ۾ رکندڙ، هر قطار ۾ ڇهه، پاڪ ميز تي ياهوه جي اڳيان.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "۽ تون رکندڙ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ انهن کي",
+      "marks": "انهن (روٽون)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "مערכות",
+      "gloss": "قطارن"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇهه"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "⟨the⟩ قطار"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "⟨the⟩ ميز"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:23.032020932Z",
+  "model": "glm-5.3"
+}

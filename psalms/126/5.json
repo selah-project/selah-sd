@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 126,
+  "translation": "جيڪي آنسون سان ٻج پوکين ٿا، سي ڍڪار سان لڻيندا.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "ٻج پوکيندڙ"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "آنسن سان"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ڍڪار سان"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "لڻيندا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:32.463205023Z",
+  "model": "glm-5.3"
+}

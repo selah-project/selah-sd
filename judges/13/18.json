@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 13:18",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ياهوه جو فرشتو هن کي چيو: ڇو هي پڇين ٿو منهن جي نالي بابت، ۽ ⟨هو⟩ عجيب ⟨آهي⟩؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن کي"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "پڇين ٿو"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "منهن جي نالي بابت"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ ⟨هو⟩"
+    },
+    {
+      "surface": "פלאי",
+      "gloss": "عجيب"
+    }
+  ],
+  "timestamp": "2026-08-30T11:02:03.563627190Z",
+  "model": "glm-5.3"
+}

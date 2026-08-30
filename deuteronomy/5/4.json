@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "منهن سان منهن ياهوه توهان سان جبل تي باهه جي وچ مان ڳالهايو.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "سان منهن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالهايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "توهان سان"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل تي"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "وچ مان"
+    },
+    {
+      "surface": "האש",
+      "gloss": "باهه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:42.676879929Z",
+  "model": "glm-5.3"
+}

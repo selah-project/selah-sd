@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ⟨את⟩ شهر جي ٻني ۽ ⟨את⟩ ان جا ڳوٺ ڏنائون ڪالب پٽ يفني کي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ٻني"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ٻني"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر جي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ڳوٺ"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "ان جا ڳوٺ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ڏنائون"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ڪالب کي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يفني"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:08.688307637Z",
+  "model": "glm-5.3"
+}

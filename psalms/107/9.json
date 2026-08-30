@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "ڇوته اِهو پياسو نفس سير ڪري ٿو، ۽ بکيو نفس چڱائيءَ سان ڀري ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "سير ڪري ٿو"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "پياسو"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "۽ نفس"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "بکيو"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀري ٿو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱائيءَ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:31.564607184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "هجن اُهي ڀوسا جهڙا هوا اڳيان، ۽ ياهوه جو فرشتو کين ڌڪي ڀڳي.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "هجن"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ڀوسا جهڙا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "هوا"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "۽ فرشتو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "ڌڪي ڀڳي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:39.878773791Z",
+  "model": "glm-5.3"
+}

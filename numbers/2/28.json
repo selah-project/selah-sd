@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ سندس لشڪر ۽ سندن ڳڻپ ھڪڙو ۽ چاليھ ھزار ۽ پنج سؤ آھن.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "۽ سندس لشڪر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "۽ سندن ڳڻپ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪڙو"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "۽ چاليھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:06.154749765Z",
+  "model": "glm-5.3"
+}

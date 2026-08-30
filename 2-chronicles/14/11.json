@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "پوءِ ياهوه ⟨את⟩ ڪوشين کي آسا ۽ يهوده جي اڳيان ماريو؛ ۽ ڪوشي ڀڄي ويا.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "پوءِ ماريو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪوشين"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "ڪوشين"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "۽ جي اڳيان"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوده"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "۽ ڀڄي ويا"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "ڪوشي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:59.589300903Z",
+  "model": "glm-5.3"
+}

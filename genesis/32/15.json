@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "ٽڪريون ٻه سَو، ۽ ٻڪرڻ ٽيھ، ماديون ٻه سَو، ۽ رَڄ ٽيھ.",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "ٽڪريون"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سَو"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "۽ ٻڪرڻ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ٽيھ"
+    },
+    {
+      "surface": "רחلים",
+      "gloss": "ماديون"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سَو"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "۽ رَڄ"
+    },
+    {
+      "surface": "עשרين",
+      "gloss": "ٽيھ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:15.309691321Z",
+  "model": "glm-5.3"
+}

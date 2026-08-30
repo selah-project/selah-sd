@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 1:12",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ روubenين ۽ گادين ۽ منشه قبيلي جي اڌ ڪچي کي يهوشوع چيو،",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "۽ روubenين"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "۽ گادين"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "۽ ... جي اڌ ڪچي کي"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "قبيلي"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:42:10.495266987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڏسو، ڦُپڙيل — سندس نَفَس ان ۾ سڌو نه آهي؛ پر راستباز پنهنجي ايمان سان جيئندو.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "ڦُپڙيل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "سڌو"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "سندس نَفَس"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "۽ راستباز"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "پنهنجي ايمان سان"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جيئندو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:00.176546822Z",
+  "model": "glm-5.3"
+}

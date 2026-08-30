@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "ڇوته ڪن لفظن کي پرکي ٿو، ۽ تالو کائڻ لاءِ ذائقو چڪي ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ڪن"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "لفظن کي"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "پرکي ٿو"
+    },
+    {
+      "surface": "وחך",
+      "gloss": "۽ تالو"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "ذائقو چڪي ٿو"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "کائڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:43:02.746718726Z",
+  "model": "glm-5.3"
+}

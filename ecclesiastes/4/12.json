@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ جيڪڏهن هڪ تي غالب ٿي سگهي، ته ٻه سندس اڳيان بيهندا؛ ۽ ٽن ڏانڍين جي ڏوري جلدي نه ٽٽندي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏهن"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "غالب ٿي سگهي"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪ تي"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ته ٻه"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "بيهندا"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "سندس اڳيان"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "۽ ڏوري"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "ٽن ڏانڍين جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "جلدي"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "ٽٽندي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:13.156403402Z",
+  "model": "glm-5.3"
+}

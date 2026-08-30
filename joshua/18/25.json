@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "گبون ۽ رامه ۽ بيروت،",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "گبون"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "۽ رامه"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "۽ بيروت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:13.167084933Z",
+  "model": "glm-5.3"
+}

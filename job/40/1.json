@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ ياهوه ⟨את⟩ ايوب جو جواب ڏنو ۽ چيو.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "۽ جواب ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ايوب"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ايوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:49.773617403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 29:26",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ پنجين ڏينهن نو ڏاند، ٻه رَمَ، چوڏهن هڪ سال جا ٻڪريون جيڪي بلا عيب هجن.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "۽ ڏينهن"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجين"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نو"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "رَمَ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ٻڪريون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "هڪ سال جا"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ـ10"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بلا عيب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:46.506758703Z",
+  "model": "glm-5.3"
+}

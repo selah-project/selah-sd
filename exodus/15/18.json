@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ياهوه بادشاهي ڪندو ⟨هميشہ⟩ ۽ هميشہ لاءِ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "بادشاهي ڪندو"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "هميشہ لاءِ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ هميشہ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:55.818274185Z",
+  "model": "glm-5.3"
+}

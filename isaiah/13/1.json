@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "بابل جو بار، جيڪو يشعياهو، اموتز جي پٽ، چڪاريو.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "چڪاريو"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "يشعياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "اموتز"
+    }
+  ],
+  "timestamp": "2026-08-30T11:51:10.118458826Z",
+  "model": "glm-5.3"
+}

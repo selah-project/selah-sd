@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ نه رڳو ⟨את⟩ ⟨توهان⟩ سان مان هي عهد ⟨את⟩ ۽ هي لعنت-قسم ⟨את⟩ ڪٽيان ٿو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨توهان⟩ سان"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مان"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ڪٽيان ٿو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي عهد"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "هي عهد"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "هي لعنت-قسم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هي لعنت-قسم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:08.461995316Z",
+  "model": "glm-5.3"
+}

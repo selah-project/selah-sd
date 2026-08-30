@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ڏسو، آءٌ اوهان جي اڳيان اڄ برکت ۽ لعنت رکان ٿو.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکان ٿو"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "اوهان جي اڳيان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اڄ"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "۽ لعنت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:41.716034968Z",
+  "model": "glm-5.3"
+}

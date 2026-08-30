@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ روبينين ۽ گادين کي مون گلعادکان نهر ارنون تائين ڏنو، وچ ۾ نهر ۽ سرحد، ۽ نهر يبق تائين، جو بني عمران جي سرحد آهي.",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "۽ روبينين کي"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "۽ گادين کي"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "مون ڏنو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ تائين"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ارنون"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "۽ سرحد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ تائين"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "يبق"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمران"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:05.198478267Z",
+  "model": "glm-5.3"
+}

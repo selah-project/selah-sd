@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "پوءِ هاتخ نڪري موردخائي وٽ ويو، شهر جي چوڪ تي جيڪا بادشاهه جي دروازي جي اڳيان هئي.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نڪري ويو"
+    },
+    {
+      "surface": "התך",
+      "gloss": "هاتخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "موردخائي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "چوڪ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:55:08.244479762Z",
+  "model": "glm-5.3"
+}

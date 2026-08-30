@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "پوءِ رحبعم شڪم ڏانهن ويو، ڇو ته شڪم ۾ سڄو اسرائيل اچي چڪو هو ته ⟨את⟩ کيس بادشاهه بڻائين.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "پوءِ ويو"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعم"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "شڪم ڏانهن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شڪم"
+    },
+    {
+      "surface": "באו",
+      "gloss": "اچي چڪا هئا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "بادشاهه بڻائين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "کيس"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:24.091132487Z",
+  "model": "glm-5.3"
+}

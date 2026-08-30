@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 21:10",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "\"وڃ ۽ داويد سان ڳالھ، چوڻ ته ائنين چوي ٿو ياهوه: ٽي (ڀيرا) آءٌ تو تي آڇيان ٿو؛ پاڻ لاءِ انهن مان ھڪ چونڊ، ۽ آءٌ تو لاءِ ڪنديس.\"",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "۽ ڳالھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائنين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "آڇيان ٿو"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تو تي"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چونڊ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "انهن مان"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "۽ ڪنديس"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:24.483007338Z",
+  "model": "glm-5.3"
+}

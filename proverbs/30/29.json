@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 30:29",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ٽي آهن جيڪي چال سُٺي رکن ٿا، ۽ چار جيڪي هلڻ ۾ سُٺا آهن،",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "מיטיבי",
+      "gloss": "سُٺي رکن ٿا"
+    },
+    {
+      "surface": "צעד",
+      "gloss": "چال"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "מיטבי",
+      "gloss": "سُٺا"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "هلڻ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:04.919308543Z",
+  "model": "glm-5.3"
+}

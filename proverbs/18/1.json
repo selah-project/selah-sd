@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 18:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "تمنا لاءِ الڳ ٿيل ⟨هو⟩ ڳولي ٿو، ۽ ساري ٺوس سمجهه تي اُڪڙي ٿو.",
+  "tokens": [
+    {
+      "surface": "לתאוה",
+      "gloss": "تمنا لاءِ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ڳولي ٿو"
+    },
+    {
+      "surface": "נפרד",
+      "gloss": "الڳ ٿيل"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "ٺوس سمجهه"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "اُڪڙي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:42.117534343Z",
+  "model": "glm-5.3"
+}

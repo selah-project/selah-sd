@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 116,
+  "translation": "ياهوه جي گهر جي اڱڻن ۾، تنهنجي وچ ۾، اي يروشلم! ياه جي ساراھ ڪريو.",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "اڱڻن ۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "تنهنجي وچ ۾"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ساراھ ڪريو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:36.445637663Z",
+  "model": "glm-5.3"
+}

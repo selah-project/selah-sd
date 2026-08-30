@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ آءٌ پنهنجي سک ۾ چوان ٿو: «آءٌ هرگز نه ٽڙندس، هميشه لاءِ.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "۽ آءٌ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "چوان ٿو"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "پنهنجي سک ۾"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هرگز نه"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ٽڙندس"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:46.152260999Z",
+  "model": "glm-5.3"
+}

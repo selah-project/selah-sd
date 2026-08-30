@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "پڻ مون سان ياهوه شرميلو ٿيو توهان جي ڪري، چوڻ ته: پڻ تون اُتي نه ايندين.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "شرميلو ٿيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "توهان جي ڪري"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پڻ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ايندين"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:12.658335514Z",
+  "model": "glm-5.3"
+}

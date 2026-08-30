@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 32:27",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "هور نه ته دشمن جي ڪاوڙ جو مون کي خيال هو، متان سندن دشمن سڃاڻن، ۽ متان چون: اسان جو هٿ بلند ٿيو، ۽ ياهوه ئي هي سڀ نه ڪيو.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "هور نه ته"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ڪاوڙ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "خيال هو"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "ינכרו",
+      "gloss": "سڃاڻن"
+    },
+    {
+      "surface": "צרימו",
+      "gloss": "سندن دشمن"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "چون"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "اسان جو هٿ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "بلند ٿيو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:09.571414031Z",
+  "model": "glm-5.3"
+}

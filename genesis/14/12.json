@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ کين ⟨את⟩ لوط ۽ ⟨את⟩ سندس مال کي به وٺي ويا — ابرام جي ڀاءُ جو پٽ، جيڪو سدوم ۾ رهندو هو.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "وٺي ويا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوط"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سندس مال"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "سندس مال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ڀاءُ جو"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ويو ويا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ اهو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "رهندو هو"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "سدوم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:52.947977474Z",
+  "model": "glm-5.3"
+}

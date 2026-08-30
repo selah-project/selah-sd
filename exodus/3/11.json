@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ موشي ايلوهيم سان چيو: مان ڇا آهيان جو مان فرعون وٽ وڃان ۽ ⟨את⟩ يسرائيل جي پٽن کي متسرايم مان ڪڍيان؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڇا\/ڪير"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "وڃان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "۽ جو"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "ڪڍيان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرائيل جي پٽن کي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "متسرايم مان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:58:29.974232986Z",
+  "model": "glm-5.3"
+}

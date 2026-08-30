@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "عيزر ⟨هو⟩ سردار، عُبَدْياهو ٻيو، اِلياب ٽيون.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "عيزر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "عُبَدْياهو"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "اِلياب"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ٽيون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:08.227656030Z",
+  "model": "glm-5.3"
+}

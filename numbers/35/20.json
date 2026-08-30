@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 35:20",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ جيڪڏھن نفرت سان کيس ڌڪي يا ڦٽائي ڇڏييس، چوري چوري، ۽ هو مري وڃي،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "نفرت سان"
+    },
+    {
+      "surface": "יהדפנו",
+      "gloss": "کيس ڌڪي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "ڦٽائي ڇڏييس"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "בצדיה",
+      "gloss": "چوري چوري"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري وڃي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:34.840132651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "پنهنجي وات جي ميوائي مان ماڻهو ڀلائي کائي ٿو، پر غدارن جي نپش زور زاليت آهي.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "جي ميوائي مان"
+    },
+    {
+      "surface": "פי",
+      "gloss": "پنهنجي وات"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائي ٿو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلائي"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "پر نپش"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "غدارن جي"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زور زاليت آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:57.107429714Z",
+  "model": "glm-5.3"
+}

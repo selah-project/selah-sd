@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "فيصلي ۾، ماپ ۾، وزن ۾ ۽ سُراع ۾ بي انصافي نه ڪريو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ڪريو"
+    },
+    {
+      "surface": "עול",
+      "gloss": "بي انصافي"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "فيصلي ۾"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ماپ ۾"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "وزن ۾"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "۽ سُراع ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:07.613096538Z",
+  "model": "glm-5.3"
+}

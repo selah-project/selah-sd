@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ڏي، منهنجا پٽ، تنهجو دل مون کي، ۽ تنهجون اکيون منهنجن رستن کي پسند ڪن.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "منهنجا پٽ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تنهجو دل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "۽ تنهجون اکيون"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "منهجن رستن کي"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "پسند ڪن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:01.636868021Z",
+  "model": "glm-5.3"
+}

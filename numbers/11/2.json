@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ماڻهن موشي ڏانهن واڪ ڪيو، ۽ موشي ياهوه اڳ دعا ڪئي، ۽ ⟨اها⟩ باهه دٻي وئي.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "۽ واڪ ڪيو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "۽ دعا ڪئي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اڳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "۽ دٻي وئي"
+    },
+    {
+      "surface": "האש",
+      "gloss": "باهه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:41.865608477Z",
+  "model": "glm-5.3"
+}

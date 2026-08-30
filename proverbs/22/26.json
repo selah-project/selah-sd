@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "کانس سوڙهين هٿڙين ۾ نه هجانءِ، قرضن جي ضمانتن ۾ نه هجانءِ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "هجانءِ"
+    },
+    {
+      "surface": "בתקעי",
+      "gloss": "هٿڙين ۾"
+    },
+    {
+      "surface": "כף",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "ضمانتن ۾"
+    },
+    {
+      "surface": "משאות",
+      "gloss": "قرضن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:01.897359706Z",
+  "model": "glm-5.3"
+}

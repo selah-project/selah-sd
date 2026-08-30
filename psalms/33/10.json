@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ياهوه قومن جي صلاح کي ڀڳو، ماڻهن جي مکين کي رد ڪيو.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "ڀڳو"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن جي"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "رد ڪيو"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "مکين"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ماڻهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:10.733743916Z",
+  "model": "glm-5.3"
+}

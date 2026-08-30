@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 106,
+  "translation": "۽ بيابان ۾ سخت تڙف ۾ آيا، ۽ يِشيمن ۾ ايل جي آزمايش ڪيائون.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "تڙف ۾ آيا"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "آزمايش ڪيائون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "يِشيمن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:52.574845778Z",
+  "model": "glm-5.3"
+}

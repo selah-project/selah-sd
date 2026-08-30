@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 33:17",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ڇو ته ياهوه ائين چوي ٿو: داوود کان اسرائيل جي گهر جي تخت تي ويهندڙ ⟨هڪ⟩ ماڻهو ڪڏهن به نه ڪٽيو ويندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "ڪٽيو ويندو"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود کان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ويهندڙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T12:18:27.678244545Z",
+  "model": "glm-5.3"
+}

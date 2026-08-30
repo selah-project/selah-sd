@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 3:24",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پوءِ يوآب بادشاهه وٽ آيو ۽ چيائين: تو ڇا ڪيو؟ ڏس، اڀنر تنهنجي وٽ آيو؛ تو کي ڇو هي موڪليو ۽ هو ويو، ويندو؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "پوءِ آيو"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ויאمר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "تو ڪيو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ابھنر"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تنهنجي وٽ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "שלחתו",
+      "gloss": "کي موڪليو"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "۽ ويو"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:17:57.566299007Z",
+  "model": "glm-5.3"
+}

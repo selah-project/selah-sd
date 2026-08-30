@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ ٿيو، ڏهن ڏينهن بعد، ته ياهوه نبل کي ماريو ⟨את⟩، ۽ هو مري ويو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "ڏهن جيترا"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "ته ماريو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نبل"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نبل"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:14:58.439383037Z",
+  "model": "glm-5.3"
+}

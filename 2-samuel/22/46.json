@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "2-samuel 22:46",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "پرديسن جا پٽ ڀڙڪي وڃن، ۽ پنھنجن قلعن مان ڪنپن ٿا نڪرن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "پرديسن"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "ڀڙڪي وڃن"
+    },
+    {
+      "surface": "ויחגרו",
+      "gloss": "ڪنپن ٿا"
+    },
+    {
+      "surface": "ממסגרותם",
+      "gloss": "پنھنجن قلعن مان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:30.858315413Z",
+  "model": "glm-5.3"
+}

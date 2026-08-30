@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 25:15",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ ماريل مديني واري عورت جو نالو كزبي ھو، صور جي ڌيءُ، مدين ۾ ھڪ پيءُ جي گھر جي قومن جو مٿو، ھو ئي ھو.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "عورت جو"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "ماريل"
+    },
+    {
+      "surface": "המדינית",
+      "gloss": "مديني واري"
+    },
+    {
+      "surface": "כזבי",
+      "gloss": "كزبي"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءُ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿو"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "قومن جو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پيءُ جي"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "مدين ۾"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ھو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:08.144675708Z",
+  "model": "glm-5.3"
+}

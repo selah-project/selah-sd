@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ حشوبہ ۽ اوهيل ۽ برڪياہ ۽ حسدياہ ۽ يوشب-حسيد — پنج.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "۽ حشوبہ"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "۽ اوهيل"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "۽ برڪياہ"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "۽ حسدياہ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "يوشب-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حسيد"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:08.189261393Z",
+  "model": "glm-5.3"
+}

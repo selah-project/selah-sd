@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 24:29",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ ربڪه جو ھڪ ڀاءُ ھو، ۽ سندس نالو لابان ھو؛ ۽ لابان ماڻھوءَ وٽ، ٻاهر ذري، چشمي وٽ ڏانهن ڊوڙيو.",
+  "tokens": [
+    {
+      "surface": "ולרבקה",
+      "gloss": "۽ ربڪه جو"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ڀاءُ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "۽ سندس نالو"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "۽ ڊوڙيو"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ماڻھوءَ"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ٻاهر ذري"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "העין",
+      "gloss": "چشمي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:32.331930748Z",
+  "model": "glm-5.3"
+}

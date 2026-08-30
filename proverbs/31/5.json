@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "متان ⟨هو⟩ پي ۽ مقرر ٿيل حڪم وساري ڇڏي، ۽ سڀ مصيبت وارن پٽن جي فيصلي کي مٽائي ڇڏي.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "پي"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "۽ وساري ڇڏي"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "مقرر ٿيل حڪم"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "۽ مٽائي ڇڏي"
+    },
+    {
+      "surface": "דין",
+      "gloss": "فيصلي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "עני",
+      "gloss": "مصيبت وارن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:33.625711124Z",
+  "model": "glm-5.3"
+}

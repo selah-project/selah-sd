@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "اهي ٽي نوح جا پٽ ⟨هئا⟩، ۽ انهن مان ساري زمين پکڙجي وئي.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح جا"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "۽ انهن مان"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "پکڙجي وئي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:11.125051140Z",
+  "model": "glm-5.3"
+}

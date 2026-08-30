@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ قورح جا پُٽ نه مُئا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پُٽ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح جا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مُئا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:02.448495221Z",
+  "model": "glm-5.3"
+}

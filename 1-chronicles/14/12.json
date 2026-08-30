@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ انھن اتي ⟨את⟩ پنھنجن ايلوهين ڇڏي ڏنا، ۽ داويد چيو، ۽ اھي باهه ۾ ساڙيا ويا.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "۽ ڇڏي ڏنا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجن ايلوهين"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "پنھنجن ايلوهين"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "۽ ساڙيا ويا"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:20.249396452Z",
+  "model": "glm-5.3"
+}

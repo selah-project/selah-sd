@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ھڪ نسل — پنھنجين اکين ۾ پاڪ، پر پنھنجي گندگي کان نه ڌوتل.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "پنھنجين اکين ۾"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "پر پنھنجي گندگي کان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "ڌوتل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:13.213728035Z",
+  "model": "glm-5.3"
+}

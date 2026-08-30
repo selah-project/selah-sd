@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "اچانڪ ڊپ کان نه ڊڄ، ۽ شريرن جي تباهيءَ کان نه، جڏهن ⟨هو⟩ اچي ٿي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڊڄ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "کان ڊپ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اچانڪ"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "۽ تباهيءَ کان"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شريرن جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "اچي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:15.886946234Z",
+  "model": "glm-5.3"
+}

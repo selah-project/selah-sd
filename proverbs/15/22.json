@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 15:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "مشوري جي اڻ ۾نڌر خيال ٽٽي وڃن ٿا، پر مشورن جي گھڻائي ۾ اُهي قائم ٿين ٿا.",
+  "tokens": [
+    {
+      "surface": "הפר",
+      "gloss": "ٽٽي وڃن ٿا"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "خيال"
+    },
+    {
+      "surface": "באין",
+      "gloss": "جي اڻ ۾نڌر"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "مشوري"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "پر گھڻائي ۾"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "مشورن"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "قائم ٿين ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:11.635749493Z",
+  "model": "glm-5.3"
+}

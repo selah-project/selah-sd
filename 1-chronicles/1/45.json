@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "پوءِ يواب مري ويو ۽ سندس جاءِ تي تيمانيءَ جي زمين کان حوشم بادشاھ ٿيو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مري ويو"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "يواب"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "بادشاھ ٿيو"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "سندس جاءِ تي"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "حوشم"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمين کان"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "تيمانيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:24.924032222Z",
+  "model": "glm-5.3"
+}

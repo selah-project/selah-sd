@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 111,
+  "translation": "پنهنجن عجائبن جو يادگار هن ڪيو آهي؛ ياهوه مهربان ۽ رحيم آهي۔",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "يادگار"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "پنهنجن عجائبن جو"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "مهربان"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "۽ رحيم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:00.575692133Z",
+  "model": "glm-5.3"
+}

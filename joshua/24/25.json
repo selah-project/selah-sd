@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 24:25",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "پوءِ يهوشع ان ڏينهن ⟨هو⟩ قوم لاءِ عهد ڪري، شڪم ۾ ان لاءِ فرض ۽ حڪم مقرر ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "پوءِ عهد ڪيو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشع"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عهد"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قوم لاءِ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "پوءِ مقرر ڪيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان لاءِ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "فرض"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "۽ حڪم"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "شڪم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:56:20.873727687Z",
+  "model": "glm-5.3"
+}

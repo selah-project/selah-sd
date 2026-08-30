@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ٻار وڏو ٿيو ۽ لاڏيو، ۽ ابراهام ⟨את⟩ يصحاق جي لاڏجڻ جي ڏينهن ۾ هڪ وڏي دعوت ڪئي.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "۽ وڏو ٿيو"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ٻار"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "۽ لاڏيو"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيائين"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "دعوت"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "لاڏجڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يصحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يصحاق"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:19.387281824Z",
+  "model": "glm-5.3"
+}

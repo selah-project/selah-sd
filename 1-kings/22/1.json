@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ ٽي سال اهي ويٺا رهيا، آرم ۽ يسرائيل جي وچ ۾ ڪا جنگ ڪانه هئي.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ويٺا رهيا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ڪانه"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "آرم"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ وچ ۾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T11:37:42.608335400Z",
+  "model": "glm-5.3"
+}

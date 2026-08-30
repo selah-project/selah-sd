@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ يھلليئل جا پُٽ زيف ۽ زيفه، تيريا ۽ اشريئل ھئا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پُٽ"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "يھلليئل"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زيف"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "۽ زيفه"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "تيريا"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "۽ اشريئل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:29.424645530Z",
+  "model": "glm-5.3"
+}

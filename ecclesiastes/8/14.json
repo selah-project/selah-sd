@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 8:14",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "هڪ هبل زمين تي ڪيو وڃي ٿو: نيڪ ماڻهو اهن جنهن تي راشن جي ڪم جهڙو پهچي ٿو، ۽ راش ماڻهو اهن جنهن تي نيکن جي ڪم جهڙو پهچي ٿو؛ مون چيو ته هي به هبل آهي.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هبل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ڪيو وڃي ٿو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهن"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نيڪ ماڻهو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "پهچي ٿو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "تنهن تي"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ڪم جهڙو"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "راشن جي"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "۽ آهن"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "راش ماڻهو"
+    },
+    {
+      "surface": "שמגיע",
+      "gloss": "جنهن تي پهچي ٿو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "تنهن تي"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ڪم جهڙو"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "نيکن جي"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "مون چيو"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "ته به"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هبل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:35.551924467Z",
+  "model": "glm-5.3"
+}

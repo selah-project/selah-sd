@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ اھي فيصلا آھن، جن کي تون انھن جي اڳيان رکندڙ آھين.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "فيصلا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن کي"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "رکندڙ آھين"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "انھن جي اڳيان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:36:48.722524256Z",
+  "model": "glm-5.3"
+}

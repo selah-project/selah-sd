@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 113,
+  "translation": "ياهوه سڀني قومن کان مٿي ⟨آھي⟩، سندس جلال آسمانن کان مٿي ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "על",
+      "gloss": "کان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "کان مٿي"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "سندس جلال"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:27.564877503Z",
+  "model": "glm-5.3"
+}

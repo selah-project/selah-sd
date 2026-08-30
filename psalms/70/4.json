@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 70,
+  "translation": "موٽي وڃن پنهنجي شرم جي پٺيان، جيڪي چون ٿا: ”هي ها، هي ها۔“",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "موٽي وڃن"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "پٺيان"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "پنهنجي شرم"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "جيڪي چون ٿا"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هي ها"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هي ها"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:33.445582835Z",
+  "model": "glm-5.3"
+}

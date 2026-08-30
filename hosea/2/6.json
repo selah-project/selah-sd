@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ⟨את⟩ سندس ٻارن تي رحم نه ڪنديس، ڇوته هو زنا جا ٻار آهن.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سندس ٻارن"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "سندس ٻارن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "رحم ڪنديس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ٻار"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "زنا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:43:49.905155810Z",
+  "model": "glm-5.3"
+}

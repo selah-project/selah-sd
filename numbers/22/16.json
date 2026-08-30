@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 22:16",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "پڻ اُهي بِلعام وٽ آيا ۽ مٿس چيائون: ائين چوي ٿو بالاق، پُٽ صِپّور جو: متان روڪجين، منهنجي وٽ اچڻ کان.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "چيائون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "صِپّور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "متان"
+    },
+    {
+      "surface": "נא",
+      "gloss": "منهنجي منت"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "روڪجين"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "اچڻ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منهنجي وٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:41.360230155Z",
+  "model": "glm-5.3"
+}

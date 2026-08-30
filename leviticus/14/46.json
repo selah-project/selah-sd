@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ جيڪو ⟨את⟩ ان جي بند ڪيل سڀئي ڏينهن ۾ گهر ۾ داخل ٿئي ٿو، هو اڻ-پاڪ رھندو شام تائين.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "۽ داخل ٿيندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "بند ڪيل"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ان",
+      "marks": "گهر"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "اڻ-پاڪ ٿيندو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-08-30T14:39:18.484350235Z",
+  "model": "glm-5.3"
+}

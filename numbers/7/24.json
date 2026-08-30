@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ٽئين ڏينهن تي زبولون جي پٽن جو سردار، علياب پٽ حيلون۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ٽئين"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولون"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "علياب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "حيلون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:26.655106618Z",
+  "model": "glm-5.3"
+}

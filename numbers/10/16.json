@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ زبولن جي پٽن جي قبيلي جي لشڪر تي الياب بن حيلون ھو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبيلي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولن"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "الياب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن\/پٽ"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "حيلون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:50.547281212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "مزدور ۽ پرديسيءَ وانگر ⟨هو⟩ تنھنجي سان رھي؛ يوبل جي سال تائين تنھنجي سان ڪم ڪري.",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "مزدور وانگر"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "پرديسيءَ وانگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "رھي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تنھنجي سان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "يوبل جي"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ڪم ڪري"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تنھنجي سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:01.302632622Z",
+  "model": "glm-5.3"
+}

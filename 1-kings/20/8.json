@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ سڀني پڙاڙين ۽ سڀني ماڻھن هن کي چيو: نه ٻُڌِ ڪجِ ۽ نه راضي ٿِجِ.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هن کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "پڙاڙين"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀني"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ٻُڌِ ڪجِ"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "راضي ٿِجِ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:36:30.835639694Z",
+  "model": "glm-5.3"
+}

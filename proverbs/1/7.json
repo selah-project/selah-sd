@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ياهوه جو خوف علم جو آغاز آهي؛ حڪمت ۽ تڪليف کي اَوِيل بي عزت ڪن ٿا.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "خوف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "آغاز"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "۽ تڪليف (تعليم)"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "اَوِيل (بيوقوف)"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "بي عزت ڪن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:07.940754294Z",
+  "model": "glm-5.3"
+}

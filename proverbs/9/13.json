@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "ڪمزور عقل عورت مَڏ مَچائيندي آھي؛ ⟨اھا⟩ ناسمجهه آھي ۽ ڪجھ به نٿي ڄاڻي.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "كمزور عقل"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "مَڏ مَچائيندي آھي"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "ناسمجهه"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "۽ نٿي"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "ڄاڻي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڪجھ به"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:03.606956015Z",
+  "model": "glm-5.3"
+}

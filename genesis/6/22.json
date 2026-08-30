@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ نوح ائين ڪيو — جيئن ايلوهيم ⟨את⟩ کيس حڪم ڏنو هو، تيئن ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيو"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "جيئن ... سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "نوح کي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:42.401153793Z",
+  "model": "glm-5.3"
+}

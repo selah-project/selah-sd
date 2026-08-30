@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "شمعياہ ۽ يوياريب، يداياہ.",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "شمعياہ"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "۽ يوياريب"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "يداياہ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:33.108434130Z",
+  "model": "glm-5.3"
+}

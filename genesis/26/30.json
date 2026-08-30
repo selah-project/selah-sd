@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ اُن پاڻن لاءِ مھماني ڪيائين، ۽ کاڌائون ۽ پيتائون۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيائين"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پاڻن لاءِ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "مھماني (شراب جي محفل)"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "۽ کاڌائون"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "۽ پيتائون"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:24.168414550Z",
+  "model": "glm-5.3"
+}

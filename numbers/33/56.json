@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ٿيندو، جيئن مون انهن سان ڪرڻ جو ارادو ڪيو، اهو ئي توهان سان ڪندس۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "مون ارادو ڪيو"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ جو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن سان"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "اهو ڪندس"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان سان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:47.079558721Z",
+  "model": "glm-5.3"
+}

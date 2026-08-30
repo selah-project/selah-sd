@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ سندن وراثت ۾ کين مليو: بئر شيبع ۽ شيبع ۽ مولادہ،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "سندن وراثت ۾"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شيبع"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "۽ شيبع"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "۽ مولادہ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:27.301061389Z",
+  "model": "glm-5.3"
+}

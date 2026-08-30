@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "پارس، ڪوش ۽ پوت ⟨את⟩-انهن سان؛ سڀئي ڍال ۽ پڳڙَ سان.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "پارس"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ڪوش"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "۽ پوت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-انهن سان",
+      "marks": "پارس، ڪوش ۽ پوت"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڍال"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "۽ پڳڙَ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:39:40.179597363Z",
+  "model": "glm-5.3"
+}

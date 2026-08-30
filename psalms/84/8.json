@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 84,
+  "translation": "اھي طاقت کان طاقت تائين وڃن ٿا؛ ايلوهيم جي حضور ۾ زيون ۾ ظاھر ٿيندا.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "وڃن ٿا"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "طاقت کان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ظاھر ٿيندا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "جي حضور ۾"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "زيون ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:22.145304351Z",
+  "model": "glm-5.3"
+}

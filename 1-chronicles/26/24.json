@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ شبوئيل — گيرشوم جو پٽ، موشيءَ جو پٽ — خذانن تي سردار هو.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "۽ شبوئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "غيرشوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيءَ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "خذانن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:09.921184243Z",
+  "model": "glm-5.3"
+}

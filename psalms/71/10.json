@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 71,
+  "translation": "ڇوته منهنجا دشمن منهنجي باري ۾ ٿا چون، ۽ منهنجي جيءَ تي نگهbreadڦڙي ڪندڙ گڏجي صلاح ٿا ڪن",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ٿا چون"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "منهنجا دشمن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منهنجي باري ۾"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "۽ نگهbreadڦڙي ڪندڙ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "منهنجي جيءَ"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "صلاح ٿا ڪن"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏجي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:48.485043285Z",
+  "model": "glm-5.3"
+}

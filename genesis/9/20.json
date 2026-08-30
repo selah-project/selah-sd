@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ نوح، زمين جو ماڻهو، شروع ڪئي ۽ انگورن جي باغ پوکيائين.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "شروع ڪئي"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمين جو"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "۽ پوکيائين"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انگورن جي باغ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:11.126111069Z",
+  "model": "glm-5.3"
+}

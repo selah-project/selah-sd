@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "۽ ارئيل ٻارهن اَمو ڊگھو، ۽ ٻارهن اَمو ويڪر — چورس، پنهنجن چئن پٻن ۾ چورس.",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "۽ ارئيل"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ٻارهن"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊگھائي"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ٻارهن"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ويڪر"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "چورس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چئن"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "پنهنجن پٻن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:42:05.755548109Z",
+  "model": "glm-5.3"
+}

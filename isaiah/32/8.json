@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "پر سخي سخاوت جون رٿون رچي ٿو، ۽ هو سخاوت تي سر بلند بيٺو رهندو.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "پر سخي"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "سخاوت جون"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "رٿون رچي ٿو"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "سخاوت"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "بيٺو رهندو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:55:46.872662823Z",
+  "model": "glm-5.3"
+}

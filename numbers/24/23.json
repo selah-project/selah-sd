@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ چاتائين پنهنجو مثل ۽ چيائين: هاءُ! ڪير جيئندو، جڏهن ايل هي مقرر ڪندو؟",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "چاتائين"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "پنهنجو مثل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "هاءُ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جيئندو"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "مقرر ڪندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:25.052804445Z",
+  "model": "glm-5.3"
+}

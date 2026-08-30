@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ٻه شيون مان ⟨تورات⟩ کان ⟨את⟩ پڇيون آھن؛ مون کان اُنهن کي نه روڪ، مرڻ کان اڳ.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "ٻه شيون"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "مان پڇيون آھن"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ تورات کان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "روڪ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مون کان"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "مرڻ کان اڳ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "مان مريان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:55.126274684Z",
+  "model": "glm-5.3"
+}

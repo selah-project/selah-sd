@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 22:6",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "جڏهن پکيءَ جو آکيرو تنهنجي اڳيان رستي ۾، ڪنهن وڻ ۾ يا زمين تي اچي ٿيو، ۽ ان ۾ چوڄڙا هجن يا آنڊا، ۽ ماءُ چوڄڙن تي يا آنڊن تي ماٺ ويٺي هجي، تون ماءُ کي ٻچن سان گڏ نه کڻجين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "اچي ٿيو"
+    },
+    {
+      "surface": "קן",
+      "gloss": "آکيرو"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "پکيءَ جو"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تنهنجي اڳيان"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي ۾"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ڪنهن به"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻ ۾"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "אפרחים",
+      "gloss": "چوڄڙا"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "ביצים",
+      "gloss": "آنڊا"
+    },
+    {
+      "surface": "והאם",
+      "gloss": "۽ ماءُ"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "ويٺي هجي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "האפרחים",
+      "gloss": "چوڄڙن"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הביצים",
+      "gloss": "آنڊن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "کڻجين"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ماءُ کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ٻچن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:40.186158100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ ياهوه وڌيڪ مون سان ڳالھايو، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھايو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:49:28.663632109Z",
+  "model": "glm-5.3"
+}

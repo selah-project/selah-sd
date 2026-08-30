@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ايماندار شاهد جوڙ نه ٿو ڪري، پر ڪوڙ جو شاهد ڪوڙ ٻاھر پچائي ٿو.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ايماندار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "جوڙ ٿو ڪري"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "پر...ٻاھر پچائي ٿو"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ڪوڙ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:36.320863399Z",
+  "model": "glm-5.3"
+}

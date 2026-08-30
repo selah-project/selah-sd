@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "دروغ جي ڳالهين تي پاڻ کي ٿڃي نه ويهو، هيءَ چوڻ ته: ياهوه جو هيڪل، ياهوه جو هيڪل، ياهوه جو هيڪل — اِهي آهن.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ٿڃي ويهو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پاڻ کي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالهين"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "دروغ جي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "هيءَ چوڻ ته"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "هيڪل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "هيڪل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "هيڪل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اِهي آهن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:09:06.405952697Z",
+  "model": "glm-5.3"
+}

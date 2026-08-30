@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "قِهات جي پُٽن جو: عَمِّيناداب سندس پُٽ، قورح سندس پُٽ، اَسِير سندس پُٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽن"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِهات"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عَمِّيناداب"
+    },
+    {
+      "surface": "בנو",
+      "gloss": "سندس پُٽ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "اَسِير"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پُٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:31.653604428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ آءٌ انهن لاءِ شينهن جهڙو ٿي ويس، رستي تي چيتوڙيءَ وانگر لڪي بيٺس.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ٿي ويس"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن لاءِ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "جهڙو"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شينهن"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "چيتوڙيءَ وانگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستي"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "لڪي بيٺس"
+    }
+  ],
+  "timestamp": "2026-08-30T15:00:02.535054761Z",
+  "model": "glm-5.3"
+}

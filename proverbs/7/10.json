@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ڏسو، هڪ زال سندس اوڏي آئي، زناڪارڻ جو پوشاڪ پاتل ۽ دل ۾ ڪُتا ڪرڻ واري،",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "هڪ زال"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "سندس اوڏي"
+    },
+    {
+      "surface": "שית",
+      "gloss": "پوشاڪ پاتل"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زناڪارڻ جو"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "۽ ڪُتا ڪرڻ واري"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:35.375584346Z",
+  "model": "glm-5.3"
+}

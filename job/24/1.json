@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 24:1",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڇو شداي کان وقت ذخيره نه ٿيا، ۽ جيڪي کيس سڃاڻن ٿا سي سندس ڏينهن نه ڏسن؟",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "شداي کان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נצפנו",
+      "gloss": "ذخيره ٿيا"
+    },
+    {
+      "surface": "עתים",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "۽ جيڪي سڃاڻن ٿا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ڏسن"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "سندس ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:19.687725680Z",
+  "model": "glm-5.3"
+}

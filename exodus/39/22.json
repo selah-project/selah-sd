@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ انهن ايفود جو چولو ٺاهيو، اُڻيل ڪم، پورو نيلو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ٺاهيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چولو"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "چولو"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ايفود جو"
+    },
+    {
+      "surface": "مעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "اُڻيل"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "پورو"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "نيلو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:24.674715320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پوءِ ايش-بوشث موڪليو ۽ کيس کيس مڙس کان — پلتي ايل بن لُئش کان — کڻي ويس.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "پوءِ موڪليو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِيش-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "بوشث"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "۽ کيس کڻي ويس"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مڙس"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کان"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "پلتي ايل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "لُئش"
+    }
+  ],
+  "timestamp": "2026-08-30T14:47:23.376177664Z",
+  "model": "glm-5.3"
+}

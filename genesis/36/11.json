@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ اليفاز جا پٽ هئا: تيمان، اومر، صيفو ۽ عوثام ۽ قناز.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ هئا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اليفاز"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تيمان"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "اومر"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "صيفو"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "۽ عوثام"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "۽ قناز"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:27.465875543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "job 38:38",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "جڏهن مٽي ڳري کڙو ٿئي ۽ مٽيءَ جا ڪڪر چنبڙي پاڻ ۾ وڃن؟",
+  "tokens": [
+    {
+      "surface": "בצקת",
+      "gloss": "جڏهن ڳري"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٽي"
+    },
+    {
+      "surface": "למוצק",
+      "gloss": "کڙو"
+    },
+    {
+      "surface": "ורגבים",
+      "gloss": "۽ ڪڪر"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "چنبڙي وڃن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:33.219497776Z",
+  "model": "glm-5.3"
+}

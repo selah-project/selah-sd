@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ موشي جي سَسُّ يٿرو <![CDATA[<את>]]> صپوره کي وٺيو، موشي جي زال، سندس موڪلڻ کان پوءِ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وٺيو"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "يٿرو"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "سَسُّ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي جي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صپوره"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "صپوره"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي جي"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "سندس موڪلڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:17.672021742Z",
+  "model": "glm-5.3"
+}

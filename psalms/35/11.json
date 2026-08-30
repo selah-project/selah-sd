@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "زور زبري شاهد اُٿن؛ جيڪي مون نه ڄاڻان ٿو، اھو مون کان پڇن ٿا.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "اُٿن"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زور زبري"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ڄاڻان ٿو"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "پڇن ٿا مون کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:32.081464897Z",
+  "model": "glm-5.3"
+}

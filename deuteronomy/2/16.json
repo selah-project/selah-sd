@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ⟨پوءِ⟩ ٿيو، جڏهن سڀ جنگ جا ماڻهو مرڻ کان پوءِ قوم جي وچ مان ختم ٿي ويا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ختم ٿي ويا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "جا ماڻهو"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مرڻ کان"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "وچ مان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:14.073688714Z",
+  "model": "glm-5.3"
+}

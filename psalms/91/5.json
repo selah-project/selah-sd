@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 91,
+  "translation": "رات جي ڊپ کان نہ ڊڄيندين، نہ ڏينهن ۾ اُڏامندڙ تير کان۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڊڄيندين"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ڊپ کان"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات جي"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "تير کان"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "اُڏامندڙ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ڏينهن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:25.262847792Z",
+  "model": "glm-5.3"
+}

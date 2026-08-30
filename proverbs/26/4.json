@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "نالائق کي سندس موٽپڻ موجب جواب نه ڏِ، متان تون پاڻ به ان جيان ٿي وڃين.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תען",
+      "gloss": "جواب ڏِ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نالائق کي"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "سندس موٽپڻ موجب"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "ٿي وڃين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان جيان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون پاڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:59.838940507Z",
+  "model": "glm-5.3"
+}

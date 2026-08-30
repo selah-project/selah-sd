@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "جيئن جنوني ماڻھو، جيڪو اُڇي ٿو تڙڪا، تير ۽ موت،",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "جيئن جنوني"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "جيڪو اُڇي ٿو"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "تڙڪا (ٻرندڙ تير)"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "تير"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "۽ موت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:00.563189756Z",
+  "model": "glm-5.3"
+}

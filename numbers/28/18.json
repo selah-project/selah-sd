@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "پهرئين ڏينهن تي پاڪ سڏ (مِڪرا-قَدَش) هوندي؛ ڪا به خدمت جو ڪم نه ڪريو.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پهرئين"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "سڏ (ڀيڻ)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪا به"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ڪريو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:26.588975158Z",
+  "model": "glm-5.3"
+}

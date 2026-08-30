@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 113,
+  "translation": "بيابان زال کي گهر ۾ ماءِ بڻائي ٿو پٽن جي، خوش — ساراھيو ياه!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "بيٺو ڪري ٿو"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "بيابان زال"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ماءِ"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ساراھيو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:15.193584020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ٻُورِيءَ مان پاڻي ختم ٿيو، ۽ هن ⟨את⟩ ٻار کي هڪڙي ٻُورِيءَ هيٺ سِٽيو.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "ختم ٿيا"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "منجهان"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "ٻُورِيءَ"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "سِٽيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٻار"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ٻار"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪڙي"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "ٻُورين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:01.516388205Z",
+  "model": "glm-5.3"
+}

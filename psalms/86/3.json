@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 86,
+  "translation": "مون تي مهربان ڪر، ادوناي، ڇوته مان تو ڏانهن سڄو ڏينهن ٿو سڏيان.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "مون تي مهربان ڪر"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تو ڏانهن"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ٿو سڏيان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:29.440512582Z",
+  "model": "glm-5.3"
+}

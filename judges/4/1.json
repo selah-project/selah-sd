@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 4:1",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ اسرائيل جا پٽ ٻيهر برائي ڪرڻ لاءِ وڌا ياهوه جي نيزن ۾، ۽ اهود مري ويو.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "ٻيهر وڌا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جا"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "نيزن ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "۽ اهود"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مري ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:59:24.901093475Z",
+  "model": "glm-5.3"
+}

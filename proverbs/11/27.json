@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "چڱائي لڳو ڳوليندڙ رضا ڳولي ٿو، ۽ برائي جو ڳوليندڙ، اُها سندس مُٺي ۾ اچي ٿي.",
+  "tokens": [
+    {
+      "surface": "שחר",
+      "gloss": "لڳو ڳوليندڙ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱائي"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ڳولي ٿو"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضا"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "۽ ڳوليندڙ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "اچي ٿيس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:34.560867152Z",
+  "model": "glm-5.3"
+}

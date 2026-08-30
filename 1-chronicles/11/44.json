@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "عُزيا هَعَشتَراتي، شَماع ۽ يِعوئيل، پٽ حوٿام هَعَرُعيَري جا،",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "عُزيا"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "هَعَشتَراتي"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شَماع"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "۽ يِعوئيل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "حوٿام"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "هَعَرُعيَري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:55.107347221Z",
+  "model": "glm-5.3"
+}

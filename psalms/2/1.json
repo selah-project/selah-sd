@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇو قومون سنسان ٿيون آهن، ۽ لڪن خاليڙين ڳالهين جو ڍڳو ڪيو ٿي؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "سنسان ٿيون آهن"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "۽ لڪون"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ڍڳو ڪيو ٿي"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "خاليڙين ڳالهين جو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:28.226166508Z",
+  "model": "glm-5.3"
+}

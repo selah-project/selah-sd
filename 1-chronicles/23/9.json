@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 23:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "شمعي جا پٽ — شلوموت، حزيئيل ۽ هاران، ٽي۔ اھي لعدان جي پيٽرن جا سردار ھئا۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعي"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "شلوموت"
+    },
+    {
+      "surface": "וחזיאל",
+      "gloss": "۽ حزيئيل"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "۽ هاران"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "پيٽرا"
+    },
+    {
+      "surface": "ללעדן",
+      "gloss": "لعدان جا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:05.631352806Z",
+  "model": "glm-5.3"
+}

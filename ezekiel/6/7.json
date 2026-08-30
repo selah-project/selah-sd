@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ توهان جي وچ ۾ ماريل ڪِرندا، ۽ توهان سڃاڻندؤ ته آءٌ ياهوه ⟨آهيان⟩.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "۽ ڪِرندا"
+    },
+    {
+      "surface": "חלال",
+      "gloss": "ماريل"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "توهان جي وچ ۾"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "۽ توهان سڃاڻندؤ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:27:14.596855029Z",
+  "model": "glm-5.3"
+}

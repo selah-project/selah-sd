@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 5:26",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ ڪاهن ياهوه جي اڳيان ان لاءِ kapparath (atonement) ڪندو ته ان کي معاف ڪيو ويندو، ان ڪنهن هڪ شيءَ لاءِ جيڪا ان guilt ۾ ڪري ٿو ان ۾.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "kapparath (atonement) ڪندو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ان لاءِ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "معاف ڪيو ويندو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ڪنهن هڪ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "شيءَ مان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪري ٿو"
+    },
+    {
+      "surface": "לאשמה",
+      "gloss": "guilt ۾"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:25.003580522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "سادو هر لفظ تي يقين ڪري ٿو، ۽ هوشيار پنهنجي قدم جي سمجهه رکي ٿو.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "سادو"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "يقين ڪري ٿو"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ تي"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "۽ هوشيار"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سمجهه رکي ٿو"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "پنهنجي قدم لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:35.746075959Z",
+  "model": "glm-5.3"
+}

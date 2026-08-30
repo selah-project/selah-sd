@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ مشمع ۽ دومه ۽ مشع.",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "۽ مشمع"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "۽ دومه"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "۽ مشع"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:01.939192302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "به اِيئن شليموه جا پهاڪا آهن، جيڪي يهوديه جي بادشاھ حزقياهه جي ماڻھن نقل ڪيا.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِيئن"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "پهاڪا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شليموه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "نقل ڪيا"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻھن"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "حزقياهه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوديه"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:34.625353217Z",
+  "model": "glm-5.3"
+}

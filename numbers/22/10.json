@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "بلام ايلوهيم کي چيو: بالق، پٽ صفور جو، بادشاھ موآب جو، مون ڏانھن موڪليو آھي،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "صفور"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "موڪليو آھي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون ڏانھن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:36.551092099Z",
+  "model": "glm-5.3"
+}

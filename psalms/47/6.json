@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "ايلوهيم مَچُڻ سان مٿي چڙهي ٿو، ياهوه ساز جي آواز سان.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "مٿي چڙهي ٿو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "مَچُڻ سان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آواز سان"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ساز"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:22.029600477Z",
+  "model": "glm-5.3"
+}

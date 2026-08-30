@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ رئوبن جي پٽن ⟨את⟩ حشبون ۽ ⟨את⟩ ايلعالي ۽ ⟨את⟩ قريتيم ٺاهيا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽن"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبن"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ٻڌو\/ٺاهيا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حشبون"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ايلعالي"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "ايلعالي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "قريتيم"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "قريتيم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:55.114486403Z",
+  "model": "glm-5.3"
+}

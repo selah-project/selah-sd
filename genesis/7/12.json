@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ مينهن زمين تي چاليهه ڏينهن ۽ چاليهه رات ٿيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "مينهن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليهه"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "۽ چاليهه"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:48.141031320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ياهوه پنهنجي پاڪ هڪيل ۾ آهي؛ سندس اڳيان سڀ زمين چُپ ٿي وڃي.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "۽ ياهوه"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "هڪيل ۾"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "پنهنجي پاڪ"
+    },
+    {
+      "surface": "הס",
+      "gloss": "چُپ ٿي وڃي"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "سندس اڳيان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:53:48.066344316Z",
+  "model": "glm-5.3"
+}

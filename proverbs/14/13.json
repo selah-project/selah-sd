@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "کِلي ٻول ۾ به دل سور سهي ٿي، ۽ خوشيءَ جي پڇاڙي ورلي آهي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "کِلي ٻول ۾"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "سور سهي ٿي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "۽ ان جي پڇاڙي"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشيءَ جي"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "ورلي آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:35.745565656Z",
+  "model": "glm-5.3"
+}

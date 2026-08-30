@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 140,
+  "translation": "ياهوه، رشر جون مرادون نه ڏي، سندس سازش ⟨کي⟩ نه نڪرڻ ڏي، متان هو مٿي اُڀرن. سلاه.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "مرادون"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشر"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "سندس سازش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "نڪرڻ ڏي"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "اُڀرن"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:18.993238494Z",
+  "model": "glm-5.3"
+}

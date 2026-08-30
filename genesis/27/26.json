@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ يصحاق سندس پيءُ چيس: هاڻي ٿورو اچ ۽ مون کي چُمو، پُٽڏي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيس"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يصحاق"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "سندس پيءُ"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "اچ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي ٿورو"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "چُمو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:35:11.842324369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 72,
+  "translation": "اھي توکان سنڌ سان ۽ چنڊ کان اڳ ڊوھن ڊوھن تائين ڊپ رکندا.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "توکان ڊپ رکندا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سنڌ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "۽ کان اڳ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "چنڊ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ڊوھ"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ڊوھن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:00.553112493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "اُتان کان روانا ٿيا ۽ زَرِد جي نئي ۾ منزل ڪيائون.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "اُتان کان"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "۽ منزل ڪيائون"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "نئي ۾"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زَرِد"
+    }
+  ],
+  "timestamp": "2026-08-30T10:29:31.706471955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 18:14",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "ڇوتهه <!-- these --> قومن <!-- these --> جيڪي تون <!-- these --> کين <!-- these --> ڪڍي ڇڏيندو آهين، اُهي جادوگرن ۽ قسم ڪڍندڙن کي ٻڌن ٿا؛ پر توکي ياهوه پنهنجي ايلوهيم ائين نه ڏنو آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتهه"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومن"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "ڪڍي ڇڏيندو آهين"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "کين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "מעננים",
+      "gloss": "جادوگرن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ڏانھن"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "قسم ڪڍندڙن"
+    },
+    {
+      "surface": "ישמעو",
+      "gloss": "ٻڌن ٿا"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "پر تون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏنو آهي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "پنهنجي ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:44.015897855Z",
+  "model": "glm-5.3"
+}

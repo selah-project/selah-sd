@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 20:27",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ موشي ائين ڪيو جيئن ياهوه حڪم ڪيو هيو، ۽ اُهي سڀئي جماعت جي اکين اڳيان هور جبل ڏانهن چڙهي ويا.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "۽ چڙهي ويا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "הר",
+      "gloss": "هور"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "جي اکين اڳيان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:29:56.424481597Z",
+  "model": "glm-5.3"
+}

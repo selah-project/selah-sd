@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 46:11",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "چڙھ گلعاد ۾ ۽ کڻ بلسم، اي متسرايم جي ڪنواري ڌيءَ؛ بيڪار تو وڌايون دوائون؛ شفا تو لاءِ ناھي.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "چڙھ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "וקחי",
+      "gloss": "۽ کڻ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "بلسم"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "ڪنواري"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "بيڪار"
+    },
+    {
+      "surface": "הרביתי",
+      "gloss": "تو وڌايون"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "دوائون"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "شفا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناھي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:22:05.972305292Z",
+  "model": "glm-5.3"
+}

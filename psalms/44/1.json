@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "راھبر لاءِ، قورح جي پٽن لاءِ، مشكيل۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "راھبر لاءِ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن لاءِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "مشكيل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:19.681226936Z",
+  "model": "glm-5.3"
+}

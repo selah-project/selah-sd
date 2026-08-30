@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 114,
+  "translation": "توکي ڇو ٿيو، اي سمنڊ، ته تون ⟨۽⟩ ڀڄي وئين؟ اي يردن، ته تون پٺتي ورتي وئين؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "הים",
+      "gloss": "اي سمنڊ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "ڀڄي وئين"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "اي يردن"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "پٺتي ورتي وئين"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "پٺتي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:07.728448004Z",
+  "model": "glm-5.3"
+}

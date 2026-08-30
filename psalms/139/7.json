@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 139,
+  "translation": "آءٌ ڪٿي وڃان توهان جي روح کان؟ ۽ ڪٿي توهان جي اڳيان کان ڀڄان؟",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ڪٿي"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "وڃان"
+    },
+    {
+      "surface": "مרוחך",
+      "gloss": "توهان جي روح کان"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "۽ ڪٿي"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "توهان جي اڳيان کان"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ڀڄان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:41.507714760Z",
+  "model": "glm-5.3"
+}

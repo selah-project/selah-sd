@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ڪناري جي بلڪل لڳ انگڙيون هجن، ٻيڙين جي جاين طور، ⟨את⟩ ميز کڻڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "بلڪل لڳ"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "ڪناري جي"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "هجن"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "انگڙيون"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "جاين طور"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "ٻيڙين لاءِ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "کڻڻ لءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ميز"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:34.970105602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ شلومو هن کي ⟨את⟩ سندس ساريون ڳالھيون ٻڌايون، ۽ شلومو کان ڪا ڳالھ لڪيل نه هئي جا هن هن کي نه ٻڌائي هجي.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "۽ ٻڌايائين"
+    },
+    {
+      "surface": "לה",
+      "gloss": "هن کي"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساريون ڳالھيون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساريون"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "ڳالھيون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "لڪيل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "شلومو کان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ٻڌايو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "هن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:43.884805157Z",
+  "model": "glm-5.3"
+}

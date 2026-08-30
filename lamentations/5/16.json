@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "اسان جي مٿي جو تاج ڪري پيو، هاي اسان تي، ڇوته اسان پاپ ڪيو.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "ڪري پيو"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "اسان جي مٿي جو"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "هاي"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان تي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "پاپ ڪيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:47.128170905Z",
+  "model": "glm-5.3"
+}

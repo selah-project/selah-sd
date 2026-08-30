@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "دان جي لاءِ اهيعزر، عميشداي جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "دان جي لاءِ"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "اهيعزر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "عميشداي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:39.325178591Z",
+  "model": "glm-5.3"
+}

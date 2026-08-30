@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 18:24",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ميکاياهو چيو: ڏس، ان ڏينهن تي تون پاڻ ڏسيندين، جڏهن تون لڪڻ لاءِ ڪمري ۾ ڪمرو ڏي هلندين.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ميکاياهو"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ڏس، تون"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏسيندين"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينهن تي"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "هلندين"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "ڪمري ۾"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "ڪمرو ڏي"
+    },
+    {
+      "surface": "להחבא",
+      "gloss": "لڪڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:03.995452662Z",
+  "model": "glm-5.3"
+}

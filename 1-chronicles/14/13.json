@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ پلشتين ٻيهر وڌا ۽ وادي ۾ ڦهلجي پيا.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "وڌا (ٻيهر ڪيو)"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيهر"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتين"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "ڦهلجي پيا"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "وادي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:21.113689769Z",
+  "model": "glm-5.3"
+}

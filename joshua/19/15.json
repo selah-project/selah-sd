@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 19:15",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ قطّت ۽ نهلل ۽ شمرعون ۽ يدفلا ۽ بيت لحم؛ ٻارهن شهر ۽ انهن جا ڳوٺ.",
+  "tokens": [
+    {
+      "surface": "וקטת",
+      "gloss": "۽ قطّت"
+    },
+    {
+      "surface": "ונהלל",
+      "gloss": "۽ نهلل"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "۽ شمرعون"
+    },
+    {
+      "surface": "וידאלה",
+      "gloss": "۽ يدفلا"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשרه",
+      "gloss": "ڏهه"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "۽ انهن جا ڳوٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:24.465268198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "اُٺ چار سؤ ٽيھ ۽ پنج؛ خچر ڇھ هزار ست سؤ ۽ ويھ.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "اُٺ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيھ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "خچر"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:03.300368477Z",
+  "model": "glm-5.3"
+}

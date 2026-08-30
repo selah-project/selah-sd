@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "تنهنڪري توهان تي آسمانن شَب (اُلڳ) روڪي، ۽ زمين پنهنجي پيداوار روکي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تنهن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "توهان تي"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "روڪي"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "شَب (اُلڳ)"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "۽ زمين"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "روکي"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "پنهنجي پيداوار"
+    }
+  ],
+  "timestamp": "2026-08-30T12:55:27.470326254Z",
+  "model": "glm-5.3"
+}

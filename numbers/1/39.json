@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ان جي ڳڻپ ٿيلن مان، دان جي قبيلي لاءِ، ٻه ۽ سٺ ھزار ۽ ست سؤ ⟨ھيا⟩.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ان جي ڳڻپ ٿيلن مان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي لاءِ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان جي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "۽ سٺ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:07.745839448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ته بادشاهه جا نوجوان چيويس: ”ڏسو، هامان صحن ۾ بيٺو آهي.“ ۽ بادشاهه چيو: ”اچي.“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "چيويس"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "جا نوجوان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "کي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "بيٺو آهي"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "صحن ۾"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اچي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:54:17.265675128Z",
+  "model": "glm-5.3"
+}

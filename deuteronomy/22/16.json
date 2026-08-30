@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ نين جو پيءُ پڙاڻن کي چوي: ⟨את⟩ مون پنھنجي ڌيءُ ھن ماڻھو کي زال طور ڏني آھي، پر ان ان کي سٽيو آھي.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چوي"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نين جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "پڙاڻن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مون پنھنجي ڌيءُ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "پنھنجي ڌيءُ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "مون ڏني آھي"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ماڻھو کي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ھن"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زال طور"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "ان ان کي سٽيو آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:56.220678626Z",
+  "model": "glm-5.3"
+}

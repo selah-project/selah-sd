@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ انھن کي چيائين ته اڃا ٽي ڏينھن، پوءِ مون واپس موٽو؛ ۽ ماڻھو ويا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انھن کي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اڃا"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "پوءِ موٽو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "۽ ويا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:43.117632107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "زمين جا بادشاھ بيٺا آهن، ۽ حاڪم گڏ ٿيا آهن، ياهوه ۽ سندس مشيح جي خلاف —",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "بيٺا آهن"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "جا بادشاھ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "۽ حاڪم"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "گڏ ٿيا آهن"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "گڏ"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي خلاف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ … جي خلاف"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "سندس مشيح"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:28.226574624Z",
+  "model": "glm-5.3"
+}

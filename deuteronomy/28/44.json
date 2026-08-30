@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "هو تو کي قرض ڏيندو ۽ تون کيس نه ڏيندين؛ هو سِر ٿيندو ۽ تون پُڇ ٿيندين.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "تو کي قرض ڏيندو"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "کيس ڏيندين"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "لראש",
+      "gloss": "سِر"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿيندين"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "پُڇ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:47.658474239Z",
+  "model": "glm-5.3"
+}

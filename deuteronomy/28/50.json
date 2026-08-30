@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "هڪ قوم، سخت چهرڻ واري، جيڪا بوڍي لاءِ منهن نه جهلائيندي ۽ ننهن تي نه مهرباني ڪندي.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עז",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چهرڻ واري"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "جهلائيندي"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "بوڍي لاءِ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "۽ ننهن تي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "مهرباني ڪندي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:07.622200090Z",
+  "model": "glm-5.3"
+}

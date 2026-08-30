@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 5:19",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ يرد ⟨את⟩ حنوخ کي پيدا ڪرڻ کان پوءِ اٺ سؤ سال جييو، ۽ هن پٽن ۽ ڌيين کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جييو"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "يرد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "پيدا ڪرڻ کان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حنوخ کي"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حنوخ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "۽ ڌيين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:54.786372969Z",
+  "model": "glm-5.3"
+}

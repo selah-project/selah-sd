@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "بنيامين جي قبيلي لاءِ ايليداد، kislon جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي لاءِ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "ايليداد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "ڪِسلون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:00.652732812Z",
+  "model": "glm-5.3"
+}

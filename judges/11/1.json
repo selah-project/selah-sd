@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 11:1",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ يفتاح گلعادي هڪ جنگجو بهادر هو، ۽ هو هڪ زناڪار عورت جو پٽ هو؛ ۽ گلعاد ⟨את⟩ يفتاح کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "۽ يفتاح"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "گلعادي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جنگجو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بهادر"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زناڪار"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "۽ پيدا ڪيائين"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يفتاح"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "يفتاح"
+    }
+  ],
+  "timestamp": "2026-08-30T11:02:42.401751522Z",
+  "model": "glm-5.3"
+}

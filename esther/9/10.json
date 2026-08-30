@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "هامان جي ڏهن پٽن — همدتا جي پٽ، يهودين جي دشمن — کي ماريائون؛ پر لُٽ ۾ ⟨את⟩ پنهنجو هٿ نه موڪليائون.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "ڏهن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "همدتا"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "يهودين جي"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ماريائون"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "پر لُٽ ۾"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "موڪليائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هٿ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "پنهنجو هٿ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:55:33.053980977Z",
+  "model": "glm-5.3"
+}

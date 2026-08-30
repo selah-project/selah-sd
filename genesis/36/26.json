@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ اھي ئي ديشان جا پُٽ ھئا: حمدان ۽ اشبان ۽ يثران ۽ كران.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ديشان"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "حمدان"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "۽ اشبان"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "۽ يثران"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "۽ كران"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:51.817054563Z",
+  "model": "glm-5.3"
+}

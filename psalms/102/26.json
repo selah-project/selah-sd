@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 102,
+  "translation": "پھرين تون ⟨את⟩ زمين جو بنياد رکيو، ۽ آسمان تنھنجن ھٿن جو ڪم ⟨آھن⟩.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "پھرين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "بنياد رکيو"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "۽ ڪم"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "تنھنجن ھٿن جو"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:46.719030639Z",
+  "model": "glm-5.3"
+}

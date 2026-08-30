@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇاڪاڻ ته ڳالهيون گهڻيون آهن جي هيس وڌائين ٿيون؛ ماڻهوءَ لاءِ ڇا فائده؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهن"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ڳالهيون"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گهڻيون"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "وڌائين ٿيون"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هيس"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "فائده"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ماڻهوءَ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:55.820509775Z",
+  "model": "glm-5.3"
+}

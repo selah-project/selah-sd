@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 50:23",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "ڪيئن ڪٽيو ويو ۽ ٽٽيو، سڄي زمين جي ڏندي! بابل قومن ۾ ڪيئن ويران ٿي ويو!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "נגדע",
+      "gloss": "ڪٽيو ويو"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "۽ ٽٽيو"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "ڏندي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ٿي ويو"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ويران"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:24:12.127385093Z",
+  "model": "glm-5.3"
+}

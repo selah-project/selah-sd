@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "ڀُکا، ۽ اُڃا، تنهن جي نَفَش ۾ ويڍي ٿي.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "ڀُکا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "۽"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "اُڃا"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "تنهن جي نَفَش"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "۾"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "ويڍي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:59.523131443Z",
+  "model": "glm-5.3"
+}

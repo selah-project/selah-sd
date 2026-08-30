@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ياهوه فرشتي کي چيو، ۽ اُهو پنهنجي تلوار موٽائي ٻڏي ۾ وڌي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "فرشتي کي"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "موٽائي"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "پنهنجي تلوار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "ٻڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:30.970474164Z",
+  "model": "glm-5.3"
+}

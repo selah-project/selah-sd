@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 13:13",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ياهوه جي فرشتي مَنُوح کي چيو: “جيڪو مون زال کي چيو آهي، ان سڀ کان هوءَ پاسو ڪري.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مَنُوح"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "مون چيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "پاسو ڪري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:43:53.326991652Z",
+  "model": "glm-5.3"
+}

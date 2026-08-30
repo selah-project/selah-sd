@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 15:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "گھمنڊيلن جو گھر ياهوه ڪڍي ڦٽو ڪري ٿو، ۽ اُها بيواھ جي حد کي قائم ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "گھمنڊيلن جو"
+    },
+    {
+      "surface": "יסח",
+      "gloss": "ڪڍي ڦٽو ڪري ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "۽ قائم ڪري ٿو"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حد"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بيواھ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:25.410733702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "تعداد جو بادشاهه ⟨את⟩ هڪ، مگدو جو بادشاهه هڪ —",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "جي بادشاهه"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "تعداد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "جي بادشاهه"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "مگدو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:10.382354952Z",
+  "model": "glm-5.3"
+}

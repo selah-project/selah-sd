@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "پوءِ يسرائيل جي سڀني ٻڍن گڏ ٿيا ۽ شموئل وٽ رامه ۾ آيا.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "گڏ ٿيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀنين"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ٻڍن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل جي"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئل"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "رامه ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:07:08.067320714Z",
+  "model": "glm-5.3"
+}

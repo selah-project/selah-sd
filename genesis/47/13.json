@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 47:13",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "۽ سڄي ملڪ ۾ ماني ڪانه هئي، ڇو ته ڪال بلڪل سخت هو، تنهنڪري متصرايم جي ملڪ ۽ ڪنعان جي ملڪ ڪال جي ڪري ٻڏي وي.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "۽ ماني"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ڪانه هئي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڄي … ۾"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملڪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ڪال"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بلڪل"
+    },
+    {
+      "surface": "ותלה",
+      "gloss": "۽ ٻڏي وي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ملڪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متصرايم"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "۽ ملڪ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "جي ڪري"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ڪال"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:48.921423028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 30:7",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "جهنگي ٻوٽن ۾ ڀونکن ٿا، ڪنئرن هيٺ گڏ ٿيل آهن.",
+  "tokens": [
+    {
+      "surface": "בין",
+      "gloss": "۾"
+    },
+    {
+      "surface": "שיחים",
+      "gloss": "جهنگي ٻوٽن"
+    },
+    {
+      "surface": "ינהקו",
+      "gloss": "ڀونکن ٿا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "חרול",
+      "gloss": "ڪنئرن"
+    },
+    {
+      "surface": "יספחו",
+      "gloss": "گڏ ٿيل آهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:41:15.729397532Z",
+  "model": "glm-5.3"
+}

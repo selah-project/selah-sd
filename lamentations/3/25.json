@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ياهوه چڱو آهي ⟨ان⟩ لاءِ جيڪو ⟨ان⟩ جو انتظار ڪري ٿو، ⟨ان⟩ جيءَ لاءِ جيڪو ⟨ان⟩ کي ڳولي ٿو.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "ان لاءِ"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "جيءَ لاءِ"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ان کي ڳولي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:21.219139440Z",
+  "model": "glm-5.3"
+}

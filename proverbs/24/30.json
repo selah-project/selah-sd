@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ھڪ سست ماڻهوءَ جي ٻنيءَ کان ۽ دل کان سوگھو ماڻهوءَ جي انگورن جي باغ کان مان لنگھيس.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "کان"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ٻنيءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ جي"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سست"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "مان لنگھيس"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ ... کان"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انگورن جي باغ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ جي"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کان سوگھو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:45.546296497Z",
+  "model": "glm-5.3"
+}

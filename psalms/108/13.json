@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 108,
+  "translation": "اسان کي تنگيءَ مان مدد ڏِه؛ ۽ ماڻھوءَ جي مدد بيڪار آھي.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ڏِه"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان کي"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "تنگيءَ مان"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "۽ بيڪار"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھوءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:15.519337335Z",
+  "model": "glm-5.3"
+}

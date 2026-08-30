@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "سكالڻ واري نظم، ايتان ايزراحيءَ جي.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "سكالڻ واري نظم"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ايتان"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ايزراحيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:16.739429565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ٽين رٿ ۾ اڇا گھوڙا ھئا، ۽ چوٿين رٿ ۾ کنڊايل ۽ پڪا رنگ جا گھوڙا.",
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "۽ رٿ ۾"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "ٽين"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڙا"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "اڇا"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "۽ رٿ ۾"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "چوٿين"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڙا"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "کنڊايل"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "پڪا رنگ جا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:00.070213683Z",
+  "model": "glm-5.3"
+}

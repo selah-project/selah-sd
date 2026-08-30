@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 14:4",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ هڪ ٻئي سان چيائون: اچو ته سردار مقرر ڪريون ۽ موٽي متسرايم وڃون.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "چيائون"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "پنهنجي ڀاءُ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "مقرر ڪريون"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "۽ موٽون"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "متسرايم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:46.041480404Z",
+  "model": "glm-5.3"
+}

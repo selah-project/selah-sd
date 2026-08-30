@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ڇو ته حڪم تي حڪم، حڪم تي حڪم، لڪير تي لڪير، لڪير تي لڪير، اتي ٿورو، اتي ٿورو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "צו",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "تي حڪم"
+    },
+    {
+      "surface": "צו",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "تي حڪم"
+    },
+    {
+      "surface": "קו",
+      "gloss": "لڪير"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "تي لڪير"
+    },
+    {
+      "surface": "קו",
+      "gloss": "لڪير"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "تي لڪير"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ٿورو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ٿورو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:54:07.124780442Z",
+  "model": "glm-5.3"
+}

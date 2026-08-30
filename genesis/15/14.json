@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ پڻ ⟨את⟩ ان قوم کي، جنهن جي اهي خدمت ڪندا، آءٌ دان ڪندس؛ ۽ ان کان پوءِ اهي نڪرندا وڏي مال سان.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان قوم کي"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ان قوم کي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "خدمت ڪندا"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان ڪندس"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "۽ ان کان پوءِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تنهن"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "نڪرندا"
+    },
+    {
+      "surface": "ברכש",
+      "gloss": "مال سان"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:54.876731666Z",
+  "model": "glm-5.3"
+}

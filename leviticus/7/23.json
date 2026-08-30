@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "بني اسرائيل کي چؤ: ڏاند، رڍ ۽ ٻڪريءَ جو ڪوبه چرٻي توهان نه کائو.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چرٻي"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "۽ رڍ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "۽ ٻڪريءَ جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "توهان کائو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:51.095793014Z",
+  "model": "glm-5.3"
+}

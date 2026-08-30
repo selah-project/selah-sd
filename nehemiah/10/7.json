@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "دانييل، گنثون، باروخ،",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "دانييل"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "گنثون"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:58.601346640Z",
+  "model": "glm-5.3"
+}

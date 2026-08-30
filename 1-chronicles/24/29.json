@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "قش جي (پٽن مان): قش جا پٽ — يرحمئيل.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "قش جي (پٽن مان)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "قش"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "يرحمئيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:40.386456323Z",
+  "model": "glm-5.3"
+}

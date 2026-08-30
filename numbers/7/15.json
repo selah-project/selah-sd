@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "هڪ ڀاٽ، ڍڳي جو پل، هڪ ران، هڪ پل، پنهنجي پهرين سال جو، سڙندڙ قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ڀاٽ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پل"
+    },
+    {
+      "surface": "بקר",
+      "gloss": "ڍڳي جو"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ران"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "پل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پل"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "پنهنجي سال جو"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سڙندڙ قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:03.981918278Z",
+  "model": "glm-5.3"
+}

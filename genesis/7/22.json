@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "سڀ، جن جي نَڪَ ۾ جيوتِ روح جو ساھ ھو — سڀ، جيڪي سُڪي زمين ۾ ھئا، مري ويا.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ساھ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جيوتِ"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "جن جي نَڪَ ۾"
+    },
+    {
+      "surface": "مכל",
+      "gloss": "سڀ مان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "سُڪي زمين ۾"
+    },
+    {
+      "surface": "مתו",
+      "gloss": "مري ويا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:18.350607807Z",
+  "model": "glm-5.3"
+}

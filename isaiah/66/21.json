@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 66,
+  "translation": "۽ انهن مان به مان وٺندس ڪاهنن لاءِ ۽ لاوين لاءِ، چوي ٿو ياهوه.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "انهن مان"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "وٺندس"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ڪاهنن لاءِ"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "لاوين لاءِ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:06:27.087066475Z",
+  "model": "glm-5.3"
+}

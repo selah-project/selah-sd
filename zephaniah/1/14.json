@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 1:14",
+  "book": "zephaniah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ويجهو آهي ياهوه جو وڏو ڏينهن، ويجهو آهي ۽ تمام جلد اچي رهيو آهي؛ ياهوه جي ڏينهن جو آواز تلخ آهي، اتي بلوان ڪڙهي ٿو.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ويجهو آهي"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ويجهو آهي"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "۽ جلد"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מר",
+      "gloss": "تلخ"
+    },
+    {
+      "surface": "צרח",
+      "gloss": "ڪڙهي ٿو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بلوان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:13.840255886Z",
+  "model": "glm-5.3"
+}

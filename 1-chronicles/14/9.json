@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ پلشتين آيا ۽ رفائيم جي وادي ۾ ڇانئجي ويا.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "۽ پلشتين"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "۽ ڇانئجي ويا"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "جي وادي ۾"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائيم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:20.248775442Z",
+  "model": "glm-5.3"
+}

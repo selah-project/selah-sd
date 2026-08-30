@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 96,
+  "translation": "ياهوه کي نئون گيت ڳايو، ياهوه کي ڳايو، ساري ⟨هن⟩ زمين.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ڳايو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نئون"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ڳايو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:17.434288221Z",
+  "model": "glm-5.3"
+}

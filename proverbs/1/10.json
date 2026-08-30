@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "منهنجا پٽ، جيڪڏھن گنھگار توکي لالچ ڏين، ته راضي نه ٿئين.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "منهنجا پٽ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "توکي لالچ ڏين"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گنھگار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "راضي ٿئين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:08.152627489Z",
+  "model": "glm-5.3"
+}

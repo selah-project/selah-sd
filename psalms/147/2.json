@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 147,
+  "translation": "يروشلم جوڙيندڙ ياهوه ⟨آهي⟩، اسرائيل جي ڌڪيلن کي ⟨هو⟩ گڏ ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "جوڙيندڙ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "ڌڪيلن کي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "گڏ ڪري ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:51.367133310Z",
+  "model": "glm-5.3"
+}

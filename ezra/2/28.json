@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "بيت-ايل ۽ عي جي ماڻھن جو <...> ٻه سَو ۽ ويھ ۽ ٽي.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻھن جو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "۽ عي"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سَو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "۽ ويھ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "۽ ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:30.151942063Z",
+  "model": "glm-5.3"
+}

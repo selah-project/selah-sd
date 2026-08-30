@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 18:24",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "متان شهر ۾ پنجاهه نيڪ هجن — ڇا تون نيست ڪندين ۽ جاءِ کي نه بخشيندين ان پنجاهه نيڪن جي لاءِ جي ان جي وچ ۾ آهن؟",
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "متان"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هجن"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاهه"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "نيڪ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "۾"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ڇا سچ"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "نيست ڪندين"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "بخشيندين"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "جاءِ کي"
+    },
+    {
+      "surface": "لמען",
+      "gloss": "جي لاءِ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاهه"
+    },
+    {
+      "surface": "הצדיקם",
+      "gloss": "نيڪن"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "جي"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ان جي وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:53.796366510Z",
+  "model": "glm-5.3"
+}

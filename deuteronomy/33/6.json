@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "جيئن رئوبن ۽ نه مري، ۽ ھجن سندس ماڻھو ٿورا ٿيڻ کان بچن.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "مري"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ھجن"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "سندس ماڻھو"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ٿورا ٿيڻ کان بچن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:04.868936130Z",
+  "model": "glm-5.3"
+}

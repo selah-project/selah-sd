@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "تدبيرن جي اڻٻڌ ۾ قوم ڪري ٿو، ۽ نجات ڪيترن صلاح ڏيندڙن ۾ آهي.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "جي اڻٻڌ ۾"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "تدبيرن"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڪري ٿو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "۽ نجات"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ڪيترن ۾"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "صلاح ڏيندڙن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:13.445278473Z",
+  "model": "glm-5.3"
+}

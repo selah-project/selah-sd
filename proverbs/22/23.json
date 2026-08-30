@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ڇوته ياهوه سندن داد ڪندو، ۽ ⟨את⟩ جيڪي کين لٽين تن جي جيءُ لٽيندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "داد ڪندو"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "سندن"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "۽ لٽيندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جيڪي کين لٽين تن جي جيءُ"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "جيڪي کين لٽين"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:09.599929163Z",
+  "model": "glm-5.3"
+}

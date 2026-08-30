@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "تڏھن تون ياهوه جي خوف کي سمجهندين، ۽ ايلوهيم جي ڄاڻ کي لھندين.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تڏھن"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "سمجهندين"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "خوف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "۽ ڄاڻ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "لھندين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:24.482539710Z",
+  "model": "glm-5.3"
+}

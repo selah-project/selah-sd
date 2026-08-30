@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "حلقياه جي (پٽ) حشبياه، يدعياہ جي (پٽ) نتنايل.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "حلقياه جي"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حشبياه"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "يدعياہ جي"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نتنايل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:44.804210846Z",
+  "model": "glm-5.3"
+}

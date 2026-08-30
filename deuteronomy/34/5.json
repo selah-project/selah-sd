@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "پوءِ موشي، ياهوه جو ٻڌو، اُتي مُواب جي زمين ۾ ياهوه جي حڪم موجب مُئي ويو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مُئي ويو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُواب"
+    },
+    {
+      "surface": "על",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "פי",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:09.483593355Z",
+  "model": "glm-5.3"
+}

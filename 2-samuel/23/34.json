@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 23:34",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ايليفليت پٽ احسبي جو، پٽ معاخي جو؛ ايليعام پٽ احيتوفل گيلوني جو،",
+  "tokens": [
+    {
+      "surface": "אליפלט",
+      "gloss": "ايليفليت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחסבי",
+      "gloss": "احسبي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "معاخي"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "ايليعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "احيتوفل"
+    },
+    {
+      "surface": "הגלونי",
+      "gloss": "گيلوني"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:45.159206424Z",
+  "model": "glm-5.3"
+}

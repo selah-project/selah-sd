@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ مي-هايارقون، ۽ هارقون، ⟨انهيءَ⟩ سرحد سان جيڪا يافو جي اڳيان آهي.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "۽ مي"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "هايارقون"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "۽ هارقون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מול",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "يافو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:59.417206387Z",
+  "model": "glm-5.3"
+}

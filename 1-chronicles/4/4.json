@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 4:4",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ فنوئيل گدر جو پيءُ ھو، ۽ عيزر حوشه جو پيءُ؛ اھي حُور جا پُٽ آھن — اپفراته جي پھرين پيد ٿيل، بيت لحم جو پيءُ.",
+  "tokens": [
+    {
+      "surface": "ופנואל",
+      "gloss": "۽ فنوئيل"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "گدر"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "۽ عيزر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "حوشه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حُور"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پھرين پيد ٿيل"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "اپفراته"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:28.739338600Z",
+  "model": "glm-5.3"
+}

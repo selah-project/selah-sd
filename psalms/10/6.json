@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "هن پنهنجي دل ۾ چيو: مان بلڪل نه هليندس؛ نسل در نسل تائين آءٌ بڇڙائيءَ ۾ نه آهيان.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "پنهنجي دل ۾"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بلڪل نه"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "هليندس"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل تائين"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "در نسل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "بڇڙائيءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:17.994791909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "پوءِ بلهاهه حاملہ ٿي ۽ يعقوب کي پٽ ڄڻيو.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "حاملہ ٿي"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بلهاهه"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "يعقوب کي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:55.116286843Z",
+  "model": "glm-5.3"
+}

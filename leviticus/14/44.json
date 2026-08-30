@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ته ڪوھن اچي ۽ ڏسي، ۽ ڏسو چٽ گهر ۾ پکڙجي وڃي — ته اُھو گهر ۾ ڪوڙهه جي زهريلي مَمآرَت آھي؛ گهر اڻَپاڪ ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "۽ اچي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوھن"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏسي"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پکڙجي وڃي"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "چٽ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ڪوڙهه"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "زهريلي مَمآرَت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُھو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "اڻَپاڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨آھي⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:16.284064608Z",
+  "model": "glm-5.3"
+}

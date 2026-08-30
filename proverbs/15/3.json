@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ھر ھڪ جاءِ تي ياهوه جون اکيون بيٺيون آھن، براين ۽ چڱاين کي ھارين ٿيون.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ھر ھڪ ۾"
+    },
+    {
+      "surface": "مקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "اکيون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جون"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "ھارين ٿيون"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "براين"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "۽ چڱاين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:38.070913789Z",
+  "model": "glm-5.3"
+}

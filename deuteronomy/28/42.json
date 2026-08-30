@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "تنهنجا سڀ وڻ ۽ تنهنجي زمين جا ميوا ٽٽڻڪو کائي ويندو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "تنهنجا وڻ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "۽ ميوا"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "تنهنجي زمين جا"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "کائي ويندو"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ٽٽڻڪو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:47.658175503Z",
+  "model": "glm-5.3"
+}

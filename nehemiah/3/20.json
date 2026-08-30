@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 3:20",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ان کان پوءِ بروڪ پٽ زبّي شوق سان ٻي ماپ ڪنڊ کان وٺي مکيه ڪاهن اليشيب جي گهر جي دروازي تائين مضبوط ڪئي.",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "ان کان پوءِ"
+    },
+    {
+      "surface": "החרה",
+      "gloss": "شوق سان"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "مضبوط ڪيائين"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "بروڪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "זבי",
+      "gloss": "زبّي"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ماپ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ٻي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "هמקצוע",
+      "gloss": "ڪنڊ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "اليشيب"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "مکيه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:15.460127042Z",
+  "model": "glm-5.3"
+}

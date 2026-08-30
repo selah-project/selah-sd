@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ڪيئن اونداهو ٿيو سون، ڪيئن بدليجي ويو خالص سون! مقدس جا پٿر هر گهٽيءَ جي منڍ ۾ ڍرڪجي ويا.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "اونداهو ٿيو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "بدليجي ويو"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "خالص سون"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "سڀ کان چڱو"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "ڍرڪجي ويا"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "جا پٿر"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "منڍ ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "گهٽيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:50.754822899Z",
+  "model": "glm-5.3"
+}

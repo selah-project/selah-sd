@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "مان غصي ۾ توکي بادشاهه ڏنو ۽ غضب ۾ کيس وٺي ويس.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "غصي ۾"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "۽ وٺي ويس"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "غضب ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:45:45.093819698Z",
+  "model": "glm-5.3"
+}

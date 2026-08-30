@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "جيئن آهيان، ادوناي ياهوه جو چوڻ آهي، جيڪڏهن توهان لاءِ اسرائيل ۾ وري هي پهاڪو ٿيندو،",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "جيئن آهيان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "چوڻ آهي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "משל",
+      "gloss": "پهاڪو ٻوليو"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "پهاڪو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائيل ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:31:57.240568505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "job 38:37",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "ڪير ڳڻي ٿو ⟨את⟩ بادلن کي حكمت سان، ۽ آسمانن جا ٿيلها ڪير ليٽائي ٿو؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ڳڻي ٿو"
+    },
+    {
+      "surface": "את",
+      "gloss": "",
+      "marks": "بادلن"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "بادلن"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "حكمت سان"
+    },
+    {
+      "surface": "ונבלי",
+      "gloss": "۽ ٿيلها"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانن جا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "ישכיב",
+      "gloss": "ليٽائي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:33.219206722Z",
+  "model": "glm-5.3"
+}

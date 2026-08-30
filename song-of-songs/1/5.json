@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ڪاري آهيان مان ۽ سور ميٺي، يروشلم جون ڌيئرو، قيدار جي خيمن جهڙي، شلومو جي پردن جهڙي.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "ڪاري"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آهيان مان"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "۽ سور ميٺي"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيئرو"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "جهڙي خيمن"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قيدار جي"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "جهڙي پردن"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:46.266143763Z",
+  "model": "glm-5.3"
+}

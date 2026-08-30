@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 68,
+  "translation": "ايلوهيم جو جبل، بشان جو جبل؛ چوٽين جو جبل، بشان جو جبل.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم جو"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "بشان جو"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "چوٽين جو"
+    },
+    {
+      "surface": "הر",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "بشان جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:24.820876683Z",
+  "model": "glm-5.3"
+}

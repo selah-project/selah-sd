@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ بادشاهه ڏند جو هڪ وڏو تخت ٺاهيو، ۽ ان کي خالص سون سان ڍڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ٺاهيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ڏند (ڏندي)"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "۽ ان کي ڍڪيائين"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:10.787682565Z",
+  "model": "glm-5.3"
+}

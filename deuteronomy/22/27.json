@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ڇوته ٻَڌَ ۾ کيس ڏٺو ھُو؛ اُھا مَنگٿل نَينگَر رُڌڪي ۽ کيس بچائڻ وارو ڪوبه ڪين ھُو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ٻَڌَ ۾"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "کيس ڏٺو ھُو"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "رُڌڪي"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "اُھا نَينگَر"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "مَنگٿل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ڪين ھُو"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "بچائڻ وارو ڪوبه"
+    },
+    {
+      "surface": "לה",
+      "gloss": "کيس"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:23.118274591Z",
+  "model": "glm-5.3"
+}

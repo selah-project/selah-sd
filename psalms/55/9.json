@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 55,
+  "translation": "مان پنهنجي بچاءَ لاءِ جلد ڪريان، تڙندڙ هوا کان، گهمڙ کان.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "جلد ڪريان"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "بچاءَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پنهنجي لاءِ"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "هوا کان"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "تڙندڙ"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "گهمڙ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T15:02:25.031506193Z",
+  "model": "glm-5.3"
+}

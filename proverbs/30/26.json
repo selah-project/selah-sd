@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "پٿر-ٿلهه ⟨هڪ⟩ قوم آهن نه وڏي طاقت وارا، پوءِ به ⟨اُهي⟩ پٿر ۾ پنھنجو گھر رکن ٿا.",
+  "tokens": [
+    {
+      "surface": "שפנים",
+      "gloss": "پٿر-ٿلهه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "وڏي طاقت وارا"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "رکن ٿا"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "پٿر ۾"
+    },
+    {
+      "surface": "ביתם",
+      "gloss": "پنھنجو گھر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:41.631454535Z",
+  "model": "glm-5.3"
+}

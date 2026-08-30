@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 8:5",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ عزرا ڪتاب سڀني ماڻهن جي اکين اڳ کوليو — ڇو ته سڀني ماڻهن کان مٿي هو — ۽ جڏھن کوليائين، تہ سڀ ئي ماڻهو بيٺا.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "کوليائين"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "عزرا"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ڪتاب"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "اکين اڳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וכפתחו",
+      "gloss": "۽ جڏھن کوليائين"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "بيٺا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:25.647114957Z",
+  "model": "glm-5.3"
+}

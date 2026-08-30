@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "داويد جو مزمور۔ ياهوه جي ⟨آهي⟩ زمين ۽ سندس ڀرپوري، دنيا ۽ ان ۾ رهندڙ۔",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "داويد جو"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "۽ سندس ڀرپوري"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنيا"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "۽ رهندڙ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:26.501838006Z",
+  "model": "glm-5.3"
+}

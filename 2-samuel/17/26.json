@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ اسرائيل ۽ ابشالوم گلعاد جي ملڪ ۾ خيمہ قائم ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "خيمہ قائم ڪيو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "۽ ابشالوم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ملڪ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گلعاد"
+    }
+  ],
+  "timestamp": "2026-08-30T11:22:08.433032278Z",
+  "model": "glm-5.3"
+}

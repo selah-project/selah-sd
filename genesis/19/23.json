@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "سج ⟨الأرض⟩ زمين تي نڪتو ۽ لوط صوعر ۾ آيو.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نڪتو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "۽ لوط"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "صوعر ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:32:51.181283615Z",
+  "model": "glm-5.3"
+}

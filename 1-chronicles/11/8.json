@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ هن شهر کي چوڌاري، ملو کان وٺي چوڌاري تائين، اڏيو؛ ۽ يوآب ⟨את⟩ شهر جي باقي کي جيئرو ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "اڏيو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر کي"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "ملو"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "۽ يوآب"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جيئرو ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر جي باقي کي"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "باقي"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:58.817723377Z",
+  "model": "glm-5.3"
+}

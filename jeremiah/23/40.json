@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 23:40",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ مون توھان تي هميشه جي بي عزتي ۽ هميشه جي شرم رکيندس، جيڪو وسري نه ويندو.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "۽ مون رکيندس"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "توھان تي"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "بي عزتي"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه جي"
+    },
+    {
+      "surface": "וכלמות",
+      "gloss": "۽ شرم"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "وسري ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:15:17.186003158Z",
+  "model": "glm-5.3"
+}

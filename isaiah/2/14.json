@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ سڀ اوچن جبلن تي، ۽ سڀ اُوپرين ٽڪرين تي،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ … تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "جبلن"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "اوچن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ … تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ٽڪرين"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "اُوپرين"
+    }
+  ],
+  "timestamp": "2026-08-30T11:46:47.169170967Z",
+  "model": "glm-5.3"
+}

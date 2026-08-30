@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 9:17",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "جو مون کي whirlwind ۾ ڪُٽي ٿو ۽ منھنجي زخمن کي بنا سبب وڌائي ٿو.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בשערה",
+      "gloss": " whirlwind ۾"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "مون کي ڪُٽي ٿو"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "۽ وڌائي ٿو"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "منھنجي زخمن کي"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بنا سبب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:36:24.143508733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ياهوه لاءِ ⟨هو⟩ مُخلّص آھي؛ تنهجي قوم تي تنهنجي برڪت آھي. سيله.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "مُخلّص"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تنهجي قوم"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "تنهنجي برڪت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيله"
+    }
+  ],
+  "timestamp": "2026-08-30T12:58:34.388957679Z",
+  "model": "glm-5.3"
+}

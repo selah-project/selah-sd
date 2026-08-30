@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "يِساکار هڏيلو سگهارو گڏهه آهي، جيڪو مال جي واڙن جي وچ ۾ ليٽيل آهي.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "يِساکار"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "گڏهه"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "هڏيلو"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "ليٽيل آهي"
+    },
+    {
+      "surface": "בין",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "مال جي واڙن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:24.030721081Z",
+  "model": "glm-5.3"
+}

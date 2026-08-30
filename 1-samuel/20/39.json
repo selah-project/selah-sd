@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ننڍي ٻارَ ڪجهه به نه ڄاڻيو؛ رڳو يهونتن ۽ داويد ⟨את⟩ ڳالهه ڄاڻندا هئا.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "۽ ننڍي ٻارَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻيو"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ڪجهه به"
+    },
+    {
+      "surface": "אך",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهونتن"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "۽ داويد"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاڻندا هئا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڳالهه"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالهه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:13:14.443909238Z",
+  "model": "glm-5.3"
+}

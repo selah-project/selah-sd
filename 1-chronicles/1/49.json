@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ شاول مري ويو، ۽ سندس جاءِ تي بعَل حانان، عَڪبور جي پُٽ، بادشاھي ڪيائين.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري ويو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "۽ بادشاھي ڪيائين"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "سندس جاءِ تي"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعَل"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "عَڪبور"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:27.739643819Z",
+  "model": "glm-5.3"
+}

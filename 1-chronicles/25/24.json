@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 25:24",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "سترهين ليشبقاشاه ⟨هو⟩، سندس پٽ ۽ سندس ڀائر ٻارهن.",
+  "tokens": [
+    {
+      "surface": "לשבעה",
+      "gloss": "سترهين"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-10"
+    },
+    {
+      "surface": "לישבקשה",
+      "gloss": "ليشبقاشاه"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "۽ سندس ڀائر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-10"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:59.072409911Z",
+  "model": "glm-5.3"
+}

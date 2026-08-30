@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ھڪ ئي گھر ۾ ⟨اھو⟩ کائجي؛ گوشت مان ڪوبه حصو گھر مان ٻاھر نه ڪڍجو، ۽ ڪوبه ھڏي ان ۾ نه ڀنجي.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "گھر ۾"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائجي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ڪڍجو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ٻاھر"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "۽ ھڏي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ڀنجو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:12.402515753Z",
+  "model": "glm-5.3"
+}

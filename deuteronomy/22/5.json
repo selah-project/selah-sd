@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 22:5",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "مرد جو سامان عورت تي نه هجي، ۽ مرد عورت جو ڪپڙو نه پائي، ڇو ته اهي ڪندڙ سڀ ياهوه تنهنجي ايلوهيم لاءِ توبهه آهن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "مرد جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "پائي"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "ڪپڙو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت جو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "توبهه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تنهنجي ايلوهيم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪندڙ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:40.185793987Z",
+  "model": "glm-5.3"
+}

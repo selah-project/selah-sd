@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 8:13",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ مون سان چيائين: ٻيهر وراڇ، تہ وڏيون گھٽائيون ڏسيندين جيڪي اھي ڪري رھيا آھن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيهر"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "وراڇ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ڏسيندين"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "گھٽائيون"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "وڏيون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ڪري رھيا آھن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:57:15.869783847Z",
+  "model": "glm-5.3"
+}

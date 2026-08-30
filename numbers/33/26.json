@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ⟨هي⟩ مخيلوت کان روانا ٿيا، ۽ تحت ۾ منزل ڪيائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "مخيلوت کان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "منزل ڪيائون"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "تحت ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:47.346055627Z",
+  "model": "glm-5.3"
+}

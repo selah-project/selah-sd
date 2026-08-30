@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "حرپ جي اولاد، هڪ سئو ٻارهن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جي اولاد"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "حرپ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "هڪ سئو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ـارهن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:44.500123Z",
+  "model": "glm-5.3"
+}

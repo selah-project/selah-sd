@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ⟨جڏهن⟩ مڙس يا زال جي چمڙيءَ جي گوشت ۾ چٽا داغ ھجن، اڇا چٽا داغ،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "۽ مڙس"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨جڏهن⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ھجن"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چمڙيءَ ۾"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "گوشت ۾"
+    },
+    {
+      "surface": "بהרת",
+      "gloss": "چٽا داغ"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "چٽا داغ"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "اڇا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:03.457060308Z",
+  "model": "glm-5.3"
+}

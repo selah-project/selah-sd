@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ٻڏل آهي افريم ڪٽيل فيصلي سان، ڇوته راضِي ٿي هليو پوئتي حڪم جي.",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "ٻڏل آهي"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افريم"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "ڪٽيل"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فيصلي سان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "راضِي ٿي"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "هليو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پوئتي"
+    },
+    {
+      "surface": "צו",
+      "gloss": "حڪم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:06.320168578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "۽ گهٽ ٿيا ۽ جهڪي ويا دٻاءُ، برائي ۽ غم کان.",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "۽ گهٽ ٿيا"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "۽ جهڪي ويا"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "دٻاءُ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "۽ غم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:09.083731954Z",
+  "model": "glm-5.3"
+}

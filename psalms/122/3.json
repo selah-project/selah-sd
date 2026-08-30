@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 122,
+  "translation": "يروشلم، جا اڏيل آھي ⟨ڪنهن⟩ شهر وانگر، جا جوڙيل آھي يڪتا،",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "جا اڏيل آھي"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "شهر وانگر"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "جا جوڙيل آھي"
+    },
+    {
+      "surface": "לה",
+      "gloss": "يڪتا"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "يڪتا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:28.362175498Z",
+  "model": "glm-5.3"
+}

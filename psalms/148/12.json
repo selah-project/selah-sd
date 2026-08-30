@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 148,
+  "translation": "نوجوان مرد ۽ پڻ ڪنواريون، پير مرد گڏ جوان ٻارن سان؛",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "نوجوان مرد"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "ڪنواريون"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "پير مرد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گڏ"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "جوان ٻارن سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:21.417151611Z",
+  "model": "glm-5.3"
+}

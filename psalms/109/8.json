@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 109,
+  "translation": "سندس ڏينهن ٿورا هجن، ۽ ٻيو سندس عهدو وٺي.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "هجن"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "سندس ڏينهن"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "ٿورا"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "سندس عهدو"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "وٺي"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ٻيو"
+    }
+  ],
+  "timestamp": "2026-08-30T15:03:33.274299460Z",
+  "model": "glm-5.3"
+}

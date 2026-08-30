@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "هي آهي اُهو نسل، جيڪو ⟨هو کيس⟩ طلب ڪري ٿو، تنهنجو منهن ڳولهيندڙ — يعقوب. سلاه.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "طلب ڪري ٿو"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ڳولهيندڙ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تنهنجو منهن"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:19.819371516Z",
+  "model": "glm-5.3"
+}

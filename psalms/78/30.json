@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 78,
+  "translation": "پنهنجي تڙپ کان موڙيل نه ٿيا، سندن کاڌو اڃا سندن وات ۾ هو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "موڙيل ٿيا"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "پنهنجي تڙپ کان"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اڃا"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "سندن کاڌو"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "سندن وات ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:25.531235335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 2:12",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇوته ياهوه صبائوت جو ڏينهن سڀ اڪڙيل ۽ اوچي تي ايندو، ۽ سڀ کڻيل تي؛ ۽ اهو پست ٿيندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "اڪڙيل"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "۽ اوچي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "کڻيل"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "۽ پست ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:46:54.954268949Z",
+  "model": "glm-5.3"
+}

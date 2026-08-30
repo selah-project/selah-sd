@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 26:13",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "زِرح جي، ⟨the⟩ زِرحِي خاندان؛ شاؤل جي، ⟨the⟩ شاؤلِي خاندان.",
+  "tokens": [
+    {
+      "surface": "לזרח",
+      "gloss": "زِرح"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "زِرحِي"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "השאולי",
+      "gloss": "شاؤلِي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:50.340227520Z",
+  "model": "glm-5.3"
+}

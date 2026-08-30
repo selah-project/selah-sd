@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڪوھنين مان هر نر ⟨את⟩ ان کي کائي؛ اُهو قُدس القدس آھي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "ڪوھنين مان"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "القدس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُهو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:27.526617552Z",
+  "model": "glm-5.3"
+}

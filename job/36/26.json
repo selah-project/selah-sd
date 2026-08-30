@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 36:26",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "ڏسو، ايل ⟨عظيم آھي⟩ ۽ اسان اُن کي نه سڃاڻون؛ اُن جي سالن جو ڳڻپ نه پرکي سگھجي.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "سڃاڻون"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳڻپ"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "اُن جي سالن جو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "پرکي سگھجي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:43:09.959819472Z",
+  "model": "glm-5.3"
+}

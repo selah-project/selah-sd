@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ يعقوب جي رانڍي مان نڪرندڙ سڀ نفسن جو (ڳڻپ) ستر نفس ٿيو؛ ۽ يوسف متصرايم ۾ هو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "نڪرندڙ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "رانڍي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "۽ يوسف"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "متصرايم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:15.748329688Z",
+  "model": "glm-5.3"
+}

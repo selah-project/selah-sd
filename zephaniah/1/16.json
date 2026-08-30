@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "سنگ جي وڄائڻ ۽ لڙائي جي هڪل جو ڏينهن — مستحڪم شهرن تي ۽ اُوچن ڪنڊن تي.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "سنگ جي وڄائڻ"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "۽ لڙائي جي هڪل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "مستحڪم شهرن"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "مستحڪم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "ڪنڊن"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "اُوچن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:13.840612664Z",
+  "model": "glm-5.3"
+}

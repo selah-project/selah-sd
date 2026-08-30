@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "پوءِ يهوشعا ان کي برڪت ڏني ۽ چبرون ⟨את⟩ ڪالب بن يفني کي ورثي طور ڏنو.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "پوءِ برڪت ڏني"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشعا"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چبرون"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "چبرون"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ڪالب کي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يفني"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ورثي طور"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:21.980213904Z",
+  "model": "glm-5.3"
+}

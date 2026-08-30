@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ياهوه کي ارمان آيو ته هن زمين ۾ ⟨את⟩ ماڻهوءَ کي خلقيو هو، ۽ هي سندس دل ۾ سور ٿي ويو.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ارمان آيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "خلقيو هو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماڻهوءَ کي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهوءَ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "سور ٿي ويو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "سندس دل"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:46.747003819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ کاهنن مان يدعيا ۽ يهويارب ۽ ياڪين.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنن"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "يدعيا"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "۽ يهويارب"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "۽ ياڪين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:53.312928604Z",
+  "model": "glm-5.3"
+}

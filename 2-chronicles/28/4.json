@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 28:4",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ هن قرباني ڪئي ۽ مٿاهين جاين تي، ٽڪرين تي ۽ هر سرسبز وڻ هيٺ خوشبوءِ ٻاريائين.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "۽ قرباني ڪيائين"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "۽ خوشبوءِ ٻاريائين"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "مٿاهين جاين تي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ٽڪرين"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "۽ هيٺ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "سرسبز"
+    }
+  ],
+  "timestamp": "2026-08-30T14:27:46.680757925Z",
+  "model": "glm-5.3"
+}

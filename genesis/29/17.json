@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 29:17",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ لياهه جون اکيون نرمون هيون، ۽ راحيل خوبصورت قد ۽ خوبصورت ڏيکار واري ⟨هئي⟩.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "۽ اکيون"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لياهه جون"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "نرمون هيون"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "۽ راحيل"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "هئي"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "خوبصورت"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "قد"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "۽ خوبصورت"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ڏيکار"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:11.853545069Z",
+  "model": "glm-5.3"
+}

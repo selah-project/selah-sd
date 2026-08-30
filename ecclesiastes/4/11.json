@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ان سان گڏ، جيڪڏهن ٻه سمهندا ته کين گرمي ٿيندي؛ پر هڪ کي اڪيلي ڪيئن گرمي ٿيندي؟",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ان سان گڏ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "سمهندا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ته کين گرمي ٿيندي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "پر هڪ کي"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "گرمي ٿيندي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:13.156250576Z",
+  "model": "glm-5.3"
+}

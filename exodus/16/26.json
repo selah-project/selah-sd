@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ڇھن ڏينهن ۾ توهان ⟨ان کي⟩ چُڳو؛ ۽ ستين ڏينهن ۾ شبت ⟨آهي⟩، ⟨ان ۾⟩ ڪجهه نه هوندو.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ڇھن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "توهان چُڳو"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "۽ ڏينهن ۾"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شبت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:55.376723837Z",
+  "model": "glm-5.3"
+}

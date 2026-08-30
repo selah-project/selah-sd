@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ايمر جي پٽن مان: حناني ۽ زبديه.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "۽ پٽن مان"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ايمر"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "حناني"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "۽ زبديه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:38.565533514Z",
+  "model": "glm-5.3"
+}

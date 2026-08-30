@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 16:9",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "تون پنهنجي لاءِ ست هفتا ڳڻ؛ جڏهن اڻو (داس) کَڙي ٻج ۾ لڳندي آهي، تڏهن تون ست هفتا ڳڻڻ شروع ڪر.",
+  "tokens": [
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "هفتا"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "ڳڻ"
+    },
+    {
+      "surface": "لך",
+      "gloss": "پنهنجي لاءِ"
+    },
+    {
+      "surface": "מהחל",
+      "gloss": "کان شروع"
+    },
+    {
+      "surface": "חרمש",
+      "gloss": "اڻو (داس)"
+    },
+    {
+      "surface": "בקמה",
+      "gloss": "کَڙي ٻج ۾"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "شروع ڪر"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ڳڻڻ لاءِ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "هفتا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:41:19.400192654Z",
+  "model": "glm-5.3"
+}

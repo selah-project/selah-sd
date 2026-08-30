@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پاڻي مُنھنجي مٿان وهي ويا؛ مون چيو، آءٌ ڪَٽِي ويس.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "وهي ويا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "על",
+      "gloss": "مُنھنجي مٿان"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مَٿي تي"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "مون چيو"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "آءٌ ڪَٽِي ويس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:29.347049385Z",
+  "model": "glm-5.3"
+}

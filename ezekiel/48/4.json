@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ نفتالي جي سرحد تي، اوڀر واري ڪناري کان سمنڊ واري ڪناري تائين، منشه، ھڪ حصو۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي جي"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ڪناري کان"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "اوڀر واري"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ڪناري"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "سمنڊ واري"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ حصو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:43:21.352811354Z",
+  "model": "glm-5.3"
+}

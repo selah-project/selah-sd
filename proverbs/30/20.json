@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 30:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ائين آهي زناڪار عورت جو رستو: کائي ٿي، پنهنجو وات اُگهي ٿي، ۽ چوي ٿي، “مون ڪوبه برائي ڪئي ناهي.”",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "מנאפת",
+      "gloss": "زناڪار"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "کائي ٿي"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "۽ اُگهي ٿي"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "پنهنجو وات"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "۽ چوي ٿي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "مون ڪئي"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:06:04.212490458Z",
+  "model": "glm-5.3"
+}

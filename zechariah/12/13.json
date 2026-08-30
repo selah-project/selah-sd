@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 12:13",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "گهر لوي جو قبيلو الڳ، ۽ سندن زالون الڳ؛ شمعي جو قبيلو الڳ، ۽ سندن زالون الڳ۔",
+  "tokens": [
+    {
+      "surface": "משפחת",
+      "gloss": "قبيلو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوي"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "الڳ"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "۽ سندن زالون"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "الڳ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "قبيلو"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "شمعي"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "الڳ"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "۽ سندن زالون"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "الڳ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:57:09.836064960Z",
+  "model": "glm-5.3"
+}

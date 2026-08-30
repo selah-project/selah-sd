@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 37:31",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ بيت يهودا جي جيڪا ڀاڳي بچي، ⟨اها⟩ ٻيهر هيٺان پاڙ ڪندي ۽ مٿان ڦل ڪندي.",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "۽ ٻيهر"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "ڀاڳي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا جي"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "بچيل"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "پاڙ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "هيٺان"
+    },
+    {
+      "surface": "وעשה",
+      "gloss": "۽ ڪندي"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ڦل"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "مٿان"
+    }
+  ],
+  "timestamp": "2026-08-30T11:57:41.749148771Z",
+  "model": "glm-5.3"
+}

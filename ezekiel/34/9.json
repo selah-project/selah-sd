@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "تنھنڪري اي چرواھا، ياهوه جو لفظ ٻڌو۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "تنھنڪري"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "اي چرواھا"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:38:22.986392525Z",
+  "model": "glm-5.3"
+}

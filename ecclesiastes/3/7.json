@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڦاڙڻ جو وقت ۽ سِيڻ جو وقت؛ ماٺ ڪرڻ جو وقت ۽ ڳالهائڻ جو وقت.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "ڦاڙڻ جو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "۽ وقت"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "سِيڻ جو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "ماٺ ڪرڻ جو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "۽ وقت"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ڳالهائڻ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:00.916741551Z",
+  "model": "glm-5.3"
+}

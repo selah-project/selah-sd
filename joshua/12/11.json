@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "يرموت جو بادشاھ ⟨الواحد⟩؛ لاکش جو بادشاھ ⟨الواحد⟩؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "جو بادشاھ"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "يرموت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "جو بادشاھ"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "لاکش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:14.204688638Z",
+  "model": "glm-5.3"
+}

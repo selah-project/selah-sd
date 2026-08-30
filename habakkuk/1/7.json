@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "اهو خوفناڪ ۽ ڊپڻيدار آهي؛ ان کان ئي سندس فيصلو ۽ سندس شان نڪرندي.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "خوفناڪ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "۽ ڊپڻيدار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ان کان ئي"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "سندس فيصلو"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "۽ سندس شان"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نڪرندي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:53:46.731736066Z",
+  "model": "glm-5.3"
+}

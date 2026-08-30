@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 6:51",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ قهات جي پٽن جي خاندانن مان؛ تن جي سرحدن جا شهر افرايم جي ڄاڻ مان ٿيا.",
+  "tokens": [
+    {
+      "surface": "וממשפחות",
+      "gloss": "۽ خاندانن مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "تن جي سرحدن جا"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ڄاڻ مان"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرايم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:10.292928567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "ڪير حڪيم آھي ته اھي ٻڌي ۽ ياد رکي، ۽ ياهوه جي خيسيد تي غور ڪري؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حڪيم"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "۽ ياد رکي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "۽ غور ڪري"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:12.298367012Z",
+  "model": "glm-5.3"
+}

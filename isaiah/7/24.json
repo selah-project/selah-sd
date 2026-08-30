@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "تيرن ۽ ڪمان سان اتي ايندو، ڇوته سڄي زمين ڪنڊن ۽ ٻوڙن جي ٿيندي.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "تيرن سان"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "۽ ڪمان سان"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ايندو"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ڪنڊ"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "۽ ٻوڙ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿيندي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:33.590738419Z",
+  "model": "glm-5.3"
+}

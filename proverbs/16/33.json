@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ڇاتيءَ ۾ ⟨את⟩ قرعو اڇلايو وڃي ٿو، پر ياهوه کان ⟨את⟩ جو سڄو فيصلو آهي.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "ڇاتيءَ ۾"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "اڇلايو وڃي ٿو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قرعو"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قرعو"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "پر ياهوه کان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "משפטو",
+      "gloss": "جي فيصلو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:42.763383293Z",
+  "model": "glm-5.3"
+}

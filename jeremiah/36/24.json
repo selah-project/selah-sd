@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 36:24",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ ⟨هوءَ> ڊنيا نه، نه پنهنجا ڪپڙا ڦاڙيا — نه بادشاهه، نه سندس ڪو به نوڪر جي سڀني هنن لفظن کي ٻُڌو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ڊنيا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "ڦاڙيا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجا ڪپڙا"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "پنهنجا ڪپڙا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سندس سڀ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "نوڪر"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "ٻُڌو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظن کي"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هنن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:20:36.649967105Z",
+  "model": "glm-5.3"
+}

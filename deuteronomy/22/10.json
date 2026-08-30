@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ڏاند ۽ خر گڏجي کڙڪائڻ (همڻ) نه ڪريو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "کڙڪائڻ ڪريو"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "ڏاند سان"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "۽ خر سان"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏجي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:29.759637124Z",
+  "model": "glm-5.3"
+}

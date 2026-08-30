@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ماڻهوءَ جي هر هڪ واٽ سندس پنهنجن اکين ۾ سڌي لڳي ٿي، پر دلن کي توليندڙ ياهوه ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر هڪ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "واٽ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ جي"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سڌي"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "سندس اکين ۾"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "پر توليندڙ"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "دلن کي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:49.975427382Z",
+  "model": "glm-5.3"
+}

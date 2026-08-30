@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 69,
+  "translation": "آسمان ۽ زمين ان جي ساراھ ڪن، سمنڊ ۽ ۾ رچڻ جا سمورا جانور.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "ان جي ساراھ ڪن"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "۽ زمين"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سمورا"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "رچڻ جا جانور"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:22.566318612Z",
+  "model": "glm-5.3"
+}

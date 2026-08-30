@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ تون انھن کي ھڪ ٽوڪريءَ ۾ رکندين ۽ ٽوڪريءَ سميت ⟨את⟩ پاڙي ۽ ⟨את⟩ ٻن مڙسن کي پيش ڪندين.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "۽ تون رکندين"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "انھن کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "סל",
+      "gloss": "ٽوڪريءَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "۽ تون پيش ڪندين"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "انھن کي"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "ٽوڪريءَ ۾"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "پاڙي کي"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "پاڙي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "مڙسن کي"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "مڙسن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:07:46.390349362Z",
+  "model": "glm-5.3"
+}

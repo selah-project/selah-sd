@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 83,
+  "translation": "۽ اھي ڄاڻن ته تون آھين — تنهجو نالو ياهوه — اڪيلي، عليين، ساري زمين تي۔",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "۽ اھي ڄاڻن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تنهجو نالو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "اڪيلي"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عليين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:45.955904898Z",
+  "model": "glm-5.3"
+}

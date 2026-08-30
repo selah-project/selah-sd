@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 2:54",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "سلمٰ جا پٽ: بيت لحم، ۽ نتوفتي، عتروت بيت يوآب، ۽ منحتي جو اڌ، صرعي.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "سلمٰ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "ונטופתי",
+      "gloss": "۽ نتوفتي"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "عتروت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "۽ اڌ"
+    },
+    {
+      "surface": "המנחתי",
+      "gloss": "منحتي جو"
+    },
+    {
+      "surface": "הצרעי",
+      "gloss": "صرعي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:54.528683236Z",
+  "model": "glm-5.3"
+}

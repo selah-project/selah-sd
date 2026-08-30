@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 34:17",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ ياهوه جي گهر ۾ لڌل چاندي پوري انهن، ۽ ان کي مقرر ڪيلن جي هٿ ۾ ۽ ڪم ڪندڙن جي هٿ ۾ ڏنائون.",
+  "tokens": [
+    {
+      "surface": "ויתיכו",
+      "gloss": "پوري انهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چاندي"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "لڌل"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "جي گهر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ויתנוהו",
+      "gloss": "۽ ان کي ڏنائون"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾ (هٿ)"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "مقرر ڪيلن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ ۾ (هٿ)"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "ڪم ڪندڙن"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ڪم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:31:54.245234628Z",
+  "model": "glm-5.3"
+}

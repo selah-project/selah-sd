@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 31:35",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ماڻهن جون جانون، انهن عورتن مان جيڪي مرد جي SAMBHOG نه ڄاڻنديون هيون — سڀ جانون ٻيھن ۽ ٽيھن هزار.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "۽ جانون"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهن جون"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "انهن عورتن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاڻنديون هيون"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "SAMBHOG"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "مرد جي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جانون"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻيھن"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽيھن"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:50.609555063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ڀاڄيءَ جو کاڌو ۽ محبت اُتي، ⟨بهتر⟩ آهي فربل ڏاند کان جي ساڻ بغض هجي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ڀلي"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "کاڌو"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "ڀاڄيءَ جو"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "۽ محبت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "فربل"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "۽ بغض"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ساڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:39.834616051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ كاهنن ⟨את⟩ ۽ لاوين ⟨את⟩ کي اندر آندائين ۽ کين اوڀر واري چوڪ ۾ گڏ ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "۽ اندر آندائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كاهنن"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "كاهنن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لاوين"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوين"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "۽ گڏ ڪيائين"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "چوڪ ۾"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "اوڀر واري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:28:49.199242481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "نه چؤ جيئن هن من سان ڪيو تيئن آءٌ هن سان ڪندس؛ آءٌ ماڻهوءَ کي سندس ڪم موجب بدلو ڏيندس.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "من سان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ڪندس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن سان"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "بدلو ڏيندس"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ماڻهوءَ کي"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "سندس ڪم موجب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:45.546029751Z",
+  "model": "glm-5.3"
+}

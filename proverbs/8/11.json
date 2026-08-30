@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ڇوته حكمت موتين کان چڱي آهي، ۽ سڀ پسند جهڙيون شيون ان جي برابر نه ٿي سگهن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چڱي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمت"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "موتين کان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "پسند جهڙيون شيون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "برابر ٿي سگهن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:56.260242304Z",
+  "model": "glm-5.3"
+}

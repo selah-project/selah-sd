@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ڏسو، آءٌ انهن تي ⟨את⟩ مادي کي جڳائيندو، جيڪي چاندي نه ڳڻيندا ۽ سون نه پسند ڪندا.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ڏسو، آءٌ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "جڳائيندو"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "انهن تي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مادي کي"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ڳڻيندا"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "۽ سون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "پسند ڪندا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:40.980642439Z",
+  "model": "glm-5.3"
+}

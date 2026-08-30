@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "هر وقت جو دوست محبت ڪري ٿو، ۽ ڀاءُ تنگيءَ لاءِ ڄائو ويو آھي.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "محبت ڪري ٿو"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "دوست"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "۽ ڀاءُ"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "تنگيءَ لاءِ"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ڄائو ويو آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:29.974027505Z",
+  "model": "glm-5.3"
+}

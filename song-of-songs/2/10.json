@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "منهنجي محبوم جواب ڏنو ۽ مون کي چيائين: “اُٿ، منهنجي سورهن، منهنجي سهڻي، ۽ هل وڃ.”",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "جواب ڏنو"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "منهنجي محبوم"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "اُٿ"
+    },
+    {
+      "surface": "لך",
+      "gloss": "تون"
+    },
+    {
+      "surface": "رעיתי",
+      "gloss": "منهنجي سورهن"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "منهنجي سهڻي"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "۽ هل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    }
+  ],
+  "timestamp": "2026-08-30T15:07:36.236848311Z",
+  "model": "glm-5.3"
+}

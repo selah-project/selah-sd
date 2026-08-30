@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "زندگي توڏانھن گھريائين، تو هن کي ڏني؛ ڏينھن جي ڊگھائي، هميشہ ۽ ابد تائين.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "زندگي"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "گھريائين"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "توڏانھن"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "تو ڏني"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن کي"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊگھائي"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينھن جي"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشہ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ ابد تائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:33.535403290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "شكنيا، رحوم، مريموث،",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "شكنيا"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "رحوم"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "مريموث"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:30.665198450Z",
+  "model": "glm-5.3"
+}

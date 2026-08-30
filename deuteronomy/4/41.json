@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "تنهن ۾ موشي ياردن جي پار، سج اڀرڻ واري پاسي، ٽي شهر الڳ ڪيا.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تنهن ۾"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "الڳ ڪيا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "جي پار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ياردن"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "سج اڀرڻ واري پاسي"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سج"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:47.495185531Z",
+  "model": "glm-5.3"
+}

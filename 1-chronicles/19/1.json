@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "پوءِ ائين ٿيو ته نحاش، بني عمون جي بادشاهه، مري ويو ۽ سندس پٽ سندس جاءِ تي بادشاهه ٿيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "پوءِ ائين ٿيو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مري ويو"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "نحاش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "بادشاهه ٿيو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "سندس جاءِ تي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:48.196205120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 18:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ياهوه مَمري جي بلوطن ۾ وٽس ظاھر ٿيو، ۽ ⟨هو⟩ ڏينهن جي تپ ۾ خيمي جي دروازي تي ويٺو هو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ظاھر ٿيو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "وٽس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "بلوطن ۾"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "مَمري"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ويٺو"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازي تي"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خيمي جي"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "تپ ۾"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:32.272325393Z",
+  "model": "glm-5.3"
+}

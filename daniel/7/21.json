@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڏسي رهيو هوس، ۽ اُهو سڱ مقدسن سان جنگ ڪري رهيو هو، ۽ انهن تي غالب ٿي ويو.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "ڏسي"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "رهيو هوس"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "۽ سڱ"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ڪري رهيو هو"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "مقدسن"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "۽ غالب ٿي ويو"
+    },
+    {
+      "surface": "להון",
+      "gloss": "انهن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:59:54.714139990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "جڏهن تون ڪنهن شهر ڏانهن وڙهڻ لاءِ ويجهو وڃين، ته تون ان کي سلام جي پڪار ڪرين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ويجهو وڃين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "وڙهڻ لاءِ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان سان"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ته پڪار ڪرين"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "سلام جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:29.759660942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "حلحول، بيت صور ۽ گدور.",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "حلحول"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "۽ گدور"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:39.797682652Z",
+  "model": "glm-5.3"
+}

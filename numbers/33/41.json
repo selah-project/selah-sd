@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 33:41",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ⟨اهي⟩ هور جبل کان روانا ٿيا، ۽ تسلمونا ۾ خيمو ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روانا ٿيا"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "کان"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "هور جبل"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيمو ڪيو"
+    },
+    {
+      "surface": "בצלמנה",
+      "gloss": "تسلمونا ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:00.313201401Z",
+  "model": "glm-5.3"
+}

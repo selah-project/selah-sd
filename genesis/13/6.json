@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ زمين کين ⟨אתם⟩ کڻي نه سگهي ته گڏ رهن، ڇوته سندن ملڪيت وڏي هئي ۽ هو گڏ رهي نه سگهيا.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "کڻي سگهي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ته رهن"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هئي"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "سندن ملڪيت"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "سگهيا"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "رهڻ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "گڏ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:11.226163150Z",
+  "model": "glm-5.3"
+}

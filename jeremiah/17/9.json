@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "دل سڀ کان وڌيڪ ڪُڙو آهي ۽ اُنُ لاعلاج — ڪير اُن کي ڄاڻي سگهي ٿو؟",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ڪُڙو"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڀ کان وڌيڪ"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "۽ لاعلاج"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُنُ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "اُن کي ڄاڻي سگهي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:11:52.724912791Z",
+  "model": "glm-5.3"
+}

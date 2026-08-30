@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 27:10",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ستين مهيني لاءِ ⟨ستين⟩ حيلِص الحپلوني، بني اپفريم مان هو؛ ۽ سندس ڪٽڪ تي ويهه ۽ چار هزار هئا.",
+  "tokens": [
+    {
+      "surface": "השביעי",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني لاءِ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "حيلِص"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "الحپلوني"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپفريم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "سندس ڪٽڪ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:27.244573824Z",
+  "model": "glm-5.3"
+}

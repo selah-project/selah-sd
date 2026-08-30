@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ راشي لاءِ ڀلائي نه ٿيندي، ۽ نه هو ڏينهن پاڇي جهڙا ڊگها ڪندو، جو هو ايلوهيم جي اڳيان ڊنو ئي ناهي.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "۽ ڀلائي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندي"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "راشي لاءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "ڊگها ڪندو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "پاڇي جهڙا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڊنو ٿو"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:35.551658629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ٽيون ابشالوم، معاخه جو پٽ، جي تلمي گشور جي بادشاھ جي ڌي ھئي؛ چوٿون ادونيه، حگيث جو پٽ.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "ٽيون"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "ابشالوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معاخه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌي"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "تلمي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "گشور"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوٿون"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "ادونيه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "حگيث"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:10.345343230Z",
+  "model": "glm-5.3"
+}

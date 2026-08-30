@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "العازر ⟨את⟩ پينحاس کي پيدا ڪيو، پينحاس ⟨את⟩ ابيشوع کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "العازار"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پينحاس"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پينحاس"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پينحاس"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابيشوع"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "ابيشوع"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:18.530069833Z",
+  "model": "glm-5.3"
+}

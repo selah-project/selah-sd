@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "مراري جا پٽ ⟨هئا⟩ محلي ۽ موشي؛ محلي جا پٽ العزار ۽ قيش۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراري"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "محلي"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "۽ موشي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "محلي"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "العزار"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "۽ قيش"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:24.081371930Z",
+  "model": "glm-5.3"
+}

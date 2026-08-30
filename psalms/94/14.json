@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 94,
+  "translation": "ڇوته ياهوه پنهنجي قوم کي نه ڇڏيندو، ۽ پنهنجي ورثي کي نه ڏسي نه ڪندو۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "ڇڏيندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "پنهنجي قوم کي"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "۽ پنهنجي ورثي کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ڏسي نه ڪندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:37.426692949Z",
+  "model": "glm-5.3"
+}

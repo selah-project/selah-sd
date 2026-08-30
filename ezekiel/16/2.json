@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ماڻھوءَ جي پُٽ، يروشلم کي ⟨את⟩ سندس نفرتين ڄاڻاءُ ۽ ⟨את⟩ چءُ",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻھوءَ جي"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ڄاڻاءُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يروشلم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس نفرتين"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "سندس نفرتين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:30:41.640695643Z",
+  "model": "glm-5.3"
+}

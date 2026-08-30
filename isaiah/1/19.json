@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 1:19",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "جيڪڏھن توهان رضامند ٿيو ۽ ٻڌو، ته زمين جو چڱائي توهان کائيندؤ،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "رضامند ٿيو"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "۽ ٻڌو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱائي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائيندؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:51:33.084018650Z",
+  "model": "glm-5.3"
+}

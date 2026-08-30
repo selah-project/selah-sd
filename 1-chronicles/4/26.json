@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 4:26",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ مشمع جا پٽ ⟨هئا⟩: حموئيل سندس پٽ، زڪور سندس پٽ، شمعي سندس پٽ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پٽ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "مشمع"
+    },
+    {
+      "surface": "חמואל",
+      "gloss": "حموئيل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زڪور"
+    },
+    {
+      "surface": "בנو",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعي"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:09.025339110Z",
+  "model": "glm-5.3"
+}

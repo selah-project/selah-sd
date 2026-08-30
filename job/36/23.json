@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 36:23",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "ڪير هن تي هن جو رستو مقرر ڪيو؟ ۽ ڪير چيو، 'تون بي انصافي ڪئي آهي؟'",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "مقرر ڪيو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "هن تي"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "هن جو رستو"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "۽ ڪير"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "تون ڪئي آهي"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "بي انصافي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:42:50.969089872Z",
+  "model": "glm-5.3"
+}

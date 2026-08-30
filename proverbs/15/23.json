@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ماڻھوءَ لاءِ پنھنجي وات جي جواب ۾ خوشي آھي، ۽ وقت سر لفظ ڪيڏو نه سٺو آھي!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "خوشي"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ماڻھوءَ لاءِ"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "جواب ۾"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "پنھنجي وات جي"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "۽ لفظ"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "وقت سر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڪيڏو نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "سٺو آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:11.635925927Z",
+  "model": "glm-5.3"
+}

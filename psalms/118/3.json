@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 118,
+  "translation": "چون ⟨نه⟩ اهارون جو گهر، ته سندس خيسيد هميشه لاءِ آهي.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "چون"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨نه⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشه لاءِ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "سندس خيسيد"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:47.558955090Z",
+  "model": "glm-5.3"
+}

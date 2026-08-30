@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 40:13",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ يوحنان، قاراح جو پٽ، ۽ ميدان ۾ جيڪي سردار لشڪرن جا هئا، سي گدلياھ وٽ مصفا ۾ آيا.",
+  "tokens": [
+    {
+      "surface": "ויוחנן",
+      "gloss": "۽ يوحنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قاراح"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "لشڪرن جا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ميدان ۾"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "گدلياھ"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "مصفا ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:57:04.146737667Z",
+  "model": "glm-5.3"
+}

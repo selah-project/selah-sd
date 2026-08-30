@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 14:6",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ يهوشعا پٽ نون جو ۽ ڪالب پٽ يفنھ جو، جيڪي ⟨את⟩ زمين کي جاچڻ وارا هئا، پنھنجا ڪپڙا پاڙي ڇڏيا.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "۽ يهوشعا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "نון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "וכלב",
+      "gloss": "۽ ڪالب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يفنھ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "جاچيندڙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمين کي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "پاڙيائون"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "پنھنجا ڪپڙا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:21.200933166Z",
+  "model": "glm-5.3"
+}

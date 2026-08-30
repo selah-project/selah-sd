@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ مون ساراهيو ⟨את⟩ مُرن کي، جيڪي اڳي ئي مري ويا آهن، زندهن کان وڌيڪ، جيڪي اڃا زندهه آهن.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "۽ مون ساراهيو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُرن کي"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مُرن"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "اڳي ئي"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مري ويا آهن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندهن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندهه آهن"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "اڃا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:53.555811527Z",
+  "model": "glm-5.3"
+}

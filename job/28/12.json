@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "پر حڪمت ڪٿان ملي ٿي؟ ۽ سمجهه جو هنڌ ڪٿي ⟨آهي⟩؟",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "پر حڪمت"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ڪٿان"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ملي ٿي"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "۽ ڪٿي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "هنڌ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجهه جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:37.960705012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "پوءِ ياهوه لهٽي آيو ته ⟨את⟩ شهر ۽ ⟨את⟩ مينار ڏسي، جيڪي آدم جي پٽن ٺاهيا هئا.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "لهٽي آيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ڏسي لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مينار"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "مينار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ٺاهيا هئا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:56.293705020Z",
+  "model": "glm-5.3"
+}

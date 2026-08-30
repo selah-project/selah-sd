@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ تارح جا ڏينھن ٻه سَو ۽ پنج سال ٿيا؛ ۽ تارح ھاران ۾ مري ويو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "جا ڏينھن"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارح"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "۽ ٻه سَو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مري ويو"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارح"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "ھاران ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:31.124162672Z",
+  "model": "glm-5.3"
+}

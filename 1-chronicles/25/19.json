@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 25:19",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ٻارهون حشبيا، سندس پٽ ۽ سندس ڀائر، ٻارهن؛",
+  "tokens": [
+    {
+      "surface": "השנים",
+      "gloss": "ٻارهون (ٻه)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(۽ ڏهه)"
+    },
+    {
+      "surface": "לחשביה",
+      "gloss": "حشبيا لاءِ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "۽ سندس ڀائر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻارهن (ٻه)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(۽ ڏهه)"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:10.765555979Z",
+  "model": "glm-5.3"
+}

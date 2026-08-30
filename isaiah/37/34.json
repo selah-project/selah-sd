@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "جنهن رستي کان هو آيو، اُنهيءَ رستي هو موٽي ويندو، ۽ هن شهر ۾ نه ايندو، ياهوه جو چوڻ آهي.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "جنهن رستي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُنهيءَ سان"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "موٽي ويندو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ۾"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "هن شهر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ايندو"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "جو چوڻ آهي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:57:41.719767120Z",
+  "model": "glm-5.3"
+}

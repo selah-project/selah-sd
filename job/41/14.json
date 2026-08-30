@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 41:14",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "سندس ڳچيءَ ۾ طاقت رهي ٿي، ۽ دهشت سندس اڳيان نچي ٿي.",
+  "tokens": [
+    {
+      "surface": "בצוארו",
+      "gloss": "سندس ڳچيءَ ۾"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "رهي ٿي"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "ולפניו",
+      "gloss": "۽ سندس اڳيان"
+    },
+    {
+      "surface": "תדוץ",
+      "gloss": "نچي ٿي"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "دهشت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:21.184353304Z",
+  "model": "glm-5.3"
+}

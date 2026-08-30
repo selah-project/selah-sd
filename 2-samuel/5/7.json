@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ داوود ⟨את⟩ صھيون جي قلعو فتح ڪيو؛ اھو ئي داوود جو شهر آھي.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "۽ فتح ڪيو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صھيون جي قلعو"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "قلعو"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صھيون"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اھو ئي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود جو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:18:40.578342873Z",
+  "model": "glm-5.3"
+}

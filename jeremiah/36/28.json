@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 36:28",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "موٽ، پاڻ لاءِ ٻي مڳيلہ وٺ ۽ ان تي ⟨את⟩ سڀ اهي پهرين لفظ لک، جيڪي پهرين مڳيلہ تي هئا، جا يهوياقيم، يهودا جي بادشاهه، ساڙي ڇڏي.",
+  "tokens": [
+    {
+      "surface": "שוב",
+      "gloss": "موٽ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "وٺ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "مڳيلہ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ٻي"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "۽ لک"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "پهرين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "مڳيلہ"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "پهرين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ساڙي"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "يهوياقيم"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:56:56.962232191Z",
+  "model": "glm-5.3"
+}

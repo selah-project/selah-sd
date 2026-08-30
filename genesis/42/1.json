@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "پوءِ يعقوب ڏٺو ته متصرايم ۾ اَنَ آهي، ۽ يعقوب پنهنجن پٽن کي چيو ته اوهين هڪ ٻئي ڏي ڇو ٿا ڏسو؟",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "پوءِ ڏٺو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "اَنَ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "متصرايم ۾"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "پنهنجن پٽن کي"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "ٿا ڏسو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:13.966214513Z",
+  "model": "glm-5.3"
+}

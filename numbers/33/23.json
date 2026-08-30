@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ کين ڪِهِلاٿہ کان کوچ ٿيو، ۽ شافَر جبل تي خيمہ وڙايائون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "کوچ ٿيو"
+    },
+    {
+      "surface": "מקהלתה",
+      "gloss": "ڪِهِلاٿہ کان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيمہ وڙايائون"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل تي"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شافَر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:47.418842539Z",
+  "model": "glm-5.3"
+}

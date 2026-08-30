@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "پوءِ اھي مدين تي لشڪرڪشي ڪئي، جيئن ياهوه موشي کي ⟨את⟩ حڪم ڏنو ھو؛ ۽ سڀ نر ماريا ويا.",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "پوءِ لشڪرڪشي ڪئي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مدين"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو ھو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "۽ ماريا ويا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:24.522179245Z",
+  "model": "glm-5.3"
+}

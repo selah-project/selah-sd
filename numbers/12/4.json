@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 12:4",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ياهوه اوچتو موشي ۽ اهارن ۽ مريم کي چيو: ”تون ٽيئي ملاقات جي خيمي ڏانھن نڪرو.“ ۽ تِي ٽيئي نڪري ويا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اوچتو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ … کي"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ … کي"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "مريم"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "نڪرو"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "تون ٽيئي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمي"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات جي"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "۽ نڪري ويا"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "تِي ٽيئي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:48.784439396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ⟨هو⟩ چيو: وڃ ۽ هن قوم کي چؤ: ٻڌو ٻڌندا پر نه سمجهندا؛ ڏسو ڏسندا پر نه ڄاڻندا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ويندين"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ چوندين"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "هن قوم کي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ٻڌندا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "سمجهندا"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ڏسندا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ڄاڻندا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:49:01.074135596Z",
+  "model": "glm-5.3"
+}

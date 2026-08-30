@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ڏسان ٿيان، تون سهڻو آھين، منهنجو محبوب، ۽ مزاح وارو آھين؛ ۽ اسان جو کٽ ساوڙو آھي.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ڏسان ٿيان"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سهڻو"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "منهنجو محبوب"
+    },
+    {
+      "surface": "אף",
+      "gloss": "۽"
+    },
+    {
+      "surface": "נעيم",
+      "gloss": "مزاح وارو"
+    },
+    {
+      "surface": "אף",
+      "gloss": "۽"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "اسان جو کٽ"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "ساوڙو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:38.280338952Z",
+  "model": "glm-5.3"
+}

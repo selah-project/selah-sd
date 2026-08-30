@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "زٻولون جي لاءِ ايليآب، حيلون جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "زٻولون جي لاءِ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ايليآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "حيلون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:39.324633711Z",
+  "model": "glm-5.3"
+}

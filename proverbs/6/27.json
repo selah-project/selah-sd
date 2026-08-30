@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇا ڪو ماڻهو پنھنجي جھلي ۾ باھ رکي ٿو، ۽ سندس ڪپڙا نه سڙندا؟",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "ڇا ... رکي ٿو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "אש",
+      "gloss": "باھ"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "پنھنجي جھلي ۾"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "۽ سندس ڪپڙا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "سڙندا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:10.155351345Z",
+  "model": "glm-5.3"
+}

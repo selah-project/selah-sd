@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "حام جا پُٽ ھئا: ڪوش ۽ متسرايم، پوت ۽ ڪنعان.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ڪوش"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "۽ متسرايم"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "پوت"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "۽ ڪنعان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:33.590688994Z",
+  "model": "glm-5.3"
+}

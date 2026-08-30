@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 34:1",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "پوءِ ايليهو جواب ڏنو ۽ چيو:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ڏنو"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "ايليهو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:43:02.746164906Z",
+  "model": "glm-5.3"
+}

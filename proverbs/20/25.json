@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "مِڙس لاءِ ڦَند آهي جو پاڇي سان اُچاري ڇڏي ”پاڪ آهي“، ۽ نذرن کان پوءِ پڇائڻ.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "ڦَند"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مِڙس"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "پاڇي سان اُچارڻ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪ شي"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "۽ پوءِ"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "پڇائڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:00.947699699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "متنياه، متنai ۽ يعسو،",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "متنياه"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "متنai"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "۽ يعسو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:43.189402509Z",
+  "model": "glm-5.3"
+}

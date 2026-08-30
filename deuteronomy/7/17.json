@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "جيڪڏهن تون پنهنجي دل ۾ چوين ته هي قوم مون کان وڌيڪ ⟨آهن⟩، مان انهن کي ڪيئن ڪڍي سگهندس؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تون چوين"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "پنهنجي دل ۾"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "هي قوم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مون کان"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "سگهندس"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "انهن کي ڪڍي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:11.830912737Z",
+  "model": "glm-5.3"
+}

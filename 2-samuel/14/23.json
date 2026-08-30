@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ يوآب اٿي گشور ڏي ويو ۽ ⟨את⟩ ابشالوم کي يروشلم آندو.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "۽ اٿي"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "۽ ويو"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "گشور ڏي"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "۽ آندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابشالوم"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ابشالوم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:21:41.191310821Z",
+  "model": "glm-5.3"
+}

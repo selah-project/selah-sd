@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ساره چيو: ايلوهيم مون لاءِ ٽهڪ ٺاهيو آهي؛ سڀڪو ٻڌندڙ مون لاءِ ٽهڪ ڏيندو.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساره"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "ٽهڪ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاهيو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀڪو"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ٻڌندڙ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ٽهڪ ڏيندو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:19.386797715Z",
+  "model": "glm-5.3"
+}

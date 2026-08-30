@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ڪالب جي رکيل عيفه ⟨את⟩ حران کي ۽ ⟨את⟩ موتسا کي ۽ ⟨את⟩ گازيز کي جنم ڏنو، ۽ حران ⟨את⟩ گازيز کي پيدا ڪيو۔",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "۽ عيفه"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "رکيل"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ڪالب"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "جنم ڏنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حران"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "موتسا"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "موتسا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "گازيز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "گازيز"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "۽ حران"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گازيز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "گازيز"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:04.751683223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "احيمعص، نفتالي ۾؛ اُهو به ⟨את⟩ بسمت، ڌي شلومو جي، زال لاءِ وڍي ورتي.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "احيمعص"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "نفتالي ۾"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "وڍي ورتي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بسمت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بسمت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌي"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زال لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:27:10.609732891Z",
+  "model": "glm-5.3"
+}

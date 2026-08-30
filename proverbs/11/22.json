@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 11:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "سينهي جي نَڪ ۾ سون جي انگهي، اهڙي آهي سهڻي زال جيڪا ذائقَ کان موڙيل آهي.",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "انگهي"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جي"
+    },
+    {
+      "surface": "באף",
+      "gloss": "نَڪ ۾"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "سينهي جي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سهڻي"
+    },
+    {
+      "surface": "וסרת",
+      "gloss": "پر موڙيل"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ذائقَ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:49.553168669Z",
+  "model": "glm-5.3"
+}

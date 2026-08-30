@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ سور ٿي اُڀرڻ ۽ سَڦاٽ ۽ اُڀريٽ چٽ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "۽ سور ٿي اُڀرڻ"
+    },
+    {
+      "surface": "وלספחת",
+      "gloss": "۽ سَڦاٽ"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "۽ اُڀريٽ چٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:30.378068898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 82,
+  "translation": "ڪمزور ۽ محتاج کي بچايو؛ ظالمن جي هٿان ڇڏايو.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "بچايو"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ڪمزور"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "۽ محتاج"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "هٿان"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ظالمن جي"
+    },
+    {
+      "surface": "הצילو",
+      "gloss": "ڇڏايو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:50.300108403Z",
+  "model": "glm-5.3"
+}

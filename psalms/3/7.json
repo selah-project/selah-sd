@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مان ڏڍندس نه، لکين ماڻهن کان، جيڪا مون گهيرائي بيٺا آهن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "مان ڏڍندس"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "لکين کان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گهيرائي"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "بيٺا آهن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:30.127477547Z",
+  "model": "glm-5.3"
+}

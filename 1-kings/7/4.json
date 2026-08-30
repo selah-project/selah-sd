@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ٽن قطارن ۾ جهروڪيون هيون، ۽ نظارو نظاري جي سامهون — ٽي ڀيرا.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "جهروڪيون"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽن"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "قطارن"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "۽ نظارو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "جي سامهون"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "نظاري"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ڀيرا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:29:34.680133032Z",
+  "model": "glm-5.3"
+}

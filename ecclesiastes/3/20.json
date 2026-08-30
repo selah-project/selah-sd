@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "سڀ هڪ ئي جاءِ ڏانهن وڃن ٿا؛ سڀ مٽيءَ مان ٿيا هئا، ۽ سڀ مٽيءَ ڏانهن موٽن ٿا.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "وڃن ٿا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ ئي"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيا هئا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "مٽيءَ"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "موٽن ٿا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "مٽيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:37.333804641Z",
+  "model": "glm-5.3"
+}

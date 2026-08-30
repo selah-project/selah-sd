@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 24:19",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ هن ياهوه جي اکين ۾ برائي ڪئي، سڀ ڪجهه جهڙاڪ يهوياقيم ڪيو هو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪئي"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي اکين ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سڀ ڪجهه جهڙاڪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "يهوياقيم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:50:59.961110198Z",
+  "model": "glm-5.3"
+}

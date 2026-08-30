@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "تنهنڪري يعقوب لُوز ۾ آيو، جيڪو ڪنعان جي زمين ۾ آھي — اھو بيت-ايل آھي — هو ۽ سڀ ماڻھو جيڪي سندس ساھ سان ھئا.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "پوءِ آيو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "لُوز ۾"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان جي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ساھ سان ھئا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:44.463063528Z",
+  "model": "glm-5.3"
+}

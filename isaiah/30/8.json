@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "هاڻي وڃ، هيءُ لکھ تختي تي ⟨אתם⟩ سندن سامهون ۽ ڪتاب ۾ اُڪر، ته هو آخري ڏينهن لاءِ هجي، سدائين — هميشه لاءِ۔",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "لکھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تختي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "سندن سامهون"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ ۾"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ڪتاب"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "اُڪر"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "۽ ته هجي"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ڏينهن لاءِ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "آخري"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "سدائين"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:56:07.993239101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ عزرياهو، عودد جي پٽ، تي ايلوهيم جي روح ⟨هئي⟩.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "۽ عزرياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "عودد"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "هئي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "تي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:25:10.286841249Z",
+  "model": "glm-5.3"
+}

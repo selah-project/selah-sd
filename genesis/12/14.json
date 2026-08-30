@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ٿيو، جڏهن ابرام مصر ۾ آيو، ته مصرين ⟨את⟩ عورت کي ڏٺو، ڇوته هوءَ تمام سهڻي هئي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "جڏهن آيو"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "مصر ۾"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ته ڏٺو"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "مصرين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عورت کي"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سهڻي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هوءَ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:32.298516389Z",
+  "model": "glm-5.3"
+}

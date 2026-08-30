@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ ٽين قطار: لشم، شبو ۽ احلمه.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "۽ قطار"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ٽين"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لشم"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "شبو"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "۽ احلمه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:35.722385611Z",
+  "model": "glm-5.3"
+}

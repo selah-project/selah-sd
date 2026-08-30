@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "گاد قبيلي مان، گئوائل پٽ ماکي جو.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي مان"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "گئوائل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "ماکي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:42.311056557Z",
+  "model": "glm-5.3"
+}

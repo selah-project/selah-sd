@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 83,
+  "translation": "گبل ۽ عمون ۽ عماليق، فلسطين ۽ صور جا رهواسي.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "گبل"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "۽ عمون"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "۽ عماليق"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "فلسطين"
+    },
+    {
+      "surface": "עם",
+      "gloss": "۽"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رهواسي"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:03.296821751Z",
+  "model": "glm-5.3"
+}

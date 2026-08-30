@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 73,
+  "translation": "ڪيئن اهي هڪ لمحي ۾ ويران ٿي ويا! دڙڪن کان مڪمل ختم ٿي ويا.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ٿي ويا"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ويران"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "هڪ لمحي ۾"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "ختم ٿي ويا"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "مڪمل مُڪايا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "دڙڪن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:28.324670548Z",
+  "model": "glm-5.3"
+}

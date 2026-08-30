@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 148,
+  "translation": "اھي ياهوه جي ⟨את⟩ نالي کي ساراھين، ڇوته ⟨هو⟩ حڪم ڪيو ۽ اھي خلقيجي ويا.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ساراھين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نالي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "خلقيجي ويا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:49.656639544Z",
+  "model": "glm-5.3"
+}

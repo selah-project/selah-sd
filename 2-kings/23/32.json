@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 23:32",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ ياهوه جي نظر ۾ برائي ڪيائين، سندس پيئن جي ڪيل سڀ ڪجهه جيان.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيائين"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي نظر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سڀ ڪجهه جيان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪيل"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "سندس پيئن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:46:21.575300633Z",
+  "model": "glm-5.3"
+}

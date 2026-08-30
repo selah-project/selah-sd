@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 16:23",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ ياهوه موشي سان ڪڍيائين، چوندڙ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڪڍيائين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:10.318519043Z",
+  "model": "glm-5.3"
+}

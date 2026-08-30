@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 76,
+  "translation": "آسمانن کان توهان فيصلو ٻڌايو؛ زمين ڊڄي وئي ۽ ماٺ ٿي ويئي.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "آسمانن کان"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "توهان ٻڌايو"
+    },
+    {
+      "surface": "דין",
+      "gloss": "فيصلو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ڊڄي وئي"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "۽ ماٺ ٿي ويئي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:29.989192375Z",
+  "model": "glm-5.3"
+}

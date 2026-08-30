@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 4:14",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "اندھا چوڪڙين ۾ گليل ٿيا، رت ۾ ملو ويا؛ ⟨هو⟩ نه ٿي سگهيو ته پنهنجن ڪپڙن کي هٿ لائن.",
+  "tokens": [
+    {
+      "surface": "נעו",
+      "gloss": "گليل ٿيا"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "اندھا"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "چوڪڙين ۾"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "ملو ويا"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "رت ۾"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "نه ٿي سگهي"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "سگهيو"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "هٿ لائن"
+    },
+    {
+      "surface": "בלבשיהם",
+      "gloss": "پنهنجن ڪپڙن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:40.516685059Z",
+  "model": "glm-5.3"
+}

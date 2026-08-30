@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ مٿس ياهوه جي رُوح ونڍي، حڪمت ۽ سمجهه جي رُوح، صلاح ۽ طاقت جي رُوح، ڄاڻ ۽ ياهوه جي خوف جي رُوح.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "ونڍي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوح"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "۽ سمجهه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوح"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "۽ طاقت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوح"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاڻ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "۽ خوف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:51:07.639805155Z",
+  "model": "glm-5.3"
+}

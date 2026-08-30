@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "اکين جو روشني دل کي خوش ڪري ٿو، ۽ چڱي خبر هڏين کي ٿلهو ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "روشني"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکين جو"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ڪري ٿو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کي"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چڱي"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ٿلهو ڪري ٿو"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "هڏين کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:36.265107810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "تون پناهه ڪئي، ادوناي، ماني جي نافسي جي؛ تون ماني جي جيون کي فديو ڪيو.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "تون پناهه ڪئي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "جي پناهه"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ماني جي نافسي"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "تون فديو ڪيو"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ماني جي جيون کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:10.086774951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇا اڃا به ڏوهاري جي گهر ۾ ظلم جا خزانا آهن، ۽ ننڍي ماپ جيڪي لعنتيل آهي؟",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "اڃا به"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ڏوهاري جي"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "خزانا"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ظلم جا"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "۽ ننڍي ماپ"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "گھٽائي واري"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "لعنتيل"
+    }
+  ],
+  "timestamp": "2026-08-30T12:52:22.228472790Z",
+  "model": "glm-5.3"
+}

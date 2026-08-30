@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "چانديءَ جو پريت ڪندڙ چانديءَ سان رجي نٿو، ۽ جيڪو دولت جو پريت ڪندڙ آهي، اُهو آمدنيءَ سان ⟨نه رجي ٿو⟩ — اِهو به هٻل آهي.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "پريت ڪندڙ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چانديءَ جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "رجي ٿو"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چانديءَ سان"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "۽ جيڪو"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پريت ڪندڙ"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "دولت جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "آمدنيءَ سان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اِهو"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هٻل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:20.360829541Z",
+  "model": "glm-5.3"
+}

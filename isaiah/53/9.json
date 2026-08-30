@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 53,
+  "translation": "۽ هن ⟨את⟩ بدڪن سان پنهنجي قبر ڏني ۽ ⟨את⟩ مالدار سان سندس مرڻ ۾؛ ڇو ته هن ظلم نه ڪيو ۽ نڪي فريب سندس وات ۾ هو.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ڏني"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بدڪن"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدڪن"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "پنهنجي قبر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مالدار"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "مالدار"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "سندس مرڻ ۾"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فريب"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "سندس وات ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:03:04.434766749Z",
+  "model": "glm-5.3"
+}

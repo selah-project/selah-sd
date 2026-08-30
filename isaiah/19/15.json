@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ متصرايم لاءِ ڪوبه ڪم نه رهندو جو سر يا پُڇ، کجيءَ جو پن يا ٻوڙي، ڪري سگهي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "رهندو"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "متصرايم لاءِ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪري سگهي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "يا پُڇ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "کجيءَ جو پن"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "يا ٻوڙي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:52:20.479066090Z",
+  "model": "glm-5.3"
+}

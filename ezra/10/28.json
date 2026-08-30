@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 10:28",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ بيباي جي پٽن مان: يهوحنان، حننيه، زبّي ۽ عتلاي.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "۽ پٽن مان"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "بيباي"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "يهوحنان"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حننيه"
+    },
+    {
+      "surface": "זבי",
+      "gloss": "زبّي"
+    },
+    {
+      "surface": "עתלי",
+      "gloss": "عتلاي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:54.433754290Z",
+  "model": "glm-5.3"
+}

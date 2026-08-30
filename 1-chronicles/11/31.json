@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 11:31",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "اِٿاي پٽ رِبائي جو، گِبعه مان بنيامين جي پٽن جي، بناياه الفِرعاتوني۔",
+  "tokens": [
+    {
+      "surface": "איתי",
+      "gloss": "اِٿاي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "رِبائي"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "گِبعه مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "بناياه"
+    },
+    {
+      "surface": "הפרעתני",
+      "gloss": "الفِرعاتوني"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:21.940266506Z",
+  "model": "glm-5.3"
+}

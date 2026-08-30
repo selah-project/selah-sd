@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 10:13",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ پھرين ڀيرو ڪڍيون، ياهوه جي وات موجب، موشي جي ھٿ ذريعي.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ڪڍيون\/روانہ ٿيا"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "پھرين ڀيرو"
+    },
+    {
+      "surface": "על",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ھٿ ذريعي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:50.546758685Z",
+  "model": "glm-5.3"
+}

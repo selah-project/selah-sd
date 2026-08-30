@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 31:7",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "ٽئين مهيني ۾ ڍيرن جو بنياد رکڻ شروع ڪيائون، ۽ ستين مهيني ۾ پورا ڪيائون.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "مهيني ۾"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ٽئين"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "شروع ڪيائون"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ڍيرن جو"
+    },
+    {
+      "surface": "ליסוד",
+      "gloss": "بنياد رکڻ"
+    },
+    {
+      "surface": "ובחדש",
+      "gloss": "۽ مهيني ۾"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "پورا ڪيائون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:29:36.633216659Z",
+  "model": "glm-5.3"
+}

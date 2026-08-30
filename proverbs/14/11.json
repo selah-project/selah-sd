@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "شريرن جو گھر تباهه ٿي ويندو، ۽ سڌرن جو خيمو ڦلڻ-ڦڙڻ ۾ ايندو.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شريرن"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "تباهه ٿي ويندو"
+    },
+    {
+      "surface": "وאהל",
+      "gloss": "۽ خيمو"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سڌرن"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "ڦلڻ-ڦڙڻ ۾ ايندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:00.647202009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 13:25",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ياهوه جي روح کيس ڪڏهن ڪڏهن مَڇڻ لڳي دان جي ڇانوڻيءَ ۾، صورعه ۽ اشتاول جي وچ ۾.",
+  "tokens": [
+    {
+      "surface": "ותחל",
+      "gloss": "لڳي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לפעמו",
+      "gloss": "ڪڏهن ڪڏهن مَڇڻ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ڇانوڻيءَ ۾"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "בין",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "صورعه"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽"
+    },
+    {
+      "surface": "אשתאל",
+      "gloss": "اشتاول"
+    }
+  ],
+  "timestamp": "2026-08-30T11:01:36.823378261Z",
+  "model": "glm-5.3"
+}

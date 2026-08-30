@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ ستن سنڀَل ورھين ۾ زمين مُٺين ڀر پيدا ڪئي.",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "پيدا ڪئي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "ستن"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ورھين ۾"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "سنڀَل"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "مُٺين ڀر"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:01.336095174Z",
+  "model": "glm-5.3"
+}

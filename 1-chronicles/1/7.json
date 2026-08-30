@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ يوان جا پُٽ ھئا: اليشعه ۽ ترشيشه، ڪتيم ۽ رودانيم.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پُٽ"
+    },
+    {
+      "surface": "יון",
+      "gloss": "يوان"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "اليشعه"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "۽ ترشيشه"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "ڪتيم"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "۽ رودانيم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:33.590545179Z",
+  "model": "glm-5.3"
+}

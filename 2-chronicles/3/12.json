@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 3:12",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ٻئي ڪروب جو هڪ پر پنج اَمون ⟨هو⟩، جيڪو گهر جي ڀت کي لڳي ٿو، ۽ ٻيو پر پنج اَمون، جيڪو ٻئي ڪروب جي پر سان چنبڙيل آهي.",
+  "tokens": [
+    {
+      "surface": "וכנף",
+      "gloss": "۽ پر"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ڪروب جو"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمون"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "لڳي ٿو"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "ڀت کي"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر جي"
+    },
+    {
+      "surface": "והכנף",
+      "gloss": "۽ پر"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمون"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "چنبڙيل"
+    },
+    {
+      "surface": "לכנף",
+      "gloss": "پر سان"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ڪروب جي"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "ٻئي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:55.541005531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "مَراري جا پٽ مَحلي ۽ مُوشي؛ يَعَزِياهُو جا پٽ: بِنو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مَراري"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَحلي"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "۽ مُوشي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "يَعَزِياهُو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بِنو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:03.563180553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 3:11",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مَدّ ٻي حصي جي مَلڪيا بن حارم ۽ حشّوب بن پحت موآب مضبوت ڪئي — ۽ ⟨את⟩ تنورن جي مينار کي.",
+  "tokens": [
+    {
+      "surface": "מדה",
+      "gloss": "مَدّ (حصو)"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ٻي"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "مضبوت ڪئي"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "مَلڪيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارم"
+    },
+    {
+      "surface": "וחשוב",
+      "gloss": "۽ حشّوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پحت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تنورن جي مينار"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "مينار"
+    },
+    {
+      "surface": "התנורים",
+      "gloss": "تنورن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:06:16.184219661Z",
+  "model": "glm-5.3"
+}

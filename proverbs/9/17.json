@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "چوريل پاڻي مٺاس وٺن ٿا، ۽ لڪايل ماني لذت ڏين ٿي.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "גנובים",
+      "gloss": "چوريل"
+    },
+    {
+      "surface": "ימתקו",
+      "gloss": "مٺاس وٺن ٿا"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "۽ ماني"
+    },
+    {
+      "surface": "סתרים",
+      "gloss": "لڪايل"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "لذت ڏين ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:25.661534684Z",
+  "model": "glm-5.3"
+}

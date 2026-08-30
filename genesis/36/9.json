@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ هي آهن عيسو جون نسل لڪيون، ادوم جو پيءُ، جبل شعير ۾.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ هي"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "نسل لڪيون"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جو پيءُ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل ۾"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "شعير"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:27.464809049Z",
+  "model": "glm-5.3"
+}

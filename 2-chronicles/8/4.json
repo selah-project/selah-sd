@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ ⟨את⟩ تدمر ۾ بيابان ۾ تعمير ڪيائين، ۽ ⟨את⟩ سڀني انهن ذخيري شهرن جي، جيڪي هن حمات ۾ تعمير ڪيا.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "۽ تعمير ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تدمر"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "تدمر"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سڀني ذخيري شهرن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهرن"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "ذخيري"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "تعمير ڪيا"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "حمات ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:53.531380305Z",
+  "model": "glm-5.3"
+}

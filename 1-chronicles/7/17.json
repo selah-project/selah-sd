@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ اُلام جا پُٽ <BE> بيدان. اِي ⟨هي⟩ گِلعاد جا پُٽ هُئا، مَخير جو پُٽ، مَنَشّهه جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ اُلام جا پُٽ"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "اُلام"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "بيدان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِي ⟨هي⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ هُئا"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پُٽ"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "مَخير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پُٽ"
+    },
+    {
+      "surface": "مנשה",
+      "gloss": "مَنَشّهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:21.037058375Z",
+  "model": "glm-5.3"
+}

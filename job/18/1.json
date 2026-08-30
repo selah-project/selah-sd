@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 18:1",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "پوءِ بِلْدَد شُوحِي جواب ڏنو ۽ چيائين:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب ڏنو"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "بِلْدَد"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "شُوحِي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:38:39.646305091Z",
+  "model": "glm-5.3"
+}

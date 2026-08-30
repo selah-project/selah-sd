@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "يورام سندس پٽ، اخزياه سندس پٽ، يواش سندس پٽ.",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "يورام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "اخزياه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يواش"
+    },
+    {
+      "surface": "בנو",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:52.589845105Z",
+  "model": "glm-5.3"
+}

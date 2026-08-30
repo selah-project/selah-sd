@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ سندس نالو اسرائيل ۾ سڏيو ويندو: ”جُتي لٿل جو گھر“.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "۽ سڏيو ويندو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالو"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائيل ۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "لٿل"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "جُتي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:02.514787376Z",
+  "model": "glm-5.3"
+}

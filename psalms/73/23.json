@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 73,
+  "translation": "پر ⟨آءٌ⟩ هميشه تو سان آهيان؛ تو منهنجي ساڄي هٿ کي پڪو پڪڙيو آهي.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "پر ⟨آءٌ⟩"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تو سان"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "پڪو پڪڙيو آهي"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ کي"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "منهنجي ساڄي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:13.849799748Z",
+  "model": "glm-5.3"
+}

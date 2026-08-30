@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ لوطان جا پٽ: حوري ۽ هومم؛ ۽ لوطان جي ڀيڻ تمنع ⟨هئي⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پٽ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطان"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "حوري"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "۽ هومم"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "۽ ڀيڻ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطان جي"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تمنع"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:30.445521340Z",
+  "model": "glm-5.3"
+}

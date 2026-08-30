@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ ياهوه موشي سان ڳالھيون ڪريڻ لڳو، چوڻ لڳو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالھيون ڪريڻ لڳو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لڳو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:15.150624890Z",
+  "model": "glm-5.3"
+}

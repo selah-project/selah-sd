@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 6:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڪوڙ پڦائيندڙ جُوٽ شاھد، ۽ ڀائن جي وچ ۾ تڪرار اُڏائيندڙ،",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "پڦائيندڙ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ڪوڙ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاھد"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جُوٽ"
+    },
+    {
+      "surface": "ומשלח",
+      "gloss": "۽ اُڏائيندڙ"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "تڪرار"
+    },
+    {
+      "surface": "בין",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ڀائن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:42.241103253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ⟨את⟩ بلعت ۽ ⟨את⟩ تمر کي، بيابان ۾، ملڪ ۾.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "بلعت"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "بلعت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "تمر"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تمر"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملڪ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:31:27.484537536Z",
+  "model": "glm-5.3"
+}

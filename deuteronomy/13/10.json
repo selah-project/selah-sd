@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "پر يقينن کيس مارڻوئي ماريندين؛ تنهنجو هٿ ⟨هو⟩ مٿس پهرين هوندو، کيس ماري ڇڏڻ لاءِ، ۽ پوءِ سڀ قوم جو هٿ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "مارڻ"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "ماريندين"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تنهنجو هٿ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "هوندو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "پهرين"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "کيس ماري ڇڏڻ لاءِ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "۽ هٿ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم جو"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "پوءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:58.062797918Z",
+  "model": "glm-5.3"
+}

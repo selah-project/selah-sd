@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ايليفاز جا پٽ: تيمان، اومر، صفي، غعتام، قناز، تمنع ۽ عمالق.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ايليفاز"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تيمان"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "۽ اومر"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "صفي"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "۽ غعتام"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قناز"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "۽ تمنع"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "۽ عمالق"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:49.945245985Z",
+  "model": "glm-5.3"
+}

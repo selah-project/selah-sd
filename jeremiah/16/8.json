@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ دعوت جي گھر ۾ به نه ٿيءُ داخل، انهن سان ويهڻ لاءِ ⟨את⟩ کائڻ ۽ پيئڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "۽ گھر ۾"
+    },
+    {
+      "surface": "משתه",
+      "gloss": "دعوت جي"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ٿيءُ داخل"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ويهڻ لاءِ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "انهن سان ⟨את⟩",
+      "marks": "ويهڻ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "کائڻ لاءِ"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "۽ پيئڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:11:38.248278588Z",
+  "model": "glm-5.3"
+}

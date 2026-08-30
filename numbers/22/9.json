@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "تنهن کان پوءِ ايلوهيم بلام وٽ آيو ۽ چيائين: اِھي ڪھڙا ماڻھو آھن جيڪي تو وٽ آھن؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "تنهن کان پوءِ آيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪھڙا"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اِھي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تو وٽ آھن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:36.550796296Z",
+  "model": "glm-5.3"
+}

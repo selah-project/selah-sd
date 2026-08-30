@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ هو ⟨את⟩ ساڻس ياهوه جي گھر ۾ لڪو ٿو ڇھ سال، ۽ عتليه زمين تي راڄ ڪري رهي هئي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ساڻس"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "لڪو ٿو"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "۽ عتليه"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "راج ڪري رهي هئي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T11:41:51.718029229Z",
+  "model": "glm-5.3"
+}

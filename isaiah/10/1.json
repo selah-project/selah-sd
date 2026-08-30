@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "هي انهن تي جي ظلم جا حڪم ٺاهين ٿا ۽ لکندڙ جيڪي ڏکيل محنت لکين ٿا.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "هي"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "انهن تي جي ٺاهين ٿا"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "און",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "۽ لکندڙ"
+    },
+    {
+      "surface": "עמل",
+      "gloss": "ڏکيل محنت"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "لکين ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:52:07.774768433Z",
+  "model": "glm-5.3"
+}

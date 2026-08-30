@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "هر، غزال، ڀولڙو، جهڙ، پگارگ، جهنگلي ڏاند ۽ پهاڙي رڪ.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "غزال"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "ڀولڙو"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "جهڙ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "پگارگ"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "جهنگلي ڏاند"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "پهاڙي رڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:00.333005495Z",
+  "model": "glm-5.3"
+}

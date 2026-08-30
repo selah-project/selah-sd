@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڇوته ڏنگو ياهوه کي متنفر آهي، ۽ ⟨את⟩ سِڌرن سان سندس راز آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "תועבت",
+      "gloss": "متنفر (گهڻڪ)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "نלוז",
+      "gloss": "ڏنگو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ سان",
+      "marks": "سِڌرن (سڌرن سان) sن سندس راز"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سِڌرن"
+    },
+    {
+      "surface": "סודو",
+      "gloss": "سندس راز"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:15.616850025Z",
+  "model": "glm-5.3"
+}

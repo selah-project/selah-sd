@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ سڀئي قوم پاڻ جي ڪنن مان سون جا وال ⟨את⟩ ڪڍي ڊاھيا ۽ اهارون وٽ آندائون.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "ڪڍي ڊاھيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سون جا وال"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "وال"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سون جا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "سندن ڪنن ۾"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "آندائون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:09:23.799406856Z",
+  "model": "glm-5.3"
+}

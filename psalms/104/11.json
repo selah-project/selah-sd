@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 104,
+  "translation": "کانهن سڀ ٻيل جي جيوت کي، ۽ جهنگلي گڏھ پنھنجي اُڃ ڀڳو ڪن.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "کانهن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "جيوت کي"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ٻيل جي"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ڀڳو ڪن"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "جهنگلي گڏھ"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "پنھنجي اُڃ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:01.133964331Z",
+  "model": "glm-5.3"
+}

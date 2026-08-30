@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 3:39",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "سڀ ڳڻپيل لاوي، جن کي موشي ۽ اهارون ياهوه جي حڪم سان سندن خاندانن موجب ڳڻيو، سڀ نر، ھڪ مهيني جي پٽ کان ۽ مٿي، ٻه ۽ ويھ ھزار ھيا.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ڳڻپيل"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن کي"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ڳڻيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "۽ اهارون"
+    },
+    {
+      "surface": "על",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "פי",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "سندن خاندانن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "پٽ کان"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "مهيني"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "۽ مٿي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:37.271006351Z",
+  "model": "glm-5.3"
+}

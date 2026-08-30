@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ته ابرام ملڪ ۾ واڌو، شڪيم جي جاي تائين، مورهه جي بوريءَ تائين؛ ۽ ڪنعاني تڏهن ملڪ ۾ هو.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ته…واڌو"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملڪ ۾"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاي"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شڪيم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "بوري"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "مورهه"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "۽ ڪنعاني"
+    },
+    {
+      "surface": "אז",
+      "gloss": "تڏهن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملڪ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:32:56.786246403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 115,
+  "translation": "اسرائيل! ياهوه تي ڀاڙ؛ سندن مدد ۽ سندن ڍال ⟨هو⟩ آهي.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ڀاڙ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه تي"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "سندن مدد"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "۽ سندن ڍال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:38.785267364Z",
+  "model": "glm-5.3"
+}

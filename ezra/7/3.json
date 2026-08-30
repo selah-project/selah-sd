@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "امرياھ جو پٽ، عزرياھ جو پٽ، مرايوت جو پٽ،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "امرياھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزرياھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مرايوت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:08.807794863Z",
+  "model": "glm-5.3"
+}

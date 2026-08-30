@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 26:35",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "اھي افرايم جا پٽ آھن پنھنجن خاندن موجب: شوتلح جو — شوتلحي خاندان؛ بeker جو — بkerي خاندان؛ تاحن جو — تاحني خاندان.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرايم"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "پنھنجن خاندن موجب"
+    },
+    {
+      "surface": "لשותלח",
+      "gloss": "شوتلح جو"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "השתלחי",
+      "gloss": "شوتلحي"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "بeker جو"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הבכרי",
+      "gloss": "بkerي"
+    },
+    {
+      "surface": "לתחן",
+      "gloss": "تاحن جو"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "התחני",
+      "gloss": "تاحني"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:28.945059149Z",
+  "model": "glm-5.3"
+}

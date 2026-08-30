@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ نعومي ⟨את⟩ ٻار کي کڻي پنهنجي ميڙ ۾ رکيوس، ۽ هن جي لاءِ دائي ٿي.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "کڻي"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "نعومي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٻار کي"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ٻار"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "رکيوس"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "پنهنجي ميڙ ۾"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن جي لاءِ"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "دائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:47:39.289191515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ يسرائيل ۽ فلسطيني صف بندي ڪئي، صف سامھون صف جي.",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "۽ صف بندي ڪئي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "۽ فلسطينين"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "صف"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "سامھون"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "صف"
+    }
+  ],
+  "timestamp": "2026-08-30T11:10:48.350474514Z",
+  "model": "glm-5.3"
+}

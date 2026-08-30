@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ اھي بئر شبع ۽ مولاده ۽ حصر شوعال ۾ رھيا.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "۽ اھي رھيا"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "بئر ۾"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "بع"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "۽ مولاده"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "۽ حصر"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوعال"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:09.025617171Z",
+  "model": "glm-5.3"
+}

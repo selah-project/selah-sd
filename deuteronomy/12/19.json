@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "پاڻ لاءِ ٻڌ رک متان ⟨את⟩ لاوي کي ڇڏيندوين، پنھنجن سڀني ڏينهن ۾ پنھنجي زمين تي.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ٻڌ رک"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ڇڏيندوين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاوي"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "پنھنجن ڏينهن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "پنھنجي زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:41:17.207874146Z",
+  "model": "glm-5.3"
+}

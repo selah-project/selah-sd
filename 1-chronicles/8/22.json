@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ يشپان، ۽ عيبر، ۽ اليايل.",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "يشپان"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "عيبر"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "اليايل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:50.566187623Z",
+  "model": "glm-5.3"
+}

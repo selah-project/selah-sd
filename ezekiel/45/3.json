@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 45:3",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "۽ ⟨the⟩ ان ماپ مان تو ماپ ڪرج: ڊيگهه پنج ۽ ويھه ھزار ۽ ويڪر ڏھ ھزار، ۽ ان ۾ مقدس ٿيندو، قدس قدشيم (پاڪن جو پاڪ).",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ ... مان"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ماپ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ان"
+    },
+    {
+      "surface": "תמוד",
+      "gloss": "تو ماپ ڪرج"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊيگهه"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "۽ ويڪر"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ڏھ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "۽ ان ۾"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس (پاڪ)"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "قدشيم (پاڪن جو)"
+    }
+  ],
+  "timestamp": "2026-08-30T12:43:19.692934247Z",
+  "model": "glm-5.3"
+}

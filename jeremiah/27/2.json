@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ياهوه مون کي ائين فرمايو: پنهنجي لاءِ ٻَڌَڻَا ۽ جُوءُ جوڙ ۽ پنهنجي ڳچيءَ تي رک.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرمايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوڙ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پنهنجي لاءِ"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "ٻَڌَڻَا"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "۽ جُوءُ"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "۽ رک"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "پنهنجي ڳچيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:16:03.468842914Z",
+  "model": "glm-5.3"
+}

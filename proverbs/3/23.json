@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "تڏھن تون پنھنجي واٽ تي بي فڪر هلندين، ۽ تنھنجو پير ٽٽڪندو نه.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تڏھن"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تون هلندين"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بي فڪر"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "پنھنجي واٽ تي"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "۽ تنھنجو پير"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "ٽٽڪندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:33.277091767Z",
+  "model": "glm-5.3"
+}

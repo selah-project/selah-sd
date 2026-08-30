@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "اھي يسرائيل جا پٽ ھئا: رئوبين، شمعون، لوي ۽ يھودا، يسکار ۽ زبولون.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبين"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوي"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "۽ يھودا"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "يسسكار"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "۽ زبولون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:09.561673334Z",
+  "model": "glm-5.3"
+}

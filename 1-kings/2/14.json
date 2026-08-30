@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ چيائين، ”مون کي توکي هڪ ڳالهه چوڻي آهي.“ ۽ ⟨هن⟩ چيو، ”چو.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالهه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:26:58.497617533Z",
+  "model": "glm-5.3"
+}

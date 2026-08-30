@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ھيءُ آھي جيڪو توکي ان لاءِ ڪرڻو آھي: ٽي سَو ھٿ ٻيڙيءَ جو ڊيگھه، پنجاھھ ھٿ ان جي ويڪر، ۽ ٽيھھ ھٿ ان جي اوچائي.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "۽ ھيءُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "توکي ڪرڻو آھي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ان (ٻيڙي)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ھٿ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ڊيگھه"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ٻيڙيءَ جو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاھھ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ھٿ"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ويڪر"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽيھھ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ھٿ"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "اوچائي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:14.253978268Z",
+  "model": "glm-5.3"
+}

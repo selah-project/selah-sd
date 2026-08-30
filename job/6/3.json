@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 6:3",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇو ته اها هاڻي سمنڊ جي ريت کان به ڳري آهي؛ تنهنڪري مون جا لفظ لٿل آهن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "ريت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمنڊ جي"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ڳري آهي"
+    },
+    {
+      "surface": "על",
+      "gloss": "کان به"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "مون جا لفظ"
+    },
+    {
+      "surface": "לעו",
+      "gloss": "لٿل آهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:36:03.456750908Z",
+  "model": "glm-5.3"
+}

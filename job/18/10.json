@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 18:10",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "سندس رسو زمين ۾ لڪل آهي، ۽ سندس ڦنگهو رستي ⟨تي⟩.",
+  "tokens": [
+    {
+      "surface": "טמון",
+      "gloss": "لڪل آهي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "חבלו",
+      "gloss": "سندس رسو"
+    },
+    {
+      "surface": "ומלכדתו",
+      "gloss": "۽ سندس ڦنگهو"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "تي"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "رستي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:38:24.492360671Z",
+  "model": "glm-5.3"
+}

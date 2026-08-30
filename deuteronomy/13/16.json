@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ته تون اُن شهر جي رهاڪن کي تلوار جي ڀن سان ضرور مار، ⟨את⟩ ان کي چيتڪ ڪر ۽ ⟨את⟩ سڀ جيڪو ان ۾ آهي ۽ ⟨את⟩ ان جي مال تلوار جي ڀن سان،",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "ضرور مار"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "مار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُن شهر جي رهاڪن کي"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رهاڪن"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "اُن شهر"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُن"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ڀن سان"
+    },
+    {
+      "surface": "חרب",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "چيتڪ ڪر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ان کي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ جيڪو ان ۾ آهي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ان جي مال"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "ان جي مال"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ڀن سان"
+    },
+    {
+      "surface": "חרب",
+      "gloss": "تلوار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:55.960121610Z",
+  "model": "glm-5.3"
+}

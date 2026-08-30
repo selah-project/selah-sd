@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 7:9",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ اٺين ڏينهن تي ⟨הם⟩ عيد جي گڏ ٿيڻ ڪئي، ڇوته قربانيگاهَ جي سنوار ( chanukah ) لاءِ ست ڏينهن ڪيائون، ۽ عيد ست ڏينهن.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ڪيائون"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اٺين"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "عيد جي گڏ ٿيڻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "سنوار (chanukah)"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانيگاهَ جي"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪيائون"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "והחג",
+      "gloss": "۽ عيد"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:43.411270983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 73,
+  "translation": "ڇوته مون گھمندن تي ساڙو، جڏھن ظالمن جو سُکَ ڏٺم۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "مون ساڙو"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "گھمندن تي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سُکَ\/سلامتي"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ظالمن جو"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ڏٺم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:09.763545046Z",
+  "model": "glm-5.3"
+}

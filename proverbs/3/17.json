@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "سندس رستا خوشگواريءَ جا رستا ⟨آهن⟩، ۽ سندس سڀ پند سلامتي ⟨آهن⟩.",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "سندس رستا"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "رستا"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "خوشگواريءَ جا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "سندس پند"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:07.804204634Z",
+  "model": "glm-5.3"
+}

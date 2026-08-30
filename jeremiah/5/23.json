@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ هن قوم لاءِ мятل ۽ باغي دل آهي؛ اهي موڙيا ۽ هليا ويا.",
+  "tokens": [
+    {
+      "surface": "ולעם",
+      "gloss": "۽ هن قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "мятل"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "۽ باغي"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "موڙيا"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "۽ هليا ويا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:09:01.459695841Z",
+  "model": "glm-5.3"
+}

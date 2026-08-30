@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 20:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "چؤ نه، مان براءِ جو بدلو ڀريندس؛ ياهوه جي اوس ۾ رهه، ۽ ⟨هو⟩ توکي ڇڏائيندو.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "مان بدلو ڀريندس"
+    },
+    {
+      "surface": "רע",
+      "gloss": "براءِ جو"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "اوس ۾ رهه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "۽ ⟨هو⟩ ڇڏائيندو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:00.257027243Z",
+  "model": "glm-5.3"
+}

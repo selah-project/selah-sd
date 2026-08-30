@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "مالدار ماڻھو پنھنجي نڙيءَ ۾ SMART آهي، پر سمجھدار غريب کيس تولي ٿو.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "SMART"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "پنھنجي نڙيءَ ۾"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "مالدار"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "پر غريب"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "سمجھدار"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "کيس تولي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:16.160796770Z",
+  "model": "glm-5.3"
+}

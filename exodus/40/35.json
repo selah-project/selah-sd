@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 40:35",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ موشي ملاقات جي خيمي ۾ داخل نه ٿي سگهيو، ڇوته بادل ان تي رهيو هو، ۽ ياهوه جي جلال ⟨את⟩ مسکن کي ڀريو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "سگهيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "داخل ٿيڻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمي"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "رهيو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "۽ جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسكن"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:11:42.106432932Z",
+  "model": "glm-5.3"
+}

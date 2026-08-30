@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 2:26",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ننڍڙو شموئل ھلندو ۽ وڏو ٿيندو ۽ چڱو ٿيندو ويو، ياهوه سان به ۽ ماڻھن سان به.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "۽ ننڍڙو"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئل"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ھلندو"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "۽ وڏو ٿيندو"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "۽ چڱو ٿيندو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ماڻھن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:06:33.734343310Z",
+  "model": "glm-5.3"
+}

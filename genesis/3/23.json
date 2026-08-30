@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ياهوه ايلوهيم کيس عدن جي باغ مان موڪليو ⟨את⟩ زمين کي ٽيڻ لاءِ جنهن مان هو ورتل هو.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "کيس موڪليو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "باغ مان"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "عدن جي"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ٽيڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ورتل هو"
+    },
+    {
+      "surface": "משם",
+      "gloss": "مان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:15.130963044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ھاڻي سنڀال ڪر، منھنجي گذارش آھي، ۽ شراب ۽ نشي واري پيئ جو پي نه ۽ ڪوبه نپاڪ شيءِ نه کاءُ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ ھاڻي"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "سنڀال ڪر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "منھنجي گذارش"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "پي"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "نشي واري پيئ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "کاءُ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نپاڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:02:33.887954568Z",
+  "model": "glm-5.3"
+}

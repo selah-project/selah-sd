@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ رعو ٻٽيهه ورهيه جيئري رهيو، ۽ ⟨את⟩ سروگ کي پيدا ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "۽ جيئري رهيو"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رعو"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽيهه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورهيه"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "۽ پيدا ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سروگ کي"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سروگ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:21.899184248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 61,
+  "translation": "مقصد لاءِ، تارن واري ساز تي، داوود جو.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مقصد لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "تارن واري ساز"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:25.605401743Z",
+  "model": "glm-5.3"
+}

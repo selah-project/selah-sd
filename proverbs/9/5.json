@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "“اچو، منھنجي ماني ٿا کائو، ۽ ان شراب مان ٿا پيو جو مون گڏيل ڪيو آھي.”",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "اچو"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "کائو"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "منھنجي ماني"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "۽ پيو"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "شراب مان"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "گڏيل ڪيو آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:17.511837355Z",
+  "model": "glm-5.3"
+}

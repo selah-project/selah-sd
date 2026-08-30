@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "رڳو ٻه شيون منهنجي سان نه ڪج؛ پوءِ تنھنجي اڳيان کان آءٌ لڪنديس نه.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه شيون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "ڪج"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "منهنجي سان"
+    },
+    {
+      "surface": "אז",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "تنھنجي اڳيان کان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "آءٌ لڪنديس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:14.947517568Z",
+  "model": "glm-5.3"
+}

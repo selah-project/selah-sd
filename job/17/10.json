@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 17:10",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "پر توهان سڀ موٽو، هاڻي اچو، ۽ مان توهان ۾ ڪوبه حڪيم نه لهندس.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "توهان سڀ"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "موٽو"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "۽ اچو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "لهندس"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "توهان ۾"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حڪيم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:38:15.952497035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "پر شاول ان ڏينھن ڪجھ به نه چيو، ڇوته چيائين ته ڪو حادثو آھي؛ اھو پاڪ ناھي، ڇوته اھو پاڪ ناھي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ڪجھ به"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينھن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "حادثو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آھي"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:45:50.022063602Z",
+  "model": "glm-5.3"
+}

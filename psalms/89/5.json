@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "سلَاهہ",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "هميشه تائين"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "برقرار رکندس"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تنهنجي نسل"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "۽ اُوساريندس"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "پيڙهيءَ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "۽ پيڙهيءَ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تنهنجو تخت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلَاهہ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:00.789995367Z",
+  "model": "glm-5.3"
+}

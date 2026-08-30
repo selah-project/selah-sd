@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "مٽيءَ تي سندس ڪوبه مھار ناھي؛ هو بنا ڊپ جوڙيل آھي.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ناھي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٽيءَ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "سندس مھار (حاڪم)"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "جوڙيل آھي"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "بنا"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ڊپ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:28.365683253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ⟨את⟩ حولون ۽ ⟨את⟩ ان جي چراگاھ، ۽ ⟨את⟩ دبير ۽ ⟨את⟩ ان جي چراگاھ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حولون"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "حولون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ان جي چراگاھ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ان جي چراگاھ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "دبير"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دبير"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ان جي چراگاھ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ان جي چراگاھ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:55:14.250165227Z",
+  "model": "glm-5.3"
+}

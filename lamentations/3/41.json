@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "اسان ⟨دل⟩ کي هٿن ڏانهن کڻون ٿا، آسمانن ۾ ⟨رهندڙ⟩ ايل ڏانهن.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "کڻون ٿا"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "اسان جو دل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "هٿن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:52.787745865Z",
+  "model": "glm-5.3"
+}

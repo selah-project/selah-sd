@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ پاڪن جي پاڪ مقام ۾ ٻه ڪروب ٺاهيائين، تراشيل ڪم جو، ۽ ⟨אתם⟩ سون سان مڙهيائين.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ٺاهيائين"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "۾ مقام"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪن جي پاڪ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پاڪن"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ٻه ڪروب"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "تراشيل"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "۽ مڙهيائين"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ٻه ڪروب"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:55.540682138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ ستابو زمين ۾ سنجاتو نه ويندو ان قحط جي ڪري جيڪو ان کان پوءِ ايندو، ڇوته اهو تمام سگهرو آهي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "سنجاتو ويندو"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "سبو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "جي ڪري"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قحط"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "انهي"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ان کان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "سگهرو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:16.239305883Z",
+  "model": "glm-5.3"
+}

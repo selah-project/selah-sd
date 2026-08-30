@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "تنهنڪري سڀ هٿ ڍورا ٿي ويندا، ۽ فاني ماڻهوءَ جي هر دل پگھرجي ويندي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "سبب تنهنڪري"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ڍورا ٿي ويندا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ هر"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فاني ماڻهوءَ جي"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "پگھرجي ويندي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:26.713727329Z",
+  "model": "glm-5.3"
+}

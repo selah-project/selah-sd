@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "عديا جو ذكريا؛ جِنتون جو مشلم.",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "عديا جو"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "ذكريا"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "جِنتون جو"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:12.626546015Z",
+  "model": "glm-5.3"
+}

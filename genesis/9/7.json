@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ توهين پيدا ڪريو ۽ وڌو، زمينءَ ۾ ڳراڻيو ۽ ان ۾ وڌو.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "۽ توهين"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "پيدا ڪريو"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "۽ وڌو"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "ڳراڻيو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمينءَ ۾"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "۽ وڌو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:47.446241396Z",
+  "model": "glm-5.3"
+}

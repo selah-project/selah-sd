@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "جهڙو پکي اڏامڻ ۾، جهڙو ڀورڙو جهٽڪائيڻ ۾، تيئن بنياد کان سواءِ ڪوس نه اچي ٿي.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "جهڙو پکي"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "اڏامڻ ۾"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "جهڙو ڀورڙو"
+    },
+    {
+      "surface": "لעוף",
+      "gloss": "جهٽڪائيڻ ۾"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "ڪوس"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بنياد کان سواءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "اچي ٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:59.838666078Z",
+  "model": "glm-5.3"
+}

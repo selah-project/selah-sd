@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "حنان جا پُٽ، گدل جا پُٽ، گحر جا پُٽ،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حنان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گدل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "گحر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:42.925706463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "هڪڙو ٻڪرين جو ٻڪرو، توهان لاءِ ڪفارو ڪرڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ٻڪرو"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ٻڪرين جو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪڙو"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ڪفارو ڪرڻ لاءِ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "توهان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:58.701935987Z",
+  "model": "glm-5.3"
+}

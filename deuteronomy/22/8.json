@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "جڏهن تون نئون گهر ٺاهجين، تون پنهنجي ڇت تي مڙهاهه ٺاهجين، ته جي ڪير پرچي پوي، تون پنهنجي گهر تي رت نه مٿي ڪرين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ٺاهجين"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نئون"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "۽ ٺاهجين"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "مڙهاهه"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "پنهنجي ڇت تي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ته نه"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "مٿي ڪرين"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "رت"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "پنهنجي گهر تي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته جي"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "پرچي پوي"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "پرچڻ وارو"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ان مان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:43:40.186524937Z",
+  "model": "glm-5.3"
+}

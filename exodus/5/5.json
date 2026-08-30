@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ پروش چيو، ڏسو، هاڻي ملڪ جو ماڻهو گھڻا آھن، ۽ توهان کين سندن بارن کان آرام ڏيارو ٿا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پروش"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گھڻا"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملڪ جو"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "ڏيارو ٿا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "کين"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "سندن بارن کان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:58:49.876406511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ يهوشوع مليل ڪپڙن ۾ ملبوس هو ۽ فرشتي اڳيان بيٺو هو.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "۽ يهوشوع"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ملبوس"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ڪپڙن"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "ميل"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "۽ بيٺو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشتي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:56:52.995079468Z",
+  "model": "glm-5.3"
+}

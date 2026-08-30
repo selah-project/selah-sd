@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 3:12",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ سندس هٿ سان شلّوم بن هلوحيش — يروشلم جي اڌ ضلعي جو سردار — مضبوت ڪئي، هو ۽ سندس ڌيئَر.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ سندس هٿ سان"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "سندس هٿ سان"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "مضبوت ڪئي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلّوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "הלוחש",
+      "gloss": "هلوحيش"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "اڌ"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "ضلعو"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ובנותיו",
+      "gloss": "۽ سندس ڌيئَر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:06:16.184360613Z",
+  "model": "glm-5.3"
+}

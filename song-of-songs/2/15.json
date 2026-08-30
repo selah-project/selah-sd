@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "اسان لاءِ گدھ پڪڙيو، ننڍا گدھ، جيڪي ٻنين کي خراب ڪن ٿا؛ ۽ اسان جون ٻنيون گلن ۾ آھن.",
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "پڪڙيو"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان لاءِ"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "گدھ"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "گدھ"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "ننڍا"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "خراب ڪن ٿا"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ٻنين کي"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "۽ اسان جون ٻنيون"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "گلن ۾ آھن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:46:09.962049174Z",
+  "model": "glm-5.3"
+}

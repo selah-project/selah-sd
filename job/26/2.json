@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "بي طاقت کي تون ڪيئن مدد ڪئي؟ نه-طاقت وارو ذراع تون ڪيئن بچايو؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "مدد ڪئي"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "نه-طاقت واري کي"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "بچايو"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ذراع"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:24.692222844Z",
+  "model": "glm-5.3"
+}

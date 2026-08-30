@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 22:17",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ڇو ته تنهنجون اکيون ۽ تنهنجو دل رڳو تنهنجي ناحق نفعي تي ⟨آهن⟩، ۽ بيگناهه رت وهائڻ تي، ۽ ظلم ۽ ڏاڍ تي، اهو ڪرڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تنهنجون اکيون"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "۽ تنهنجو دل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "אם",
+      "gloss": "سواءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "בצעך",
+      "gloss": "تنهنجي ناحق نفعي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "بيگناهه"
+    },
+    {
+      "surface": "לשפוך",
+      "gloss": "وهائڻ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "המרוצה",
+      "gloss": "ڏاڍ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:13:35.538841794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 32:17",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ نيڪيءَ جي ڪم جو ثمر امن هوندو، ۽ نيڪيءَ جي خدمت سڪون ۽ ڀروسو، هميشه تائين.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ هوندو"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "הצדקה",
+      "gloss": "نيڪيءَ جي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "امن"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "۽ خدمت"
+    },
+    {
+      "surface": "הצדקה",
+      "gloss": "نيڪيءَ جي"
+    },
+    {
+      "surface": "השקט",
+      "gloss": "سڪون"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "۽ ڀروسو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:52:39.473126947Z",
+  "model": "glm-5.3"
+}

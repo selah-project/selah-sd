@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ متصرايم تي هڪ نئون بادشاهه اُٿيو، جنهن ⟨את⟩ يوسف کي نه سڃاتو.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "۽ اُٿيو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نئون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متصرايم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "سڃاتو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:15.748918219Z",
+  "model": "glm-5.3"
+}

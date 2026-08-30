@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "⟨את⟩ ميز ۽ ⟨את⟩ ان جون ٽيهون ۽ ⟨את⟩ ان جا سڀ سامان ۽ ⟨את⟩ حاضري جي ماني،",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ميز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ان جون ٽيهون"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ان جون ٽيهون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ سامان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ان جا سامان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حاضري جي ماني"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "حاضري جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:08:59.161370225Z",
+  "model": "glm-5.3"
+}

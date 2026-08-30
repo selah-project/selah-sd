@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ قرباني جي گوشت مان جيڪو بچي، ٽئين ڏينهن ۾ باهه ۾ ساڙيو ويندو.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "۽ جيڪو بچي"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "گوشت مان"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "قرباني جي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ٽئين"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ساڙيو ويندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:23.826152301Z",
+  "model": "glm-5.3"
+}

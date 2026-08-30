@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ گاد جي قبيلي، ۽ گاد جي پٽن جو ناشي ايلياسف پٽ رعوئيل ٿيندو.",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "۽ قبيلو"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "۽ ناشي"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ايلياسف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوئيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:01.927861274Z",
+  "model": "glm-5.3"
+}

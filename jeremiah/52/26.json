@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 52:26",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 52,
+  "translation": "۽ نبوزرادان، قاتلن جو سردار، کين ورتي ۽ کين بابل جي راجا ڏانهن ربلا ۾ وٺي ويو.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ورتي"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ کين",
+      "marks": "قيدي"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "نبوزرادان"
+    },
+    {
+      "surface": "רב",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "قاتلن جو"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وٺي ويو"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ کين",
+      "marks": "قيدي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راجا"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل جي"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "ربلا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:25:57.705204120Z",
+  "model": "glm-5.3"
+}

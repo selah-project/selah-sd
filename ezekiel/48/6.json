@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 48:6",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ اِفرايم جي سرحد سان، اوڀر پاسي کان ⟨يتائين⟩ اولهه پاسي تائين، رئوبين لاءِ ⟨هڪ⟩ حصو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ … سان"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرايم"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "پاسي کان"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "اوڀر"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ … تائين"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "اولهه"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبين"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ (حصو)"
+    }
+  ],
+  "timestamp": "2026-08-30T12:43:24.752681692Z",
+  "model": "glm-5.3"
+}

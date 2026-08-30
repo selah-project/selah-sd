@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 32:29",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "ڪاش ته هو ڄاڻو هجن، هي سمجههن، پنهنجي پڇاڙيءَ تي غور ڪن!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ڪاش ته"
+    },
+    {
+      "surface": "חכמו",
+      "gloss": "ڄاڻو هجن"
+    },
+    {
+      "surface": "ישכילו",
+      "gloss": "سمجههن"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "غور ڪن"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "پنهنجي پڇاڙيءَ تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:33.849453893Z",
+  "model": "glm-5.3"
+}

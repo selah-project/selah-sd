@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 18:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ يهويداع جي پٽ بناياه ⟨ال⟩ ڪرتيين ۽ پلتيين تي هو، ۽ داوود جا پٽ پهرائتا بادشاهه جي ھاٿي ۾ ھيا.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "۽ بناياه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "يهويداع"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "ڪرتيين"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "۽ پلتيين"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "پهرائتا"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ھاٿي ۾"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:14.159775408Z",
+  "model": "glm-5.3"
+}

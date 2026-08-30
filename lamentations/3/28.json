@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "هو اڪيلو وهي ۽ چپ رهي، ڇو ته ⟨اها⟩ ان تي رکيل آهي.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "وهي"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "اڪيلو"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "چپ رهي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "رکيل"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ان تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:21.219558104Z",
+  "model": "glm-5.3"
+}

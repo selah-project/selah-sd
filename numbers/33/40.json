@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 33:40",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ڪنعاني، عراد جي بادشاھ، جيڪو ڏکڻ ۾، ڪنعان جي زمين ۾ رهندو هو، ٻڌو ته بني اسرائيل اچي رهيا آهن.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ڪنعاني"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "عراد"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "رهندو هو"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ڏکڻ ۾"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "اچڻ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:35:09.012562183Z",
+  "model": "glm-5.3"
+}

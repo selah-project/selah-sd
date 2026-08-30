@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 4:13",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "سندس دل ماڻهوءَ جي دل مَٽي وڃي، ۽ جانور جي دل کيس ڏني وڃي، ۽ ست ئي وقت مٿس لنگهن.",
+  "tokens": [
+    {
+      "surface": "לבבה",
+      "gloss": "سندس دل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مَتان"
+    },
+    {
+      "surface": "אנושא",
+      "gloss": "ماڻهوءَ جي"
+    },
+    {
+      "surface": "ישנון",
+      "gloss": "مَٽي"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "۽ دل"
+    },
+    {
+      "surface": "חיוה",
+      "gloss": "جانور جي"
+    },
+    {
+      "surface": "יתיהב",
+      "gloss": "ڏني وڃي"
+    },
+    {
+      "surface": "לה",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "עדנין",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "יחלפון",
+      "gloss": "لنگهن"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "مٿس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:58:09.488348095Z",
+  "model": "glm-5.3"
+}

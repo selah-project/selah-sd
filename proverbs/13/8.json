@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 13:8",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ماڻهوءَ جي جيءَ جي ڇڏائي سندس دولت آهي، پر غريب ٻڌي ئي نه ٿو ڳڻڊ.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "ڇڏائي"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جيءَ جي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ جي"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "سندس دولت"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "۽ غريب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌي ٿو"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ڳڻڊ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:49.940043236Z",
+  "model": "glm-5.3"
+}

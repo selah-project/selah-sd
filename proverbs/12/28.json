@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "راستبازيءَ جي رستي ۾ حياتي آهي ۽ ان جي واٽ ۾ موت ناهي.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "رستي ۾"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستبازيءَ جي"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حياتي"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "۽ واٽ"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "ان جي مَڃ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:11.052236921Z",
+  "model": "glm-5.3"
+}

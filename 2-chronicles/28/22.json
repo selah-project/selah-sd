@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 28:22",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ تنگيءَ جي وقت ۾ هن ياهوه جي خلاف وڌيڪ В信仰 الغداري ڪئي — هيءُ اَچاز بادشاهه ئي آهي.",
+  "tokens": [
+    {
+      "surface": "ובעת",
+      "gloss": "۽ ۾ وقت"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "تنگيءَ جي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن جي"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "وڌيڪ ڪيائين"
+    },
+    {
+      "surface": "למעול",
+      "gloss": "غداري"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه جي خلاف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَچاز"
+    }
+  ],
+  "timestamp": "2026-08-30T14:28:03.889686906Z",
+  "model": "glm-5.3"
+}

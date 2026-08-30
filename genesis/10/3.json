@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ گومر جا پٽ: اشكناز، ۽ريفٿ، ۽ توگرما.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومر جا"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "اشكناز"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "۽ ريفٿ"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "۽ توگرما"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:44.826172384Z",
+  "model": "glm-5.3"
+}

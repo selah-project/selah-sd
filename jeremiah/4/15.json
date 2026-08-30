@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ڇوته دان کان ھڪ آواز ٻڌائي ٿو، ۽ اِپفرائم جي جبل کان مصيبت جو اعلان ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ٻڌائي ٿو"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "دان کان"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "۽ اعلان ڪري ٿو"
+    },
+    {
+      "surface": "און",
+      "gloss": "مصيبت"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "جبل کان"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِپفرائم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:07:51.735759364Z",
+  "model": "glm-5.3"
+}

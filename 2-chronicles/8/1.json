@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ ٿيو ويهه سالن جي پڇاڙيءَ تي، جن ۾ شلومه ⟨את⟩ ياهوه جو گهر ۽ ⟨את⟩ پنهنجو گهر تعمير ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "پڇاڙيءَ تي"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن ۾"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "تعمير ڪيو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جو گهر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "پنهنجو گهر"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "پنهنجو گهر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:53.530897172Z",
+  "model": "glm-5.3"
+}

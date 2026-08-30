@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "غريب جيڪو پنهنجيءَ سچائيءَ ۾ هلڻ ڪري ٿو، تنهن کان ڪنجوس رستن وارو مالدار ڀلو آهي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ڀلو"
+    },
+    {
+      "surface": "רש",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "هلڻ ڪري ٿو"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "سچائيءَ ۾"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "ڪنجوس"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "رستن وارو"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ ⟨هو⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "مالدار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:17.675206203Z",
+  "model": "glm-5.3"
+}

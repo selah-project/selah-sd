@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "ڇوته قوم صلاح کان وانجل آهي، ۽ انهن ۾ ڪا سمجهه ناهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "وانجل"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "صلاح کان"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ناهي"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انهن ۾"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجهه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:09.571554494Z",
+  "model": "glm-5.3"
+}

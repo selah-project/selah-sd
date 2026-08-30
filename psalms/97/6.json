@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 97,
+  "translation": "آسمانن ⟨את⟩ سندس انصاف بيان ڪيو، ۽ سڀن قومن سندس جلال ڏٺو۔",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "بيان ڪيو"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس انصاف"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "سندس انصاف"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "۽ ڏٺو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀن"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومن"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "سندس جلال"
+    }
+  ],
+  "timestamp": "2026-08-30T15:03:42.248371141Z",
+  "model": "glm-5.3"
+}

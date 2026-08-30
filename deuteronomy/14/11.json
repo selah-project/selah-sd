@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "سڀ صاف پکي توهان کائو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "پکي"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "صاف"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "توهان کائو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:39.394653568Z",
+  "model": "glm-5.3"
+}

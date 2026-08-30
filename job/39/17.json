@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 39:17",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "ڇو ته ايلوه ⟨का⟩ هن کي حڪت وسارائي ڇڏي آهي، ۽ سمجهه ۾ کانئس ڪو حصو نه ڏنائين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "השה",
+      "gloss": "وسارايو"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ايلوه"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "حصو ڏنو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "בבינה",
+      "gloss": "سمجهه ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:44:59.484213129Z",
+  "model": "glm-5.3"
+}

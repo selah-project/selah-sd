@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ڪيئي چون ٿا: 'ڪير اسان کي ڀلا ڏيکاريندو؟' ياهوه، پنھنجي منهن جو اُجالي اسان تي کڻ.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ڪيئي"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "چون ٿا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ڏيکاريندو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلا"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "کڻ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اسان تي"
+    },
+    {
+      "surface": "אור",
+      "gloss": "اُجالي"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "پنھنجي منهن جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:30.196586543Z",
+  "model": "glm-5.3"
+}

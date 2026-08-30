@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 61,
+  "translation": "ڇوته تو مھنج لاءِ پناھ رھيو آھين، دشمن جي منھن ۾ طاقت جو برج.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "היית",
+      "gloss": "رھيو آھين"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناھ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مھنج لاءِ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برج"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت جو"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "جي منھن ۾"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:25.605837658Z",
+  "model": "glm-5.3"
+}

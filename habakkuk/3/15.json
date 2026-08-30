@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "تون سمنڊ ۾ پنھنجا گھوڙا ڏانڍيا، وڏن پاڻين جي ڳوڙهي گارو ۾.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "ڏانڍيا تون"
+    },
+    {
+      "surface": "בים",
+      "gloss": "سمنڊ ۾"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "پنھنجا گھوڙا"
+    },
+    {
+      "surface": "חמر",
+      "gloss": "ڳوڙهي گارو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻين جي"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "وڏن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:22.765853428Z",
+  "model": "glm-5.3"
+}

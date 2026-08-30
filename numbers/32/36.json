@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ ⟨את⟩ بيت-نمره ۽ ⟨את⟩ بيت-هاران — محفوظ شهر ۽ رڍن جا واڙ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "بيت-نمره"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "نمره"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "بيت-هاران"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "هاران"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "محفوظ"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "۽ واڙ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "رڍن جا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:13.931790742Z",
+  "model": "glm-5.3"
+}

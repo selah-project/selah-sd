@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 21:21",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ھڪ ٿي ٿي وڃ، ساڄي پاسي وڃ، کاٻي پاسي ڌَر؛ ڪٿي تنهنجو منهن مقرر <آهي>؟",
+  "tokens": [
+    {
+      "surface": "התאחדי",
+      "gloss": "ھڪ ٿي ٿي وڃ"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "ساڄي پاسي"
+    },
+    {
+      "surface": "השימי",
+      "gloss": "ڌَر"
+    },
+    {
+      "surface": "השמילי",
+      "gloss": "کاٻي پاسي"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ڪٿي"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تنهنجو منهن"
+    },
+    {
+      "surface": "מעדות",
+      "gloss": "مقرر"
+    }
+  ],
+  "timestamp": "2026-08-30T12:32:40.104126549Z",
+  "model": "glm-5.3"
+}

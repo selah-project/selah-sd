@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 34:19",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "جيڪو سردارن جو ⟨منهن⟩ نه کڻي، ۽ مالدار کي غريب کان مٿي نه سنڃاڻي — ڇوته سڀ ئي ⟨هن جي⟩ هٿن جو ڪم آهن.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "کڻي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سردارن جو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "سنڃاڻي"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "مالدار"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کان مٿي"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "هن جي هٿن جو"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سڀ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:43:42.617841516Z",
+  "model": "glm-5.3"
+}

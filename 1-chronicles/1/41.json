@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "عاناه جا پٽ ⟨هو⟩ ديشون؛ ۽ ديشون جا پٽ: حمران ۽ اشبان ۽ يثران ۽ كران۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عاناه"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "ديشون"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ ديشون جا پٽ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "ديشون"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "حمران"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "۽ اشبان"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "۽ يثران"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "۽ كران"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:42.141646160Z",
+  "model": "glm-5.3"
+}

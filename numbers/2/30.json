@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ سندس لشڪر، ۽ سندن ڳڻپ ٿيل: ٽي ۽ پنجاهه هزار ۽ چار سئو.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "۽ سندس لشڪر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "۽ سندن ڳڻپ ٿيل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "۽ پنجاهه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سئو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:54.795925336Z",
+  "model": "glm-5.3"
+}

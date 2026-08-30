@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "رهائشي ۽ ڪِرائي جو مزدور ان ۾ کائيندا نه.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "رهائشي"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "۽ ڪِرائي جو مزدور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائيندا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:12.402272825Z",
+  "model": "glm-5.3"
+}

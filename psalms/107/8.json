@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "ياهوه جي خيسيد جي مڃ ڪن، ۽ پنهنجن عجيب ڪم FNAA آدم جي پُٽن لاءِ.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "مڃ ڪن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "خيسيد جي"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "۽ پنهنجن عجيب ڪم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "جي پُٽن لاءِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:59.523626659Z",
+  "model": "glm-5.3"
+}

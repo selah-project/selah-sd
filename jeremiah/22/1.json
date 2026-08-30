@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ايئن چوي ٿو ياهوه: لهجي وڃ يهوداه جي بادشاهه جي گهر ۾، ۽ اُتي ⟨את⟩ هي لفظ چؤ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ايئن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "רד",
+      "gloss": "لهجي وڃ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه جي"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه جي"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "۽ چؤ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي لفظ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:14:06.951254664Z",
+  "model": "glm-5.3"
+}

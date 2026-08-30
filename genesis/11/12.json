@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ارفڪشَد پنجٽيهه سالَ جيئيو، ۽ ⟨את⟩ شَلَح کي پيدا ڪيائين.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "۽ ارفڪشَد"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جيئيو"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽيهه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالَ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "۽ پيدا ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شَلَح"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شَلَح"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:45.754606599Z",
+  "model": "glm-5.3"
+}

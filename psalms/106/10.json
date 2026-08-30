@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 106,
+  "translation": "۽ هن کين دشمن جي هٿ مان بچايو ۽ کين سنڀاريو مڙسئي جي هٿ مان.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "۽ کين بچايو"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "هٿ مان"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "۽ کين سنڀاريو"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "هٿ مان"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "مڙسئي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:45.548008197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ حفرايم، ۽ شِيون، ۽ انحرات.",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "۽ حفرايم"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "۽ شِيون"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "۽ انحرات"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:37.971225270Z",
+  "model": "glm-5.3"
+}

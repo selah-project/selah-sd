@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 49,
+  "translation": "بني آدم به، بني إيش به، گڏجي مالدار ۽ غريب.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "إيش"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "گڏجي"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "مالدار"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "۽ غريب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:23.151536534Z",
+  "model": "glm-5.3"
+}

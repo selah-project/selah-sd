@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 25:2",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "بني اسرائيل سان ڳالھاء ۽ کين چؤ ته جڏھن توهان ان زمين ۾ داخل ٿيو جاڪو مان توهان کي ڏيان ٿو، ته زمين ياهوه لاءِ شبد رکي.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھاءُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ٻارن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ چؤ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته جڏھن"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "داخل ٿيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ان زمين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جاڪو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏيان ٿو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان کي"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "ته شبد رکي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شبد"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:59.851475589Z",
+  "model": "glm-5.3"
+}

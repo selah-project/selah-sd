@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ سڀ وڻن ڪنڊي کي چيو: تون وڃ، اسان تي بادشاهه ٿِ.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "وڻن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "ڪنڊي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه ٿِ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اسان تي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:00:09.360540559Z",
+  "model": "glm-5.3"
+}

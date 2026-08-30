@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "اڳي جو چانديءَ جو ڏور ڪٽي، ۽ سون جو گنبد ڀڄي، ۽ چاڙهي چشمي تي ٽٽي، ۽ ڦيٿو کوهه ۾ ڪري پوي.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "اڳي جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "ڪٽي"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ڏور"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چانديءَ جو"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ڀڄي"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "گنبد"
+    },
+    {
+      "surface": "הזהب",
+      "gloss": "سون جو"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "ٽٽي"
+    },
+    {
+      "surface": "כד",
+      "gloss": "چاڙهي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "چشمي"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "ڪري پوي"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ڦيٿو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "کوهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:47.970809350Z",
+  "model": "glm-5.3"
+}

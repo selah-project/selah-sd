@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇوتہ سندس سارا ڏينھن درد ۽ سندس ڪم ڪَٽاءَ آھن؛ پوءِ رات ۾ بہ سندس دل ستي ٿيندي ناھي؛ پوءِ بہ اھو ھيبل آھي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوتہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "سندس ڏينھن"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "درد ۽"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "۽ ڪَٽاءَ"
+    },
+    {
+      "surface": "ענינو",
+      "gloss": "سندس ڪم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پوءِ بہ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات ۾"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ستي ٿيندي ناھي"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "سندس دل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پوءِ بہ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ھيبل آھي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:26.980613120Z",
+  "model": "glm-5.3"
+}

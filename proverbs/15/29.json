@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 15:29",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ياهوه شريرن کان پري آهي، پر نيڪن جي دعا ٻُڌي ٿو.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "پري"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "شريرن کان"
+    },
+    {
+      "surface": "ותפלת",
+      "gloss": "پر دعا"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نيڪن جي"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ٻُڌي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:36.264810053Z",
+  "model": "glm-5.3"
+}

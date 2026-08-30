@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 14:7",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ بني اسرائيل جي پوري ڪٽڻ سان چيائون: جيڪا زمين اسان لنگھي ⟨את⟩ ان کي جاچي، اھا زمين تمام تمام سٺي آھي.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "۽ چيائون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوري"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ڪٽڻ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ ته"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "اسان لنگھي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "جاچڻ لاءِ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "سٺي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:21.201074816Z",
+  "model": "glm-5.3"
+}

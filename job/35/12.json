@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 35:12",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "اتي ⟨هو⟩ رڙن ٿا، پر جواب نه ٿو ڏنو وڃي، بڇڙن جي گهمند سببان.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "رڙن ٿا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب ٿو ڏئي"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "سببان"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "گهمند"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بڇڙن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:42:42.853512259Z",
+  "model": "glm-5.3"
+}

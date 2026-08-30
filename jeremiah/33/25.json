@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "ٽيئن چوي ٿو ياهوه: جيڪڏهن منھنجو عھد ڏينهن ۽ رات سان ⟨قائم نه آھي⟩، ۽ جيڪڏهن مون آسمانن ۽ زمين جا فرضا نه رکيا،",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ٽيئن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "منھنجو عھد"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "۽ رات"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "فرضا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "۽ زمين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "مون رکيا"
+    }
+  ],
+  "timestamp": "2026-08-30T12:18:00.703115888Z",
+  "model": "glm-5.3"
+}

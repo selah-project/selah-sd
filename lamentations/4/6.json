@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 4:6",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ⟨منهنجي⟩ قوم جي ڌيءَ جو ڏوهه سدوم جي گناهه کان وڌيڪ ٿي ويو، جيڪا پلڪ اندر اونڌي ڪئي وئي ۽ ان ۾ هٿ نه وڙهيا.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "وڌيڪ ٿي ويو"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ڏوهه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ جو"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منهنجي قوم"
+    },
+    {
+      "surface": "מחטאת",
+      "gloss": "گناهه کان"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "ההפוכה",
+      "gloss": "اونڌي ڪئي وئي"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "جهڙو"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "پلڪ اندر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "وڙهيا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "هٿ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:10.865663791Z",
+  "model": "glm-5.3"
+}

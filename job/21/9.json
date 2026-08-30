@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 21:9",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "انھن جا گھر ڊپ کان سلامتي آھن، ۽ ايلوه جي ڪوڏي انھن تي ناھي.",
+  "tokens": [
+    {
+      "surface": "בתיהם",
+      "gloss": "انھن جا گھر"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ڊپ کان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ ناھي"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ڪوڏي"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ايلوه"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "انھن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:39:14.231536979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "ننڊ کي پيار نه ڪر، متان تي غريب ٿئين؛ پنھنجيون اکيون کول، مانيءَ سان سير ٿي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "پيار ڪر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ننڊ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "غريب ٿئين"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "کول"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "پنھنجيون اکيون"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سير ٿي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "مانيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:24.458267810Z",
+  "model": "glm-5.3"
+}

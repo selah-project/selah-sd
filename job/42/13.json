@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "۽ کيس سَتن پُٽَ ۽ ٽي ڌيئون هيون.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "هيون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "ست"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُٽَ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيئون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:52.278464889Z",
+  "model": "glm-5.3"
+}

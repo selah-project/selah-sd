@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "نگهبان چوي ٿو: “صبح اچي ٿو، ۽ پڻ رات؛ جيڪر توهان پڇو ته پڇو؛ موڙو، اچو۔”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "نگهبان"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪر"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "توهان پڇو"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "پڇو"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "موڙو"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "اچو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:52:50.386201933Z",
+  "model": "glm-5.3"
+}

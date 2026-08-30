@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ڇوته بيتِ اسرائيل ۽ بيتِ يهودا مَونَ سان گهڻي خيانت ڪئي آهي، ياهوه جو فرمان آهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "گهڻي"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "خيانت ڪئي"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مَونَ سان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ گهر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "جو فرمان آهي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:07:52.668435538Z",
+  "model": "glm-5.3"
+}

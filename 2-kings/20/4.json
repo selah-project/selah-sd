@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 20:4",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ اهو ٿيو، يشعياھو اڃا ⟨the⟩ شهر جي وچين وٽ مان نه نڪتو هو ته ياهوه جو لفظ مٿس آيو، چوڻ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ اهو ٿيو"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "يشعياھو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نڪتو هو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "جي وچين"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "۽ لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:45:39.355641909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "ezra 2:51",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "بقبوق جا پُٽ، حقوفا جا پُٽ، حرحور جا پُٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "بقبوق"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "حقوفا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "حرحور"
+    }
+  ],
+  "timestamp": "2026-08-30T14:02:43.284733572Z",
+  "model": "glm-5.3"
+}

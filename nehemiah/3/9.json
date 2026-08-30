@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ انهن جي هٿ سان رفيا بن حور — يروشلم جي اڌ ضلعي جو سردار — مضبوت ڪئي.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ انهن جي هٿ سان"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "انهن جي هٿ سان"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "مضبوت ڪئي"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "رفيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "اڌ"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "ضلعو"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:06:16.183835991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezra 2:60",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "دلايه جا پٽ، توبيه جا پٽ، نڪودا جا پٽ — چار سؤ پنجاهه ۽ ٻه (652).",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "دلايه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "توبيه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نڪودا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاهه"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻه"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:28.358678448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ هن ⟨את⟩ ان جي ڊيگھه ويھ اَمُھ ماپي ۽ ويڪر ويھ اَمُھ، هيڪل جي اڳيان؛ ۽ هن مون کي چيو: „ھي قدش قدشن آھي۔“",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "۽ ماپي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان جي ڊيگھه"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ان جي ڊيگھه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمُھ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "۽ ويڪر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمُھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منھن جي"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "هيڪل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدش"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "قدشن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:17.439082117Z",
+  "model": "glm-5.3"
+}

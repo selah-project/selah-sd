@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ عوبيد ⟨את⟩ يِشَي کي پيد ڪيو، ۽ يِشَي ⟨את⟩ دائود کي پيد ڪيو.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "۽ عوبيد"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يِشَي"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يِشَي"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "۽ يِشَي"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيد ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دائود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دائود"
+    }
+  ],
+  "timestamp": "2026-08-30T13:47:02.857142870Z",
+  "model": "glm-5.3"
+}

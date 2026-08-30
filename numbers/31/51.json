@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ موشي ۽ ايلعزار ڪاهن کائن ⟨את⟩ سون ورتو — سڀ ڪڙيل (ٺاهيل) سامان.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "۽ ورتائون"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "۽ ايلعزار"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سون"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "کائن ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪڙيل (ٺاهيل)"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:56.827567764Z",
+  "model": "glm-5.3"
+}

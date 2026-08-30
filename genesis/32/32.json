@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ جيئن ئي ⟨את⟩ پنو‌ايل کان لنگهيو، سج مٿس اُڀريو، ۽ هو پنهنجي ران لنگڙو ٿي هليو.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "۽ اُڀريو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن ئي"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگهيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنو‌ايل"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "پنو‌ايل"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ هو"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "لنگڙو ٿي هليو"
+    },
+    {
+      "surface": "על",
+      "gloss": "سبب"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "پنهنجي ران"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:08.945607285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ رمن جون کلون ڳاڙيون رنگيل، ۽ تاحشين جون کلون، ۽ شٽيم جو ڪاٺ،",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "۽ کلون"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "رمن جون"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ڳاڙيون رنگيل"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "۽ کلون"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "تاحشين جون"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "۽ ڪاٺ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شٽيم جو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:28.889819981Z",
+  "model": "glm-5.3"
+}

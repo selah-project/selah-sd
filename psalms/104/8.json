@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 104,
+  "translation": "جبل مٿي چڙھن، ماڻ تائين لهن — انهيءَ جاءِ تي جا تو پنھنجن بنيادن تي رکي آھين.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "مٿي چڙھن"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "لهن"
+    },
+    {
+      "surface": "בקעوت",
+      "gloss": "ماڻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "انهيءَ"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "رکي آھين"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پنھنجن بنيادن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:37.142927427Z",
+  "model": "glm-5.3"
+}

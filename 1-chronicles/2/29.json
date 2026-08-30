@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ اَبيشور جي زال جو نالو اَبيهيل ھو، ۽ ان کي ⟨את⟩ اَحبان ۽ ⟨את⟩ موليد ڄڻيا.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "۽ نالو"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال جي"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "اَبيشور جي"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "اَبيهيل"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "۽ ڄڻيائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَحبان"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "اَحبان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "موليد"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "موليد"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:18.956993304Z",
+  "model": "glm-5.3"
+}

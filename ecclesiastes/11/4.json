@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "جيڪو هوا کي واچيندو اُهو پوکي نه ٿو، ۽ جيڪو بادلن کي ڏسيندو اُهو فصل نه لھي.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "واچيندو"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "هوا کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "پوکي ٿو"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "۽ ڏسيندو"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "بادلن کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "فصل لھي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:57.614977592Z",
+  "model": "glm-5.3"
+}

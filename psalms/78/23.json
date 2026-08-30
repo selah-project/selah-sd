@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 78,
+  "translation": "۽ هن مٿئين بادلن کي حڪم ڏنو، ۽ آسمانن جا دروازا کوليائين،",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "۽ حڪم ڏنو"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "بادلن"
+    },
+    {
+      "surface": "مמעל",
+      "gloss": "مٿئين"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "۽ دروازا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانن جا"
+    },
+    {
+      "surface": "پתח",
+      "gloss": "کوليائين"
+    }
+  ],
+  "timestamp": "2026-08-30T15:02:58.875999053Z",
+  "model": "glm-5.3"
+}

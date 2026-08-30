@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 15:17",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "پر اوچا ماڳ يسرائيل مان هٽا نه ويا؛ رڳو آسا جو دل سندس سڀ ڏينهن پورو رهيو.",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "پر اوچا ماڳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "هٽا ويا"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "يسرائيل مان"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "رهيو"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "پورو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:19.566667051Z",
+  "model": "glm-5.3"
+}

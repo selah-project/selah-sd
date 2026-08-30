@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 41:14",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ سڄي ماڻهن کي جنهن کي يِشماعيل مِصپه کان قيد ڪري وٺي ويو هو، مُڙي ويا ۽ موٽي يوحنان بن قارح وٽ ويا.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "مُڙي ويا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن کي"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "قيد ڪري وٺي ويو"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "يِشماعيل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "مِصپه"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "۽ موٽي"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ويا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "يوحنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن (پٽ)"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قارح"
+    }
+  ],
+  "timestamp": "2026-08-30T12:20:45.296217505Z",
+  "model": "glm-5.3"
+}

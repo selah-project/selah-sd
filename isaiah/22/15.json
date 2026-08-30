@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ادوناي ياهوه صبائوت اهڙو فرمائي ٿو: وڃ، هن منتظم وٽ اچ — شبنآ ڏانهن، جيڪو گهر تي آهي — ۽ چؤ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اهڙو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرمائي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وڃ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "هن منتظم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "شبنآ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گهر"
+    }
+  ],
+  "timestamp": "2026-08-30T11:52:50.862447579Z",
+  "model": "glm-5.3"
+}

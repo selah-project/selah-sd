@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "حريم جا پٽ ٽي سؤ ۽ ويھھ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חרים",
+      "gloss": "حريم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھھ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:41.447352688Z",
+  "model": "glm-5.3"
+}

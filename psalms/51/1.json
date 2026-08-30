@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 51,
+  "translation": "راہب لاءِ، داوود جو مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "راھب لاءِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:55.529123971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ سندس لشڪر ۽ سندن ڳڻپ ٿيا پنج ۽ ٽيھ هزار ۽ چار سؤ.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "۽ سندس لشڪر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "۽ سندن ڳڻپ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽيھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:49.708101067Z",
+  "model": "glm-5.3"
+}

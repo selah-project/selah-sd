@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 23:2",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "به اڄ منهنجي شڪيت ڪڙي آهي؛ منهنجو هٿ منهنجي آهين تي ڳرو ٿيو آهي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اڄ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "ڪڙي"
+    },
+    {
+      "surface": "שחי",
+      "gloss": "شڪيت"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "منهنجو هٿ"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "ڳرو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "منهنجي آهين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:39:56.379664710Z",
+  "model": "glm-5.3"
+}

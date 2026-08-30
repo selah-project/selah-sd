@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "يهوشافط، پاروخ جو پٽ، يسسڪر ۾ ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافط"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "پاروخ"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "يسسڪر ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:28:31.728538756Z",
+  "model": "glm-5.3"
+}

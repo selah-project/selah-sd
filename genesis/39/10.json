@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 39,
+  "translation": "۽ ٿيو، جيئن هوءَ يوسف سان ڏينهان ڏينهن ڳالهايو، ته هن هن جي نه ٻُڌو، ته ساڻس سمهي يا ساڻس هجي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "جيئن هوءَ ڳالهايو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهان"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ته نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻُڌو"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "هن جي"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "سمهي"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "ساڻس"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ساڻس"
+    }
+  ],
+  "timestamp": "2026-08-30T09:51:51.605077348Z",
+  "model": "glm-5.3"
+}

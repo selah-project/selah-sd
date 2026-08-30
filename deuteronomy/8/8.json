@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ڪڻڪ ۽ جوَ جي زمين، ٻوٽي ۽ انجير ۽ انار جي؛ زيتون جي تيل ۽ ماک جي زمين.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ڪڻڪ"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "۽ جوَ"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "۽ ٻوٽي"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "۽ انجير"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "۽ انار"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زيتون"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تيل"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "۽ ماک"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:08.150493604Z",
+  "model": "glm-5.3"
+}

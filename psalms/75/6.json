@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 75,
+  "translation": "پنهنجو سڱ بلند مٿي نه کڻو، ڪٽيل (سخت) ڳچيءَ سان نه ڳالهايو.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "تרימו",
+      "gloss": "کڻو"
+    },
+    {
+      "surface": "لמרום",
+      "gloss": "بلند مٿي"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "پنهنجو سڱ"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "ڳالهايو"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ڳچيءَ سان"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ڪٽيل (سخت)"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:46.941584659Z",
+  "model": "glm-5.3"
+}

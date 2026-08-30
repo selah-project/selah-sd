@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ حتسرون ⟨את⟩ رام کي پيدا ڪيو، ۽ رام ⟨את⟩ عمينادو کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "۽ حتسرون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رام کي"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "۽ رام"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمينادو کي"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عمينادو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:08.691847266Z",
+  "model": "glm-5.3"
+}

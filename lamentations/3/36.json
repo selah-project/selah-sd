@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ماڻهوءَ کي سندس دعويٰ ۾ ويڙهائڻ — ادوناي اھو نه ڏسي ٿو۔",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "ويڙهائڻ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ کي"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "سندس دعويٰ ۾"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏسي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T15:07:53.555832271Z",
+  "model": "glm-5.3"
+}

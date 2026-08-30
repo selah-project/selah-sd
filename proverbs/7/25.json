@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "تنهنجو دل سندس رستن ڏانهن نه مڙجي، سندس واٽن ۾ نه ڀٽڪ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "مڙجي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "سندس رستن"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تنهنجو دل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "ڀٽڪ"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "سندس واٽن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:41.831479511Z",
+  "model": "glm-5.3"
+}

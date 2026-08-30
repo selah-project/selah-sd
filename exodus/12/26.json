@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ٿيندو جڏھن توهان جا پٽ توهانکي چون: هيءَ عبادت توهان لاءِ ڇا آھي؟",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏھن"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "چون"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "توهانکي"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "توهان جا پٽ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "هيءَ عبادت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هيءَ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:02.357619382Z",
+  "model": "glm-5.3"
+}

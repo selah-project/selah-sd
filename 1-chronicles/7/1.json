@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ يِسّاخَر جي پٽن جا ⟨هئا⟩ تولا ۽ پوعه، يشوب ۽ شمرون — چار.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "۽ … جي پٽن"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "يِسّاخَر"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "تولا"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "۽ پوعه"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "يشوب"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "۽ شمرون"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:47.152216476Z",
+  "model": "glm-5.3"
+}

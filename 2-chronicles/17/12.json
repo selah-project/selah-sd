@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 17:12",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ يھوشفات وڏو ٿيندو مٿي تائين ويو، ۽ يھودا ۾ قلعا ۽ ذخيرن جا شهر ٺاھيائين.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يھوشفات"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ويو ٿيندو"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "۽ وڏو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ٺاھيائين"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "يھودا ۾"
+    },
+    {
+      "surface": "בירניות",
+      "gloss": "قلعا"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "۽ شهر"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "ذخيرن جا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:25.670431704Z",
+  "model": "glm-5.3"
+}

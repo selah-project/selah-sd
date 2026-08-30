@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "انهن کان نه ڊڄجانءِ؛ ياد ڪر، چڱي طرح ياد رکج ⟨את⟩ جيڪو ياهوه تنهجو ايلوهيم فرعون ۽ سڄي متسرايم سان ڪيو،",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڊڄجانءِ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "انهن کان"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ياد ڪر"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ياد رکج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جيڪو ياهوه ڪيو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تنهجو ايلوهيم"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "فرعون سان"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "۽ سڄي"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:11.831218458Z",
+  "model": "glm-5.3"
+}

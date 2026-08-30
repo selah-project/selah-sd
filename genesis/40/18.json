@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ يوسف جواب ڏنو ۽ چيائين: هيءَ ان جي تعبير آهي — ٽي ٽوڪريون، اهي ٽي ڏينهن آهن.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "۽ جواب ڏنو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "ויאمר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هيءَ"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "تعبير"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "ٽوڪريون"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اهي آهن"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:40.750667328Z",
+  "model": "glm-5.3"
+}

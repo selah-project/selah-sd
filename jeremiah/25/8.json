@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "تنهنڪري ائين چوي ٿو ياهوه صبائوت: جيڪاھڙي توهان ⟨את⟩ منهنجا لفظ نه ٻڌا.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "יען",
+      "gloss": "جيڪاھڙي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "توهان ٻڌا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منهنجا لفظ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "منهنجا لفظ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:55:36.155976473Z",
+  "model": "glm-5.3"
+}

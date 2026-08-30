@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ زيزا، شِفعي جو پُٽ، ايلون جو پُٽ، يدايه جو پُٽ، شِمري جو پُٽ، شِمعيه جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "۽ زيزا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پُٽ"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "شِفعي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پُٽ"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "ايلون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پُٽ"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "يدايه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پُٽ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شِمري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پُٽ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شِمعيه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:10.885989887Z",
+  "model": "glm-5.3"
+}

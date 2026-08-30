@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 97,
+  "translation": "ڇوڪي تون، ياهوه، عليون آهين سڄي زمين تي؛ تون وڏيءَ قدر مٿي آهين سڀن ايلوهيم کان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عليون"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين تي"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "وڏيءَ قدر"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "مٿي آهين"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:01.782366463Z",
+  "model": "glm-5.3"
+}

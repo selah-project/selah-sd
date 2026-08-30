@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "سندس مڙس دروازن ۾ سڃاتو وڃي ٿو، جڏهن هو زمين جي بزرگن سان گڏ ويهي ٿو.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "سڃاتو وڃي ٿو"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "دروازن ۾"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "سندس مڙس"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "جڏهن هو ويهي ٿو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "بزرگن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:36.174189209Z",
+  "model": "glm-5.3"
+}

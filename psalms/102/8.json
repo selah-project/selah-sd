@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 102,
+  "translation": "مان جاڳڻ ٿو ڪريان، ۽ ٿيو آهيان اڪيلي پکيءَ وانگر ڇت تي.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "مان جاڳندو رھيو آهيان"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "۽ ٿيو آهيان"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "پکيءَ وانگر"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "اڪيلو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ڇت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:00.348373986Z",
+  "model": "glm-5.3"
+}

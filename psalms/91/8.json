@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 91,
+  "translation": "رڳو پنھنجين اکين سان ڏسندين، ۽ ظالمن جي ڪمائتي بدلو تيون。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "پنھنجين اکين سان"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ڏسندين"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "۽ بدلو"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ظالمن جي"
+    },
+    {
+      "surface": "תראه",
+      "gloss": "تيين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:25.263290483Z",
+  "model": "glm-5.3"
+}

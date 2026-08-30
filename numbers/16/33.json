@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 16:33",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "پوءِ اھي ۽ سندن سڀ ڪجهه جيئرا ئي شيول ۾ لتھا، ۽ زمين مٿن ڍڪ ڇڏيءِ، ۽ اھي مجلس جي وچ مان ختم ٿي ويا.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "لتھا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "سندن"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جيئرا"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "شيول ۾"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "۽ ڍڪي"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "مٿن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "۽ ختم ٿيا"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "جي وچ مان"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "مجلس"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:30.282667133Z",
+  "model": "glm-5.3"
+}

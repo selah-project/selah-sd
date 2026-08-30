@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "حڪمت نادان لاءِ بلند ⟨آهي⟩؛ دروازي تي ⟨هو⟩ پنهنجو وات نه کوليندو.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "نادان لاءِ"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازي تي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "کوليندو"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "پنهنجو وات"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:09.004959773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 4:20",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ سندس مرڻ جي وقت سندس چوٽي بيٺل زالن چيس: “ڊڙ نه، ڇوته تو پٽ جنم ڏنو آهي.” پر هوءَ جواب نه ڏنو ۽ نہ دل ڏني.",
+  "tokens": [
+    {
+      "surface": "וכעת",
+      "gloss": "۽ وقت"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "سندس مرڻ جي"
+    },
+    {
+      "surface": "ותדברנה",
+      "gloss": "چيون"
+    },
+    {
+      "surface": "הנצבות",
+      "gloss": "بيٺل زالن"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "سندس چوٽي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ڊڙ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "جنم ڏنو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "جواب ڏنو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ڏني"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-08-30T11:07:28.763669039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ اشتون ⟨את⟩ بيت-رافا ۽ ⟨את⟩ پسح ۽ ⟨את⟩ تخنا کي ڄڻيو؛ ⟨هو⟩ عير-نحش جو پيءُ ⟨هو⟩. اهي ريخا جا ماڻهو آهن.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "۽ اشتون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت-رافا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "رافا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پسح"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تخنا"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "تخنا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عير"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "نحش"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "ريخا جا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:39.814957266Z",
+  "model": "glm-5.3"
+}

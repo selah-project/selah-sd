@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "نيڪي بيڏوهيءَ جي رستي جي نگهباني ٿي ڪري، ۽ بدڪاري ڏوهي کي ڀڃي ڇڏي ٿي.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "نيڪي"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "نگهباني ٿي ڪري"
+    },
+    {
+      "surface": "תם",
+      "gloss": "بيڏوهيءَ جي"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستي جي"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "۽ بدڪاري"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "ڀڃي ڇڏي ٿي"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ڏوهي کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:49.939753441Z",
+  "model": "glm-5.3"
+}

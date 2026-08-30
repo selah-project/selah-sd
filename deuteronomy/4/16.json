@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "متان توهان خرابي ڪريو ۽ پنهنجي لاءِ ڪنش پرتي ٺاهيو، ڪنهن به مورتيءَ جي شڪل — مرد يا زال جي هيئت.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "متان"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "توهان خرابي ڪريو"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "۽ ٺاهيو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پنهنجي لاءِ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ڪنش پرتي"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "شڪل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪنهن به"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "مورتيءَ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "هيئت"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "زال"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:42.502833443Z",
+  "model": "glm-5.3"
+}

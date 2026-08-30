@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 11:4",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ته نڪتيا، هو ۽ سندن سڀ لشڪر انهن سان، هڪ وڏو قوم، جهڙوڪ ريت جا سمنڊ جي ڪناري تي آهي، تعداد ۾، ۽ گهوڙا ۽ رٿون تمام گهڻا.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ته نڪتيا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "سندن لشڪر"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "انهن سان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "جهڙوڪ ريت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ڪناري"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ جي"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "تعداد ۾"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "۽ گهوڙا"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "۽ رٿون"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گهڻا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:05.547214441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "هٻلس مان مال ٿورو ٿي ويندو آھي، پر جيڪو هٿ سان گڏ ڪري ٿو سو وڌندو آھي.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "هٻلس مان"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "ٿورو ٿي ويندو آھي"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "پر جيڪو گڏ ڪري ٿو"
+    },
+    {
+      "surface": "על",
+      "gloss": "سان"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "وڌندو آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:46.149214159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "ياهوه کان ۾ ڳرو ۽ هلڪو ٻن وزنن جي نفرت آهي، ۽ ڦرايل تورن ۾ ڪا ڀلائي نه.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "نفرت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ڳرو وزن"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "۽ هلڪو وزن"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "۽ تورن ۾"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ڦرايل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:00.257222884Z",
+  "model": "glm-5.3"
+}

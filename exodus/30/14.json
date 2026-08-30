@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 30:14",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "سڀ جيڪي ڳڻيلن تي لنگهن ٿا، ويهن سالن جي پُٽَ کان ۽ مٿي، ياهوه جو نذر ڏيندا.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "جيڪي لنگهن ٿا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "ڳڻيلن"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "پُٽَ کان"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهن"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "۽ مٿي"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڏيندا"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:07:56.149971458Z",
+  "model": "glm-5.3"
+}

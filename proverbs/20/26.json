@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "هوشيار بادشاهه ظالمن کي ڇڻي ٿو ۽ مٿن ڦيٿو مڙائي ٿو.",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "ڇڻي ٿو"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "هوشيار"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "۽ مڙائي ٿو"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "مٿن"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "ڦيٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:00.947946398Z",
+  "model": "glm-5.3"
+}

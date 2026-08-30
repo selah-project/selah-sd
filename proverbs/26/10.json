@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "سڀ ڪجهه جوڙيندڙ عظيم ⟨هو⟩ مورخ کي ۽ گناهگارن کي بدلو ڏئي ٿو.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "جوڙيندڙ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ ڪجهه"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "۽ بدلو ڏئي ٿو"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "مورخ کي"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "۽ بدلو ڏئي ٿو"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "گناهگارن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:53.406572229Z",
+  "model": "glm-5.3"
+}

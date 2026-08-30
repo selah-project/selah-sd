@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "صلاح ٻڌ ۽ سماءَ قبول ڪر، تہ جيئن تون پنھنجي پڇاڙيءَ ۾ ڄاڻو ٿئين.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "۽ قبول ڪر"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "سماءَ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تہ جيئن"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "ڄاڻو ٿئين"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "پنھنجي پڇاڙيءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:34.048160379Z",
+  "model": "glm-5.3"
+}

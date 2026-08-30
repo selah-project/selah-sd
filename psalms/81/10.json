@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 81,
+  "translation": "تنهن ۾ اوپرو ايل نه هجي، ۽ تون پرائي ايل کي سجدو نه ڪرين.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تنهن ۾"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "זר",
+      "gloss": "اوپرو"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "تون سجدو ڪرين"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ايل کي"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "پرايو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:12:44.582800053Z",
+  "model": "glm-5.3"
+}

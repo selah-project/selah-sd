@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 3:16",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "يا لڪيل سق Born ٻار جيئن مان نه هجان، جيئن ٻارڙا جنهنڪي روشني نه ڏٺي.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "כנפל",
+      "gloss": "سق Born ٻار جيئن"
+    },
+    {
+      "surface": "טמון",
+      "gloss": "لڪيل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "هجان"
+    },
+    {
+      "surface": "כעללים",
+      "gloss": "ٻارڙن جيئن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ڏٺي"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشني"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:58.336171422Z",
+  "model": "glm-5.3"
+}

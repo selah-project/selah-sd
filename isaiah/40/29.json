@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 40:29",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "⟨هو⟩ ٿڪيل کي طاقت ڏئي ٿو، ۽ جن وٽ قوت ناهي تن لاءِ زورُ وڌائي ٿو.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ڏئي ٿو"
+    },
+    {
+      "surface": "ליעף",
+      "gloss": "ٿڪيل کي"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "ולאין",
+      "gloss": "جن وٽ ناهي"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "قوت"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "زورُ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "وڌائي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:59:34.087309316Z",
+  "model": "glm-5.3"
+}

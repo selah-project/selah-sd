@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ڌرم جا قرباني ڪريو ۽ ياهوه تي توڪل ڪريو.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "قرباني ڪريو"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "جا قرباني"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ڌرم"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "۽ توڪل ڪريو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:30.196461936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "خوش دل چهري کي سنگهاري ٿو، پر دل جي غم ۾ رُوح ڪُٽيل آھي.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "سنگهاري ٿو"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چهري کي"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "پر غم ۾"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل جي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوح"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "ڪُٽيل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:55.755454431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 103,
+  "translation": "ياهوه انصاف ڪري ٿو ۽ سڀني مظلومن لاءِ فيصلا.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ڪري ٿو"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "۽ فيصلا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني لاءِ"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "مظلومن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:04.083619034Z",
+  "model": "glm-5.3"
+}

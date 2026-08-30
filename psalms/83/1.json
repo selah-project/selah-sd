@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 83,
+  "translation": "ھڪ گيت، آساف جو زبور.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "آساف جو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:01.435450255Z",
+  "model": "glm-5.3"
+}

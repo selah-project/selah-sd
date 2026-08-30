@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ ياهوه ⟨את⟩ شموئل جي ڪن کي کولي ڏنو هجي، شاول جي اچڻ کان هڪ ڏينهن اڳ، چوڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "۽ ياهوه"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "کولي ڏنو هجي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪن"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ڪن"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئل جي"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اڳ"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "اچڻ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول جي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:09:28.897132033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ صحن جي ويڪر اڀرندي پاسي، سج اُڀرڻ جي طرف، پنجاهَه اَمَ ٿيندي.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "۽ ويڪر"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن جي"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "اڀرندي"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "سج اُڀرڻ جي طرف"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاهَه"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمَ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:35:50.711228727Z",
+  "model": "glm-5.3"
+}

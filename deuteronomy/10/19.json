@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ توهان پرديسي کي پيار ڪريو، ڇوته توهان پاڻ متسرايم جي زمين ۾ پرديسي هئا.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "۽ توهان پيار ڪريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرديسي کي"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "پرديسي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "پرديسي"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:16.031348242Z",
+  "model": "glm-5.3"
+}

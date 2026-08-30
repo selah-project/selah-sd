@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "پوءِ هن ان کي ⟨את⟩ پنهنجي درياڻي بلها کي زال ڏني، ۽ يعقوب هن وٽ ويو.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "پوءِ ڏني"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجي درياڻي بلها کي"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بلها"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "پنهنجي درياڻي"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "۽ ويو"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "هن وٽ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    }
+  ],
+  "timestamp": "2026-08-30T09:48:16.256806480Z",
+  "model": "glm-5.3"
+}

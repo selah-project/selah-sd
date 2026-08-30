@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ٻه ٻه نوح وٽ کشتيءَ ۾ آيا، نر ۽ مادا، جيئن ايلوهيم نوح کي حڪم ڏنو هو ⟨את⟩ نوح کي.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کشتيءَ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "۽ مادا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو هو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نوح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    }
+  ],
+  "timestamp": "2026-08-30T09:39:48.133075948Z",
+  "model": "glm-5.3"
+}

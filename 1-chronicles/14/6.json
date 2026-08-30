@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ نُوگَه ۽ نِفِگ ۽ يافِيَع.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "۽ نُوگَه"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "۽ نِفِگ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "۽ يافِيَع"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:22.716518574Z",
+  "model": "glm-5.3"
+}

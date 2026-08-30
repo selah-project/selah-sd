@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ شاول داوود جي اڳيان وڌيڪ ڊائڻ لڳو، ۽ شاول سڀ ڏينهن ⟨את⟩ داوود جو دشمن رهيو.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "وڌيڪ ڊائڻ لڳو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "ڊائڻ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "رهيو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "איב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڏينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:11:32.737879628Z",
+  "model": "glm-5.3"
+}

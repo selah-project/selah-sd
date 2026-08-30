@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ داويد وڌندو ۽ وڏو ٿيندو ويو، ۽ ياهوه صبائوت سندس ساٿ ۾ ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "۽ ويو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "هلي"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "۽ وڏو ٿيندو"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "۽ ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ساٿ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:24.958110255Z",
+  "model": "glm-5.3"
+}

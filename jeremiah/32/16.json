@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ مَن ياهوه اڳيان دعا ڪئي، ⟨את⟩ خريد جو ڪتاب باروخ پٽ نرياه کي ڏيڻ کان پوءِ، ته چوان.",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "۽ دعا ڪئي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کان پوءِ"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ڏيڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خريد جو ڪتاب"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ڪتاب"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "خريد جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "نرياه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ته چوان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:17:59.620007469Z",
+  "model": "glm-5.3"
+}

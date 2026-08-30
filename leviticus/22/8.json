@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "پاڻ مريل لاش ۽ ڪاهيل (شڪار ٿيل) نه کائي، ان سان نجس ٿيڻ لاءِ؛ مان ياهوه آهيان.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "پاڻ مريل لاش"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "۽ ڪاهيل (شڪار ٿيل)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائي"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "نجس ٿيڻ لاءِ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان سان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:55.267400974Z",
+  "model": "glm-5.3"
+}

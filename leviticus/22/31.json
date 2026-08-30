@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ توهان منھنجا حڪم نگھجو ۽ ⟨את⟩ انھن کي ڪريو؛ مان ⟨آھيان⟩ ياهوه.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "۽ توهان نگھجو"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "منھنجا حڪم"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "۽ ڪريو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "انھن کي (حڪمن کي)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:44.105961364Z",
+  "model": "glm-5.3"
+}

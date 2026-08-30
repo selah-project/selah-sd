@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 92,
+  "translation": "اهو ٻڌائڻ لاءِ ته ياهوه سڌو آهي، منجهجندڙ منهنجو آهي، ۽ منجهس ڪو ئي ڏوهه ناهي.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ٻڌائڻ لاءِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سڌو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "منهنجو آهي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ڪو ئي ڏوهه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "منجهس"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:09.869075816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "تون هڪ رستو وجهه ته تلوار ⟨את⟩ ربہ بني عمون تي اچي، ۽ ⟨את⟩ يهوده کي يروشلم ۾ قلعي بند.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "رستو"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "تون وجهه"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ته اچي"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ربہ بني عمون"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ربہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "يهوده"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوده"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "قلعي بند"
+    }
+  ],
+  "timestamp": "2026-08-30T12:33:19.402389448Z",
+  "model": "glm-5.3"
+}

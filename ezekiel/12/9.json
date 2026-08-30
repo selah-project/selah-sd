@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "آدم جي پٽ، ڇا بيت اسرائيل، سرکشي جو بيت، توکي نه چيو ته تون ڇا ڪري رهيو آهين؟",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ڇا نه"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "سرکشي جو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪري رهيو آهين"
+    }
+  ],
+  "timestamp": "2026-08-30T12:28:44.813960970Z",
+  "model": "glm-5.3"
+}

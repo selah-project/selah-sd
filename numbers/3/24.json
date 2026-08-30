@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ گيرشونيءَ جي پيءُ جي گھر جو سردار الياسف، لائيل جو پُتر ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "۽ سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پيءُ جي"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "گيرشونيءَ جي"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "الياسف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "لائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:22:54.402458904Z",
+  "model": "glm-5.3"
+}

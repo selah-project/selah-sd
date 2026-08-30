@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 10:18",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ياهوه جو جلال خانھ جي اوسر کان ٻاهر نڪري، ڪروبن مٿان بيٺو.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "۽ نڪري ٻاهر"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "کان مٿان"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "اوسر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانھ جي"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "۽ بيٺو"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ڪروبن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:28:49.546540581Z",
+  "model": "glm-5.3"
+}

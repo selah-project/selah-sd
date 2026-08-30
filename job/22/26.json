@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 22:26",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ڇوته تڏهن شداي ۾ لذت وٺندين، ۽ پنهنجو منهن ايلوه ڏانهن کڻندين۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אז",
+      "gloss": "تڏهن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي\/۾"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شداي"
+    },
+    {
+      "surface": "תתענג",
+      "gloss": "لذت وٺندين"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "۽ کڻندين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ايلوه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "پنهنجو منهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:39:50.280849199Z",
+  "model": "glm-5.3"
+}

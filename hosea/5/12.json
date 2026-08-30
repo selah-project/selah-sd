@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ مان آهيان جيئن ڪيڙو افريم لاءِ، ۽ جيئن سڙ Approaches بيت يهودا لاءِ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "جيئن ڪيڙو"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "افريم لاءِ"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "۽ جيئن سڙ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:06.320288155Z",
+  "model": "glm-5.3"
+}

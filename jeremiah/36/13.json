@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ مِڪايَهو انهن کي ٻُڌايو ⟨את⟩ سڀ لفظ جيڪي \nپڙهيو ماڻهن جي ڪنن ۾.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ٻُڌايو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "مِڪايَهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌا"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "جڏهن پڙهيو"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ڪتاب ۾"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ڪنن ۾"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:19:18.897257968Z",
+  "model": "glm-5.3"
+}

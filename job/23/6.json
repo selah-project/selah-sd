@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ڇا طاقت جي ڀرائي سان هو مون سان تڪرار ڪندو؟ نه، پر هو البته مون ۾ ⟨طاقت⟩ رکندو.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "ڀرائي سان"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "تڪرار ڪندو"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אך",
+      "gloss": "البته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "رکندو"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:39:57.025470305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 83,
+  "translation": "اے ايلوهيم، تو لاءِ چپ نه رھ، خاموش نه ٿاءُ، اے ايل، بيچين نه رھ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "چپ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "خاموش نه ٿاءُ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "بيچين نه رھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:01.435653998Z",
+  "model": "glm-5.3"
+}

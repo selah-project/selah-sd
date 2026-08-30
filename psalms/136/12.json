@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 136,
+  "translation": "مضبوط هٿ سان ۽ ڪشييل ٻانهن سان، ڇو ته سندس خيسيد هميشہ لاءِ آهي.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "هٿ سان"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "۽ ٻانهن سان"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ڪشييل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشہ لاءِ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "سندس خيسيد"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:21.949761745Z",
+  "model": "glm-5.3"
+}

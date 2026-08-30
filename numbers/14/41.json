@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 14:41",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ موشي چيو: هي ڇو؟ توهان ياهوه جي ⟨את⟩ حڪم جي اڳيان لنگهي رهيا آهيو، ۽ اهو ڪامياب نه ٿيندو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "لنگهي رهيا آهيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جي حڪم"
+    },
+    {
+      "surface": "פי",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "۽ اهو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "ڪامياب ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:53.743379157Z",
+  "model": "glm-5.3"
+}

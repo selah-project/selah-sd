@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 66,
+  "translation": "اَڻٺھيڪائي جيڪا جيڪڏھن دل ۾ ڏٺي مٰون ته ادوناي ٻُڌي نه ٿو.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "اَڻٺھيڪائي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ڏٺي مٰون"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "منھنجي دل ۾"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ٻُڌي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:09.179156043Z",
+  "model": "glm-5.3"
+}

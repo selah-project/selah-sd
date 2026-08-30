@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 5:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ ڇو، پٽڙو، تون پرائيءَ زال سان ٻُڌو ٿين، ۽ اوڏيءَ جي سيني کي ڀاڪر پائين؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "۽ ڇو"
+    },
+    {
+      "surface": "תשגה",
+      "gloss": "ٻُڌو ٿين"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽڙو"
+    },
+    {
+      "surface": "בזרה",
+      "gloss": "پرائيءَ زال سان"
+    },
+    {
+      "surface": "ותחבק",
+      "gloss": "۽ ڀاڪر پائين"
+    },
+    {
+      "surface": "חק",
+      "gloss": "سيني کي"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "اوڏيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:04:37.857987419Z",
+  "model": "glm-5.3"
+}

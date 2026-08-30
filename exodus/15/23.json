@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 15:23",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ ماره ۾ آيا، ۽ ماره جي پاڻيءَ مان پي نه سگهيا، ڇوته ⟨اھي⟩ ڪڙا هئا؛ تنهنڪري ان جو نالو ماره رکيائون.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "ماره"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "سگهيا"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "پيڻ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ مان"
+    },
+    {
+      "surface": "ממרה",
+      "gloss": "ماره جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ڪڙا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨اھي⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنهن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "نالو رکيائون"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ان جو نالو"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ماره"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:29.393045217Z",
+  "model": "glm-5.3"
+}

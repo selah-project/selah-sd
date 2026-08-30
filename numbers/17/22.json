@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "پوءِ موشي ⟨את⟩ ڏنڊن کي ياهوه جي اڳيان خيمہ شھادت ۾ رکيو.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "پوءِ رکيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڏنڊن کي"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "ڏنڊا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خيمہ ۾"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "شھادت جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:17.257121756Z",
+  "model": "glm-5.3"
+}

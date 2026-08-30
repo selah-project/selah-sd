@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ اسرائيل بغاوت ڪئي داوود جي گهر سان هيءُ ڏينهن تائين.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "بغاوت ڪئي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر سان"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "الهיوم",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:22:26.951308742Z",
+  "model": "glm-5.3"
+}

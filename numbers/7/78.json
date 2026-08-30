@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ٻارنهين ڏينهن نفتالي جي پٽن جو سردار اهيرع پٽ عنان ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ـارنهن"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "نפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اهيرع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عنان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:43.023132828Z",
+  "model": "glm-5.3"
+}

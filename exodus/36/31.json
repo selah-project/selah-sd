@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 36:31",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ ڪنڊيءَ جي ڪاٺ جون سلاخون ٺاھيائين — خيمي جي ھڪ پاسي جي تختن لاءِ پنج.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ٺاھيائين"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "سلاخون"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ڪاٺ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ڪنڊيءَ جي"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "تختن لاءِ"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "خيمي جي"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ھڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:36.926323229Z",
+  "model": "glm-5.3"
+}

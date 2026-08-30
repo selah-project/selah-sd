@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ان مان ڪجهه به صبح تائين نه بچايو؛ ۽ جيڪو ان مان صبح تائين بچي ته ان کي باهه ۾ ساڙيو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "بچايو"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ان مان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "۽ جيڪو بچي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ان مان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "באש",
+      "gloss": "باهه ۾"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ساڙيو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:00:44.780683471Z",
+  "model": "glm-5.3"
+}

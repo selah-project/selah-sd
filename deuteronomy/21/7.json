@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ چون ۽ چوين ته “اسان جون هٿن هن رت ۾ ⟨את⟩ نه ڇڙايو، ۽ اسان جين اکين نه ڏٺو.”",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "چون"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "۽ چوين ته"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "اسان جون هٿن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ڇڙايو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هن رت"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "هن رت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "۽ اسان جين اکين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ڏٺو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:49.723438848Z",
+  "model": "glm-5.3"
+}

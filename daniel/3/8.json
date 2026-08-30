@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 3:8",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "تنهن ڪري انهيءَ ئي وقت ڪي ڪلداني ماڻهو اچي ويجهو ٿيا ۽ يهودين جي چغلي هنيائون.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "تنهن ڪري"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "انهيءَ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ئي"
+    },
+    {
+      "surface": "זמנא",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "اچي ويجهو ٿيا"
+    },
+    {
+      "surface": "גברין",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "כשדאין",
+      "gloss": "ڪلداني"
+    },
+    {
+      "surface": "ואכלو",
+      "gloss": "۽ هنيائون"
+    },
+    {
+      "surface": "קרציהון",
+      "gloss": "چغلي"
+    },
+    {
+      "surface": "די",
+      "gloss": "جي"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "يهودين"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:05.819022841Z",
+  "model": "glm-5.3"
+}

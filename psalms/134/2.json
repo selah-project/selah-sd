@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 134,
+  "translation": "پاڪائي ڏانهن پنھنجا هٿ اُٿايو ۽ بک ڏيو ⟨את⟩ ياهوه کي.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "اُٿايو"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "پنھنجا هٿ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاڪائي ڏانهن"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "۽ بک ڏيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:05.342562194Z",
+  "model": "glm-5.3"
+}

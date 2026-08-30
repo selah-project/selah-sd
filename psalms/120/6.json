@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 120,
+  "translation": "گهڻو وقت مون جو جان رهيو آهي شالوم جي دشمن سان.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "گهڻو وقت"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "رهيو آهي"
+    },
+    {
+      "surface": "לה",
+      "gloss": "مون جو"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "جان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:52.057477004Z",
+  "model": "glm-5.3"
+}

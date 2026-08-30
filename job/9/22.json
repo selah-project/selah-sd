@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "هڪ ئي ڳالھ آهي، تنهنڪري مَ چيو مَن: تام ۽ ظالم کي هو ئي ناس ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "هڪ ئي ڳالھ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنهن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "مَ چيو مَن"
+    },
+    {
+      "surface": "תם",
+      "gloss": "تام (ڀليِ-ٿو) ۽"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ظالم کي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو ئي"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "ناس ڪري ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:36:37.389370016Z",
+  "model": "glm-5.3"
+}

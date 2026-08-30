@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ کيس ⟨אתו⟩ قيد ۾ رکيائون، ڇوته نه ⟨به⟩ واضح ڪيو ويو هو ته ساڻس ڇا ڪجي.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "رکيائون"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתو⟩",
+      "marks": "کيس (ماڻهوءَ کي)"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "قيد ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "واضح ڪيو ويو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪجي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ساڻس"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:11.542735555Z",
+  "model": "glm-5.3"
+}

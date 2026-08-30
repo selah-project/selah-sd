@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 24:7",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ صور جي ڪوٽ ۾ آيا، ۽ حويين ۽ ڪنعانيين جي سڀ شهرن ڏانهن، ۽ يهوداھ جي ڏکڻ ڏانهن نڪتا، بئرشبع تائين.",
+  "tokens": [
+    {
+      "surface": "וי׬או",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ڪوٽ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صور"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهرن"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "حويين"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "۽ ڪنعانيين جي"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "نڪتا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ڏکڻ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداھ جي"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبع"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:59.425158305Z",
+  "model": "glm-5.3"
+}

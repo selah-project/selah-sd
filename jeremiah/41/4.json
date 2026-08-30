@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "۽ ٿيو ٻئي ڏينهن ⟨את⟩ گِدَليا کي مارڻ جي، ۽ ڪوبه ماڻهو نه ڄاتو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "مارڻ جي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گِدَليا"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "گِدَليا"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ڪوبه ماڻهو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاتو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:21:16.764642141Z",
+  "model": "glm-5.3"
+}

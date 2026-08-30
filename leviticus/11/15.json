@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "⟨את⟩ سڀ ڪانءُ پنھنجي جنس موجب.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ ڪانءُ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ڪانءُ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "پنھنجي جنس موجب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:17.332949971Z",
+  "model": "glm-5.3"
+}

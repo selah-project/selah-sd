@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 140,
+  "translation": "جي دل ۾ بڇڙا خيال ٺاهن ٿا، سڄو ڏينهن جنگيون گهرائيندا آهن.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جي"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ٺاهن ٿا"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "بڇڙا خيال"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "گهرائيندا آهن"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "جنگيون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:25.399419235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ان تي اسان جو دل بيٽو ٿي ويو، انهن تي اسان جون اکيون اجهامي ويون.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ٿي ويو"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "بيٽو"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "اسان جو دل"
+    },
+    {
+      "surface": "על",
+      "gloss": "انهن تي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هنن"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "اجهامي ويون"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "اسان جون اکيون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:50:46.141440443Z",
+  "model": "glm-5.3"
+}

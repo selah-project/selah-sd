@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 15:14",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "فاني ڇا آهي جو صاف هجي، ۽ عورت جو ڄاول هجي ته نيازو ڪري؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ڇا آهي"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فاني"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "صاف هجي"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "۽ جو"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "نيازو ڪري"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "ڄاول"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:38:02.388927958Z",
+  "model": "glm-5.3"
+}

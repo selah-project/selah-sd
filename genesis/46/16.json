@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "۽ گاد جا پُٽ: صِفيون، حگّي، شوني، اِصبون، عيري، ارودي ۽ ارائيلي.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پُٽ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "صِفيون"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "۽ حگّي"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "شوني"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "۽ اِصبون"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "عيري"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "۽ ارودي"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "۽ ارائيلي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:54.112507460Z",
+  "model": "glm-5.3"
+}

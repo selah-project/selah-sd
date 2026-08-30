@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "ڇوته زمين جي ماڻهن ⟨את⟩ اُهي سڀ گنديد ڪم ڪيا جيڪي اوھان کان اڳ هئا، ۽ زمين نجي ٿي وئي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُهي سڀ گنديد ڪمن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "گنديد ڪمن"
+    },
+    {
+      "surface": "האל",
+      "gloss": "اُهي"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪيا"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "اوھان کان اڳ"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "۽ نجي ٿي وئي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:55.623183659Z",
+  "model": "glm-5.3"
+}

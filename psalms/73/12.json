@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 73,
+  "translation": "ڏسو، اِهي ئي ظالم آهن، ۽ هميشه آرام وٺندڙن دولت حاصل ڪئي آهي.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِهي"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "۽ آرام وٺندڙن"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "حاصل ڪئي آهي"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "دولت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:24.597574105Z",
+  "model": "glm-5.3"
+}

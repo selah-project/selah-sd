@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ رام ⟨את⟩ عمينادب کي پيدا ڪيو، ۽ عمينادب ⟨את⟩ نحشون کي پيدا ڪيو، جيڪو يهودا جي پٽن جو سردار هو.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "۽ رام"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمينادب"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عمينادب"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "۽ عمينادب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نحشون"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "نحشون"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:49.311166648Z",
+  "model": "glm-5.3"
+}

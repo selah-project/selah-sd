@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "نيڪ ماڻھوءَ جي زبان چونڊيل چاندي ⟨آھي⟩، بدڪارن جي دل ٿوري ملهہ واري ⟨آھي⟩.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "چونڊيل"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ ماڻھوءَ جي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدڪارن جي"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ٿوري ملهہ واري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:40.404017419Z",
+  "model": "glm-5.3"
+}

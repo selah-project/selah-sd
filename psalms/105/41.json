@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "پٿر کي کوليائين ۽ پاڻي وهي پيا؛ سوڪين جاين ۾ نهر جيان وهيا.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "کوليائين"
+    },
+    {
+      "surface": "צור",
+      "gloss": "پٿر"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "وهي پيا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "وهيا"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "سوڪين جاين ۾"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "نهر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:24.309567028Z",
+  "model": "glm-5.3"
+}

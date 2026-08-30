@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 31:39",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ماپ جي ڦاٽي اڳتي وڌندي ان جي سامهون، گريب جي ٽڪريءَ تي، ۽ گوعه کان موڙي ويندي.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "۽ وڌندي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اڳتي"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "ڦاٽي"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ماپ جي"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ان جي سامهون"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ٽڪريءَ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "گريب جي"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "۽ موڙي ويندي"
+    },
+    {
+      "surface": "געתה",
+      "gloss": "گوعه کان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:17:03.746031088Z",
+  "model": "glm-5.3"
+}

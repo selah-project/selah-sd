@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ اٺين ڏينهن تي ٿيو ته موشي اهارون ۽ سندس پٽن ۽ يسرائيل جي بزرگن کي سڏيو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اٺين"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سڏيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اهارون کي"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "۽ سندس پٽن کي"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "۽ بزرگن کي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:38:10.679005695Z",
+  "model": "glm-5.3"
+}

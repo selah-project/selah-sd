@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "ڪاھل جي تمنا کيس ماري ٿي، ڇو ته ڪم ڪرڻ کان سندس هٿ انڪار ڪن ٿا.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "تمنا"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ڪاھل جي"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "کيس ماري ٿي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "انڪار ڪن ٿا"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "سندس هٿ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪم ڪرڻ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:39.790851933Z",
+  "model": "glm-5.3"
+}

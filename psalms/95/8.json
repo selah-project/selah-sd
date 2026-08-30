@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 95,
+  "translation": "پنهنجو دل سخت نه ڪيو، جيئن مريبا ۾، جيئن مَصه جي ڏينهن بيابان ۾.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "سخت ڪيو"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "پنهنجو دل"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "جيئن مريبا ۾"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "جيئن جي ڏينهن"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "مَصه"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:45.043096814Z",
+  "model": "glm-5.3"
+}

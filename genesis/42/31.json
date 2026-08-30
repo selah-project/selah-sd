@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 42,
+  "translation": "“۽ چيوسيس: اسان ايماندار آهيون، اسان جاسوس نه آهيون.”",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "چيوسيس"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "سيس"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ايماندار"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "آهيون"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوس"
+    }
+  ],
+  "timestamp": "2026-08-30T09:53:30.803834131Z",
+  "model": "glm-5.3"
+}

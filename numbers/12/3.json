@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ ماڻهوءُ موشي سندر ادب وارو مَڇ مَڇ هيو، زمين جي مٿاچي تي ٻين سڀني ماڻهن کان وڌيڪ.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "۽ ماڻهوءُ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "سندر ادب وارو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "مَڇ مَڇ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڀني کان وڌيڪ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "جن"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مٿاچي تي"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:48.784285383Z",
+  "model": "glm-5.3"
+}

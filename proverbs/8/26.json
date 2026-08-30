@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "جڏهن تائين جو هن نه ٺاهيو زمين کي ۽ ميدانن کي، ۽ دنيا جي مٽيءَ جو مٿاڇرو.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "جڏهن تائين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاهيو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين کي"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "۽ ميدانن کي"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "۽ مٿاڇرو"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "مٽيءَ جو"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنيا جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:26.027247758Z",
+  "model": "glm-5.3"
+}

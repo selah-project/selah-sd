@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 5:5",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "حبرون ۾ ⟨هن⟩ يهودا تي راڄ ڪيو ست سال ۽ ڇھه مهينا؛ ۽ يروشلم ۾ راڄ ڪيو ٽيھ ۽ ٽي سال، ساري اسرائيل ۽ يهودا تي.",
+  "tokens": [
+    {
+      "surface": "בחברון",
+      "gloss": "حبرون ۾"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج ڪيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "۽ ڇھه"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مهينا"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "۽ يروشلم ۾"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج ڪيو"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيھ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "۽ يهودا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:18:40.577862745Z",
+  "model": "glm-5.3"
+}

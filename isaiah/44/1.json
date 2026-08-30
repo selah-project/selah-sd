@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "۽ هاڻي ٻُڌ، ياعقوب منهنجو ٻانهو، ۽ اسرائيل جنهن کي مون چونڊيو آھي؛",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻُڌ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ياعقوب"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "منهنجو ٻانهو"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "۽ اسرائيل"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "مون چونڊيو آھي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "کي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:00:00.318690926Z",
+  "model": "glm-5.3"
+}

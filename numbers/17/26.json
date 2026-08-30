@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ موشي ائين ڪيو: جيئن ياهوه موشيءَ کي ⟨את⟩ حڪم ڪيو، تئين ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "موشيءَ کي"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تئين"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:29.633583449Z",
+  "model": "glm-5.3"
+}

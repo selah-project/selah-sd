@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ياهوه آسمانن مان گجگو ڪئي، ۽ عليون پنهنجو آواز ڏنو.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "گجگو ڪئي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "وעליון",
+      "gloss": "۽ عليون"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "پنهنجو آواز"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:33.697617136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ بيت-لبائوت ۽ شاروحين؛ شهر ٿيندا ٽي ۽ ڏهه (تيرهون)، ۽ سندن ڳوٺ.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "۽ بيت"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "لبائوت"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "۽ شاروحين"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "۽ ڏهه"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "۽ سندن ڳوٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:27.402538322Z",
+  "model": "glm-5.3"
+}

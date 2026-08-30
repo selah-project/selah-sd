@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ رقم ۽ يرپائيل ۽ ترعلاه،",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "۽ رقم"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "۽ يرپائيل"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "۽ ترعلاه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:13.167402314Z",
+  "model": "glm-5.3"
+}

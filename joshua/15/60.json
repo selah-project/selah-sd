@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "joshua 15:60",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "قريت بعل — اها ئي قريت يعريم — ۽ ربه؛ ٻن شهرن ۽ سندن ڳوٺن سميت.",
+  "tokens": [
+    {
+      "surface": "קרית",
+      "gloss": "قريت"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اها ئي"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قريت"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "يعريم"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "۽ ربه"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "۽ سندن ڳوٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:39.797998705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 16:23",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ اهارن ملاقات جي خيمي ۾ ايندو، ۽ پاڪ مقام ۾ داخل ٿيڻ وقت پهرين پاتل ڪتي جا ڪپڙا ⟨את⟩ لاهيندو، ۽ انهن کي اتي ڇڏي ڏيندو.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ايندو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمي"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات جي"
+    },
+    {
+      "surface": "ופשט",
+      "gloss": "لاهيندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪپڙا"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ڪپڙا"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "ڪتي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "پاتل"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "داخل ٿيڻ وقت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاڪ مقام"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "ڇڏي ڏيندو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:20.033066053Z",
+  "model": "glm-5.3"
+}

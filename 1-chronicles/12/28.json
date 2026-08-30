@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 12:28",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ يھويادا اھارون جو سردار، ۽ سندس ساٿ ۾ ٽي ھزار ۽ ست سئو،",
+  "tokens": [
+    {
+      "surface": "ויהוידע",
+      "gloss": "۽ يھويادا"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اھارون جو"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "۽ سندس ساٿ ۾"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سئو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:24.769045392Z",
+  "model": "glm-5.3"
+}

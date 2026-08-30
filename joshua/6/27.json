@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ياهوه يهوشوع ⟨את⟩ سان ھو؛ ۽ سندس نالو سڄي زمين ۾ ٻُڌو ويو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ھو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ سان",
+      "marks": "يهوشوع"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٻُڌو ويو"
+    },
+    {
+      "surface": "שמעو",
+      "gloss": "سندس نالو\/شھرت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڄي ۾"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:50:43.176091199Z",
+  "model": "glm-5.3"
+}

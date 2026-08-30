@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 8:7",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "گهڻا پاڻي ⟨את⟩ محبت کي وسامي نه سگهن ۽ دريا ان کي وهائي نه سگهن؛ جيڪڏھن ڪو ماڻهو پنھنجي گهر جو سمو مھر ⟨את⟩ محبت ۾ ڏي، ته ان کي بي ادبي ٿيندي.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گهڻا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "سگهن"
+    },
+    {
+      "surface": "לכבות",
+      "gloss": "وسامي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "محبت کي"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "محبت"
+    },
+    {
+      "surface": "ונהרות",
+      "gloss": "۽ دريا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יושטפוה",
+      "gloss": "وهائي ان کي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سمو مھر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سمو"
+    },
+    {
+      "surface": "הון",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "پنھنجي گهر جي"
+    },
+    {
+      "surface": "באהבה",
+      "gloss": "محبت ۾"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بي ادبي"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "ٿيندي ان کي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان سان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:35.877023464Z",
+  "model": "glm-5.3"
+}

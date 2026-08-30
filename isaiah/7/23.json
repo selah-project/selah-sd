@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 7:23",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ان ڏينهن ۾ ٿيندو ته جتي هزار ٿلهه هوندا هيو، هزار چانديءَ جي قيمت سان، اتي ڪنڊن ۽ ٻوڙن لاءِ ٿيندو.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينهن ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتي"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندا هجن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ٿلهه"
+    },
+    {
+      "surface": "באלף",
+      "gloss": "هزار سان"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "לשמיר",
+      "gloss": "ڪنڊن لاءِ"
+    },
+    {
+      "surface": "ולשית",
+      "gloss": "۽ ٻوڙن لاءِ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:33.590573999Z",
+  "model": "glm-5.3"
+}

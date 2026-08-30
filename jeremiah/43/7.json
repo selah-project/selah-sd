@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 43:7",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "پو اُھي متسرايم جي زمين ۾ آيا، ڇو ته ياهوه جي آواز تي نه ٻُڌائين، ۽ اُھي تاحپنحس تائين آيا.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻُڌائين"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آواز تي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "۽ آيا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "תחפנחס",
+      "gloss": "تاحپنحس"
+    }
+  ],
+  "timestamp": "2026-08-30T12:22:15.540854402Z",
+  "model": "glm-5.3"
+}

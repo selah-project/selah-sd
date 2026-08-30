@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 138,
+  "translation": "تو کي تسبيح ڪن، ياهوه، زمين جا سڀ بادشاهه، ڇو ته ٻڌائون تنهنجي وات جا لفظ.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "تو کي تسبيح ڪن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌائون"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تنهنجي وات جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:23:52.568756903Z",
+  "model": "glm-5.3"
+}

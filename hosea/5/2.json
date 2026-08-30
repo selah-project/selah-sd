@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ باغي ذبح ۾ گهري وڃي پيا آهن، پر مان سڀني لاءِ تعبير آهيان.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "۽ ذبح ۾"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "باغي"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "گهري وڃي پيا آهن"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "پر مان"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تعبير"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "سڀني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:44:59.577950745Z",
+  "model": "glm-5.3"
+}

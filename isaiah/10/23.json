@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 10:23",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ڇو ته مڪمل بربادي ۽ فيصلو ڪيل بربادي، ادوناي ياهوه صبائوت سڄي ⟨the⟩ زمين جي وچ ۾ ڪندي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "مڪمل بربادي"
+    },
+    {
+      "surface": "ונחרצה",
+      "gloss": "۽ فيصلو ڪيل بربادي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪندي"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T11:50:58.681388220Z",
+  "model": "glm-5.3"
+}

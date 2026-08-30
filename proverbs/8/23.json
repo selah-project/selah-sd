@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 8:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ازل کان مون مٿوھاري ٿي، منڍ کان، زمين جي پراڻن وقتن کان اڳ.",
+  "tokens": [
+    {
+      "surface": "מעולם",
+      "gloss": "ازل کان"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "مون مٿوھاري ٿي"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "منڍ کان"
+    },
+    {
+      "surface": "מקדמי",
+      "gloss": "پراڻن وقتن کان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:46.414914177Z",
+  "model": "glm-5.3"
+}

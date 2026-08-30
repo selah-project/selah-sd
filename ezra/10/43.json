@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezra 10:43",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "نبو جي پٽن مان: يعيعيل، متتياه، زبد، زبينا، يدو ۽ يوئيل، بناياه۔",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "پٽن مان"
+    },
+    {
+      "surface": "נבو",
+      "gloss": "نبو"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "يعيعيل"
+    },
+    {
+      "surface": "מתתיה",
+      "gloss": "متتياه"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زبد"
+    },
+    {
+      "surface": "זבינא",
+      "gloss": "زبينا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يدو"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "۽ بناياه"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "بناياه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:05:19.962485444Z",
+  "model": "glm-5.3"
+}

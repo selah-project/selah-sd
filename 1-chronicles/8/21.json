@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ عدايا، ۽ برايا، ۽ شمرات — شمعي جا پُٽ.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "عدايا"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "برايا"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "شمرات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:50.565869610Z",
+  "model": "glm-5.3"
+}

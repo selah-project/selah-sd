@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 3:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "منھنجا پٽ، اھي تنھنجين اکين کان نه ڍڙجن؛ تدبير نگ رک ۽ صلاح نگ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "منھنجا پٽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ילזו",
+      "gloss": "ڍڙجن"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "تنھنجين اکين کان"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "رک"
+    },
+    {
+      "surface": "תשיה",
+      "gloss": "تدبير"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "۽ صلاح"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:33.276637273Z",
+  "model": "glm-5.3"
+}

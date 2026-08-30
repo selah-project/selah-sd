@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "ezra 2:67",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "سندن اُٺ چار سَو ٽيهه ۽ پنج؛ سندن گڏھ ڇھ هزار سَت سَو ۽ ويھه.",
+  "tokens": [
+    {
+      "surface": "גמליהם",
+      "gloss": "سندن اُٺ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيهه"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "سندن گڏھ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سَت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:02:40.604172676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ باني، ۽ بنوي، شمعي،",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ باني"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "۽ بنوي"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:43.189609187Z",
+  "model": "glm-5.3"
+}

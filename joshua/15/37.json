@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "صنان ۽ حداشه ۽ مگدل-گد،",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "صنان"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "۽ حداشه"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "۽ مگدل-"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گد"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:38.414178164Z",
+  "model": "glm-5.3"
+}

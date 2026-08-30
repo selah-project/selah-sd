@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 1:25",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ڪيئن پيا جنگ جي وچ ۾ سورما! يهوناتان، تنهنجن ماٿرن تي زخمي!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "پيا"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "سورما"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتان"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "تنهنجن ماٿرن"
+    },
+    {
+      "surface": "חלال",
+      "gloss": "زخمي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:16:48.860250321Z",
+  "model": "glm-5.3"
+}

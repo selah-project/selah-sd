@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 33:7",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ليا به پنھنجن ٻارن سان اچي سجدي ٿي؛ ۽ پوءِ يوسف ۽ راحيل اچي سجدا ٿيا.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "اچي ويٺي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ليا"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "۽ پنھنجن ٻارن سان"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "سجدي ٿي"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "۽ پوءِ"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "اچي ويٺا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "۽ راحيل"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "سجدا ٿيا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:48:46.390578970Z",
+  "model": "glm-5.3"
+}

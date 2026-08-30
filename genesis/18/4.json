@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "ٻُڌائي ٿو ته ٿورو پاڻي وٺي وڃجي ۽ توهان جا پير دھو، ۽ وڻ جي ھيٺان سھي وڃو.“",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "وٺي وڃجي"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ٻُڌائي ٿو"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ٿورو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "۽ دھو"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "توهان جا پير"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "۽ سھي وڃو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ھيٺان"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "وڻ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:32.273857070Z",
+  "model": "glm-5.3"
+}

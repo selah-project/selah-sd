@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "ڇوته ياهوه عليون بيڌ Bram가ڏ آهي، ساري زمين تي مها راجا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עלيون",
+      "gloss": "عليون (سڀ کان مَٿي)"
+    },
+    {
+      "surface": "نورא",
+      "gloss": "ڏيڀَرُ (ڏرڻ ڀرائيندڙ)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راجا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "مها (وڏو)"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:08.793022849Z",
+  "model": "glm-5.3"
+}

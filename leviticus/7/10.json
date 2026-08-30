@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ سڀ منحنه جيڪا تيل ۾ گڏيل ھجي ۽ جيڪا سُڪي، اھا اهارون جي سڀن پٽن جي ٿيندي — ھر ھڪ پنھنجي ڀاءُ جيتري.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "منحنه"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "گڏيل"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تيل ۾"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "۽ سُڪي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀن جي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿيندي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ھر ھڪ"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "پنھنجي ڀاءُ جيتري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:46.855694805Z",
+  "model": "glm-5.3"
+}

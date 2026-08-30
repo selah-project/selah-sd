@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "هو برف کان پنهنجي گهر جي لاءِ نه ڊمي ٿي، ڇو ته سندس سڄو گهر ڪرمزي رنگ ۾ ملبوس آهي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڊمي ٿي"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "پنهنجي گهر جي لاءِ"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "برف کان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "سندس گهر"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ملبوس آهي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ڪرمزي رنگ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:36.173819439Z",
+  "model": "glm-5.3"
+}

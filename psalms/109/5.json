@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 109,
+  "translation": "۽ مون تي بڇڙائي رکيائون good جي بدلي ۽ نفرت مون جي محبت جي بدلي،",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "رکيائون"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بڇڙائي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "جي بدلي"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "good جي بدلي لاءِ"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "۽ نفرت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "جي بدلي"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "مون جي محبت"
+    }
+  ],
+  "timestamp": "2026-08-30T15:03:26.081749317Z",
+  "model": "glm-5.3"
+}

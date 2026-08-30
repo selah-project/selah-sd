@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ اھي اندر نه اچن ته جيئن ڏسن، لڙڪ به نه، ⟨את⟩ مقدس کي — ۽ مرن.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "اچن"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ته جيئن ڏسن"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "لڙڪ به نه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدس کي"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "۽ مرن"
+    }
+  ],
+  "timestamp": "2026-08-30T14:39:52.662106804Z",
+  "model": "glm-5.3"
+}

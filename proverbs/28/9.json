@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "جيڪو پنھنجو ڪن ٽوڙي ٿو توڙا جي ٻڌڻ کان، سندس دعا به نڪري آهي.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "ٽوڙي ٿو"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "پنھنجو ڪن"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ٻڌڻ کان"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "توڙا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "سندس دعا"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "نڪري آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:16.160369306Z",
+  "model": "glm-5.3"
+}

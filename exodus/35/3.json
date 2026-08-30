@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "شبهت جي ڏينهن پنھنجن سڀ رهائشگاهن ۾ باهه نه ٻاريو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "ٻاريو"
+    },
+    {
+      "surface": "אש",
+      "gloss": "باهه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "رهائشگاهن ۾"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شبهت جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:09:32.851577181Z",
+  "model": "glm-5.3"
+}

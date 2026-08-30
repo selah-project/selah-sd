@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 27:10",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "پارس ۽ لود ۽ پوت تو جي لشڪر ۾ هئا، تو جا جنگي ماڻهو؛ ڍال ۽ ٽوپي تو ۾ ٽنگيائون؛ اُهي تو جو ٿاڦ ڏنو.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "پارس"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "۽ لود"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "۽ پوت"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هئا"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "تو جي لشڪر ۾"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "تو جي جنگ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڍال"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "۽ ٽوپي"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "ٽنگيائون"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تو ۾"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اُهي"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "تو جو ٿاڦ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:36:00.495980810Z",
+  "model": "glm-5.3"
+}

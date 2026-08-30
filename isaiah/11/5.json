@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ انصاف سندس کنئن جو پٽو هوندو، ۽ ايمان سندس سنگ جو پٽو.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ هوندو"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "پٽو"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "سندس کنئن جو"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "۽ ايمان"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "پٽو"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "سندس سنگ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:51:07.012015415Z",
+  "model": "glm-5.3"
+}

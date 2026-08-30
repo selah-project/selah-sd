@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "آءٌ هر وقت ياهوه کي برڪت ڏيندس؛ سندس تعريف سدائين منهن ۾ رهندي.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "آءٌ برڪت ڏيندس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "سدائين"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "سندس تعريف"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "منهن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:33.196225783Z",
+  "model": "glm-5.3"
+}

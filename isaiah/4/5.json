@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 4:5",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ياهوه پاڙيندو زион جبل جي هر رهڻ جي جاءِ تي ۽ سندس ڪٺن تي ڏينهن ۾ ڪڪر ۽ دهخ، ۽ رات ۾ چمڪندڙ باهه جو شعلو؛ ڇوته ساري جلاءِ تي ڇتر هوندو.",
+  "tokens": [
+    {
+      "surface": "וברא",
+      "gloss": "پاڙيندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "رهڻ جي جاءِ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "زيون"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "מקראה",
+      "gloss": "ڪٺن"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ڪڪر"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "۽ دهخ"
+    },
+    {
+      "surface": "ונגה",
+      "gloss": "۽ چمڪندڙ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "باهه"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "جو شعلو"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلاءِ"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "ڇتر هوندو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:17.479011576Z",
+  "model": "glm-5.3"
+}

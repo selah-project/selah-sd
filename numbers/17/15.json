@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ اهارون موشي ڏانھن واپس آيو، ملاقات جي خيمي جي دروازي وٽ، ۽ مگڦا بند ٿي وئي.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "۽ واپس آيو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمي جي"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "۽ مگڦا"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "بند ٿي وئي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:08.966312640Z",
+  "model": "glm-5.3"
+}

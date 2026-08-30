@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ سڄي ملڪ ۾ ڦريا، ۽ نَوَ مهينا ۽ ويھ ڏينهن جي پڇاڙيءَ تي يروشلم ۾ آيا.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "ڦريا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڄي ... ۾"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملڪ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آيا"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "جي پڇاڙيءَ تي"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نَوَ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مهينا"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:59.425288221Z",
+  "model": "glm-5.3"
+}

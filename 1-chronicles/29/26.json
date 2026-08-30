@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ داوود، يَشي جو پٽ، سڄي اسرائيل تي بادشاهي ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "۽ داوود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يَشي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهي ڪري ٿو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T14:19:52.593920232Z",
+  "model": "glm-5.3"
+}

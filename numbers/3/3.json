@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "اھي اھارون جي پٽن جا نالا آھن، مکيل ڪاھن، جن جون هٿ پوريون ڪيون ويون، ته ڪاھني ڪن.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نالا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون جي"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاھن"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "مکيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پوريون ڪيون ويون"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ته ڪاھني ڪن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:29.310982550Z",
+  "model": "glm-5.3"
+}

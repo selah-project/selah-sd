@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ منھنجي نالي سان ٺوڪي قسم نه کڻو، ۽ پنھنجي ايل جي نالي کي پليت نه ڪريو؛ آءٌ ياهوه آھيان.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "قسم کڻو"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "منھنجي نالي سان"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ٺوڪي"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "۽ پليت ڪريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نالي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالي کي"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "پنھنجي ايل جي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:06.709096608Z",
+  "model": "glm-5.3"
+}

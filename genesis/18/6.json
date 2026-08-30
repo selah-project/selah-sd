@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 18:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ابراهام خيمي ڏي ڊوڙي سرهہ وٽ ويو ۽ چيائينس: جلدي ڪر — ٽي سعہ مڪئي جو کوڙ اٽو چاڙهي، گُڙي ۽ مَڻڪا ٺاهه.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "۽ ڊوڙي ويو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "خيمي ڏي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سرهہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائينس"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "جلدي ڪر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "סאים",
+      "gloss": "سعہ"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "اٽو"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "کوڙ"
+    },
+    {
+      "surface": "לושי",
+      "gloss": "گُڙي"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "۽ ٺاهه"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "مَڻڪا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:43:18.427358117Z",
+  "model": "glm-5.3"
+}

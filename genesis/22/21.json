@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "عوض کي سندس پھريون پُٽ ۽ ⟨את⟩ بوز کي سندس ڀاءُ ۽ ⟨את⟩ قموئيل کي آرام جو پيءُ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوض"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوض"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "سندس پھريون پُٽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "بوز"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بوز"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "سندس ڀاءُ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "قموئيل"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "قموئيل"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "آرام"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:22.093744326Z",
+  "model": "glm-5.3"
+}

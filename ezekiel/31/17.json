@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 31:17",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "اھي به ⟨את⟩ سندس ساٿ شيول ۾ لٿا، تلوار جي ماريلن وٽ؛ ۽ سندس ٻانهن سندس ڇاءَ ۾ قومن جي وچ ۾ رھي،",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "سندس ساٿ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "لٿا"
+    },
+    {
+      "surface": "שאולה",
+      "gloss": "شيول ۾"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ماريلن"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار جي"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "۽ سندس ٻانهن"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "رھي"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "سندس ڇاءَ ۾"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:37:28.056059622Z",
+  "model": "glm-5.3"
+}

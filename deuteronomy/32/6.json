@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 32:6",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "ياهوه سان ڪيائون ٿا هيءُ، اَھو بيوقوف ۽ نه سجاڻ قوم؟ ڇا هو ئي نه تنهنجو پيءُ، تنهنجو مالڪ؟ هو تو کي ٺاهيو ۽ تو کي جوڙيو.",
+  "tokens": [
+    {
+      "surface": "ה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه سان"
+    },
+    {
+      "surface": "תגמלו",
+      "gloss": "ڪيائون ٿا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "بيوقوف"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سجاڻ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ڇا... نه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تنهنجو پيءُ"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "تنهنجو مالڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עשך",
+      "gloss": "تو کي ٺاهيو"
+    },
+    {
+      "surface": "ויכננך",
+      "gloss": "۽ تو کي جوڙيو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:26.530831184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "بنيامين جا پُٽ: بلاع ۽ بيخير ۽ يديعائيل — ٽي.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بلاع"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "۽ بيخير"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "۽ يديعائيل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:42.215620914Z",
+  "model": "glm-5.3"
+}

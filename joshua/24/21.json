@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ ماڻهن يهوشعا کي چيو: نه، پر اسان ⟨את⟩ ياهوه کي خدمت ڪنداسين.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشعا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "خدمت ڪنداسين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:56:45.903759752Z",
+  "model": "glm-5.3"
+}

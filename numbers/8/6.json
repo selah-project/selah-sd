@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "لاوي mountaintين مان ⟨את⟩ لاوين کڻ، بني اسرائيل جي وچ مان، ۽ ⟨את⟩ انهن کي پاڪ ڪر.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "کڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاوين"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوين"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "جي وچ مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "۽ پاڪ ڪر"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ انهن کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:43.017687181Z",
+  "model": "glm-5.3"
+}

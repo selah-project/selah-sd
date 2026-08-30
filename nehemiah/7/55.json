@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "برقوس جا پٽ، سيسرا جا پٽ، تمح جا پٽ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "برقوس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "سيسرا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "تمح"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:52.024568387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 51,
+  "translation": "ايلوهيم، مون ۾ پاڪ دل خلقيو؛ ۽ مون جي اندر سڌو روح نئون ڪر.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "خلقيو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون ۾ \/ مون لاءِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "۽ روح"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "سڌو \/ پڪو"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نئون ڪر"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "مون جي اندر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:51.536346042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ اوهوليابامه جيئي ⟨את⟩ يعييش ۽ ⟨את⟩ يعلام ۽ ⟨את⟩ قورخ کي؛ اھي عيسو جا پُٽ ھئا، جيڪي کيس ڪنعان جي زمين ۾ پيدا ٿيا.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "۽ اوهوليابامه"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "جيئي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يعييش"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "يعييش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "يعلام"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "يعلام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "قورخ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورخ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "پيدا ٿيا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "۾ زمين"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:43.472757852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 31:28",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "اھو به مانھنجي ڏنڊ وچڙ گناهه آھي، ڇوته مون مٿئين ايل کي انڪار ڪيو آھي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناهه"
+    },
+    {
+      "surface": "پלيلي",
+      "gloss": "ڏنڊ وچڙ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "כחשתי",
+      "gloss": "انڪار ڪيو آھي"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ايل کي"
+    },
+    {
+      "surface": "مמעל",
+      "gloss": "مٿئين"
+    }
+  ],
+  "timestamp": "2026-08-30T15:06:54.940727615Z",
+  "model": "glm-5.3"
+}

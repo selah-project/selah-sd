@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 5:16",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ پڻ هن ديوار جي ڪم ۾ آءٌ پاڻ لڳيس، ۽ اسان ڪو پٽ نه خريدا؛ ۽ سڀئي مونا نوڪر اُتي ڪم تي گڏيا.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "ڪم ۾"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "دیوار جي"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "החזקתי",
+      "gloss": "آءٌ پاڻ لڳيس"
+    },
+    {
+      "surface": "ושדה",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "خريدا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀئي"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "مونا نوڪر"
+    },
+    {
+      "surface": "קבוצים",
+      "gloss": "گڏيا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ڪم"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:06.211526107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ڏس، هاڻي ته ياهوه توکي چونڊيو آهي ته مقدس جاءِ لاءِ گهر ٺاهيندو رهين؛ پڪو ٿاءِ ۽ ڪر.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چونڊيو آهي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ته ٺاهيندو رهين"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "مقدس جاءِ لاءِ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "پڪو ٿاءِ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "۽ ڪر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:04.611016591Z",
+  "model": "glm-5.3"
+}

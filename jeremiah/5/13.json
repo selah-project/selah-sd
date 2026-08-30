@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 5:13",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ نبي هوا بڻجي ويندا، ۽ ڪلام انهن ۾ ناهي؛ ائين ئي انهن سان ڪيو ويندو.",
+  "tokens": [
+    {
+      "surface": "והנביאים",
+      "gloss": "۽ نبي"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بڻجي ويندا"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "هوا لاءِ"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "۽ ڪلام"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهي"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انهن ۾"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائين ئي"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪيو ويندو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن سان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:08:20.176573801Z",
+  "model": "glm-5.3"
+}

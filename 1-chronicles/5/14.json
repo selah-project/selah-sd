@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 5:14",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "اهي اويحيل جا پٽ هئا، حوري جو پٽ، يروح جو پٽ، جلعاد جو پٽ، ميخائيل جو پٽ، يشيشاي جو پٽ، يحدو جو پٽ، بوز جو پٽ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "اويحيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "حوري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "ירוח",
+      "gloss": "يروح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "ميخائيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "ישישי",
+      "gloss": "يشيشاي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "يحدو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "جو پٽ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بوز"
+    }
+  ],
+  "timestamp": "2026-08-30T14:12:26.419409080Z",
+  "model": "glm-5.3"
+}

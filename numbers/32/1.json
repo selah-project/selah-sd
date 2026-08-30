@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 32:1",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "So the sons of Reuben and the sons of Gad had very much cattle — very great; and they saw ⟨את⟩ the land of Jazer and ⟨את⟩ the land of Gilead, and behold, the place is a place of cattle.",
+  "tokens": [
+    {
+      "surface": "ומקנה",
+      "gloss": "and cattle"
+    },
+    {
+      "surface": "רב",
+      "gloss": "abundant"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to the sons of"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "and to the sons of"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "very great"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "exceedingly"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "and they saw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "the land of Jazer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "the land"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "and ⟨את⟩",
+      "marks": "the land of Gilead"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "the land"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and behold"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "the place"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "a place"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "of cattle"
+    }
+  ],
+  "timestamp": "2026-08-30T10:34:35.914571258Z",
+  "model": "glm-5.3"
+}

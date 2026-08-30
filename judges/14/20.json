@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ شمشون جي زال ان جي ساٿيءَ جي ٿي وئي، جيڪو ان جو ويجهو دوست هو.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "۽ ٿي وئي"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زال"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شمشون جي"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "ان جي ساٿيءَ جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "دوست هو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان جو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:02:46.554573391Z",
+  "model": "glm-5.3"
+}

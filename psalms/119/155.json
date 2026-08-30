@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "بدڪارن کان نجات پري آهي، ڇوته هنن تنهنجن حڪمن جي ڳولا نه ڪئي.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "پري"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "بدڪارن کان"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "نجات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تنهنجن حڪمن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ڳولا ڪئي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:24.909577327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ توهين سنڀال ڪريو ⟨את⟩ سڀني حدن ۽ ⟨את⟩ فيصلن کي عمل ۾ آڻڻ جو، جيڪي آءٌ اڄ توهان جي اڳيان رکيان ٿو.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "۽ توهين سنڀال ڪريو"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "عمل ۾ آڻڻ جو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀني حدن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "حدون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "فيصلا"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "فيصلا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکيان ٿو"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "توهان جي اڳيان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اڄ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:10.315141844Z",
+  "model": "glm-5.3"
+}

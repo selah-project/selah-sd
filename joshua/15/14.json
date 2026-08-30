@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 15:14",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ ڪالب اُتيان ⟨את⟩ عناق جي ٽن پٽن کي ڪڍيو — ⟨את⟩ شيشي ۽ ⟨את⟩ احيمان ۽ ⟨את⟩ تلمي — عناق جا ڄاول.",
+  "tokens": [
+    {
+      "surface": "וירש",
+      "gloss": "۽ ڪڍيو"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اُتيان"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ڪالب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٽن پٽن"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "ٽن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "عناق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شيشي"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "شيشي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "احيمان"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "احيمان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "تلمي"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "تلمي"
+    },
+    {
+      "surface": "ילידי",
+      "gloss": "ڄاول"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "عناق جا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:51.923387597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 3:24",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ان کان پوءِ بنوي پٽ حينداد ٻي ماپ ۾ ٺاھ ڪري ۾ مضبوط ٿيو، عزرياھ جي گھر کان وٺي موڙ تائين ۽ ڪنڊي تائين.",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "ان کان پوءِ"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "مضبوط ٿيو"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "بنوي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "حينداد"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ماپ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ٻي"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر کان وٺي"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزرياھ جي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "موڙ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ تائين"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "ڪنڊي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:06:10.803160700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "بيوقوت کي وري سخي نه سڏيو ويندو، ۽ ڪنجوس کي نه چيو ويندو امير.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "سڏيو ويندو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "بيوقوت کي"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "سخي"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "۽ ڪنجوس کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "چيو ويندو"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "امير"
+    }
+  ],
+  "timestamp": "2026-08-30T11:55:46.872067657Z",
+  "model": "glm-5.3"
+}

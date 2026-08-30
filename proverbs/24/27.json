@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 24:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ٻاهر پنهنجو ڪم تيار ڪر، ۽ پنهنجي لاءِ ٻيڙي ۾ ⟨ٿيڙي⟩ ڪر؛ پوءِ پنهنجو گهر ٺاهِ.",
+  "tokens": [
+    {
+      "surface": "הכן",
+      "gloss": "تيار ڪر"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "پنهنجو ڪم"
+    },
+    {
+      "surface": "ועתדה",
+      "gloss": "۽ تيار ڪر"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ٻيڙي ۾"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پنهنجي لاءِ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "۽ ٺاهِ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "پنهنجو گهر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:39.462117175Z",
+  "model": "glm-5.3"
+}

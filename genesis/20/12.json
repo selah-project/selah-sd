@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ سچ پچ هوءَ منهنجي ڀيڻ آھي؛ هوءَ منهنجي پيءُ جي ڌيءَ آھي، پر منهنجي ماءُ جي ڌيءَ ناھي؛ ۽ هوءَ مون کي زال ٿي.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ سچ پچ"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "بيشڪ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "منهنجي ڀيڻ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "منهنجي پيءُ جي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هوءَ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءَ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "منهنجي ماءُ جي"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زال"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:27.171526353Z",
+  "model": "glm-5.3"
+}

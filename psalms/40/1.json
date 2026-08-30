@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "سربراهه لاءِ، داوود جو مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "سربراهه لاءِ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود جو"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-08-30T13:06:02.665840842Z",
+  "model": "glm-5.3"
+}

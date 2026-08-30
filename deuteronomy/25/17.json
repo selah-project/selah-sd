@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ياد رک جيڪو ⟨את⟩ عمالق تنهنجي لاءِ ڪيو، رستي ۾، جڏهن توهان متسرايم مان نڪتا،",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ياد رک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جيڪو (عمالق جو ڪم)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي لاءِ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالق"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستي ۾"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "جڏهن توهان نڪتا"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "متسرايم مان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:44:17.812980771Z",
+  "model": "glm-5.3"
+}

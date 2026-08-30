@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 113,
+  "translation": "تہ سندس ويھارڻ سردارن سان ٿي، سندس قوم جي سردارن سان.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "ويھارڻ لاءِ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس قوم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:33.868905558Z",
+  "model": "glm-5.3"
+}

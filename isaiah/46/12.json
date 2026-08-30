@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 46,
+  "translation": "منھنجو ٻڌو، او سخت دلؤ، جيڪي انصاف کان پري آھيو.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منھنجو"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلؤ"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "جيڪي پري آھيو"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "انصاف کان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:00:33.347870163Z",
+  "model": "glm-5.3"
+}

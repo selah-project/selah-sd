@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "هن ئي طريقي سان هن ⟨את⟩ ڏهن ٽِڪرين کي ٺاهيو؛ سڀني جي هڪ ئي ڍَل آهي، هڪ ئي ماپ ۽ هڪ ئي صورت.",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "هن ئي طريقي سان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاهيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڏهن ٽِڪرين"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏهن"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ٽِڪرين"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ڍَل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ماپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "صورت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "سڀني جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:29:46.097379250Z",
+  "model": "glm-5.3"
+}

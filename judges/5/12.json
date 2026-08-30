@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 5:12",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "جاڳ، جاڳ، دبوره! جاڳ، جاڳ، گيت ٻول! اُٿ، بروق، ۽ پنھنجي قيدين کي قيد ڪر، اَبينوعم جي پُٽ!",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "جاڳ"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "جاڳ"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "دبوره"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "جاڳ"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "جاڳ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ٻول"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "קום",
+      "gloss": "اُٿ"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "بروق"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "۽ قيد ڪر"
+    },
+    {
+      "surface": "שביך",
+      "gloss": "پنھنجي قيدين کي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "اَبينوعم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:58:22.587018447Z",
+  "model": "glm-5.3"
+}

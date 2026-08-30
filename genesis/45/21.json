@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 45:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "۽ اسرائيل جي پٽن ائين ڪيو، ۽ يوسف کين پيرعھ جي حڪم سان گاڏيون ڏنيون، ۽ کين رستي لاءِ کاڌو ڏنو.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "۽ ڪيو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏنيون"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "گاڏيون"
+    },
+    {
+      "surface": "על",
+      "gloss": "مطابق"
+    },
+    {
+      "surface": "פי",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پيرعھ جي"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏنو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "کاڌو"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "رستي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:54:45.987206918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ توهان انهن کي پنهنجي گهر جين مِزوزن تي ۽ پنهنجن دروازن تي لکو.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "۽ لکو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "مِزوزن"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "پنهنجي گهر جين"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "۽ پنهنجن دروازن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:59.880831317Z",
+  "model": "glm-5.3"
+}

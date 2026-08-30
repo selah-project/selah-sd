@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ اُوريا كاهن اهو سڀ ڪيو جيڪو بادشاهه آحاز حڪم ڪيو هو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اُوريا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "كاهن"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "جيئن سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڪيو هو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آحاز"
+    }
+  ],
+  "timestamp": "2026-08-30T11:44:09.228524726Z",
+  "model": "glm-5.3"
+}

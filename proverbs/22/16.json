@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "غريب کي ڏکيائي ڏيندو پاڻ لاءِ وڌائڻ، ۽ مالدار کي ڏيندو — رڳو اوٽ لاءِ.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "ڏکيائي ڏيندو"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "وڌائڻ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏيندو"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "مالدار کي"
+    },
+    {
+      "surface": "אך",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "اوٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:43.978369726Z",
+  "model": "glm-5.3"
+}

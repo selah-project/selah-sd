@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ ٿيندو، جڏهن هو انهن مان ڪنهن ⟨هڪ⟩ ۾ ڏوهي، ته هو اعتراف ڪندو ان جو جيڪو هو ان تي پاپ ڪيو.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "ڏوهي ٿئي"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "هڪ ۾"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "انهن مان"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "۽ اعتراف ڪندو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "پاپ ڪيو"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان تي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:01.222167638Z",
+  "model": "glm-5.3"
+}

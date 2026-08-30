@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "پوءِ ياهوه جو ڪوپ ٻريو ⟨ان⟩ زمين تي، ته ان تي لهرائاريان ⟨את⟩ سڄي لعنت جيڪا هن ڪتاب ۾ لکيل آهي.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "پوءِ ٻريو"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ڪوپ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين تي"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ته لهرائاريان"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڄي لعنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "لکيل"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ڪتاب ۾"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:46:33.405585403Z",
+  "model": "glm-5.3"
+}

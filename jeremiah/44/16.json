@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "جيڪو لفظ تو ياهوه جي نالي ۾ اسان سان چيو آھي، اسان ان جو تو ڏانهن ٻڌنداسين ئي نه.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "اسان سان"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نالي ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "ٻڌنداسين"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تو ڏانهن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:22:07.748277625Z",
+  "model": "glm-5.3"
+}

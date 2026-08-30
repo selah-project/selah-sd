@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 15:14",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ مَڙهيون (باموت) نه هٽايون ويون؛ رڳو آسا جو دل ياهوه سان سالم رهي سندس سڀني ڏهاڙن ۾.",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "۽ مَڙهيون (باموت)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "هٽايون ويون"
+    },
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "رهي"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "سالم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ڏهاڙن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:34:14.654529588Z",
+  "model": "glm-5.3"
+}

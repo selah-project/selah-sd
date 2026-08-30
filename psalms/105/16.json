@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 105,
+  "translation": "۽ بکءَ کي زمين تي سڏيائين؛ مانيءَ جو سڄو ڏنڊُ ٻٽل ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ سڏيائين"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "بکءَ کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ڏنڊُ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "مانيءَ جو"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ٻٽل ڪيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:23.532850603Z",
+  "model": "glm-5.3"
+}

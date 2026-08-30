@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "گاد جي لاءِ؛ الياساف، دعوئل جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "گاد جي لاءِ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "الياساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دعوئل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:51.781600380Z",
+  "model": "glm-5.3"
+}

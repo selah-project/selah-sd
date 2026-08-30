@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 32:14",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ ⟨هو⟩ اُتي ان رات رهيو، ۽ پنهنجي هٿ ۾ آيل مان لِٿو هڪ نذرانو عيسو، پنهنجي ڀاءُ لاءِ.",
+  "tokens": [
+    {
+      "surface": "וילן",
+      "gloss": "۽ رهيو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "۽ لِٿو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "آيل"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "پنهنجي هٿ ۾"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "نذرانو"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "عيسو لاءِ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "پنهنجي ڀاءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:15.309346347Z",
+  "model": "glm-5.3"
+}

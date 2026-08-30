@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "سڀ لاوي، پاڪ شهر ۾، ٻه سئو چاليھه ۽ اٺ ⟨هئا⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شهر ۾"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ٻه سئو"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "اٺيهه"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "۽ چار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:49.312929917Z",
+  "model": "glm-5.3"
+}

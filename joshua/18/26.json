@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ مصفه ۽ کفيره ۽ موصه،",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "۽ مصفه"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "۽ کفيره"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "۽ موصه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:13.167299920Z",
+  "model": "glm-5.3"
+}

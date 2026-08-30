@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "ياهوه جو شڪر ڪريو، ڇوڪه ⟨هو⟩ چڱو آهي، ڇوڪه سندس خيسيد هميشه لاءِ آهي.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "شڪر ڪريو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشه لاءِ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "سندس خيسيد"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:07.720106777Z",
+  "model": "glm-5.3"
+}

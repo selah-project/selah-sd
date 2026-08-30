@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ هر هڪ مينهن لاءِ هڪ ڏهون حصو، چوڏهن مينهن لاءِ۔",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "۽ هڪ ڏهون حصو"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ڏهون حصو"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "مينهن لاءِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هر هڪ"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "چوڏهن لاءِ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-10"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "مينهن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:08.345918249Z",
+  "model": "glm-5.3"
+}

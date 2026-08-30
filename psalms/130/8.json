@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 130,
+  "translation": "۽ اُهو ⟨את⟩ اِسرائيل کي سندس سڀني گناهن مان مُڪت ڪندو.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "۽ اُهو"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "مُڪت ڪندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائيل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سندس سڀني مان"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "گناهن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:43.125108766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 28:13",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ بادشاهه کي چيائين ته ٿرسم نه، ڇوته ڇا ڏٺوءِ؛ ۽ زال شاؤُل کي چيو: ايلوهيم مون ڏٺا، زمين مان مٿي چڙهندا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "לה",
+      "gloss": "کي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ٿرسم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ڏٺوءِ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤُل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مون ڏٺا"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "مٿي چڙهندا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T11:15:19.731485960Z",
+  "model": "glm-5.3"
+}

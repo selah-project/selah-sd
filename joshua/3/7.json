@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 3:7",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ياهوه يهوشعا کي چيو: “⟨اِ‏هو⟩ اِ جو\tmڻڌ ۾ آهيان جيئن مان موشي سان هيس",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "← کي"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشعا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "אחל",
+      "gloss": "شروع ڪندس"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "تنکي مَڃڻ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکين ۾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "جن کي خبر پون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "هيس"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "آهيان"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تنهن سان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:42:10.875404680Z",
+  "model": "glm-5.3"
+}

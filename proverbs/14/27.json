@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ياهوه جو خوف زندگيءَ جو وهڪرو آهي، ته موت جي ڦاسن کان بچجي.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "خوف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "وهڪرو"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگيءَ جو"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "ته بچجي"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "ڦاسن کان"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:54.858569741Z",
+  "model": "glm-5.3"
+}

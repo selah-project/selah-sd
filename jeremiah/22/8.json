@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 22:8",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ گهڻا قوم هن شهر تان لنگهندا، ۽ چوندا هر ماڻهو پنهنجي سنگتيءَ کي: ڇو ائين ڪيو ياهوه هن وڏي شهر سان؟",
+  "tokens": [
+    {
+      "surface": "ועברו",
+      "gloss": "۽ لنگهندا"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گهڻا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تان"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "هن شهر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "۽ چوندا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر ماڻهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "پنهنجي سنگتيءَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا لاءِ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "هن شهر سان"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:55:51.356867540Z",
+  "model": "glm-5.3"
+}

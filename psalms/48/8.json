@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "اوڀر واري واءَ سان ⟨تون⟩ تارشش جا ٻيڙا ڀڳي ڇڏيا.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "واءَ سان"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "اوڀر واري"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ڀڳي ڇڏيا"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ٻيڙا"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تارشش"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:06.803915568Z",
+  "model": "glm-5.3"
+}

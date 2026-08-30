@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ ان ⟨את⟩ پنجن پردين کي ھڪ ٻئي سان جوڙيائين، ۽ پنج ٻيا پردين ھڪ ٻئي سان جوڙيائين.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "۽ جوڙيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنجن پردين کي"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردن"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پردن"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "جوڙيا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ٻئي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:18.886630484Z",
+  "model": "glm-5.3"
+}

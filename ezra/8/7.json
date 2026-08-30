@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 8:7",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ عيلام جي پٽن مان — يشعياھ، عتلياھ جو پٽ — ۽ سندس ساڻ ستر نر.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "۽ پٽن مان"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "يشعياھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "عتلياھ"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "۽ سندس ساڻ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "نر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:32.739439553Z",
+  "model": "glm-5.3"
+}

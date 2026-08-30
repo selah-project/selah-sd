@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "اهو ايل جيڪو مون کي بدلو ڏياري ٿو ۽ قومن کي مون هيٺ دٻائي ٿو.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "اهو ايل"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "جيڪو ڏياري ٿو"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "بدلو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "۽ دٻائي ٿو"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومن کي"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "مون هيٺ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:02.109808316Z",
+  "model": "glm-5.3"
+}

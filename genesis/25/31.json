@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ يعقوب چيو: «اڄ ئي مون کي ⟨את⟩ پهرين ڄائڻ جو حق وڪيو.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "وڪيو"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "اڄ ئي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پهرين ڄائڻ جو حق"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "تنهنجو پهرين ڄائڻ جو حق"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:12.315435677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 3:21",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ حنانياھ جا پٽ: پلطياھ ۽ يشعياھ؛ رفاياھ جا پٽ، ارنان جا پٽ، عوبدياھ جا پٽ، شكنياھ جا پٽ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حنانياھ"
+    },
+    {
+      "surface": "פלטיה",
+      "gloss": "پلطياھ"
+    },
+    {
+      "surface": "וישעיה",
+      "gloss": "۽ يشعياھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "رفاياھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ارنان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "عوبدياھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "شكنياھ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:54.110032655Z",
+  "model": "glm-5.3"
+}

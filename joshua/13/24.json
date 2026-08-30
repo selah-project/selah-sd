@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ موشي گاد قبيلي کي ڏنو — بني گاد کي، سندن خاندانن لاءِ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "۽ ڏنو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي کي"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بني… کي"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "سندن خاندانن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:32.029178606Z",
+  "model": "glm-5.3"
+}

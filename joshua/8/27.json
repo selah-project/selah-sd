@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 8:27",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "رڳو مال ۽ ان شهر جي لٽ اسرائيل پنھنجي لاءِ لٽي، ياهوه جي حڪم موجب، جيڪو ھن يھوشوع کي حڪم ڏنو ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "۽ لٽ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر جي"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ان"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "لٽي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پنھنجي لاءِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "حڪم موجب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يھوشوع کي"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يھوشوع"
+    }
+  ],
+  "timestamp": "2026-08-30T10:50:40.922168806Z",
+  "model": "glm-5.3"
+}

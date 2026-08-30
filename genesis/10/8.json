@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ڪوش نمرود کي جنم ڏنو ⟨את⟩؛ هو زمين تي جوانمرد ٿيڻ شروع ٿيو۔",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "۽ ڪوش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جنم ڏنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نمرود"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "نمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "החל",
+      "gloss": "شروع ٿيو"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ٿيڻ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "جوانمرد"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين تي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:31.945278934Z",
+  "model": "glm-5.3"
+}

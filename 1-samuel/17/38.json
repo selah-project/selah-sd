@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ شاؤل داوود کي پنهنجون جايون پهرايون ۽ سندس مٿي تي ٽامي جو HELMET وڌائين ۽ کيس زرہ پهرايائين.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "۽ پهرايو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "پنهنجون جايون"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "۽ رکيائين"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "هيLMET"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ٽامي جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي تي"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سندس مٿي"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "۽ پهرايائين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "زرہ"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "زرہ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:12:39.497829072Z",
+  "model": "glm-5.3"
+}

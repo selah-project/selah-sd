@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "پوءِ بادشاهه شمعي کي چيو، تون نه مريندين؛ ۽ بادشاهه ان لاءِ قسم کنيو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مريندين"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "قسم کنيو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان لاءِ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:24:17.541600163Z",
+  "model": "glm-5.3"
+}

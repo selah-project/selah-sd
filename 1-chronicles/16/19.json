@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 16:19",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "جڏھن توهان ماڻھن ۾ ڳڻپ جا، ٿورا ئي ٿورا، ۽ ان ۾ پرچو ٿي رهندا هجو،",
+  "tokens": [
+    {
+      "surface": "בהיותכם",
+      "gloss": "جڏھن توهان ٿيندا هجو"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ماڻھن ۾"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳڻپ جا"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ٿورا ئي ٿورا"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "۽ پرچو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:38.791705646Z",
+  "model": "glm-5.3"
+}

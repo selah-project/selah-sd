@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "عُزني جي، ⟨the⟩ عُزنِي خاندان؛ عِيري جي، ⟨the⟩ عيرِي خاندان.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "عُزني"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "عُزنِي"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "عِيري"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "عيرِي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:50.340830860Z",
+  "model": "glm-5.3"
+}

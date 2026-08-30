@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ايلوهيم کي نه گار، ۽ پنهنجي قوم جي نائب تي لعنت نه مار.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקלل",
+      "gloss": "گار"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "۽ نائب"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "پنهنجي قوم جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "لعنت مار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:55.570905043Z",
+  "model": "glm-5.3"
+}

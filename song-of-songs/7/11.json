@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "مان پنهنجي محبوب جي آهيان، ۽ سندس تڙڻُ مون تي ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مان"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "پنهنجي محبوب جي"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "۽ مون تي"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "سندس تڙڻُ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:47:20.740693869Z",
+  "model": "glm-5.3"
+}

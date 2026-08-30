@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ بادشاھ چيو: ماني لاءِ تلوار ۽ تلوار بادشاھ جي اڳيان آندائون.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "کڻو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماني لاءِ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "۽ آندائون"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:27:24.422262577Z",
+  "model": "glm-5.3"
+}

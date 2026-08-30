@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "⟨את⟩ صندوق ۽ ⟨את⟩ ان جا سلاخون، ⟨את⟩ ڪفارتي ۽ ⟨את⟩ پردو ڍڪ جو۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ان جا سلاخون"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ان جا سلاخون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڪفارتي"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ڪفارتي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پردو"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "پردو"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ڍڪ جو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:08:22.663016815Z",
+  "model": "glm-5.3"
+}

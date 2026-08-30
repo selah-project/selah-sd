@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 1:33",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ مدين جا پٽ: عيفا ۽ عيفر ۽ حانوخ ۽ ابيداع ۽ الداع؛ سڀ اھي قتوره جا پٽ ھئا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ مدين جا پٽ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مدين"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "عيفا"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "۽ عيفر"
+    },
+    {
+      "surface": "וחנוך",
+      "gloss": "۽ حانوخ"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "۽ ابيداع"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "۽ الداع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "قتوره"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:49.944692237Z",
+  "model": "glm-5.3"
+}

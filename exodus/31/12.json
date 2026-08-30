@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ ياهوه موشي ڏانھن فرمايو تہ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فرمايو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "تہ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:07:15.719636588Z",
+  "model": "glm-5.3"
+}

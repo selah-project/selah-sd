@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ياهوه توکي برڪت ڏئي ۽ توکي بچائي،",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "توکي برڪت ڏئي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "۽ توکي بچائي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:51.754446880Z",
+  "model": "glm-5.3"
+}

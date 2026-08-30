@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ڇوته ڪير کائي سگهي ٿو، ۽ ڪير ⟨هو⟩ لٺو ڪري سگهي ٿو، مون کان ٻاهر؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائي سگهي ٿو"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "۽ ڪير"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "لٺو ڪري سگهي ٿو"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ٻاهر"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مون کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:02.733431677Z",
+  "model": "glm-5.3"
+}

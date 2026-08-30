@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "۽ يوسف انهن کي چيو: نه ڊجو، ڇوته ڇا، ايلوهيم جي جاءِ تي ⟨آئون⟩ آهيان؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ڊجو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "جاءِ تي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم جي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨آئون⟩ آهيان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:56:58.201579239Z",
+  "model": "glm-5.3"
+}

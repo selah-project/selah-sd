@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "آءٌ پنهنجا ڪم وڏا ڪيا؛ م پاڻ لاءِ گهر ٺهرايا، م پاڻ لاءِ انگورين ٻوٽيا.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "وڏا ڪيا"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "پنهنجا ڪم"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ٺهرايا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "م پاڻ لاءِ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ٻوٽيا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "م پاڻ لاءِ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "انگورين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:37.810404374Z",
+  "model": "glm-5.3"
+}

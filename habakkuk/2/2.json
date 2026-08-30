@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 2:2",
+  "book": "habakkuk",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ياهوه مون کي جواب ڏنو ۽ چيائين: نظر لک ۽ لوحن تي اُگهڙ ڪر، جيئن پڙهندڙ ان ۾ ڊوڙي سگهي.",
+  "tokens": [
+    {
+      "surface": "ויענני",
+      "gloss": "۽ مون کي جواب ڏنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "لک"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "نظر"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "۽ اُگهڙ ڪر"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "لوحن"
+    },
+    {
+      "surface": "למען",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ڊوڙي سگهي"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "پڙهندڙ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:00.176236702Z",
+  "model": "glm-5.3"
+}

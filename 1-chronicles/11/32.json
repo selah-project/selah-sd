@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "حورائي نحالِي گاعش جو، اَبيئيل العَرباتي۔",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "حورائي"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "نحالِي"
+    },
+    {
+      "surface": "געש",
+      "gloss": "گاعش"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "اَبيئيل"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "العَرباتي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:21.940428272Z",
+  "model": "glm-5.3"
+}

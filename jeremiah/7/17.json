@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 7:17",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڇا تون نه ٿو ڏسين ته اهي ڇا ڪن ٿا يهودا جي شهرن ۾ ۽ يروشلم جي گهٽين ۾؟",
+  "tokens": [
+    {
+      "surface": "האינך",
+      "gloss": "ڇا تون نه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏسين"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ڪن ٿا"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "شهرن ۾"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "۽ گهٽين ۾"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    }
+  ],
+  "timestamp": "2026-08-30T12:09:50.978313871Z",
+  "model": "glm-5.3"
+}

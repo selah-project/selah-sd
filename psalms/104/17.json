@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 104,
+  "translation": "جنھن ۾ پکي آنا ٺاهين ٿا؛ حوض سرو وڻن ۾ پنھنجو گھر رکي ٿو.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جنھن ۾"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "پکي"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "آنا ٺاهين ٿا"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "حوض (چرڪ)"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "سرو وڻن ۾"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "پنھنجو گھر"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:36.204807737Z",
+  "model": "glm-5.3"
+}

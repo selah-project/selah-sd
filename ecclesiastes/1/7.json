@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ساري نديون سمنڊ ڏانهن وڃن ٿيون، ۽ سمنڊ ڀرجي نه ٿو؛ جھڙي جاءِ ڏانهن نديون وڃن ٿيون، اُتي ئي اُھي موٽنديون وڃن ٿيون.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "نديون"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "وڃن ٿيون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "והים",
+      "gloss": "۽ سمنڊ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نه ٿو"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ڀرجي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "مקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "جھڙيون نديون"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "وڃن ٿيون"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي ئي"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اُھي"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "موٽنديون"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "وڃن ٿيون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:28.137149172Z",
+  "model": "glm-5.3"
+}

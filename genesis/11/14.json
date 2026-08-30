@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ شَلَح ٽِيهه سال جِيائي، ۽ ⟨את⟩ عِيبر کي پيدا ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "۽ شَلَح"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِيائي"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽِيهه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "پيدا ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِيبر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِيبر"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:55.662417882Z",
+  "model": "glm-5.3"
+}

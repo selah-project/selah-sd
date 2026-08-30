@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "ڇت جي ڪُنڊ تي ويھڻ چڱو آھي، جهڙوڪ جهيڙو ڪندڙ زال ۽ گڏيل گھر.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ويھڻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "ڪُنڊ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ڇت"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "جهڙوڪ زال"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "جهيڙو ڪندڙ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ گھر"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "گڏيل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:30.246160424Z",
+  "model": "glm-5.3"
+}

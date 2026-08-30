@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ ناين ڊوڙي آئي ۽ پنهنجي ماءُ جي گهر ۾ اُهي ڳالهيون ٻڌايون.",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "۽ ڊوڙي آئي"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ناين"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "۽ ٻڌايون"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "پنهنجي ماءُ جي"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "اُهي ڳالهيون"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اهي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:48.553533596Z",
+  "model": "glm-5.3"
+}

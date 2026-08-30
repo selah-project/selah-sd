@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ شيشان کي پٽن جي بدران ڌيئر ھيون؛ ۽ شيشان جو ھڪ مصر (متسرايم) جو غلام ھو، جنھن جو نالو يرحع ھو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ھيو"
+    },
+    {
+      "surface": "לששן",
+      "gloss": "شيشان کي"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سوائے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بدران"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيئر"
+    },
+    {
+      "surface": "ולששן",
+      "gloss": "۽ شيشان جو"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "متسرايم (مصر) جو"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "۽ سندس نالو"
+    },
+    {
+      "surface": "ירחע",
+      "gloss": "يرحع"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:02.030475835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 10:4",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ جي ھڪ ۾ وڄائين ته تو وٽ گڏ ٿين سردار، سروَن ھزارن جا، يسرائيل جا.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جي"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "ھڪ ۾"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "وڄائين"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "گڏ ٿين"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تو وٽ"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سروَن"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ھزارن جا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل جا"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:04.124168378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ موآب ۾ فيصلا ڪندس، ۽ اھي سڃاڻندا ته آئون ⟨آھيان⟩ ياهوه.",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "۽ موآب ۾"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ڪندس"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "فيصلا"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "۽ اھي سڃاڻندا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آئون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:34:14.768259734Z",
+  "model": "glm-5.3"
+}

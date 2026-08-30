@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "نيڪ ماڻهوءَ جو وات حكمت اُگائي ٿو، پر مناور زبان وڍي ويندي.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "وات"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيڪ ماڻهوءَ جو"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "اُگائي ٿو"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمت"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "پر زبان"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "مناور"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "وڍي ويندي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:28.625411720Z",
+  "model": "glm-5.3"
+}

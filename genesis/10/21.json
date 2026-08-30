@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ شَم کي به پٽ ڄاوا، جي سڀني عِبَر جي پٽن جو پيءُ هو، يَفَت جي وڏي ڀاءُ.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "۽ شَم کي"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پٽ ڄاوا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِبَر"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ڀاءُ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "يَفَت"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:21.133065351Z",
+  "model": "glm-5.3"
+}

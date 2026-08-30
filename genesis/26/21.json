@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 26:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ انهن ٻي کوهه کوٽي، ۽ ان تي به تڪرار ڪيائون؛ تنهنڪري ان جو نالو هن رکيو شطنه.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "کوٽي"
+    },
+    {
+      "surface": "באר",
+      "gloss": "کوهه"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ٻي"
+    },
+    {
+      "surface": "ויריבו",
+      "gloss": "تڪرار ڪيائون"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ان تي"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "رکيائين"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ان جو نالو"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "شطنه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:30.512473340Z",
+  "model": "glm-5.3"
+}

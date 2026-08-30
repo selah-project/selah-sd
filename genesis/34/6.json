@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ حَمور، شخم جو پيءُ، يعقوب وٽ نڪتو ⟨את⟩ ساڻس ڳالهائڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "۽ نڪتو"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حَمور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "جي پيءُ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شخم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ڳالهائڻ لاءِ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ساڻس"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:14.504915383Z",
+  "model": "glm-5.3"
+}

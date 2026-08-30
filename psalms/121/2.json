@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 121,
+  "translation": "منهنجي مدد ياهوه کان ⟨آهي⟩، جنهن آسمانن ۽ زمين کي خلقيو.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "منهنجي مدد"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "خلقيو"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانن ۽"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:21:55.511743548Z",
+  "model": "glm-5.3"
+}

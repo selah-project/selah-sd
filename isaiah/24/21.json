@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 24:21",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ اُن ڏينهن ۾ ياهوه مرُم جي لشڪر تي — مرُم ۾ — ۽ زمين جي بادشاهن تي — زمين تي — ڦرائي ايندو.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُن"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ڦرائي ايندو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "המרום",
+      "gloss": "مرُم جي"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "مرُم ۾"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاهن"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمين"
+    }
+  ],
+  "timestamp": "2026-08-30T11:53:25.053168444Z",
+  "model": "glm-5.3"
+}

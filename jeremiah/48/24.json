@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 48:24",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "۽ قريوت تي ۽ بصره تي، ۽ موآب جي ملڪ جي سڀني شھرن تي — پري جيھن تي ۽ ويجهن تي.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "קריות",
+      "gloss": "قريوت"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "بصره"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شھرن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ملڪ جي"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب جي"
+    },
+    {
+      "surface": "הרחקות",
+      "gloss": "پري جيھن"
+    },
+    {
+      "surface": "והקרבות",
+      "gloss": "۽ ويجهن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:23:32.538784534Z",
+  "model": "glm-5.3"
+}

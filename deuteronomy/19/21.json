@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ تنهنجي اک رحم ⟨نہ⟩ ڪري — جان جان لاءِ، اک اک لاءِ، ڏند ڏند لاءِ، هٿ هٿ لاءِ، پير پير لاءِ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "رحم ڪري"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تنهنجي اک"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "جان لاءِ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اک"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "اک لاءِ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ڏند"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ڏند لاءِ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ لاءِ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پير"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "پير لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:09.804213583Z",
+  "model": "glm-5.3"
+}

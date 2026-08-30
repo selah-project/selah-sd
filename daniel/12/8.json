@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ آءُ ٻڌو، پر نه سمجهيوم؛ ۽ مون چيو: ”ادوناي! انهن جي پڇاڙي ڇا ⟨آهي⟩؟“",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "۽ آءُ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ٻڌوم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "سمجهان"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "۽ مون چيو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "پڇاڙي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "انهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:02:39.248853160Z",
+  "model": "glm-5.3"
+}

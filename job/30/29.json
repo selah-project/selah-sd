@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 30:29",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "آءٌ گيدڙن جو ڀاءُ ٿي ويس، ۽ ٻگهين جو سنگتي.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "ڀاءُ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ٿي ويس"
+    },
+    {
+      "surface": "לתנים",
+      "gloss": "گيدڙن جو"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "۽ سنگتي"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ٻگهين جو"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ٻگهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:41:46.511445235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ ياهوه چيو: ⟨את⟩ اخاب کي ڪير ٺڳي، ته هو وڃي رموت-گلعاد ۾ ڪري؟ پوءِ هڪڙي هن طرح چيو ۽ ٻئي چيو ته هن طرح.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "ٺڳي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اخاب کي"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اخاب"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ته هو وڃي"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "۽ ڪري"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "رموت ۾"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "پوءِ چيو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هڪڙي"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "هن طرح"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "۽ ٻئي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "هن طرح"
+    }
+  ],
+  "timestamp": "2026-08-30T11:38:00.789455308Z",
+  "model": "glm-5.3"
+}

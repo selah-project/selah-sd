@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ توعي، حماٿ جي بادشاهه، ٻڌو ته داويد ⟨את⟩ هددعزر جي سڄي لشڪر کي ماريو آهي.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "۽ ٻڌو"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "توعي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماٿ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ماريو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڄي لشڪر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "حددعزر"
+    }
+  ],
+  "timestamp": "2026-08-30T11:18:43.067384563Z",
+  "model": "glm-5.3"
+}

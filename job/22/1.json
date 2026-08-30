@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "پوءِ اليفز تيماني جواب ڏنو ۽ چيائين:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "پوءِ جواب ڏنو"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اليفز"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "تيماني"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:39:50.447318478Z",
+  "model": "glm-5.3"
+}

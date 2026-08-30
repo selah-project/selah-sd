@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ تون، انسان جو پٽ، صور تي هڪ ماتمي گيت کڻ،",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "שא",
+      "gloss": "کڻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صور"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ماتمي گيت"
+    }
+  ],
+  "timestamp": "2026-08-30T12:36:17.561677685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 38:7",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ عير، يهودا جي پھريون پٽ، ياهوه جي نظرين ۾ بري هو؛ ۽ ياهوه ان کي ماريو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عير"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پھريون پٽ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا جي"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بري"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "نظرين ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "۽ ان کي ماريو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:51:42.653776867Z",
+  "model": "glm-5.3"
+}

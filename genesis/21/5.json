@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ ابراهام ⟨هو⟩ سؤ سالن جو هو، جڏهن کيس ⟨את⟩ يصحاق پنهنجو پٽ ڄائو.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "۽ ابراهام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سالن جو"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "جنم ٿيڻ ۾"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يصحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يصحاق"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پنهنجو پُٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:44:19.386482425Z",
+  "model": "glm-5.3"
+}

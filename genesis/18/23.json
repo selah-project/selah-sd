@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ابراهام ويجهو ويو ۽ چيائين: ”ڇا تون نيست ڪندين نيڪ کي ظالم سان گڏ؟“",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "۽ ويجهو ويو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ڇا سچ"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "نيست ڪندين"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيک کي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ظالم"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:53.796115969Z",
+  "model": "glm-5.3"
+}

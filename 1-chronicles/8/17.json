@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ زبديا، ۽ مشلم، ۽ حزقي، ۽ حابر.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "۽ زبديا"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "۽ مشلم"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "۽ حزقي"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "۽ حابر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:16.587922734Z",
+  "model": "glm-5.3"
+}

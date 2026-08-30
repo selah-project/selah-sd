@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "رڳو ٻڌ رک، ته رت نه کائجين، ڇوته رت ⟨هو⟩ جان آھي، ۽ تون جان کي گوشت سان گڏ نه کائجين.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "رڳو"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ٻڌ رک"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ته نه"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کائجين"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کائجين"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان کي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:41:03.245598594Z",
+  "model": "glm-5.3"
+}

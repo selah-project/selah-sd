@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 8:22",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "پوءِ ⟨את⟩ ٻيو رڪ، تعمير جي رڪ کي پيش ڪيائين؛ ۽ اهارون ۽ سندس پٽن ⟨את⟩ پنھنجون هٿ رڪ جي مٿي تي رکيا.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "پيش ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٻيو رڪ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "رڪ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "איל",
+      "gloss": "رڪ"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "تعمير جي"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "رکيا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "سندس پٽن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجون هٿ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "پنھنجون هٿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "رڪ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:15:18.776052143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "حديد، صبويم، نبلات،",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "حديد"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "صبويم"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "نبلات"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:35.407162067Z",
+  "model": "glm-5.3"
+}

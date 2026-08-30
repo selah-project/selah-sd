@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 150,
+  "translation": "جو ڪجھه ساھ رکي ٿو سو سڀ ياه جي ساراھ ڪري؛ ياه جي ساراھ ڪريو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سو سڀ"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "جو ڪجھه ساھ رکي ٿو"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "ساراھ ڪري"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ساراھ ڪريو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:18.245099995Z",
+  "model": "glm-5.3"
+}

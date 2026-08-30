@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ انھن جو رھڻ جي جاءِ ميشا کان ھئي، سيفار ڏانھن وڃڻ تي، اوڀر جي جبل تي.",
+  "tokens": [
+    {
+      "surface": "וכהי",
+      "gloss": "۽ ھئي"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "انھن جو رھڻ جي جاءِ"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "ميشا کان"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "ڏانھن وڃڻ تي"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "سيفار"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "اوڀر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:20.908369896Z",
+  "model": "glm-5.3"
+}

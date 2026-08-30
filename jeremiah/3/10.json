@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 3:10",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ به سڀ ان ۾ نه موٽي مون ڏانهن سندس بيوفا ڀيڻ يهودا پنهنجي سڀ دل سان، پر ڪوڙ ۾، ياهوه جو فرمودو.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "۽ به"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "موٽي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون ڏانهن"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "بيوفا"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "سندس ڀيڻ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "پوري"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "دل سان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "ڪوڙ ۾"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمودو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:06:57.441749191Z",
+  "model": "glm-5.3"
+}

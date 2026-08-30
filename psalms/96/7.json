@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 96,
+  "translation": "ڏيو ياهوه کي، اي قومن جا خاندان، ڏيو ياهوه کي جلال ۽ عز.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ڏيو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومن جا"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ڏيو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "۽ عز"
+    }
+  ],
+  "timestamp": "2026-08-30T13:14:59.959384353Z",
+  "model": "glm-5.3"
+}

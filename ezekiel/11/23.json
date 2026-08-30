@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ياهوه جو جلال ⟨the⟩ شهر جي وچ مان مٿي ٿيو، ۽ ان جبل تي بيٺو جيڪو ⟨the⟩ شهر جي اوڀر ۾ آهي.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "۽ مٿي ٿيو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "مان"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وچ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر جي"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "۽ بيٺو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "اوڀر ۾"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شهر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:28:50.084579786Z",
+  "model": "glm-5.3"
+}

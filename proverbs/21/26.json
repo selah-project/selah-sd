@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "سڄو ڏينهن تمنا ۾ تمنا ڪري ٿو، پر راستباز ڏئي ٿو ۽ نه ٿو روڪي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڄو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "تمنا ڪري ٿو"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "تمنا"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "پر راستباز"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڏئي ٿو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "ٿو روڪي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:39.791139633Z",
+  "model": "glm-5.3"
+}

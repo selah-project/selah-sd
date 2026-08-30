@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 13:6",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ اُٿي بيٺو يربعام، نبط جو پٽ، شلومو بن داويد جو ٻانهو، ۽ پنهنجي مالڪ جي بغاوت ڪيائين.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "۽ اُٿي بيٺو"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "يربعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نبط"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ٻانهو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "۽ بغاوت ڪيائين"
+    },
+    {
+      "surface": "על",
+      "gloss": "جيagainst خلاف"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "پنهنجي مالڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:53.688976277Z",
+  "model": "glm-5.3"
+}

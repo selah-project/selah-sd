@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 6:11",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ مون چيو: ڇا ماڻهوءَ جهڙو آئون ڀڄندو؟ ۽ ڪير آئون جهڙو، جو هيڪل ۾ اچي جيئيو رهي؟ آئون اندر نه ايندس.",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "۽ مون چيو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ڇا ماڻهوءَ"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "آئون جهڙو"
+    },
+    {
+      "surface": "יברח",
+      "gloss": "ڀڄندو"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "۽ ڪير"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "آئون جهڙو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "هيڪل"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "۽ جيئيو رهي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "آئون ايندس"
+    }
+  ],
+  "timestamp": "2026-08-30T14:06:42.997047764Z",
+  "model": "glm-5.3"
+}

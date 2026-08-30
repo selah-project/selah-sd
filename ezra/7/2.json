@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "شلوم جو پٽ، صادوق جو پٽ، اِيٽوب جو پٽ،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اِيٽوب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:04:08.807656286Z",
+  "model": "glm-5.3"
+}

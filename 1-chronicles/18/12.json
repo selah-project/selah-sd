@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ ابشاي، صرويا جي پٽ، ادوم کي ⟨את⟩ لوڻ جي ماٿي ۾ ماريو — ارڙهن هزار.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "۽ ابشاي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "صرويا"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ماريو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ادوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ماٿي ۾"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "لوڻ جي"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ارڙهن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ارڙهن"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:53.383093157Z",
+  "model": "glm-5.3"
+}

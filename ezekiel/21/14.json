@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 21:14",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "او انسان جي پٽ، نبوت ڪر ۽ چؤ: ائن چوي ٿو ادوناي: چؤ: تلوار، تلوار، تيز ڪئي وئي آهي ۽ پالش به ڪئي وئي آهي.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان جي"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبوت ڪر"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ چؤ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ائن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چؤ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "הוחדה",
+      "gloss": "تيز ڪئي وئي"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "۽ پڻ"
+    },
+    {
+      "surface": "מרוטה",
+      "gloss": "پالش ڪئي وئي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:33:17.066444340Z",
+  "model": "glm-5.3"
+}

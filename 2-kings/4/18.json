@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 4:18",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ٻار وڏو ٿيو، ۽ ھڪ ڏينھن ٿيو ته ⟨هو⟩ پنھنجي پيءُ وٽ نڪري ويو، لابارن وٽ.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "۽ وڏو ٿيو"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ٻار"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "نڪري ويو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پنھنجي پيءُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "لابارن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:39:06.486034575Z",
+  "model": "glm-5.3"
+}

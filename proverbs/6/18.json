@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "دل جا بڇڙا خيال گھڙيندڙ، بڇڙائي ڏانھن ڊوڙڻ لاءِ تڪڻ وارا پير،",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "گھڙيندڙ"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "خيال"
+    },
+    {
+      "surface": "און",
+      "gloss": "بڇڙا"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "پير"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "تڪڻ وارا"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "ڊوڙڻ لاءِ"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "بڇڙائي ڏانھن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:42.240944421Z",
+  "model": "glm-5.3"
+}

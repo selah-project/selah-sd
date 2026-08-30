@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "صبح جو پنھنجو ٻج ⟨את⟩ پو، ۽ شام جو پنھنجو ھٿ نه سَتاءُ، ڇوته تون نٿو ڄاڻين ته ھي سگھو ٿيندو يا اُهو، ۽ جيڪڏھن ٻئي گڏجي ٿين ٿا ته سگھا آھن.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "صبح جو"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "پو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجو ٻج"
+    },
+    {
+      "surface": "زרעך",
+      "gloss": "پنھنجو ٻج"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "۽ شام جو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "سَتاءُ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "پنھنجو ھٿ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "تون نٿو"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ڄاڻين"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "سگھو ٿيندو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "گڏجي"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "سگھا آھن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:53:11.244086166Z",
+  "model": "glm-5.3"
+}

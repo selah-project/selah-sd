@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 147,
+  "translation": "جو برف ڏئي ٿو اُن وانگر، ۽ پَھُڙ کي خاڪ وانگر اُڏائي ٿو.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "جو ڏئي ٿو"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "برف"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "اُن وانگر"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "پَھُڙ کي"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "خاڪ وانگر"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "اُڏائي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:50.248136834Z",
+  "model": "glm-5.3"
+}

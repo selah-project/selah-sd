@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "۽ ان ٻيهر حمل ورتو ۽ پُٽ ڄڻيو، ۽ ان سندس نالو ⟨את⟩ اُونان رکيو.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "حمل ورتو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ٻيهر"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ڄڻيو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "نالو رکيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس نالو اُونان"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "سندس نالو"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "اُونان"
+    }
+  ],
+  "timestamp": "2026-08-30T09:52:28.161707150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 12:2",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ماڻهوءَ جو پُٽ، تُون باغي گهر جي وچ ۾ رهندڙ آهين، جن وٽ ڏسڻ لاءِ اکيون آهن پر ⟨نہ⟩ ڏسن ٿا، ٻُڌڻ لاءِ ڪن آهن پر ٻُڌن ً نٿا، ڇوته باغي گهر آهن.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ماڻهوءَ جو"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "باغي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُون"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "رهندڙ آهين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکيون"
+    },
+    {
+      "surface": "להם",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ڏسڻ لاءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ڏسن ٿا"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ڪن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ٻُڌڻ لاءِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻُڌن ٿا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "باغي"
+    },
+    {
+      "surface": "הם",
+      "gloss": "آهن"
+    }
+  ],
+  "timestamp": "2026-08-30T12:29:21.352088319Z",
+  "model": "glm-5.3"
+}

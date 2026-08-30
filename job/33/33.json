@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 33:33",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "جيڪڏھن ناھي، تون مونکي ٻُڌ؛ چُپ رھه ۽ آءُ توکي حڪمت سکائيندس.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناھي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻُڌ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مونکي"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "چُپ رھه"
+    },
+    {
+      "surface": "ואאלפך",
+      "gloss": "۽ آءُ توکي سکائيندس"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    }
+  ],
+  "timestamp": "2026-08-30T13:42:17.944642812Z",
+  "model": "glm-5.3"
+}

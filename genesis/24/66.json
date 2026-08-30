@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ نوڪر يضحاق کي ⟨את⟩ سڀ ڳالهيون ٻڌايون جيڪي هن ڪيون هيون.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "۽ ٻڌايون"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "نوڪر"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "يضحاق کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ ڳالهيون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ڳالهيون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيون هيون"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:54.552208480Z",
+  "model": "glm-5.3"
+}

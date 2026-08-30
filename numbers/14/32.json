@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ توهان جا لاش، توهان ئي، هن بيابان ۾ ڪرندا.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "۽ توهان جا لاش"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "توهان ئي"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڪرندا"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "هن بيابان ۾"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:27:16.543131668Z",
+  "model": "glm-5.3"
+}

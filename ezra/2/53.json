@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezra 2:53",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "برقوس جا پٽ، سيسرا جا پٽ، تماح جا پٽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "برقوس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "سيسرا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "تماح"
+    }
+  ],
+  "timestamp": "2026-08-30T15:09:39.510998446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "فيرتز جا سڀ پُٽ جيڪي يروشلم ۾ رھندا ھئا، چار سَو اٺھٺ چاليھ بهادر ماڻهو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "فيرتز"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "رھندا ھئا"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشلم ۾"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٺ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "۽ اَٺ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بهادر"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:11.490083251Z",
+  "model": "glm-5.3"
+}

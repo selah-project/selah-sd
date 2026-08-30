@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ ڏينھن جي انگ جيڪي داويد بيت يهودا تي حبرون ۾ بادشاه ٿي رهيو، ست سال ۽ ڇھ مهينا ٿيا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ٿيا"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "انگ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڏينھن جي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "رهيو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاه"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "حبرون ۾"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "۽ ڇھ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مهينا"
+    }
+  ],
+  "timestamp": "2026-08-30T14:47:51.329735903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ⟨את⟩ ساڄي ٽنگ توهان کاهن کي پنهنجن سلامتيءَ جي قربانين مان ترمہ (ڀيٽ) ڏيو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ٽنگ"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ٽنگ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ساڄي"
+    },
+    {
+      "surface": "תתנو",
+      "gloss": "ڏيو"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ترمہ (ڀيٽ)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "كاهن کي"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "قربانين مان"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "توهان جي سلامتيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:20.738329488Z",
+  "model": "glm-5.3"
+}

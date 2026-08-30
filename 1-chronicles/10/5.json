@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ جڏھن سندس ھٿيار-کڻندڙ ڏٺو ته شاول مري ويو آھي، ته پاڻ به تلوار تي ڪري پيو ۽ مري ويو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ھٿيار-کڻندڙ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "سندس ھٿيار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مري ويو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ڪري پيو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پاڻ به"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ھو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مري ويو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:44.432281579Z",
+  "model": "glm-5.3"
+}

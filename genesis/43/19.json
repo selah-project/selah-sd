@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 43:19",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "۽ اُھي ماڻھو اُن ماڻھوءَ وٽ ويڄا جيڪو يوسف جي گھر تي ھو، ۽ گھر جي دروازي تي مٿس ڳالھائيڻ لڳا.",
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "ويڄا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ماڻھوءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ڳالھائيڻ لڳا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:35:32.670292110Z",
+  "model": "glm-5.3"
+}

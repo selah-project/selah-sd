@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 118,
+  "translation": "ياهوه کي شڪر ڏيو، ڇوته ⟨هو⟩ چڱو آهي، ڇوته سندس خيسيد هميشه لاءِ آهي.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "شڪر ڏيو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هميشه لاءِ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "سندس خيسيد"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:47.558612980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 15:9",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ پوءِ پٽ مڃيءَ سان گڏ مڻيuhl مٿي قرباني طور سولت ٽي ڏهاإن، تيل ۾ گڏيل، اڌ هين۔",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "پيش ڪريو"
+    },
+    {
+      "surface": "על",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ مڃيءَ جو"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ڳءِ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "مڻيuhl (اناج جي قرباني)"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "سولت (ڀڙيل اٽو)"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ڏهاإن"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "گڏيل"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تيل ۾"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ادھ"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "هين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:28:10.530275708Z",
+  "model": "glm-5.3"
+}

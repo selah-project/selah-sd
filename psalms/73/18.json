@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 73,
+  "translation": "يقيناً تون کين لسيسي جائن ۾ رکين ٿو، تون کين تباهي ۾ ڪري ڇڏين ٿو.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "يقيناً"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "لسيسي جائن ۾"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "رکين ٿو"
+    },
+    {
+      "surface": "למו",
+      "gloss": "کين"
+    },
+    {
+      "surface": "הפلתם",
+      "gloss": "ڪري ڇڏين ٿو"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "تباهي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:28.324518421Z",
+  "model": "glm-5.3"
+}

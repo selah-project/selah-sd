@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 83,
+  "translation": "منهنجا ايلوهيم، کين ڦيرن جهڙو ڪر، هوا جي اڳيان ڀوسي جهڙو.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "منهنجا ايلوهيم"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "کين ڪر"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "ڦيرن جهڙو"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ڀوسي جهڙو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "هوا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:00.903172299Z",
+  "model": "glm-5.3"
+}

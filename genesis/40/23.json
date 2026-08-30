@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ سردار شرابچين ⟨את⟩ يوسف کي ياد نه ڪيو، پر کيس وساري ڇڏيائين.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ياد ڪيو"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "شرابچين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوسف کي"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "پر کيس وساري ڇڏيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T09:51:33.619243156Z",
+  "model": "glm-5.3"
+}

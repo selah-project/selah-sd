@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "آئون حكمت، هوشياريءَ سان گڏ رهان ٿو، ۽ تدبيرن جي ڄاڻ ڳوليان ٿو.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "آئون"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمت"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "رهان ٿو"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "هوشياريءَ سان گڏ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "۽ ڄاڻ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "تدبيرن جي"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ڳوليان ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:56.260369147Z",
+  "model": "glm-5.3"
+}

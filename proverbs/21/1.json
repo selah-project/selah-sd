@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "پاڻيءَ جون واٽون — بادشاهه جو دل ياهوه جي هٿ ۾ ⟨آهي⟩؛ جِنهن کي هو وڻي، اُن ڀَر مڙائيندو آهي.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "پاڻيءَ جون واٽون"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِنهن"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "وڻيس"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "مڙائيندو آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:49.975176142Z",
+  "model": "glm-5.3"
+}

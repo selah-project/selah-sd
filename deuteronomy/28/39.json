@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 28:39",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "انگورن جا باغ لڳائيندين ۽ ڪم ڪندين، پر شراب نه پيئيندين ۽ نه گڏ ڪندين، ڇوته اُهو جوڻ کائي ويندو.",
+  "tokens": [
+    {
+      "surface": "כרמים",
+      "gloss": "انگورن جا باغ"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "لڳائيندين"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "۽ ڪم ڪندين"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "پر شراب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "پيئيندين"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תאגר",
+      "gloss": "گڏ ڪندين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "کائي ويندو"
+    },
+    {
+      "surface": "התלעת",
+      "gloss": "جوڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:45:32.703159455Z",
+  "model": "glm-5.3"
+}

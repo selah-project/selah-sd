@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ هن زال جو پٽ رات ۾ مري ويو، ڇو ته هن ان تي ستي هئي.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري ويو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زال جو"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات ۾"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "ستي هئي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ان تي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:27:48.744632566Z",
+  "model": "glm-5.3"
+}

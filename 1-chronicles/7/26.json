@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "لعدان سندس پٽ، عميھود سندس پٽ، اليشماع سندس پٽ.",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "لعدان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عميھود"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "اليشماع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:26.077738101Z",
+  "model": "glm-5.3"
+}

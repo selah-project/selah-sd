@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "۽ ⟨את⟩ ماڻهن کي هن شهرن ڏانهن viewpoints منتقل ڪيو، متسرايم جي سرحد جي ھڪ ڪنڊي کان سندس ٻي ڪنڊي تائين۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ماڻهن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "منتقل ڪيو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "شهرن ڏانهن"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "شهرن ڏانهن"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ڪنڊي کان"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "سندس ٻي ڪنڊي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:31.833547454Z",
+  "model": "glm-5.3"
+}

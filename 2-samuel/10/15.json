@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ارام ڏٺو ته اِسرائيل جي اڳيان شڪست کاڌائين، ۽ پوءِ اُهي گڏجي ٿي ويا.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "۽ ڏٺو"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "شڪست کاڌائين"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائيل"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "۽ گڏ ٿيا"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "گڏجي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:20:18.433656500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 10:10",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ انهن جو ڏيک چارن لاءِ ⟨هڪ⟩ صورت هو، جيئن ڦيٿو ڦيٿي جي وچ ۾ هو.",
+  "tokens": [
+    {
+      "surface": "ומראיהם",
+      "gloss": "۽ انهن جو ڏيک"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "صورت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "چارن لاءِ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "ڦيٿو"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "ڦيٿي جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:28:46.723956427Z",
+  "model": "glm-5.3"
+}

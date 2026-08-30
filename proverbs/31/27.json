@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "پنهنجي گهر جي رستن کي نگراني ٿي ڪري، ۽ سستيءَ جو ماني نه کائي،",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "نگراني ٿي ڪري"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "رستن کي"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "پنهنجي گهر جي"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "۽ ماني"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "سستيءَ جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:24.761848812Z",
+  "model": "glm-5.3"
+}

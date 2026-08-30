@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "پر مون پنھنجو بادشاھ صھيون تي، پنھنجي مقدس جبل تي، مسح ڪيو آھي.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "پر مان"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "مسح ڪيو آھي"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پنھنجو بادشاھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صھيون"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "پنھنجي مقدس"
+    }
+  ],
+  "timestamp": "2026-08-30T12:59:28.685374488Z",
+  "model": "glm-5.3"
+}

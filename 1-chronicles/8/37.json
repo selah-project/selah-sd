@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ موتسا ⟨את⟩ بنعا کي ڄائيو؛ رافه سندس پٽ، اليشا سندس پٽ، اوتسل سندس پٽ.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "۽ موتسا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ڄائيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنعا"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "بنعا"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "رافه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "اليشا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "سندس پٽ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "اوتسل"
+    },
+    {
+      "surface": "בנو",
+      "gloss": "سندس پٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:55.245640581Z",
+  "model": "glm-5.3"
+}

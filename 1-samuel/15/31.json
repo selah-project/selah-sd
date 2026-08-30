@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ شموئيل شاؤل پٺيان موٽيو، ۽ شاؤل ياهوه کي سجدو ڪيو.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "۽ موٽيو"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پٺيان"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "۽ سجدو ڪيو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه کي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:10:06.205337060Z",
+  "model": "glm-5.3"
+}

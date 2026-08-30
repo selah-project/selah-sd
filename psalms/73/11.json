@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 73,
+  "translation": "۽ چون ٿا: ايل ڪيئن ڄاڻيندو؟ ۽ ڇا عليون ۾ ڄاڻ ⟨آهي⟩؟",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "۽ چون ٿا"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻيندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "۽ ڇا"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ڄاڻ"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "عليون ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:24.597461162Z",
+  "model": "glm-5.3"
+}

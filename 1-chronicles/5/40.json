@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ عزرياه ⟨את⟩ سراياه کي پيدا ڪيو، ۽ سراياه ⟨את⟩ يهوصادق کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "۽ عزرياه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سراياه"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سراياه"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "۽ سراياه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوصادق"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "يهوصادق"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:49.955404640Z",
+  "model": "glm-5.3"
+}

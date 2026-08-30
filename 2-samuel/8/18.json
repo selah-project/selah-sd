@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 8:18",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ بنياهو پٽ يهويادع جو،۽ ڪرتي ۽ پلتي تي،۽ داوود جا پٽ ڪاهن هئا.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "۽ بنياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "يهويادع"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "۽ ڪرتي"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "۽ پلتي"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هئا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:18:05.669954523Z",
+  "model": "glm-5.3"
+}

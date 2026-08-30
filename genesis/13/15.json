@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ڇوته جيڪي ⟨את⟩ سڀ زمين تون ڏسي رهيو آھين، ان کيءَ تو کيڏندس، ۽ تو جي نسل کي هميشه تائين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ زمين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ڏسي رهيو آھين"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو کي"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ڏندس"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "۽ تو جي نسل کي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:36.454539465Z",
+  "model": "glm-5.3"
+}

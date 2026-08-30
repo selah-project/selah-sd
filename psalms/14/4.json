@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ڇا سڀ اوس جي ڪندڙ نه ڄاڻن — جيڪي منهنجي قوم کي کائين ٿا، ماني وانگر کائين ٿا — ياهوه کي نه سڏيو؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ڇا نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ڄاڻن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "پעלי",
+      "gloss": "ڪندڙ"
+    },
+    {
+      "surface": "און",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "کائڻ وارا"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منهنجي قوم"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "کائين ٿا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "سڏيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:01:28.422508777Z",
+  "model": "glm-5.3"
+}

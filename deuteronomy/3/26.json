@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 3:26",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ ياهوه توهان جي ڪارڻ مون تي ڪاوڙيو ۽ منهنجي نه ٻُڌي؛ ۽ ياهوه مون کي چيو: تو لاءِ بس آهي، هن ڳالھ بابت وڌيڪ مون سان نه ٻول.",
+  "tokens": [
+    {
+      "surface": "ויתעבר",
+      "gloss": "۽ ڪاوڙيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "توهان جي ڪارڻ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻُڌي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "منهنجي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بس"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو لاءِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "وڌ ڪري"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٻول"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مون سان"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ڳالھ بابت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:37:32.373618590Z",
+  "model": "glm-5.3"
+}

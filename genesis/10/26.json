@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ يقطان ⟨את⟩ الموداد ۽ ⟨את⟩ شالف ۽ ⟨את⟩ حصرموت ۽ ⟨את⟩ يرخ کي پيدا ڪيو۔",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "۽ يقطان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الموداد"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "الموداد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "شالف"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "شالف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حصرموت"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "حصرموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "يرخ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "يرخ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:21.192745206Z",
+  "model": "glm-5.3"
+}

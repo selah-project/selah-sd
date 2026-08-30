@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 145,
+  "translation": "مهربان ۽ رحم ڪندڙ آھي ياهوه، ڪاوڙ ۾ سوڍو، ۽ وڏو خيسيد وارو.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "مهربان"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "۽ رحم ڪندڙ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "سوڍو"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ڪاوڙ ۾"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "۽ وڏو"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد وارو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:24:32.496851027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 28:13",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "فاني ماڻهو ان جي قيمت کي نه سڃاڻي، ۽ نه اها زندهن جي زمين ۾ لڀي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "سڃاڻي"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فاني ماڻهو"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "ان جي قيمت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "لڀي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:35.233466241Z",
+  "model": "glm-5.3"
+}

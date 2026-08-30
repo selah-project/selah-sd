@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ مٿس رکيائين ⟨את⟩ سينوپٽي، ۽ سينوپٽيءَ ۾ وڌائين ⟨את⟩ اوريم ۽ ⟨את⟩ تميم.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "۽ رکيائين"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سينوپٽي"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سينوپٽي"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "۽ وڌائين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سينوپٽيءَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوريم"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "اوريم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "تميم"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "تميم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:15:06.235024626Z",
+  "model": "glm-5.3"
+}

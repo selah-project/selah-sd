@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "اسرائيل جي گھر مان ⟨ڪوبه⟩ ماڻھو، جيڪو ڪاڍو يا ٻڪري يا رڇ ڪهي — ڇا ڇانوڻيءَ ۾، يا جيڪو ڇانوڻيءَ کان ٻاھر ڪهي —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨هر⟩ ڪوبه"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "جي گھر مان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ڪهي"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ڪاڍو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ٻڪري"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "עז",
+      "gloss": "رڇ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ڇانوڻيءَ ۾"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ڪهي"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "کان ٻاھر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ڇانوڻيءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:33.910978673Z",
+  "model": "glm-5.3"
+}

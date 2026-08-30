@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ڇو ته نبي به ۽ ڪاهن به پليد ٿي ويا آهن؛ بلڪ منهنجي گهر ۾ ئي م سندن برائي ڏٺي آهي، ياهوه جو فرمودو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ڪاهن"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "پليد ٿي ويا آهن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بلڪ"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "منهنجي گهر ۾"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ڏٺي آهي م"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "سندن برائي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمودو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T12:14:42.848210617Z",
+  "model": "glm-5.3"
+}

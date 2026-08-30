@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ چار وڏا جانور سمنڊ مان مٿي چڙهيا، هڪ ٻئي کان مختلف.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "وڏا"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "مٿي چڙهيا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "سمنڊ"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "مختلف"
+    },
+    {
+      "surface": "דא",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ٻئي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:59:48.128668352Z",
+  "model": "glm-5.3"
+}

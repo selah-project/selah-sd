@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 80,
+  "translation": "تنهنجو هتن تنهنجي ساڄي هٿ جي ماڻهوءَ تي هجي، ان پٽِ آدم تي جنهن کي تو پاڻ لاءِ مضبوط ڪيو.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "هجي"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تنهنجو هٿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تنهنجي ساڄي هٿ جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "مضبوط ڪيو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:15.476369603Z",
+  "model": "glm-5.3"
+}

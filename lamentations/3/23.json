@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "اُهي صبح جو نوان ⟨هونديون آهن⟩؛ تنهنجي ايمانداري وڏي ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "نوان"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "صبح جو"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "تنهنجي ايمانداري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:03.436505041Z",
+  "model": "glm-5.3"
+}

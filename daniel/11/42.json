@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ هو ملڪن تي پنهنجو هattend ڊگهو ڪندو، ۽ متسرايم جي زمين بچڻ واري نه هوندي.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "۽ ڊگهو ڪندو"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "پنهنجو هٿ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ملڪن تي"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "۽ زمين"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "هوندي"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "بچڻ واري"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:26.697574660Z",
+  "model": "glm-5.3"
+}

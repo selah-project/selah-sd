@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 23:34",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ نبي ۽ ڪاھن ۽ ماڻهو جيڪو چوندو «ياهوه جو بار»، تنهن ماڻھو تي ۽ سندس گھر تي مان بازرسي ڪندس.",
+  "tokens": [
+    {
+      "surface": "והנביא",
+      "gloss": "۽ نبي"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "۽ ڪاھن"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "۽ ماڻهو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "چوندو"
+    },
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "۽ مان بازرسي ڪندس"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "تنهن ماڻھو"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "سندس گھر"
+    }
+  ],
+  "timestamp": "2026-08-30T12:14:47.681740546Z",
+  "model": "glm-5.3"
+}

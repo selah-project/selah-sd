@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "اٺين ڏينهن تي منشه جي پٽن جو ناسِيءَ گمليل بن پدهصور",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اٺين"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ناسِيءَ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "جي پٽن جو"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "گمليل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "پده"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:41.359843229Z",
+  "model": "glm-5.3"
+}

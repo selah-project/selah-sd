@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "شمعون قبيلي لاءِ شافاط بن حوري.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبيلي لاءِ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "شافاط"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "حوري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:26:31.098816376Z",
+  "model": "glm-5.3"
+}

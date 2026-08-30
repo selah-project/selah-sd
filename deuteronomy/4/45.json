@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "اهي گواهيون ۽ حڪم ۽ فيصلا، جيڪي موشي بني يسرائيل کي مصر مان نڪرڻ مهل ٻوليا.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواهيون"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "۽ حڪم"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "۽ فيصلا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ٻوليا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل جي"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "نڪرڻ مهل"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مصر مان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:38:07.591156161Z",
+  "model": "glm-5.3"
+}

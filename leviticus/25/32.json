@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 25:32",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ لوييءَ جي شهرن جي بابت، سندن ورثي شهرن جا گھر — هميشه جو موڙڻ جو حق لويين لاءِ رهندو.",
+  "tokens": [
+    {
+      "surface": "וערי",
+      "gloss": "۽ شهرن"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لوييءَ جي"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهرن"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "سندن ورثي"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "موڙڻ جو حق"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه جو"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "رهندو"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "لويين لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:20:56.336133222Z",
+  "model": "glm-5.3"
+}

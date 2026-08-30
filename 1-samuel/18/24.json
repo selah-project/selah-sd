@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ شاول جي ٻانهن کيس ٻڌايو، چوندا، “هن طرح داوود ڳالهايو.”",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "۽ ٻڌايو"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ٻانهن"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول جي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندا"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "هن طرح ڳالهيون"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالهايو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    }
+  ],
+  "timestamp": "2026-08-30T11:11:49.450075487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 28:19",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "سمو لکيل ياهوه جي هٿ کان مون تي آندو؛ هن نموني جي ستن سڀ ڪم سمجهايا.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "سمو"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "لکيل"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "هٿ کان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "השכיל",
+      "gloss": "سمجهايا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "מלאכות",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "התבנית",
+      "gloss": "هن نموني جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:20:07.121568654Z",
+  "model": "glm-5.3"
+}

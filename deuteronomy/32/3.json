@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "ڇوته ته مان ياهوه جو نالو سڏيندس؛ اسان جي ايلوهيم کي وڏائي ڏيو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته ته"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "سڏيندس"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ڏيو"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "وڏائي"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "اسان جي ايلوهيم کي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:47:57.169945424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "روئو، جهڙي ڪنوار، جيڪا پنهنجي ننڍپڻ جي مڙس لاءِ کڙمو ٻڌي ٿي.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "روئو"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "جهڙي ڪنوار"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "ٻڌي ٿي"
+    },
+    {
+      "surface": "שק",
+      "gloss": "کڙمو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مڙس"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "پنهنجي ننڍپڻ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:46:59.644662794Z",
+  "model": "glm-5.3"
+}

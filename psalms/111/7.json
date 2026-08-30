@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 111,
+  "translation": "سندس هٿن جا ڪم سچ ۽ انصاف ⟨آهن⟩؛ سندس سڀ حڪم ڀروسيلائا ⟨آهن⟩.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "سندس هٿن جا"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "۽ انصاف"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ڀروسيلائا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "سندس حڪم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:06.207856515Z",
+  "model": "glm-5.3"
+}

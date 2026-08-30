@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "مان برائي ڪندڙن جي مجلس کي سڳو ڏٺو آھي، ۽ ظالمن سان گڏ نه ويٺو آھيان.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "سڳو ڏٺو آھي"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "مجلس"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "برائي ڪندڙن جي"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "۽ سان گڏ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ظالمن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ويٺو آھيان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:19.985367194Z",
+  "model": "glm-5.3"
+}

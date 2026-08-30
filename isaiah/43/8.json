@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "ڪڍ انهيءَ قوم کي: اندها پر اکيون رکندڙ، ۽ ٻڙڪا پر ڪن رکندڙ.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "ڪڍ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم کي"
+    },
+    {
+      "surface": "עור",
+      "gloss": "اندها"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "۽ اکيون"
+    },
+    {
+      "surface": "יש",
+      "gloss": "رکندڙ آهن"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "۽ ٻڙڪا"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "۽ ڪن"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ان جا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:59:22.017258793Z",
+  "model": "glm-5.3"
+}

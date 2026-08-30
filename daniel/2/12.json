@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 2:12",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ان جي ڪري بادشاھ ڪاوڙ ۽ وڏي غصي سان ڀرجي ويو، ۽ حڪم ڏنو ته بابل جي سڀني عاقلن کي ماريو وڃي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "جي ڪري"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ان"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "בנס",
+      "gloss": "ڪاوڙ"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "۽ غصي"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "להובדה",
+      "gloss": "ماريو وڃي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "عاقلن"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-08-30T15:08:20.176236619Z",
+  "model": "glm-5.3"
+}

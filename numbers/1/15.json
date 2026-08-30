@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "نفتالي جي لاءِ؛ اهيرع، عينان جو پُٽ.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "نفتالي جي لاءِ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اهيرع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عينان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:21:51.781718353Z",
+  "model": "glm-5.3"
+}

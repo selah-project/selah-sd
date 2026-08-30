@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 24:13",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ڏسو، آءٌ پاڻي جي چشمي تي بيٺو آهيان، ۽ شهر جي ماڻهن جون ڌيون پاڻي ڪڍڻ لاءِ نڪرن ٿيون.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "بيٺو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشمي"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻي جي"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "۽ ڌيون"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ماڻهن جون"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر جي"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "نڪرن ٿيون"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "ڪڍڻ لءِ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:45:41.310097631Z",
+  "model": "glm-5.3"
+}

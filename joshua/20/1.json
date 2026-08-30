@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ ياهوه يهوشوع ڏانهن ٻولي، هيءَ ڳالھ چئين:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ٻولي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "هيءَ ڳالھ چئين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:55:23.567793533Z",
+  "model": "glm-5.3"
+}

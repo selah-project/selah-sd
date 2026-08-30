@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 50,
+  "translation": "صھيون کان، حسن جي ڪمال مان، ايلوهيم چمڪيو۔",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "صھيون کان"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "ڪمال"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "حسن جي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "چمڪيو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:28.851784727Z",
+  "model": "glm-5.3"
+}

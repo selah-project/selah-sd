@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "تنهنڪري داوود اُرنان کي مٿي جي جاءِ لاءِ سون جا شڪل ڏنا، وزن ۾ ڇهه سؤ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ڏنا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "اُرنان کي"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "جاءِ لاءِ"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "شڪل"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون جا"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن ۾"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:16:30.970019389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "ته ڪوهين حڪم ڪري ته ⟨את⟩ جنهن ۾ داغ آهي سو ڌوئين، ۽ ان کي ٻيهر ست ڏينهن بند ڪن؛",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "حڪم ڪري"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوهين"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "ڌوئين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جنهن ۾ داغ آهي سو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "بند ڪن"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ٻيهر"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:19.150267526Z",
+  "model": "glm-5.3"
+}

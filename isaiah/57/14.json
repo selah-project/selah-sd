@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 57:14",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 57,
+  "translation": "۽ چيو ويندو: ٿاھو ٿاھو، رستو تيار ڪريو، منھنجي قوم جي رستي مان رنڊڪو ڪڍو.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "۽ چيو ويندو"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "ٿاھو"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "ٿاھو"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "تيار ڪريو"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستو"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "ڪڍو"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "رنڊڪو"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "رستي مان"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "منھنجي قوم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:04:16.979110262Z",
+  "model": "glm-5.3"
+}

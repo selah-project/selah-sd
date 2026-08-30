@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "اُڻويهون پتَحيا لاءِ، ويهون يِحِزقيل لاءِ۔",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "پتَحيا لاءِ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "اُڻويهون"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-يهون"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "يِحِزقيل لاءِ"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "ويهون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:17:57.677162128Z",
+  "model": "glm-5.3"
+}

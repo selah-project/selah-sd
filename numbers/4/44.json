@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ سندن ڳڻپ وارا سندن خاندانن موجب ٽي ھزار ۽ ٻه سؤ ٿيا.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "۽ ٿيا"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "سندن ڳڻپ وارا"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "سندن خاندانن موجب"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "۽ ٻه سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:23:20.847131776Z",
+  "model": "glm-5.3"
+}

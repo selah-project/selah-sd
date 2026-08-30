@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "ياردن جي اُر پار، مُوآب جي زمين ۾، موشي ⟨את⟩ هي توريت بيان ڪرڻ جي شروعات ڪئي، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "جي اُر پار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ياردن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "جي زمين ۾"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "شروعات ڪئي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بيان ڪرڻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي توريت"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "هي توريت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:36:34.730825807Z",
+  "model": "glm-5.3"
+}

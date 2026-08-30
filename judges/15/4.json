@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 15:4",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ شمشون ويو ۽ ٽي سئو گيدڙ پڪڙيائين، ۽ مشالون کنيائين، ۽ پُڇ کي پُڇ سان ڦيرائيائين، ۽ هڪ مشال ٻن پُڇن جي وچ ۾ رکيائين.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "۽ ويو"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شمشون"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "پڪڙيائين"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سئو"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "گيدڙ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "کنيائين"
+    },
+    {
+      "surface": "לפדים",
+      "gloss": "مشالون"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "ڦيرائيائين"
+    },
+    {
+      "surface": "זנב",
+      "gloss": "پُڇ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "זנב",
+      "gloss": "پُڇ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "رکيائين"
+    },
+    {
+      "surface": "לפיד",
+      "gloss": "مشال"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "הזנבות",
+      "gloss": "پُڇن"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وچ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:03:00.885129394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 85,
+  "translation": "تو پنهنجي زمين تي رضا ڪئي، اي ياهوه؛ تو يعقوب جي گِهر واپسي موڙي.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "رضا ڪئي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "پنهنجي زمين"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "موڙي"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "گهر واپسي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:45.224779952Z",
+  "model": "glm-5.3"
+}

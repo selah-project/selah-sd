@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ⟨את⟩ شافان، ڇوڪِه اُهو گراھ مٿي ڪري ٿو پر پَرَسَه ٽَڪِي نه ٿو؛ اُهو توهان لاءِ نجِس آهي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "شافان"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "شافان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪِه"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "مٿي ڪري ٿو"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گراھ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "پَرَسَه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "ٽَڪِي ٿو"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجِس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:45.600923770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "ڇاڪاڻ ته هو ماڻهوءَ تي وڌيڪ بوجھ نٿو رکي، ته هو ايل جي اڳيان فيصلي ۾ وڃي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نٿو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "رکي ٿو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "لِوڃڻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "فيصلي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:42:46.018690833Z",
+  "model": "glm-5.3"
+}

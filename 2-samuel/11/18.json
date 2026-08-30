@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ته يوآب موڪليو ۽ داوود کي ⟨את⟩ لڙائيءَ جا سڀ لفظ ٻڌايا.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "موڪليو"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "۽ ٻڌايا"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوود کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "لڙائيءَ جا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:19:49.314107412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ڇوته توهان جون اکيون ⟨את⟩ سڀ ڪم ياهوه جو، مها ڪم، ڏٺا جيڪي ڪيائين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "توهان جون اکيون"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ڏٺا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ ڪم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جو"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "مها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:06.820752112Z",
+  "model": "glm-5.3"
+}

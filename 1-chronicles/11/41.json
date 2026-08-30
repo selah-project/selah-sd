@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "اوريا الحطي، زبد پٽ اَخلاي جو،",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "اوريا"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "الحطي"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زبد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "اَخلاي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:55.106617878Z",
+  "model": "glm-5.3"
+}

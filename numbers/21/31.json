@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ اسرائيل اِمورين جي زمين ۾ رهيو.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "۽ رهيو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "هאמרי",
+      "gloss": "اِمورين جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:23.860807067Z",
+  "model": "glm-5.3"
+}

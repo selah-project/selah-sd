@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 21:41",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "لاوين جون سڀيئي شهر، بني اسرائيل جي قبضي ۾، ٻٽاليھ شهر ۽ انهن جا مگرشاھ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀيئي"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوين جون"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "۾"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "قبضي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليھ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "ומגרשיהן",
+      "gloss": "۽ انهن جا مگرشاھ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:55:23.625186765Z",
+  "model": "glm-5.3"
+}

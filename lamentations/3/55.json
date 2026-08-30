@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "مان تو جو نالو سڏيو، اي ياهوه، سڀ کان هيٺين کُڏ مان.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "مان سڏيو"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تو جو نالو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "کُڏ مان"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "سڀ کان هيٺين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:29.347160791Z",
+  "model": "glm-5.3"
+}

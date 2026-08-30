@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "يهوداه جا پٽ عير ۽ اونان هئا، ۽ عير ۽ اونان ڪنعان جي زمين ۾ مري ويا۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه جا"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عير"
+    },
+    {
+      "surface": "وאונן",
+      "gloss": "۽ اونان"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "۽ مري ويا"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عير"
+    },
+    {
+      "surface": "ו אונן",
+      "gloss": "۽ اونان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:43.889636736Z",
+  "model": "glm-5.3"
+}

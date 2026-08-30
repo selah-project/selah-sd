@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "تنهنجي ياهوه ايلوهيم ائين فرمائيو ٿو: چارا ⟨את⟩ ذبح ڪيل ٻڪرين جو.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ائين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرمائيو ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "چارا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذبح ڪيل ٻڪرين"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ٻڪرين"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "ذبح ڪيل"
+    }
+  ],
+  "timestamp": "2026-08-30T12:57:26.950313608Z",
+  "model": "glm-5.3"
+}

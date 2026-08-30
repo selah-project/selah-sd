@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 41:19",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 41,
+  "translation": "هو لوھ کي ڪُٺ ڄاڻي ٿو ۽ پيتي کي ڪوڙجي ڪاٺ.",
+  "tokens": [
+    {
+      "surface": "יחשב",
+      "gloss": "ڄاڻي ٿو"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "ڪُٺ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوھ"
+    },
+    {
+      "surface": "لעץ",
+      "gloss": "ڪاٺ"
+    },
+    {
+      "surface": "רקבון",
+      "gloss": "ڪوڙجي"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "پيتي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:45:32.588085285Z",
+  "model": "glm-5.3"
+}

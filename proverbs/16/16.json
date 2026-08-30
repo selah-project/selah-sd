@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 16:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "حڪمت حاصل ڪرڻ ڪيتري سون کان سٺي آهي! ۽ سمجهه حاصل ڪرڻ چانديءَ کان چونڊيل آهي.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "حاصل ڪرڻ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڪيتري"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "سٺي"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "کان سون"
+    },
+    {
+      "surface": "וקנות",
+      "gloss": "۽ حاصل ڪرڻ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجهه"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "چونڊيل"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "چانديءَ کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:16.597655585Z",
+  "model": "glm-5.3"
+}

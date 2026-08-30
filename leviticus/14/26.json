@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ڪوهن تيل مان پاڻ جي کاٻي هٿ جي ٿلهي تي ڪڍندو.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ مان"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تيل"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ڪڍندو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوهن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ٿلهي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪوهن جي"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "کاٻي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:16:52.308250524Z",
+  "model": "glm-5.3"
+}

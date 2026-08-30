@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ان کي تنهنجين اکين کان ٽڙڻ نه ڏي؛ کين تنهنجي دل جي وچ ۾ رک.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "ٽڙن"
+    },
+    {
+      "surface": "مעיניך",
+      "gloss": "تنهنجين اکين کان"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "کين رک"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "تنهنجي دل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:56.562786697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 31:36",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "۽ اها اڌ ڀاڱي — جيڪي لڙائيءَ ۾ ويلن جو حصو هئي — ميڻن جو انگ: ٽي سئو هزار ۽ ٽيھ هزار ۽ ست هزار ۽ پنج سئو.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "۽ هئي"
+    },
+    {
+      "surface": "המחצה",
+      "gloss": "اها اڌ ڀاڱي"
+    },
+    {
+      "surface": "חלک",
+      "gloss": "حصو"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "ويلن جي"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "لڙائيءَ ۾"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "انگ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ميڻن جو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سئو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "۽ ٽيھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سئو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:40:50.609856035Z",
+  "model": "glm-5.3"
+}

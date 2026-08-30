@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "مورڪ جي وات ۾ گهمنڊ جو ڏنڊو آهي، پر ڄاڻن جون چونڙيون ⟨انهن کي⟩ بچائين ٿيون.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "۾ وات"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "جي مورڪ"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "ڏنڊو"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "گهمنڊ جو"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "پر چونڙيون"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ڄاڻن جون"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "بچائين ٿيون"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:31.941382034Z",
+  "model": "glm-5.3"
+}

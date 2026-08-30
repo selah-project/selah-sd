@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 16:13",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ آسا پنهنجن آبن سان سُتو، ۽ پنهنجي بادشاهيءَ جي چاليهين ۽ پهرين سال ۾ مُئو.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "سُتو"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "پنهنجن آبن"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "۽ مُئو"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "۾ سال"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليهين"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "۽ پهرين"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "پنهنجي بادشاهيءَ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:24:22.159909603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "هن منھنجا رستا تراشيل پٿرن سان بند ڪيا، منھنجا واٽ ڏنگا ڪيائين.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "بند ڪيائين"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "منھنجا رستا"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "تراشيل پٿرن سان"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "منھنجا واٽ"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "ڏنگا ڪيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:48:51.549207931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "پر آءٌ شداي ڏانهن ڳالهائيندس ۽ ايل سان دليل ڏيڻ چاهيان ٿو.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شداي"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ڳالهائيندس"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "۽ دليل ڏيندس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "چاهيان ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:37:18.934246972Z",
+  "model": "glm-5.3"
+}

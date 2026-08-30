@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 27:18",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ ياهوه موشي کي چيو: تون پاڻ لاءِ ⟨את⟩ يهوشوع، نون جي پُٽ کي کڻ — هڪ اهڙو ماڻهو جنه ۾ روح آهي — ۽ پنھنجو هٿ ⟨את⟩ مٿس رک.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "קח",
+      "gloss": "کڻ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوشوع، نون جي پُٽ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "בו",
+      "gloss": "منه ۾"
+    },
+    {
+      "surface": "וסמכת",
+      "gloss": "۽ رک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجو هٿ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "پنھنجو هٿ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿس"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:33.889024607Z",
+  "model": "glm-5.3"
+}

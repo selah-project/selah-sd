@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ اسرائيل موڪليو قاصد سيحون ڏانھن، امورين جي بادشاھ ڏانھن، چوڻ لاءِ:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "۽ موڪليو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "قاصد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سيحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "امورين جي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:55.507126302Z",
+  "model": "glm-5.3"
+}

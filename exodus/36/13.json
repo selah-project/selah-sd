@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 36:13",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ هن پنجاهه سونهن جا ڪڙا ٺاهيا، ۽ ⟨את⟩ پردن کي هڪ ٻئي سان ڪڙن ۾ جوڙيائين، ۽ مسڪن هڪ ٿي ويو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ٺاهيائين"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاهه"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ڪڙا"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونهن"
+    },
+    {
+      "surface": "ויחבר",
+      "gloss": "۽ جوڙيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردن کي"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردن"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ٻئي"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "ڪڙن ۾"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿي ويو"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسڪن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:10:39.383568870Z",
+  "model": "glm-5.3"
+}

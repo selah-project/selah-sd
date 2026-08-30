@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ ڪنعان ⟨את‬ صيدون پنهنجي پهرين پٽ کي ۽ ⟨את‬ حث کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "۽ ڪنعان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صيدون"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "صيدون"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "پنهنجو پهريون پٽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "حث"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حث"
+    }
+  ],
+  "timestamp": "2026-08-30T09:41:19.458143462Z",
+  "model": "glm-5.3"
+}

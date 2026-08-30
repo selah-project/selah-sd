@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ٿيو ته سڄي زمين ⟨هئي⟩ هڪ ٻولي ۽ لفظ هڪجهڙا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ٻولي"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "۽ لفظ"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "هڪجهڙا"
+    }
+  ],
+  "timestamp": "2026-08-30T09:42:27.302817393Z",
+  "model": "glm-5.3"
+}

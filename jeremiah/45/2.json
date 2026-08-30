@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "ڪو آھي ياهوه، يسرائيل جو ايلوهيم، تنهنجي باري ۾، اي باروخ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ڪو آھي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تنهنجي باري ۾"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    }
+  ],
+  "timestamp": "2026-08-30T12:22:32.980040197Z",
+  "model": "glm-5.3"
+}

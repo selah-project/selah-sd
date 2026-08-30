@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "جوڏاريءَ کي زنده نه رهندين.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "جوڏاريءَ کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "زنده رهندين"
+    }
+  ],
+  "timestamp": "2026-08-30T10:04:42.726688391Z",
+  "model": "glm-5.3"
+}

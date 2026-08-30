@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "سچ جي چولاڳي هميشہ لاءِ قائم رھي ٿي؛ پر ڪوڙ جي زبان رڳو ھڪ لمحي تائين.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "چولاڳي"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "قائم رھي ٿي"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "هميشہ لاءِ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "پر تائين"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "ھڪ لمحو"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:08.880690621Z",
+  "model": "glm-5.3"
+}

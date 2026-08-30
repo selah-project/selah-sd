@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ جنهن کي کنڀڙيا ۽ چُنڊيون ناهن، سو نه کائو؛ اُهو توهان لاءِ ناپاڪ آهي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ جيڪو به"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناهن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کي"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "کنڀڙيا"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "۽ چُنڊيون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائو"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاڪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُهو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:40:39.394497949Z",
+  "model": "glm-5.3"
+}

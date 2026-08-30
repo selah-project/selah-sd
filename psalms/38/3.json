@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "ڇوته تير مون ۾ اتريا آهن، ۽ تون پنهنجو هٿ مون تي لاٿو آهي۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "تير"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "اتريا آهن"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مون ۾"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "۽ لاٿو آهي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "پنهنجو هٿ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:05:42.265227988Z",
+  "model": "glm-5.3"
+}

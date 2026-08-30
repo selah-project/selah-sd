@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "“خراب آهي، خراب آهي” چوي ٿو خريدار، پر جڏهن ⟨هو⟩ وڃي ٿو، تڏهن فخر ٿو ڪري.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "خراب"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراب"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "خريدار"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "وڃي ٿو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "تڏهن"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "فخر ٿو ڪري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:24.458513881Z",
+  "model": "glm-5.3"
+}

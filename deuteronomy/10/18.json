@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "يتيم ۽ بيواهه لاءِ انصاف ڪري ٿو، ۽ پرديسي کي پيار ڪري ٿو، کيس ماني ۽ ڪپڙو ڏيڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ڪري ٿو"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "يتيم"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "۽ بيواهه"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "۽ پيار ڪري ٿو"
+    },
+    {
+      "surface": "גר",
+      "gloss": "پرديسي"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ڏيڻ لاءِ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "۽ ڪپڙو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:39:16.031198908Z",
+  "model": "glm-5.3"
+}

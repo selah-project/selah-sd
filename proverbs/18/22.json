@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "جو زال ڏسي تنهن ڀلو شيءِ ڏسي، ۽ ياهوه کان رضامندي حاصل ڪري.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "ڏسي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ڏسي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ڀلو شيءِ"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "۽ حاصل ڪري"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضامندي"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ياهوه کان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:57.625029236Z",
+  "model": "glm-5.3"
+}

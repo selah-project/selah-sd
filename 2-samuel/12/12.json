@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "ڇو ته تون لڪائي ۾ ڪيو؛ پر آءٌ هيءَ ڳالھ ⟨את⟩ سڄي اسرائيل جي اڳيان ۽ سج جي اڳيان ڪندس.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "لڪائي ۾"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "پر آءٌ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ڪندس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڳالھ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هيءَ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "اڳيان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "۽ اڳيان"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سج جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:20:39.878242243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ موشي اڪيلو ياهوه وٽ ويندو؛ ۽ اُهي ويجها نه ٿيندا، ۽ قوم سندس ساڻ چڙهي نه سگهندو.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "۽ ويندو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "اڪيلو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وٽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "והם",
+      "gloss": "۽ اُهي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "ويجها ٿيندا"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "۽ قوم"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "چڙهي سگهندو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس ساڻ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:36:31.141071186Z",
+  "model": "glm-5.3"
+}

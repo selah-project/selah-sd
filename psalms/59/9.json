@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 59,
+  "translation": "۽ تون، ياهوه، انهن تي کلندين؛ سڀني قومن تي ٺٺوليون ڪندين.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "۽ تون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "کلندين"
+    },
+    {
+      "surface": "למו",
+      "gloss": "انهن تي"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "ٺٺوليون ڪندين"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:08:59.150686637Z",
+  "model": "glm-5.3"
+}

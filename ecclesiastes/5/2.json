@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ڇوته خواب گھڻن مشغولين ۾ اچي ٿو، ۽ بيوقوف جو آواز گھڻن لفظن ۾.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "گھڻن ۾"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "مشغولين"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "۽ آواز"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "بيوقوف جو"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "گھڻن ۾"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "لفظن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:52.771422813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "جيڪو چڱائيءَ جي بدلي ۾ بدي موٽائي ٿو، بدي سندس گهر مان هٽندي نه.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "موٽائي ٿو"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلي ۾"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چڱائيءَ جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "هٽندي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدي"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "سندس گهر مان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:14.011010790Z",
+  "model": "glm-5.3"
+}

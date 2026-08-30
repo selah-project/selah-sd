@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "چڱو آهي ته ماڻهو اميد رکي ۽ چپ چاپ ياهوه جي نجات جو انتظار ڪري.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "اميد رکي"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "چپ چاپ"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "نجات جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:49:21.219335501Z",
+  "model": "glm-5.3"
+}

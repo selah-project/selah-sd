@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "حارم جو عدنا؛ مرايوت جو حَلقي.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "حارم جو"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "عدنا"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "مرايوت جو"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "حَلقي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:12.626442572Z",
+  "model": "glm-5.3"
+}

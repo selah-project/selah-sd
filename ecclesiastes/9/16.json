@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ آءٌ چوان ته حكمت طاقت کان چڱي آهي؛ پر غريب جي حكمت حقير ڪئي وئي آهي، ۽ سندس لفظ نه ٻڌا وڃن ٿا.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "۽ مون چيو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چڱي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمت"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "طاقت کان"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "۽ حكمت"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "غريب جي"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "حقير ڪئي وئي آهي"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "۽ سندس لفظ"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "نه آهن"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "ٻڌا وڃن ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:33.630328684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ان کان پوءِ کيس معاخه وٺي ⟨את⟩ — ابشالوم جي ڌيءُ — ۽ ان کي ابيّا کي ⟨את⟩ جنم ڏنائين ۽ عتّاي ۽ زيزا ۽ شلوميت کي.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "ان کان پوءِ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "وٺي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "معاخه"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معاخه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ڌيءُ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ابشالوم"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "جنم ڏنائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابيّا"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابيّا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عتّاي"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "عتّاي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "زيزا"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "زيزا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شلوميت"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "شلوميت"
+    }
+  ],
+  "timestamp": "2026-08-30T14:23:27.582183053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "سندس سڀ ڏينهن به اونداهي ۾ کائيندو رهندو، ۽ گهڻو ڏک ۽ بيماري ۽ ڪوڏ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "سندس ڏينهن"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "اونداهي ۾"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائيندو رهندو"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "۽ ڏک"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "گهڻو"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "۽ بيماري"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "۽ ڪوڏ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:15.602250067Z",
+  "model": "glm-5.3"
+}

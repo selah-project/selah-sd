@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 16:4",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ يوسف جي پٽن — منشه ۽ افرايم — پنهنجو ورثو ورتو.",
+  "tokens": [
+    {
+      "surface": "וינחלו",
+      "gloss": "ورثو ورتو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف جي"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "۽ افرايم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:04.260657029Z",
+  "model": "glm-5.3"
+}

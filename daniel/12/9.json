@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ چيائين: وڃ دانيال، ڇو ته بند ڪيل ۽ مھر ٿيل آھن اھي لفظ، وقتِ انجام کان اڳي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ويندين"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانيال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "بند ڪيل"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "۽ مھر ٿيل"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "اهي لفظ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "کان اڳي"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "انجام"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:24.287806494Z",
+  "model": "glm-5.3"
+}

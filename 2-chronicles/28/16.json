@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ان وقت بادشاهه آحز آشور جي بادشاهن ڏانهن پنهنجي لاءِ مدد گهرڻ لاءِ موڪليو.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ان وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ان (ءِ)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "موڪليو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آحز"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاهن"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور جي"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "مدد لاءِ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پنهنجي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:28:11.936507782Z",
+  "model": "glm-5.3"
+}

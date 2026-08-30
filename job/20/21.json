@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "سندس کاڌي جو ڪوبه بچيل ناھي؛ تنھنڪري سندس ڀلائي ⟨نہ⟩ قائم رھندي.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ناھي"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "بچيل"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "سندس کاڌي جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنھن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ڪري"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "قائم رھندي"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "سندس ڀلائي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:05:55.123023254Z",
+  "model": "glm-5.3"
+}

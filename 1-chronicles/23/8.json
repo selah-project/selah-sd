@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "لعدان جا پُٽ: سردار يحي ايل ۽ زتام ۽ يو ايل — ٽي.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "لعدان جا"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "يحي ايل"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "۽ زتام"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "۽ يو ايل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ٽي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:08.769402398Z",
+  "model": "glm-5.3"
+}

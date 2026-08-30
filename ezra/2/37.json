@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "ايمر جا پُٽ، ھڪ ھزار ٻاوڻ ۽ اڪتاليھ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ايمر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھڪ ھزار"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ٻاوڻ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "۽ اڪتاليھ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:01:58.348362571Z",
+  "model": "glm-5.3"
+}

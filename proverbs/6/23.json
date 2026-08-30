@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇوته حڪم هڪ چراغ ⟨آھي⟩ ۽ تورات روشني، ۽ زندگيءَ جو رستو تنبيھن ۽ تاديب جا آھن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נר",
+      "gloss": "چراغ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "۽ تورات"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشني"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "۽ رستو"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگيءَ جو"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "تنبيھن"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تاديب"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:30.250101010Z",
+  "model": "glm-5.3"
+}

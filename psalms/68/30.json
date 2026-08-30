@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 68,
+  "translation": "تنهنجي هيڪل مان، يروشلم جي مٿان، بادشاهه توکي تحفا آڻيندا.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "تنهنجي هيڪل مان"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي مٿان"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "آڻيندا"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "שי",
+      "gloss": "تحفا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:10:55.317965959Z",
+  "model": "glm-5.3"
+}

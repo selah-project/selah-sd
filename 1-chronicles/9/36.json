@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ سندس پھريون پُٽ عبدون، ۽ صُور، ۽ قيش، ۽ بععل، ۽ نير، ۽ ناداب۔",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "۽ سندس پُٽ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "پھريون"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عبدون"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "۽ صور"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "۽ قيش"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "۽ بععل"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "۽ نير"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "۽ ناداب"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:31.910166631Z",
+  "model": "glm-5.3"
+}

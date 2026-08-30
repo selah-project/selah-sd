@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 12:38",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ يردن جي اُڙي پار مان، رائوبينين ۽ گاديين ۽ منشي قبيلي جي اڌ مان، جنگ جي لشڪر جي سڀ سازوسامان سان، ھڪ سؤ ويھ ھزار.",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "۽ اُڙي پار مان"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "يردن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "رائوبيني"
+    },
+    {
+      "surface": "והגדי",
+      "gloss": "۽ گادي"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "۽ اڌ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "قبيلو"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "سازوسامان"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ھڪ سؤ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "۽ ويھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:34.652332019Z",
+  "model": "glm-5.3"
+}

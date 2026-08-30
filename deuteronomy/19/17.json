@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 19:17",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ تہ ٻيہ مرد جنهن جو تہ تنھن وچ ۾ جهيڙو آھي، ياهوه جي اڳيان بيهن؛ ڪھنين ۽ قاضين جي اڳيان جيڪي ⟨انھن⟩ ڏينھن ۾ هوندا.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "۽ بيهن"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻيہ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "تنھن وچ ۾"
+    },
+    {
+      "surface": "הריב",
+      "gloss": "جهيڙو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪھنين"
+    },
+    {
+      "surface": "והשפטים",
+      "gloss": "۽ قاضين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "هوندا"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ڏينھن ۾"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "انھن"
+    }
+  ],
+  "timestamp": "2026-08-30T10:42:44.442955695Z",
+  "model": "glm-5.3"
+}

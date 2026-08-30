@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "سرون جي سڀ ڳڻپ، پيءُ مٿان جي، بهادرن لاءِ، ٻه هزار ۽ ڇهه سؤ هئي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳڻپ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سرون"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "پيءُ مٿان جي"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "بهادرن لاءِ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "طاقت جي"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ٻه هزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "۽ ڇهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:28:13.701051583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 119,
+  "translation": "ھائڻ، بي انصافي ڪئي ئي ناھين، سندس رستن ۾ ھليا آھن.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ھائڻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ڪئي"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "بي انصافي"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "سندس رستن ۾"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ھليا آھن"
+    }
+  ],
+  "timestamp": "2026-08-30T13:20:16.038219865Z",
+  "model": "glm-5.3"
+}

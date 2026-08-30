@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ اھو ڳالھ ادوناي جي نظرن ۾ چڱو ٿيو، ڇوته شلومو اھو ڳالھ سُڳڻو ھو.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "۽ چڱو ٿيو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اهو ڳالھ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي نظرن ۾"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "سُڳڻو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اهو ڳالھ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اهو ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:27:36.862504881Z",
+  "model": "glm-5.3"
+}

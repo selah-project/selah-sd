@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "ڪاهنن مان: يَدايا يوياريب جو پُٽ، يَڪين.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاهنن"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "يَدايا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "يوياريب"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "يَڪين"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:11.058533974Z",
+  "model": "glm-5.3"
+}

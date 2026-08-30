@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ کيس ⟨אתו⟩ ايلوهيم جي روح سان ڀريو — حڪمت ۾، سمجهه ۾، ڄاڻ ۾ ۽ سڀ ڪم ۾.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "۽ ڀريو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "کيس"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم جي"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "حڪمت ۾"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "سمجهه ۾"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "۽ ڄاڻ ۾"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ڪم ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:09:52.940328411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "ياهوه انهن لاءِ طاقت آهي، ۽ پنهنجي مشيح لاءِ نجاتن جو ٻڙھ هو ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "למו",
+      "gloss": "انهن لاءِ"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "۽ ٻڙھ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "نجتن جو"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "پنهنجي مشيح"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:25.095089553Z",
+  "model": "glm-5.3"
+}

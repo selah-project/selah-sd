@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ سڀ دروازا ۽ چوڪاٽ چورس ھئا ⟨ٻَڌَل⟩؛ ۽ منھن مُقابِل منھن جي، ٽي ڀيرا.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "دروازا"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "۽ چوڪاٽ"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "چورس"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "⟨ٻَڌَل⟩"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "۽ مُقابِل"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "منھن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "جي"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "منھن"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ٽي"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ڀيرا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:29:49.019635512Z",
+  "model": "glm-5.3"
+}

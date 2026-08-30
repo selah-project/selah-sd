@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ يسرائيل شطيم ۾ رهيو، ۽ قوم مواب جي ڌيين ڏانهن زنا ڪرڻ شروع ڪيو.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "۽ رهيو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "شطيم ۾"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "۽ شروع ڪيو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "زنا ڪرڻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ڌيين"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مواب جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:48.730159834Z",
+  "model": "glm-5.3"
+}

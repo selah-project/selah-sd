@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ اِھي ئي عيسو جا اولاد آھن؛ ھو ئي ادم آھي.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اِھي ئي"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "اولاد"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ھو ئي"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادم"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:18.748586584Z",
+  "model": "glm-5.3"
+}

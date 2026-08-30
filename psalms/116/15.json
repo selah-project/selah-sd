@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 116,
+  "translation": "ياهوه جي نظرن ۾ قيمتي آهي سندس خيسيدن جي موت.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "قيمتي"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي نظرن ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "موت"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "سندس خيسيدن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:03:45.275308428Z",
+  "model": "glm-5.3"
+}

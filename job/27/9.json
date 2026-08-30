@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "ڇا ايل سندس پڪار ٻڌندو، جڏهن تنگي مٿس اچي؟",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "سندس پڪار"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ٻڌندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جڏهن"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "اچي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:40:28.562611415Z",
+  "model": "glm-5.3"
+}

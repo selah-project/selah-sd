@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ يويارب جي متني؛ يدعيا جي عُزي؛",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "۽ يويارب جي"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "متني"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "يدعيا جي"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:09:29.959761952Z",
+  "model": "glm-5.3"
+}

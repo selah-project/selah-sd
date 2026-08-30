@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ بَرَڪِياهو ۽ ايلقاناه صندوق لاءِ دروان هُئا.",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "۽ بَرَڪِياهو"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "۽ ايلقاناه"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دروان"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "صندوق لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:33.706027937Z",
+  "model": "glm-5.3"
+}

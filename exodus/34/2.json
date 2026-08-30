@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ صبح جو تيار رهه، ۽ صبح جو سينا جبل تي چڙهه، ۽ اتي مون لاءِ جبل جي چوٽيءَ تي بيٺو رهه.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "۽ رهج"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "تيار"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "صبح جو"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "۽ تو چڙهندين"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح ۾"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سينا"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "۽ تو بيٺي رهندين"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون لاءِ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "چوٽيءَ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "جبل جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:08:54.793635756Z",
+  "model": "glm-5.3"
+}

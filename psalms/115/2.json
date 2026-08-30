@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 115,
+  "translation": "ڇو چوندا قومون، ”ڪٿي آهن هاڻي سندن ايلوهيم؟“",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "چوندا"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومون"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ڪٿي"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "سندن ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:22.290946719Z",
+  "model": "glm-5.3"
+}

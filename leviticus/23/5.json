@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "پھرئين مهيني ۾، مهيني جي چوڏهين ڏينهن، شام جي وچ ۾، ياهوه لاءِ فصح ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "پھرئين مهيني ۾"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پھرئين"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "چوڏھين"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ڏھن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني جي"
+    },
+    {
+      "surface": "בין",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "شام جي"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "فصح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:59.615397374Z",
+  "model": "glm-5.3"
+}

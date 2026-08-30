@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "هر هوشيار علم سان ڪم ڪري ٿو؛ پر احمق پن جي بيوقفي کي پکيڙي ٿو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "هوشيار"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪم ڪري ٿو"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "علم سان"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "پر احمق"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "پکيڙي ٿو"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "بيوقفي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:17.103400860Z",
+  "model": "glm-5.3"
+}

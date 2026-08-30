@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ مورتيون مڪمل طور مٽي وينديون.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "۽ مورتيون"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "مڪمل طور"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "مٽي وينديون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:47:06.860060494Z",
+  "model": "glm-5.3"
+}

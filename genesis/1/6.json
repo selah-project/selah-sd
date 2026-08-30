@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ ايلوهيم چيو: ٿئي فضا پاڻين جي وچ ۾، ۽ اها ⟨את⟩ پاڻيءَ کان پاڻيءَ کي الڳ ڪري۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ٿئي"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "فضا"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻين"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ اها ٿئي"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "الڳ ڪري"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچ ۾"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ"
+    },
+    {
+      "surface": "למים",
+      "gloss": "کان پاڻيءَ کي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:33:07.346377046Z",
+  "model": "glm-5.3"
+}

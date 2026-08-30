@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 64,
+  "translation": "نيک ماڻهو ياهوه ۾ خوش ٿيندو ۽ ان ۾ پناهه وٺندو، ۽ سڀ سڌري دل وارا فخر ڪندا.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ٿيندو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نيک ماڻهو"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه ۾"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "۽ پناهه وٺندو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "ויתהללو",
+      "gloss": "۽ فخر ڪندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "سڌرا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:09:04.312293239Z",
+  "model": "glm-5.3"
+}

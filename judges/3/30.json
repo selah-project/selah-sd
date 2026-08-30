@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 3:30",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ موآب ان ڏينهن اسرائيل جي هٿ هيٺ جهڪي ويو، ۽ ملڪ اَسي سال آرام ۾ رهيو.",
+  "tokens": [
+    {
+      "surface": "ותכנע",
+      "gloss": "۽ جهڪي ويو"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينهن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "انهيءَ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "۽ آرام ۾ رهيو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملڪ"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "اَسي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-30T10:58:19.863754832Z",
+  "model": "glm-5.3"
+}

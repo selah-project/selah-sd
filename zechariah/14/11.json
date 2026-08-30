@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ ماڻهو ان ۾ وسندا، ۽ بربادي وڌيڪ نه هوندي، ۽ يروشلم امن سان وسندي.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "۽ وسندا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "۽ بربادي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هوندي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "۽ وسندي"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "امن سان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:58:20.953135814Z",
+  "model": "glm-5.3"
+}

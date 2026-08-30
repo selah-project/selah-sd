@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ اسرائيل مان ھڪ لک بھادر جنگي مڙس پڻ ڪريا اٿس، ھڪ سؤ کنڊڙ چانديءَ سان.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "ڪريا اٿس"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "اسرائيل مان"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ھڪ سؤ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "لک"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بھادر"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جنگي مڙس"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "ھڪ سؤ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کنڊڙ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چانديءَ سان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:28:16.033774233Z",
+  "model": "glm-5.3"
+}

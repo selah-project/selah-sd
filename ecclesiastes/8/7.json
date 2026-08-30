@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ڇوته ⟨هو⟩ اهو نه ڄاڻي ٿو جيڪو ٿيندو، ڇوته جيئن ٿيندو ته ان کي ڪير ٻُڌائي؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نه… هو"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ڄاڻي ٿو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "اهو جيڪو"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ڪير"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ٻُڌائي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:53.286577660Z",
+  "model": "glm-5.3"
+}

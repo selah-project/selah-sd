@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 8:39",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ سندس ڀاءُ عيشق جا پٽ ھيا: اولام سندس پھريون پٽ، يعوش ٻيو ۽ اليپلت ٽيون.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "عيشق"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "سندس ڀاءُ"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "اولا"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "سندس پھريون پٽ"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "يعوش"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "۽ اليپلت"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ٽيون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:13:55.246074541Z",
+  "model": "glm-5.3"
+}

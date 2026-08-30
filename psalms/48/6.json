@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "هنن ⟨اھو⟩ ڏٺو، تڏهن حيرت ۾ آيا؛ ⟨هو⟩ ڊڄي ويا، تڙتڙائي ڀڄي ويا.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "هنن"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تڏهن"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "حيرت ۾ آيا"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ڊڄي ويا"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "تڙتڙائي ڀڄي ويا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:06.803670824Z",
+  "model": "glm-5.3"
+}

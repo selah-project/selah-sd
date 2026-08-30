@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ چيائين: مبارڪ آهي ياهوه، شيم جو ايلوهيم؛ ۽ ڪنعان ٻانهن ٿيندو تنهن جي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مبارڪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "جي ايلوهيم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شيم"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيندو"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ڪنعان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ٻانهن"
+    },
+    {
+      "surface": "למו",
+      "gloss": "تنهن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:12.741172416Z",
+  "model": "glm-5.3"
+}

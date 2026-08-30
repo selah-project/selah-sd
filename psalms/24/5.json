@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "ياهوه ⟨את⟩ وٽان برکتَ کڻندو، ۽ پنهنجي نجات جي ايلوهيم وٽان صداقت.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "کڻندو"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "برکتَ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "۽ صداقت"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "جي ايلوهيم وٽان"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "پنهنجي نجات"
+    }
+  ],
+  "timestamp": "2026-08-30T13:03:19.819161486Z",
+  "model": "glm-5.3"
+}

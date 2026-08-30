@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "سندس پير موت ڏانهن لهن ٿا؛ سندس قدم شيول کي پڪ جهلين ٿا.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "سندس پير"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "لهن ٿا"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "سندس قدم"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "پڪ جهلين ٿا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:42.341278276Z",
+  "model": "glm-5.3"
+}

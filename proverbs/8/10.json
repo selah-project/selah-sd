@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "منهنجو ادب وٺو ۽ چاندي نه، ۽ چونڊيل سون کان وڌِيڪ ڄاڻ.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "وٺو"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "منهنجو ادب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "۽ ڄاڻ"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "سون کان"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "چونڊيل"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:56.260120491Z",
+  "model": "glm-5.3"
+}

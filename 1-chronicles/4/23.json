@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 4:23",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "اهي ٺاهيندڙ هئا ۽ نتعيم ۽ گديرا جا رهواسي؛ بادشاهه سان گڏ سندس ڪم ۾ اتي رهندا هئا.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "היוצרים",
+      "gloss": "ٺاهيندڙ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "۽ رهواسي"
+    },
+    {
+      "surface": "נטעים",
+      "gloss": "نتعيم"
+    },
+    {
+      "surface": "וגדרה",
+      "gloss": "۽ گديرا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان گڏ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "سندس ڪم ۾"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "رهندا هئا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتي"
+    }
+  ],
+  "timestamp": "2026-08-30T15:10:58.513305100Z",
+  "model": "glm-5.3"
+}

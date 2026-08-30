@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 114,
+  "translation": "يھودا ⟨هو⟩ پاڪ ۾ ٿي، اسرائيل سندس راڄ。",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ٿي"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يھودا"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "پاڪ ۾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "سندس راڄ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:19:16.489304188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "ڇا ڪو لوھ کي ٽوڙي سگهي ٿو — اُتر جو لوھ ۽ ٽامو؟",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "ڇا ٽوڙي سگهي ٿو"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوھ کي"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوھ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "اُتر جو"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "۽ ٽامو"
+    }
+  ],
+  "timestamp": "2026-08-30T12:11:14.475092555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ کيس مذهب جي اترئين پاسي، ياهوه جي اڳيان ذبح ڪري؛ ۽ اهارون جا پٽ ڪوهن ⟨את⟩ سندس رت مذهب تي چوڌاري اُڇليندا.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "۽ ذبح ڪري"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "کيس"
+    },
+    {
+      "surface": "על",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "پاسي"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذهب جي"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "اترئين"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "۽ اُڇليندا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهارون جا"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪوهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس رت"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "سندس رت"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذهب"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:12:19.465423637Z",
+  "model": "glm-5.3"
+}

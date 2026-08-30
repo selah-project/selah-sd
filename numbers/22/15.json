@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 22:15",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "پڻ بالاق وري سردار موڪليا — وڌيڪ ۽ انهن کان وڌيڪ معزز.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "وري موڪليا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وديڪ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "موڪليا"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "وڌيڪ"
+    },
+    {
+      "surface": "ונכבדים",
+      "gloss": "معزز"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "انهن کان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:30:41.360047435Z",
+  "model": "glm-5.3"
+}

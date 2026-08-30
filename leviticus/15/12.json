@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ مٽيءَ جو برتن جنهن کي زواب وارو ڇُهي، اهو ڀڳل ڪيو ويندو؛ ۽ ڪاٺ جو هر برتن پاڻي ۾ ڌُتل ويندو.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "۽ برتن"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٽيءَ جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنهن"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ڇُهي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "زواب وارو"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ڀڳل ڪيو ويندو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ڪاٺ جو"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "ڌُتل ويندو"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻي ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:17:44.258276646Z",
+  "model": "glm-5.3"
+}

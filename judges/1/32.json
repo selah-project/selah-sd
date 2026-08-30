@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 1:32",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ اشري ⟨the⟩ ڪنعانين، زمين جي رهواسين، جي وچ ۾ رهيا، ڇوته ⟨they⟩ ⟨them⟩ کي نه ڪڍيو.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "۽ رهيا"
+    },
+    {
+      "surface": "האשרי",
+      "gloss": "⟨the⟩ اشري"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "⟨the⟩ ڪنعانين"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "رهواسي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ڪڍيو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:57:00.410693921Z",
+  "model": "glm-5.3"
+}

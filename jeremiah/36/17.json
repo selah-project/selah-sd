@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 36:17",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 36,
+  "translation": "۽ ⟨את⟩ باروخ کان پُڇيائون، چوندا: ٻڌاءِ هاڻي اسان کي، تون اهي سڀ لفظ سندس واتان ڪيئن لکيا؟",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "باروخ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "پُڇيائون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوندا"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "ٻڌاءِ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسان کي"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "لکيا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "سندس واتان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:19:55.206852232Z",
+  "model": "glm-5.3"
+}

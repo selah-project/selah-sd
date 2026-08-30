@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "ڀلا ڀلائي ياهوه جي، ڇوته هن پنهنجو خيسيد مون تي عجيب ڪيو، مضبوط شهر ۾.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ڀلا ڀلائي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "عجيب ڪيو"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "پنهنجو خيسيد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شهر ۾"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "مضبوط"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:24.323882075Z",
+  "model": "glm-5.3"
+}

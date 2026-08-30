@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "توڻي جو آڏو، اي ماڻهن، آءٌ پڪاريان ٿو، ۽ مون جو آواز آدم جي پٽن ڏانهن آهي.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "توڻي جو آڏو"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "آءٌ پڪاريان ٿو"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "۽ مون جو آواز"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:11.375531577Z",
+  "model": "glm-5.3"
+}

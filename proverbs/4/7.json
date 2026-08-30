@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 4:7",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "حڪمت جي شروعات ⟨آھي⟩: حڪمت حاصل ڪر، ۽ تنهنجي سڀ حاصل ڪيل ۾ سمجهه حاصل ڪر۔",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "شروعات"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت جي"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "حاصل ڪر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "۽ … سڀ ۾"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "تنهنجي حاصل ڪيل"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "حاصل ڪر"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجهه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:57.839141815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ يهدائي جا پٽ رگم ۽ يوتام ۽ گيشان ۽ پيلت ۽ عيفه ۽ شاعف هئا۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ جا پٽ"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "يهدائي"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "رگم"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "۽ يوتام"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "۽ گيشان"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "۽ پيلت"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "۽ عيفه"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "۽ شاعف"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:04.751852672Z",
+  "model": "glm-5.3"
+}

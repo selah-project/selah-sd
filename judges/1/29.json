@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ اپريم گزر ۾ رهندڙ ڪنعانيءَ کي بي Driving نه ڪيو — اپريم ⟨את⟩ ⟨the⟩ ڪنعانيءَ کي، جيڪو گزر ۾ رهي ٿو، نه ڪڍيو؛ ۽ ڪنعاني ⟨him⟩ جي وچ ۾، گزر ۾ رهي پيو.",
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "۽ اپريم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ڪڍي نه ڏنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ ڪنعانيءَ کي"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "⟨the⟩ ڪنعانيءَ"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "رهندڙ"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "گزر ۾"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "۽ رهي پيو"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "⟨the⟩ ڪنعاني"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "⟨him⟩ جي وچ ۾"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "گزر ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:57:00.410084862Z",
+  "model": "glm-5.3"
+}

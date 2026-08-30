@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 43,
+  "translation": "۽ ماڻهو ائين ڪيو جهڙو يوسف چيو هو، ۽ ماڻهو ⟨את⟩ ماڻهن کي يوسف جي گهر ۾ آندو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ ڪيو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جهڙو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "۽ آندو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماڻهن کي"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    }
+  ],
+  "timestamp": "2026-08-30T14:34:52.505211209Z",
+  "model": "glm-5.3"
+}

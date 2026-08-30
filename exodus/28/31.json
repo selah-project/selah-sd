@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ تون ⟨את⟩ ايپود جو چولو مڪمل نيري رنگ جو ٺاهيندي.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ٺاهيندي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چولو"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "چولو"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ايپود جو"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "مڪمل"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "نيري رنگ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:07:28.326452683Z",
+  "model": "glm-5.3"
+}

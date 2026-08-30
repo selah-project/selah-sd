@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ جبعهون جي رهاڪن ٻڌو ⟨את⟩ جيڪو يهوشع ڪيو هو يريحو ۽ عاي لاءِ.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "۽ رهاڪن"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "جبعهون"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جيڪو يهوشع ڪيو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو هو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشع"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "يريحو لاءِ"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "۽ عاي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:51:23.317216917Z",
+  "model": "glm-5.3"
+}

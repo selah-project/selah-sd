@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 19:30",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ يهودا جي گهر مان بچيل حصو وري هيٺ پاڙ ڄڻيندو ۽ مٿي ميوو ڪندو.",
+  "tokens": [
+    {
+      "surface": "והיספה",
+      "gloss": "۽ وري وڌندو"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "بچيل حصو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "بچيل"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "پاڙ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "۽ ڪندو"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ميوو"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "مٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:45:48.862268082Z",
+  "model": "glm-5.3"
+}

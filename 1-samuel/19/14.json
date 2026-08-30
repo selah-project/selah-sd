@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "۽ شاول قاصد موڪليا ته ⟨את⟩ داويد کي وٺن، ۽ چيائين: بيمار ⟨هو⟩ آهي.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "موڪليا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "قاصد"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ته وٺن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داويد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "بيمار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:12:02.751080231Z",
+  "model": "glm-5.3"
+}

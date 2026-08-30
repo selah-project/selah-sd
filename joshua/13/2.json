@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "هيءَ اُها زمين آهي جيڪا باقي رهي آهي: فلستين جا سڀ ڪنڊَ ۽ سڀ گَشُوري.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هيءَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "جيڪا باقي رهي آهي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "ڪنڊَ"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "فلستين جا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "گَشُوري"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:58.233293796Z",
+  "model": "glm-5.3"
+}

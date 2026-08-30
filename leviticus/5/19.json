@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ڏوهه ئي ڏوهه آھي؛ هو ياهوه جي اڳيان البت ڏوھي آھي.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "ڏوهه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ھي"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ڏوهاري قرباني"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ڏوھي"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه جي اڳيان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:04.475271072Z",
+  "model": "glm-5.3"
+}

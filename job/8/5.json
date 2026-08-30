@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 8:5",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "جيڪڏھن تون ايل ڏانھن سنڀرين ۽ شداي کان ٿين پنوار،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جيڪڏھن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تون"
+    },
+    {
+      "surface": "תשחר",
+      "gloss": "سنڀرين (سُجھ ئي سجھ ڏانھن ڏوڙ ٿين)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانھن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شداي"
+    },
+    {
+      "surface": "תתחנן",
+      "gloss": "پنوار ٿين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:26.390378050Z",
+  "model": "glm-5.3"
+}

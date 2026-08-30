@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "2-samuel 22:45",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "پرديسن جا پٽ مون کان ڊڄي ٿا؛ ڪن سڻڻ سان ئي مون کي مڃين ٿا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "پرديسن"
+    },
+    {
+      "surface": "יתכחשו",
+      "gloss": "ڊڄي\/جھوٽي ٿا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کان"
+    },
+    {
+      "surface": "לשמוע",
+      "gloss": "سڻڻ سان"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ڪن"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ٻڌندا\/مڃين ٿا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:30.858083172Z",
+  "model": "glm-5.3"
+}

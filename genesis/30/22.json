@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ ايلوهيم رachel کي ياد ڪيو ۽ ايلوهيم سندس دعا ٻڌي ۽ سندس پيٽ کوليائين.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "ياد ڪيو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "رachel"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ٻڌي"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "سندس"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "کوليائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس پيٽ"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "سندس پيٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T09:47:24.871792751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ڇوته ظلم حڪيم کي مٿوڙي ڇڏي ٿو، ۽ تحفو ⟨את⟩ دل کي تباهه ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "مٿوڙي ڇڏي ٿو"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حڪيم کي"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "۽ تباهه ڪري ٿو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "تحفو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:52:18.017713447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ ياهوه موشي سان ڳالهائي چيو.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ڳالهائيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چيو"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:50.516642965Z",
+  "model": "glm-5.3"
+}

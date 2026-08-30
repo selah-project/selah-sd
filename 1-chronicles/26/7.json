@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 26:7",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "سمعياھ جا پٽ: عثني ۽ رفائيل ۽ عوبيد، ايلزاباد سندس ڀائر، طاقت جا پٽ؛ ايليھو ۽ سماخياھ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "سمعياھ جا"
+    },
+    {
+      "surface": "עתני",
+      "gloss": "عثني"
+    },
+    {
+      "surface": "ורפאל",
+      "gloss": "۽ رفائيل"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "۽ عوبيد"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "ايلزاباد"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "سندس ڀائر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "طاقت جا"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ايليھو"
+    },
+    {
+      "surface": "וסמכיהו",
+      "gloss": "۽ سماخياھ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:18:57.971647001Z",
+  "model": "glm-5.3"
+}

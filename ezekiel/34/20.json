@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 34:20",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "تنهنڪري ايئن چوي ٿو ادوناي ياهوه انهن کي: ڏسو، آءٌ پاڻ، آءٌ سمن ۽ ڏٻري ٻڪريءَ جي وچ ۾ فيصلو ڪندس.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ايئن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ڏسو، آءٌ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "پاڻ"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "فيصلو ڪندس"
+    },
+    {
+      "surface": "בין",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ٻڪري"
+    },
+    {
+      "surface": "בריה",
+      "gloss": "سمن"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "۽ جي وچ ۾"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ٻڪري"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "ڏٻري"
+    }
+  ],
+  "timestamp": "2026-08-30T12:38:01.066270921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 107,
+  "translation": "ڇاڪاڻ ته پتل جا دروازا ڀڳيائين، ۽ لوھ جون سليون وڍي ڇڏيائين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ڀڳيائين"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "دروازا"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "پتل جا"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "۽ لوھ جون سليون"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوھ"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "وڍي ڇڏيائين"
+    }
+  ],
+  "timestamp": "2026-08-30T13:18:08.078825092Z",
+  "model": "glm-5.3"
+}

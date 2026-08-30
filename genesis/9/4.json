@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "پر بت جيڪا سندس نفسمانيءَ سان آهي — سندس رت — توهان نه کائو.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بت"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "سندس نفسمانيءَ سان"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "سندس رت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائو"
+    }
+  ],
+  "timestamp": "2026-08-30T09:40:44.814287136Z",
+  "model": "glm-5.3"
+}

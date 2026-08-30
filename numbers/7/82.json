@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ ڳئن جو ھڪ تڪرُو، خطيائن لاءِ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "تڪرُو"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ڳئن جو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "خطيائن لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:36.347288537Z",
+  "model": "glm-5.3"
+}

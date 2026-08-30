@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 37:20",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ اهي ڪاٺيون جن تي تو لکين تنهنجي هٿ ۾ هجن سندن اکين اڳيان.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "هجن"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ڪاٺيون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن تي"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "تو لکين"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "جن تي"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "تنهنجي هٿ ۾"
+    },
+    {
+      "surface": "لעיניהם",
+      "gloss": "سندن اکين اڳيان"
+    }
+  ],
+  "timestamp": "2026-08-30T12:40:00.291685550Z",
+  "model": "glm-5.3"
+}

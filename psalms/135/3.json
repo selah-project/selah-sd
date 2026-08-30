@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 135,
+  "translation": "ساراھيو ياه کي، ڇوته ياهوه چڱو ⟨is⟩؛ سندس نالي کي ساز سان ساراھيو، ڇوته اهو مِٺو ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ساراھيو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ساز سان ساراھيو"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "سندس نالي کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "مِٺو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:53.464757133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ياهوه چيو: ڏس، مون سان ⟨את⟩ هڪ جاءِ ⟨آھي⟩، ۽ تون چٽان تي بيهندين.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ ياهوه چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جاءِ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ مون سان"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "۽ تون بيهندين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "چٽان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:08:30.436493529Z",
+  "model": "glm-5.3"
+}

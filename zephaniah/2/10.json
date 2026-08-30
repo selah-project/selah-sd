@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 2:10",
+  "book": "zephaniah",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "هيءُ مٿن انهن جي گهمندي سبب، ڇوته هنن ٿڦايو ۽ پاڻ کي مَٿو ڪيو ياهوه صبائوت جي قوم تي.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "مٿن"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "انهن جي بدلي ۾"
+    },
+    {
+      "surface": "גאונם",
+      "gloss": "گهمندي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ٿڦايو"
+    },
+    {
+      "surface": "ויגדלו",
+      "gloss": "۽ پاڻ کي مَٿو ڪيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    }
+  ],
+  "timestamp": "2026-08-30T12:54:32.834085201Z",
+  "model": "glm-5.3"
+}

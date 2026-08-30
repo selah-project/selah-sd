@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "گهوڙو نجات لاءِ ڪوڙ ⟨آهي⟩، ۽ پنهنجي گهڻي طاقت سان ⟨هو⟩ نه بچندو.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙ"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "گهوڙو"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "نجات لاءِ"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "۽ پنهنجي گهڻي"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "طاقت سان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچندو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:34.637305691Z",
+  "model": "glm-5.3"
+}

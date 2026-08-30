@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پاٽي جو ھڪ ٻڪرو، گناھ جي قرباني لاءِ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ٻڪرو"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "پاٽي جو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناھ جي قرباني لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:24:19.751722316Z",
+  "model": "glm-5.3"
+}

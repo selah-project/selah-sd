@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 21:37",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "جيڪڏهن ڪو ماڻهو ڏاند يا رڍ چوري ڪري ۽ ان کي ذبح ڪري يا وڪڻي، ته پنج ڏاند ڏاند جي بدلي ۾ ڀريندو، ۽ چار رڍون رڍ جي بدلي ۾ ڀريندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جيڪڏهن"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "چوري ڪري"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "שה",
+      "gloss": "رڍ"
+    },
+    {
+      "surface": "וטבחו",
+      "gloss": "۽ ذبح ڪري"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "وڪڻي"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ڀريندو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلي ۾"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ڏاند جي"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "۽ چار"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "رڍون"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلي ۾"
+    },
+    {
+      "surface": "השה",
+      "gloss": "رڍ جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:03:36.261633525Z",
+  "model": "glm-5.3"
+}

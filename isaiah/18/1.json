@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "هاي، ڦڙڪندڙ پرن واري زمين، جيڪا كوش جي نهرن جي پار آهي!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "هاي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "ڦڙڪندڙ"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "پرن واري"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪا"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "پار"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "نهرن جي"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "كوش"
+    }
+  ],
+  "timestamp": "2026-08-30T11:53:01.556619188Z",
+  "model": "glm-5.3"
+}

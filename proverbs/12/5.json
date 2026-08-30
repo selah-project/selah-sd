@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "صداقت وارن جون سوچون ⟨آهن⟩ انصاف، پر بدن جون حيلہ بازيون ⟨آهن⟩ ٺڳي.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "سوچون"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صداقت وارن جون"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "حيلہ بازيون"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدن جون"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ٺڳي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:05.211412547Z",
+  "model": "glm-5.3"
+}

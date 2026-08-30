@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 26:28",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "ڪوڙي زبان پنھنجن ڪٽيلن کي سڱائي ٿي، ۽ نرم وات ۽ٺو ڪري ٿي.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ڪوڙي"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "سڱائي ٿي"
+    },
+    {
+      "surface": "דכיו",
+      "gloss": "پنھنجن ڪٽيلن کي"
+    },
+    {
+      "surface": "ופה",
+      "gloss": "۽ وات"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڪري ٿي"
+    },
+    {
+      "surface": "מדחה",
+      "gloss": "وٺو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:04.326794364Z",
+  "model": "glm-5.3"
+}

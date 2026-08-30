@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 12:35",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ نَفتالي مان، سَردار هِڪ هزار، ۽ سندن ساٿ ڍال ۽ نَيزي سان ٽيھ ۽ سَت هزار.",
+  "tokens": [
+    {
+      "surface": "ומנפתלי",
+      "gloss": "۽ نَفتالي مان"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سَردار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هِڪ هزار"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "۽ سندن ساٿ"
+    },
+    {
+      "surface": "בצנה",
+      "gloss": "ڍال سان"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "۽ نَيزي"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽيھ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "۽ سَت"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هزار"
+    }
+  ],
+  "timestamp": "2026-08-30T14:15:14.237194705Z",
+  "model": "glm-5.3"
+}

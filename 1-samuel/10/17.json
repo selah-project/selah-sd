@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ شموئل ⟨את⟩ قوم کي ياهوه ڏانهن مِتسپه ۾ گڏ ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "گڏ ڪيو"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ڏانهن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "متسپه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:08:48.964540827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 8:8",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ هڪ ڍڳو کڻن، مال جو پٽ، ۽ ان جي مڻج سڳو، تيل ۾ مليل سوج، ۽ ٻيو ڍڳو، مال جو پٽ، تون کڻين گنھ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "۽ کڻن"
+    },
+    {
+      "surface": "פר",
+      "gloss": "هڪ ڍڳو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "مال جو"
+    },
+    {
+      "surface": "ומנחתו",
+      "gloss": "۽ ان جي مڻج"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "سوج"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "ميليل"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تيل ۾"
+    },
+    {
+      "surface": "ופר",
+      "gloss": "۽ ڍڳو"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻيو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "مال جو"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تون کڻين"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گنھ لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:43.018019375Z",
+  "model": "glm-5.3"
+}

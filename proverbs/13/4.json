@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "سست جو جيءَ شهه ٿو ڪري پر ڪجهه به نه اَٿس؛ پر محنتيءَ جو جيءَ چوري ٿي ٿو.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "شهه ٿو ڪري"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "پر ڪجهه به نه"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "جيءَ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سست"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "پر جيءَ"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "محنتيءَ"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "چوري ٿي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:57.107729638Z",
+  "model": "glm-5.3"
+}

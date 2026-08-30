@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڇوته سندس نفعو چانديءَ جي واپار کان بهتر ⟨آهي⟩، ۽ سندس ڪَمائي خالص سون کان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بهتر"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "سندس نفعو"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "واپار"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چانديءَ"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "۽ خالص سون"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "سندس ڪَمائي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:26:00.859098331Z",
+  "model": "glm-5.3"
+}

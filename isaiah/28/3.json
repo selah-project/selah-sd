@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "پيرن سان لتاڙي ويندي فخر جي تاج، شرابي اِفرايم جي.",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "پيرن سان"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "لتاڙي ويندي"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "فخر جي"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "شرابي"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرايم جي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:54:43.575008535Z",
+  "model": "glm-5.3"
+}

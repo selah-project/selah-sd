@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ بيت-فعور ۽ پسگاهَ جون ڍلائون ۽ بيت-هايشيموت،",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "۽ بيت"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "فعور"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "۽ ڍلائون"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "پسگاهَ جون"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "۽ بيت"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "هايشيموت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:52:22.579535151Z",
+  "model": "glm-5.3"
+}

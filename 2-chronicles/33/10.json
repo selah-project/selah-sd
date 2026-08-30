@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ ياهوه منشه سان ۽ سندس قوم سان ڳالهائيو، پر انهن ڪن نه ٻڌو.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "۽ ڳالهائيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ سان"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سندس قوم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نه"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "ڪن ٻڌو"
+    }
+  ],
+  "timestamp": "2026-08-30T14:29:34.729989410Z",
+  "model": "glm-5.3"
+}

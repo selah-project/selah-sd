@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "⟨את}} ايلون ۽ سندس مگرشھ کي، ⟨את}} گت ريمون ۽ سندس مگرشھ کي — چار شھر.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ايلون"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "ايلون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "مگرشھ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "سندس مگرشھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گت ريمون"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گت"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ريمون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "مگرشھ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "سندس مگرشھ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شھر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-08-30T10:54:57.872186855Z",
+  "model": "glm-5.3"
+}

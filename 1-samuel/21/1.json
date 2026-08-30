@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "پوءِ ⟨هو⟩ اُٿي روانو ٿيو، ۽ يوهوناتان شهر ۾ آيو.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٿي"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "روانو ٿيو"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "۽ يوهوناتان"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شهر ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T11:13:29.733381739Z",
+  "model": "glm-5.3"
+}

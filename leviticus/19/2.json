@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ڀائرن جي سڀئي ڪٺٻيءَ سان — اسرائيل جي پٽن جي — ڳالھ ڪر ۽ کين چؤ ته پاڪ رهو، ڇوته پاڪ آھيان انا ياهوه توهان جو ايلوهيم.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ڳالھ ڪر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀئي"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ڪٺٻيءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل جي"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "۽ چؤ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "کين"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "رهو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "انا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "توهان جو ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:30.843562899Z",
+  "model": "glm-5.3"
+}

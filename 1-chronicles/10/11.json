@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ يابيش جلعاد جي سڀني ماڻهن ٻڌو ⟨את⟩ اهو سڀ جيڪو پلشتين شاول سان ڪيو.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "يابيش"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اهو سڀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتين"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاول سان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:24.864414064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ يشعياہ حزقياہ کي چيو، ”ياهوه جو لفظ ٻڌ۔“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "يشعياہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کي"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقياہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ٻڌ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T11:45:38.026127817Z",
+  "model": "glm-5.3"
+}

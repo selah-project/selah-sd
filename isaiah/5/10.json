@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ڇو ته ڏھن جوئن جي انگُڙي هڪ ئي بَتَ ڏيندي، ۽ ھڪ ڪَمر جي ٻج هڪ ئي اِيفا ڏيندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ڏھن"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "جوئن جي"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انگُڙي"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ڏيندو"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بَتَ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "۽ ٻج"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ڪَمر"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ڏيندو"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "اِيفا"
+    }
+  ],
+  "timestamp": "2026-08-30T11:48:46.921366887Z",
+  "model": "glm-5.3"
+}

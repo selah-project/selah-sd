@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 14:3",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "ڇوته موشي ٻن قبيلن ۽ اڌ قبيلي جو ورثو يردن جي پار ڏنو ھو، ۽ لاوين کي انھن ۾ ڪوبه ورثو نه ڏنو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ورثو"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "قبيلن"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "۽ اڌ"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "قبيلي"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "پار"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "يردن"
+    },
+    {
+      "surface": "וללוים",
+      "gloss": "۽ لاوين کي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ورثو"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "انھن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:33.539028535Z",
+  "model": "glm-5.3"
+}

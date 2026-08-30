@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 94,
+  "translation": "ڪيترا وقت تائين، ياهوه، ڪيترا وقت تائين ظالم خوش ٿيندا؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ڪيترا وقت"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ڪيترا وقت"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "خوش ٿيندا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:15:47.428991959Z",
+  "model": "glm-5.3"
+}

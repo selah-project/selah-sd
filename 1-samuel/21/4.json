@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "۽ هاڻي تنهنجي هٿ هيٺ ڇا آهي؟ پنج مانيون منهن هٿ ۾ ڏي، يا جيڪا ملندڙ آهي سا.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "۽ هاڻي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تنهنجي هٿ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "مانيون"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ڏي"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "منهن هٿ ۾"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "جو ملندڙ آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T11:13:29.734472607Z",
+  "model": "glm-5.3"
+}

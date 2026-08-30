@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ڇوته ياهوه جي آواز کان آشور ٽٽي پوندو؛ ۽ ڏنڍ سان ماريندو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "آواز کان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ٽٽي پوندو"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ڏنڍ سان"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ماريندو"
+    }
+  ],
+  "timestamp": "2026-08-30T11:56:09.601135117Z",
+  "model": "glm-5.3"
+}

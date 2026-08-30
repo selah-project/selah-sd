@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ هن اُتي هڪ قربانگاهَ اُڀاريو ۽ ان کي سڏيائين ايل، اسرائيل جو ايلوهيم.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "۽ اُڀاريائين"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "مזבח",
+      "gloss": "قربانگاهَ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "۽ سڏيائين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ان کي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "جو ايلوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T09:49:45.445246794Z",
+  "model": "glm-5.3"
+}

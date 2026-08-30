@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 89,
+  "translation": "چنڊ جيان هميشه لاءِ قائم رهندو، ۽ اَڀَ ۾ هڪ وفادار شاهد. سلاه.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "چنڊ جيان"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "قائم رهندو"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه لاءِ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "۽ شاهد"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "اَڀَ ۾"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "وفادار"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاه"
+    }
+  ],
+  "timestamp": "2026-08-30T13:13:40.731951039Z",
+  "model": "glm-5.3"
+}

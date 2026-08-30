@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 48,
+  "translation": "سونهن جي بلندي، سڄي زمين جو شادمانو، ⟨آهي⟩ جبل صهيون، اُتر جون اوناهيون، وڏي بادشاهه جو شهر.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "سونهن"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "جي بلندي"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "شادمانو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "جون اوناهيون"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُتر"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:07:26.187952958Z",
+  "model": "glm-5.3"
+}

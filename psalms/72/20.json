@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 72,
+  "translation": "پوريون ٿيون دائود جون دعائون، يشي جي پٽ جون.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "پوريون ٿيون"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "دعائون"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دائود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يشي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:11:04.489533737Z",
+  "model": "glm-5.3"
+}

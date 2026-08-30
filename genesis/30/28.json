@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "۽ چيائين: تنهنجو اجر مون تي مقرر ڪر، ۽ مان ڏيندس.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيائين"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مقرر ڪر"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "تنهنجو اجر"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "۽ مان ڏيندس"
+    }
+  ],
+  "timestamp": "2026-08-30T14:34:54.970824065Z",
+  "model": "glm-5.3"
+}

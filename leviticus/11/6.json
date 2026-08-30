@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 11,
+  "translation": "۽ ⟨את⟩ هرنبت، ڇوڪِا اُها گراھ مٿي ڪري ٿي پر پَرَسَه ٽَڪي ناهي؛ اُها توهان لاءِ نجِس آهي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "هرنبت"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "هرنبت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوڪِا"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "مٿي ڪري ٿي"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گراھ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُها"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "پَرَسَه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "ٽَڪِي"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "نجِس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اُها"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "توهان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:14:45.601532906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ بوعز ⟨את⟩ عوبد کي پيدا ڪيو، ۽ عوبد ⟨את⟩ يشائي کي پيدا ڪيو.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "۽ بوعز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوبد"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عوبد"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "۽ عوبد"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يشائي"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يشائي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:10:49.311464126Z",
+  "model": "glm-5.3"
+}

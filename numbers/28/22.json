@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ هڪ ٻڪرو گناهه جي قربانيءَ لاءِ، توهان لاءِ ڪفارو ڪرڻ لاءِ.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "۽ هڪ ٻڪرو"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناهه جي قرباني"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ڪفارو ڪرڻ لاءِ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "توهان لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T10:32:53.567796435Z",
+  "model": "glm-5.3"
+}

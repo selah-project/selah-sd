@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 40:14",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "۽ ٺاهيائين ⟨את⟩ ٿنڀن کي سٺ اَمّون، ۽ صحن جي ٿنڀ ڏانهن ⟨هو⟩ — دروازو چوڌاري چوڌاري.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ٺاهيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٿنڀن"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ٿنڀن"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٺ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمّون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "۽ ڏانهن"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ٿنڀ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن جي"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چوڌاري"
+    }
+  ],
+  "timestamp": "2026-08-30T12:41:20.167404042Z",
+  "model": "glm-5.3"
+}

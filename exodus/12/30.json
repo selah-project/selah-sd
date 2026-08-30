@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 12:30",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "۽ پَرعو اُٿيو، هو ۽ سندس سڀ نوڪر ۽ سڀ متسرايم؛ ۽ هڪ وڏي رڙ مست ٿي متسرايم ۾، ڇوته نه هو ڪو گهر جتي نه هو مُئل.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "۽ اُٿيو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعو"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات ۾"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "سندس نوڪر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "متسرايم"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "۽ ٿي"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "رڙ"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "متسرايم ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه هو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه هو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتي"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مُئل"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:37.817697652Z",
+  "model": "glm-5.3"
+}

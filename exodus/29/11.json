@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ تون ⟨את⟩ ڏاند کي ياهوه جي اڳيان، ملاقات جي خيمي جي دروازي تي ذبح ڪندين.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "۽ تون ذبح ڪندين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڏاند"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازي"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمي جي"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات جي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:06:53.670351313Z",
+  "model": "glm-5.3"
+}

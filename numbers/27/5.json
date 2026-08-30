@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ موشي ⟨את⟩ انهن جو فيصلو ياهوه جي اڳيان پيش ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "پيش ڪيو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انهن جو فيصلو"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "انهن جو فيصلو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:33:09.254777826Z",
+  "model": "glm-5.3"
+}

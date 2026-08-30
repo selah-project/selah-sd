@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ حصرون جي پٽ ڪالب ⟨את⟩ عزوبه زال کي ۽ ⟨את⟩ يريعوث کي پيدا ڪيو، ۽ اُن جا پٽ اِھي آھن: يشر ۽ شوباب ۽ اردون.",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "۽ ڪالب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حصرون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پيدا ڪيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزوبه زال"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "عزوبه"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "يريعوث"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "يريعوث"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "۽ اِھي"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "اُن جا پٽ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "يشر"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "۽ شوباب"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "۽ اردون"
+    }
+  ],
+  "timestamp": "2026-08-30T14:11:15.970532311Z",
+  "model": "glm-5.3"
+}

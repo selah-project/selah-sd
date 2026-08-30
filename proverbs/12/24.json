@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "جفا ڪندڙن جو هٽ حڪومت ڪري ٿو، پر سُستي اجوري ٿي وڃي ٿي.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "هٽ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "جفا ڪندڙن جو"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "حڪومت ڪري ٿو"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "پر سُستي"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ٿي وڃي ٿي"
+    },
+    {
+      "surface": "למס",
+      "gloss": "اجوري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:28:01.275000337Z",
+  "model": "glm-5.3"
+}

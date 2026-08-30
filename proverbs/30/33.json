@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 30,
+  "translation": "ڇوته دٻاءُ کير مان مکڻ ڪڍي ٿو، ۽ نَڪُن جو دٻاءُ رت ڪڍي ٿو، ۽ ڪاوڙ جو دٻاءُ تڪرار ڪڍي ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "دٻاءُ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "کير"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ڪڍي ٿو"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "مکڻ"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "۽ دٻاءُ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "نَڪُن"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ڪڍي ٿو"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "۽ دٻاءُ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ڪاوڙ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ڪڍي ٿو"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "تڪرار"
+    }
+  ],
+  "timestamp": "2026-08-30T13:33:20.220032605Z",
+  "model": "glm-5.3"
+}

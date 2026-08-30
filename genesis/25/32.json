@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ عيسو چيو: «ڀلو، مان مرڻ وارو آهيان، ۽ مون کي هي پهرين ڄائڻ جو حق ڇا ڪندي؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڀلو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "وارو"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مرڻ"
+    },
+    {
+      "surface": "وלמה",
+      "gloss": "۽ ڇا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "پهرين ڄائڻ جو حق"
+    }
+  ],
+  "timestamp": "2026-08-30T09:46:12.315749360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 104,
+  "translation": "حد تون رکي آھي ته اُھي اُن کان لنگھن ئي نه، نه وري موٽن ته زمين کي ڍڪي وٺن.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "حد"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "تون رکي آھي"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ئي نه"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "لنگھن"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه وري"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "موٽن"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "ته... ڍڪي وٺن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:16:01.133487416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 34:18",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "۽ انھن جون ڳالھيون حمور ۽ حمور جي پٽ شخم جي نظرن ۾ چڱيون لڳيون.",
+  "tokens": [
+    {
+      "surface": "וייטבו",
+      "gloss": "۽ چڱيون لڳيون"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "انھن جون ڳالھيون"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي نظرن ۾"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حمور"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "۽ جي نظرن ۾"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شخم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حمور"
+    }
+  ],
+  "timestamp": "2026-08-30T09:50:10.076775210Z",
+  "model": "glm-5.3"
+}

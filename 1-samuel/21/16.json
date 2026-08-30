@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "“ڇا مون کي پاگلن جي کوٽ آهي، جو توهان ⟨את⟩ هن کي مون وٽ پاگل ٿيڻ لاءِ آندو؟ ڇا هي مون جي گهر ۾ ايندو؟”",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "کوٽ"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "پاگلن جي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "توهان آندو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هن"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "پاگل ٿيڻ لاءِ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون وٽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ايندو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "مون جي گهر"
+    }
+  ],
+  "timestamp": "2026-08-30T11:13:27.763931844Z",
+  "model": "glm-5.3"
+}

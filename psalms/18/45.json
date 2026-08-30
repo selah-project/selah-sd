@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "ڪَنَ جي ٻُڌڻ سان اُهي مون کي ٻڌن ٿا؛ پرديسي مون کي ڍوڪلو ڪن ٿا.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ٻُڌڻ سان"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ڪَنَ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "اُهي ٻڌن ٿا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "پرديسيءَ جا"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ڍوڪلو ڪن ٿا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:02:02.109287118Z",
+  "model": "glm-5.3"
+}

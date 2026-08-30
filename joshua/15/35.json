@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "يرموت ۽ عدُلام، سوکو ۽ عزقهه.",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "يرموت"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "۽ عدُلام"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "سوکو"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "۽ عزقهه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:53:46.815266568Z",
+  "model": "glm-5.3"
+}

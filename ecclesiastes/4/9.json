@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ٻه هڪ کان چڱا آهن، ڇو ته انهن لاءِ پنهنجي محنت ۾ چڱو اجر آهي.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "چڱا آهن"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هڪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "יש",
+      "gloss": "آهي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن لاءِ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "اجر"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چڱو"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "پنهنجي محنت ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:51:13.155812075Z",
+  "model": "glm-5.3"
+}

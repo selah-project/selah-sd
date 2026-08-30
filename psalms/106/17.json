@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 106,
+  "translation": "زمين کُلي ۽ داتان کي ٿِي گهڙايو، ۽ ابرام جي ڄماعت تي ٿي ڍڪي.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "ٿي کُلي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "۽ ٿي گهڙايو"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "داتان"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "۽ ٿي ڍڪي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ڄماعت"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "ابرام"
+    }
+  ],
+  "timestamp": "2026-08-30T13:17:51.000897456Z",
+  "model": "glm-5.3"
+}

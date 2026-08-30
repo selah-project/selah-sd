@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "مان ڪيئن لعنت ڪريان جنهن کي ايل لعنت نه ڪيو؟ ۽ مان ڪيئن ڪوڙ ماريان جنهن کي ياهوه ڪوڙ نه ماريو؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "مان ڪيئن"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "لعنت ڪريان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "لعنت ڪيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "۽ مان ڪيئن"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "ڪوڙ ماريان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ڪوڙ ماريو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:45.960527032Z",
+  "model": "glm-5.3"
+}

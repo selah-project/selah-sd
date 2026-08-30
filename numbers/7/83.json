@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "numbers 7:83",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ سلامتيءَ جي قرباني لاءِ: ٻه ڍڳا، پنج رَمَ، پنج ٻڪرَن جا تڪرا، پنج ھڪ سال جا مينھن؛ اھو اهيرع بن عينان جو قربان ھو.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "۽ قرباني لاءِ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "سلامتيءَ جي"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "رَمَ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "تڪرا"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "مينھن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال جا"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربان"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اهيرع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عينان"
+    }
+  ],
+  "timestamp": "2026-08-30T10:25:36.347434448Z",
+  "model": "glm-5.3"
+}

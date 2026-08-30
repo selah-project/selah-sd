@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "حڪمت سان گھر اڏجي ٿو، ۽ سمجھ سان ⟨هو⟩ جڙيل ٿيندو آھي.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "حڪمت سان"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "اڏجي ٿو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "۽ سمجھ سان"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "جڙيل ٿيندو آھي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:31:35.774248395Z",
+  "model": "glm-5.3"
+}

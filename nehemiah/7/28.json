@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "بيت عزماوت جا ماڻهو چاليهه ۽ ٻه.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "جا ماڻهو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "عزماوت"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چاليهه"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "۽ ٻه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:07:52.579828451Z",
+  "model": "glm-5.3"
+}

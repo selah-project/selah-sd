@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 134,
+  "translation": "چڙهين جو ڳڻ. ڏسو، بک ڏيو ⟨את⟩ ياهوه کي، ياهوه جا سڀ نوڪر، جي راتين ۾ ياهوه جي گهر ۾ بيٺا آهن.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ڳڻ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "چڙهين جو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "بک ڏيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "نوڪر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "بيٺا آهن"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "راتين ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T13:22:05.342308859Z",
+  "model": "glm-5.3"
+}

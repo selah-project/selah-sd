@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 9:31",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ متيتياه، لاويون مان، هو پهريون پٽ شلوم قورحي جو، <is>انتظام ۾ هو امانت سان تَوَن جي ڪم تي.<\/is>",
+  "tokens": [
+    {
+      "surface": "ומתתיה",
+      "gloss": "۽ متيتياه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاويون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "پهريون پٽ"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "شلوم جو"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "قورحي"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "امانت سان"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "החבתים",
+      "gloss": "تَوَن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T14:14:29.405538677Z",
+  "model": "glm-5.3"
+}

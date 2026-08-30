@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ڇوته ياهوه جي اکين جي سامهون ماڻهوءَ جا رستا آهن، ۽ سندس سڀئي ڦيريلا ⟨هو⟩ تولي ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "سامهون"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "اکين جي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "رستا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهوءَ جا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀئي"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "سندس ڦيريلا"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "تولي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:32.896160206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 17:12",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "تنھنڪري آءُ اسرائيل جي پٽن کي چيو ته توهان مان ڪوبه نفس رت نه کائي، ۽ توهان ۾ رھندڙ پرچو به رت نه کائي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "… لاءِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تنھنڪري"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آءُ چيو"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن کي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ڪوبه"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "توهان مان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کائي"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "۽ پرچو"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "رھندڙ"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "توهان ۾"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کائي"
+    },
+    {
+      "surface": "דם",
+      "gloss": "رت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:18:28.485824464Z",
+  "model": "glm-5.3"
+}

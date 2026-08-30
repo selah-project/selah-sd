@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 38:19",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "جيئرا، جيئرا، اهو تون کي اقرار ڪري، جهڙو مان اڄ ڪريان ٿو؛ پيءُ پٽن کي تون جي سچ ڄاڻ ڏئي.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "جيئرا"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جيئرا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اهو"
+    },
+    {
+      "surface": "יודך",
+      "gloss": "تون کي اقرار ڪري"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "جهڙو مان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اڄ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "پٽن کي"
+    },
+    {
+      "surface": "יודיע",
+      "gloss": "ڄاڻ ڏئي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لاءِ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "تون جي سچ"
+    }
+  ],
+  "timestamp": "2026-08-30T11:57:45.016936183Z",
+  "model": "glm-5.3"
+}

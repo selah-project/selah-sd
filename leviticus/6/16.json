@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ ڪاھن جي سگهو مڻڇ (مينحه) مڪمل طور ساڙي وڃي؛ کاڌي نه وڃي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سگهو"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "مڻڇ (مينحه)"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ڪاھن جي"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "مڪمل طور"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ھوندي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کاڌي وڃي"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:32.084676571Z",
+  "model": "glm-5.3"
+}

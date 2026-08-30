@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ نفتالي جي اولادن جي قبيلي جي لشڪر تي اهيرا، عينان جو پٽ، هو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشڪر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبيلي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اولادن"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اهيرا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عينان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:39:11.697715624Z",
+  "model": "glm-5.3"
+}

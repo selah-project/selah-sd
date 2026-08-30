@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 23:22",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "اهي ڪم بنياهو پٽ يهويادع ڪيا، ۽ کيس ٽن بهادرن ۾ نالو هو.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "اهي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيا"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بنياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "يهويادع"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "۽ کيس"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نالو"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "ٽن ۾"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "بهادرن"
+    }
+  ],
+  "timestamp": "2026-08-30T11:25:57.990102817Z",
+  "model": "glm-5.3"
+}

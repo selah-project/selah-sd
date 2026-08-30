@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 23:37",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "تسلق ⟨ال⟩ عموني، نحراي بيروثي، جو يوآب زرويه جي پُٽ جا هٿيار کنيندڙ هو،",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "تسلق"
+    },
+    {
+      "surface": "העמני",
+      "gloss": "⟨ال⟩ عموني"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "نحراي"
+    },
+    {
+      "surface": "הבארתי",
+      "gloss": "بيروثي"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "کنيندڙ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "هٿيار"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُٽ"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "زرويه"
+    }
+  ],
+  "timestamp": "2026-08-30T14:48:46.583014320Z",
+  "model": "glm-5.3"
+}

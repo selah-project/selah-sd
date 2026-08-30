@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "قومن ٻُڌو، ٽَٽَڙي ويا؛ سڙدو درد ورتِ پلشت جي رھواسين کي.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "قومن ٻُڌو"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومن"
+    },
+    {
+      "surface": "يרגזון",
+      "gloss": "ٽَٽَڙي ويا"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "سڙدو درد"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ورتِ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رھواسين"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "پلشت"
+    }
+  ],
+  "timestamp": "2026-08-30T10:01:15.779764631Z",
+  "model": "glm-5.3"
+}

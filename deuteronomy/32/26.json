@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "مَ چيو: مَ کين اڏائي ڇڏيندس، سندن ياد ماڻهن مان وسائي ڇڏيندس.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "مَ چيو"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "مَ کين اڏائي ڇڏيندس"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "وسائي ڇڏيندس"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "ماڻهن مان"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "سندن ياد"
+    }
+  ],
+  "timestamp": "2026-08-30T10:48:09.571232080Z",
+  "model": "glm-5.3"
+}

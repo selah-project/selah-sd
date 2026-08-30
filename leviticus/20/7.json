@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "۽ توهان پاڻ کي پاڪ ڪجو ۽ پاڪ رهو، ڇوته آءٌ ياهوه توهان جو ايلوهيم ⟨آھيان⟩.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "۽ پاڪ ڪجو"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "۽ رهو"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاڪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "توهان جو ايلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-30T10:19:31.152841352Z",
+  "model": "glm-5.3"
+}

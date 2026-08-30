@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "ياهوه جون اکيون ڄاڻ کي بچائين ٿيون، ۽ بي وفا جا لفظ ۽ُٽي ڇڏيندو آهي.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "اکيون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جون"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "بچائين ٿيون"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ڄاڻ کي"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "۽ُٽي ڇڏيندو آهي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "بي وفا جا"
+    }
+  ],
+  "timestamp": "2026-08-30T13:30:14.782592270Z",
+  "model": "glm-5.3"
+}

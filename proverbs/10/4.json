@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ڀاڪر هٿ ڪم ڪري ٿو سو گريب ٿيندو، پر جانڀايندڙن جو هٿ مال وارو ڪري ٿو.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "گريب ٿيندو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪم ڪري ٿو"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ڀاڪر هٿ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "سست"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "پر هٿ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "جانڀايندڙن جو"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "مال وارو ڪري ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:24.752508688Z",
+  "model": "glm-5.3"
+}

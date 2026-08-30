@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 22:12",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ هو ⟨אתם⟩ ساڻن ايلوهيم جي گهر ۾ لڪو، ڇهه ورهيه؛ ۽ عتلياهو ملڪ تي حڪومت ڪري رهي هئي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩ ساڻن"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم جي"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "لڪو"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇهه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ورهيه"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "عتلياهو"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "حڪومت ڪري رهي هئي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملڪ"
+    }
+  ],
+  "timestamp": "2026-08-30T14:26:22.795402343Z",
+  "model": "glm-5.3"
+}

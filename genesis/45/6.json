@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 45,
+  "translation": "ڇو ته اها ٻه سال ⟨اھي⟩ قحط زمين جي وچ ۾ آهي، ۽ اڃا پنج سال آهن، جن ۾ نه کيتي آهي ۽ نه فصل.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇو ته"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اها"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ٻه سال"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قحط"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "۽ اڃا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن ۾"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه آهي"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "کيتي"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "۽ فصل"
+    }
+  ],
+  "timestamp": "2026-08-30T09:55:09.743523056Z",
+  "model": "glm-5.3"
+}

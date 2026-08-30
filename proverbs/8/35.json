@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ڇوته جيڪو مون کي پائي ٿو، سو زندگي پائي ٿو، ۽ ياهوه وٽان رضا ڪڍي ٿو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "مون کي پائي ٿو"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "پائي ٿو"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگي"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "۽ ڪڍي ٿو"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضا"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ياهوه وٽان"
+    }
+  ],
+  "timestamp": "2026-08-30T13:27:09.641131054Z",
+  "model": "glm-5.3"
+}

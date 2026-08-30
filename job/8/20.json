@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "ڏسو، ايل اُتم کي رد نه ڪري، ۽ بڇڙن جي هٿ کي پڪو نه ڪري.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "رد ڪري"
+    },
+    {
+      "surface": "תם",
+      "gloss": "اُتم کي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "پڪو ڪري"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "بڇڙن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:35:27.887970488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "۽ اچياه، چanan، عنان،",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "۽ اچياه"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "چانان"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "عنان"
+    }
+  ],
+  "timestamp": "2026-08-30T14:08:45.423032848Z",
+  "model": "glm-5.3"
+}

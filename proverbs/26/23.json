@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "ڀرس تي چانديءَ جي ڪڪر چڙهيل، ڀڙڪندڙ ٿونهر ۽ بري دل.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "چانديءَ جي"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ڪڪر"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "چڙهيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ڀرس"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ٿونهر"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "ڀڙڪندڙ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "۽ دل"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بري"
+    }
+  ],
+  "timestamp": "2026-08-30T13:32:12.155757817Z",
+  "model": "glm-5.3"
+}

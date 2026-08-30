@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 25,
+  "translation": "۽ داويد ٻڌڻ ۾ آيو بيابان ۾ ته نabal پنھنجين ⟨את⟩ رڍن کي ڪتري رھيو آھي.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ٻڌڻ ۾ آيو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بيابان ۾"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ته"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ڪتري رھيو آھي"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجين رڍن کي"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "پنھنجيون رڍون"
+    }
+  ],
+  "timestamp": "2026-08-30T11:14:30.182909802Z",
+  "model": "glm-5.3"
+}

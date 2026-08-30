@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "۽ هن گھر لاءِ جهڳٽيل جهروڪيون بنايون، بند ڪيل.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ هن بنايون"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر لاءِ"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "جهروڪيون"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "جهڳٽيل"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "بند ڪيل"
+    }
+  ],
+  "timestamp": "2026-08-30T11:29:06.687462165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "بغاوت جو ماڻھو ئي برائي ڳولي ٿو، تنھنڪري اُن تي بي رحم پيغامڀاري موڪليو ويندو.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ئي"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "بغاوت جو ماڻھو"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ڳولي ٿو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائي"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "۽ پيغامڀاري"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "بي رحم"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "موڪليو ويندو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُن تي"
+    }
+  ],
+  "timestamp": "2026-08-30T13:29:10.500837598Z",
+  "model": "glm-5.3"
+}

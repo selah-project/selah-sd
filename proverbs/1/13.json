@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "سڀ قيمتي مال ملندو، اسان پنهنجا گهر لُٽَ سان ڀريندا سين.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "قيمتي"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ملندو"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "ڀريندا سين"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "اسان جا گهر"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "لُٽَ"
+    }
+  ],
+  "timestamp": "2026-08-30T13:25:10.467443507Z",
+  "model": "glm-5.3"
+}

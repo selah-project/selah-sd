@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 23:6",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ هو واپس ويس وٽس، ۽ ڏسو، هو پنھنجي سڙندڙ قرباني جي مٿان بيٺو ھو، هو ۽ موآب جا سڀ سردار.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "۽ واپس ويس"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "وٽس"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "بيٺو"
+    },
+    {
+      "surface": "על",
+      "gloss": "جي مٿان"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "پنھنجي سڙندڙ قرباني"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    }
+  ],
+  "timestamp": "2026-08-30T10:31:45.960160543Z",
+  "model": "glm-5.3"
+}

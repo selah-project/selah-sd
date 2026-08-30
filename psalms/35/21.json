@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ انهن مون تي پنهنجو وات کوليو، چيائون: ھي ھي! اسان جي اک ڏٺو.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "۽ کوليو"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مون تي"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "پنهنجو وات"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "چيائون"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ھي!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ھي!"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ڏٺو"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "اسان جي اک"
+    }
+  ],
+  "timestamp": "2026-08-30T13:04:14.928138566Z",
+  "model": "glm-5.3"
+}

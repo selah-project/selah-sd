@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ جماعت جا پيرن پنھنجون هٿ ⟨את⟩ ڍڳي جي مٿي تي ياهوه جي اڳيان رکن، ۽ ⟨اهو⟩ ⟨את⟩ ڍڳو ياهوه جي اڳيان ذبح ڪري.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "۽ رکن"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پيرن"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت جا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجون هٿ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "پنھنجون هٿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿي"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ڍڳي جي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "۽ ذبح ڪري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڍڳو"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ڍڳو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-30T10:13:32.461302305Z",
+  "model": "glm-5.3"
+}

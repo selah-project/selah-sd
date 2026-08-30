@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 26:22",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "۽ مسڪن جي پٺاڻ واري پاسي اولھ تو ٽي ڇھ تختيون ٺاھين.",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "۽ پٺاڻ واري پاسي"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسڪن جي"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "اولھ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تو ٺاھين"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تختيون"
+    }
+  ],
+  "timestamp": "2026-08-30T10:05:26.905369093Z",
+  "model": "glm-5.3"
+}

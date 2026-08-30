@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "تون پاڻ لاءِ زال نه ٿو وٺين، ۽ هن جاءِ ۾ توکي پٽ ۽ ڌيئر نه ٿيندا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "وٺين"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پاڻ لاءِ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ٿيندا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "توکي"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "۽ ڌيئر"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "هن جاءِ ۾"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-30T12:12:03.412270558Z",
+  "model": "glm-5.3"
+}
