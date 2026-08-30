@@ -5,46 +5,46 @@
   "book": "2-chronicles",
   "lang": "sd",
   "chapter": 9,
-  "translation": "۽ سباءَ جي ملڪه ڏٺو ⟨את⟩ شلومو جي عقل ۽ ⟨the⟩ گهر جنهن هن تعمير ڪيو هو،",
+  "translation": "۽ شِبا جي ملڪاڻيءَ شلوموه جي حكمت ۽ ⟨את⟩ ان جي اُهو گهر جيڪي ⟨هو⟩ ٺاهيو هو، ڏٺو.",
   "tokens": [
     {
       "surface": "ותרא",
-      "gloss": "۽ ڏٺائين"
+      "gloss": "ڏٺو"
     },
     {
       "surface": "מלכת",
-      "gloss": "ملڪه"
+      "gloss": "ملڪاڻيءَ"
     },
     {
       "surface": "שבא",
-      "gloss": "سباءَ جي"
+      "gloss": "شِبا"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "عقل"
+      "marks": "حكمت"
     },
     {
       "surface": "חכמת",
-      "gloss": "عقل"
+      "gloss": "حكمت"
     },
     {
       "surface": "שלמה",
-      "gloss": "شلومو جي"
+      "gloss": "شلوموه"
     },
     {
       "surface": "והבית",
-      "gloss": "۽ ⟨the⟩ گهر"
+      "gloss": "۽ گهر"
     },
     {
       "surface": "אשר",
-      "gloss": "جنهن"
+      "gloss": "جيڪي"
     },
     {
       "surface": "בנה",
-      "gloss": "تعمير ڪيو"
+      "gloss": "ٺاهيو هو"
     }
   ],
-  "timestamp": "2026-08-30T14:23:43.884946179Z",
+  "timestamp": "2026-08-30T23:53:18.358646403Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 29:24",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "۽ رُوحَ ۾ ٽٽي ويا ۽ ڄاڻندا بينهه، ۽ شڪايت ڪندڙ سکندا لقح۔",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "۽ ڄاڻندا"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "ٽٽي ويا"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوحَ ۾"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "بينهه"
+    },
+    {
+      "surface": "ורוגנים",
+      "gloss": "۽ شڪايت ڪندڙ"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "سکندا"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "لقح"
+    }
+  ],
+  "timestamp": "2026-08-30T23:29:12.261781685Z",
+  "model": "glm-5.3"
+}

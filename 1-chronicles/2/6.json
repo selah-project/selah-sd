@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "sd",
   "chapter": 2,
-  "translation": "۽ زerah جا پٽ: زمري ۽ ايتان ۽ هيمان ۽ ڪلڪول ۽ دَرا — سڀ پنج.",
+  "translation": "۽ زراخ جا پُٽ: زمرِي ۽ ايتان ۽ هيمان ۽ ڪلڪول ۽ درع — سڀ پنجئي.",
   "tokens": [
     {
       "surface": "ובני",
-      "gloss": "۽ جا پٽ"
+      "gloss": "۽ … جا پُٽ"
     },
     {
       "surface": "זרח",
-      "gloss": "زerah"
+      "gloss": "زراخ"
     },
     {
       "surface": "זמרי",
-      "gloss": "زمري"
+      "gloss": "زمرِي"
     },
     {
       "surface": "ואיתן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ודרע",
-      "gloss": "۽ دَرا"
+      "gloss": "۽ درع"
     },
     {
       "surface": "כלם",
@@ -44,6 +44,6 @@
       "gloss": "پنج"
     }
   ],
-  "timestamp": "2026-08-30T14:10:34.766173412Z",
+  "timestamp": "2026-08-30T23:52:17.837647860Z",
   "model": "glm-5.3"
 }

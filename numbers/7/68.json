@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":68,"ref":"numbers 7:68","book":"numbers","lang":"sd","chapter":7,"translation":"هڪ سون جو هٿollo، ڏهه شيقل، خوشبودار خوشڪڻ سان ڀريل۔","tokens":[{"surface":"כף","gloss":"هٿollo"},{"surface":"אחת","gloss":"هڪ"},{"surface":"עשרה","gloss":"ڏهه"},{"surface":"זהב","gloss":"سون"},{"surface":"מלאה","gloss":"ڀريل"},{"surface":"קטרת","gloss":"خوشبودار خوشڪڻ"}],"timestamp":"2026-08-30T10:25:31.104978736Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "ھڪ سون ھٿ-ٽَٻَرو، ڏھ شِڪل جي، خوشبوءَ سان ڀريل،",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ھٿ-ٽَٻَرو"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ھڪ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ڏھ (شِڪل)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ڀريل"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبوءَ"
+    }
+  ],
+  "timestamp": "2026-08-30T23:33:25.037484372Z",
+  "model": "glm-5.3"
+}

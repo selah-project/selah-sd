@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":8,"ref":"judges 19:8","book":"judges","lang":"sd","chapter":19,"translation":"۽ پنجين ڏينهن صبح جوEarlyو وڃڻ لاءِ اُٿيو، ۽ نينگر جي پيءُ چيو: منھنجي عرض، پنهنجو دل سنبالهه، ۽ ڏينهن جھڪڻ تائين دير ڪريو؛ ۽ ٻيئي کائيا.","tokens":[{"surface":"וישכם","gloss":"اُٿيو early"},{"surface":"בבקר","gloss":"صبح جو"},{"surface":"ביום","gloss":"ڏينهن ۾"},{"surface":"החמישי","gloss":"پنجين"},{"surface":"ללכת","gloss":"وڃڻ لاءِ"},{"surface":"ויאמר","gloss":"چيو"},{"surface":"אבי","gloss":"پيءُ"},{"surface":"הנערה","gloss":"نينگر جي"},{"surface":"סעד","gloss":"سنبالهه"},{"surface":"נא","gloss":"منھنجي عرض"},{"surface":"לבבך","gloss":"پنهنجو دل"},{"surface":"והתמהמהו","gloss":"۽ دير ڪريو"},{"surface":"עד","gloss":"تائين"},{"surface":"נטות","gloss":"جھڪڻ"},{"surface":"היום","gloss":"ڏينهن جي"},{"surface":"ויאכלו","gloss":"کائيا"},{"surface":"שניהם","gloss":"ٻيئي"}],"timestamp":"2026-08-30T11:03:34.434324785Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 19:8",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "پنجين ڏينهن صبح جو سوار ٿي ته وڃڻ لاءِ، ۽ ننڍيءَ عورت جي پيءُ چيو: ”پنهنجي دل کي سهراءُ، هاڻي، ۽ ڏينهن جي لاٽڻ تائين ٽڪراءُ.“ ۽ ٻيئي کاڌو کايو.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "سوار ٿيو"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح جو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن تي"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجين"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "وڃڻ لاءِ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيائين"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پيءُ"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "ننڍيءَ عورت جي"
+    },
+    {
+      "surface": "סעד",
+      "gloss": "سهراءُ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "هاڻي"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "پنهنجي دل کي"
+    },
+    {
+      "surface": "והתמהמהו",
+      "gloss": "۽ ٽڪرايو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "נטות",
+      "gloss": "لاٽڻ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڏينهن جي"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "۽ کاڌو کايو"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ٻيئي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:37:00.787151266Z",
+  "model": "glm-5.3"
+}

@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "sd",
   "chapter": 136,
-  "translation": "جنهن بي dissertation… ",
-  "tokens": [],
-  "timestamp": "2026-08-30T13:23:10.911154337Z",
+  "translation": "جنھن ⟨את⟩ آسمانن کي سمجھ سان ٺاھيو، ڇوته سدائين سدائين ⟨تائين⟩ سندس خيسيد ⟨آهي⟩.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "جنھن ٺاھيو"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانن کي"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "سمجھ سان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "سدائين سدائين"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "سندس خيسيد"
+    }
+  ],
+  "timestamp": "2026-08-30T23:47:25.933745451Z",
   "model": "glm-5.3"
 }

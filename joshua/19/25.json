@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "sd",
   "chapter": 19,
-  "translation": "۽ سندن سرحد חלקת ۽ حلي ۽ بيتن ۽ اخشپ ٿي.",
+  "translation": "۽ سندن سرحد جا ھئي: خِلقَت ۽ حالي ۽ بتَن ۽ اخشَف۔",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ٿي"
+      "gloss": "۽ ھئي"
     },
     {
       "surface": "גבולם",
@@ -17,21 +17,21 @@
     },
     {
       "surface": "חלקת",
-      "gloss": "חלקת"
+      "gloss": "خِلقَت"
     },
     {
       "surface": "וחלי",
-      "gloss": "۽ حلي"
+      "gloss": "۽ حالي"
     },
     {
       "surface": "ובטן",
-      "gloss": "۽ بيتن"
+      "gloss": "۽ بتَن"
     },
     {
       "surface": "ואכשף",
-      "gloss": "۽ اخشپ"
+      "gloss": "۽ اخشَف"
     }
   ],
-  "timestamp": "2026-08-30T10:54:43.998195768Z",
+  "timestamp": "2026-08-30T23:35:45.353249459Z",
   "model": "glm-5.3"
 }

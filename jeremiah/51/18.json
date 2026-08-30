@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":18,"ref":"jeremiah 51:18","book":"jeremiah","lang":"sd","chapter":51,"translation":"اهي بے imposing اوپاڙ آهن، فريب جي تخليق، سندن پھچائڻ جي وقت ۾ اهي تباهه ٿي ويندا.","tokens":[{"surface":"הבל","gloss":"اوپاڙ"},{"surface":"המה","gloss":"اهي"},{"surface":"מעשה","gloss":"تخليق"},{"surface":"תעתעים","gloss":"فريب جي"},{"surface":"בעת","gloss":"جي وقت ۾"},{"surface":"פקדתם","gloss":"سندن پھچائڻ"},{"surface":"יאבדו","gloss":"تباهه ٿي ويندا"}],"timestamp":"2026-08-30T12:25:53.138099837Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 51:18",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 51,
+  "translation": "اھي اوپرو آھن، ٺڳيءَ جو ڪم؛ پنھنجي پڇاڙيءَ جي وقت ۾ اھي تباهه ٿي ويندا.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "اوپرو"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ڪم"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "ٺڳيءَ جو"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "جي وقت ۾"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "پنھنجي پڇاڙيءَ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "تباهه ٿي ويندا"
+    }
+  ],
+  "timestamp": "2026-08-30T23:42:41.195239641Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":17,"ref":"psalms 18:17","book":"psalms","lang":"sd","chapter":18,"translation":"ياهوه مَٿي mans ۾ مِني کي موڪليو، مِني کي کنيائين، مِني کي گھڻن پاڻين مان ڪڍيائين.","tokens":[{"surface":"ישלח","gloss":"موڪليائين"},{"surface":"ממרום","gloss":"مَٿي کان"},{"surface":"יקחני","gloss":"مِني کي کنيائين"},{"surface":"ימשני","gloss":"مِني کي ڪڍيائين"},{"surface":"ממים","gloss":"پاڻين مان"},{"surface":"רבים","gloss":"گھڻن"}],"timestamp":"2026-08-30T13:02:00.315782721Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "مَروں کان موڪليائين، ⟨مون⟩ کنيائين؛ مون کي گهڻن پاڻين مان ڪڍيائين.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "موڪليائين"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "مَروں کان"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "ڪنيائين"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "ڪڍيائين"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "پاڻين مان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "گهڻن"
+    }
+  ],
+  "timestamp": "2026-08-30T23:46:29.594022350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ اُھو ياهوه تي ايمان آندو، ۽ اُنھن کي اُن لاءِ عدل ڳڻيو.",
+  "tokens": [
+    {
+      "surface": "והאמן",
+      "gloss": "۽ ايمان آندو"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه تي"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "۽ ڳڻيو اُنھن کي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُن لاءِ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "عدل"
+    }
+  ],
+  "timestamp": "2026-08-30T23:30:15.464473851Z",
+  "model": "glm-5.3"
+}

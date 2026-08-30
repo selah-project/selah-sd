@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "sd",
   "chapter": 6,
-  "translation": "اِثني جو پُٽ، زرach جو پُٽ، عدَيه جو پُٽ۔",
+  "translation": "پُٽ ايثني جو، پُٽ زَرَح جو، پُٽ عَداياه جو۔",
   "tokens": [
     {
       "surface": "בן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתני",
-      "gloss": "اِثني"
+      "gloss": "ايثني"
     },
     {
       "surface": "בן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "זרח",
-      "gloss": "زرach"
+      "gloss": "زَرَح"
     },
     {
       "surface": "בן",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "עדיה",
-      "gloss": "عدَيه"
+      "gloss": "عَداياه"
     }
   ],
-  "timestamp": "2026-08-30T14:13:07.750289410Z",
+  "timestamp": "2026-08-30T23:52:02.404191630Z",
   "model": "glm-5.3"
 }

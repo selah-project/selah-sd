@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":14,"ref":"proverbs 5:14","book":"proverbs","lang":"sd","chapter":5,"translation":"۽ آءٌ سڀ بُرائيءَ جي ۾، جماعت ۽ assembled مجلس جي وچ ۾، لڳ بڳ هوندو ويس.","tokens":[{"surface":"כמעט","gloss":"لڳ بڳ"},{"surface":"הייתי","gloss":"هوندو ويس"},{"surface":"בכל","gloss":"سڀ ... جي ۾"},{"surface":"רע","gloss":"بُرائيءَ جي"},{"surface":"בתוך","gloss":"جي وچ ۾"},{"surface":"קהל","gloss":"جماعت جي"},{"surface":"ועדה","gloss":"۽ مجلس"}],"timestamp":"2026-08-30T13:25:39.265760130Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ڪجهه ۾ مون سڀ برائيءَ ۾ هجان ٿي، جامعه ۽ مجلس جي وچ ۾.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ڪجهه ۾"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "هجان ٿي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائيءَ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "جي وچ ۾"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جامعه"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "۽ مجلس"
+    }
+  ],
+  "timestamp": "2026-08-30T23:47:56.830695622Z",
+  "model": "glm-5.3"
+}

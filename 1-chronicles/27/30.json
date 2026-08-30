@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "sd",
   "chapter": 27,
-  "translation": "۽ اُٺن تي اوبيل يشمائيلي هو؛ ۽ گڏھن تي يھدياھو مرونothي هو.",
+  "translation": "۽ اُٺن تي اوبيل يشمائيلي هو،۽ gadaydonkeye تي يحديياهو مرونوثي هو۔",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "۽ تي"
+      "gloss": "۽ ... تي"
     },
     {
       "surface": "הגמלים",
@@ -25,21 +25,21 @@
     },
     {
       "surface": "ועל",
-      "gloss": "۽ تي"
+      "gloss": "۽ ... تي"
     },
     {
       "surface": "האתנות",
-      "gloss": "گڏھن"
+      "gloss": "gadaydonkeye"
     },
     {
       "surface": "יחדיהו",
-      "gloss": "يھدياھو"
+      "gloss": "يحديياهو"
     },
     {
       "surface": "המרנתי",
-      "gloss": "مرونothي"
+      "gloss": "مرونوثي"
     }
   ],
-  "timestamp": "2026-08-30T14:19:27.546192377Z",
+  "timestamp": "2026-08-30T23:52:24.518037726Z",
   "model": "glm-5.3"
 }

@@ -5,49 +5,49 @@
   "book": "1-chronicles",
   "lang": "sd",
   "chapter": 2,
-  "translation": "۽ شمّائي جي ڀاءِ ياداع جا پٽ يَتَر ۽ يونatan ھئا؛ ۽ يَتَر مري ويو، پٽ نہ ھوس.",
+  "translation": "۽ يدا جا پُٽ ھئا — شمي جو ڀاءُ — يتر ۽ يوناتان؛ ۽ يتر مُتو،ٻارڻِ نہ ھويس.",
   "tokens": [
     {
       "surface": "ובני",
-      "gloss": "۽ پٽ"
+      "gloss": "۽ پُٽ"
     },
     {
       "surface": "ידע",
-      "gloss": "ياداع جا"
+      "gloss": "يدا"
     },
     {
       "surface": "אחי",
-      "gloss": "ڀاءِ"
+      "gloss": "ڀاءُ"
     },
     {
       "surface": "שמי",
-      "gloss": "شمّائي جي"
+      "gloss": "شمي"
     },
     {
       "surface": "יתר",
-      "gloss": "يَتَر"
+      "gloss": "يتر"
     },
     {
       "surface": "ויונתן",
-      "gloss": "۽ يونatan"
+      "gloss": "۽ يوناتان"
     },
     {
       "surface": "וימת",
-      "gloss": "۽ مري ويو"
+      "gloss": "۽ مُتو"
     },
     {
-      "surface": "יתר",
-      "gloss": "يَتَر"
+      "surface": "יתر",
+      "gloss": "يتر"
     },
     {
-      "surface": "לא",
+      "surface": "لא",
       "gloss": "نہ"
     },
     {
       "surface": "בנים",
-      "gloss": "پٽ"
+      "gloss": "ٻارڻِ"
     }
   ],
-  "timestamp": "2026-08-30T14:11:18.957529032Z",
+  "timestamp": "2026-08-30T23:52:12.314039342Z",
   "model": "glm-5.3"
 }

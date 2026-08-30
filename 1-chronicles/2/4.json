@@ -1,1 +1,63 @@
-{"tier":"glm-5.2","verse":4,"ref":"1-chronicles 2:4","book":"1-chronicles","lang":"sd","chapter":2,"translation":"۽ سندس ڪنوار تامار کيس ⟨את⟩ پيرetz ۽ ⟨את⟩ زرح ڄايا؛ يھودا جا سڀ پٽ پنج ھئا.","tokens":[{"surface":"ותמר","gloss":"۽ تامار"},{"surface":"כלתו","gloss":"سندس ڪنوار"},{"surface":"ילדה","gloss":"ڄايا"},{"surface":"לו","gloss":"کيس"},{"surface":"את","gloss":"⟨את⟩","marks":"پيرetz"},{"surface":"פרץ","gloss":"پيرetz"},{"surface":"ואת","gloss":"۽ ⟨את⟩","marks":"زرح"},{"surface":"זרח","gloss":"زرح"},{"surface":"כל","gloss":"سڀ"},{"surface":"בני","gloss":"پٽ"},{"surface":"יהודה","gloss":"يھودا جا"},{"surface":"חמשה","gloss":"پنج"}],"timestamp":"2026-08-30T14:11:09.562235184Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 2,
+  "translation": "۽ تامار، سندس ڪَلَهڻِ، مٿس ⟨את⟩ پَرَس ۽ ⟨את⟩ زَرَح کي جنميو؛ يهودا جي سڀني پُٽن جو ڪل پنج هُئا.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "۽ تامار"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "سندس ڪَلَهڻِ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "جنميو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پَرَس"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پَرَس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "زَرَح"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زَرَح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُٽن"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    }
+  ],
+  "timestamp": "2026-08-30T23:52:14.626872274Z",
+  "model": "glm-5.3"
+}

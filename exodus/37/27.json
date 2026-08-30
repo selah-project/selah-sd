@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":27,"ref":"exodus 37:27","book":"exodus","lang":"sd","chapter":37,"translation":"۽ ٻه سون جون انگليون هن ان لاءِ ٺاهيون، سندس ويڙهي کان هيٺ، سندس ٻن پاسن تي، سندس ٻنYE طرفن تي — ٽيلن لاءِ جاءِ جيئن ٽيلن سان ان کي کڻجي.","tokens":[{"surface":"ושתי","gloss":"۽ ٻه"},{"surface":"טבעת","gloss":"انگليون"},{"surface":"זהב","gloss":"سون جيون"},{"surface":"עשה","gloss":"هن ٺاهيون"},{"surface":"לו","gloss":"ان لاءِ"},{"surface":"מתחת","gloss":"هيٺ"},{"surface":"לזרו","gloss":"سندس ويڙهي کان"},{"surface":"על","gloss":"تي"},{"surface":"שתי","gloss":"ٻن"},{"surface":"צלעתיו","gloss":"سندس پاسن"},{"surface":"על","gloss":"تي"},{"surface":"שני","gloss":"ٻن"},{"surface":"צדיו","gloss":"سندس طرفن"},{"surface":"לבתים","gloss":"جاءِ لاءِ"},{"surface":"לבדים","gloss":"ٽيلن لاءِ"},{"surface":"לשאת","gloss":"کڻڻ لاءِ"},{"surface":"אתו","gloss":"ان کي ⟨את⟩","marks":"مذبح"},{"surface":"בהם","gloss":"انهن سان"}],"timestamp":"2026-08-30T10:10:07.521395414Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 37:27",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ ٻه سون جون انگريون هن ⟨لہ⟩ ٺاھيون، سندس ڪنگڻي هيٺ، سندس ٻن پلوسن تي، سندس ٻن پاسن تي، ڏنڊن لاءِ جاڱهريون، ان کي انهن ۾ کڻڻ لاءِ۔",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "۽ ٻه"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "انگريون"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ٺاھيون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨لہ⟩"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "هيٺ"
+    },
+    {
+      "surface": "לזרו",
+      "gloss": "سندس ڪنگڻي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "צלעתיו",
+      "gloss": "پلوسن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ٻن"
+    },
+    {
+      "surface": "צדיו",
+      "gloss": "پاسن"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "جايون"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "جاڱهريون"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "کڻڻ لاءِ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ان کي"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "انهن ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T23:32:19.406583038Z",
+  "model": "glm-5.3"
+}

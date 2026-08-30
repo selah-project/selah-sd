@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 110,
+  "translation": "واٽ تي نهر مان ⟨هو⟩ پيئندو، تنھنڪري ⟨هو⟩ پنھنجو مٿو مٿي کڻندو.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "نهر مان"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "واٽ تي"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "پيئندو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تنھنڪري (علي)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تنھنڪري"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "مٿي کڻندو"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T23:29:21.146712172Z",
+  "model": "glm-5.3"
+}

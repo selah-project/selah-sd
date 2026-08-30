@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "تنھنڪري اوچتو سندس تباھي اچي ٿي؛ ھڪ لمحي ۾ ⟨هو⟩ ڀڄي پوندو ۽ ڪوبه علاج ناھي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "تنھنڪري"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تنھنڪري"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اوچتو"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اچي ٿو"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "سندس تباھي"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "ھڪ لمحي ۾"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ڀڄي پوندو"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "۽ ناھي"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "علاج"
+    }
+  ],
+  "timestamp": "2026-08-30T23:29:30.157151446Z",
+  "model": "glm-5.3"
+}

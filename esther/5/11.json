@@ -1,1 +1,96 @@
-{"tier":"glm-5.2","verse":11,"ref":"esther 5:11","book":"esther","lang":"sd","chapter":5,"translation":"۽ هامان کين ⟨את⟩ پنهنجي مال جي شان ۽ پنهنجن پٽن جي گهڻائي ٻڌايو، ۽ ⟨את⟩ س everything جيڪو بادشاهه هن کي وڏو ڪيو هو، ۽ ⟨את⟩ جيڪو هن کي سردارن ۽ بادشاهه جي نوڪرن تي مٿي کڻيو هو.","tokens":[{"surface":"ויספר","gloss":"۽ ٻڌايو"},{"surface":"להם","gloss":"کين"},{"surface":"המן","gloss":"هامان"},{"surface":"את","gloss":"⟨את⟩","marks":"پنهنجي مال جي شان"},{"surface":"כבוד","gloss":"شان"},{"surface":"עשרו","gloss":"پنهنجي مال جي"},{"surface":"ורב","gloss":"۽ گهڻائي"},{"surface":"בניו","gloss":"پنهنجن پٽن جي"},{"surface":"ואת","gloss":"⟨את⟩","marks":"س everything"},{"surface":"כל","gloss":"س everything"},{"surface":"אשר","gloss":"جيڪو"},{"surface":"גדלו","gloss":"وڏو ڪيو هو"},{"surface":"המלך","gloss":"بادشاهه"},{"surface":"ואת","gloss":"⟨את⟩","marks":"جيڪو"},{"surface":"אשר","gloss":"جيڪو"},{"surface":"נשאו","gloss":"مٿي کڻيو هو"},{"surface":"על","gloss":"تي"},{"surface":"השרים","gloss":"سردارن"},{"surface":"ועבדי","gloss":"۽ نوڪرن"},{"surface":"המלך","gloss":"بادشاهه جي"}],"timestamp":"2026-08-30T13:54:51.020763083Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 5:11",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ هامان انهن کي ٻڌايو ⟨את⟩ پنهنجي دولت جي شان، ۽ پنهنجن پٽن جي گهڻائي، ۽ ⟨את⟩ س everything جيڪو بادشاهه ان کي وڌايو، ۽ ⟨את⟩ جيڪو ان کي سردارن ۽ بادشاهه جي ٻانهن تي مٿي کڻايو.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "ٻڌايو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انهن کي"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجي دولت جي شان"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "پنهنجي دولت"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "۽ گهڻائي"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پنهنجن پٽن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "س everything جيڪو بادشاهه ان کي وڌايو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "س everything"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "وڌايو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "جيڪو ان کي سردارن تي مٿي کڻايو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "مٿي کڻايو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "۽ ٻانهن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:50:33.875579852Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":29,"ref":"numbers 13:29","book":"numbers","lang":"sd","chapter":13,"translation":"عمالق ⟨הוא⟩ ننگر جي زمين ۾ رهي ٿو، ۽ حتي ۽ يبوسي ۽ اموري جبل ۾ رهن ٿا، ۽ ڪنعاني سمنڊ ۽ يردن جي ڪناري تي رهي ٿو.","tokens":[{"surface":"עמלק","gloss":"عمالق"},{"surface":"יושב","gloss":"رهي ٿو"},{"surface":"בארץ","gloss":"زمين ۾"},{"surface":"הנגב","gloss":"ننگر"},{"surface":"והחתי","gloss":"۽ حتي"},{"surface":"והיבוסי","gloss":"۽ يبوسي"},{"surface":"והאמרי","gloss":"۽ اموري"},{"surface":"יושב","gloss":"رهن ٿا"},{"surface":"בהר","gloss":"جبل ۾"},{"surface":"והכנעני","gloss":"۽ ڪنعاني"},{"surface":"ישב","gloss":"رهي ٿو"},{"surface":"על","gloss":"تي"},{"surface":"הים","gloss":"سمنڊ"},{"surface":"ועל","gloss":"۽ تي"},{"surface":"יד","gloss":"ڪناري"},{"surface":"הירדן","gloss":"يردن جي"}],"timestamp":"2026-08-30T10:27:54.710483614Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 13:29",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "عماليڪ ڏکڻ جي زمين ۾ وهندڙ آھي، ۽ حِتي ۽ يبُسي ۽ ايموري جبل تي وهندڙ آھن، ۽ ڪنعاني سمنڊ جي ڪناري ۽ يردن جي ڪنڌيءَ تي وهندڙ آھي.",
+  "tokens": [
+    {
+      "surface": "עמלק",
+      "gloss": "عماليڪ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "وهندڙ آھي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمين ۾"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ڏکڻ جي"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "۽ حِتي"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "۽ يبُسي"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "۽ ايموري"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "وهندڙ آھن"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل تي"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "۽ ڪنعاني"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "وهندڙ آھي"
+    },
+    {
+      "surface": "על",
+      "gloss": "ڪناري"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمنڊ جي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ ڪنڍيءَ تي"
+    },
+    {
+      "surface": "יד",
+      "gloss": "کنڌيءَ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "يردن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:33:55.252454203Z",
+  "model": "glm-5.3"
+}

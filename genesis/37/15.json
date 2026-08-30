@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ ھڪ ماڻھوءَ کيس مليو، ۽ ڏسو، اھي ٻھ ٻڪريون اٿس جيڪي ٻنين ۾ پيل آھن.",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "کيس مليو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھوءَ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "۽ ڏسو"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "ڦرندو پئي"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "پوک ۾"
+    },
+    {
+      "surface": "וישאלהو",
+      "gloss": "پڇيس"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ماڻھوءَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چئي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "ڳولين ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T23:28:28.748309934Z",
+  "model": "glm-5.3"
+}

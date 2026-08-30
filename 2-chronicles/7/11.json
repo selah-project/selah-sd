@@ -1,1 +1,92 @@
-{"tier":"glm-5.2","verse":11,"ref":"2-chronicles 7:11","book":"2-chronicles","lang":"sd","chapter":7,"translation":"۽ شلومو پورو ڪيو ⟨את⟩ ياهوه جو گهر ۽ ⟨את⟩ بادشاهه جو گهر؛ ۽ ⟨את⟩ سڀ اهو جيڪو شلومو جي دل تي چڙهيو هو ياهوه جي گهر ۾ ۽ پنهنجي گهر ۾ ڪرڻ لاءِ — اُهو سَٻَٺو ٿي ويو.","tokens":[{"surface":"ויכל","gloss":"پورو ڪيائين"},{"surface":"שלמה","gloss":"شلومو"},{"surface":"את","gloss":"⟨את⟩","marks":"ياهوه جو گهر"},{"surface":"בית","gloss":"گهر"},{"surface":"יהוה","gloss":"יהوه"},{"surface":"ואת","gloss":"۽ ⟨את⟩","marks":"بادشاهه جو گهر"},{"surface":"בית","gloss":"گهر"},{"surface":"המלך","gloss":"بادشاهه جو"},{"surface":"ואת","gloss":"۽ ⟨את⟩","marks":"سڀ اهو جيڪو دل تي چڙهيو هو"},{"surface":"כל","gloss":"سڀ"},{"surface":"הבא","gloss":"چڙهيل"},{"surface":"על","gloss":"تي"},{"surface":"לב","gloss":"دل"},{"surface":"שלמה","gloss":"شلومو جي"},{"surface":"לעשות","gloss":"ڪرڻ لاءِ"},{"surface":"בבית","gloss":"گهر ۾"},{"surface":"יהוה","gloss":"יהوه جي"},{"surface":"ובביתו","gloss":"۽ پنهنجي گهر ۾"},{"surface":"הצליח","gloss":"سَٻَٺو ٿي ويو"}],"timestamp":"2026-08-30T14:22:43.411727923Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 7:11",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "پوءِ شلومو ياهوه جي گهر ۽ بادشاهه جو گهر پورو ڪيو، ۽ جيڪو به شلومو جي دل تي آيو ته ياهوه جي گهر ۾ ۽ پنهنجي گهر ۾ ڪري، تنهن کي ⟨את⟩ سڌو ڪيائين ۽ ڪامياب ٿيو.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "پورو ڪيو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه جي گهر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بادشاهه جو گهر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "جيڪو به دل تي آيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جيڪو به"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "آيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ڪرڻ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گهر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ובביתו",
+      "gloss": "پنهنجي گهر ۾"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "ڪامياب ٿيو"
+    }
+  ],
+  "timestamp": "2026-08-30T23:53:21.232944996Z",
+  "model": "glm-5.3"
+}

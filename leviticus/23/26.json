@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sd",
   "chapter": 23,
-  "translation": "۽ ياهوه موشي سان ڳالchgيائين، چئڻ لاءِ.",
+  "translation": "۽ ياهوه موشي سان ڳالھائي ٿو، چوندو:",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "۽ ڳالchgيائين"
+      "gloss": "۽ ڳالھائي ٿو"
     },
     {
       "surface": "יהוה",
@@ -25,9 +25,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "چئڻ لاءِ"
+      "gloss": "چوندو"
     }
   ],
-  "timestamp": "2026-08-30T10:21:11.848480129Z",
+  "timestamp": "2026-08-30T23:33:25.504156120Z",
   "model": "glm-5.3"
 }

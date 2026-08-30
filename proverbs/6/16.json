@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 6,
+  "translation": "ڇھ شيءِون آھن جن کي ياهوه سڻٽ ٿو، ۽ ست ⟨آھن⟩ ناپسنديدگيون سندس نفس کي،",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اوھي\/آھن"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "سڻٽ ٿو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "۽ ست"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ناپسنديدگيون"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "سندس نفس"
+    }
+  ],
+  "timestamp": "2026-08-30T23:29:28.696543294Z",
+  "model": "glm-5.3"
+}

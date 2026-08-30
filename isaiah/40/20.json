@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":20,"ref":"isaiah 40:20","book":"isaiah","lang":"sd","chapter":40,"translation":"مسڪين (ڇڏايل) — نذر لاءِ؟ اھڙو木头 لکندڙ نه هوندو آھي؛ لَڙ (سڙندڙ نه) وڻ چونڊي ٿو، ھُن لاءِ ھڪ ڌاتر (عاقب) ڳولي ٿو، پڪي (اڻ ڏولندڙ) مورت تيار ڪرڻ لاءِ.","tokens":[{"surface":"המסכן","gloss":"مسڪين (ڇڏايل)"},{"surface":"תרומה","gloss":"نذر لاءِ"},{"surface":"עץ","gloss":"وڻ (ڪاٺ)"},{"surface":"לא","gloss":"نه"},{"surface":"ירקב","gloss":"سڙندڙ"},{"surface":"יבחר","gloss":"چونڊي ٿو"},{"surface":"חרש","gloss":"ڌاتر"},{"surface":"חכם","gloss":"عاقب"},{"surface":"יבקש","gloss":"ڳولي ٿو"},{"surface":"לו","gloss":"ھُن لاءِ"},{"surface":"להכין","gloss":"تيار ڪرڻ لاءِ"},{"surface":"פסל","gloss":"مورت"},{"surface":"לא","gloss":"نه"},{"surface":"ימוט","gloss":"ڏولندڙ"}],"timestamp":"2026-08-30T11:59:28.146065667Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 40:20",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 40,
+  "translation": "جو نذرانا کان محروم آهي، سو اهڙو وڻ چونڊي ٿو جو نه ڳُڙي؛ هڪ ڀڙ ڪاريگر هن لاءِ ڳولي ٿو ته هڪ مورت تيار ڪري، جا نه لوڏي.",
+  "tokens": [
+    {
+      "surface": "המסכן",
+      "gloss": "محروم"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "نذرانا"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "ڳُڙي"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "چونڊي ٿو"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ڪاريگر"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ڀڙ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ڳولي ٿو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن لاءِ"
+    },
+    {
+      "surface": "להכין",
+      "gloss": "تيار ڪري"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "مورت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "لوڏي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:40:42.566701632Z",
+  "model": "glm-5.3"
+}

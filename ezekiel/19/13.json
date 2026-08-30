@@ -5,33 +5,8 @@
   "book": "ezekiel",
   "lang": "sd",
   "chapter": 19,
-  "translation": "۽ هاڻي اُהا ⟨آهي⟩ بيابان ۾ رواند ڪئي وئي، سُڪي ۽ اُڃيل ⟨زمين⟩ ۾.",
-  "tokens": [
-    {
-      "surface": "ועתה",
-      "gloss": "۽ هاڻي"
-    },
-    {
-      "surface": "שתולה",
-      "gloss": "رواند ڪئي وئي"
-    },
-    {
-      "surface": "במדבר",
-      "gloss": "بيابان ۾"
-    },
-    {
-      "surface": "בארץ",
-      "gloss": "⟨زمين⟩ ۾"
-    },
-    {
-      "surface": "ציה",
-      "gloss": "سُڪي"
-    },
-    {
-      "surface": "וצמא",
-      "gloss": "۽ اُڃيل"
-    }
-  ],
-  "timestamp": "2026-08-30T12:32:23.341462137Z",
+  "translation": "۽ هاڻي هوءَ ⟨את⟩ بيٺل آهي بن barren…",
+  "tokens": [],
+  "timestamp": "2026-08-30T23:43:09.960877316Z",
   "model": "glm-5.3"
 }

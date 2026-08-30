@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 15,
+  "translation": "۽ جي ڪنھن ماڻھوءَ مان نسن جو ٻج نڪري ته پاڻيءَ ۾ ⟨את⟩ پنھنجي سڄي جسم کي ڌوئي ۽ شام تائين اڻچو رھي.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ماڻھوءَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جي"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نڪري"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "مان"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "نسن جي"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ٻج"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "۽ ڌوئي"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پاڻيءَ ۾"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڄي جسم (כל בשרו)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڄي"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "جسم کي"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "۽ اڻچو رھي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-08-30T23:28:40.684758905Z",
+  "model": "glm-5.3"
+}

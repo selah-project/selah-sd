@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":10,"ref":"job 29:10","book":"job","lang":"sd","chapter":29,"translation":"ن广汽ن جي آواز لڪي ويا، ۽ سندن زبان سندن تالو سان چنبڙي وئي.","tokens":[{"surface":"קול","gloss":"آواز"},{"surface":"נגידים","gloss":"ن广汽ن جي (سردارن)"},{"surface":"נחבאו","gloss":"لڪي ويا"},{"surface":"ולשונם","gloss":"۽ سندن زبان"},{"surface":"לחכם","gloss":"سندن تالو سان"},{"surface":"דבקה","gloss":"چنبڙي وئي"}],"timestamp":"2026-08-30T13:40:51.698801630Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 29:10",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 29,
+  "translation": "سردارن جو آواز لڪي ويو، ۽ سندن زبان سندن تالوءَ سان چنبڙي وئي.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "سردارن"
+    },
+    {
+      "surface": "נחבאו",
+      "gloss": "لڪي ويو"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "۽ سندن زبان"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "سندن تالوءَ سان"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "چنبڙي وئي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:48:30.024238456Z",
+  "model": "glm-5.3"
+}

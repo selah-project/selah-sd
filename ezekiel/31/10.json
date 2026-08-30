@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":10,"ref":"ezekiel 31:10","book":"ezekiel","lang":"sd","chapter":31,"translation":"इसलिए यों आखे आदोनै यहोवा: इसलिए के तो कद में ऊंचो थو، अने उने आपनी छतर घने डालियन मिढे दी, अने उनो दिल आपनी ऊंचाइ मिढे गर्व थيو.","tokens":[{"surface":"לכן","gloss":"इसलिए"},{"surface":"כה","gloss":"यों"},{"surface":"אמר","gloss":"आखे"},{"surface":"אדני","gloss":"आदोनै"},{"surface":"יהוה","gloss":"यहोवा"},{"surface":"יען","gloss":"इसलिए के"},{"surface":"אשר","gloss":""},{"surface":"גבהת","gloss":"तो ऊंचो थो"},{"surface":"בקומה","gloss":"कद में"},{"surface":"ויתן","gloss":"अने उने दी"},{"surface":"צמרתו","gloss":"आपनी छतर"},{"surface":"אל","gloss":""},{"surface":"בין","gloss":"मिढे"},{"surface":"עבותים","gloss":"घने डालियन"},{"surface":"ורם","gloss":"अने ऊंचो थيو"},{"surface":"לבבו","gloss":"उनो दिल"},{"surface":"בגבהו","gloss":"आपनी ऊंचाइ मिढे"}],"timestamp":"2026-08-30T12:38:03.179010377Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 31:10",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 31,
+  "translation": "تنهنڪري هيئن چوي ٿو ادوناي ياهوه: ڇوته تون قد ۾ مٿي اڀريو ۽ سندس ٽيڻو ڳچ وڻن جي وچ ۾ وڌو، ۽ سندس دل سندس اوچائيءَ ۾ گه曼ي وئي.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "تنهنڪري"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هيئن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "چوي ٿو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ته"
+    },
+    {
+      "surface": "גבהת",
+      "gloss": "مٿي اڀريو"
+    },
+    {
+      "surface": "בקומה",
+      "gloss": "قد ۾"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وڌو"
+    },
+    {
+      "surface": "צמרתו",
+      "gloss": "سندس ٽيڻو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچ"
+    },
+    {
+      "surface": "עבותים",
+      "gloss": "ڳچ وڻن جي"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "۽ گه曼ي وئي"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "سندس دل"
+    },
+    {
+      "surface": "בגבהו",
+      "gloss": "سندس اوچائيءَ ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T23:44:13.468365325Z",
+  "model": "glm-5.3"
+}

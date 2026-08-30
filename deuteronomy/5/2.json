@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":2,"ref":"deuteronomy 5:2","book":"deuteronomy","lang":"sd","chapter":5,"translation":"ياهوه، اسان جو ايلوهيم، حوريب ۾ اسان سان عهد ⟨is⟩ ڪيو.","tokens":[{"surface":"יהוה","gloss":"ياهوه"},{"surface":"אלהינו","gloss":"اسان جو ايلوهيم"},{"surface":"כרת","gloss":"ڪيو (ڪپي)"},{"surface":"עמנו","gloss":"اسان سان"},{"surface":"ברית","gloss":"عهد"},{"surface":"בחרב","gloss":"حوريب ۾"}],"timestamp":"2026-08-30T10:37:42.676598026Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "ياهوه اسان جو ايلوهيم اسان سان حوريب ۾ عھد ⟨ڪپيو⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "اسان جو ايلوهيم"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ڪپيو"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "اسان سان"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عھد"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "حوريب ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T23:34:59.399069019Z",
+  "model": "glm-5.3"
+}

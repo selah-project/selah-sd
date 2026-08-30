@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":20,"ref":"2-chronicles 4:20","book":"2-chronicles","lang":"sd","chapter":4,"translation":"۽ ⟨את}$ يقندل ۽ انهن جا چراغ، دستور موجب، پردي کان اڳ ڀاڻڻ لاءِ — بند ڪيل سون.","tokens":[{"surface":"ואת","gloss":"۽ ⟨את⟩","marks":"يقندل"},{"surface":"המנרות","gloss":"يقندل"},{"surface":"ונרתיהם","gloss":"۽ انهن جا چراغ"},{"surface":"לבערם","gloss":"ڀاڻڻ لاءِ"},{"surface":"כמשפט","gloss":"دستور موجب"},{"surface":"לפני","gloss":"اڳ"},{"surface":"הדביר","gloss":"پردي"},{"surface":"זהב","gloss":"سون"},{"surface":"סגור","gloss":"بند ڪيل"}],"timestamp":"2026-08-30T14:20:54.812684436Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ ⟨את⟩ مينورتن ۽ سندن چراغ، اندرين پرلوڻيءَ (دٻير) جي اڳيان پالوڻي موجب ٻارڻ لاءِ، سچو سون.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مينورتن"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "مينورتن"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "سندن چراغ"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "ٻارڻ لاءِ"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "پالوڻي موجب"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "جي اڳيان"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "دٻير"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "سچو"
+    }
+  ],
+  "timestamp": "2026-08-30T23:53:07.455236183Z",
+  "model": "glm-5.3"
+}

@@ -5,45 +5,45 @@
   "book": "numbers",
   "lang": "sd",
   "chapter": 32,
-  "translation": "Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon —",
+  "translation": "عطاروت ۽ ديبون ۽ يعزر ۽ نمره ۽ حشبون ۽ ايلعاله ۽ سبام ۽ نبو ۽بعون،",
   "tokens": [
     {
       "surface": "עטרות",
-      "gloss": "Ataroth"
+      "gloss": "عطاروت"
     },
     {
       "surface": "ודיבן",
-      "gloss": "and Dibon"
+      "gloss": "۽ ديبون"
     },
     {
       "surface": "ויעזר",
-      "gloss": "and Jazer"
+      "gloss": "۽ يعزر"
     },
     {
       "surface": "ונמרה",
-      "gloss": "and Nimrah"
+      "gloss": "۽ نمره"
     },
     {
       "surface": "וחשבון",
-      "gloss": "and Heshbon"
+      "gloss": "۽ حشبون"
     },
     {
       "surface": "ואלעלה",
-      "gloss": "and Elealeh"
+      "gloss": "۽ ايلعاله"
     },
     {
       "surface": "ושבם",
-      "gloss": "and Shebam"
+      "gloss": "۽ سبام"
     },
     {
       "surface": "ונבו",
-      "gloss": "and Nebo"
+      "gloss": "۽ نبو"
     },
     {
       "surface": "ובען",
-      "gloss": "and Beon"
+      "gloss": "۽ بعون"
     }
   ],
-  "timestamp": "2026-08-30T10:34:35.914966872Z",
+  "timestamp": "2026-08-30T23:34:43.692310086Z",
   "model": "glm-5.3"
 }

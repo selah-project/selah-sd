@@ -1,1 +1,12 @@
-{"tier":"glm-5.2","verse":22,"ref":"deuteronomy 18:22","book":"deuteronomy","lang":"sd","chapter":18,"translation":"جيڪو لفظ نبي ياهوه جي نالي ۾ چوي ۽ ⟨the⟩ لفظ ٿي نه ۽ اچي نه، اُھو ⟨the⟩ لفظ آھي جيڪو ياهوه نه ٿو چوي؛ گھمنڊ سان چيو اُھي نبي؛ تنھن کان نه ڊڄُنجيءَ.","tokens":[{"surface":"אשר","gloss":"جيڪو لفظ"},{"surface":"ידבר","gloss":"چوي"},{"surface":"הנביא","gloss":"نبي"},{"surface":"בשם","gloss":"جي نالي ۾"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"ולא","gloss":"۽ نه"},{"surface":"יהיה","gloss":"ٿي"},{"surface":"הדבר","gloss":"⟨the⟩ لفظ"},{"surface":"ולא","gloss":"۽ نه"},{"surface":"יבוא","gloss":"اچي"},{"surface":"הוא","gloss":"اُھو"},{"surface":"הדבר","gloss":"⟨the⟩ لفظ"},{"surface":"אשר","gloss":"جيڪو"},{"surface":"לא","gloss":"نه"},{"surface":"דברו","gloss":"ٿو چوي"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"בזדון","gloss":"گھمنڊ سان"},{"surface":"דברו","gloss":"چيو"},{"surface":"הנביא","gloss":"نبي"},{"surface":"לא","gloss":"نه"},{"surface":"תגור","gloss":"ڊڄنجيءَ"},{"surface":"ממנו","gloss":"تنھن کان"}],"timestamp":"2026-08-30T10:42:13.782741018Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 18:22",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "جيڪو نبي ياهوه جي نالي ۾ ڳالھ ڪري ۽ ⟨⟨هو⟩⟩ ڳالھ نه ٿئي ۽ نه اچي — اھا ⟨هو⟩ ڳالھ آھي جا ياهوه نه ٿي ڳالھائي؛ گھمنڊ سان نبي ان کي ڳالھايو آھي؛ تنھن کان ⟨تو⟩ نه ڊڄجن.",
+  "tokens": null,
+  "timestamp": "2026-08-30T23:35:08.554869960Z",
+  "model": "glm-5.3"
+}

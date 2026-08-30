@@ -1,1 +1,71 @@
-{"tier":"glm-5.2","verse":28,"ref":"exodus 4:28","book":"exodus","lang":"sd","chapter":4,"translation":"۽ موشي اهارون کي ⟨את⟩ ياهوه جا سڀ لفظ ٻڌايا جن سان ان کي موڪليو ھوائين، ۽ ⟨את⟩ سڀ نشانا جن جو حڪم ڏنو ھوائينس.","tokens":[{"surface":"ויגד","gloss":"۽ ٻڌايا"},{"surface":"משה","gloss":"موشي"},{"surface":"לאהרן","gloss":"اهارون کي"},{"surface":"את","gloss":"⟨את⟩","marks":"سڀ لفظ"},{"surface":"כל","gloss":"سڀ"},{"surface":"דברי","gloss":"لفظ"},{"surface":"יהוה","gloss":"ياهوه جا"},{"surface":"אשר","gloss":"جن"},{"surface":"שלחו","gloss":"موڪليو ھوائين"},{"surface":"ואת","gloss":"۽ ⟨את⟩","marks":"سڀ نشانا"},{"surface":"כל","gloss":"سڀ"},{"surface":"האתת","gloss":"نشansa"},{"surface":"אשר","gloss":"جن جو"},{"surface":"צוהו","gloss":"حڪم ڏنو ھوائينس"}],"timestamp":"2026-08-30T09:58:30.093497847Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "۽ موشي اهارون کي ٻڌايو ⟨את⟩ سڀ ڳالھيون ياهوه جون، جن لاءِ ⟨את⟩ کيس موڪليو، ۽ ⟨את⟩ سڀ نشانيون، جن جو حڪم ڪيائينس.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "۽ ٻڌايو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اهارون کي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ ڳالھيون ياهوه جون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ڳالھيون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن لاءِ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "موڪليو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "سڀ نشانيون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "نشانيون"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "جن جو"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "حڪم ڪيائينس"
+    }
+  ],
+  "timestamp": "2026-08-30T23:31:29.118148393Z",
+  "model": "glm-5.3"
+}

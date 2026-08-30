@@ -5,8 +5,33 @@
   "book": "ezra",
   "lang": "sd",
   "chapter": 2,
-  "translation": "ادونيقام جا پُٽ، ڇھ سَو ٻيٺاھ چوڻ (ڇھ سَو ٻيٺي ۽ ڇھ).",
-  "tokens": [],
-  "timestamp": "2026-08-30T14:01:17.705397185Z",
+  "translation": "ادونيقام جا پُٽ، ڇھ سَؤ ⟨۽⟩ سٺ ۽ ڇھ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "جا پُٽ"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "ادونيقام"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَؤ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٺ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "۽ ڇھ"
+    }
+  ],
+  "timestamp": "2026-08-30T23:51:11.183423936Z",
   "model": "glm-5.3"
 }

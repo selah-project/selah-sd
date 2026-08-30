@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":23,"ref":"numbers 27:23","book":"numbers","lang":"sd","chapter":27,"translation":"۽ پنهنجون هٿيون ⟨את⟩ مٿس رکيائين ۽ کيس حڪم ڪيائين، جيئن ياهوه موشيءَ جي هٿ writings سخن فرمايو هو.","tokens":[{"surface":"ויסמך","gloss":"رکيائين (سِمُک)"},{"surface":"את","gloss":"⟨את⟩","marks":"پنهنجون هٿيون"},{"surface":"ידיו","gloss":"پنهنجون هٿيون"},{"surface":"עליו","gloss":"مٿس"},{"surface":"ויצוהו","gloss":"۽ کيس حڪم ڪيائين"},{"surface":"כאשר","gloss":"جيئن"},{"surface":"דבר","gloss":"سخن فرمايو"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"ביד","gloss":"جي هٿ ذريعي"},{"surface":"משה","gloss":"موشي"}],"timestamp":"2026-08-30T14:40:06.600280413Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "۽ پنهنجون هٿيون ⟨את⟩ هن مٿان رکيائين ۽ کيس حڪم ڏنائين، جيئن ياهوه موشي جي هٿ ذريعي چيو هو.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "رکيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هن جون هٿيون"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "پنهنجون هٿيون"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "هن مٿان"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "کيس حڪم ڏنائين"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو هو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "هٿ ذريعي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:34:30.311755948Z",
+  "model": "glm-5.3"
+}

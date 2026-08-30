@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "sd",
   "chapter": 6,
-  "translation": "ميخائيل جو پُٽ، بعسياه جو پُٽ، ملكيyah جو پُٽ۔",
+  "translation": "ميخائيل جو پٽ، بَعَسيَه جو پٽ، مَلڪيَه جو پٽ.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "پُٽ"
+      "gloss": "پٽ"
     },
     {
       "surface": "מיכאל",
@@ -17,21 +17,21 @@
     },
     {
       "surface": "בן",
-      "gloss": "پُٽ"
+      "gloss": "پٽ"
     },
     {
       "surface": "בעשיה",
-      "gloss": "بعسياه"
+      "gloss": "بَعَسيَه"
     },
     {
       "surface": "בן",
-      "gloss": "پُٽ"
+      "gloss": "پٽ"
     },
     {
       "surface": "מלכיה",
-      "gloss": "ملكيyah"
+      "gloss": "مَلڪيَه"
     }
   ],
-  "timestamp": "2026-08-30T14:13:07.750059823Z",
+  "timestamp": "2026-08-30T23:51:53.533097653Z",
   "model": "glm-5.3"
 }

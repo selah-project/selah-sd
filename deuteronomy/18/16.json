@@ -1,1 +1,118 @@
-{"tier":"glm-5.2","verse":16,"ref":"deuteronomy 18:16","book":"deuteronomy","lang":"sd","chapter":18,"translation":"جھڙو سڀ <!-- these --> جي تو ياهوه پنهنجي ايلوهيم کان حوريب ۾، ڪٽھ ۾ <!-- this --> ڏينھن، سوال ڪيو، چوندي <!-- this --> ته: 'مون کي ياهوه <!-- this --> مھنجي <!-- this --> ايلوهيم جو آواز وري نه ٻڌڻو آهي، ۽ <!-- this --> هي <!-- this --> وڏي باهه <!-- this --> وري نه ڏسڻي اٿم، متان مون مريان.'","tokens":[{"surface":"ככל","gloss":"جھڙو سڀ"},{"surface":"אשר","gloss":"جي"},{"surface":"שאלת","gloss":"تو سوال ڪيو"},{"surface":"מעם","gloss":"کان"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"אלהיך","gloss":"پنهنجي ايلوهيم"},{"surface":"בחרב","gloss":"حوريب ۾"},{"surface":"ביום","gloss":"ڏينھن ۾"},{"surface":"הקהל","gloss":"ڪٽٿ جي"},{"surface":"לאמר","gloss":"چوندي ته"},{"surface":"לא","gloss":"نه"},{"surface":"אסף","gloss":"وري"},{"surface":"לשמע","gloss":"ٻڌڻو"},{"surface":"את","gloss":"⟨את⟩","marks":"آواز"},{"surface":"קול","gloss":"آواز"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"אלהי","gloss":"مھنجي ايلوهيم"},{"surface":"ואת","gloss":"⟨את⟩","marks":"باهه"},{"surface":"האש","gloss":"باهه"},{"surface":"הגדלה","gloss":"وڏي"},{"surface":"הזאת","gloss":"هي"},{"surface":"לא","gloss":"نه"},{"surface":"אראה","gloss":"ڏسڻي"},{"surface":"עוד","gloss":"وري"},{"surface":"ולא","gloss":"۽ نه"},{"surface":"אמות","gloss":"مريان"}],"timestamp":"2026-08-30T10:42:44.016398729Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 18:16",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "جيئن تون هوريب ۾، قوم جي ڪٺ.th جي ڏينهن ۾، پنهنجي الله ياهوه کان سَڏُ ڪري چيو، ”مان وري پنهنجي الله ياهوه جو آواز نه ٻڌان ۽ ⟨את⟩ هي وڏي باهه وري نه ڏسان، ته مان نه مريان.“",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "جيئن سڀ"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "تون سَڏُ ڪيو"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "پنهنجي ايلوهيم"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "هوريب ۾"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "جي ڏينهن ۾"
+    },
+    {
+      "surface": "הקהل",
+      "gloss": "ڳوٺ_جي_ڳڻپ (قوم جي ڪٺ)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چوڻ لاءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "paced وري (واڌارو)"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ٻڌڻ لاءِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آواز (ياهوه جو آواز)"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "منجھنجو ايلوهيم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ۽"
+    },
+    {
+      "surface": "האש",
+      "gloss": "اها باهه"
+    },
+    {
+      "surface": "הגדلה",
+      "gloss": "وڏي"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هي"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אראه",
+      "gloss": "ڏسان"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "وري"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "مريان"
+    }
+  ],
+  "timestamp": "2026-08-30T23:35:20.779528408Z",
+  "model": "glm-5.3"
+}

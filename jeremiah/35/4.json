@@ -1,1 +1,110 @@
-{"tier":"glm-5.2","verse":4,"ref":"jeremiah 35:4","book":"jeremiah","lang":"sd","chapter":35,"translation":"‏۽ آءٌ کين ياهوه جي گهر ۾ آيس، حنان جي پُٽن جي لشڪت وٽ، پٽ يگدلياهو جي، ايلوهيم جي ماڻهوءَ جي، جيڪا اميرن جي لشڪت جي ويجهو هئي، جيڪا معسياهو پٽ شلوم، دروازي جي نگهبان، جي لشڪت جي مٿان هئي.","tokens":[{"surface":"ואבא","gloss":"۽ آيس"},{"surface":"אתם","gloss":"⟨את⟩ کين","marks":"ياهوه جي گهر"},{"surface":"בית","gloss":"گهر"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"אל","gloss":"۾"},{"surface":"לשכת","gloss":"لشڪت"},{"surface":"בני","gloss":"پُٽن جي"},{"surface":"חנן","gloss":"حنان"},{"surface":"בן","gloss":"پٽ"},{"surface":"יגדליהו","gloss":"يگدلياهو"},{"surface":"איש","gloss":"ماڻهوءَ"},{"surface":"האלהים","gloss":"ايلوهيم جي"},{"surface":"אשר","gloss":"جيڪا"},{"surface":"אצל","gloss":"ويجهو"},{"surface":"לשכת","gloss":"لشڪت"},{"surface":"השרים","gloss":"اميرن جي"},{"surface":"אשר","gloss":"جيڪا"},{"surface":"ממעל","gloss":"مٿان"},{"surface":"ללשכת","gloss":"لشڪت"},{"surface":"מעשיהו","gloss":"معسياهو"},{"surface":"בן","gloss":"پٽ"},{"surface":"שלם","gloss":"شلوم"},{"surface":"שמר","gloss":"نگهبان"},{"surface":"הסף","gloss":"دروازي جي"}],"timestamp":"2026-08-30T12:18:24.350278577Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 35:4",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "۽ آءٌ کين کڻي ويس ياهوه جي گهر ۾، حنان پٽ يگدلياهو جي پٽن جي لشڪت ۾، جو ايلوهيم جو ماڻھو ھو، جا سردارن جي لشڪت جي پاسي ۾ ھئي، جا ماعسياهو پٽ شلم جي لشڪت جي مٿان ھئي، جو دروازي جو نگهبان ھو.",
+  "tokens": [
+    {
+      "surface": "ואבא",
+      "gloss": "۽ آءٌ کين کڻي ويس"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "کين (ياهوه جي گهر)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾ ۽"
+    },
+    {
+      "surface": "לשכת",
+      "gloss": "لشڪت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "יגדליהו",
+      "gloss": "يگدلياهو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ايلوهيم جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "پاسي ۾"
+    },
+    {
+      "surface": "לשכת",
+      "gloss": "لشڪت"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سردارن جي"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "جا"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "ללשכת",
+      "gloss": "لشڪت جي"
+    },
+    {
+      "surface": "מעשיהو",
+      "gloss": "ماعسياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "شلم"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "نگهبان"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "دروازي جو"
+    }
+  ],
+  "timestamp": "2026-08-30T23:42:35.079994415Z",
+  "model": "glm-5.3"
+}

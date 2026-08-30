@@ -5,33 +5,33 @@
   "book": "2-samuel",
   "lang": "sd",
   "chapter": 12,
-  "translation": "مالدار وٽ mindreڍن ۽ ڳئن جا ڌڻ ٿي ويا، تمام گھڻا.",
+  "translation": "امير وٽ گھڻي ماڻڪ ⟨هئي⟩ — ڍور ۽ ٻڪريون تمام گھڻيون.",
   "tokens": [
     {
       "surface": "לעשיר",
-      "gloss": "مالدار وٽ"
+      "gloss": "امير وٽ"
     },
     {
       "surface": "היה",
-      "gloss": "ھئا"
+      "gloss": "هئي"
     },
     {
       "surface": "צאן",
-      "gloss": "منڊين (ڀٻرن) جا ڌڻ"
+      "gloss": "ڍور ۽ ٻڪريون"
     },
     {
       "surface": "ובקר",
-      "gloss": "۽ ڳئن جا"
+      "gloss": "۽ ٻڪريون"
     },
     {
       "surface": "הרבה",
-      "gloss": "گھڻا"
+      "gloss": "گھڻيون"
     },
     {
       "surface": "מאד",
       "gloss": "تمام"
     }
   ],
-  "timestamp": "2026-08-30T11:21:10.831975125Z",
+  "timestamp": "2026-08-30T23:37:26.646327562Z",
   "model": "glm-5.3"
 }

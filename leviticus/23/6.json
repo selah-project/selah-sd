@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":6,"ref":"leviticus 23:6","book":"leviticus","lang":"sd","chapter":23,"translation":"۽ انهيءَ مهيني جي پندرهين ڏينهن بي-phے मटين جو چاڻو ياهوه لاءِ آهي؛ ست ڏينهن مٽي مان روٽ کائجو.","tokens":[{"surface":"ובחמשה","gloss":"۽ پندرهين"},{"surface":"עשר","gloss":"-ڏھن"},{"surface":"יום","gloss":"ڏينهن"},{"surface":"לחדש","gloss":"مهيني جي"},{"surface":"הזה","gloss":"انهيءَ"},{"surface":"חג","gloss":"چاڻو\/چاڻو"},{"surface":"המצות","gloss":"مٽي مان روٽن جو"},{"surface":"ליהוה","gloss":"ياهوه لاءِ"},{"surface":"שבעת","gloss":"ست"},{"surface":"ימים","gloss":"ڏينهن"},{"surface":"מצות","gloss":"مٽي مان روٽ"},{"surface":"תאכלו","gloss":"کائجو"}],"timestamp":"2026-08-30T10:19:59.615658324Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "۽ هن مهيني جي پندرهين ڏينھن تي ياهوه لاءِ بيخميري مانيءَ جو پڄاڻي آھي؛ ستن ڏينھن توهان بيخميري ماني کائندؤ.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "۽ پندرهين"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ٺارهين"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مهيني جي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "חג",
+      "gloss": "پڄاڻي"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "بيخميري مانيءَ جو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ستن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينھن"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "بيخميري ماني"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کائندؤ"
+    }
+  ],
+  "timestamp": "2026-08-30T23:33:27.035961071Z",
+  "model": "glm-5.3"
+}

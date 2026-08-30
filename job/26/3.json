@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":3,"ref":"job 26:3","book":"job","lang":"sd","chapter":26,"translation":"جو نہ ḱه wisdom اَٿس تنهن کي تون ڪيئن صلاح ڏني؟ ۽ سڌي سمجھ کي گهڻيءَ تي تون ڪيئن ڄاڻايو؟","tokens":[{"surface":"מה","gloss":"ڪيئن"},{"surface":"יעצת","gloss":"صلاح ڏني"},{"surface":"ללא","gloss":"نه-اَٿس تنهن کي"},{"surface":"חכמה","gloss":"علم"},{"surface":"ותושיה","gloss":"۽ سڌي سمجھ"},{"surface":"לרב","gloss":"گهڻيءَ تي"},{"surface":"הודעת","gloss":"ڄاڻايو"}],"timestamp":"2026-08-30T13:40:24.692339279Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 26:3",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "ڪيئن تو نہ-ڄاڻَڻھاري کي صلاح ڏني، ۽ ڪيئن تُوشِياه ⟨از⟩ گھڻائيءَ سان ڄاڻائي!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ڪيئن"
+    },
+    {
+      "surface": "יעצת",
+      "gloss": "صلاح ڏني"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "نہ-ڄاڻَڻھاري کي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حڪمت"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "۽ تُوشِياه"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "گھڻائيءَ سان"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "ڄاڻائي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:48:25.269981386Z",
+  "model": "glm-5.3"
+}

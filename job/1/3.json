@@ -1,1 +1,113 @@
-{"tier":"glm-5.2","verse":3,"ref":"job 1:3","book":"job","lang":"sd","chapter":1,"translation":"۽ سندس ماليات ٻڙي مينهون ستن هزار، اُٺ ٽي هزار، ڍڳن جا پنج سؤ جوڙا ۽ gadhيون پنج سؤ هُيون، ۽ خدمتگار تمام گهڻا هُئا؛ ۽ اُهو ماڻهو پوِرڀات جي پُترن مان سڀني کان وڏو هو.","tokens":[{"surface":"ויהי","gloss":"۽ هو"},{"surface":"מקנהו","gloss":"سندس ماليات"},{"surface":"שבעת","gloss":"ستن"},{"surface":"אלפי","gloss":"هزار"},{"surface":"צאן","gloss":"مينهون"},{"surface":"ושלשת","gloss":"۽ ٽي"},{"surface":"אלפי","gloss":"هزار"},{"surface":"גמלים","gloss":"اُٺ"},{"surface":"וחמש","gloss":"۽ پنج"},{"surface":"מאות","gloss":"سؤ"},{"surface":"צמד","gloss":"جوڙا"},{"surface":"בקר","gloss":"ڍڳن جا"},{"surface":"וחמש","gloss":"۽ پنج"},{"surface":"מאות","gloss":"سؤ"},{"surface":"אתונות","gloss":"gadhيون"},{"surface":"ועבדה","gloss":"۽ خدمتگار"},{"surface":"רבה","gloss":"گهڻا"},{"surface":"מאד","gloss":"تمام"},{"surface":"ויהי","gloss":"۽ هو"},{"surface":"האיש","gloss":"اُهو ماڻهو"},{"surface":"ההוא","gloss":"اُهو"},{"surface":"גדול","gloss":"وڏو"},{"surface":"מכל","gloss":"سڀني کان"},{"surface":"בני","gloss":"پُترن مان"},{"surface":"קדם","gloss":"پوِرڀات (اوڀر)"}],"timestamp":"2026-08-30T13:34:29.398348354Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 1:3",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "۽ سندس مال ست هزار قطرون جو، ۽ ٽي هزار اٺ، ۽ پنج سؤ جوڳي ڍڳا، ۽ پنج سؤ ڀليون گڏھ، ۽ خدمتگار تمام گھڻا؛ ۽ اھو ماڻھو اوڀارين پٽن مان سڀني کان وڏو ھو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ھو"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "سندس مال"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "قطرون"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "۽ ٽي"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "اٺ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "جوڳي"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڍڳا"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "ڀليون گڏھ"
+    },
+    {
+      "surface": "ועבדה",
+      "gloss": "۽ خدمتگار"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "گھڻا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ھو ھو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اھو ماڻھو"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڏو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سڀني کان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "اوڀارين"
+    }
+  ],
+  "timestamp": "2026-08-30T23:48:32.326606142Z",
+  "model": "glm-5.3"
+}

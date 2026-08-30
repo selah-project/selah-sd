@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":22,"ref":"genesis 28:22","book":"genesis","lang":"sd","chapter":28,"translation":"۽ ھيءَ پٿر جو مَ STANDING ستون مقرر ڪيو آھي، اھو ايلوهيم جو گهر ٿيندو؛ ۽ جيڪو به تو مون کي ڏيڻين، ان جو ڏھون حصو آءٌ تو کي ڏيندس.","tokens":[{"surface":"והאבן","gloss":"۽ ھيءَ پٿر"},{"surface":"הזאת","gloss":"ھي"},{"surface":"אשר","gloss":"جو"},{"surface":"שמתי","gloss":"مَ مقرر ڪيو"},{"surface":"מצבה","gloss":"ستون"},{"surface":"יהיה","gloss":"ٿيندو"},{"surface":"בית","gloss":"گهر"},{"surface":"אלהים","gloss":"ايلوهيم جو"},{"surface":"וכל","gloss":"۽ جيڪو به"},{"surface":"אשר","gloss":"جو"},{"surface":"תתן","gloss":"تو ڏيڻين"},{"surface":"לי","gloss":"مون کي"},{"surface":"עשר","gloss":"ڏھون حصو"},{"surface":"אעשרנו","gloss":"آءٌ ڏيندس"},{"surface":"לך","gloss":"تو کي"}],"timestamp":"2026-08-30T09:47:09.734949189Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 28:22",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ هيءُ پٿر، جيڪو آءٌ يادگارِي ستون رکيو، اهو ايلوهيم جو گهر ٿيندو، ۽ سَڀ جيڪو تون مون کي ڏيندين، ان جو ڏهون حصو آءٌ ضرور تنهنجي لاءِ ڏيندس.",
+  "tokens": [
+    {
+      "surface": "והאבן",
+      "gloss": "۽ هيءُ پٿر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هيءُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "آءٌ رکيو"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "يادگارِي ستون"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سَڀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تون ڏيندين"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مون کي"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ڏهون حصو"
+    },
+    {
+      "surface": "אעשרנו",
+      "gloss": "آءٌ ضرور ڏيندس"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T23:30:48.405310850Z",
+  "model": "glm-5.3"
+}

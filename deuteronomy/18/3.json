@@ -1,1 +1,87 @@
-{"tier":"glm-5.2","verse":3,"ref":"deuteronomy 18:3","book":"deuteronomy","lang":"sd","chapter":18,"translation":"۽ ھي ڪاهنن جو حق ھوندو، قوم کان ⟨את⟩، قرباني ڪندڙن کان ⟨את⟩ — چاھي ڏاند ھجي چاھي رڍ — ۽ ڪاهن کي ڏيندس: ڏڳ، ٻئي ڳالھا، ۽ ا消化道 کير ويٺھڪو.","tokens":[{"surface":"וזה","gloss":"۽ ھي"},{"surface":"יהיה","gloss":"ھوندو"},{"surface":"משפט","gloss":"حق"},{"surface":"הכהנים","gloss":"ڪاهنن جو"},{"surface":"מאת","gloss":"⟨את⟩","marks":"قوم"},{"surface":"העם","gloss":"قوم کان"},{"surface":"מאת","gloss":"⟨את⟩","marks":"قرباني ڪندڙن"},{"surface":"זבחי","gloss":"قرباني ڪندڙن"},{"surface":"הזבח","gloss":"قرباني"},{"surface":"אם","gloss":"چاھي"},{"surface":"שור","gloss":"ڏاند"},{"surface":"אם","gloss":"چاھي"},{"surface":"שה","gloss":"رڍ"},{"surface":"ונתן","gloss":"۽ ڏيندس"},{"surface":"לכהן","gloss":"ڪاهن کي"},{"surface":"הזרע","gloss":"ڏڳ"},{"surface":"והלחיים","gloss":"۽ ٻئي ڳالھا"},{"surface":"והקבה","gloss":"۽ ويٺھڪو"}],"timestamp":"2026-08-30T10:43:34.820629418Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 18,
+  "translation": "۽ اھو ئي ڪاھن جو حڪم ٿيندو ماڻھن کان، ⟨את⟩ قرباني ڪندڙن کان — جيڪي ڍڳو قرباني ڪن يا مينھون — ته ⟨את⟩ ڪاھن کي ڏيندا دل، ٻئي ھنجڙا ۽ اندر.\n",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "۽ اھو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ڪاھن جو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ماڻھن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻھن کان"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "قرباني ڪندڙن"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قرباني ڪندڙن کان"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ڍڳو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "يا"
+    },
+    {
+      "surface": "שה",
+      "gloss": "مينھون"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "۽ ڏيندا"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ڪاھن کي"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "دل (ڀُڪ)"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "ٻئي ھنجڙا"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "۽ اندر (پيٽ)"
+    }
+  ],
+  "timestamp": "2026-08-30T23:35:20.145364863Z",
+  "model": "glm-5.3"
+}

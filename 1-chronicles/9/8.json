@@ -5,69 +5,69 @@
   "book": "1-chronicles",
   "lang": "sd",
   "chapter": 9,
-  "translation": "۽ يبنيah پٽ يرoham جو، ۽ ايلah پٽ عزي جو، پٽ ميڪري جو، ۽ مشلم پٽ شپطيه jہ جو، پٽ رعوئيل جو، پٽ يبنيه jہ جو.",
+  "translation": "۽ يبنياه بن يروحام، ۽ ايله بن عُزي بن مِخري، ۽ مشُلم بن شفَطيه بن رعُوئيل بن يبنياه.",
   "tokens": [
     {
       "surface": "ויבניה",
-      "gloss": "۽ يبنيah"
+      "gloss": "۽ يبنياه"
     },
     {
       "surface": "בן",
-      "gloss": "پٽ"
+      "gloss": "بن"
     },
     {
       "surface": "ירחם",
-      "gloss": "يرoham"
+      "gloss": "يروحام"
     },
     {
       "surface": "ואלה",
-      "gloss": "۽ ايلah"
+      "gloss": "۽ ايله"
     },
     {
       "surface": "בן",
-      "gloss": "پٽ"
+      "gloss": "بن"
     },
     {
       "surface": "עזי",
-      "gloss": "عزي"
+      "gloss": "عُزي"
     },
     {
       "surface": "בן",
-      "gloss": "پٽ"
+      "gloss": "بن"
     },
     {
       "surface": "מכרי",
-      "gloss": "ميڪري"
+      "gloss": "مِخري"
     },
     {
       "surface": "ומשלם",
-      "gloss": "۽ مشلم"
+      "gloss": "۽ مشُلم"
     },
     {
       "surface": "בן",
-      "gloss": "پٽ"
+      "gloss": "بن"
     },
     {
       "surface": "שפטיה",
-      "gloss": "شپطيه jہ"
+      "gloss": "شفَطيه"
     },
     {
       "surface": "בן",
-      "gloss": "پٽ"
+      "gloss": "بن"
     },
     {
       "surface": "רעואל",
-      "gloss": "رعوئيل"
+      "gloss": "رعُوئيل"
     },
     {
       "surface": "בן",
-      "gloss": "پٽ"
+      "gloss": "بن"
     },
     {
       "surface": "יבניה",
-      "gloss": "يبنيه jہ"
+      "gloss": "يبنياه"
     }
   ],
-  "timestamp": "2026-08-30T14:14:27.564113952Z",
+  "timestamp": "2026-08-30T23:52:04.572587586Z",
   "model": "glm-5.3"
 }

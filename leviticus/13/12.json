@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":12,"ref":"leviticus 13:12","book":"leviticus","lang":"sd","chapter":13,"translation":"۽ جيڪڏھن صرع چمڙيءَ ۾ ڦلڻ لڳي ۽ صرع کيي، مرض واري ماڻھوءَ جي سڄي چمڙيءَ کي، سندس مٿي کان پيرن تائين، ڪوھن جي اکين جي سامهون جيئن ڏسڻ ۾ اچي، ڍڪي وٺي،","tokens":[{"surface":"ואם","gloss":"۽ جيڪڏھن"},{"surface":"פרוח","gloss":"ڦلڻ لڳي (ڀرمڻ) — عبراني פרוח"},{"surface":"תפרח","gloss":"ڦلڻ لڳي"},{"surface":"הצרעת","gloss":"صرع"},{"surface":"בעור","gloss":"چمڙيءَ ۾"},{"surface":"וכסתה","gloss":"۽ ڍڪي وٺي"},{"surface":"הצרעת","gloss":"صرع"},{"surface":"את","gloss":"⟨את⟩","marks":"سڄي چمڙيءَ کي"},{"surface":"כל","gloss":"سڄي"},{"surface":"עור","gloss":"چمڙيءَ"},{"surface":"הנגע","gloss":"مرض واري ماڻھوءَ جي"},{"surface":"מראשו","gloss":"سندس مٿي کان"},{"surface":"ועד","gloss":"تائين"},{"surface":"רגליו","gloss":"پيرن"},{"surface":"לכל","gloss":"سڀ کي"},{"surface":"מראה","gloss":"ڏسڻ ۾"},{"surface":"עיני","gloss":"اکين جي"},{"surface":"הכהן","gloss":"ڪوھن"}],"timestamp":"2026-08-30T10:16:11.744825184Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 13:12",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ جيڪڏھن ڪوڙھ چم ۾ ڦٽي پکڙجي ۽ ڪوڙھ ⟨את⟩ ساري چم نbaşאوار جي مڙيئي ڍڪي ڏئي، سندس مٿي کان سندس پيرن تائين، جيڪو به ڪاھن جي اکين کي ڏسڻ ۾ اچي،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "۽ جيڪڏھن"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "ڦٽي"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "پکڙجي"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ڪوڙھ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چم ۾"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "۽ ڍڪي ڏئي"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ڪوڙھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساري چم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساري"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چم"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نبياري جي"
+    },
+    {
+      "surface": "מראשו",
+      "gloss": "سندس مٿي کان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "سندس پيرن"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "جيڪو به"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ڏسڻ ۾ اچي"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "اکين کي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ڪاھن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:33:07.930122010Z",
+  "model": "glm-5.3"
+}

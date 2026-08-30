@@ -5,8 +5,38 @@
   "book": "genesis",
   "lang": "sd",
   "chapter": 37,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-30T09:51:05.209982342Z",
+  "translation": "پوءِ سندس ڀائر مٿس كاڻ ڪئي؛ پر سندس پيءُ ⟨את⟩ ڳالهه کي سوگھو ڪري رکيو.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "كاڻ ڪئي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "مٿس"
+    },
+    {
+      "surface": "אחיو",
+      "gloss": "سندس ڀائر"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "پر سندس پيءُ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "سوگھو ڪري رکيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڳالهه"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ڳالهه"
+    }
+  ],
+  "timestamp": "2026-08-30T23:30:37.532080027Z",
   "model": "glm-5.3"
 }

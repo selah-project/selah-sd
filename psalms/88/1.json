@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":1,"ref":"psalms 88:1","book":"psalms","lang":"sd","chapter":88,"translation":"گيت، زبور، قورح جي پٽن لاءِ، ترتيب ڏيڻ واري لاءِ، machalath تي، جواب ڏيڻ لاءِ، هڪ سکياڙي، هيمان ايزراچيءَ لاءِ۔","tokens":[{"surface":"שיר","gloss":"گيت"},{"surface":"מזמור","gloss":"زبور"},{"surface":"לבני","gloss":"پٽن لاءِ"},{"surface":"קרח","gloss":"قورح"},{"surface":"למנצח","gloss":"ترتيب ڏيڻ واري لاءِ"},{"surface":"על","gloss":"تي"},{"surface":"מחלת","gloss":"machalath"},{"surface":"לענות","gloss":"جواب ڏيڻ لاءِ"},{"surface":"משכיל","gloss":"سکياڙي"},{"surface":"להימן","gloss":"هيمان لاءِ"},{"surface":"האזרחי","gloss":"ايزراچي"}],"timestamp":"2026-08-30T13:13:59.725822420Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 88,
+  "translation": "ھڪ گيت، ھڪ مزمور، قورح جي پٽن لاءِ، مُ نيندڙ لاءِ، مَحلات تي، جواب ڏيڻ لاءِ، ھڪ سکياڙي وارو نظم، ھيمان اِزراحيءَ لاءِ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گيت"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن لاءِ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "مُ نيندڙ لاءِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "مَحلات"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "جواب ڏيڻ لاءِ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سکياڙي وارو نظم"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "ھيمان لاءِ"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "اِزراحي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:46:52.762106427Z",
+  "model": "glm-5.3"
+}

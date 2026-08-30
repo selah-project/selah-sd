@@ -5,31 +5,31 @@
   "book": "deuteronomy",
   "lang": "sd",
   "chapter": 4,
-  "translation": "۽ س Morgen العرببة جي س hal شامل آهي — عربہ جو س sea، 피سگه جي Dھينن هيٺان، Jردن جي اڀرندي پار تي.",
+  "translation": "۽ سڄي عربا، يردن جي اُڪڙ، اوڀرَ ڏانهن، ۽ عربا جي سمنڊ تائين، پسگهه جي ڍَلَن هيٺان.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "۽ س Morg"
+      "gloss": "۽ سڄي"
     },
     {
       "surface": "הערבה",
-      "gloss": "عربہ (ميدان)"
+      "gloss": "عربا"
     },
     {
       "surface": "עבר",
-      "gloss": "پار"
+      "gloss": "اُڪڙ"
     },
     {
       "surface": "הירדן",
-      "gloss": "ياردن"
+      "gloss": "يردن"
     },
     {
       "surface": "מזרחה",
-      "gloss": "اوڀر ڏي"
+      "gloss": "اوڀرَ ڏانهن"
     },
     {
       "surface": "ועד",
-      "gloss": "۽ تائين"
+      "gloss": "۽ … تائين"
     },
     {
       "surface": "ים",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הערבה",
-      "gloss": "عربہ جو"
+      "gloss": "عربا"
     },
     {
       "surface": "תחת",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "אשדת",
-      "gloss": "لهڻن (ڍinclination)"
+      "gloss": "ڍَلَن"
     },
     {
       "surface": "הפסגה",
-      "gloss": "فسگه جي"
+      "gloss": "پسگهه"
     }
   ],
-  "timestamp": "2026-08-30T10:37:07.578269695Z",
+  "timestamp": "2026-08-30T23:34:58.467098228Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,94 @@
-{"tier":"glm-5.2","verse":16,"ref":"exodus 37:16","book":"exodus","lang":"sd","chapter":37,"translation":"۽ ⟨את⟩ اُهي برتن ٺاهيائين جيڪي ميز تي آهن: ⟨את⟩ ان جون رکيل盘子يون، ⟨את⟩ ان جا دليا، ⟨את⟩ ان جون پيالڙيون، ۽ ⟨את⟩ اُهي چڙاوان جيجن سان اوڙاهہ ٿين؛ سِرو سون.","tokens":[{"surface":"ויעש","gloss":"ٺاهيائين"},{"surface":"את","gloss":"⟨את⟩","marks":"برتن"},{"surface":"הכלים","gloss":"برتن"},{"surface":"אשר","gloss":"جيڪي"},{"surface":"על","gloss":"تي"},{"surface":"השלחן","gloss":"ميز"},{"surface":"את","gloss":"⟨את⟩","marks":"رکيل盘子يون"},{"surface":"קערתיו","gloss":"رکيل盘子يون"},{"surface":"ואת","gloss":"۽ ⟨את⟩","marks":"دليا"},{"surface":"כפתיו","gloss":"دليا"},{"surface":"ואת","gloss":"۽ ⟨את⟩","marks":"پيالڙيون"},{"surface":"מנקיתיו","gloss":"پيالڙيون"},{"surface":"ואת","gloss":"۽ ⟨את⟩","marks":"چڙاوان"},{"surface":"הקשות","gloss":"چڙاوان"},{"surface":"אשר","gloss":"جيجن"},{"surface":"יסך","gloss":"اوڙاهہ ٿين"},{"surface":"בהן","gloss":"انهن سان"},{"surface":"זהב","gloss":"سون"},{"surface":"טהור","gloss":"سِرو"}],"timestamp":"2026-08-30T10:10:19.886300565Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 37,
+  "translation": "۽ ان ⟨את⟩ برتنن کي جيڪي ميز تي آهن ٺاهيائين — ⟨את⟩ سندس ٿالهيون ۽ ⟨את⟩ سندس هاٿيون ۽ ⟨את⟩ سندس basinn ۽ ⟨את⟩ ڍڪڻيون جن سان ڍڪجن، خالص سون.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ٺاهيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برتنن"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ميز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٿالهيون"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "ٿالهيون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "هاٿيون"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "هاٿيون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ڪاسا"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "ڪاسا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "۽ ⟨את⟩",
+      "marks": "ڍڪڻيون"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "ڍڪڻيون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن سان"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ڍڪجن"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "انھن ۾"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-08-30T23:32:18.315828485Z",
+  "model": "glm-5.3"
+}

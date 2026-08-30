@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":3,"ref":"isaiah 26:3","book":"isaiah","lang":"sd","chapter":26,"translation":"جيڪو ماڻھو سوڀيٺو دل رکي ٿو، تنھن کي تون شالوم، شالوم ۾ سنڀاليندو آھين، ڇوته تون ۾ ئي ڀا mistrust آھي.","tokens":[{"surface":"יצר","gloss":"ماڻھو جو سوچڻ\/ڌيان"},{"surface":"סמוך","gloss":"سوڀيٺو\/ٽيڪيل"},{"surface":"תצר","gloss":"سنڀاليندو آھين"},{"surface":"שלום","gloss":"شالوم"},{"surface":"שלום","gloss":"شالوم"},{"surface":"כי","gloss":"ڇوته"},{"surface":"בך","gloss":"تون ۾"},{"surface":"בטוח","gloss":"ڀروسو\/ڀا⟨ا⟩"}],"timestamp":"2026-08-30T11:53:51.186806868Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "تو تي ڀاڙندڙ سوچ کي تُون سلامتي، سلامتي ۾ رکندڙ آهين، ڇوته تو ۾ ئي ڀروسو آهي.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "سوچ"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "تو تي ڀاڙندڙ"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "تُون … رکندڙ آهين"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تو ۾"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "ڀروسو"
+    }
+  ],
+  "timestamp": "2026-08-30T23:40:43.664789561Z",
+  "model": "glm-5.3"
+}

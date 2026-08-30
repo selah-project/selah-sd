@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":8,"ref":"jeremiah 4:8","book":"jeremiah","lang":"sd","chapter":4,"translation":"ان ڪري ٻَڙين (ٽmehr جھڳن) سان پاڻ کي ٻَڌو، ماتم ڪريو ۽ وائو وائو ڪريو، ڇوته ياهوه جي کي Rage جي سخت غصو اسان کان موٽيو ناهي.","tokens":[{"surface":"על","gloss":"ان ڪري"},{"surface":"זאת","gloss":"ان (ڪري)"},{"surface":"חגרו","gloss":"پاڻ کي ٻَڌو"},{"surface":"שקים","gloss":"ٽmehr جھڳن"},{"surface":"ספדו","gloss":"ماتم ڪريو"},{"surface":"והילילו","gloss":"۽ وائو وائو ڪريو"},{"surface":"כי","gloss":"ڇوته"},{"surface":"לא","gloss":"نه"},{"surface":"שב","gloss":"موٽيو ناهي"},{"surface":"חרון","gloss":"سخت غصو"},{"surface":"אף","gloss":"کي Rage جي"},{"surface":"יהוה","gloss":"ياهوه جي"},{"surface":"ממנו","gloss":"اسان کان"}],"timestamp":"2026-08-30T12:08:06.234794736Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 4:8",
+  "book": "jeremiah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "هن لاءِ پنهنجي چادرن سان ٻَڌو، ماتم ڪريو ۽ رڙيو، ڇوته ياهوه جي غصي جي باهه اسان کان موٽي نه آهي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "هن لاءِ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "ٻَڌو"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "چادرن"
+    },
+    {
+      "surface": "ספדו",
+      "gloss": "ماتم ڪريو"
+    },
+    {
+      "surface": "והילילו",
+      "gloss": "۽ رڙيو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שב",
+      "gloss": "موٽي آهي"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "غصي جي باهه"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه جي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اسان کان"
+    }
+  ],
+  "timestamp": "2026-08-30T23:41:21.440624683Z",
+  "model": "glm-5.3"
+}

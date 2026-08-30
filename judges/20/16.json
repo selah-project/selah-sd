@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":16,"ref":"judges 20:16","book":"judges","lang":"sd","chapter":20,"translation":"ان ساري قوم مان ست سؤ چونڊيل ماڻھو ⟨את⟩ پنھنجي ساڄي ھٿ کان بند (کاٻي ھٿ وارا) ھئا؛ سڀ اھي پٿر ۾ غالباً ھڪ وارَ تي اُڇلائيندا ھئا ۽ ڪڏھن خطا نه ڪندا ھئا.","tokens":[{"surface":"מכל","gloss":"ان ساري مان"},{"surface":"העם","gloss":"قوم"},{"surface":"הזה","gloss":"ھن"},{"surface":"שבע","gloss":"ست"},{"surface":"מאות","gloss":"سؤ"},{"surface":"איש","gloss":"ماڻھو"},{"surface":"בחור","gloss":"چونڊيل"},{"surface":"אטר","gloss":"بند (کاٻي ھٿ وارو)"},{"surface":"יד","gloss":"ھٿ"},{"surface":"ימינו","gloss":"پنھنجي ساڄي"},{"surface":"כל","gloss":"سڀ"},{"surface":"זה","gloss":"اھي"},{"surface":"קלע","gloss":"غالباً ( sling ) اُڇلائيندا ھئا"},{"surface":"באבן","gloss":"پٿر ۾"},{"surface":"אל","gloss":"تي"},{"surface":"השערה","gloss":"ھڪ وارَ"},{"surface":"ולא","gloss":"۽ نه"},{"surface":"יחטא","gloss":"خطا ڪندا ھئا"}],"timestamp":"2026-08-30T14:46:01.215203192Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 20:16",
+  "book": "judges",
+  "lang": "sd",
+  "chapter": 20,
+  "translation": "هن ساري ماڻهن مان سَتَ سَو چونڊيل جوان مَڙس هئا، سڀني جي ساڄي هٿ بند هو؛ هي سڀ پَٿر گَلَپِ ۾ اُڇلائي اُن جي وارَ تائين لڳائيندا هئا ۽ ڪڏهن نه چُڪندا هئا.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "هن ساري مان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ماڻهن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سَتَ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مَڙس"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "چونڊيل جوان"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "بند"
+    },
+    {
+      "surface": "יד",
+      "gloss": "هٿ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ساڄي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "اُڇلائيندا هئا"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "پَٿر گَلَپِ ۾"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "وارَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "چُڪندا هئا"
+    }
+  ],
+  "timestamp": "2026-08-30T23:36:54.016444183Z",
+  "model": "glm-5.3"
+}

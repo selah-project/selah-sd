@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":22,"ref":"1-samuel 14:22","book":"1-samuel","lang":"sd","chapter":14,"translation":"۽ اپفريم جي جبل ۾ لڪل اسرائيل جي سڀني ماڻهن ٻڌو ته پلشتي ڀڳا آهن، ته پوءِ اُهي به جنگ ۾ سندن پويان لڳا.","tokens":[{"surface":"וכל","gloss":"۽ سڀ"},{"surface":"איש","gloss":"ماڻهن (each ماڻهو)"},{"surface":"ישראל","gloss":"اسرائيل جي"},{"surface":"המתחבאים","gloss":"لڪل"},{"surface":"בהר","gloss":"جبل ۾"},{"surface":"אפרים","gloss":"اپفريم جي"},{"surface":"שמעו","gloss":"ٻڌو"},{"surface":"כי","gloss":"ته"},{"surface":"נסו","gloss":"ڀڳا آهن"},{"surface":"פלשתים","gloss":"پلشتي"},{"surface":"וידבקו","gloss":"پويان لڳا"},{"surface":"גם","gloss":"به"},{"surface":"המה","gloss":"اُهي"},{"surface":"אחריהם","gloss":"سندن پويان"},{"surface":"במלחמה","gloss":"جنگ ۾"}],"timestamp":"2026-08-30T11:11:12.052651875Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 14:22",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 14,
+  "translation": "۽ اسرائيل جا سڀ ماڻھو جيڪي اپفريم جي جبل ۾ لڪل ھئا، تن ٻڌو تہ پلشتين ڀڄي ويا، تہ پاڻ به پنھنجي لشڪر ۾ تن جي پٺيان لڳي ويا.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "۽ سڀ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻھو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "המתחבאים",
+      "gloss": "لڪل ھئا"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل ۾"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپفريم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "تن ٻڌو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "تہ"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "ڀڄي ويا"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتين"
+    },
+    {
+      "surface": "וידבקו",
+      "gloss": "لڳي ويا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "به"
+    },
+    {
+      "surface": "המה",
+      "gloss": "پاڻ"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "تن جي پٺيان"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "لشڪر ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T23:37:04.129215483Z",
+  "model": "glm-5.3"
+}

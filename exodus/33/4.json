@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":4,"ref":"exodus 33:4","book":"exodus","lang":"sd","chapter":33,"translation":"۽ قوم ٻڌو ⟨את⟩ ⟨the⟩ ڪلام، جو هي بُرو، ۽ سِڪ ۾ ويٺا، ۽ ڪوبه ماڻھو پنھنجا زيور پاڻ تي نه چاڙھيا.","tokens":[{"surface":"וישמע","gloss":"۽ ٻڌو"},{"surface":"העם","gloss":"قوم"},{"surface":"את","gloss":"⟨את⟩","marks":"ڪلام"},{"surface":"הדבר","gloss":"ڪلام"},{"surface":"הרע","gloss":"جو بُرو"},{"surface":"הזה","gloss":"هي"},{"surface":"ויתאבלו","gloss":"۽ سِڪ ۾ ويٺا"},{"surface":"ולא","gloss":"۽ نه"},{"surface":"שתו","gloss":"چاڙھيا"},{"surface":"איש","gloss":"ڪوبه ماڻھو"},{"surface":"עדיו","gloss":"پنھنجا زيور"},{"surface":"עליו","gloss":"پاڻ تي"}],"timestamp":"2026-08-30T10:09:16.267728138Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 33,
+  "translation": "۽ قوم ٻڌو ⟨את⟩ هي خراب palavra، ۽ ⟨هي⟩ سوگ۾ ٿيا؛ ۽ ڪوبه ماڻهو پنهنجا زيور پاڻ تي نه پاتا.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ٻڌو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هي خراب palabra"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "palavra"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "خراب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "سوگ۾ ٿيا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "پاتا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ماڻهو"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "پنهنجا زيور"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پاڻ تي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:32:09.589012703Z",
+  "model": "glm-5.3"
+}

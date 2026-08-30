@@ -5,33 +5,33 @@
   "book": "numbers",
   "lang": "sd",
   "chapter": 7,
-  "translation": "هڪ سون جي هٿيلي، ڏهه <س(ic)>شڪل، خوشبوءَ سان ڀريل.",
+  "translation": "ھڪ سون ڪف، ڏھ شيکل جي، خوشبوءَ سان ڀريل،",
   "tokens": [
     {
       "surface": "כף",
-      "gloss": "هٿيلي"
+      "gloss": "ڪف (ٿالهي\/هاٿيءَ جي تري جهڙي پيااله)"
     },
     {
       "surface": "אחת",
-      "gloss": "هڪ"
+      "gloss": "ھڪ"
     },
     {
       "surface": "עשרה",
-      "gloss": "ڏهه"
+      "gloss": "ڏھ"
     },
     {
       "surface": "זהב",
-      "gloss": "سون جي"
+      "gloss": "سون"
     },
     {
-      "surface": "מלאה",
+      "surface": "مלאה",
       "gloss": "ڀريل"
     },
     {
       "surface": "קטרת",
-      "gloss": "خوشبوءَ"
+      "gloss": "خوشبو (ڪٽوريت)"
     }
   ],
-  "timestamp": "2026-08-30T14:39:38.009573883Z",
+  "timestamp": "2026-08-30T23:33:07.971329370Z",
   "model": "glm-5.3"
 }

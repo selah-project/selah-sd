@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":3,"ref":"1-kings 16:3","book":"1-kings","lang":"sd","chapter":16,"translation":"ھنNo — بدل: \"ڏسو، مان بغشا کي ۽ سندس گھر کي ساڙي ڦِٽو ڪريان ٿو، ۽ تنهنجي گھر کي يروبعام بن نبت جي گھر جهڙو ڪريان.\"","tokens":[{"surface":"הנני","gloss":"ڏسو، مان"},{"surface":"מבעיר","gloss":"ساڙي ڦِٽو ڪريان ٿو"},{"surface":"אחרי","gloss":"کي"},{"surface":"בעשא","gloss":"بغشا"},{"surface":"ואחרי","gloss":"۽"},{"surface":"ביתו","gloss":"سندس گھر"},{"surface":"ונתתי","gloss":"۽ ڪريان"},{"surface":"את","gloss":"⟨את⟩","marks":"تنهنجي گھر"},{"surface":"ביתך","gloss":"تنهنجي گھر"},{"surface":"כבית","gloss":"جهڙو"},{"surface":"ירבעם","gloss":"يروبعام"},{"surface":"בן","gloss":"پُٽ"},{"surface":"נבט","gloss":"نبت"}],"timestamp":"2026-08-30T14:49:47.628117264Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "ڏس، مان بعشا ۽ سندس گهر کان پوءِ باهه لڳائيندس، ۽ تنهنجو گهر ⟨את⟩ يربعام پٽ نباط جي گهر جهڙو ڪندس.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ڏس"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "باهه لڳائيندس"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کان پوءِ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشا"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "۽ … کان پوءِ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "سندس گهر"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "۽ ڪندس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تنهنجو گهر"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "تنهنجو گهر"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "جي گهر جهڙو"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "يربعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نباط"
+    }
+  ],
+  "timestamp": "2026-08-30T23:38:57.237077542Z",
+  "model": "glm-5.3"
+}

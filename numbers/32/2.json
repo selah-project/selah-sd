@@ -5,69 +5,69 @@
   "book": "numbers",
   "lang": "sd",
   "chapter": 32,
-  "translation": "And the sons of Gad and the sons of Reuben came, and said to Moses, and to Elazar the priest, and to the leaders of the congregation, saying:",
+  "translation": "پوءِ گاد جي پٽن ۽ رئوبن جي پٽن موشي، ڪاهن ايلعزر ۽ جماعت جي سردارن کي چيو،",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "and they came"
+      "gloss": "پوءِ اچي"
     },
     {
       "surface": "בני",
-      "gloss": "the sons of"
+      "gloss": "جي پٽن"
     },
     {
       "surface": "גד",
-      "gloss": "Gad"
+      "gloss": "گاد"
     },
     {
       "surface": "ובני",
-      "gloss": "and the sons of"
+      "gloss": "۽ جي پٽن"
     },
     {
       "surface": "ראובן",
-      "gloss": "Reuben"
+      "gloss": "رئوبن"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "and they said"
+      "gloss": "چيو"
     },
     {
       "surface": "אל",
-      "gloss": "to"
+      "gloss": "کي"
     },
     {
       "surface": "משה",
-      "gloss": "Moses"
+      "gloss": "موشي"
     },
     {
       "surface": "ואל",
-      "gloss": "and to"
+      "gloss": "۽ کي"
     },
     {
       "surface": "אלעזר",
-      "gloss": "Elazar"
+      "gloss": "ايلعزر"
     },
     {
       "surface": "הכהן",
-      "gloss": "the priest"
+      "gloss": "ڪاهن"
     },
     {
       "surface": "ואל",
-      "gloss": "and to"
+      "gloss": "۽ کي"
     },
     {
       "surface": "נשיאי",
-      "gloss": "the leaders of"
+      "gloss": "سردارن"
     },
     {
       "surface": "העדה",
-      "gloss": "the congregation"
+      "gloss": "جماعت"
     },
     {
       "surface": "לאמר",
-      "gloss": "saying"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-30T10:34:35.914806084Z",
+  "timestamp": "2026-08-30T23:34:41.451135081Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":21,"ref":"numbers 13:21","book":"numbers","lang":"sd","chapter":13,"translation":"پوءِ اُڀي ويا ۽ ⟨את⟩ ⟨the⟩ مُلڪ جي جاچ ڪيائون، صحرا زِن کان رحوب تائين، حماٿ ۾ داخل ٿيڻ واري راهه تائين.","tokens":[{"surface":"ויעלו","gloss":"پوءِ اُڀي ويا"},{"surface":"ויתרו","gloss":"جاچ ڪيائون"},{"surface":"את","gloss":"⟨את⟩","marks":"مُلڪ"},{"surface":"הארץ","gloss":"مُلڪ"},{"surface":"ממדבר","gloss":"صحرا"},{"surface":"צן","gloss":"زِن"},{"surface":"עד","gloss":"تائين"},{"surface":"רחב","gloss":"رحوب"},{"surface":"לבא","gloss":"داخل ٿيڻ"},{"surface":"חמת","gloss":"حماٿ"}],"timestamp":"2026-08-30T10:27:08.175551302Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "پوءِ اُھي چاڙھي ٿي ويا ۽ ⟨את⟩ ملڪ جي جاچ ڪيائون، تس صحرا کان رحوب تائين، حمات جي لنگھ تائين.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "چاڙھي ٿي ويا"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "جاچ ڪيائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملڪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملڪ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "تس صحرا کان"
+    },
+    {
+      "surface": "צן",
+      "gloss": "تس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "رحوب"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "لنگھ تائين"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمات"
+    }
+  ],
+  "timestamp": "2026-08-30T23:33:49.205758360Z",
+  "model": "glm-5.3"
+}

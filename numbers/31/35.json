@@ -5,65 +5,65 @@
   "book": "numbers",
   "lang": "sd",
   "chapter": 31,
-  "translation": "۽ ماڻهن جون جانون، انهن عورتن مان جيڪي مرد جي SAMBHOG نه ڄاڻنديون هيون — سڀ جانون ٻيھن ۽ ٽيھن هزار.",
+  "translation": "۽ انسانن جون جانون — ان عورتن مان جيڪي نر جو سمھڻ (ميامڻ) نه سڃاڻيو — سڀ جون جانون ٻيهہ ۽ ٽيھ هزار آهن.",
   "tokens": [
     {
-      "surface": "ונפש",
+      "surface": "וְנֶ֣פֶשׁ",
       "gloss": "۽ جانون"
     },
     {
-      "surface": "אדם",
-      "gloss": "ماڻهن جون"
+      "surface": "אָדָם",
+      "gloss": "انسانن جون"
     },
     {
-      "surface": "מן",
-      "gloss": "مان"
+      "surface": "מִן",
+      "gloss": "— مان"
     },
     {
-      "surface": "הנשים",
-      "gloss": "انهن عورتن"
+      "surface": "הַ֨נָּשִׁ֔ים",
+      "gloss": "عورتن"
     },
     {
-      "surface": "אשר",
-      "gloss": "جيڪي"
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "جن"
     },
     {
-      "surface": "לא",
+      "surface": "לֹֽא",
       "gloss": "نه"
     },
     {
-      "surface": "ידעו",
-      "gloss": "ڄاڻنديون هيون"
+      "surface": "יָדְע֖וּ",
+      "gloss": "سڃاڻيو"
     },
     {
-      "surface": "משכב",
-      "gloss": "SAMBHOG"
+      "surface": "מִשְׁכַּ֣ב",
+      "gloss": "سمھڻ"
     },
     {
-      "surface": "זכר",
-      "gloss": "مرد جي"
+      "surface": "זָכָ֑ר",
+      "gloss": "نر جو"
     },
     {
-      "surface": "כל",
+      "surface": "כֹּ֣ל",
       "gloss": "سڀ"
     },
     {
-      "surface": "נפש",
+      "surface": "נֶ֕פֶשׁ",
       "gloss": "جانون"
     },
     {
-      "surface": "שנים",
-      "gloss": "ٻيھن"
+      "surface": "שְׁנַ֥יִם",
+      "gloss": "ٻيهہ"
     },
     {
-      "surface": "ושלשים",
-      "gloss": "۽ ٽيھن"
+      "surface": "וּשְׁלֹשִׁ֖ים",
+      "gloss": "۽ ٽيھ"
     },
     {
-      "surface": "אלף",
+      "surface": "אָֽלֶף",
       "gloss": "هزار"
     }
   ],
-  "timestamp": "2026-08-30T14:40:50.609555063Z",
+  "timestamp": "2026-08-30T23:34:42.899463359Z",
   "model": "glm-5.3"
 }

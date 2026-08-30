@@ -5,29 +5,29 @@
   "book": "2-samuel",
   "lang": "sd",
   "chapter": 23,
-  "translation": "اوريه حِثّي — سڀ milli ⟨is⟩ ٽيهه ۽ ست.",
+  "translation": "اورياہ حثي — سڀ ماڻھو ٽيھ ۽ ست ھئا.",
   "tokens": [
     {
       "surface": "אוריה",
-      "gloss": "اوريه"
+      "gloss": "اورياہ"
     },
     {
       "surface": "החתי",
-      "gloss": "حِثّي"
+      "gloss": "حثي"
     },
     {
       "surface": "כל",
-      "gloss": "سڀ milli"
+      "gloss": "سڀ"
     },
     {
       "surface": "שלשים",
-      "gloss": "ٽيهه"
+      "gloss": "ٽيھ"
     },
     {
       "surface": "ושבעה",
       "gloss": "۽ ست"
     }
   ],
-  "timestamp": "2026-08-30T14:48:16.829863989Z",
+  "timestamp": "2026-08-30T23:38:15.256968360Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,33 @@
   "book": "proverbs",
   "lang": "sd",
   "chapter": 19,
-  "translation": "سستي کُنڊيءَ ۾ وجھي ٿي، ۽ ڍڳي نَفس بکlinie ٿي.",
+  "translation": "سُستي اُگھاڙي ننڊ ڪري ٿي، ۽ڙميءَ واري نفس بکيو.",
   "tokens": [
     {
       "surface": "עצלה",
-      "gloss": "سستي"
+      "gloss": "سُستي"
     },
     {
       "surface": "תפיל",
-      "gloss": "وجھي ٿي"
+      "gloss": "ڪري ٿي (اُگھاڙي ننڊ)"
     },
     {
-      "surface": "תרדמה",
-      "gloss": "کُنڊيءَ ۾"
+      "surface": "תרدמה",
+      "gloss": "اُگھاڙي ننڊ"
     },
     {
       "surface": "ונפש",
-      "gloss": "۽ نَفس"
+      "gloss": "۽ نفس"
     },
     {
       "surface": "רמיה",
-      "gloss": "ڍڳي"
+      "gloss": "ڙميءَ واري"
     },
     {
       "surface": "תרעב",
-      "gloss": "بکlinie ٿي"
+      "gloss": "بکيو"
     }
   ],
-  "timestamp": "2026-08-30T13:30:28.918592924Z",
+  "timestamp": "2026-08-30T23:47:51.742444759Z",
   "model": "glm-5.3"
 }

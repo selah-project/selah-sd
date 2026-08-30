@@ -5,21 +5,21 @@
   "book": "joshua",
   "lang": "sd",
   "chapter": 15,
-  "translation": "۽ صقلغ ۽ مدمناھ ۽ سنسنnaھ،",
+  "translation": "۽ صقلگ، ۽ مدمنه، ۽ سنسنه،",
   "tokens": [
     {
-      "surface": "וצקלג",
-      "gloss": "۽ صقلغ"
+      "surface": "וְצִֽקְלַ֥ג",
+      "gloss": "صقلگ"
     },
     {
-      "surface": "ומדמנה",
-      "gloss": "۽ مدمناھ"
+      "surface": "וּמַדְמַנָּ֖ה",
+      "gloss": "مدمنه"
     },
     {
-      "surface": "וסנסנה",
-      "gloss": "۽ سنسناھ"
+      "surface": "וְסַנְסַנָּֽה",
+      "gloss": "سنسنه"
     }
   ],
-  "timestamp": "2026-08-30T10:53:31.957907361Z",
+  "timestamp": "2026-08-30T23:35:41.595505791Z",
   "model": "glm-5.3"
 }

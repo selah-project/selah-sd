@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":23,"ref":"isaiah 1:23","book":"isaiah","lang":"sd","chapter":1,"translation":"تنهجا سردار سرڪشي ڪن ٿا، ۽ چورن جا سنگتي، سڀ رشوت پسند ڪن ٿا ۽ انعامن جا پوئتي لڳل؛ يتيم جي فيصلو نه ڪن ٿا، ۽ widowers جو دعويٰ اُنن وٽ پهچڻو ناهي — بيواه جو دعويٰ.","tokens":[{"surface":"שריך","gloss":"تنهجا سردار"},{"surface":"סוררים","gloss":"سرڪشي ڪن ٿا"},{"surface":"וחברי","gloss":"۽ سنگتي"},{"surface":"גנבים","gloss":"چورن جا"},{"surface":"כלו","gloss":"سڀ"},{"surface":"אהב","gloss":"پسند ڪن ٿا"},{"surface":"שחד","gloss":"رشوت"},{"surface":"ורדף","gloss":"۽ پوئتي لڳل"},{"surface":"שלמנים","gloss":"انعامن جا"},{"surface":"יתום","gloss":"يتيم"},{"surface":"לא","gloss":"نه"},{"surface":"ישפטו","gloss":"فيصلو ڪن ٿا"},{"surface":"וריב","gloss":"۽ دعويٰ"},{"surface":"אלמנה","gloss":"بيواه جو"},{"surface":"לא","gloss":"نه"},{"surface":"יבוא","gloss":"پهچي"},{"surface":"אליהם","gloss":"اُنن وٽ"}],"timestamp":"2026-08-30T11:47:02.954133153Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 1:23",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 1,
+  "translation": "تنهنجا سردار سرڪش آهن ۽ چورن جا سنگتي؛ سڀ شھت پسڻ ۽ انعامن جا پوئٽ آهن؛ يتيم جي فيصلي نه ڪن ٿا ۽ widو جو دعويٰ انهن وٽ پهچڻ نه ٿي.",
+  "tokens": [
+    {
+      "surface": "שריך",
+      "gloss": "تنهنجا سردار"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "سرڪش آهن"
+    },
+    {
+      "surface": "وחברי",
+      "gloss": "۽ سنگتي"
+    },
+    {
+      "surface": "גנבים",
+      "gloss": "چورن جا"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پسڻ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "شھت"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "۽ پوئٽ"
+    },
+    {
+      "surface": "שלמנים",
+      "gloss": "انعامن جا"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "يتيم جي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "فيصلو ڪن ٿا"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "۽ دعويٰ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "widو جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "پهچڻ ٿي"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "انهن وٽ"
+    }
+  ],
+  "timestamp": "2026-08-30T23:40:23.395138305Z",
+  "model": "glm-5.3"
+}

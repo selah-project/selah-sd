@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":21,"ref":"proverbs 27:21","book":"proverbs","lang":"sd","chapter":27,"translation":"मौर चांदी لاءِ آهي ۽ ڀَٽي سون لاءِ، ۽ ماڻهو پنهنجي ساراهَه جي مطابق آهي.","tokens":[{"surface":"מצרף","gloss":"मौर"},{"surface":"לכסף","gloss":"चांदी لاءِ"},{"surface":"וכור","gloss":"۽ ڀَٽي"},{"surface":"לזהב","gloss":"سون لاءِ"},{"surface":"ואיש","gloss":"۽ ماڻهو"},{"surface":"לפי","gloss":"مطابق"},{"surface":"מהללו","gloss":"پنهنجي ساراهَه"}],"timestamp":"2026-08-30T13:32:25.559117543Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 27:21",
+  "book": "proverbs",
+  "lang": "sd",
+  "chapter": 27,
+  "translation": "چانديءَ لاءِ ڀٽِي ۽ سون لاءِ ڀَٽِڪڙو، ۽ ماڻهو ⟨هُوَ⟩ سندس ساراھ مطابق آھي.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "ڀٽِي (چاندي پگھارڻ جي bergen) لاءِ"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "چانديءَ لاءِ"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "۽ ڀٽِڪڙو (ڀٽ) لاءِ"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "سون لاءِ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "۽ ماڻهو"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "مطابق (منجهانءَ) سندس"
+    },
+    {
+      "surface": "מהללו",
+      "gloss": "ساراھ (مَهَلال)"
+    }
+  ],
+  "timestamp": "2026-08-30T23:48:06.212829493Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":42,"ref":"1-samuel 17:42","book":"1-samuel","lang":"sd","chapter":17,"translation":"۽ فلسطي ڏٺو ۽ ⟨את⟩ داويد کي سڃاڻي سندس حق ۾ بي ادبي ڪيائين، ڇوته ⟨he⟩ نوجوان هو ۽ ڳاڙهسرو، ۽ چهري سان سهڻو.","tokens":[{"surface":"ויבט","gloss":"ڏٺو"},{"surface":"הפלשתי","gloss":"فلسطي"},{"surface":"ויראה","gloss":"۽ سڃاڻيو"},{"surface":"את","gloss":"⟨את⟩","marks":"داويد"},{"surface":"דוד","gloss":"داويد"},{"surface":"ויבזהו","gloss":"۽ سندس بي ادبي ڪيائين"},{"surface":"כי","gloss":"ڇوته"},{"surface":"היה","gloss":"هو"},{"surface":"נער","gloss":"نوجوان"},{"surface":"ואדמני","gloss":"۽ ڳاڙهسرو"},{"surface":"עם","gloss":"سان"},{"surface":"יפה","gloss":"سهڻو"},{"surface":"מראה","gloss":"چهرو"}],"timestamp":"2026-08-30T11:12:30.965834561Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "sd",
+  "chapter": 17,
+  "translation": "۽ پلشتِيءَ ٽَڪي ڏٺو ۽ ⟨את⟩ داويد کي ڏسي کيس بي عزت ڪيو، ڇوته ⟨هو⟩ نوجوان هو ۽ ڳاڙھسرو، سهڻي پيڙ سان.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "ٽَڪي ڏٺو"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "پلشتِيءَ"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "ڏسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داويد کي"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "کيس بي عزت ڪيو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "ڳاڙھسرو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سهڻي"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "پيڙ"
+    }
+  ],
+  "timestamp": "2026-08-30T23:36:55.186860435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "sd",
+  "chapter": 4,
+  "translation": "ته ياهوه چيو: ”ڇا تنهنجي لاءِ ڳاڙهيءَ (غصي) جي چوڻي سٺي آهي؟“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "چيو ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "ڇا سٺي آهي"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ڳاڙهي (غصو)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تنهنجي لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T23:29:32.657524229Z",
+  "model": "glm-5.3"
+}

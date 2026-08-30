@@ -5,11 +5,11 @@
   "book": "nehemiah",
   "lang": "sd",
   "chapter": 12,
-  "translation": "يehودah ۽ بنيامين ۽ شمعيه ۽ يرميه.",
+  "translation": "يهوذا ۽ بنيامين ۽ شمعياه ۽ يرمياه،",
   "tokens": [
     {
       "surface": "יהודה",
-      "gloss": "يهودah"
+      "gloss": "يهوذا"
     },
     {
       "surface": "ובנימן",
@@ -17,13 +17,13 @@
     },
     {
       "surface": "ושמעיה",
-      "gloss": "۽ شمعيه"
+      "gloss": "۽ شمعياه"
     },
     {
       "surface": "וירמיה",
-      "gloss": "۽ يرميه"
+      "gloss": "۽ يرمياه"
     }
   ],
-  "timestamp": "2026-08-30T14:09:26.465534586Z",
+  "timestamp": "2026-08-30T23:51:59.469168538Z",
   "model": "glm-5.3"
 }

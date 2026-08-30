@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":20,"ref":"nehemiah 13:20","book":"nehemiah","lang":"sd","chapter":13,"translation":"۽ واپارين ۽ هر قسمرچن جي وڪendar يروشلم کان ٻاهر هڪ ٻه ڀيرا رات لنگهي ويا.","tokens":[{"surface":"וילינו","gloss":"رات لنگهي ويا"},{"surface":"הרכלים","gloss":"واپارين"},{"surface":"ומכרי","gloss":"۽ وڪenderن"},{"surface":"כל","gloss":"هر قسمرچن جي"},{"surface":"ממכר","gloss":"مارچن جي"},{"surface":"מחוץ","gloss":"کان ٻاهر"},{"surface":"לירושלם","gloss":"يروشلم"},{"surface":"פעם","gloss":"هڪ ڀيرا"},{"surface":"ושתים","gloss":"۽ ٻه ڀيرا"}],"timestamp":"2026-08-30T14:11:38.940130403Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 13:20",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "پوءِ واپار ۽ هر قسم جي مال وڪرو ڪندڙ هڪ يا ٻه ڀيرا يروشلم کان ٻاهر رات لنگهائي ويٺا.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "رات لنگهائي ويٺا"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "واپار"
+    },
+    {
+      "surface": "ומכרי",
+      "gloss": "وڪرو ڪندڙ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر قسم جي"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "مال"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "کان ٻاهر"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "هڪ ڀيرا"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "يا ٻه"
+    }
+  ],
+  "timestamp": "2026-08-30T23:52:00.495948818Z",
+  "model": "glm-5.3"
+}

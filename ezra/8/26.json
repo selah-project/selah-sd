@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":26,"ref":"ezra 8:26","book":"ezra","lang":"sd","chapter":8,"translation":"۽ مون سندن هٿ تي تولي ڏنو: چاندي، ڇھ سئو پنجاهه talent؛ ۽ چانديءَ جا ٿانوَ، سئو talent؛ سون، سئو talent.","tokens":[{"surface":"ואשקלה","gloss":"۽ مون تولي ڏنو"},{"surface":"על","gloss":"تي"},{"surface":"ידם","gloss":"سندن هٿ"},{"surface":"כסף","gloss":"چاندي"},{"surface":"ככרים","gloss":"talent"},{"surface":"שש","gloss":"ڇھ"},{"surface":"מאות","gloss":"سئو"},{"surface":"וחמשים","gloss":"۽ پنجاهه"},{"surface":"וכלי","gloss":"۽ ٿانوَ"},{"surface":"כסף","gloss":"چانديءَ جا"},{"surface":"מאה","gloss":"سئو"},{"surface":"לככרים","gloss":"talent"},{"surface":"זהב","gloss":"سون"},{"surface":"מאה","gloss":"سئو"},{"surface":"ככר","gloss":"talent"}],"timestamp":"2026-08-30T14:04:45.369407933Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 8:26",
+  "book": "ezra",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ مون انهن جي هٿ ۾ وزن ڪري ڏنو چانديءَ جا ڇهه سَو ٽالهه پنجاهه، ۽ چانديءَ جا ٿانوهه سَو ٽالهه جي وزن سان، سون سَو ٽالهه.",
+  "tokens": [
+    {
+      "surface": "ואשקלה",
+      "gloss": "۽ مون وزن ڪري ڏنو"
+    },
+    {
+      "surface": "על",
+      "gloss": "۾"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "انهن جي هٿ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندي"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "ٽالهه"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ڇهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "۽ پنجاهه"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "۽ ٿانوهه"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چانديءَ جا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "לככרים",
+      "gloss": "ٽالهه جي وزن سان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سون"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ٽالهه"
+    }
+  ],
+  "timestamp": "2026-08-30T23:51:11.845403213Z",
+  "model": "glm-5.3"
+}

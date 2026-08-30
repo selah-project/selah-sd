@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "sd",
   "chapter": 7,
-  "translation": "گبعون جا پٽ ٽيَوَڻ ਅَٺِي ۽ پنج.",
+  "translation": "گبعون جا پٽ: پنجاڻو ۽ پنج.",
   "tokens": [
     {
       "surface": "בני",
@@ -17,13 +17,13 @@
     },
     {
       "surface": "תשעים",
-      "gloss": "ٽيَوَڻ"
+      "gloss": "پنجاڻو"
     },
     {
       "surface": "וחמשה",
       "gloss": "۽ پنج"
     }
   ],
-  "timestamp": "2026-08-30T14:07:52.579373187Z",
+  "timestamp": "2026-08-30T23:51:14.840626114Z",
   "model": "glm-5.3"
 }

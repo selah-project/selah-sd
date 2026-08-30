@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":1,"ref":"isaiah 3:1","book":"isaiah","lang":"sd","chapter":3,"translation":"ڇوتهي ڏسو، مالڪ ياهوه تسوابوت يروشلم ۽ يهودah کان ٽيڪ ۽ سھارو هٽائي ٿو — ماني جو سمو ٽيڪ ۽ پاڻي جو سمو ٽيڪ.","tokens":[{"surface":"כי","gloss":"ڇوتهي"},{"surface":"הנה","gloss":"ڏسو"},{"surface":"האדון","gloss":"مالڪ"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"צבאות","gloss":"تسوابوت"},{"surface":"מסיר","gloss":"هٽائي ٿو"},{"surface":"מירושלם","gloss":"يروشلم کان"},{"surface":"ומיהודה","gloss":"۽ يهودah کان"},{"surface":"משען","gloss":"ٽيڪ"},{"surface":"ומשענה","gloss":"۽ سھارو"},{"surface":"כל","gloss":"سمو"},{"surface":"משען","gloss":"ٽيڪ"},{"surface":"לחם","gloss":"ماني جو"},{"surface":"וכל","gloss":"۽ سمو"},{"surface":"משען","gloss":"ٽيڪ"},{"surface":"מים","gloss":"پاڻي جو"}],"timestamp":"2026-08-30T11:48:03.741555914Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "ڇوته ڏسو، ادوناي ياهوه صباؤت يروشلم ۽ يهوداہ کان ٽيڪ ۽ سھارو پئي پاسي — ماني جو سمو ٽيڪ ۽ پاڻي جو سمو ٽيڪ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ڏسو"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "ادوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "پئي پاسي"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "يروشلم"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "۽ يهوداہ"
+    },
+    {
+      "surface": "משען",
+      "gloss": "ٽيڪ"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "۽ سھارو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سمو"
+    },
+    {
+      "surface": "משען",
+      "gloss": "ٽيڪ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "۽ سمو"
+    },
+    {
+      "surface": "משען",
+      "gloss": "ٽيڪ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:40:22.728384147Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":52,"ref":"deuteronomy 32:52","book":"deuteronomy","lang":"sd","chapter":32,"translation":"ڇوته پريکاندي ⟨את⟩ ⟨the⟩ زمين کي ڏسندي، پر اُتي ان زمين ۾ نه داخل ٿيندو، جا مان يسرائيل جي پٽن کي ڏيان ٿو.","tokens":[{"surface":"כי","gloss":"ڇوته"},{"surface":"מנגד","gloss":"پريکاندي"},{"surface":"תראה","gloss":"ڏسندي"},{"surface":"את","gloss":"⟨את⟩","marks":"زمين"},{"surface":"הארץ","gloss":"⟨the⟩ زمين"},{"surface":"ושמה","gloss":"پر اُتي"},{"surface":"לא","gloss":"نه"},{"surface":"תבוא","gloss":"داخل ٿيندو"},{"surface":"אל","gloss":"۾"},{"surface":"הארץ","gloss":"زمين"},{"surface":"אשר","gloss":"جا"},{"surface":"אני","gloss":"مان"},{"surface":"נתן","gloss":"ڏيان ٿو"},{"surface":"לבני","gloss":"پٽن کي"},{"surface":"ישראל","gloss":"يسرائيل"}],"timestamp":"2026-08-30T10:47:13.571121605Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "ڇوته تون پري کان ⟨את⟩ ⟨the⟩ زمين ڏسندين، پر اتان ⟨the⟩ زمين ۾، جا آءٌ يسرائيل جي پٽن کي ڏي رهيو آهيان، تو داخل نه ٿيندين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "پري کان"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ڏسندين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "پر اتان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "تو داخل ٿيندين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "جا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "آءٌ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڏي رهيو آهيان"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پٽن کي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-30T23:35:33.782452600Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":5,"ref":"isaiah 24:5","book":"isaiah","lang":"sd","chapter":24,"translation":"۽ ⟨the⟩ زمين پنهنجن رهواسين هيٺ چريل ٿي ويئي، ڇو ته اُهي قانونن کي ٽپي ويا، فرض مٽائي ڇڏيو، هميشه جي عهد کي ٽوڙي ڇڏيو.","tokens":[{"surface":"והארץ","gloss":"۽ زمين"},{"surface":"חנפה","gloss":"چريل ٿي ويئي"},{"surface":"תחת","gloss":"هيٺ"},{"surface":"ישביה","gloss":"پنهنجن رهواسين"},{"surface":"כי","gloss":"ڇو ته"},{"surface":"עברו","gloss":"ٽپي ويا"},{"surface":"תורת","gloss":"قانونن"},{"surface":"חלפו","gloss":"مٽائي ڇڏيو"},{"surface":"חק","gloss":"فرض"},{"surface":"הפרו","gloss":"ٽوڙي ڇڏيو"},{"surface":"ברית","gloss":"عهد"},{"surface":"עולם","gloss":"هميشه جي"}],"timestamp":"2026-08-30T11:53:51.991945777Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ زمين پنهنجن رهواسين هيٺان ميلي ٿي وئي آهي، ڇوته اُنهن توراتن کي اُڪڙي ويئي، حڪم کي مٽايو، هميشه جي عهد کي ڀڳو.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "۽ زمين"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "ميلي ٿي وئي آهي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺان"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "پنهنجن رهواسين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "اُڪڙي ويئا"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراتن کي"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "مٽايو"
+    },
+    {
+      "surface": "חק",
+      "gloss": "حڪم کي"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "ڀڳو"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عهد کي"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هميشه جي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:40:49.738018251Z",
+  "model": "glm-5.3"
+}

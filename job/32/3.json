@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":3,"ref":"job 32:3","book":"job","lang":"sd","chapter":32,"translation":"۽ سندس ٽن دوستن تي سندس غصو ڀڙڪيو، ڇو ته هنن ⟨את⟩ ايوب کيdock ڪندي ڪو جواب نه ڳوليو.","tokens":[{"surface":"ובשלשת","gloss":"۽... ٽن تي"},{"surface":"רעיו","gloss":"سندس دوستن"},{"surface":"חרה","gloss":"ڀڙڪيو"},{"surface":"אפו","gloss":"سندس غصو"},{"surface":"על","gloss":"تي"},{"surface":"אשר","gloss":"ڇو ته"},{"surface":"לא","gloss":"نه"},{"surface":"מצאו","gloss":"ڳوليو"},{"surface":"מענה","gloss":"جواب"},{"surface":"וירשיעו","gloss":"ڏوھي ڪري ٺهرايو"},{"surface":"את","gloss":"⟨את⟩","marks":"ايوب کي"},{"surface":"איוב","gloss":"ايوب"}],"timestamp":"2026-08-30T13:42:18.333161930Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 32,
+  "translation": "۽ پنھنجن ٽن سنگتن تي سندس ڪاوڙ ڀڙڪي، ڇوته انھن ⟨את⟩ ايوب کي گنھگار ٺھرايو، جيتوڻيڪ ڪوبه جواب نه مليو.",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "۽ ٽن"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "پنھنجن سنگتن"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ڀڙڪي"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "سندس ڪاوڙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "مليو"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "جواب"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "گنھگار ٺھرايائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ايوب"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ايوب"
+    }
+  ],
+  "timestamp": "2026-08-30T23:48:17.610019924Z",
+  "model": "glm-5.3"
+}

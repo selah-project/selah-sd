@@ -5,53 +5,53 @@
   "book": "numbers",
   "lang": "sd",
   "chapter": 7,
-  "translation": "ھڪ ڏاند، ڍڳي جو پٽ، ھڪ اڃ، ھڪ.rollback مينهن، ھڪ سال جو پٽ، سڙڻ جي قرباني لاءِ۔",
+  "translation": "هڪ ڏاند، مال جو پُٽ، هڪ راندڙ، هڪ ننڍو رَمَ، هڪ سال جو پُٽ، ساڙڻ جي قرباني لاءِ۔",
   "tokens": [
     {
       "surface": "פר",
-      "gloss": "ڏاند"
+      "gloss": "هڪ ڏاند"
     },
     {
       "surface": "אחד",
-      "gloss": "ھڪ"
+      "gloss": "هڪ"
     },
     {
       "surface": "בן",
-      "gloss": "پٽ"
+      "gloss": "پُٽ"
     },
     {
       "surface": "בקר",
-      "gloss": "ڍڳي جو"
+      "gloss": "مال"
     },
     {
       "surface": "איל",
-      "gloss": "اڃ"
+      "gloss": "هڪ راندڙ"
     },
     {
       "surface": "אחד",
-      "gloss": "ھڪ"
+      "gloss": "هڪ"
     },
     {
       "surface": "כבש",
-      "gloss": "مينهن"
+      "gloss": "ننڍو رَمَ"
     },
     {
       "surface": "אחד",
-      "gloss": "ھڪ"
+      "gloss": "هڪ"
     },
     {
       "surface": "בן",
-      "gloss": "پٽ"
+      "gloss": "پُٽ"
     },
     {
       "surface": "שנתו",
-      "gloss": "ھڪ سال جو"
+      "gloss": "هڪ سال جو"
     },
     {
       "surface": "לעלה",
-      "gloss": "سڙڻ جي قرباني لاءِ"
+      "gloss": "ساڙڻ جي قرباني لاءِ"
     }
   ],
-  "timestamp": "2026-08-30T10:24:59.828966330Z",
+  "timestamp": "2026-08-30T23:33:22.528622735Z",
   "model": "glm-5.3"
 }

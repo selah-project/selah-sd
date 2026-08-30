@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":27,"ref":"1-chronicles 23:27","book":"1-chronicles","lang":"sd","chapter":23,"translation":"ڇوڪي ته داويد جي پوئين_WORDS_ موجب ليفي جي پٽن جي ڳڻپ ٿي، ويهن سالن جي عمر کان ۽ مٿي.","tokens":[{"surface":"כי","gloss":"ڇوڪي ته"},{"surface":"בדברי","gloss":"موجب جي الفاظ"},{"surface":"דויד","gloss":"داويد"},{"surface":"האחרנים","gloss":"پوئين"},{"surface":"המה","gloss":"هي"},{"surface":"מספר","gloss":"ڳڻپ"},{"surface":"בני","gloss":"پٽن جي"},{"surface":"לוי","gloss":"ليفي"},{"surface":"מבן","gloss":"عمر کان"},{"surface":"עשרים","gloss":"ويهن سالن"},{"surface":"שנה","gloss":"سالن"},{"surface":"ולמעלה","gloss":"۽ مٿي"}],"timestamp":"2026-08-30T14:18:18.810083023Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 23:27",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 23,
+  "translation": "ڇاڪاڻ ته داويد جي پوئينن حڪمن موجب لاويين جي پٽن جو ڳڻپ ٿيو، ويهه ورهين جي پُٽ کان ۽ مٿي،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ڇاڪاڻ ته"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "حڪمن موجب"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "האחרנים",
+      "gloss": "پوئينن"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ڳڻپ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جو"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاويين"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "پُٽ کان"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويهه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورهين جي"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "۽ مٿي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:52:33.853428792Z",
+  "model": "glm-5.3"
+}

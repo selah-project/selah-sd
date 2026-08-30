@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":29,"ref":"genesis 35:29","book":"genesis","lang":"sd","chapter":35,"translation":"۽ اسحاق جي душمو وڃي، مري ويو، ۽ پنهنجي ماڻهن وٽ جمع ٿيو، ٻڍو ۽ ڏينهن سان ڀرجي؛ ۽ کيس دفن ڪيائون عيسو ۽ يعقوب سندس پٽن ⟨את⟩.","tokens":[{"surface":"ויגוע","gloss":"دشمو وڃي ويو"},{"surface":"יצחק","gloss":"اسحاق"},{"surface":"וימת","gloss":"مري ويو"},{"surface":"ויאסף","gloss":"جمع ٿيو"},{"surface":"אל","gloss":"وٽ"},{"surface":"עמיו","gloss":"پنهنجي ماڻهن"},{"surface":"זקן","gloss":"ٻڍو"},{"surface":"ושבע","gloss":"ڀرجي"},{"surface":"ימים","gloss":"ڏينهن سان"},{"surface":"ויקברו","gloss":"دفن ڪيائون"},{"surface":"אתו","gloss":"⟨את⟩","marks":"کيس"},{"surface":"עשו","gloss":"عيسو"},{"surface":"ויעקב","gloss":"يعقوب"},{"surface":"בניו","gloss":"سندس پٽن"}],"timestamp":"2026-08-30T09:49:58.841520912Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 35:29",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 35,
+  "translation": "پوءِ يضحاق جي دم ٽٽي ۽ هو مري ويو ۽ پنهنجي ماڻهن ۾ سوڙهو ٿيو، پوڙهو ۽ ڏينهن سان ڀرپور؛ ۽ سندس پٽن عيسو ۽ يعقوب ⟨את⟩ کيس دفن ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "دم ٽٽي"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يضحاق"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مري ويو"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "سوڙهو ٿيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "۾"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "پنهنجي ماڻهن"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "پوڙهو"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ڀرپور"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڏينهن سان"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "دفن ڪيو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "کيس (يضحاق کي)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "سندس پٽن"
+    }
+  ],
+  "timestamp": "2026-08-30T23:30:45.725866893Z",
+  "model": "glm-5.3"
+}

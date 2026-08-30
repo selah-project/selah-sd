@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":7,"ref":"exodus 34:7","book":"exodus","lang":"sd","chapter":34,"translation":"جو هزارين تائين خيسيد رکي ٿو، העוון ۽ سرڪشي ۽ گناهه کڻي ٿو، ۽ ڏوهاري کي پوري نه ٿو چُڪائي، پِيءُن جي گناهه کي پُٽن تي ۽ پُٽن جي پُٽن تي، ٽئين ۽ چوٿين نسل تي لاهي ٿو.","tokens":[{"surface":"נצר","gloss":"رکي ٿو"},{"surface":"חסד","gloss":"خيسيد"},{"surface":"לאלפים","gloss":"هزارين تائين"},{"surface":"נשא","gloss":"کڻي ٿو"},{"surface":"עון","gloss":"گناهه"},{"surface":"ופשע","gloss":"۽ سرڪشي"},{"surface":"וחטאה","gloss":"۽ گناهه"},{"surface":"ונקה","gloss":"۽ پوري"},{"surface":"לא","gloss":"نه"},{"surface":"ינקה","gloss":"چُڪائي ٿو"},{"surface":"פקד","gloss":"لاهي ٿو"},{"surface":"עון","gloss":"گناهه"},{"surface":"אבות","gloss":"پِيءُن جي"},{"surface":"על","gloss":"تي"},{"surface":"בנים","gloss":"پُٽن"},{"surface":"ועל","gloss":"۽ تي"},{"surface":"בני","gloss":"پُٽن جي"},{"surface":"בנים","gloss":"پُٽن"},{"surface":"על","gloss":"تي"},{"surface":"שלשים","gloss":"ٽئين نسل"},{"surface":"ועל","gloss":"۽ تي"},{"surface":"רבעים","gloss":"چوٿين نسل"}],"timestamp":"2026-08-30T10:09:16.077340467Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 34:7",
+  "book": "exodus",
+  "lang": "sd",
+  "chapter": 34,
+  "translation": "خيسيد هزارن تائين سانڀاريندو آھي، گناه، سرڪشي ۽ خطا کي کڻندو آھي، ۽ ڏوھارين کي ڪڏھن به بڇاڻو نه ڪندو آھي؛ پيءُن جي گناه کي پٽن تي ۽ پٽن جي پٽن تي، ٽئين ۽ چوٿين نسل تائين، لھندو آھي.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "سانڀاريندو آھي"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ھزارن تائين"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "کڻندو آھي"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "۽ سرڪشي"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "۽ خطا"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "۽ بڇاڻو ڪندو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינקه",
+      "gloss": "ڪڏھن به… ڪندو"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "لھندو آھي"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناه کي"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پيءُن جي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن جي"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ٽئين نسل"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "۽ تي"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "چوٿين نسل"
+    }
+  ],
+  "timestamp": "2026-08-30T23:32:31.067391674Z",
+  "model": "glm-5.3"
+}

@@ -5,29 +5,29 @@
   "book": "numbers",
   "lang": "sd",
   "chapter": 31,
-  "translation": "۽ ماڻهن جي جانَن جي سورھ هزار،",
+  "translation": "۽ ماڻهن جون جانون سولاھ هزار،",
   "tokens": [
     {
       "surface": "ונפש",
-      "gloss": "۽ جانَن"
+      "gloss": "جانون"
     },
     {
       "surface": "אדם",
-      "gloss": "ماڻهن جي"
+      "gloss": "ماڻهن جون"
     },
     {
       "surface": "ששה",
-      "gloss": "سورھ"
+      "gloss": "سولاھ"
     },
     {
       "surface": "עשר",
-      "gloss": "-十"
+      "gloss": "-سولاھ (ڏهه سان گڏ)"
     },
     {
       "surface": "אלף",
       "gloss": "هزار"
     }
   ],
-  "timestamp": "2026-08-30T10:33:41.098011839Z",
+  "timestamp": "2026-08-30T23:34:38.941542356Z",
   "model": "glm-5.3"
 }

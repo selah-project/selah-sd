@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":2,"ref":"esther 8:2","book":"esther","lang":"sd","chapter":8,"translation":"۽ بادشاھ پنھنجي مُھر واري انگoothي، جاڪا هن هامان کان کسي هئي، کائي مردخاي کي ڏني، ۽ ايسٽر مردخاي کي هامان جي گهر تي مقرر ڪيو.","tokens":[{"surface":"ויסר","gloss":"۽ کائي"},{"surface":"המלך","gloss":"بادشاھ"},{"surface":"את","gloss":"⟨את⟩","marks":"پنھنجي مُھر واري انگوٺي"},{"surface":"טבעתו","gloss":"پنھنجي مُھر واري انگوٺي"},{"surface":"אשר","gloss":"جيڪا"},{"surface":"העביר","gloss":"کسي هئي"},{"surface":"מהמן","gloss":"هامان کان"},{"surface":"ויתנה","gloss":"۽ ڏني"},{"surface":"למרדכי","gloss":"مردخاي کي"},{"surface":"ותשם","gloss":"۽ مقرر ڪيو"},{"surface":"אסתר","gloss":"ايسٽر"},{"surface":"את","gloss":"⟨את⟩","marks":"مردخاي کي"},{"surface":"מרדכי","gloss":"مردخاي"},{"surface":"על","gloss":"تي"},{"surface":"בית","gloss":"گهر"},{"surface":"המן","gloss":"هامان جي"}],"timestamp":"2026-08-30T13:55:57.206041200Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 8,
+  "translation": "۽ بادشاهه ⟨את⟩ پنهنجي مُهر واري انگشٽي، جا هن هامان کان اُٺارائي هئي، لاهي مُرdecodedيءَ کي ڏني؛ ۽ اِستَر مُرdecodedيءَ کي هامان جي گهر تي مقرر ڪيو.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "۽ لاهي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاهه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنهنجي مُهر واري انگشٽي"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "پنهنجي مُهر واري انگشٽي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جا"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "اُٺارائي هئي"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "هامان کان"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "۽ ڏني"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "مُرdecodedيءَ کي"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "۽ مقرر ڪيو"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستَر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُرdecodedيءَ کي"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مُرdecodedيءَ کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گهر"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    }
+  ],
+  "timestamp": "2026-08-30T23:50:30.910528692Z",
+  "model": "glm-5.3"
+}

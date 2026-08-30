@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":56,"ref":"ezekiel 16:56","book":"ezekiel","lang":"sd","chapter":16,"translation":"۽ تنهنجي ڀيڻ سدوم تنهنجي وات ۾ ڳالهه نه هئي تنهنجي گroud جي ڏينهن ۾.","tokens":[{"surface":"ולוא","gloss":"۽ نه"},{"surface":"היתה","gloss":"هئي"},{"surface":"סדם","gloss":"سدوم"},{"surface":"אחותך","gloss":"تنهنجي ڀيڻ"},{"surface":"לשמועה","gloss":"ڳالهه\/چوڻ لاءِ"},{"surface":"בפיך","gloss":"تنهنجي وات ۾"},{"surface":"ביום","gloss":"جي ڏينهن ۾"},{"surface":"גאוניך","gloss":"تنهنجي انڌdure جي"}],"timestamp":"2026-08-30T12:31:29.746197440Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezekiel 16:56",
+  "book": "ezekiel",
+  "lang": "sd",
+  "chapter": 16,
+  "translation": "۽ سدوم، تنهنجي ڀيڻ، تنهنجي فخر جي ڏينهن ۾، تنهنجي وات ۾ ٻڌڻ جو نالو نه هئي.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "هئي"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "تنهنجي ڀيڻ"
+    },
+    {
+      "surface": "לשמועה",
+      "gloss": "ٻڌڻ جو نالو"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "تنهنجي وات ۾"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ڏينهن ۾"
+    },
+    {
+      "surface": "גאוניך",
+      "gloss": "تنهنجي فخر جي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:43:20.544775548Z",
+  "model": "glm-5.3"
+}

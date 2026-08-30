@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":35,"ref":"numbers 7:35","book":"numbers","lang":"sd","chapter":7,"translation":"۽ سلامتي جي قرباني لاءِ: ٻہ ڏاند، پنج رام، پنج ٻڪرا، پنج لambre — سال جا پُٽ؛ ھي ايليصور بن شدياور جو قربان ھو.","tokens":[{"surface":"ולזבח","gloss":"۽ قرباني لاءِ"},{"surface":"השלמים","gloss":"سلامتي جي"},{"surface":"בקר","gloss":"ڏاند"},{"surface":"שנים","gloss":"ٻہ"},{"surface":"אילם","gloss":"رام"},{"surface":"חמשה","gloss":"پنج"},{"surface":"עתדים","gloss":"ٻڪرا"},{"surface":"חמשה","gloss":"پنج"},{"surface":"כבשים","gloss":"لambre"},{"surface":"בני","gloss":"پُٽ"},{"surface":"שנה","gloss":"سال جا"},{"surface":"חמשה","gloss":"پنج"},{"surface":"זה","gloss":"ھي"},{"surface":"קרבן","gloss":"قربان"},{"surface":"אליצור","gloss":"ايليصور"},{"surface":"בן","gloss":"بن"},{"surface":"שדיאור","gloss":"شدياور"}],"timestamp":"2026-08-30T10:24:19.751973277Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 7:35",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ سلامتي جي قرباني لاءِ ٻه ڏاند، پنج رڪب، پنج تَڪَ، پنج هڪ سال جا ٻڪرايتا — هي قربان ايليصُور بن شديعُور جو هو.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "۽ قرباني لاءِ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "سلامتي جي"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڏاند"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ٻه"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "رڪب"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "تَڪَ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ٻڪرايتا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "هڪ سال"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربان"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "ايليصُور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "شديعُور"
+    }
+  ],
+  "timestamp": "2026-08-30T23:33:19.220641062Z",
+  "model": "glm-5.3"
+}

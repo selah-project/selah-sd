@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":37,"ref":"nehemiah 3:37","book":"nehemiah","lang":"sd","chapter":3,"translation":"۽ انهن جي گناهه کي ڍڪي نه رک، ۽ سندن خطا تنهنجي اڳيان 米 نه مٽجي، ڇوته انهن باني welders جي اڳيان غصو ڏيکاريو.","tokens":[{"surface":"ואל","gloss":"۽ نه"},{"surface":"תכס","gloss":"ڍڪي نه رک"},{"surface":"על","gloss":"تي"},{"surface":"עונם","gloss":"سندن گناهه"},{"surface":"וחטאתם","gloss":"۽ سندن خطا"},{"surface":"מלפניך","gloss":"تنهنجي اڳيان کان"},{"surface":"אל","gloss":"نه"},{"surface":"תמחה","gloss":"مٽجي"},{"surface":"כי","gloss":"ڇوته"},{"surface":"הכעיסו","gloss":"غصو ڏيکاريو"},{"surface":"לנגד","gloss":"جي اڳيان"},{"surface":"הבונים","gloss":"بانين"}],"timestamp":"2026-08-30T14:06:01.764913967Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 3:37",
+  "book": "nehemiah",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "۽ سندن گناهه کي ڍڪي نه ڏس، ۽ سندن خطا تنهنجي اڳيان ميس نه ٿيڻ ڏي، ڇوته انهن دڪن ٺاهيندڙن جي سامهون ناراض ڪيو.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "۽ نه"
+    },
+    {
+      "surface": "תכס",
+      "gloss": "ڍڪي نه ڏس"
+    },
+    {
+      "surface": "על",
+      "gloss": "کي"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "سندن گناهه"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "۽ سندن خطا"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "تنهنجي اڳيان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמחه",
+      "gloss": "ميس نه ٿيڻ ڏي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "הכעיסו",
+      "gloss": "ناراض ڪيو"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "جي سامهون"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "دڪن ٺاهيندڙن"
+    }
+  ],
+  "timestamp": "2026-08-30T23:51:32.210293157Z",
+  "model": "glm-5.3"
+}

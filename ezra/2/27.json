@@ -5,29 +5,29 @@
   "book": "ezra",
   "lang": "sd",
   "chapter": 2,
-  "translation": "ميخماس جي ماڻھن جو <...> ھڪ سَو ۽ ويھ ۽ ٻه.",
+  "translation": "مِڪماس جا ماڻھو، سَو ٻاويھ.",
   "tokens": [
     {
       "surface": "אנשי",
-      "gloss": "ماڻھن جو"
+      "gloss": "ماڻھو"
     },
     {
       "surface": "מכמס",
-      "gloss": "ميخماس"
+      "gloss": "مِڪماس"
     },
     {
-      "surface": "מאה",
-      "gloss": "ھڪ سَو"
+      "surface": "مאה",
+      "gloss": "سَو"
     },
     {
       "surface": "עשרים",
-      "gloss": "۽ ويھ"
+      "gloss": "ويھ"
     },
     {
       "surface": "ושנים",
-      "gloss": "۽ ٻه"
+      "gloss": "ٻه"
     }
   ],
-  "timestamp": "2026-08-30T14:01:30.151806280Z",
+  "timestamp": "2026-08-30T23:51:06.511685379Z",
   "model": "glm-5.3"
 }

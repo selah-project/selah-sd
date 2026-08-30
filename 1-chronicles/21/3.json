@@ -1,1 +1,105 @@
-{"tier":"glm-5.2","verse":3,"ref":"1-chronicles 21:3","book":"1-chronicles","lang":"sd","chapter":21,"translation":"پوءِ يوآب چيو: ياهوه پنهنجي قوم کي انهن جيئن هڪ سؤ ڀيرا وڌائي! ڇا نه، مون جو مالڪ بادشاهه، سڀئي مون جي مالڪ جا غلام نه آهن؟ پوءِ ڇو مالڪ هيءَ ⟨ה⟩ شيءِ طلب ڪري ٿو؟ ڇو هو يسرائيل لاءِ ڏوھ جو سبب بجي؟","tokens":[{"surface":"ויאמר","gloss":"چيو"},{"surface":"יואב","gloss":"يوآب"},{"surface":"יוסף","gloss":"وڌائي"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"על","gloss":"کي"},{"surface":"עמו","gloss":"پنهنجي قوم"},{"surface":"כהם","gloss":"انهن جيئن"},{"surface":"מאה","gloss":"هڪ سؤ"},{"surface":"פעמים","gloss":"ڀيرا"},{"surface":"הלא","gloss":"ڇا نه"},{"surface":"אדני","gloss":"مون جو مالڪ"},{"surface":"המלך","gloss":"بادشاهه"},{"surface":"כלם","gloss":"سڀئي"},{"surface":"לאדני","gloss":"مون جي مالڪ جا"},{"surface":"לעבדים","gloss":"غلام"},{"surface":"למה","gloss":"ڇو"},{"surface":"יבקש","gloss":"طلب ڪري ٿو"},{"surface":"זאת","gloss":"هيءَ شيءِ"},{"surface":"אדני","gloss":"مالڪ"},{"surface":"למה","gloss":"ڇو"},{"surface":"יהיה","gloss":"بجي"},{"surface":"לאשמה","gloss":"ڏوھ جو سبب"},{"surface":"לישראל","gloss":"يسرائيل لاءِ"}],"timestamp":"2026-08-30T14:17:02.975056939Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 21:3",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 21,
+  "translation": "پوءِ يوآب چيو، ياهوه پنھنجي قوم کي اھيئن وڌائي جو اھي سؤ ڀيرا ٿي وڃن؛ سائين بادشاھ، ڇا اھي سڀ سائين جا ٻانهو نه آھن؟ سائين ڇو ٿو اھو گھري؟ اھو اسرائيل لاءِ ڏوھ ڇو ٿيندو؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "پوءِ چيو"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "وڌائي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "پنھنجي قوم"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "جيئن اھي"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سؤ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ڀيرا"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ڇا…نه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سائين"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "سائين لاءِ"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ٻانهن لاءِ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "گھري ٿو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اھو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سائين"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ڇو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ٿيندو"
+    },
+    {
+      "surface": "לאשמה",
+      "gloss": "ڏوھ لاءِ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "اسرائيل لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T23:52:50.275528765Z",
+  "model": "glm-5.3"
+}

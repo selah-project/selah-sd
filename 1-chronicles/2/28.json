@@ -5,45 +5,45 @@
   "book": "1-chronicles",
   "lang": "sd",
   "chapter": 2,
-  "translation": "۽ اونام جا پُتر ھئا: شمّي ۽ يدع؛ ۽ شمّي جا پُتر: نادب ۽ ابishur۔",
+  "translation": "۽ اونام جا پٽ ٿيا: شمّاي ۽ ياداع؛ ۽ شمّاي جا پٽ: ناداب ۽ ابِشور.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "ھئا"
+      "gloss": "ٿيا"
     },
     {
       "surface": "בני",
-      "gloss": "جا پُتر"
+      "gloss": "پٽ"
     },
     {
       "surface": "אונם",
-      "gloss": "اونام جا"
+      "gloss": "اونام"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمّاي"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "۽ ياداع"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "۽ پٽ"
     },
     {
       "surface": "שמי",
       "gloss": "شمّي"
     },
     {
-      "surface": "וידע",
-      "gloss": "۽ يدع"
-    },
-    {
-      "surface": "ובני",
-      "gloss": "۽ جا پُتر"
-    },
-    {
-      "surface": "שמי",
-      "gloss": "شمّي جا"
-    },
-    {
       "surface": "נדב",
-      "gloss": "نادب"
+      "gloss": "ناداب"
     },
     {
       "surface": "ואבישור",
-      "gloss": "۽ ابيشور"
+      "gloss": "۽ ابِشور"
     }
   ],
-  "timestamp": "2026-08-30T14:10:59.928321781Z",
+  "timestamp": "2026-08-30T23:52:10.038053221Z",
   "model": "glm-5.3"
 }

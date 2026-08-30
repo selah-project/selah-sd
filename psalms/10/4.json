@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 10:4","book":"psalms","lang":"sd","chapter":10,"translation":"رشي، پنھنجي اَکَڙين جي اڀ triple ذريعي، ياهوه کي ڳولهي ٿو نَہ؛ سندس سارن مڪر منصوبن ۾ ⟨ايلوهيم⟩ ناھي.","tokens":[{"surface":"רשע","gloss":"رشي"},{"surface":"כגבה","gloss":"جيئن اڀي"},{"surface":"אפו","gloss":"پنھنجي اَکَڙين"},{"surface":"בל","gloss":"نَہ"},{"surface":"ידרש","gloss":"ڳولهي ٿو"},{"surface":"אין","gloss":"ناھي"},{"surface":"אלהים","gloss":"ايلوهيم"},{"surface":"כל","gloss":"سارن"},{"surface":"מזמותיו","gloss":"مڪر منصوبن"}],"timestamp":"2026-08-30T13:01:10.295597197Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 10,
+  "translation": "ڙدور ڪرڻ وارو، پنھنجي اکئي ٻانھي جي اُچائي سان، ايلوهيم کي نه ڳولي ٿو؛ سندس سمورن مڪرن ۾ ايلوهيم ناھي.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ڙدور ڪرڻ وارو"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "جيئن ـ اُچائي"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اکئي ٻانھي (ڪاوڙ)"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "ڳولي ٿو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ناھي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ايلوهيم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سمورن"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "سندس مڪر"
+    }
+  ],
+  "timestamp": "2026-08-30T23:45:31.201023312Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":3,"ref":"esther 5:3","book":"esther","lang":"sd","chapter":5,"translation":"۽ بادشاهه اُن کي چيو: تو کي ڇا <ڪجهه> آهي، ايسثر ملڪاڻيءَ؟ ۽ تنهنجي درخواست ڇا آهي؟ ملوڪيت جي اڌ تائين ⟨اُها⟩ تو کي ڏني ويندي.","tokens":[{"surface":"ויאמר","gloss":"۽ چيو"},{"surface":"לה","gloss":"اُن کي"},{"surface":"המלך","gloss":"بادشاهه"},{"surface":"מה","gloss":"ڇا"},{"surface":"לך","gloss":"تو کي"},{"surface":"אסתר","gloss":"ايسثر"},{"surface":"המלכה","gloss":"ملڪاڻيءَ"},{"surface":"ומה","gloss":"۽ ڇا"},{"surface":"בקשתך","gloss":"تنهنجي درخواست"},{"surface":"עד","gloss":"تائين"},{"surface":"חצי","gloss":"اڌ"},{"surface":"המלכות","gloss":"ملوڪيت جي"},{"surface":"וינתן","gloss":"۽ ڏني ويندي"},{"surface":"לך","gloss":"تو کي"}],"timestamp":"2026-08-30T13:55:09.995861447Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 5:3",
+  "book": "esther",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "۽ بادشاھءَ چيس تہ ”تو کي ڇاڳجي، اِستَر ملڪا؟ ۽ تنهجي عرض ڇا آھي؟ اڌ سلطنت تائين ⟨اھو⟩ تو کي ڏنو ويندو.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "۽ چيس"
+    },
+    {
+      "surface": "לה",
+      "gloss": "تو کي (کيس)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ڇا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو کي ڳجي"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستَر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ملڪا"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "۽ ڇا"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "تنهجي عرض"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "اڌ"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "سلطنت"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "۽ ڏنو ويندو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو کي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:50:38.640029555Z",
+  "model": "glm-5.3"
+}

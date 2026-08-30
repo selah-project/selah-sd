@@ -5,57 +5,57 @@
   "book": "numbers",
   "lang": "sd",
   "chapter": 32,
-  "translation": "the land which Yahweh struck down before the congregation of Israel — that land is a land of cattle, and to your servants there is cattle.”",
+  "translation": "اُها زمين جاڪا ياهوه اسرائيل جي ڀاڪر (جماعت) اڳيان ماري هئي، مال لاءِ زمين آهي، ۽ تنهنجن ٻانهن وٽ مال آهي.",
   "tokens": [
     {
       "surface": "הארץ",
-      "gloss": "the land"
+      "gloss": "اُها زمين"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "جاڪا"
     },
     {
       "surface": "הכה",
-      "gloss": "struck down"
+      "gloss": "ماري هئي"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ياهوه"
     },
     {
       "surface": "לפני",
-      "gloss": "before"
+      "gloss": "اڳيان"
     },
     {
       "surface": "עדת",
-      "gloss": "the congregation of"
+      "gloss": "ڀاڪر (جماعت)"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "اسرائيل"
     },
     {
       "surface": "ארץ",
-      "gloss": "a land"
+      "gloss": "زمين"
     },
     {
-      "surface": "מקנה",
-      "gloss": "of cattle"
+      "surface": "מקנه",
+      "gloss": "مال"
     },
     {
       "surface": "הוא",
-      "gloss": "that is"
+      "gloss": "آهي"
     },
     {
       "surface": "ולעבדיך",
-      "gloss": "and to your servants"
+      "gloss": "۽ تنهنجن ٻانهن وٽ"
     },
     {
       "surface": "מקנה",
-      "gloss": "cattle"
+      "gloss": "مال"
     }
   ],
-  "timestamp": "2026-08-30T10:34:35.915094273Z",
+  "timestamp": "2026-08-30T23:34:45.831323015Z",
   "model": "glm-5.3"
 }

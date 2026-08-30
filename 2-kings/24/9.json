@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":9,"ref":"2-kings 24:9","book":"2-kings","lang":"sd","chapter":24,"translation":"۽ هن ياهوه جي نظرن ۾ ⟨ה⟩ برائي ڪئي، سڀ ڪجهه جيئن سندس پيءُ ڪيو هو.","tokens":[{"surface":"ויעש","gloss":"۽ ڪيائين"},{"surface":"הרע","gloss":"برائي"},{"surface":"בעיני","gloss":"جي نظرن ۾"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"ככל","gloss":"سڀ ڪجهه جيئن"},{"surface":"אשר","gloss":"جو"},{"surface":"עשה","gloss":"ڪيو"},{"surface":"אביו","gloss":"سندس پيءُ"}],"timestamp":"2026-08-30T11:47:12.815032Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 24:9",
+  "book": "2-kings",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ هن ياهوه جي نظر ۾ بڇڙائي ڪئي، سڀ ڪجهه جيئن سندس پيءُ ڪيو هو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "۽ هن ڪئي"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بڇڙائي"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "جي نظر ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سڀ ڪجهه جيئن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ڪيو هو"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "سندس پيءُ"
+    }
+  ],
+  "timestamp": "2026-08-30T23:39:59.173025990Z",
+  "model": "glm-5.3"
+}

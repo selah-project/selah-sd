@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":2,"ref":"isaiah 47:2","book":"isaiah","lang":"sd","chapter":47,"translation":"پيهڻيون وٺه ۽ اٽو پيهه؛ پنهنجو گهونگht کول، پنهنجو پلّو کڻ، پنهنجي سِر کول، دريا پار ڪر.","tokens":[{"surface":"קחי","gloss":"وٺه"},{"surface":"רחים","gloss":"پيهڻيون"},{"surface":"וטחני","gloss":"۽ پيهه"},{"surface":"קמח","gloss":"اٽو"},{"surface":"גלי","gloss":"کول"},{"surface":"צמתך","gloss":"پنهنجو گهونگht"},{"surface":"חשפי","gloss":"کڻ"},{"surface":"שבל","gloss":"پلّو"},{"surface":"גלי","gloss":"کول"},{"surface":"שוק","gloss":"سِر"},{"surface":"עברי","gloss":"پار ڪر"},{"surface":"נהרות","gloss":"دريا"}],"timestamp":"2026-08-30T14:54:01.714127290Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 47:2",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 47,
+  "translation": "پيھڻي وٺ ۽ اٽو پيھ، پنھنجو گھونگھٽ لاهه، پٺيون (ٽٻي) هٽاءِ، ٿنگ ظاھر ڪر، درياھن مان لنگھ.",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "وٺ"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "پيھڻي"
+    },
+    {
+      "surface": "וטחני",
+      "gloss": "۽ پيھ"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "اٽو"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "لاهه"
+    },
+    {
+      "surface": "צמתך",
+      "gloss": "پنھنجو گھونگھٽ"
+    },
+    {
+      "surface": "חשפי",
+      "gloss": "هٽاءِ"
+    },
+    {
+      "surface": "שבל",
+      "gloss": "پٺيون (ٽٻي)"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "ظاھر ڪر"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ٿنگ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "لنگھ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "درياھن مان"
+    }
+  ],
+  "timestamp": "2026-08-30T23:41:30.696748969Z",
+  "model": "glm-5.3"
+}

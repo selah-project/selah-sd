@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":17,"ref":"1-chronicles 7:17","book":"1-chronicles","lang":"sd","chapter":7,"translation":"۽ اُلام جا پُٽ <BE> بيدان. اِي ⟨هي⟩ گِلعاد جا پُٽ هُئا، مَخير جو پُٽ، مَنَشّهه جو پُٽ.","tokens":[{"surface":"ובני","gloss":"۽ اُلام جا پُٽ"},{"surface":"אולם","gloss":"اُلام"},{"surface":"בדן","gloss":"بيدان"},{"surface":"אלה","gloss":"اِي ⟨هي⟩"},{"surface":"בני","gloss":"جا پُٽ هُئا"},{"surface":"גלעד","gloss":"گِلعاد"},{"surface":"בן","gloss":"جو پُٽ"},{"surface":"מכיר","gloss":"مَخير"},{"surface":"בן","gloss":"جو پُٽ"},{"surface":"מנשה","gloss":"مَنَشّهه"}],"timestamp":"2026-08-30T14:13:21.037058375Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "۽ اولام جا پٽ — بيدان. اھي گلعاد جا پٽ ھئا، ماخير جو پٽ، منشه جو پٽ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "۽ … جا پٽ"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "اولام"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "بيدان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "جا پٽ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماخير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    }
+  ],
+  "timestamp": "2026-08-30T23:52:08.946589932Z",
+  "model": "glm-5.3"
+}

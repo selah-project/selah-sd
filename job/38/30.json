@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":30,"ref":"job 38:30","book":"job","lang":"sd","chapter":38,"translation":"پاڻيءَ پٿر وانگر لڪن ٿا، ۽ ቀላል سمنڊ جو منهن جَمي ٿو ويو.","tokens":[{"surface":"כאבן","gloss":"پٿر وانگر"},{"surface":"מים","gloss":"پاڻيءَ"},{"surface":"יתחבאו","gloss":"لڪن ٿا"},{"surface":"ופני","gloss":"۽ منهن"},{"surface":"תהום","gloss":"ቀላል سمنڊ جو (تهوم)"},{"surface":"יתלכדו","gloss":"جَمي ٿو ويو"}],"timestamp":"2026-08-30T13:45:05.710332732Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 38:30",
+  "book": "job",
+  "lang": "sd",
+  "chapter": 38,
+  "translation": "پاڻيءَ جيئن پٿر جھُلن ٿا، ۽ تهوم جو منهن قابو ٿي وڃي ٿو۔",
+  "tokens": [
+    {
+      "surface": "כאבן",
+      "gloss": "جيئن پٿر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پاڻيءَ"
+    },
+    {
+      "surface": "יתחבאו",
+      "gloss": "جھُلن ٿا"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "۽ منهن"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "تهوم جو"
+    },
+    {
+      "surface": "יתלכדו",
+      "gloss": "قابو ٿي وڃي ٿو"
+    }
+  ],
+  "timestamp": "2026-08-30T23:49:51.139744099Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":6,"ref":"1-chronicles 9:6","book":"1-chronicles","lang":"sd","chapter":9,"translation":"۽ زرah جي پٽن مان: يعوئيل ۽ سندن ڀائر — ڇهه سؤ ۽ نوي.","tokens":[{"surface":"ומן","gloss":"۽ … مان"},{"surface":"בני","gloss":"پٽن"},{"surface":"זרח","gloss":"زرah"},{"surface":"יעואל","gloss":"يعوئيل"},{"surface":"ואחיהם","gloss":"۽ سندن ڀائر"},{"surface":"שש","gloss":"ڇهه"},{"surface":"מאות","gloss":"سؤ"},{"surface":"ותשעים","gloss":"۽ نوي"}],"timestamp":"2026-08-30T14:14:27.563761643Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "sd",
+  "chapter": 9,
+  "translation": "۽ زرچ جي پٽن مان يعوئيل ۽ سندس ڀائر ٿيا، سِٽَھ سَو ۽ نوَي.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "۽ … مان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پٽن"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زرچ"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "يعوئيل"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "۽ سندس ڀائر"
+    },
+    {
+      "surface": "שש",
+      "gloss": "سِٽَھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "۽ نوَي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:52:08.003512141Z",
+  "model": "glm-5.3"
+}

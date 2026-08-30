@@ -5,33 +5,33 @@
   "book": "1-chronicles",
   "lang": "sd",
   "chapter": 6,
-  "translation": "يَخت جو پُٽ، گershom جو پُٽ، لاوي جو پُٽ۔",
+  "translation": "ياحث جو پٽ، گريشم جو پٽ، لوي جو پٽ.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "پُٽ"
+      "gloss": "پٽ"
     },
     {
       "surface": "יחת",
-      "gloss": "يَخت"
+      "gloss": "ياحث"
     },
     {
       "surface": "בן",
-      "gloss": "پُٽ"
+      "gloss": "پٽ"
     },
     {
       "surface": "גרשם",
-      "gloss": "گershom"
+      "gloss": "گريشم"
     },
     {
       "surface": "בן",
-      "gloss": "پُٽ"
+      "gloss": "پٽ"
     },
     {
       "surface": "לוי",
-      "gloss": "لاوي"
+      "gloss": "لوي"
     }
   ],
-  "timestamp": "2026-08-30T14:13:07.750516064Z",
+  "timestamp": "2026-08-30T23:52:02.448386906Z",
   "model": "glm-5.3"
 }

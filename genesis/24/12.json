@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":12,"ref":"genesis 24:12","book":"genesis","lang":"sd","chapter":24,"translation":"۽ چيائين: ”ياهوه، پنھنجي مالڪ ابراهام جا ايلوهيم! اَ сегодняш مون سان اَhead ڪر ۽ پنھنجي مالڪ ابراهام سان خيسيد ڪر.“","tokens":[{"surface":"ויאמר","gloss":"۽ چيائين"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"אלהי","gloss":"جا ايلوهيم"},{"surface":"אדני","gloss":"پنھنجي مالڪ"},{"surface":"אברהם","gloss":"ابراهام"},{"surface":"הקרה","gloss":"اَhead ڪر"},{"surface":"נא","gloss":"اَ сегодняш"},{"surface":"לפני","gloss":"مون سان"},{"surface":"היום","gloss":"اڄ"},{"surface":"ועשה","gloss":"۽ ڪر"},{"surface":"חסד","gloss":"خيسيد"},{"surface":"עם","gloss":"سان"},{"surface":"אדני","gloss":"پنھنجي مالڪ"},{"surface":"אברהם","gloss":"ابراهام"}],"timestamp":"2026-08-30T09:45:13.228558956Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 24:12",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "تنهن چيو: اي ياهوه، منهنجي سائڻ ابراهام جو ايلوهيم، اڄوڪي ڏينهن منهنجي اڳيان ملاقات ٿيڻ ڪر، ۽ خيسيد ڪر منهنجي سائڻ ابراهام سان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تنهن چيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "جو ايلوهيم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "منهنجي سائڻ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "הקרה",
+      "gloss": "ملاقات ٿيڻ ڪر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اڃان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "منهنجي اڳيان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اجوڪي ڏينهن"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "۽ ڪر"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خيسيد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "منهنجي سائڻ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    }
+  ],
+  "timestamp": "2026-08-30T23:30:24.257593167Z",
+  "model": "glm-5.3"
+}

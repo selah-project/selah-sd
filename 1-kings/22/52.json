@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":52,"ref":"1-kings 22:52","book":"1-kings","lang":"sd","chapter":22,"translation":"اHazزياهو پٽ احاب جو اسرائيل تي شومرون ۾ بادشاهي ڪرڻ لڳو، يهوشافط بادشاهه يهودا جي ستاويھين سال ۾؛ ۽ هو اسرائيل تي ٻه سال بادشاهي ڪري ٿو.","tokens":[{"surface":"אחזיהו","gloss":"اHazزياهو"},{"surface":"בן","gloss":"پٽ"},{"surface":"אחאב","gloss":"احاب"},{"surface":"מלך","gloss":"بادشاهي ڪرڻ لڳو"},{"surface":"על","gloss":"تي"},{"surface":"ישראל","gloss":"اسرائيل"},{"surface":"בשמרון","gloss":"شومرون ۾"},{"surface":"בשנת","gloss":"سال ۾"},{"surface":"שבע","gloss":"ست"},{"surface":"עשרה","gloss":"ڏهه"},{"surface":"ליהושפט","gloss":"يهوشافط جي"},{"surface":"מלך","gloss":"بادشاهه"},{"surface":"יהודה","gloss":"يهودا جي"},{"surface":"וימלך","gloss":"۽ بادشاهي ڪري ٿو"},{"surface":"על","gloss":"تي"},{"surface":"ישראל","gloss":"اسرائيل"},{"surface":"שנתים","gloss":"ٻه سال"}],"timestamp":"2026-08-30T11:37:09.923669657Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-kings 22:52",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "آحزياھو، پٽ احاب جو، يہوشعافٽ، بادشاھ يہوداھ جي، سترھين سال ۾ شمرون ۾ اسرائيل تي راڄ ڪيو، ۽ ٻه سال اسرائيل تي راڄ ڪيائين.",
+  "tokens": [
+    {
+      "surface": "אחזיהו",
+      "gloss": "آحزياھو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پٽ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "احاب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج ڪيو"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "شمرون ۾"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "سال ۾"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-十"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "يہوشعافٽ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاھ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يہوداھ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "۽ راڄ ڪيائين"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائيل"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ٻه سال"
+    }
+  ],
+  "timestamp": "2026-08-30T23:39:18.197229476Z",
+  "model": "glm-5.3"
+}

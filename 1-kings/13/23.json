@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":23,"ref":"1-kings 13:23","book":"1-kings","lang":"sd","chapter":13,"translation":"۽ ماني کائڻ کان پوءِ ۽ پيئڻ کان پوءِ هن هن لاءِ گڏهه ڪَڍي facilitates: اُن نبي لاءِ جنهن کي هو موٽائي آيو هو.","tokens":[{"surface":"ויהי","gloss":"۽ ٿيو"},{"surface":"אחרי","gloss":"پوءِ"},{"surface":"אכלו","gloss":"کائڻ"},{"surface":"לחם","gloss":"ماني"},{"surface":"ואחרי","gloss":"۽ پوءِ"},{"surface":"שתותו","gloss":"پيئڻ"},{"surface":"ויחבש","gloss":"ڪَڍيائين (زين ڏنائين)"},{"surface":"לו","gloss":"هن لاءِ"},{"surface":"החמור","gloss":"گڏهه"},{"surface":"לנביא","gloss":"نبي لاءِ"},{"surface":"אשר","gloss":"جنهن کي"},{"surface":"השיבו","gloss":"موٽائي آيو هو"}],"timestamp":"2026-08-30T11:32:51.306288365Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 13:23",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 13,
+  "translation": "۽ ٿيو، سندس ماني کائڻ کان پوءِ ۽ سندس پيئڻ کان پوءِ، پوڻيتي سندس لاءِ کَرھو ڪڍي ⟨את⟩، اُھو نبي جيڪو کائيس موڙيو ھو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پوءِ"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "کائڻ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ماني"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "۽ پوءِ"
+    },
+    {
+      "surface": "שתותו",
+      "gloss": "پيئڻ"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "ڪڍي (زين)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سندس لاءِ"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "کَرھو"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "نبي لاءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "موڙيو ھو"
+    }
+  ],
+  "timestamp": "2026-08-30T23:38:42.428457754Z",
+  "model": "glm-5.3"
+}

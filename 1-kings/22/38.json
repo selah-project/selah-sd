@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":38,"ref":"1-kings 22:38","book":"1-kings","lang":"sd","chapter":22,"translation":"۽ ⟨ڪنهن⟩ رٿ کي شومرون جي ڍنڍ ۾ ڌوئيو، ۽ ڪتن سندس رت چاٽيو — ⟨את⟩ سندس رت — ۽ زائفائن ⟨اُتي⟩ ڌوئيو، ياهوه جي اُن word موجب جيڪو ⟨هن⟩ چيو هو، ⟨את⟩ رٿ کي.","tokens":[{"surface":"וישטף","gloss":"۽ ڌوئيو"},{"surface":"את","gloss":"⟨את⟩","marks":"رٿ کي"},{"surface":"הרכב","gloss":"رٿ"},{"surface":"על","gloss":"۾\/تي"},{"surface":"ברכת","gloss":"ڍنڍ ۾"},{"surface":"שמרון","gloss":"شومرون"},{"surface":"וילקו","gloss":"۽ چاٽيو"},{"surface":"הכלבים","gloss":"ڪتن"},{"surface":"את","gloss":"⟨את⟩","marks":"سندس رت"},{"surface":"דמו","gloss":"سندس رت"},{"surface":"והזנות","gloss":"۽ زائفائن"},{"surface":"רחצו","gloss":"ڌوئيو"},{"surface":"כדבר","gloss":"word موجب"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"אשר","gloss":"جيڪو"},{"surface":"דבר","gloss":"چيو هو"}],"timestamp":"2026-08-30T11:37:17.045469815Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 22:38",
+  "book": "1-kings",
+  "lang": "sd",
+  "chapter": 22,
+  "translation": "۽ ⟨את⟩ رٿ کي شوءَ ڪري واڇيائون شمرون جي ڍنڍ تي؛ ۽ ڪتن سندس رتڙہ چاٽيو، ۽ ڪسبياڻيون ⟨اُتي⟩ نهايون، ياهوه جي اُن ڪلام جي موجب جيڪو ⟨پاڻ⟩ چيو هو.",
+  "tokens": [
+    {
+      "surface": "וישטף",
+      "gloss": "واڇيائون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رٿ"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "رٿ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ڍنڍ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شمرون"
+    },
+    {
+      "surface": "וילקו",
+      "gloss": "چاٽيو"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ڪتن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سنڌس رتڙہ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "سنڌس رتڙہ"
+    },
+    {
+      "surface": "והזנות",
+      "gloss": "۽ ڪسبياڻيون"
+    },
+    {
+      "surface": "רחצו",
+      "gloss": "نهايون"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ڪلام جي موجب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جيڪو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چيو"
+    }
+  ],
+  "timestamp": "2026-08-30T23:39:19.289634932Z",
+  "model": "glm-5.3"
+}

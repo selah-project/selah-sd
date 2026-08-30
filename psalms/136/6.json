@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "sd",
   "chapter": 136,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-30T13:23:10.911391677Z",
+  "translation": "جنهن زمين کي پاڻين مٿان پکيڙيو، ڇوته سدائين سندس خيسيد آهي.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "جنهن پکيڙيو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمين کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "مٿان"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پاڻين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوته"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "سدائين"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "سندس خيسيد آهي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:47:37.631795233Z",
   "model": "glm-5.3"
 }

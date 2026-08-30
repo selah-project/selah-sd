@@ -1,1 +1,92 @@
-{"tier":"glm-5.2","verse":50,"ref":"joshua 19:50","book":"joshua","lang":"sd","chapter":19,"translation":"ياهوه جي حڪم موجب کيس اها شهر ڏنائون جاڪو گهريو هو — ⟨את⟩ تمنت سيرح، اپفرaim جي جبل ۾؛ ۽ انهن ⟨את⟩ شهر کي ٺهرايائون ۽ ان ۾ رهڻ لڳو.","tokens":[{"surface":"על","gloss":"موجب"},{"surface":"פי","gloss":"حڪم"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"נתנו","gloss":"ڏنائون"},{"surface":"לו","gloss":"کيس"},{"surface":"את","gloss":"⟨את⟩","marks":"شهر"},{"surface":"העיר","gloss":"شهر"},{"surface":"אשר","gloss":"جا"},{"surface":"שאל","gloss":"گهريو هو"},{"surface":"את","gloss":"⟨את⟩","marks":"تمنت سيرح"},{"surface":"תמנת","gloss":"تمنت"},{"surface":"סרח","gloss":"سيرح"},{"surface":"בהר","gloss":"جبل ۾"},{"surface":"אפרים","gloss":"اپفرaim"},{"surface":"ויבנה","gloss":"۽ ٺهرايائون"},{"surface":"את","gloss":"⟨את⟩","marks":"شهر"},{"surface":"העיר","gloss":"شهر"},{"surface":"וישב","gloss":"۽ رهڻ لڳو"},{"surface":"בה","gloss":"ان ۾"}],"timestamp":"2026-08-30T14:43:31.299153716Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 19:50",
+  "book": "joshua",
+  "lang": "sd",
+  "chapter": 19,
+  "translation": "ياهوه جي حڪم موجب کيس اھي ⟨את⟩ شھر ڏنو جنھن لاءِھن پڇيو — ⟨את⟩ تمنت سرح، اپفريم جي جبل ۾؛ ۽ ان شھر کي ⟨את⟩ ٻيھر تعمير ڪيائين ۽ ان ۾ رھيو.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "פי",
+      "gloss": "حڪم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ڏنو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کيس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شھر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شھر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنھن"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پڇيو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمنت سرح"
+    },
+    {
+      "surface": "תמנת",
+      "gloss": "تمنت"
+    },
+    {
+      "surface": "סרח",
+      "gloss": "سرح"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "جبل ۾"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپفريم"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "۽ تعمير ڪيائين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شھر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شھر"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "۽ رھيو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ان ۾"
+    }
+  ],
+  "timestamp": "2026-08-30T23:35:40.583352101Z",
+  "model": "glm-5.3"
+}

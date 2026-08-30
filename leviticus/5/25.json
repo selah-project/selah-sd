@@ -5,58 +5,58 @@
   "book": "leviticus",
   "lang": "sd",
   "chapter": 5,
-  "translation": "۽ ⟨את⟩ پنهنجو ashem (گناهه- offering) ياهوه ڏانهن کڻي ايندو — ڍڳو ڪامل مينهن جي ڪوٺيءَ مان، تنهنجي価 estimation موجب، guilt-offering طور، ڪاهن ڏانهن.",
+  "translation": "۽ ⟨את⟩ پنھنجي گناهه-قرباني ياهوه ڏانھن آندي — مينھن جي ڳئون مان پورھيو (بلا عيب) رڪ، تنھنجي اندازي موجب، گناهه-قرباني طور، ڪاھنءَ وٽ.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "پنهنجو ashem (گناهه-offering)"
+      "marks": "پنھنجي گناهه-قرباني"
     },
     {
       "surface": "אשמו",
-      "gloss": "پنهنجو ashem (گناهه-offering)"
+      "gloss": "پنھنجي گناهه-قرباني"
     },
     {
       "surface": "יביא",
-      "gloss": "کڻي ايندو"
+      "gloss": "آندي"
     },
     {
       "surface": "ליהוה",
-      "gloss": "ياهوه ڏانهن"
+      "gloss": "ياهوه ڏانھن"
     },
     {
       "surface": "איל",
-      "gloss": "ڍڳو"
+      "gloss": "رڪ (مينھن) جي ڳئون مان"
     },
     {
       "surface": "תמים",
-      "gloss": "ڪامل"
+      "gloss": "پورھيو (بلا عيب)"
     },
     {
       "surface": "מן",
       "gloss": "مان"
     },
     {
-      "surface": "הצאן",
-      "gloss": "مينهن جي ڪوٺي"
+      "surface": "הצאن",
+      "gloss": "ڳئون"
     },
     {
       "surface": "בערכך",
-      "gloss": "تنهنجي estimation موجب"
+      "gloss": "تنھنجي اندازي موجب"
     },
     {
       "surface": "לאשם",
-      "gloss": "guilt-offering طور"
+      "gloss": "گناهه-قرباني طور"
     },
     {
       "surface": "אל",
-      "gloss": "ڏانهن"
+      "gloss": "وٽ"
     },
     {
       "surface": "הכהן",
-      "gloss": "ڪاهن"
+      "gloss": "ڪاھن"
     }
   ],
-  "timestamp": "2026-08-30T10:12:25.002314404Z",
+  "timestamp": "2026-08-30T23:32:41.765466102Z",
   "model": "glm-5.3"
 }

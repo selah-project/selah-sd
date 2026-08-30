@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "تن چوڻ لاءِ چيائون: ناڻيءَ کي سڏيون ۽ سندس واتان ⟨את⟩ پڇيون.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "چيائون"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "سڏيون"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ناڻيءَ کي"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "پڇيون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندس وات (پيها)"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "سندس وات"
+    }
+  ],
+  "timestamp": "2026-08-30T23:28:28.512414586Z",
+  "model": "glm-5.3"
+}

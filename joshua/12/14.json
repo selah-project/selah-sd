@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "sd",
   "chapter": 12,
-  "translation": "حormah جو بادشاھ، ھڪ؛ عراد جو بادشاھ، ھڪ؛",
+  "translation": "حورما جو بادشاھ ⟨هڪ⟩؛ عراد جو بادشاھ ⟨هڪ⟩.",
   "tokens": [
     {
       "surface": "מלך",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "חרמה",
-      "gloss": "حormah"
+      "gloss": "حورما"
     },
     {
       "surface": "אחד",
-      "gloss": "ھڪ"
+      "gloss": "هڪ"
     },
     {
       "surface": "מלך",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "אחד",
-      "gloss": "ھڪ"
+      "gloss": "هڪ"
     }
   ],
-  "timestamp": "2026-08-30T10:52:10.901802951Z",
+  "timestamp": "2026-08-30T23:35:38.261246417Z",
   "model": "glm-5.3"
 }

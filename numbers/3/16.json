@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 3,
+  "translation": "پوءِ موشي ياهوه جي وات موجب ⟨את⟩ کين ڳڻيو، جيئن کيس حڪم ڏنو ويو هو.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ڳڻيو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "کين (لاوي جي پٽ)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "על",
+      "gloss": "موجب"
+    },
+    {
+      "surface": "פי",
+      "gloss": "وات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جيئن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حڪم ڏنو ويو هو"
+    }
+  ],
+  "timestamp": "2026-08-30T23:28:28.497617916Z",
+  "model": "glm-5.3"
+}

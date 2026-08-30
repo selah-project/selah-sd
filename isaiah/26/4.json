@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":4,"ref":"isaiah 26:4","book":"isaiah","lang":"sd","chapter":26,"translation":"ياهوه تي هميشھن، هميشھن ڀا ruth ڪريو؛ ڇوته ياه ۾، ياهوه ۾، آھي عمرَ جو چٽان.","tokens":[{"surface":"בטחו","gloss":"ڀروسو ڪريو"},{"surface":"ביהוה","gloss":"ياهوه تي"},{"surface":"עדי","gloss":"هميشھن، هميشھن تائين"},{"surface":"עד","gloss":"هميشھن"},{"surface":"כי","gloss":"ڇوته"},{"surface":"ביה","gloss":"ياه ۾"},{"surface":"יהוה","gloss":"ياهوه ۾"},{"surface":"צור","gloss":"چٽان"},{"surface":"עולמים","gloss":"عمرَ جو"}],"timestamp":"2026-08-30T11:53:51.186994896Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "sd",
+  "chapter": 26,
+  "translation": "ياهوه تي ٻُڌو رکو ابدَ تائين، ڇوٺه ياه ياهوه ۾ ⟨את⟩ ابدن جي چٽان آهي.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "ٻُڌو رکو"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ياهوه تي"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "تائين"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ابدَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ڇوٺه"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "ياه ۾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צור",
+      "gloss": "چٽان"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ابدن جي"
+    }
+  ],
+  "timestamp": "2026-08-30T23:40:30.837597446Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 12:3","book":"psalms","lang":"sd","chapter":12,"translation":"ڪوڙ ڳالھيون ٿا ڪن ھر ماڻھو پنھنجي سنگتي سان، چپن جي makeup نرم زبان سان، دل ۽ دل سان ڳالھيا ٿا ڪن.","tokens":[{"surface":"שוא","gloss":"ڪوڙ"},{"surface":"ידברו","gloss":"ڳالھيون ٿا ڪن"},{"surface":"איש","gloss":"ھر ماڻھو"},{"surface":"את","gloss":"⟨את⟩","marks":"پنھنجي سنگتي"},{"surface":"רעהו","gloss":"پنھنجي سنگتي"},{"surface":"שפת","gloss":"چپن جي"},{"surface":"חלקות","gloss":"نرم چاپلوسي"},{"surface":"בלב","gloss":"دل سان"},{"surface":"ולב","gloss":"۽ دل"},{"surface":"ידברו","gloss":"ڳالھيا ٿا ڪن"}],"timestamp":"2026-08-30T13:00:32.291685429Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "sd",
+  "chapter": 12,
+  "translation": "کوڙ ڳالھيندا آھن ھر ھڪ ماڻھو پنھنجي ساٿيءَ سان ⟨את⟩؛ نرم ۽ٺاڻ وارا ھونڌ، دل ۽ ٻي دل سان ڳالھيندا آھن.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "کوڙ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ڳالھيندا آھن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ھر ھڪ ماڻھو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجي ساٿيءَ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "پنھنجي ساٿيءَ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ھونڌ"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "نرم ۽ٺاڻ وارا"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "۽ ٻي دل"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ڳالھيندا آھن"
+    }
+  ],
+  "timestamp": "2026-08-30T23:46:16.643828402Z",
+  "model": "glm-5.3"
+}

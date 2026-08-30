@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "sd",
   "chapter": 81,
-  "translation": "مقابل لاءِ، گتي instrument تي، آساف جي لاءِ.",
+  "translation": "مقصد لاءِ — گتيت واري ساز تي — آصف جي طرفان.",
   "tokens": [
     {
       "surface": "למנצח",
-      "gloss": "مقابل لاءِ"
+      "gloss": "مقصد لاءِ"
     },
     {
       "surface": "על",
@@ -17,13 +17,13 @@
     },
     {
       "surface": "הגתית",
-      "gloss": "گتي instrument (هگتيث)"
+      "gloss": "گتيت واري ساز"
     },
     {
       "surface": "לאסף",
-      "gloss": "آساف جي لاءِ"
+      "gloss": "آصف جي طرفان"
     }
   ],
-  "timestamp": "2026-08-30T13:13:02.758819483Z",
+  "timestamp": "2026-08-30T23:46:44.035999120Z",
   "model": "glm-5.3"
 }

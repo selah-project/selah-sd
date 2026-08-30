@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":7,"ref":"leviticus 24:7","book":"leviticus","lang":"sd","chapter":24,"translation":"۽ تون هر قطار تي صاف لوBan رکندی؛ اها مانيءَ لاءِ يادگيري ٿيندي، ياهوه لاءِ باهه جي قرباني.","tokens":[{"surface":"ונתת","gloss":"۽ تون رکندی"},{"surface":"על","gloss":"تي"},{"surface":"המערכת","gloss":"⟨the⟩ قطار"},{"surface":"לבנה","gloss":"لوBan (لُبان)"},{"surface":"זכה","gloss":"صاف"},{"surface":"והיתה","gloss":"۽ اها ٿيندي"},{"surface":"ללחם","gloss":"مانيءَ لاءِ"},{"surface":"לאזכרה","gloss":"يادگيري"},{"surface":"אשה","gloss":"باهه جي قرباني"},{"surface":"ליהוה","gloss":"ياهوه لاءِ"}],"timestamp":"2026-08-30T10:20:23.032204491Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 24:7",
+  "book": "leviticus",
+  "lang": "sd",
+  "chapter": 24,
+  "translation": "۽ تون صف تي صاف لُبان رکندڙ، ۽ اها مانيءَ لاءِ يادگيري ٿيندي — باهه جي قرباني ياهوه لاءِ۔",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "۽ تون رکندڙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "صف"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لُبان"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "صاف"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "۽ اها ٿيندي"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "مانيءَ لاءِ"
+    },
+    {
+      "surface": "לאזכרה",
+      "gloss": "يادگيري"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "باهه جي قرباني"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه لاءِ"
+    }
+  ],
+  "timestamp": "2026-08-30T23:33:30.218030800Z",
+  "model": "glm-5.3"
+}

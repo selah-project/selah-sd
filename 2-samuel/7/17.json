@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "sd",
+  "chapter": 7,
+  "translation": "سڀني انهن لفظن موجب ۽ سڄي انهيءَ نظرِيءَ موجب، تيئن ناثان داوود سان ڳالهايو.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "سڀني … موجب"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لفظن"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "انهن"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "۽ سڄي … موجب"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "نظرِيءَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "انهيءَ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "تيئن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ڳالهايو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناثان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سان"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    }
+  ],
+  "timestamp": "2026-08-30T23:29:02.163512001Z",
+  "model": "glm-5.3"
+}

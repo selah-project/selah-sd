@@ -1,1 +1,12 @@
-{"tier":"glm-5.2","verse":27,"ref":"numbers 28:27","book":"numbers","lang":"sd","chapter":28,"translation":"۽ توهان ياهوه لاءِ خوشبوءِ طور هڪ سوڙ قرباني پيش ڪريو: ڍڳن جا ٻه پُٽ، هڪ اُٺڪ، هڪ سال جا سَت لَڀَرَ.","tokens":[{"surface":"והקרבתם","gloss":"۽ توهان پيش ڪريو"},{"surface":"עולה","gloss":"سوڙ قرباني"},{"surface":"לריח","gloss":"خوشبوءِ طور"},{"surface":"ניחח","gloss":"سک ڏيندڙ"},{"surface":"ליהוה","gloss":"ياهوه لاءِ"},{"surface":"פרים","gloss":"ڍڳا"},{"surface":"בני","gloss":"پُٽ"},{"surface":"בקר","gloss":"ڍڳن جا"},{"surface":"שנים","gloss":"ٻه"},{"surface":"איל","gloss":"اُٺڪ ( ram )"},{"surface":"אחד","gloss":"هڪ"},{"surface":"שבעה","gloss":"سَت"},{"surface":"כבשים","gloss":"لَڀَرَ"},{"surface":"בני","gloss":"پُٽ"},{"surface":"שנה","gloss":"سال جا"}],"timestamp":"2026-08-30T10:32:52.651951194Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 28:27",
+  "book": "numbers",
+  "lang": "sd",
+  "chapter": 28,
+  "translation": "۽ توهان ياهوه لاءِ ريهه نيهه طور هڪ سوپڻ (عولاه) پيش ڪريو: ٻه ڳئون، ڍڳن جا پٽ، هڪ رmdz، ست ٻڪرار، هڪ سال جا پٽ.",
+  "tokens": [],
+  "timestamp": "2026-08-30T23:34:32.035246233Z",
+  "model": "glm-5.3"
+}

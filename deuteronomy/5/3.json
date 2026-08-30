@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":3,"ref":"deuteronomy 5:3","book":"deuteronomy","lang":"sd","chapter":5,"translation":"نه، ⟨את⟩ اسان جي پيڙهين سان ياهوه هي عهد ⟨is⟩ نه ڪيو، پر ⟨את⟩ اسان سان، اسان — اِي، هِتي، اڄ، اسان سڀ جِيوا ⟨are⟩.","tokens":[{"surface":"לא","gloss":"نه"},{"surface":"את","gloss":"⟨את⟩ سان"},{"surface":"אבתינו","gloss":"اسان جي پيڙهين"},{"surface":"כרת","gloss":"ڪيو"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"את","gloss":"⟨את⟩","marks":"هي عهد"},{"surface":"הברית","gloss":"هي عهد"},{"surface":"הזאת","gloss":"هي"},{"surface":"כי","gloss":"پر"},{"surface":"אתנו","gloss":"⟨את⟩ اسان سان"},{"surface":"אנחנו","gloss":"اسان"},{"surface":"אלה","gloss":"اِي"},{"surface":"פה","gloss":"هِتي"},{"surface":"היום","gloss":"اڄ"},{"surface":"כלנו","gloss":"اسان سڀ"},{"surface":"חיים","gloss":"جِيوا"}],"timestamp":"2026-08-30T10:37:42.676742400Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "sd",
+  "chapter": 5,
+  "translation": "نالو ياهوه ⟨את⟩ هن عهد کي اسان جي پيؤن سان نه ڪيو، پر اسان سان — اسان، اِھي، ھتي، اِنھيءَ ڏينھن، اسان سڀ جيئرا آھيون.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسان جي پيؤن"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "اسان جي پيؤن"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ڪيو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هن عهد کي"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "هن عهد"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ اسان سان"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِھي"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ھتي"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اِنھيءَ ڏينھن"
+    },
+    {
+      "surface": "כלנو",
+      "gloss": "اسان سڀ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جيئرا"
+    }
+  ],
+  "timestamp": "2026-08-30T23:35:00.660308663Z",
+  "model": "glm-5.3"
+}

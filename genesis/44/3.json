@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "sd",
+  "chapter": 44,
+  "translation": "صبح جي اُجالي سان ⟨ٿي⟩ ماڻھن کي روانو ڪيو ويو، اُھي ۽ پنھنجا گڏھ.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "אור",
+      "gloss": "اُجالي"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "۽ ماڻھن"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "روانو ڪيو ويو"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اُھي"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "۽ پنھنجا گڏھ"
+    }
+  ],
+  "timestamp": "2026-08-30T23:28:32.780083677Z",
+  "model": "glm-5.3"
+}
