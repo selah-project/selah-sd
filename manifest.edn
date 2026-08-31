@@ -1,0 +1,91 @@
+#:rendering{:label "سنڌي",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305496},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:rendering/people
+              :role
+              :rendering/process
+              :rendering/checks]},
+            :role :served,
+            :produced {:from "2026-08-30", :to "2026-08-31"},
+            :people
+            {:ruled-by "Scott",
+             :shovel "Claude (Fable 5)",
+             :assayer "Codex"},
+            :id "sd.v1",
+            :catalog {:ui "resources/i18n/ui/sd.edn"},
+            :license "CC BY-SA 4.0 (The Selah Sindhi Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/sd.md",
+             :rails-commit "29ac04ab",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "ادوناي",
+              "אל" "ايل",
+              "אלהים" "ايلوهيم",
+              "אלוה" "ايلوه",
+              "יה" "ياه",
+              "יהוה" "ياهوه",
+              "שדי" "شداي"},
+             :open-questions []},
+            :status :live,
+            :checks
+            {:census
+             {:yahwe 5800,
+              :elohim 2184,
+              :khudawand 0,
+              :rabb 0,
+              :yahowah 0,
+              :leaks :all-zeros,
+              :review-floor {:khuda 7, :allah 0}},
+             :aleph-tav {:verses 7444},
+             :alignment {:misaligned 0}},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-sd",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :sd,
+            :process
+            [{:stage :burn, :tool "relay-move-on!", :verses 23131}
+             {:stage :stubborn, :verses 82}
+             {:stage :repairs, :surfaces 3890, :aleph-tav true}
+             {:stage :gleaning, :rounds 3, :verses [1233 132 33]}
+             {:stage :hand, :verses 7, :notes "NOTES.md"}
+             {:stage :tekoa, :kept 7, :healed 6}]}
