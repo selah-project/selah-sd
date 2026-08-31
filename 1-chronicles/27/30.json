@@ -5,41 +5,41 @@
   "book": "1-chronicles",
   "lang": "sd",
   "chapter": 27,
-  "translation": "۽ اُٺن تي اوبيل يشمائيلي هو،۽ gadaydonkeye تي يحديياهو مرونوثي هو۔",
+  "translation": "۽ اٺن تي يِحدِياهو، مِرونٿي وارو؛ ۽ ٻڪريءَ تي يزيد، هاگري وارو.",
   "tokens": [
     {
-      "surface": "ועל",
+      "surface": "וְעַל",
       "gloss": "۽ ... تي"
     },
     {
-      "surface": "הגמלים",
-      "gloss": "اُٺن"
+      "surface": "הַגְּמַלִּים",
+      "gloss": "اٺن"
     },
     {
-      "surface": "אוביל",
-      "gloss": "اوبيل"
+      "surface": "אוֹבִיל",
+      "gloss": "اوُبيل"
     },
     {
-      "surface": "הישמעלי",
-      "gloss": "يشمائيلي"
+      "surface": "הַיִּשְׁמְעֵלִי",
+      "gloss": "يشمعيلي وارو"
     },
     {
-      "surface": "ועל",
+      "surface": "וְעַל",
       "gloss": "۽ ... تي"
     },
     {
-      "surface": "האתנות",
-      "gloss": "gadaydonkeye"
+      "surface": "הָאֲתֹנוֹת",
+      "gloss": "ڳئن"
     },
     {
-      "surface": "יחדיהו",
-      "gloss": "يحديياهو"
+      "surface": "יֶחְדְּיָהוּ",
+      "gloss": "يِحدِياهو"
     },
     {
-      "surface": "המרנתי",
-      "gloss": "مرونوثي"
+      "surface": "הַמֵּרֹנֹתִי",
+      "gloss": "مِرونٿي وارو"
     }
   ],
-  "timestamp": "2026-08-30T23:52:24.518037726Z",
+  "timestamp": "2026-08-30T23:56:59.140142130Z",
   "model": "glm-5.3"
 }

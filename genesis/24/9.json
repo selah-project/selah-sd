@@ -5,8 +5,62 @@
   "book": "genesis",
   "lang": "sd",
   "chapter": 24,
-  "translation": "پوءِ ع bout ⟨اِ⟩ …",
-  "tokens": [],
-  "timestamp": "2026-08-30T23:30:10.274051470Z",
+  "translation": "۽ ٻانھي پنھنجي هٿ کي ابراهام پنھنجي مالڪ جي رانھ هيٺان رکيو ۽ هن کي هن ڳالھ تي قسم کاڌو.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "رکيو"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ٻانھي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنھنجي هٿ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "پنھنجي هٿ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "هيٺان"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "رانھ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "پنھنجي مالڪ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "قسم کاڌو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هن کي"
+    },
+    {
+      "surface": "על",
+      "gloss": "تي"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "هن ڳالھ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هن"
+    }
+  ],
+  "timestamp": "2026-08-30T23:54:58.478625731Z",
   "model": "glm-5.3"
 }

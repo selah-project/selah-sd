@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "sd",
   "chapter": 15,
-  "translation": "چٽو آھي ٿورو ياهوه جي fear ۾، وڏي خزاني کان ۽ ان ۾ مھاڳ سان.",
+  "translation": "ٿورو، ياهوه جي ڊپ ۾، چڱو آھي — وڏي خزانن کان ۽ ان ۾ گھٻگھٻاٽ کان.",
   "tokens": [
     {
       "surface": "טוב",
-      "gloss": "چٽو آھي"
+      "gloss": "چڱو آھي"
     },
     {
       "surface": "מעט",
@@ -17,29 +17,29 @@
     },
     {
       "surface": "ביראת",
-      "gloss": "fear ۾"
+      "gloss": "جي ڊپ ۾"
     },
     {
       "surface": "יהוה",
-      "gloss": "ياهوه جي"
+      "gloss": "ياهوه"
     },
     {
       "surface": "מאוצר",
-      "gloss": "کان وڏي خزاني"
+      "gloss": "کان"
     },
     {
       "surface": "רב",
-      "gloss": "وڏو"
+      "gloss": "وڏي خزانن"
     },
     {
       "surface": "ומהומה",
-      "gloss": "۽ مھاڳ"
+      "gloss": "۽ گھٻگھٻاٽ"
     },
     {
       "surface": "בו",
       "gloss": "ان ۾"
     }
   ],
-  "timestamp": "2026-08-30T23:47:49.301049887Z",
+  "timestamp": "2026-08-30T23:57:19.777453911Z",
   "model": "glm-5.3"
 }

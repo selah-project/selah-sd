@@ -5,28 +5,28 @@
   "book": "genesis",
   "lang": "sd",
   "chapter": 37,
-  "translation": "۽ سندس  مصر ۾.",
+  "translation": "۽ سندس ڀائرڻ ويا ⟨את⟩ پنهنجي پيءُ جي ڍڳن جي چارائي ڪرڻ لاءِ شڪم ۾.",
   "tokens": [
     {
       "surface": "וילכו",
-      "gloss": "۽ هليا ويا"
+      "gloss": "۽ ويا"
     },
     {
       "surface": "אחיו",
-      "gloss": "سندس ڀائر"
+      "gloss": "سندس ڀائرڻ"
     },
     {
       "surface": "לרעות",
-      "gloss": "چارڻ لاءِ"
+      "gloss": "چارائي ڪرڻ لاءِ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": " resent "
+      "marks": "ڍڳن"
     },
     {
       "surface": "צאן",
-      "gloss": " resent جي ٽولي"
+      "gloss": "ڍڳن"
     },
     {
       "surface": "אביהם",
@@ -34,9 +34,9 @@
     },
     {
       "surface": "בשכם",
-      "gloss": " مصر ۾"
+      "gloss": "شڪم ۾"
     }
   ],
-  "timestamp": "2026-08-30T23:30:35.132813931Z",
+  "timestamp": "2026-08-30T23:54:56.988503661Z",
   "model": "glm-5.3"
 }
