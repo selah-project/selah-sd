@@ -25,3 +25,8 @@
 ## لائسنس ۽ جاچ
 
 ڀاڱيداريءَ سان توهان قبول ڪريو ٿا ته هر قبول ٿيل شيءِ [CC BY-SA 4.0](LICENSE.md) هيٺ ڇپجي ٿي. Git جي تاريخ رڪارڊ ۽ دليل کليل رکي ٿي. نظرثان رٿن کي عبراني، قاعدن، حوالن ۽ سڌائيءَ موجب جاچين ٿا.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
