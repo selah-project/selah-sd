@@ -39,7 +39,7 @@
 
 ## سيلاه جي سهائتا
 
-هي ترجمو CC BY-SA 4.0 لائسنس هيٺ کليل آهي. جيڪڏهن هي ڪم توهان لاءِ ڪارائتو آهي ۽ توهان ترجمي، نظرثاني، اشاعت ۽ واڌ جي سهائتا ڪرڻ چاهيو ٿا — ڏسو: [selahproject.com/support](https://selahproject.com/support)
+هي ترجمو CC BY-SA 4.0 لائسنس هيٺ کليل آهي. جيڪڏهن هي ڪم توهان لاءِ ڪارائتو آهي ۽ توهان ترجمي، نظرثاني، اشاعت ۽ واڌ جي سهائتا ڪرڻ چاهيو ٿا — ڏسو: [s33k3r.com/learn/support](https://s33k3r.com/learn/support)
 
 ## نظرثانيءَ لاءِ اچو
 
@@ -47,6 +47,6 @@
 
 ## Selah
 
-- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
-- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
-- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- The languages of Selah — every chair, native name and status: https://s33k3r.com/learn/languages/index
+- How the renderings are made — the process, the discipline, the receipts: https://s33k3r.com/learn/data-sources/selah-renderings
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://s33k3r.com/learn/data-sources/oshb-wlc

@@ -6,7 +6,7 @@
 
 - جيڪڏهن لفظ تي بحث گهرجي، يا هڪ کان وڌيڪ پڙهڻيون هجن — **Issue** کوليو.
 - جيڪڏهن غلطي ۽ سڌارو ٻئي چٽا هجن — **Pull request** کوليو.
-- سافٽ ويئر يا حفاظت جي سوالن لاءِ — [Selah Support](https://selahproject.com/support).
+- سافٽ ويئر يا حفاظت جي سوالن لاءِ — [Selah Support](https://s33k3r.com/learn/support).
 
 ## فائيلن جي سڌاري جا قاعدا
 
